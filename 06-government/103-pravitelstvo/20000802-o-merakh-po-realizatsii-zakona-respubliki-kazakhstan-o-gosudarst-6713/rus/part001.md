@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/6713/rus/23.08.2004
+source: https://zan.gov.kz/client/#!/doc/6713/rus/25.08.2004
 ---
 
 ## Правила оборота оружия и патронов к нему в Республике Казахстан 1. Общие положения
