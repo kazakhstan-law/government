@@ -13,6 +13,11 @@ approval_date: 2000-10-11
 version_date: 2000-10-11
 registry_number: '7530'
 source: https://zan.gov.kz/client/#!/doc/7530/rus/11.10.2000
+repealed_on: 2005-03-26
+repealed_by:
+  code: '7530'
+  title: О некоторых мерах по защите прав и охраняемых законом интересов инвесторов на рынке ценных бумаг
+  link: https://zan.gov.kz/client/#!/doc/7530/rus
 ---
 
 # О некоторых мерах по защите прав и охраняемых законом интересов инвесторов на рынке ценных бумаг
