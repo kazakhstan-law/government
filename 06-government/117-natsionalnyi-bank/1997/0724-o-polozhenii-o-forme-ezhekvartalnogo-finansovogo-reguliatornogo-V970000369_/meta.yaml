@@ -16,7 +16,10 @@ versions:
 - date: 1997-07-24
   languages:
   - rus
+- date: 1997-08-28
+  languages:
+  - kaz
 version_date:
-  rus: 1997-07-24
+  kaz: 1997-08-28
 source:
-  rus: https://zan.gov.kz/client/#!/doc/4389/rus/24.07.1997
+  kaz: https://zan.gov.kz/client/#!/doc/4389/kaz/28.08.1997
