@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/8022/rus/26.01.2002
+source: https://zan.gov.kz/client/#!/doc/8022/rus/03.09.2002
 ---
 
 # Вопросы Министерства экономики и торговли Республики Казахстан
