@@ -19,9 +19,21 @@ versions:
   languages:
   - kaz
   - rus
+- date: 1996-01-24
+  languages:
+  - kaz
+  cause:
+    code: '82805'
+    key: P960000088_
 version_date:
-  kaz: 1994-07-10
-  rus: 1994-07-10
+  kaz: 1996-01-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/729/kaz/10.07.1994
-  rus: https://zan.gov.kz/client/#!/doc/729/rus/10.07.1994
+  kaz: https://zan.gov.kz/client/#!/doc/729/kaz/24.01.1996
+caused_by:
+  code: '82805'
+  key: P960000088_
+  requisite: Постановление Правительства Республики Казахстан от 24 января 1996 г. N 88
+  title:
+    rus: О совершенствовании архитектурно-градостроительного контроля в Республике Казахстан
+    kaz: Қазақстан Республикасында сәулет-қала құрылысы бақылауын жетiлдiру туралы
+  link: https://zan.gov.kz/client/#!/doc/82805/rus
