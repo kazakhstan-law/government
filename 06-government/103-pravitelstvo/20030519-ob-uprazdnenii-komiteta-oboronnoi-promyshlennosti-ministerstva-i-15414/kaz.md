@@ -1,5 +1,5 @@
 ---
-version_id: AI15414_4
+version_id: AI15414_5
 act_code: '15414'
 language: kaz
 title: Қазақстан Республикасы Индустрия және сауда министрлiгінiң Қорғаныс өнеркәсiбi комитетiн тарату туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2003-05-19
-version_date: 2004-11-16
+version_date: 2004-11-26
 registry_number: '15414'
-source: https://zan.gov.kz/client/#!/doc/15414/kaz/16.11.2004
+caused_by:
+  code: '21951'
+  title: Қазақстан Республикасы Индустрия және жаңа технологиялар министрлігінiң кейбiр мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/21951/kaz
+source: https://zan.gov.kz/client/#!/doc/15414/kaz/26.11.2004
 ---
 
 # Қазақстан Республикасы Индустрия және сауда министрлiгінiң Қорғаныс өнеркәсiбi комитетiн тарату туралы
