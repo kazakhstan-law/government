@@ -1,0 +1,17 @@
+act_code: '9461'
+requisite: Постановление Правительства Республики Казахстан от 10 июля 2001 года N 932
+title:
+  rus: О некоторых вопросах недропользования
+  kaz: Жер қойнауын пайдаланудың кейбір мәселелері туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2001-07-09
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2001-07-09
+  rus: 2001-07-09
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/9461/kaz/09.07.2001
+  rus: https://zan.gov.kz/client/#!/doc/9461/rus/09.07.2001
