@@ -10,6 +10,15 @@ approved_on: 1997-06-12
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1997-06-12
+  kaz: 2001-03-25
+  rus: 2001-03-25
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1909/rus/12.06.1997
+  kaz: https://zan.gov.kz/client/#!/doc/1909/kaz/25.03.2001
+  rus: https://zan.gov.kz/client/#!/doc/1909/rus/25.03.2001
+caused_by:
+  code: '8414'
+  requisite: Постановление Правительства Республики Казахстан от 25 марта 2001 года № 379
+  title:
+    rus: Некоторые вопросы создания Центра депонирования и генерации шифрключей
+    kaz: Шифрлі кілттерді депозитке салу және генерациялау орталығын құрудың кейбір мәселелері
+  link: https://zan.gov.kz/client/#!/doc/8414/rus
