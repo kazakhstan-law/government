@@ -10,8 +10,10 @@ approved_on: 1993-08-12
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1993-08-12
-  rus: 1993-08-12
+  kaz: 2001-11-26
+  rus: 2001-11-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/261/kaz/12.08.1993
-  rus: https://zan.gov.kz/client/#!/doc/261/rus/12.08.1993
+  kaz: https://zan.gov.kz/client/#!/doc/261/kaz/26.11.2001
+  rus: https://zan.gov.kz/client/#!/doc/261/rus/26.11.2001
+caused_by:
+  code: P010001518_
