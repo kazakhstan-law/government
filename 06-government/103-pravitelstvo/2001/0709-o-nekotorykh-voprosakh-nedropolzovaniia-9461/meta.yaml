@@ -10,8 +10,13 @@ approved_on: 2001-07-09
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-07-09
-  rus: 2001-07-09
+  rus: 2001-11-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9461/kaz/09.07.2001
-  rus: https://zan.gov.kz/client/#!/doc/9461/rus/09.07.2001
+  rus: https://zan.gov.kz/client/#!/doc/9461/rus/07.11.2001
+caused_by:
+  code: '10307'
+  requisite: Постановление Правительства Республики Казахстан от 7 ноября 2001 года N 1415
+  title:
+    rus: О некоторых вопросах недропользования
+    kaz: Жер қойнауын пайдаланудың кейбiр мәселелерi туралы
+  link: https://zan.gov.kz/client/#!/doc/10307/rus
