@@ -11,6 +11,15 @@ approved_on: 1994-12-22
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1994-12-22
+  kaz: 2000-11-14
+  rus: 2000-11-14
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2232/rus/22.12.1994
+  kaz: https://zan.gov.kz/client/#!/doc/2232/kaz/14.11.2000
+  rus: https://zan.gov.kz/client/#!/doc/2232/rus/14.11.2000
+caused_by:
+  code: '7343'
+  requisite: Постановление Правительства Республики Казахстан от 14 ноября 2000 года N 1712
+  title:
+    rus: Об использовании отдельных видов водных беспозвоночных животных в Республике Казахстан
+    kaz: Қазақстан Республикасында омыртқасыз су жәндiктерiнiң кейбiр түрлерiн пайдалану туралы
+  link: https://zan.gov.kz/client/#!/doc/7343/rus
