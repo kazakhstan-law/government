@@ -10,8 +10,15 @@ approved_on: 2003-12-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-12-05
-  rus: 2003-12-05
+  kaz: 2004-10-27
+  rus: 2004-10-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17708/kaz/05.12.2003
-  rus: https://zan.gov.kz/client/#!/doc/17708/rus/05.12.2003
+  kaz: https://zan.gov.kz/client/#!/doc/17708/kaz/27.10.2004
+  rus: https://zan.gov.kz/client/#!/doc/17708/rus/27.10.2004
+caused_by:
+  code: '21698'
+  requisite: Постановление Правительства Республики Казахстан от 28 октября 2004 года N 1113. Утратило силу постановлением Правительства Республики Казахстан от 8 декабря 2007 года N 1201
+  title:
+    rus: Вопросы Министерства охраны окружающей среды Республики Казахстан
+    kaz: Қазақстан Республикасы Қоршаған ортаны қорғау министрлiгiнiң мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/21698/rus
