@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2001-10-27
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '10217'
+    key: P010001369_
 version_date:
-  kaz: 2001-05-21
-  rus: 2001-05-21
+  kaz: 2001-10-27
+  rus: 2001-10-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8922/kaz/21.05.2001
-  rus: https://zan.gov.kz/client/#!/doc/8922/rus/21.05.2001
+  kaz: https://zan.gov.kz/client/#!/doc/8922/kaz/27.10.2001
+  rus: https://zan.gov.kz/client/#!/doc/8922/rus/27.10.2001
+caused_by:
+  code: '10217'
+  key: P010001369_
+  requisite: Постановление Правительства Республики Казахстан от 28 октября 2001 года N 1369
+  title:
+    rus: О внесении изменений и дополнений и признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу және олардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/10217/rus
