@@ -10,8 +10,15 @@ approved_on: 2005-01-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2005-01-24
-  rus: 2005-01-24
+  kaz: 2005-02-04
+  rus: 2005-02-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22818/kaz/24.01.2005
-  rus: https://zan.gov.kz/client/#!/doc/22818/rus/24.01.2005
+  kaz: https://zan.gov.kz/client/#!/doc/22818/kaz/04.02.2005
+  rus: https://zan.gov.kz/client/#!/doc/22818/rus/04.02.2005
+caused_by:
+  code: '22806'
+  requisite: Постановление Правительства Республики Казахстан от 4 февраля 2005 года № 103
+  title:
+    rus: Вопросы Комитета по языкам Министерства культуры Республики Казахстан
+    kaz: Қазақстан Республикасы Мәдениет министрлігі Тіл комитетінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/22806/rus
