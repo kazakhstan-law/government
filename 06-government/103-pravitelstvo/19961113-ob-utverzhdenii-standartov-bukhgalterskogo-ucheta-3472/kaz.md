@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3472/kaz/12.11.2002
+source: https://zan.gov.kz/client/#!/doc/3472/kaz/30.11.2002
 ---
 
 # Бухгалтерлiк есепке алу стандарттарын бекiту туралы

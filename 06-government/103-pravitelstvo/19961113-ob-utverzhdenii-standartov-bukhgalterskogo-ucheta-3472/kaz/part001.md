@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/3472/kaz/12.11.2002
+source: https://zan.gov.kz/client/#!/doc/3472/kaz/30.11.2002
 ---
 
 ## Бухгалтерлік есепке алудың 1 стандарты Есеп жүргізу саясаты және оның ашылуы Мақсаты және қолдану өрiсi
