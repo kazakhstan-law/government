@@ -10,6 +10,15 @@ approved_on: 1999-03-16
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1999-03-16
+  kaz: 2000-05-09
+  rus: 2000-05-09
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2492/rus/16.03.1999
+  kaz: https://zan.gov.kz/client/#!/doc/2492/kaz/09.05.2000
+  rus: https://zan.gov.kz/client/#!/doc/2492/rus/09.05.2000
+caused_by:
+  code: '5925'
+  requisite: Постановление Правительства Республики Казахстан от 10 мая 2000 года N 696
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 16 марта 1999 года N 247
+    kaz: Қазақстан Республикасы Yкiметінiң 1999 жылғы 16 наурыздағы N 247 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/5925/rus
