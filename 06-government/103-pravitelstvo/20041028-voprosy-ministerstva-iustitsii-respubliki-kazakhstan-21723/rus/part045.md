@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21723/rus/27.10.2004
+source: https://zan.gov.kz/client/#!/doc/21723/rus/14.12.2004
 ---
 
 ## Перечень утративших силу некоторых решений Правительства Республики Казахстан
