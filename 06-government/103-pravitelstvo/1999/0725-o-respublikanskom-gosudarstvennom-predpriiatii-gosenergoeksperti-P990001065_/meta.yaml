@@ -15,7 +15,24 @@ versions:
 - date: 1999-07-25
   languages:
   - rus
+- date: 2000-02-04
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '5216'
+    key: P000000167_
 version_date:
-  rus: 1999-07-25
+  kaz: 2000-02-04
+  rus: 2000-02-04
 source:
-  rus: https://zan.gov.kz/client/#!/doc/3637/rus/25.07.1999
+  kaz: https://zan.gov.kz/client/#!/doc/3637/kaz/04.02.2000
+  rus: https://zan.gov.kz/client/#!/doc/3637/rus/04.02.2000
+caused_by:
+  code: '5216'
+  key: P000000167_
+  requisite: Постановление Правительства Республики Казахстан от 4 февраля 2000 года № 167
+  title:
+    rus: Об утверждении Правил экспертизы энергосбережения действующих и строящихся объектов
+    kaz: Жұмыс істеп тұрған және салынып жатқан объектілердің энергия үнемдеуіне сараптама жасау ережесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/5216/rus
