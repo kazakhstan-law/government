@@ -30,9 +30,17 @@ versions:
   - rus
   cause:
     code: P970000883_
+- date: 1997-07-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: P970001194_
 version_date:
-  rus: 1997-05-26
+  kaz: 1997-07-30
+  rus: 1997-07-30
 source:
-  rus: https://zan.gov.kz/client/#!/doc/594/rus/26.05.1997
+  kaz: https://zan.gov.kz/client/#!/doc/594/kaz/30.07.1997
+  rus: https://zan.gov.kz/client/#!/doc/594/rus/30.07.1997
 caused_by:
-  code: P970000883_
+  code: P970001194_
