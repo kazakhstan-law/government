@@ -1,5 +1,5 @@
 ---
-version_id: AI21466_1
+version_id: AI21466_3
 act_code: '21466'
 language: rus
 title: Об утверждении плана приема учащихся в учебные заведения начального и среднего профессионального образования области
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '154000000001'
 approval_date: 2004-08-03
-version_date: 2004-08-03
+version_date: 2004-10-19
 registry_number: '21466'
-source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
+source: https://zan.gov.kz/client/#!/doc/21466/rus/19.10.2004
 ---
 
 # Об утверждении плана приема учащихся в учебные заведения начального и среднего профессионального образования области
@@ -141,7 +141,7 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 <th>125</th>
 </tr>
 <tr>
-<th colspan="3">ПШ N 4 г.Талгара</th>
+<th colspan="3">ПШ N 4 г.Талгара*</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -172,8 +172,13 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 <td>25</td>
 </tr>
 <tr>
+<td>6.</td>
+<td>&quot;2916001 &quot;Газоэлектросварщик, водитель автомобиля категории ВС&quot;</td>
+<td>25</td>
+</tr>
+<tr>
 <th colspan="2">Всего:</th>
-<th>125</th>
+<th>150</th>
 </tr>
 <tr>
 <th colspan="3">ПШ N 5 г.Ушарал Алакольского района</th>
@@ -271,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 <th>150</th>
 </tr>
 <tr>
-<th colspan="2">ПШ N 8 с.Сарыжаз Райымбекского района</th>
+<th colspan="2">ПШ N 8 с.Сарыжаз Райымбекского района*</th>
 <th></th>
 </tr>
 <tr>
@@ -282,11 +287,11 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 <tr>
 <td>2.</td>
 <td>2916001 - &quot;Газоэлектросварщик, водитель автомобиля категории &quot;ВС&quot;&quot;</td>
-<td>50</td>
+<td>25</td>
 </tr>
 <tr>
 <th colspan="2">Всего:</th>
-<th>125</th>
+<th>100</th>
 </tr>
 <tr>
 <th colspan="2">ПШ N 9 с.Шонжы Уйгурского района</th>
@@ -666,6 +671,8 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 </tr>
 </table>
 
+> *Сноска. Разделы 4 и 8 с изменениями внесенные постановлением Акимата Алматинской области от 20 октября 2004 года N 158.*
+
 > *Приложение N 2*  
 > *постановлению N 128*  
 > *Акимата области*  
@@ -827,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/21466/rus/03.08.2004
 <th>100</th>
 </tr>
 <tr>
-<th colspan="3">Талдыкорганский музыкальный колледж</th>
+<th colspan="3">Талдыкорганский музыкальный колледж *</th>
 </tr>
 <tr>
 <td>1.</td>
