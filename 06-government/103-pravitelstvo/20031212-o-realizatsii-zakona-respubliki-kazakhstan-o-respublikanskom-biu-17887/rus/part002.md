@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17887/rus/31.12.2003
+source: https://zan.gov.kz/client/#!/doc/17887/rus/27.03.2004
 ---
 
 ## Перечень республиканских бюджетных программ развития на 2004 год, направленных на реализацию
