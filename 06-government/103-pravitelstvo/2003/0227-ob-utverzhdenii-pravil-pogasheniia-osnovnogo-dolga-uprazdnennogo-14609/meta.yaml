@@ -11,8 +11,15 @@ approved_on: 2003-02-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-02-27
-  rus: 2003-02-27
+  kaz: 2003-12-25
+  rus: 2003-12-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/14609/kaz/27.02.2003
-  rus: https://zan.gov.kz/client/#!/doc/14609/rus/27.02.2003
+  kaz: https://zan.gov.kz/client/#!/doc/14609/kaz/25.12.2003
+  rus: https://zan.gov.kz/client/#!/doc/14609/rus/25.12.2003
+caused_by:
+  code: '17954'
+  requisite: Постановление Правительства Республики Казахстан от 25 декабря 2003 года № 1321
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 27 февраля 2003 года N 209
+    kaz: Қазақстан Республикасы Үкiметінің 2003 жылғы 27 ақпандағы N 209 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/17954/rus
