@@ -1,5 +1,5 @@
 ---
-version_id: AI7104_3
+version_id: AI7104_5
 act_code: '7104'
 language: kaz
 title: Жол саласының кейбір мәселелері туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2000-10-13
-version_date: 2003-03-07
+version_date: 2004-11-24
 registry_number: '7104'
 caused_by:
-  code: '14621'
-  title: Қазақстан Республикасы Үкіметінің 2000 жылғы 14 қазандағы N 1527 қаулысына өзгеріс пен толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/14621/kaz
-source: https://zan.gov.kz/client/#!/doc/7104/kaz/07.03.2003
+  code: '21966'
+  title: Қазақстан Республикасы Көлiк және коммуникация министрлiгiнiң мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/21966/kaz
+source: https://zan.gov.kz/client/#!/doc/7104/kaz/24.11.2004
 ---
 
 # Жол саласының кейбір мәселелері туралы
