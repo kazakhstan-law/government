@@ -1,5 +1,5 @@
 ---
-version_id: AI82840_0
+version_id: AI82840_1
 act_code: '82840'
 language: rus
 title: Об утверждении Перечня биржевых товаров
@@ -10,9 +10,11 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1995-07-27
-version_date: 1996-08-19
+version_date: 1996-12-05
 registry_number: '82840'
-source: https://zan.gov.kz/client/#!/doc/82840/rus/19.08.1996
+caused_by:
+  code: P960001492_
+source: https://zan.gov.kz/client/#!/doc/82840/rus/05.12.1996
 ---
 
 # Об утверждении Перечня биржевых товаров
