@@ -1,5 +1,5 @@
 ---
-version_id: AI82818_4
+version_id: '82818_243328'
 act_code: '82818'
 language: rus
 title: Об организации международных авиаперевозок в аэропортах Республики Казахстан по временной схеме
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1995-08-23
-version_date: 2000-05-03
+version_date: 2000-05-04
 registry_number: '82818'
-caused_by:
-  code: '5888'
-  title: О внесении дополнения в постановление Кабинета Министров Республики Казахстан от 23 августа 1995 года N 1170
-  link: https://zan.gov.kz/client/#!/doc/5888/rus
-source: https://zan.gov.kz/client/#!/doc/82818/rus/03.05.2000
+source: https://zan.gov.kz/client/#!/doc/82818/rus/04.05.2000
 ---
 
 # Об организации международных авиаперевозок в аэропортах Республики Казахстан по временной схеме
