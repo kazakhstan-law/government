@@ -1,5 +1,5 @@
 ---
-version_id: AI8022_11
+version_id: AI8022_12
 act_code: '8022'
 language: rus
 title: Вопросы Министерства экономики и торговли Республики Казахстан
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2001-01-31
-version_date: 2002-01-26
+version_date: 2002-09-03
 registry_number: '8022'
 caused_by:
-  code: '11114'
-  title: Об уполномоченном государственном органе по делам архитектуры, градостроительства и строительства
-  link: https://zan.gov.kz/client/#!/doc/11114/rus
-source: https://zan.gov.kz/client/#!/doc/8022/rus/26.01.2002
+  code: '13084'
+  title: Некоторые вопросы Министерства экономики и бюджетного планирования Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/13084/rus
+source: https://zan.gov.kz/client/#!/doc/8022/rus
 ---
 
 # Вопросы Министерства экономики и торговли Республики Казахстан
