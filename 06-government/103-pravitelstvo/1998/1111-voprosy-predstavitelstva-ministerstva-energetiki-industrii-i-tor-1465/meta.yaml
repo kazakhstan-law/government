@@ -10,8 +10,15 @@ approved_on: 1998-11-11
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1998-11-11
-  rus: 1998-11-11
+  kaz: 1999-05-26
+  rus: 1999-05-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/1465/kaz/11.11.1998
-  rus: https://zan.gov.kz/client/#!/doc/1465/rus/11.11.1998
+  kaz: https://zan.gov.kz/client/#!/doc/1465/kaz/26.05.1999
+  rus: https://zan.gov.kz/client/#!/doc/1465/rus/26.05.1999
+caused_by:
+  code: '3035'
+  requisite: Постановление Правительства Республики Казахстан от 27 мая 1999 года N 657
+  title:
+    rus: Вопросы Министерства энергетики, индустрии и торговли Республики Казахстан
+    kaz: Қазақстан Республикасы Энергетика, индустрия және сауда министрлігінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/3035/rus
