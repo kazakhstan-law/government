@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13911/kaz/26.12.2002
+source: https://zan.gov.kz/client/#!/doc/13911/kaz/14.02.2003
 ---
 
 ## VI. Бюджет тапшылығы -82840000
