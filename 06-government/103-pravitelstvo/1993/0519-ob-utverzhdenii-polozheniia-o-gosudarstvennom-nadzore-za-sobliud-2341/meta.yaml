@@ -10,6 +10,10 @@ approved_on: 1993-05-19
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1995-09-12
+  kaz: 1997-04-07
+  rus: 1997-04-07
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2341/rus/12.09.1995
+  kaz: https://zan.gov.kz/client/#!/doc/2341/kaz/07.04.1997
+  rus: https://zan.gov.kz/client/#!/doc/2341/rus/07.04.1997
+caused_by:
+  code: P970000505_
