@@ -1,0 +1,17 @@
+act_code: '8913'
+requisite: Постановление Правительства Республики Казахстан от 21 мая 2001 года № 669
+title:
+  rus: Об организации пункта пропуска "Капланбек"
+  kaz: '"Қапланбек" өткізу бекетін ұйымдастыру туралы'
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2001-05-20
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2001-05-20
+  rus: 2001-05-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/8913/kaz/20.05.2001
+  rus: https://zan.gov.kz/client/#!/doc/8913/rus/20.05.2001
