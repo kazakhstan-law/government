@@ -10,8 +10,15 @@ approved_on: 2003-06-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-06-26
-  rus: 2003-06-26
+  kaz: 2003-11-27
+  rus: 2003-11-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15938/kaz/26.06.2003
-  rus: https://zan.gov.kz/client/#!/doc/15938/rus/26.06.2003
+  kaz: https://zan.gov.kz/client/#!/doc/15938/kaz/27.11.2003
+  rus: https://zan.gov.kz/client/#!/doc/15938/rus/27.11.2003
+caused_by:
+  code: '17579'
+  requisite: Постановление Правительства Республики Казахстан от 27 ноября 2003 года N 1191
+  title:
+    rus: О внесении изменений и признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнің кейбiр шешiмдерiне өзгерiстер енгізу және күшi жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/17579/rus
