@@ -1,0 +1,17 @@
+act_code: '7676'
+requisite: Постановление Правительства Республики Казахстан от 27 декабря 2000 года N 1897
+title:
+  rus: О пункте пропуска "Кольжат"
+  kaz: '"Қалжат" өткізу пункті туралы'
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2000-12-27
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2000-12-27
+  rus: 2000-12-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/7676/kaz/27.12.2000
+  rus: https://zan.gov.kz/client/#!/doc/7676/rus/27.12.2000
