@@ -1,5 +1,5 @@
 ---
-version_id: AI580_0
+version_id: AI580_2
 act_code: '580'
 language: kaz
 title: Қазақстан Республикасы азаматы паспортының үлгiсiн /сипаттамасын/ бекiту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1994-04-21
-version_date: 1994-04-21
+version_date: 2001-11-02
 registry_number: '580'
-source: https://zan.gov.kz/client/#!/doc/580/kaz/21.04.1994
+caused_by:
+  code: '10271'
+  title: Қазақстан Республикасы Министрлер Кабинетiнiң 1994 жылғы 22 сәуiрдегi N 429 қаулысына және Қазақстан Республикасы Yкiметiнiң 1996 жылғы 23 қаңтардағы N 87 қаулысына өзгерiстер енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/10271/kaz
+source: https://zan.gov.kz/client/#!/doc/580/kaz/02.11.2001
 ---
 
 # Қазақстан Республикасы азаматы паспортының үлгiсiн /сипаттамасын/ бекiту туралы
@@ -58,7 +62,7 @@ N 429 қаулысымен
 жалауының түсiндей көгiлдiр түстi, онда:
 а/ қазақ және ағылшын тiлдерiнде
 ҚАЗАҚСТАН РЕСПУБЛИКАСЫ
-REPUBLIC OF KAZAKSTAN
+REPUBLIC OF KAZAKHSTAN
 деген алтын түстi батырма жазу бар;
 ә/ ортасында - Қазақстан Республикасының Елтаңбасы
 б/ Елтаңбадан төмен
@@ -73,8 +77,8 @@ PASSPORT
 ал оның иесi Қазақстан Республикасының қорғауында болады.
 Паспорт является собственностью Республики Казахстан, а
 его владелец находится под защитой Республика Казахстан.
-Passport is the property of Republic of Kazakstan and its
-owner is held under the protection of Republic of Каzакstаn.
+Passport is the property of Republic of Kazakhstan and its
+owner is held under the protection of Republic of Каzакhstаn.
 деген жазулар жазылған.
 4. Екiншi бетiнде қазақ, орыс және ағылшын тiлдерiнде:
 Мәлiмет/ Сведения / Observations
@@ -92,7 +96,7 @@ owner is held under the protection of Republic of Каzакstаn.
 This passport contains 32 numbered pages
 деген жазу бар.
 7. 32-бетте қазақ және ағылшын тiлдерiнде:
-"Қазақстан Республикасы" "Republic of Kazakstan" деген
+"Қазақстан Республикасы" "Republic of Kazakhstan" деген
 тiгiнен жазылған жазу бар, төменгi жағында солдан оңға қарай:
 Паспорт / Раssроrt; тип/tуре;
 мемлекет коды/соdе of stаtе;
@@ -120,4 +124,9 @@ This passport contains 32 numbered pages
 Аты, әкесiнiң аты/Имя, отчество
 Ұлты/Национальность
 Өз қолы/Подпись
+ЕСКЕРТУ. Қаулы өзгерді - ҚР Үкіметінің 2001.11.02. N 1394
+
+P011394_
+
+қаулысымен.
 ```
