@@ -31,10 +31,16 @@ versions:
   cause:
     code: '12752'
     key: V020001923_
+- date: 2002-06-16
+  languages:
+  - kaz
+  cause:
+    code: '12752'
+    key: V020001923_
 version_date:
-  rus: 2002-06-02
+  kaz: 2002-06-16
 source:
-  rus: https://zan.gov.kz/client/#!/doc/10376/rus/02.06.2002
+  kaz: https://zan.gov.kz/client/#!/doc/10376/kaz/16.06.2002
 caused_by:
   code: '12752'
   key: V020001923_
