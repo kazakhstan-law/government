@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13581/kaz/19.05.2003
+source: https://zan.gov.kz/client/#!/doc/13581/kaz/27.07.2003
 ---
 
 ## Қазақстан Республикасы Индустрия және сауда министрлігінің Сауда комитетi туралы ереже
