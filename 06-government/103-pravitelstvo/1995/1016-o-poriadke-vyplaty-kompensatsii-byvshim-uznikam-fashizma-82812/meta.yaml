@@ -1,0 +1,18 @@
+act_code: '82812'
+requisite: Постановление Правительства Республики Казахстан от 16 октября 1995 г. N 1331
+title:
+  rus: О порядке выплаты компенсации бывшим узникам фашизма
+  kaz: Фашизмнiң бұрынғы тұтқындарына өтем төлеудiң тәртiбi туралы
+form: ПОСТ
+type_codes:
+- ПОР
+- ПОСТ
+approved_on: 1995-10-16
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 1995-10-16
+  rus: 1995-10-16
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/82812/kaz/16.10.1995
+  rus: https://zan.gov.kz/client/#!/doc/82812/rus/16.10.1995
