@@ -10,8 +10,15 @@ approved_on: 2001-07-17
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-07-17
-  rus: 2001-07-17
+  kaz: 2003-09-07
+  rus: 2003-09-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9538/kaz/17.07.2001
-  rus: https://zan.gov.kz/client/#!/doc/9538/rus/17.07.2001
+  kaz: https://zan.gov.kz/client/#!/doc/9538/kaz/07.09.2003
+  rus: https://zan.gov.kz/client/#!/doc/9538/rus/07.09.2003
+caused_by:
+  code: '16838'
+  requisite: Постановление Правительства Республики Казахстан от 8 сентября 2003 года N 910
+  title:
+    rus: Об утверждении Правил отнесения земель к особо охраняемым природным территориям
+    kaz: Жердің ерекше қорғалатын табиғи аумақтарға жатқызу ережесiн бекiту туралы
+  link: https://zan.gov.kz/client/#!/doc/16838/rus
