@@ -11,8 +11,10 @@ approved_on: 2004-01-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-01-05
-  rus: 2004-01-05
+  kaz: 2004-11-13
+  rus: 2004-11-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18470/kaz/05.01.2004
-  rus: https://zan.gov.kz/client/#!/doc/18470/rus/05.01.2004
+  kaz: https://zan.gov.kz/client/#!/doc/18470/kaz/13.11.2004
+  rus: https://zan.gov.kz/client/#!/doc/18470/rus/13.11.2004
+caused_by:
+  code: P040001191_
