@@ -15,7 +15,17 @@ versions:
 - date: 1997-08-26
   languages:
   - rus
+- date: 1998-02-10
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: P980000092_
 version_date:
-  rus: 1997-08-26
+  kaz: 1998-02-10
+  rus: 1998-02-10
 source:
-  rus: https://zan.gov.kz/client/#!/doc/82783/rus/26.08.1997
+  kaz: https://zan.gov.kz/client/#!/doc/82783/kaz/10.02.1998
+  rus: https://zan.gov.kz/client/#!/doc/82783/rus/10.02.1998
+caused_by:
+  code: P980000092_
