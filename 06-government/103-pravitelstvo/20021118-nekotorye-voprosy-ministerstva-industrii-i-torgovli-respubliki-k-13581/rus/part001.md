@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13581/rus/18.11.2002
+source: https://zan.gov.kz/client/#!/doc/13581/rus/13.03.2003
 ---
 
 ## Положение о Комитете торговли Министерства индустрии и торговли Республики Казахстан

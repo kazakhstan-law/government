@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13581/kaz/18.11.2002
+source: https://zan.gov.kz/client/#!/doc/13581/kaz/13.03.2003
 ---
 
 ## Қазақстан Республикасының Индустрия және сауда министрлiгi Инвестициялар жөніндегі комитетiнiң құрылымы
