@@ -15,7 +15,21 @@ versions:
 - date: 1999-11-19
   languages:
   - rus
+- date: 2000-02-07
+  languages:
+  - rus
+  cause:
+    code: '5233'
+    key: P000000179_
 version_date:
-  rus: 1999-11-19
+  rus: 2000-02-07
 source:
-  rus: https://zan.gov.kz/client/#!/doc/4599/rus/19.11.1999
+  rus: https://zan.gov.kz/client/#!/doc/4599/rus/07.02.2000
+caused_by:
+  code: '5233'
+  key: P000000179_
+  requisite: Постановление Правительства Республики Казахстан от 7 февраля 2000 года N 179. Утратило силу постановлением Правительства Республики Казахстан от 19 сентября 2009 года № 1411
+  title:
+    rus: Вопросы лицензирования туристской деятельности
+    kaz: Туристік қызметті лицензиялау мәселелері
+  link: https://zan.gov.kz/client/#!/doc/5233/rus
