@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/82840/rus/05.12.1996
+source: https://zan.gov.kz/client/#!/doc/82840/rus/31.12.1996
 ---
 
 # Об утверждении Перечня биржевых товаров
