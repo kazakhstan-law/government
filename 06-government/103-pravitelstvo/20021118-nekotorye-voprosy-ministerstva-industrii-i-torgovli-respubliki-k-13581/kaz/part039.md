@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13581/kaz/07.04.2003
+source: https://zan.gov.kz/client/#!/doc/13581/kaz/19.05.2003
 ---
 
 ## Қазақстан Республикасының Индустрия және сауда министрлігі Сауда комитетiнің құрылымы
