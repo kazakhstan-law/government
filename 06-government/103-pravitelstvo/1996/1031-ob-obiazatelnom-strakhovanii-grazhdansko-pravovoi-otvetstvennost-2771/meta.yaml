@@ -10,8 +10,13 @@ approved_on: 1996-10-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1996-10-31
-  rus: 1996-10-31
+  kaz: 2003-07-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2771/kaz/31.10.1996
-  rus: https://zan.gov.kz/client/#!/doc/2771/rus/31.10.1996
+  kaz: https://zan.gov.kz/client/#!/doc/2771/kaz/29.07.2003
+caused_by:
+  code: '16421'
+  requisite: Постановление Правительства Республики Казахстан от 31 июля 2003 года № 765
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiнің күшi жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/16421/rus
