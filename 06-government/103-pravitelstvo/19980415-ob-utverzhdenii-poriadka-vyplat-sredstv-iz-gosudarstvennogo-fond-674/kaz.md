@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/674/kaz/26.06.2003
+source: https://zan.gov.kz/client/#!/doc/674/kaz/27.06.2003
 ---
 
 # Мемлекеттiк ауыл шаруашылығын қаржылық қолдау қорынан қаражат төлеудiң тәртiбiн бекiту туралы
