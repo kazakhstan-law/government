@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2004-05-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '19829'
+    key: P040000562_
 version_date:
-  kaz: 2003-12-31
-  rus: 2003-12-31
+  kaz: 2004-05-19
+  rus: 2004-05-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18109/kaz/31.12.2003
-  rus: https://zan.gov.kz/client/#!/doc/18109/rus/31.12.2003
+  kaz: https://zan.gov.kz/client/#!/doc/18109/kaz/19.05.2004
+  rus: https://zan.gov.kz/client/#!/doc/18109/rus/19.05.2004
+caused_by:
+  code: '19829'
+  key: P040000562_
+  requisite: Постановление Правительства Республики Казахстан от 20 мая 2004 года № 562
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 31 декабря 2003 года № 1380
+    kaz: Қазақстан Республикасы Үкіметінің 2003 жылғы 31 желтоқсандағы № 1380 қаулысына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/19829/rus
