@@ -10,6 +10,10 @@ approved_on: 1993-04-22
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1995-08-23
+  kaz: 1996-01-19
+  rus: 1996-01-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2397/kaz/23.08.1995
+  kaz: https://zan.gov.kz/client/#!/doc/2397/kaz/19.01.1996
+  rus: https://zan.gov.kz/client/#!/doc/2397/rus/19.01.1996
+caused_by:
+  code: P960000071_
