@@ -10,8 +10,13 @@ approved_on: 1999-03-06
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1999-07-05
+  rus: 1999-07-22
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2258/rus/05.07.1999
+  rus: https://zan.gov.kz/client/#!/doc/2258/rus/22.07.1999
 caused_by:
-  code: P990000934_
+  code: '3666'
+  requisite: Постановление Правительства Республики Казахстан от 23 июля 1999 года N 1046
+  title:
+    rus: О приватизации Республиканского государственного предприятия "Есеп"
+    kaz: '"Есеп" республикалық мемлекеттік кәсіпорнын жекешелендіру туралы'
+  link: https://zan.gov.kz/client/#!/doc/3666/rus
