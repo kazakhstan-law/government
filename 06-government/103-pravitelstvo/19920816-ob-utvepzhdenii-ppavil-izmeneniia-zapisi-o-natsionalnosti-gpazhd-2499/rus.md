@@ -1,5 +1,5 @@
 ---
-version_id: AI2499_1
+version_id: AI2499_2
 act_code: '2499'
 language: rus
 title: Об утвеpждении пpавил изменения записи о национальности гpаждан Республики Казахстан в паспоpтах, удостоверениях личности и актах гpажданского состояния
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1992-08-16
-version_date: 1992-08-16
+version_date: 1993-01-12
 registry_number: '2499'
-source: https://zan.gov.kz/client/#!/doc/2499/rus/16.08.1992
+caused_by:
+  code: '1709'
+  title: Об утверждении Порядка ведения мониторинга земель в Республике Казахстан
+  link: https://zan.gov.kz/client/#!/doc/1709/rus
+source: https://zan.gov.kz/client/#!/doc/2499/rus/12.01.1993
 ---
 
 # Об утвеpждении пpавил изменения записи о национальности гpаждан Республики Казахстан в паспоpтах и актах гpажданского состояния
