@@ -11,8 +11,15 @@ approved_on: 2001-03-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-03-27
-  rus: 2001-03-27
+  kaz: 2001-11-08
+  rus: 2001-11-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8483/kaz/27.03.2001
-  rus: https://zan.gov.kz/client/#!/doc/8483/rus/27.03.2001
+  kaz: https://zan.gov.kz/client/#!/doc/8483/kaz/08.11.2001
+  rus: https://zan.gov.kz/client/#!/doc/8483/rus/08.11.2001
+caused_by:
+  code: '10312'
+  requisite: Постановление Правительства Республики Казахстан от 8 ноября 2001 года № 1422
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 28 марта 2001 года N 394
+    kaz: Қазақстан Республикасы Yкіметiнiң 2001 жылғы 28 наурыздағы N 394 қаулысына өзгерiс енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/10312/rus
