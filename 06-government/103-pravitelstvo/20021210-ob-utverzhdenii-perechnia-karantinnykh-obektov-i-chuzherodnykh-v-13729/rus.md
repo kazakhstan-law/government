@@ -1,0 +1,299 @@
+---
+version_id: AI13729_1
+act_code: '13729'
+language: rus
+title: Об утверждении перечня карантинных объектов и чужеродных видов, по отношению к которым устанавливаются и осуществляются мероприятия по карантину растений, и перечня особо опасных вредных организмов
+requisite: Постановление Правительства Республики Казахстан от 10 декабря 2002 года N 1295. Утратило силу постановлением Правительства Республики Казахстан от 31 октября 2015 года № 870
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРЧ
+approved_by:
+- '103000000000'
+approval_date: 2002-12-10
+version_date: 2002-12-10
+registry_number: '13729'
+source: https://zan.gov.kz/client/#!/doc/13729/rus/10.12.2002
+---
+
+# Об утверждении перечней карантинных объектов и особо опасных вредных организмов
+
+В целях реализации Закона Республики Казахстан от 11 февраля 1999 года "О карантине растений" и Закона Республики Казахстан от 3 июля 2002 года "О защите растений" Правительство Республики Казахстан постановляет:
+
+1\. Утвердить прилагаемые:
+
+1) Перечень карантинных объектов, борьба с которыми осуществляется за счет средств республиканского бюджета;
+
+2) Перечень особо опасных вредных организмов.
+
+2\. Признать утратившим силу постановление Кабинета Министров Республики Казахстан от 13 августа 1993 года N 697 "О реализации постановления Верховного Совета Республики Казахстан "О введении в действие Закона Республики Казахстан "О кредитовании отраслей агропромышленного комплекса и финансировании государственных мероприятий" (САПП Республики Казахстан, 1993 г., N 32, ст. 372).
+
+3\. Настоящее постановление вступает в силу со дня подписания.
+
+Премьер-Министр
+
+Республики Казахстан
+
+> *Утвержден*  
+> *постановлением Правительства*  
+> *Республики Казахстан*  
+> *от 10 декабря 2002 года N 1295*
+
+## Перечень карантинных объектов, борьба с которыми осуществляется за счет средств республиканского бюджета
+
+Вредители, возбудители болезней растений и сорняки, отсутствующие на территории Республики Казахстан, имеющие карантинное значение
+
+## А. Вредители растений
+
+Anoplophora glabripennis Motschulsky
+
+Callosobruchus analis L.
+
+Spodoptera litura Fabr.
+
+Hyphantria cunea Drury.
+
+Liriomyza trifolii (Burg)
+
+Premnotrypes spp.
+
+Unaspis citri Comst.
+
+Pantomorus leucoloma Boh.
+
+Tetradacus citri Chen.
+
+Pseudococcus citriculus Green.
+
+Unaspis yanonensis Kuw.
+
+Numonia pyrivorella Mats.
+
+Spodoptera littoralis Boisd.
+
+Diabrotica virgifera virgifera le Conte
+
+Frankliniella occidentalis Perg.
+
+Callosobruchus phaseoli Gyll.
+
+Ceroplastes rusci L.
+
+Epitrix tuberis Gentner
+
+Epitrix cucumeris Harris
+
+Phthorimaea operculella Zell.
+
+Callosobruchus chinensis L.
+
+Lymantria dispar L. (asian race)
+
+Thrips palmi Karny.
+
+Carposina niponensis Wlsghm.
+
+Conotrachelus nenuphar Hb.
+
+Ceratitis capitata Wied
+
+Liriomisa sativae Blanch.
+
+Pseudaulacaspis pentagona (Targ.)
+
+Pectinophora gossypiella Saund.
+
+Bemisia tabaci Gew.
+
+Dialeurodes citri Rillcy
+
+Phyllocnistis citrella Stainton
+
+Pseudococcus gahani Green.
+
+Liriovyza huidobrensis Blanch.
+
+Rhagoletis pomonella Walsh.
+
+Agrilus mali (Mats).
+
+Popillia japonica (Newm).
+
+Geroplastes japonicus Green.
+
+Leucaspis japonica Ckll.
+
+## Б. Болезни растений
+
+Грибные
+
+Glomerella gossypii (South) Edgerton
+
+Didymella chrysanthemi (Tassi) Gar. et Gull.
+
+Puccinia horiana P.Henn.
+
+Angiosorus solani (Thirum et О Brier)
+
+Diplodia macrospora (Earle)
+
+Diplodia frumenti (Ellet Ev)
+
+Tilletia (Neovossia) indica Mitra
+
+Cochliobolus carbonum R.Nelson
+
+Synchytrium endobioticum (Schild.) Percival
+
+Atropellis pinicola Zeller & Goodding
+
+Atropellis piniphillf (Weir.) Lohman & Cash
+
+Phymatotrichum omnivorum (Schear.) Guggar
+
+Ceratocystis fagacearum (Bretz.) Hunt.
+
+Phytophthora fragariae Hickman.
+
+Phomopsis helianthi (Munt-Wetetal)
+
+Cochliobolus heterostrophus Drechsler
+
+rasa T. (Helminthosporium maydis Nisicado et Miyake)
+
+Бактериальные
+
+Xanthomonas ampelina (Panagopoulus)
+
+Erwinia stewartii (Smith.)
+
+Clavibacter michiganehis subsp
+
+sepedonicum (Spieckermann and Kotthoff) Davis et al.
+
+Xanthomonas oryzae pv. oryzae (Ishiyama) Swings et al
+
+Xanthomonas oryzae pv. oryzicola (Fang et al) Swings et al
+
+Ralstonia solanacearum (Smith.) Yabuuchi et al
+
+Erwinia amylovora (Curill.)
+
+Clavibacter tritici (Carls et Vidav) Davis
+
+Фитоплазменные и вирусные
+
+Potato Andeam mottle comovirus
+
+Potatj Andean latent timovirus
+
+Potato Т trichovirus
+
+Grapevine flavescence doree phytoplasma
+
+Peach latent mosaic viroid
+
+Potato yellowing alfamovirus
+
+Cherry rasp leaf virus
+
+Peach rosette mosaic nepovirus
+
+Plum poxpotyvirus
+
+Нематодные
+
+Globodera pallida (Stone) Mulvey et Stone
+
+Globodera rostochiensis (Woll.) M. et. St.
+
+Meloidogine chitwoodi Golden et al
+
+Bursaphelenchus xylophilus (Steiner et Buhrer)
+
+## В. Сорные растения
+
+Ambrosia trifida L.
+
+Iva axillaris Pursh.
+
+Ipomoea hederacea L.
+
+Ipomoea lacunosa L.
+
+Solanum carolinense L.
+
+Solanum elaeagnifolium Cav.
+
+Solanum triflorum Nutt.
+
+Helianthus californicus DC.
+
+Helianthus ciliaris DC.
+
+Striga sp.sp
+
+Cenchrus payciflorus Benth.
+
+Bidens pilosa L.
+
+Карантинные объекты, ограниченно распространенные
+
+на территории Республики Казахстан
+
+## А. Вредители растений
+
+Grapholitha molesta (Busck.)
+
+Quadraspidiotus perniciosus (Comst.)
+
+Trogoderma granarium (Ev.)
+
+Leptinotarsa decemlineata Say.
+
+Viteus vitifolli (Fitsch).
+
+Pseudococcus comstocki Kuw.
+
+Callosobruchus maculatus F.
+
+## Б. Сорные растения
+
+Ambrosia artemisiifolia (L.)
+
+Ambrosia psilostachya (D.C.)
+
+Acroptilon repens (D.C.)
+
+Solanum rostratum Dun.
+
+Cuscuta sp.sp
+
+> *Утвержден*  
+> *постановлением Правительства*  
+> *Республики Казахстан*  
+> *от 10 декабря 2002 года N 1295*
+
+## Перечень особо опасных вредных организмов
+
+1\. Вредители растений:
+
+1) саранча (азиатская, марокканская и прус);
+
+2) клоп-черепашка;
+
+3) зерновая совка;
+
+4) гессенская муха;
+
+5) хлебный жук;
+
+6) хлопковая совка;
+
+7) паутинный клещ;
+
+8) суслики;
+
+9) мышевидные грызуны.
+
+2\. Болезни растений - ржавчина и септориоз зерновых культур.
