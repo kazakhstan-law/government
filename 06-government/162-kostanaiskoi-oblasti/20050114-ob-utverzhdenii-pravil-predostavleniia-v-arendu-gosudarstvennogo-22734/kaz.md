@@ -14,6 +14,11 @@ approval_date: 2005-01-14
 version_date: 2005-01-14
 registry_number: '22734'
 source: https://zan.gov.kz/client/#!/doc/22734/kaz/14.01.2005
+repealed_on: 2010-08-06
+repealed_by:
+  code: '22734'
+  title: Қостанай облысының мемлекеттік коммуналдық мүлкін жалға беру Ережесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/22734/kaz
 ---
 
 # Қостанай облысының мемлекеттік коммуналдық мүлкін жалға беру Ережесін бекіту туралы
