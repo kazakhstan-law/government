@@ -60,9 +60,14 @@ versions:
   - rus
   cause:
     code: P980000317_
+- date: 1998-07-31
+  languages:
+  - rus
+  cause:
+    code: P980000728_
 version_date:
-  rus: 1998-04-09
+  rus: 1998-07-31
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1778/rus/09.04.1998
+  rus: https://zan.gov.kz/client/#!/doc/1778/rus/31.07.1998
 caused_by:
-  code: P980000317_
+  code: P980000728_
