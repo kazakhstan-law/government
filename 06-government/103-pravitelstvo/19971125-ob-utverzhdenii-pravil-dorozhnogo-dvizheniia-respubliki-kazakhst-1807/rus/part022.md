@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/1807/rus/19.12.2002
+source: https://zan.gov.kz/client/#!/doc/1807/rus/30.01.2004
 ---
 
 ## 19. ПОЛЬЗОВАНИЕ ВНЕШНИМИ СВЕТОВЫМИ ПРИБОРАМИ И ЗВУКОВЫМИ СИГНАЛАМИ
