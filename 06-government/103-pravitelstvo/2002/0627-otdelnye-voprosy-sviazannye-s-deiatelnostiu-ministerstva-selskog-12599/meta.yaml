@@ -10,10 +10,15 @@ approved_on: 2002-06-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-02-25
-  rus: 2003-02-25
+  kaz: 2004-10-28
+  rus: 2004-10-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12599/kaz/25.02.2003
-  rus: https://zan.gov.kz/client/#!/doc/12599/rus/25.02.2003
+  kaz: https://zan.gov.kz/client/#!/doc/12599/kaz/28.10.2004
+  rus: https://zan.gov.kz/client/#!/doc/12599/rus/28.10.2004
 caused_by:
-  code: '14594'
+  code: '21742'
+  requisite: Постановление Правительства Республики Казахстан от 29 октября 2004 года № 1132
+  title:
+    rus: Некоторые вопросы Министерства труда и социальной защиты населения Республики Казахстан
+    kaz: Қазақстан Республикасы Еңбек және халықты әлеуметтiк қорғау министрлiгінiң кейбiр мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/21742/rus
