@@ -15,7 +15,21 @@ versions:
 - date: 1998-09-15
   languages:
   - rus
+- date: 1999-03-29
+  languages:
+  - rus
+  cause:
+    code: '2500'
+    key: P990000325_
 version_date:
-  rus: 1998-09-15
+  rus: 1999-03-29
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1223/rus/15.09.1998
+  rus: https://zan.gov.kz/client/#!/doc/1223/rus/29.03.1999
+caused_by:
+  code: '2500'
+  key: P990000325_
+  requisite: Постановление Правительства Республики Казахстан от 30 марта 1999 года № 325. Утратило силу - постановлением Правительства РК от 31 декабря 2004 года N 1460
+  title:
+    rus: Вопросы Агентства Республики Казахстан по статистике
+    kaz: Қазақстан Республикасының Статистика жөніндегі агенттігінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/2500/rus
