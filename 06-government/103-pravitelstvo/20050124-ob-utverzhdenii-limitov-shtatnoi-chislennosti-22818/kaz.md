@@ -1,5 +1,5 @@
 ---
-version_id: AI22818_0
+version_id: AI22818_2
 act_code: '22818'
 language: kaz
 title: Штат санының лимиттерiн бекiту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2005-01-24
-version_date: 2005-01-24
+version_date: 2005-02-04
 registry_number: '22818'
-source: https://zan.gov.kz/client/#!/doc/22818/kaz/24.01.2005
+caused_by:
+  code: '22806'
+  title: Қазақстан Республикасы Мәдениет министрлігі Тіл комитетінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/22806/kaz
+source: https://zan.gov.kz/client/#!/doc/22818/kaz/04.02.2005
 ---
 
 # Штат санының лимиттерiн бекiту туралы
@@ -44,6 +48,8 @@ N 47 қаулысымен
 бекiтiлген
 
 ## Министрлiктердiң, агенттiктер мен ведомстволардың қызметкерлерi штат санының лимиттерi
+
+> *Ескерту. Лимиттерге өзгерту енгізілді - ҚР Үкіметінің 2005 жылғы 4 ақпандағы N 103 қаулысымен.*
 
 <table>
 <tr>
@@ -81,7 +87,7 @@ N
 <td>34</td>
 </tr>
 <tr>
-<td>Тiлдердi дамыту комитетi</td>
+<td>Тiл комитетi</td>
 <td>25</td>
 </tr>
 <tr>
