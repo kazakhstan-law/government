@@ -10,8 +10,15 @@ approved_on: 2003-02-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-02-05
-  rus: 2003-02-05
+  kaz: 2004-10-14
+  rus: 2004-10-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/14367/kaz/05.02.2003
-  rus: https://zan.gov.kz/client/#!/doc/14367/rus/05.02.2003
+  kaz: https://zan.gov.kz/client/#!/doc/14367/kaz/14.10.2004
+  rus: https://zan.gov.kz/client/#!/doc/14367/rus/14.10.2004
+caused_by:
+  code: '21556'
+  requisite: Постановление Правительства Республики Казахстан от 15 октября 2004 года N 1058
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 5 февраля 2003 года N 131
+    kaz: Қазақстан Республикасы Yкiметiнiң 2003 жылғы 5 ақпандағы N 131 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/21556/rus
