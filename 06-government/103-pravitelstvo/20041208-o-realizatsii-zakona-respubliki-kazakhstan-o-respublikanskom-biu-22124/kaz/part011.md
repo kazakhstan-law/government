@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22124/kaz/27.12.2004
+source: https://zan.gov.kz/client/#!/doc/22124/kaz/01.03.2005
 ---
 
 ## операциялар бойынша сальдо Қаржы активтерін сатып алу 88296814
