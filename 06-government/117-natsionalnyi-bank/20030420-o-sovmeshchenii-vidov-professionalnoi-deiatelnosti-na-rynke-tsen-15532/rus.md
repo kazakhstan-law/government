@@ -13,6 +13,11 @@ approval_date: 2003-04-20
 version_date: 2003-04-20
 registry_number: '15532'
 source: https://zan.gov.kz/client/#!/doc/15532/rus/20.04.2003
+repealed_on: 2003-12-27
+repealed_by:
+  code: '17771'
+  title: О совмещении видов профессиональной деятельности на рынке ценных бумаг
+  link: https://zan.gov.kz/client/#!/doc/17771/rus
 ---
 
 # О совмещении видов профессиональной деятельности на рынке ценных бумаг
