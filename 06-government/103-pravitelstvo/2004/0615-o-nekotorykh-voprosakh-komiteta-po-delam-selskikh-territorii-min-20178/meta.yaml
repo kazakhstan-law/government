@@ -11,8 +11,15 @@ approved_on: 2004-06-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-06-15
-  rus: 2004-06-15
+  kaz: 2004-11-26
+  rus: 2004-11-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/20178/kaz/15.06.2004
-  rus: https://zan.gov.kz/client/#!/doc/20178/rus/15.06.2004
+  kaz: https://zan.gov.kz/client/#!/doc/20178/kaz/26.11.2004
+  rus: https://zan.gov.kz/client/#!/doc/20178/rus/26.11.2004
+caused_by:
+  code: '22813'
+  requisite: Постановление Правительства Республики Казахстан от 26 ноября 2004 года N 1240. Утратило силу - постановлением Правительства РК от 24 января 2005 г. N 47 (вступает в силу с 1 января 2005 г.)
+  title:
+    rus: Об утверждении лимитов штатной численности
+    kaz: Штат санының лимиттерін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/22813/rus
