@@ -10,6 +10,10 @@ approved_on: 2000-10-09
 approved_by:
 - '103000000000'
 version_date:
-  rus: 2000-10-09
+  kaz: 2000-10-12
+  rus: 2000-10-12
 source:
-  rus: https://zan.gov.kz/client/#!/doc/7077/rus/09.10.2000
+  kaz: https://zan.gov.kz/client/#!/doc/7077/kaz/12.10.2000
+  rus: https://zan.gov.kz/client/#!/doc/7077/rus/12.10.2000
+caused_by:
+  code: '7095'
