@@ -10,6 +10,15 @@ approved_on: 1997-03-24
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1997-03-24
+  kaz: 1997-05-27
+  rus: 1997-05-27
 source:
-  rus: https://zan.gov.kz/client/#!/doc/82850/rus/24.03.1997
+  kaz: https://zan.gov.kz/client/#!/doc/82850/kaz/27.05.1997
+  rus: https://zan.gov.kz/client/#!/doc/82850/rus/27.05.1997
+caused_by:
+  code: '82193'
+  requisite: Постановление Правительства Республики Казахстан от 28 мая 1997 г. N 894
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 24 марта 1997 г. N 401
+    kaz: Қазақстан Республикасы Үкiметiнiң 1997 жылғы 24 наурыздағы N 401 қаулысына өзгерiстер енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/82193/rus
