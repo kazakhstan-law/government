@@ -10,8 +10,15 @@ approved_on: 2001-08-29
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-08-28
-  rus: 2001-08-28
+  kaz: 2003-12-31
+  rus: 2003-12-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9851/kaz/28.08.2001
-  rus: https://zan.gov.kz/client/#!/doc/9851/rus/28.08.2001
+  kaz: https://zan.gov.kz/client/#!/doc/9851/kaz/31.12.2003
+  rus: https://zan.gov.kz/client/#!/doc/9851/rus/31.12.2003
+caused_by:
+  code: '18093'
+  requisite: Постановление Правительства Республики Казахстан от 31 декабря 2003 года N 1385
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 29 августа 2001 года N 1127
+    kaz: Қазақстан Республикасы Үкіметінің 2001 жылғы 29 тамыздағы N 1127 қаулысына өзгерістр мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/18093/rus
