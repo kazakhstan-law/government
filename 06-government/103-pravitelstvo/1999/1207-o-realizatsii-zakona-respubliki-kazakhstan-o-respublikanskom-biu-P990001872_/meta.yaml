@@ -103,10 +103,19 @@ versions:
   cause:
     code: '7121'
     key: P000001545_
+- date: 2000-11-17
+  languages:
+  - rus
+  cause:
+    code: '7121'
+    key: P000001545_
+  also_caused_by:
+  - code: '7425'
+    key: P000001733_
 version_date:
-  rus: 2000-10-16
+  rus: 2000-11-17
 source:
-  rus: https://zan.gov.kz/client/#!/doc/4990/rus/16.10.2000
+  rus: https://zan.gov.kz/client/#!/doc/4990/rus/17.11.2000
 caused_by:
   code: '7121'
   key: P000001545_
