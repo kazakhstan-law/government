@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/2814/rus/22.09.2003
+source: https://zan.gov.kz/client/#!/doc/2814/rus/13.10.2003
 ---
 
 ## Перечень развивающихся стран - пользователей схемой преференций Республики Казахстан
