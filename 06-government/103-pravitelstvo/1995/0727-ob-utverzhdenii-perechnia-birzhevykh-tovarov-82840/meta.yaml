@@ -10,15 +10,10 @@ approved_on: 1995-07-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2000-08-11
-  rus: 2000-08-11
+  kaz: 2000-08-27
+  rus: 2000-08-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/82840/kaz/11.08.2000
-  rus: https://zan.gov.kz/client/#!/doc/82840/rus/11.08.2000
+  kaz: https://zan.gov.kz/client/#!/doc/82840/kaz/27.08.2000
+  rus: https://zan.gov.kz/client/#!/doc/82840/rus/27.08.2000
 caused_by:
-  code: '6757'
-  requisite: Постановление Правительства Республики Казахстан от 12 августа 2000 года № 1253. Утратило силу постановлением Правительства Республики Казахстан от 6 апреля 2011 года № 375
-  title:
-    rus: О мерах по развитию биржевой деятельности в Республике Казахстан
-    kaz: Қазақстан Республикасында биржалық қызметтi дамыту жөнiндегi шаралар туралы
-  link: https://zan.gov.kz/client/#!/doc/6757/rus
+  code: '6845'
