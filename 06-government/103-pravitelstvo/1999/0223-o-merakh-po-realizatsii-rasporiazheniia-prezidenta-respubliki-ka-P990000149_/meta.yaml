@@ -15,7 +15,14 @@ versions:
 - date: 1999-02-23
   languages:
   - rus
+- date: 1999-07-18
+  languages:
+  - rus
+  cause:
+    code: P990000997_
 version_date:
-  rus: 1999-02-23
+  rus: 1999-07-18
 source:
-  rus: https://zan.gov.kz/client/#!/doc/2231/rus/23.02.1999
+  rus: https://zan.gov.kz/client/#!/doc/2231/rus/18.07.1999
+caused_by:
+  code: P990000997_
