@@ -1,5 +1,5 @@
 ---
-version_id: AI15532_0
+version_id: AI15532_2
 act_code: '15532'
 language: kaz
 title: Бағалы қағаздар рыногында кәсiби қызмет түрлерiн қоса атқару туралы
@@ -10,14 +10,13 @@ type_codes:
 approved_by:
 - '117000000000'
 approval_date: 2003-04-20
-version_date: 2003-04-20
+version_date: 2003-12-11
 registry_number: '15532'
-source: https://zan.gov.kz/client/#!/doc/15532/kaz/20.04.2003
-repealed_on: 2003-12-27
-repealed_by:
+caused_by:
   code: '17771'
   title: Бағалы қағаздар рыногында кәсіби қызмет түрлерін қоса атқару туралы
   link: https://zan.gov.kz/client/#!/doc/17771/kaz
+source: https://zan.gov.kz/client/#!/doc/15532/kaz/11.12.2003
 ---
 
 # Бағалы қағаздар рыногында кәсiби қызмет түрлерiн қоса атқару туралы
