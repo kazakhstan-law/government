@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16804/rus/11.04.2004
+source: https://zan.gov.kz/client/#!/doc/16804/rus/27.11.2004
 ---
 
 # Об утверждении Правил о пруденциальных нормативах для банковских групп
