@@ -10,6 +10,15 @@ approved_on: 1997-05-25
 approved_by:
 - '103000000000'
 version_date:
-  rus: 1997-05-25
+  kaz: 1999-01-19
+  rus: 1999-01-19
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1623/rus/25.05.1997
+  kaz: https://zan.gov.kz/client/#!/doc/1623/kaz/19.01.1999
+  rus: https://zan.gov.kz/client/#!/doc/1623/rus/19.01.1999
+caused_by:
+  code: '2142'
+  requisite: Постановление Правительства Республики Казахстан от 19 января 1999 года № 31
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/2142/rus
