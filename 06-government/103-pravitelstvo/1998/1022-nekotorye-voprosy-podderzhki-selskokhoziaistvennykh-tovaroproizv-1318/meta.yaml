@@ -10,8 +10,15 @@ approved_on: 1998-10-22
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1998-10-22
-  rus: 1998-10-22
+  kaz: 2005-04-04
+  rus: 2005-04-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/1318/kaz/22.10.1998
-  rus: https://zan.gov.kz/client/#!/doc/1318/rus/22.10.1998
+  kaz: https://zan.gov.kz/client/#!/doc/1318/kaz/04.04.2005
+  rus: https://zan.gov.kz/client/#!/doc/1318/rus/04.04.2005
+caused_by:
+  code: '23445'
+  requisite: Постановление Правительства Республики Казахстан от 4 апреля 2005 года N 297
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiнiң күшi жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/23445/rus
