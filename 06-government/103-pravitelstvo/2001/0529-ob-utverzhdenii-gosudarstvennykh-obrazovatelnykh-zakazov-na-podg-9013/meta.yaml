@@ -10,8 +10,15 @@ approved_on: 2001-05-29
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-05-29
-  rus: 2001-05-29
+  kaz: 2001-11-21
+  rus: 2001-11-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/9013/kaz/29.05.2001
-  rus: https://zan.gov.kz/client/#!/doc/9013/rus/29.05.2001
+  kaz: https://zan.gov.kz/client/#!/doc/9013/kaz/21.11.2001
+  rus: https://zan.gov.kz/client/#!/doc/9013/rus/21.11.2001
+caused_by:
+  code: '10427'
+  requisite: Постановление Правительства Республики Казахстан от 21 ноября 2001 года № 1498
+  title:
+    rus: О внесении дополнений и изменений в постановление Правительства Республики Казахстан от 30 мая 2001 года N 738
+    kaz: Қазақстан Республикасы Үкiметінің 2001 жылғы 30 мамырдағы N 738 қаулысына толықтырулар мен өзгерiстер енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/10427/rus
