@@ -15,7 +15,14 @@ versions:
 - date: 1997-03-21
   languages:
   - rus
+- date: 1997-03-31
+  languages:
+  - rus
+  cause:
+    code: P970000451_
 version_date:
-  rus: 1997-03-21
+  rus: 1997-03-31
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1409/rus/21.03.1997
+  rus: https://zan.gov.kz/client/#!/doc/1409/rus/31.03.1997
+caused_by:
+  code: P970000451_
