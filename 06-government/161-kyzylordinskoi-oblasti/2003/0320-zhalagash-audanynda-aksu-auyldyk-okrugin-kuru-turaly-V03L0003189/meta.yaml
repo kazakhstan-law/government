@@ -1,0 +1,21 @@
+key: V03L0003189
+akn: /akn/kz/act/2003-03-20/V03L0003189
+act_code: '15661'
+requisite: Постановление от 20.03.2003 №557/181, Акимат Кызылординской области
+title:
+  rus: Жалағаш ауданында "Ақсу" ауылдық округін құру туралы
+  kaz: Жалағаш ауданында "Ақсу" ауылдық округін құру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2003-03-20
+approved_by:
+- '161000000001'
+versions:
+- date: 2003-03-20
+  languages:
+  - kaz
+version_date:
+  kaz: 2003-03-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/15661/kaz/20.03.2003
