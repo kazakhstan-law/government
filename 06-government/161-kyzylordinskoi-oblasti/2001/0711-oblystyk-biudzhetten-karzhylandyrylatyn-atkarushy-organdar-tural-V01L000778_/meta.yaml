@@ -1,0 +1,21 @@
+key: V01L000778_
+akn: /akn/kz/act/2001-07-11/V01L000778_
+act_code: '9576'
+requisite: Постановление от 12.07.2001 №50, Акимат Кызылординской области
+title:
+  rus: Облыстық бюджеттен қаржыландырылатын атқарушы органдар туралы
+  kaz: Облыстық бюджеттен қаржыландырылатын атқарушы органдар туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2001-07-11
+approved_by:
+- '161000000001'
+versions:
+- date: 2001-07-11
+  languages:
+  - kaz
+version_date:
+  kaz: 2001-07-11
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/9576/kaz/11.07.2001
