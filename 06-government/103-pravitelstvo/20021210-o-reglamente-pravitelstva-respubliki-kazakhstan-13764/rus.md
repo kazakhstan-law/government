@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/rus/30.06.2003
+source: https://zan.gov.kz/client/#!/doc/13764/rus/11.08.2003
 ---
 
 # О Регламенте Правительства Республики Казахстан
