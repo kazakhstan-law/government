@@ -12,8 +12,15 @@ approved_on: 2004-02-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-02-27
-  rus: 2004-02-27
+  kaz: 2004-10-20
+  rus: 2004-10-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18795/kaz/27.02.2004
-  rus: https://zan.gov.kz/client/#!/doc/18795/rus/27.02.2004
+  kaz: https://zan.gov.kz/client/#!/doc/18795/kaz/20.10.2004
+  rus: https://zan.gov.kz/client/#!/doc/18795/rus/20.10.2004
+caused_by:
+  code: '21620'
+  requisite: Постановление Правительства Республики Казахстан от 21 октября 2004 года N 1086
+  title:
+    rus: О внесении дополнений в постановление Правительства Республики Казахстан от 27 февраля 2004 года N 242
+    kaz: Қазақстан Республикасы Үкiметiнiң 2004 жылғы 27 ақпандағы N 242 қаулысына толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/21620/rus
