@@ -23,10 +23,16 @@ versions:
   cause:
     code: '21086'
     key: P040000912_
+- date: 2004-08-30
+  languages:
+  - rus
+  cause:
+    code: '21086'
+    key: P040000912_
 version_date:
-  kaz: 2004-08-20
+  rus: 2004-08-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/13457/kaz/20.08.2004
+  rus: https://zan.gov.kz/client/#!/doc/13457/rus/30.08.2004
 caused_by:
   code: '21086'
   key: P040000912_
