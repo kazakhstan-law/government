@@ -15,7 +15,10 @@ versions:
 - date: 2003-09-23
   languages:
   - rus
+- date: 2005-01-27
+  languages:
+  - rus
 version_date:
-  rus: 2003-09-23
+  rus: 2005-01-27
 source:
-  rus: https://zan.gov.kz/client/#!/doc/17275/rus/23.09.2003
+  rus: https://zan.gov.kz/client/#!/doc/17275/rus/27.01.2005
