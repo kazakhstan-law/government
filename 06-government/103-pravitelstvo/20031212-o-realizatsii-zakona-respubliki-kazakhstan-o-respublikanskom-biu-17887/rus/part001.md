@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/17887/rus/12.12.2003
+source: https://zan.gov.kz/client/#!/doc/17887/rus/31.12.2003
 ---
 
 ## Республиканский бюджет Республики Казахстан на 2004 год
