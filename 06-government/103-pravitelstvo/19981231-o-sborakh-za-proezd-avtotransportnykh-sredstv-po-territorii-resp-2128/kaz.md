@@ -1,5 +1,5 @@
 ---
-version_id: AI2128_2
+version_id: AI2128_4
 act_code: '2128'
 language: kaz
 title: Қазақстан Республикасының аумағы бойынша автокөлік құралдарының жүріп өтуі үшін алынатын алымдар туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1998-12-31
-version_date: 2000-07-25
+version_date: 2002-01-11
 registry_number: '2128'
 caused_by:
-  code: '6569'
-  title: Қазақстан Республикасы Yкiметiнiң кейбiр шешiмдерiне өзгерiстер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/6569/kaz
-source: https://zan.gov.kz/client/#!/doc/2128/kaz/25.07.2000
+  code: '10997'
+  title: Қазақстан Республикасының автомобиль жолдарымен жүруге арналған автокөлік құралдарының рұқсат етілген параметрлерін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/10997/kaz
+source: https://zan.gov.kz/client/#!/doc/2128/kaz/11.01.2002
 ---
 
 # Қазақстан Республикасының аумағы бойынша автокөлік құралдарының жүріп өтуі үшін алынатын алымдар туралы
