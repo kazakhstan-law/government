@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/15532/kaz/20.04.2003
+repealed_on: 2003-12-27
+repealed_by:
+  code: '17771'
+  title: Бағалы қағаздар рыногында кәсіби қызмет түрлерін қоса атқару туралы
+  link: https://zan.gov.kz/client/#!/doc/17771/kaz
 ---
 
 # Бағалы қағаздар рыногында кәсiби қызмет түрлерiн қоса атқару туралы
