@@ -10,8 +10,15 @@ approved_on: 1999-11-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1999-11-25
-  rus: 1999-11-25
+  kaz: 2004-09-28
+  rus: 2004-09-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/4643/kaz/25.11.1999
-  rus: https://zan.gov.kz/client/#!/doc/4643/rus/25.11.1999
+  kaz: https://zan.gov.kz/client/#!/doc/4643/kaz/28.09.2004
+  rus: https://zan.gov.kz/client/#!/doc/4643/rus/28.09.2004
+caused_by:
+  code: '21401'
+  requisite: Постановление Правительства Республики Казахстан от 29 сентября 2004 года N 998. Утратило силу постановлением Правительства Республики Казахстан от 14 апреля 2009 года № 513
+  title:
+    rus: О некоторых вопросах лицензирования деятельности в области связи
+    kaz: Байланыс саласындағы қызметтi лицензиялаудың кейбiр мәселелерi туралы
+  link: https://zan.gov.kz/client/#!/doc/21401/rus
