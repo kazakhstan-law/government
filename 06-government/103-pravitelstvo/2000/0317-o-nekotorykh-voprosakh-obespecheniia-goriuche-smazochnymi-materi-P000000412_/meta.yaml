@@ -15,7 +15,24 @@ versions:
 - date: 2000-03-17
   languages:
   - rus
+- date: 2000-07-09
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '6395'
+    key: P000001041_
 version_date:
-  rus: 2000-03-17
+  kaz: 2000-07-09
+  rus: 2000-07-09
 source:
-  rus: https://zan.gov.kz/client/#!/doc/5550/rus/17.03.2000
+  kaz: https://zan.gov.kz/client/#!/doc/5550/kaz/09.07.2000
+  rus: https://zan.gov.kz/client/#!/doc/5550/rus/09.07.2000
+caused_by:
+  code: '6395'
+  key: P000001041_
+  requisite: Постановление Правительства Республики Казахстан от 10 июля 2000 года N 1041
+  title:
+    rus: О внесении изменений и дополнений в постановления Правительства Республики Казахстан от 4 марта 2000 года N 353 и от 17 марта 2000 года N 412
+    kaz: Қазақстан Республикасы Yкіметiнің 2000 жылғы 4 наурыздағы N 353 және 2000 жылғы 17 наурыздағы N 412 қаулыларына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/6395/rus
