@@ -11,8 +11,15 @@ approved_on: 1999-07-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1999-07-20
-  rus: 1999-07-20
+  kaz: 2002-06-27
+  rus: 2002-06-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/3626/kaz/20.07.1999
-  rus: https://zan.gov.kz/client/#!/doc/3626/rus/20.07.1999
+  kaz: https://zan.gov.kz/client/#!/doc/3626/kaz/27.06.2002
+  rus: https://zan.gov.kz/client/#!/doc/3626/rus/27.06.2002
+caused_by:
+  code: '12599'
+  requisite: Постановление Правительства Республики Казахстан от 28 июня 2002 года N 704
+  title:
+    rus: Отдельные вопросы, связанные с деятельностью Министерства сельского хозяйства Республики Казахстан
+    kaz: Қазақстан Республикасы Ауыл шаруашылығы министрлiгiнiң қызметiне байланысты жекелеген мәселелер
+  link: https://zan.gov.kz/client/#!/doc/12599/rus
