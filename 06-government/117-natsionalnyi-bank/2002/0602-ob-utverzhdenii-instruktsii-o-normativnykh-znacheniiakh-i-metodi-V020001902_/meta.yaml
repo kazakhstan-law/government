@@ -52,10 +52,16 @@ versions:
   cause:
     code: '20437'
     key: V040002930_
+- date: 2004-05-25
+  languages:
+  - kaz
+  cause:
+    code: '20437'
+    key: V040002930_
 version_date:
-  rus: 2004-05-23
+  kaz: 2004-05-25
 source:
-  rus: https://zan.gov.kz/client/#!/doc/12663/rus/23.05.2004
+  kaz: https://zan.gov.kz/client/#!/doc/12663/kaz/25.05.2004
 caused_by:
   code: '20437'
   key: V040002930_
