@@ -10,8 +10,15 @@ approved_on: 1999-06-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1999-06-30
-  rus: 1999-06-30
+  kaz: 2004-06-24
+  rus: 2004-06-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/3400/kaz/30.06.1999
-  rus: https://zan.gov.kz/client/#!/doc/3400/rus/30.06.1999
+  kaz: https://zan.gov.kz/client/#!/doc/3400/kaz/24.06.2004
+  rus: https://zan.gov.kz/client/#!/doc/3400/rus/24.06.2004
+caused_by:
+  code: '20266'
+  requisite: Постановление Правительства Республики Казахстан от 25 июня 2004 года N 702
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 1 июля 1999 года N 909
+    kaz: Қазақстан Республикасы Yкіметiнiң 1999 жылғы 1 шiлдедегi N 909 қаулысына өзгерiстер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/20266/rus
