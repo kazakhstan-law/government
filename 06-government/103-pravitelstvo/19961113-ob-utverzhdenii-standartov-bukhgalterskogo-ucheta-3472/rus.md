@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/3472/rus/30.11.2002
+source: https://zan.gov.kz/client/#!/doc/3472/rus/17.01.2003
 ---
 
 # Об утверждении Стандартов бухгалтерского учета
@@ -15,5 +15,5 @@ source: https://zan.gov.kz/client/#!/doc/3472/rus/30.11.2002
 |---|---|
 | [`part001`](rus/part001.md) | Постановление Национальной комиссии |
 | [`part001-part001`](rus/part001-part001.md) | Постановление Национальной комиссии |
-| [`part001-part080`](rus/part001-part080.md) | Определения |
-| [`part001-part155`](rus/part001-part155.md) | Раскрытие |
+| [`part001-part081`](rus/part001-part081.md) | Цель и сфера действия |
+| [`part001-part155`](rus/part001-part155.md) | Учет и отчетность фонда |
