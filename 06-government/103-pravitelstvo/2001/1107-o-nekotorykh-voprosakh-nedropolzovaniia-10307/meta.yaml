@@ -1,0 +1,17 @@
+act_code: '10307'
+requisite: Постановление Правительства Республики Казахстан от 7 ноября 2001 года N 1415
+title:
+  rus: О некоторых вопросах недропользования
+  kaz: Жер қойнауын пайдаланудың кейбiр мәселелерi туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2001-11-07
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2001-11-07
+  rus: 2001-11-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/10307/kaz/07.11.2001
+  rus: https://zan.gov.kz/client/#!/doc/10307/rus/07.11.2001
