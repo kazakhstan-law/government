@@ -10,8 +10,15 @@ approved_on: 2000-05-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2000-05-25
-  rus: 2000-05-25
+  kaz: 2003-10-14
+  rus: 2003-10-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/6088/kaz/25.05.2000
-  rus: https://zan.gov.kz/client/#!/doc/6088/rus/25.05.2000
+  kaz: https://zan.gov.kz/client/#!/doc/6088/kaz/14.10.2003
+  rus: https://zan.gov.kz/client/#!/doc/6088/rus/14.10.2003
+caused_by:
+  code: '17213'
+  requisite: Постановление Правительства Республики Казахстан от 15 октября 2003 года N 1055
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 26 мая 2000 года N 802
+    kaz: Қазақстан Pecпубликасы Үкіметінің 2000 жылғы 26 мамырдағы N 802 қаулысына өзгерiстер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/17213/rus
