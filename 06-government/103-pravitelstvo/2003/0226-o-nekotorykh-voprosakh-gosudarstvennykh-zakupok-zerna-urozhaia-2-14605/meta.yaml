@@ -11,8 +11,15 @@ approved_on: 2003-02-26
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-02-26
-  rus: 2003-02-26
+  kaz: 2003-08-25
+  rus: 2003-08-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/14605/kaz/26.02.2003
-  rus: https://zan.gov.kz/client/#!/doc/14605/rus/26.02.2003
+  kaz: https://zan.gov.kz/client/#!/doc/14605/kaz/25.08.2003
+  rus: https://zan.gov.kz/client/#!/doc/14605/rus/25.08.2003
+caused_by:
+  code: '16709'
+  requisite: Постановление Правительства Республики Казахстан от 26 августа 2003 года N 863
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 26 февраля 2003 года N 205
+    kaz: Қазақстан Республикасы Үкiметiнiң 2003 жылғы 26 ақпандағы N 205 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/16709/rus
