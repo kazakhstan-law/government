@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/11058/kaz/06.10.2004
+source: https://zan.gov.kz/client/#!/doc/11058/kaz/24.12.2004
 ---
 
 ## Қазақстан Республикасы Үкiметінің күшін жойған кейбiр шешімдерiнің тiзбесі
