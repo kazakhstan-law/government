@@ -1,5 +1,5 @@
 ---
-version_id: AI10214_0
+version_id: '10214_323595'
 act_code: '10214'
 language: kaz
 title: Мемлекеттік құпиялар мен олардың көздерін шет мемлекеттерге және (немесе) халықаралық ұйымдарға беру қағидаларын бекіту туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2001-10-23
-version_date: 2001-10-22
+version_date: 2001-10-23
 registry_number: '10214'
-source: https://zan.gov.kz/client/#!/doc/10214/kaz/22.10.2001
+source: https://zan.gov.kz/client/#!/doc/10214/kaz/23.10.2001
 ---
 
 # Мемлекеттік құпияларды құрайтын мәліметтерді шетелдік мемлекеттерге беру ережесін бекіту туралы
