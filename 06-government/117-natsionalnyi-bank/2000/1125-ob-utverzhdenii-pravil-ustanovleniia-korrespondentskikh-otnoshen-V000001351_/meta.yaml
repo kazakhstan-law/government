@@ -30,10 +30,16 @@ versions:
   cause:
     code: '21150'
     key: V040003048_
+- date: 2004-07-21
+  languages:
+  - rus
+  cause:
+    code: '21150'
+    key: V040003048_
 version_date:
-  kaz: 2004-06-21
+  rus: 2004-07-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7802/kaz/21.06.2004
+  rus: https://zan.gov.kz/client/#!/doc/7802/rus/21.07.2004
 caused_by:
   code: '21150'
   key: V040003048_
