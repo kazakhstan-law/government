@@ -1,5 +1,5 @@
 ---
-version_id: AI9477_1
+version_id: AI9477_3
 act_code: '9477'
 language: rus
 title: О завершении строительства и пуске в эксплуатацию первой линии метрополитена в городе Алматы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2001-07-11
-version_date: 2001-07-11
+version_date: 2001-12-11
 registry_number: '9477'
-source: https://zan.gov.kz/client/#!/doc/9477/rus/11.07.2001
+caused_by:
+  code: '10615'
+  title: О некоторых вопросах государственных гарантий
+  link: https://zan.gov.kz/client/#!/doc/10615/rus
+source: https://zan.gov.kz/client/#!/doc/9477/rus
 ---
 
 # О завершении строительства и пуске в эксплуатацию первой линии метрополитена в городе Алматы
