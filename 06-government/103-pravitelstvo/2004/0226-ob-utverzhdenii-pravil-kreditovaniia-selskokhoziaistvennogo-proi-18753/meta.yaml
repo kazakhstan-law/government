@@ -11,8 +11,15 @@ approved_on: 2004-02-26
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-02-26
-  rus: 2004-02-26
+  kaz: 2004-08-01
+  rus: 2004-08-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18753/kaz/26.02.2004
-  rus: https://zan.gov.kz/client/#!/doc/18753/rus/26.02.2004
+  kaz: https://zan.gov.kz/client/#!/doc/18753/kaz/01.08.2004
+  rus: https://zan.gov.kz/client/#!/doc/18753/rus/01.08.2004
+caused_by:
+  code: '20767'
+  requisite: Постановление Правительства Республики Казахстан от 2 августа 2004 года N 815
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 26 февраля 2004 года N 233
+    kaz: Қазақстан Республикасы Үкіметінің 2004 жылғы 26 ақпандағы N 233 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/20767/rus
