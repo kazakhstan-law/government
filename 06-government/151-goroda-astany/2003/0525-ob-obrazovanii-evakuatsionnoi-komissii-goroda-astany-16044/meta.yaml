@@ -1,0 +1,18 @@
+act_code: '16044'
+requisite: Постановление Акимата города Астаны от 26 мая 2003 года N 3-1-831п.
+title:
+  rus: Об образовании эвакуационной комиссии города Астаны
+  kaz: Астана қаласының көшіру комиссиясын құру туралы
+form: ПОСТ
+type_codes:
+- ПОЛ
+- ПОСТ
+approved_on: 2003-05-25
+approved_by:
+- '151000000001'
+version_date:
+  kaz: 2003-05-25
+  rus: 2003-05-25
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/16044/kaz/25.05.2003
+  rus: https://zan.gov.kz/client/#!/doc/16044/rus/25.05.2003
