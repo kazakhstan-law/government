@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2004-11-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '21951'
+    key: P040001237_
 version_date:
-  kaz: 2003-07-27
-  rus: 2003-07-27
+  kaz: 2004-11-26
+  rus: 2004-11-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16356/kaz/27.07.2003
-  rus: https://zan.gov.kz/client/#!/doc/16356/rus/27.07.2003
+  kaz: https://zan.gov.kz/client/#!/doc/16356/kaz/26.11.2004
+  rus: https://zan.gov.kz/client/#!/doc/16356/rus/26.11.2004
+caused_by:
+  code: '21951'
+  key: P040001237_
+  requisite: Постановление Правительства Республики Казахстан от 26 ноября 2004 года № 1237
+  title:
+    rus: Некоторые вопросы Министерства индустрии и новых технологий Республики Казахстан
+    kaz: Қазақстан Республикасы Индустрия және жаңа технологиялар министрлігінiң кейбiр мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/21951/rus
