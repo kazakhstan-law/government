@@ -10,8 +10,15 @@ approved_on: 2001-01-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2001-01-31
-  rus: 2001-01-31
+  kaz: 2004-10-19
+  rus: 2004-10-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8050/kaz/31.01.2001
-  rus: https://zan.gov.kz/client/#!/doc/8050/rus/31.01.2001
+  kaz: https://zan.gov.kz/client/#!/doc/8050/kaz/19.10.2004
+  rus: https://zan.gov.kz/client/#!/doc/8050/rus/19.10.2004
+caused_by:
+  code: '21607'
+  requisite: Постановление Правительства Республики Казахстан от 20 октября 2004 года N 1079
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 31 января 2001 года N 164
+    kaz: Қазақстан Республикасы Үкiметiнiң 2001 жылғы 31 қаңтардағы N 164 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/21607/rus
