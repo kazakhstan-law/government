@@ -10,10 +10,15 @@ approved_on: 2002-09-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-07-25
-  rus: 2004-07-25
+  kaz: 2005-01-28
+  rus: 2005-01-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/13214/kaz/25.07.2004
-  rus: https://zan.gov.kz/client/#!/doc/13214/rus/25.07.2004
+  kaz: https://zan.gov.kz/client/#!/doc/13214/kaz/28.01.2005
+  rus: https://zan.gov.kz/client/#!/doc/13214/rus/28.01.2005
 caused_by:
-  code: '20660'
+  code: '22684'
+  requisite: Постановление Правительства Республики Казахстан от 28 января 2005 года № 73
+  title:
+    rus: О внесении изменений и дополнения в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне өзгерiстер мен толықтыру енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/22684/rus
