@@ -11,8 +11,15 @@ approved_on: 2003-04-22
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-04-22
-  rus: 2003-04-22
+  kaz: 2003-11-07
+  rus: 2003-11-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15146/kaz/22.04.2003
-  rus: https://zan.gov.kz/client/#!/doc/15146/rus/22.04.2003
+  kaz: https://zan.gov.kz/client/#!/doc/15146/kaz/07.11.2003
+  rus: https://zan.gov.kz/client/#!/doc/15146/rus/07.11.2003
+caused_by:
+  code: '17362'
+  requisite: Постановление Правительства Республики Казахстан от 7 ноября 2003 года N 1103
+  title:
+    rus: О внесении дополнений в постановление Правительства Республики Казахстан от 23 апреля 2003 года N 386
+    kaz: Қазақстан Республикасы Yкiметiнiң 2003 жылғы 23 сәуiрдегi N 386 қаулысына толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/17362/rus
