@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/17887/kaz/30.11.2004
+source: https://zan.gov.kz/client/#!/doc/17887/kaz/09.12.2004
 ---
 
 ## Қазақстан Республикасының 2004 жылға арналған республикалық бюджеті
