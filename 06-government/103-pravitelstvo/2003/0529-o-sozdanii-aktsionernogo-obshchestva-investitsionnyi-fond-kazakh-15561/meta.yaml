@@ -10,8 +10,15 @@ approved_on: 2003-05-29
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-05-29
-  rus: 2003-05-29
+  kaz: 2003-06-10
+  rus: 2003-06-10
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/15561/kaz/29.05.2003
-  rus: https://zan.gov.kz/client/#!/doc/15561/rus/29.05.2003
+  kaz: https://zan.gov.kz/client/#!/doc/15561/kaz/10.06.2003
+  rus: https://zan.gov.kz/client/#!/doc/15561/rus/10.06.2003
+caused_by:
+  code: '15811'
+  requisite: Постановление Правительства Республики Казахстан от 11 июня 2003 года N 566
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 30 мая 2003 года N 501
+    kaz: Қазақстан Республикасы Yкiметiнің 2003 жылғы 30 мамырдағы N 501 қаулысына өзгерiс енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/15811/rus
