@@ -1,5 +1,5 @@
 ---
-version_id: AI2202_0
+version_id: AI2202_2
 act_code: '2202'
 language: rus
 title: Об утверждении Положения о порядке государственного учета вод и их использования
@@ -10,9 +10,11 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1995-02-15
-version_date: 1995-02-15
+version_date: 1996-08-19
 registry_number: '2202'
-source: https://zan.gov.kz/client/#!/doc/2202/rus/15.02.1995
+caused_by:
+  code: P960001031_
+source: https://zan.gov.kz/client/#!/doc/2202/rus/19.08.1996
 ---
 
 # Об утверждении Положения о порядке государственного учета вод и их использования<*> Сноска.В тексте Положения исключены слова - постановлением Правительства РК от 20 августа 1996 г. N 1031 ~P961031.

@@ -1,5 +1,5 @@
 ---
-version_id: AI435_0
+version_id: AI435_1
 act_code: '435'
 language: rus
 title: О Республиканском оперативно-спасательном отряде
@@ -10,9 +10,11 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1994-02-28
-version_date: 1994-02-28
+version_date: 1996-08-19
 registry_number: '435'
-source: https://zan.gov.kz/client/#!/doc/435/rus/28.02.1994
+caused_by:
+  code: P960001031_
+source: https://zan.gov.kz/client/#!/doc/435/rus/19.08.1996
 ---
 
 # О Республиканском оперативно-спасательном отряде<*> Сноска. В тексте постановления и Положения заменены слова - постановлением Правительства РК от 20 августа 1996 г. N 1031 ~P961031.
