@@ -1,0 +1,21 @@
+key: V03LG003156
+akn: /akn/kz/act/2003-03-14/V03LG003156
+act_code: '15585'
+requisite: Постановление от 14.03.2003 №261, Акимат Жанакорганского района
+title:
+  rus: Ақылы қоғамдық жұмыстарды ұйымдастыру туралы
+  kaz: Ақылы қоғамдық жұмыстарды ұйымдастыру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2003-03-14
+approved_by:
+- '161009000001'
+versions:
+- date: 2003-03-14
+  languages:
+  - kaz
+version_date:
+  kaz: 2003-03-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/15585/kaz/14.03.2003
