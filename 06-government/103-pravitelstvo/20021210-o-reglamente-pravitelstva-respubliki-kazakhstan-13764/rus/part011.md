@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/10.12.2002
+source: https://zan.gov.kz/client/#!/doc/13764/rus/30.06.2003
 ---
 
 ## 10. Порядок контроля исполнения
