@@ -15,7 +15,24 @@ versions:
 - date: 1997-05-25
   languages:
   - rus
+- date: 1999-01-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '2142'
+    key: P990000031_
 version_date:
-  rus: 1997-05-25
+  kaz: 1999-01-19
+  rus: 1999-01-19
 source:
-  rus: https://zan.gov.kz/client/#!/doc/1623/rus/25.05.1997
+  kaz: https://zan.gov.kz/client/#!/doc/1623/kaz/19.01.1999
+  rus: https://zan.gov.kz/client/#!/doc/1623/rus/19.01.1999
+caused_by:
+  code: '2142'
+  key: P990000031_
+  requisite: Постановление Правительства Республики Казахстан от 19 января 1999 года № 31
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/2142/rus
