@@ -22,10 +22,16 @@ versions:
   cause:
     code: '10997'
     key: P020000062_
+- date: 2002-01-19
+  languages:
+  - rus
+  cause:
+    code: '10997'
+    key: P020000062_
 version_date:
-  kaz: 2002-01-11
+  rus: 2002-01-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7676/kaz/11.01.2002
+  rus: https://zan.gov.kz/client/#!/doc/7676/rus/19.01.2002
 caused_by:
   code: '10997'
   key: P020000062_
