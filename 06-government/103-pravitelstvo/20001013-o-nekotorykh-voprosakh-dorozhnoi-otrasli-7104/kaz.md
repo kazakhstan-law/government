@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/7104/kaz/07.03.2003
+source: https://zan.gov.kz/client/#!/doc/7104/kaz/24.11.2004
 ---
 
 # Жол саласының кейбір мәселелері туралы
