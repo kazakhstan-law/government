@@ -11,8 +11,15 @@ approved_on: 2002-05-28
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2002-05-28
-  rus: 2002-05-28
+  kaz: 2004-08-30
+  rus: 2004-08-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/12263/kaz/28.05.2002
-  rus: https://zan.gov.kz/client/#!/doc/12263/rus/28.05.2002
+  kaz: https://zan.gov.kz/client/#!/doc/12263/kaz/30.08.2004
+  rus: https://zan.gov.kz/client/#!/doc/12263/rus/30.08.2004
+caused_by:
+  code: '21086'
+  requisite: Постановление Правительства Республики Казахстан от 31 августа 2004 года N 912
+  title:
+    rus: О внесении дополнений и изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне толықтырулар мен өзгерiстер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/21086/rus
