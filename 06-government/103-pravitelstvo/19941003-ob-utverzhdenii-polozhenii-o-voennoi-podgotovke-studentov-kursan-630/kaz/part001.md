@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/630/kaz/11.08.2003
+source: https://zan.gov.kz/client/#!/doc/630/kaz/16.05.2004
 ---
 
 ## Жоғары оқу орындары жанындағы әскери кафедралар туралы Ереже
