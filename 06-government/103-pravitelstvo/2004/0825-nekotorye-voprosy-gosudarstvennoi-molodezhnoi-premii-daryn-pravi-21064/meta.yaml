@@ -10,8 +10,10 @@ approved_on: 2004-08-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-08-25
-  rus: 2004-08-25
+  kaz: 2004-12-03
+  rus: 2004-12-03
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21064/kaz/25.08.2004
-  rus: https://zan.gov.kz/client/#!/doc/21064/rus/25.08.2004
+  kaz: https://zan.gov.kz/client/#!/doc/21064/kaz/03.12.2004
+  rus: https://zan.gov.kz/client/#!/doc/21064/rus/03.12.2004
+caused_by:
+  code: P040001256_
