@@ -1,0 +1,17 @@
+act_code: '23470'
+requisite: Постановление Правительства Республики Казахстан от 8 апреля 2005 года N 313
+title:
+  rus: О сборе яиц дрофы-красотки
+  kaz: Жек дуадақ жұмыртқасын жинау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2005-04-08
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2005-04-08
+  rus: 2005-04-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/23470/kaz/08.04.2005
+  rus: https://zan.gov.kz/client/#!/doc/23470/rus/08.04.2005
