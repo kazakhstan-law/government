@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/01.03.2005
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/21.04.2005
 ---
 
 ## сауда министрлiгi

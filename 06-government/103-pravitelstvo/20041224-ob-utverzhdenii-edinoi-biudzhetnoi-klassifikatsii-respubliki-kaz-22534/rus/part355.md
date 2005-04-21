@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22534/rus/01.03.2005
+source: https://zan.gov.kz/client/#!/doc/22534/rus/21.04.2005
 ---
 
 ## 457 Отдел градостроительства и строительства района (города областного значения)
