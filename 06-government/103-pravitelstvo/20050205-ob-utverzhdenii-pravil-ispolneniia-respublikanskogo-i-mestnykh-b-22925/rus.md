@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22925/rus/05.02.2005
+source: https://zan.gov.kz/client/#!/doc/22925/rus/27.05.2005
 ---
 
 # Об утверждении Правил исполнения республиканского и местных бюджетов
