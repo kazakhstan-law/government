@@ -10,8 +10,15 @@ approved_on: 2002-10-10
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2002-10-10
-  rus: 2002-10-10
+  kaz: 2005-06-22
+  rus: 2005-06-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/13331/kaz/10.10.2002
-  rus: https://zan.gov.kz/client/#!/doc/13331/rus/10.10.2002
+  kaz: https://zan.gov.kz/client/#!/doc/13331/kaz/22.06.2005
+  rus: https://zan.gov.kz/client/#!/doc/13331/rus/22.06.2005
+caused_by:
+  code: '24486'
+  requisite: Постановление Правительства Республики Казахстан от 22 июня 2005 года № 607
+  title:
+    rus: Вопросы Министерства внутренних дел Республики Казахстан
+    kaz: Қазақстан Республикасы Iшкi iстер министрлiгiнiң мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/24486/rus

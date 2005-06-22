@@ -10,15 +10,15 @@ approved_on: 2001-11-10
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-04-03
-  rus: 2003-04-03
+  kaz: 2005-06-22
+  rus: 2005-06-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/10345/kaz/03.04.2003
-  rus: https://zan.gov.kz/client/#!/doc/10345/rus/03.04.2003
+  kaz: https://zan.gov.kz/client/#!/doc/10345/kaz/22.06.2005
+  rus: https://zan.gov.kz/client/#!/doc/10345/rus/22.06.2005
 caused_by:
-  code: '14923'
-  requisite: Постановление Правительства Республики Казахстан от 4 апреля 2003 года № 321
+  code: '24486'
+  requisite: Постановление Правительства Республики Казахстан от 22 июня 2005 года № 607
   title:
-    rus: Отдельные вопросы Министерства внутренних дел Республики Казахстан
-    kaz: Қазақстан Республикасы Iшкi iстер министрлігінің жекелеген мәселелерi
-  link: https://zan.gov.kz/client/#!/doc/14923/rus
+    rus: Вопросы Министерства внутренних дел Республики Казахстан
+    kaz: Қазақстан Республикасы Iшкi iстер министрлiгiнiң мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/24486/rus
