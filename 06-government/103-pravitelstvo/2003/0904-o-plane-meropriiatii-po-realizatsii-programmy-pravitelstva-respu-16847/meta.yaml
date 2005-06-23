@@ -12,15 +12,10 @@ approved_on: 2003-09-04
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-11-15
-  rus: 2004-11-15
+  kaz: 2005-06-23
+  rus: 2005-06-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/16847/kaz/15.11.2004
-  rus: https://zan.gov.kz/client/#!/doc/16847/rus/15.11.2004
+  kaz: https://zan.gov.kz/client/#!/doc/16847/kaz/23.06.2005
+  rus: https://zan.gov.kz/client/#!/doc/16847/rus/23.06.2005
 caused_by:
-  code: '21859'
-  requisite: Постановление Правительства Республики Казахстан от 15 ноября 2004 года N 1201
-  title:
-    rus: О некоторых вопросах повышения эффективности управления государственным имуществом
-    kaz: Мемлекеттiк мүлiктi басқарудың тиiмдiлiгiн арттырудың кейбiр мәселелерi туралы
-  link: https://zan.gov.kz/client/#!/doc/21859/rus
+  code: '24487'
