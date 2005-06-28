@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22925/kaz/27.05.2005
+source: https://zan.gov.kz/client/#!/doc/22925/kaz/28.06.2005
 ---
 
 # Республикалық және жергiлiктi бюджеттердiң атқарылу ережесiн бекiту туралы
