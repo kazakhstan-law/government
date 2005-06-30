@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/6713/kaz/25.08.2004
+source: https://zan.gov.kz/client/#!/doc/6713/kaz/30.06.2005
 ---
 
 ## 7. Объектiлердi коллекциялардан алып қою
