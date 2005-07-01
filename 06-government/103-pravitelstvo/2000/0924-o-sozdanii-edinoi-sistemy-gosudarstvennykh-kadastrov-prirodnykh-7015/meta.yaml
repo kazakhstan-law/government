@@ -10,8 +10,15 @@ approved_on: 2000-09-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2000-09-24
-  rus: 2000-09-24
+  kaz: 2005-07-01
+  rus: 2005-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7015/kaz/24.09.2000
-  rus: https://zan.gov.kz/client/#!/doc/7015/rus/24.09.2000
+  kaz: https://zan.gov.kz/client/#!/doc/7015/kaz/01.07.2005
+  rus: https://zan.gov.kz/client/#!/doc/7015/rus/01.07.2005
+caused_by:
+  code: '24587'
+  requisite: Постановление Правительства Республики Казахстан от 1 июля 2005 года N 675. Утратило силу постановлением Правительства РК от 18 января 2008 года N 29.
+  title:
+    rus: О внесении изменений и дополнения в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне өзгерiстер мен толықтыру енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/24587/rus
