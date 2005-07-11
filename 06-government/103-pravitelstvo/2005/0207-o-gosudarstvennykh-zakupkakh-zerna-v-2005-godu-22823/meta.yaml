@@ -10,8 +10,15 @@ approved_on: 2005-02-07
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2005-02-07
-  rus: 2005-02-07
+  kaz: 2005-07-11
+  rus: 2005-07-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22823/kaz/07.02.2005
-  rus: https://zan.gov.kz/client/#!/doc/22823/rus/07.02.2005
+  kaz: https://zan.gov.kz/client/#!/doc/22823/kaz/11.07.2005
+  rus: https://zan.gov.kz/client/#!/doc/22823/rus/11.07.2005
+caused_by:
+  code: '24677'
+  requisite: Постановление Правительства Республики Казахстан от 11 июля 2005 года N 719
+  title:
+    rus: О внесении изменений в постановление Правительства Республики Казахстан от 7 февраля 2005 года N 116
+    kaz: Қазақстан Республикасы Үкiметiнiң 2005 жылғы 7 ақпандағы N 116 қаулысына өзгерiстер енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/24677/rus
