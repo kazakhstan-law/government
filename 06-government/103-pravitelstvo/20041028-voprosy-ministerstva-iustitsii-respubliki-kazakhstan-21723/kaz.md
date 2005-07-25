@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/02.06.2005
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/25.07.2005
 ---
 
 # Қазақстан Республикасы Әділет министрлігінің мәселелерi
