@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/24.08.2005
+source: https://zan.gov.kz/client/#!/doc/21951/rus/25.08.2005
 ---
 
 ## 5. Права Комитета
