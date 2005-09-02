@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/16847/rus/29.07.2005
+source: https://zan.gov.kz/client/#!/doc/16847/rus/02.09.2005
 ---
 
 ## 11. Внутриполитическая стабильность и консолидация общества
