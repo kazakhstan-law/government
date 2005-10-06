@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22124/rus/22.09.2005
+source: https://zan.gov.kz/client/#!/doc/22124/rus/06.10.2005
 ---
 
 ## ВСЕГО 1107800
