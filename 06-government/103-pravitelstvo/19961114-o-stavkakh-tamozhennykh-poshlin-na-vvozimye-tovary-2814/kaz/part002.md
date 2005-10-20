@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/2814/kaz/05.05.2005
+source: https://zan.gov.kz/client/#!/doc/2814/kaz/20.10.2005
 ---
 
 ## Перечень наименее развитых стран - пользователей схемой преференций Республики Казахстан
