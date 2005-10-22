@@ -10,11 +10,11 @@ approved_on: 2004-12-08
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2005-10-21
-  rus: 2005-10-21
+  kaz: 2005-10-22
+  rus: 2005-10-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22124/kaz/21.10.2005
-  rus: https://zan.gov.kz/client/#!/doc/22124/rus/21.10.2005
+  kaz: https://zan.gov.kz/client/#!/doc/22124/kaz/22.10.2005
+  rus: https://zan.gov.kz/client/#!/doc/22124/rus/22.10.2005
 caused_by:
   code: '25602'
   requisite: Постановление Правительства Республики Казахстан от 21 октября 2005 года N 1056
