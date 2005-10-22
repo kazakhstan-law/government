@@ -113,12 +113,24 @@ versions:
   cause:
     code: '25602'
     key: P050001056_
+- date: 2005-10-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '25602'
+    key: P050001056_
+  also_caused_by:
+  - code: '25606'
+    key: P050001062_
+  - code: '25621'
+    key: P050001065_
 version_date:
-  kaz: 2005-10-21
-  rus: 2005-10-21
+  kaz: 2005-10-22
+  rus: 2005-10-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22124/kaz/21.10.2005
-  rus: https://zan.gov.kz/client/#!/doc/22124/rus/21.10.2005
+  kaz: https://zan.gov.kz/client/#!/doc/22124/kaz/22.10.2005
+  rus: https://zan.gov.kz/client/#!/doc/22124/rus/22.10.2005
 caused_by:
   code: '25602'
   key: P050001056_
