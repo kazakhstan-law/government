@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/9388/rus/24.07.2003
+source: https://zan.gov.kz/client/#!/doc/9388/rus/25.10.2005
 ---
 
 # Об утверждении Правил проведения валютных операций в Республике Казахстан
