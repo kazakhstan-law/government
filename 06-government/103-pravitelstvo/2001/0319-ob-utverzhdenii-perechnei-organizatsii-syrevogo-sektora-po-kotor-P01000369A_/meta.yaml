@@ -42,11 +42,17 @@ versions:
   - rus
   cause:
     code: '20695'
+- date: 2005-10-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '25626'
 version_date:
-  kaz: 2004-07-27
-  rus: 2004-07-27
+  kaz: 2005-10-26
+  rus: 2005-10-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8507/kaz/27.07.2004
-  rus: https://zan.gov.kz/client/#!/doc/8507/rus/27.07.2004
+  kaz: https://zan.gov.kz/client/#!/doc/8507/kaz/26.10.2005
+  rus: https://zan.gov.kz/client/#!/doc/8507/rus/26.10.2005
 caused_by:
-  code: '20695'
+  code: '25626'
