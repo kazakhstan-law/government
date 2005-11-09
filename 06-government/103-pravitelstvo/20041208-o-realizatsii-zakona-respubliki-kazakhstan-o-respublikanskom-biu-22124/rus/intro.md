@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22124/rus/08.11.2005
+source: https://zan.gov.kz/client/#!/doc/22124/rus/09.11.2005
 ---
 
 # О реализации Закона Республики Казахстан "О республиканском бюджете на 2005 год"
