@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22124/kaz/09.11.2005
+source: https://zan.gov.kz/client/#!/doc/22124/kaz/12.11.2005
 ---
 
 ## жер қатынастары
