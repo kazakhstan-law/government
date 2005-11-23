@@ -1,5 +1,5 @@
 ---
-version_id: AI13729_0
+version_id: AI13729_2
 act_code: '13729'
 language: kaz
 title: Оларға қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесін және ерекше қауiптi зиянды организмдер тiзбесiн бекiту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2002-12-10
-version_date: 2002-12-10
+version_date: 2005-11-23
 registry_number: '13729'
-source: https://zan.gov.kz/client/#!/doc/13729/kaz/10.12.2002
+caused_by:
+  code: '25874'
+  title: Қазақстан Республикасы Yкiметiнiң 2002 жылғы 10 желтоқсандағы № 1295 қаулысына өзгерістер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/25874/kaz
+source: https://zan.gov.kz/client/#!/doc/13729/kaz/23.11.2005
 ---
 
 # Карантиндiк объектiлер және ерекше қауiптi зиянды организмдер тiзбелерiн бекiту туралы
@@ -42,7 +46,9 @@ source: https://zan.gov.kz/client/#!/doc/13729/kaz/10.12.2002
 
 ## Қарсы күрес жүргiзу iсi республикалық бюджет қаражаты есебiнен жүзеге асырылатын карантиндiк объектiлер тiзбесi
 
-Қазақстан Республикасының аумағында жоқ карантиндiк маңызы бар, өсiмдiктер зиянкестерi, ауруларын қоздырғыштар және арамшөптер
+> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 қаулысымен.*
+
+## Қазақстан Республикасының аумағында жоқ карантиндiк маңызы бар, өсiмдiктер зиянкестерi, ауруларын қоздырғыштар және арамшөптер
 
 ## А. Өсiмдiктер зиянкестерi
 
@@ -51,8 +57,6 @@ Anoplophora glabripennis Motschulsky
 Callosobruchus analis L.
 
 Spodoptera litura Fabr.
-
-Hyphantria cunea Drury.
 
 Liriomyza trifolii (Burg)
 
@@ -123,6 +127,10 @@ Popillia japonica (Newm).
 Geroplastes japonicus Green.
 
 Leucaspis japonica Ckll.
+
+Viteus vitifolli (Fitsch).
+
+Callosobruchus maculatus F.
 
 ## Б. Өсімдіктер аурулары
 
@@ -238,9 +246,7 @@ Cenchrus payciflorus Benth.
 
 Bidens pilosa L.
 
-Қазақстан Республикасының аумағында таралуы шектелген
-
-карантиндік объектілер
+## Қазақстан Республикасының аумағында таралуы шектелген карантиндік объектілер
 
 ## А. Өсімдіктер зиянкестері
 
@@ -250,13 +256,9 @@ Quadraspidiotus perniciosus (Comst.)
 
 Trogoderma granarium (Ev.)
 
-Leptinotarsa decemlineata Say.
-
-Viteus vitifolli (Fitsch).
-
 Pseudococcus comstocki Kuw.
 
-Callosobruchus maculatus F.
+Нурhаntria cunea Drury.
 
 ## Б. Арамшөптер
 
@@ -278,6 +280,8 @@ Cuscuta sp.sp
 
 ## Ерекше қауіпті зиянды организмдер тізбесі
 
+> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 қаулысымен.*
+
 1\. Өсімдіктер зиянкестері:
 
 1) шегіртке (азиялық, мароккандық және прус);
@@ -296,6 +300,8 @@ Cuscuta sp.sp
 
 8) сарышұнақтар;
 
-9) тышқан тәрізді кеміргіштер.
+9) тышқан тәрізді кеміргіштер;
+
+10) колорадо картоп қоңызы.
 
 2\. Өсімдіктер аурулары - дәнді дақылдардың таты мен септориозы.
