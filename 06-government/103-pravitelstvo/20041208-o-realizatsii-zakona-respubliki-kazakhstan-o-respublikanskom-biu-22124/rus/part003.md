@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22124/rus/21.11.2005
+source: https://zan.gov.kz/client/#!/doc/22124/rus/24.11.2005
 ---
 
 ## Погашение бюджетных кредитов 12457377
