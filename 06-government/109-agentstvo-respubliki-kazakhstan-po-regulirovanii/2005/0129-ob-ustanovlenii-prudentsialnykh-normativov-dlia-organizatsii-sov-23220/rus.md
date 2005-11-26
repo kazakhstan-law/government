@@ -412,7 +412,7 @@
 
 отчетов об их выполнении *
 
-> *Сноска. В Приложение 1 внесены изменения и дополнения - постановлением Правления Агентства Республики Казахстан по регулированию и надзору финансового рынка и финансовых организаций от 29 октября 2005 года N 387 (вводится в действие по истечении 14 дней со дня гос.регистрации в МЮ РК).*
+> *Сноска. В Приложение 1 внесены изменения и дополнения - постановлением Правления Агентства Республики Казахстан по регулированию и надзору финансового рынка и финансовых организаций от 29 октября 2005 года N 387 (вводится в действие по истечении 14 дней со дня гос.регистрации в МЮ РК); постановлением Правления Агентства Республики Казахстан по регулированию и надзору финансового рынка и финансовых организаций от 26 ноября 2005 года N 414.*
 
 ### Значения коэффициента дефолта
 
@@ -525,18 +525,7 @@ Service&quot;)
 <td>0,10</td>
 </tr>
 <tr>
-<td>
-Паи инвестиционных фон-
-дов, имеющих рейтинговую
-оценку не ниже &quot;ААА&quot; (по
-классификации рейтинго-
-вых агентств &quot;Standard &amp;
-Poor's&quot; и &quot;Fitch&quot;) или
-&quot;Ааа&quot; (по классификации
-рейтингового агентства
-&quot;Moody's Investors
-Service&quot;)
-</td>
+<td>Паи иностранных инвестиционных фондов, имеющих рейтинговую оценку &quot;Standard &amp; Poor's principal stability fund ratings&quot; не ниже &quot;AAAm&quot; либо &quot;Standard &amp; Poor's Fund credit quality ratings&quot; не ниже &quot;AAAf&quot;</td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,03</td>
@@ -605,18 +594,7 @@ Service&quot;)
 <td>0,26</td>
 </tr>
 <tr>
-<td>
-Паи инвестиционных фон-
-дов, имеющих рейтинговую
-оценку не ниже &quot;АА&quot; (по
-классификации рейтинго-
-вых агентств &quot;Standard &amp;
-Poor's&quot; и &quot;Fitch&quot;) или
-&quot;Аа2&quot; (по классификации
-рейтингового агентства
-&quot;Moody's Investors
-Service&quot;)
-</td>
+<td>Паи инвестиционных фондов, имеющих рейтинговую оценку &quot;Standard &amp; Poor's principal stability fund ratings&quot; не ниже &quot;AAm&quot; либо &quot;Standard &amp; Poor's Fund credit quality ratings&quot; не ниже &quot;AAf&quot;</td>
 <td>0,01</td>
 <td>0,03</td>
 <td>0,08</td>
@@ -685,18 +663,7 @@ Service&quot;)
 <td>0,57</td>
 </tr>
 <tr>
-<td>
-Паи инвестиционных фон-
-дов, имеющих рейтинговую
-оценку не ниже &quot;А&quot; (по
-классификации рейтинго-
-вых агентств &quot;Standard &amp;
-Poor's&quot; и &quot;Fitch&quot;) или
-&quot;А2&quot; (по классификации
-рейтингового агентства
-&quot;Moody's Investors
-Service&quot;)
-</td>
+<td>Паи иностранных инвестиционных фондов, имеющих рейтинговую оценку оценку &quot;Standard &amp; Poor's principal stability fund ratings&quot; не ниже &quot;Am&quot; либо &quot;Standard &amp; Poor's Fund credit quality ratings&quot; не ниже &quot;Af&quot;</td>
 <td>0,05</td>
 <td>0,14</td>
 <td>0,24</td>
@@ -765,18 +732,7 @@ Service&quot;)
 <td>2,15</td>
 </tr>
 <tr>
-<td>
-Паи инвестиционных фон-
-дов, имеющих рейтинговую
-оценку не ниже &quot;BBB&quot; (по
-классификации рейтинго-
-вых агентств &quot;Standard &amp;
-Poor's&quot; и &quot;Fitch&quot;) или
-&quot;Baa2&quot; (по классификации
-рейтингового агентства
-&quot;Moody's Investors
-Service&quot;)
-</td>
+<td>Паи иностранных инвестиционных фондов, имеющих рейтинговую оценку &quot;Standard &amp; Poor's principal stability fund ratings&quot; не ниже &quot;BBBm&quot; либо &quot;Standard &amp; Poor's Fund credit quality ratings&quot; не ниже &quot;BBBf&quot;</td>
 <td>0,26</td>
 <td>0,61</td>
 <td>0,98</td>
@@ -849,18 +805,7 @@ Service&quot;)
 <td>10,46</td>
 </tr>
 <tr>
-<td>
-Паи инвестиционных фон-
-дов, имеющих рейтинговую
-оценку не ниже &quot;BB&quot; (по
-классификации рейтинго-
-вых агентств &quot;Standard &amp;
-Poor's&quot; и &quot;Fitch&quot;) или
-&quot;Ba2&quot; (по классификации
-рейтингового агентства
-&quot;Moody's Investors
-Service&quot;)
-</td>
+<td>Паи инвестиционных фондов, имеющих рейтинговую оценку &quot;Standard &amp; Poor's principal stability fund ratings&quot; не ниже &quot;BBm&quot; либо &quot;Standard &amp; Poor's Fund credit quality ratings&quot; не ниже &quot;BBf&quot;</td>
 <td>1,20</td>
 <td>3,43</td>
 <td>6,06</td>
