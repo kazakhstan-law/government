@@ -397,7 +397,7 @@
 
 > *Ескерту: Қосымшаның жоғарғы оң бұрышындағы "және олардың орындалуы туралы есептердi ұсыну" деген сөздер алынып тасталды - ҚР Қаржы нарығын және қаржы ұйымдарын реттеу мен қадағалау агенттігі Басқармасының 2005 жылғы 27 тамыздағы N 310 қаулысымен ( қолданысқа енгізілу тәртібін 2-тармақтан қараңыз ).*
 
-> *Ескерту: Қосымшаға өзгертулер енгізілді - ҚР Қаржы нарығын және қаржы ұйымдарын реттеу мен қадағалау жөніндегі агенттігі Басқармасының 2005 жылғы 29 қазандағы N 387 қаулысымен .*
+> *Ескерту: Қосымшаға өзгертулер енгізілді - ҚР Қаржы нарығын және қаржы ұйымдарын реттеу мен қадағалау жөніндегі агенттігі Басқармасының 2005 жылғы 29 қазандағы N 387 қаулысымен , 2005 жылғы 26 қарашадағы N 414 қаулысымен .*
 
 ### Дефолт коэффициентінің мәні
 
@@ -507,19 +507,7 @@ Investors Service&quot;
 <td>0,10</td>
 </tr>
 <tr>
-<td>
-&quot;ААА&quot; (&quot;Standard &amp;
-Poor's&quot; және &quot;Fitch&quot;
-рейтинг агенттіктерінің
-жіктелімі бойынша)
-немесе &quot;Ааа&quot; (&quot;Moody's
-Investors Service&quot;
-рейтинг агенттігінің
-жіктелімі бойынша) кем
-емес рейтинг бағасы бар
-инвестициялық қорлардың
-пайлары
-</td>
+<td>&quot;AAAm&quot;-нен кем &quot;Standard &amp; Poor's principal stability fund ratings&quot; не &quot;AAAf&quot;-тен кем емес &quot;Standard &amp; Poor's Fund credit quality ratings&quot; рейтинг бағасы бар инвестициялық қорлардың пайлары</td>
 <td>0,00</td>
 <td>0,00</td>
 <td>0,03</td>
@@ -590,19 +578,7 @@ Investors Service&quot;
 <td>0,26</td>
 </tr>
 <tr>
-<td>
-&quot;АА&quot; (&quot;Standard &amp;
-Poor's&quot; және &quot;Fitch&quot;
-рейтинг агенттіктерінің
-жіктелімі бойынша)
-немесе &quot;Аа2&quot; (&quot;Moody's
-Investors Service&quot;
-рейтинг агенттігінің
-жіктелімі бойынша) кем
-емес рейтинг бағасы бар
-инвестициялық қорлардың
-пайлары
-</td>
+<td>&quot;AAm&quot;-нен кем &quot;Standard &amp; Poor's principal stability fund ratings&quot; не &quot;AAf&quot;-тен кем емес &quot;Standard &amp; Poor's Fund credit quality ratings&quot; рейтинг бағасы бар инвестициялық қорлардың пайлары</td>
 <td>0,01</td>
 <td>0,03</td>
 <td>0,08</td>
@@ -672,19 +648,7 @@ tors Service&quot; рейтинг
 <td>0,57</td>
 </tr>
 <tr>
-<td>
-&quot;А&quot; (&quot;Standard &amp; Poor's&quot;
-және &quot;Fitch&quot; рейтинг
-агенттіктерінің
-жіктелімі бойынша)
-немесе &quot;А2&quot; (&quot;Moody's
-Investors Service&quot;
-рейтинг агенттігінің
-жіктелімі бойынша) кем
-емес рейтинг бағасы бар
-инвестициялық қорлардың
-пайлары
-</td>
+<td>&quot;Am&quot;-нен кем &quot;Standard &amp; Poor's principal stability fund ratings&quot; не &quot;Af&quot;-тен кем емес &quot;Standard &amp; Poor's Fund credit quality ratings&quot; рейтинг бағасы бар шетелдік инвестициялық қорлардың пайлары</td>
 <td>0,05</td>
 <td>0,14</td>
 <td>0,24</td>
@@ -754,19 +718,7 @@ Investors Service&quot;
 <td>2,15</td>
 </tr>
 <tr>
-<td>
-&quot;ВВВ&quot; (&quot;Standard &amp;
-Poor's&quot; және &quot;Fitch&quot;
-рейтинг агенттіктерінің
-жіктелімі бойынша)
-немесе &quot; Baa2&quot; (&quot;Moody's
-Investors Service&quot;
-рейтинг агенттігінің
-жіктелімі бойынша) кем
-емес рейтинг бағасы бар
-инвестициялық қорлардың
-пайлары
-</td>
+<td>&quot;ВВВm&quot;-нен кем &quot;Standard &amp; Poor's principal stability fund ratings&quot; не &quot;ВВВf&quot;-тен кем емес &quot;Standard &amp; Poor's Fund credit quality ratings&quot; рейтинг бағасы бар шетелдік инвестициялық қорлардың пайлары</td>
 <td>0,26</td>
 <td>0,61</td>
 <td>0,98</td>
@@ -840,19 +792,7 @@ Investors Service&quot;
 <td>10,46</td>
 </tr>
 <tr>
-<td>
-&quot;ВВ&quot; (&quot;Standard &amp;
-Poor's&quot; және &quot;Fitch&quot;
-рейтинг агенттіктерінің
-жіктелімі бойынша)
-немесе &quot;Ba2&quot; (&quot;Moody's
-Investors Service&quot;
-рейтинг агенттігінің
-жіктелімі бойынша) кем
-емес рейтинг бағасы бар
-инвестициялық қорлардың
-пайлары
-</td>
+<td>&quot;ВВm&quot;-нен кем &quot;Standard &amp; Poor's principal stability fund ratings&quot; не &quot;ВВf&quot;-тен кем емес &quot;Standard &amp; Poor's Fund credit quality ratings&quot; рейтинг бағасы бар инвестициялық қорлардың пайлары</td>
 <td>1,20</td>
 <td>3,43</td>
 <td>6,06</td>
