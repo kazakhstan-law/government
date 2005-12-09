@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22124/kaz/06.12.2005
+source: https://zan.gov.kz/client/#!/doc/22124/kaz/09.12.2005
 ---
 
 ## өткiзуiнен түсетiн түсiмдер
