@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/01.03.2005
+source: https://zan.gov.kz/client/#!/doc/13764/rus/14.02.2006
 ---
 
 ## РЕГЛАМЕНТ

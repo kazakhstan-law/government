@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/01.03.2005
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/14.02.2006
 ---
 
 ## 8. Прокурорлық ден қою актiлерiн қарау кезiнде орталық атқарушы органдардың өзара iс-қимыл жасау тәртiбi
