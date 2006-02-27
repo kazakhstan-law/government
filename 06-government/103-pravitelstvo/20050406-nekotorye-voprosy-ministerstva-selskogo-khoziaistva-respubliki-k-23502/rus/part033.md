@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/23502/rus/26.01.2006
+source: https://zan.gov.kz/client/#!/doc/23502/rus/27.02.2006
 ---
 
 ## 4. Организация деятельности Комитета
