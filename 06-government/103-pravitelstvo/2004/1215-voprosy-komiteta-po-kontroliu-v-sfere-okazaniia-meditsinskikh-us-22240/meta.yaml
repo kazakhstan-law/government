@@ -11,8 +11,15 @@ approved_on: 2004-12-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-12-15
-  rus: 2004-12-15
+  kaz: 2006-02-27
+  rus: 2006-02-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22240/kaz/15.12.2004
-  rus: https://zan.gov.kz/client/#!/doc/22240/rus/15.12.2004
+  kaz: https://zan.gov.kz/client/#!/doc/22240/kaz/27.02.2006
+  rus: https://zan.gov.kz/client/#!/doc/22240/rus/27.02.2006
+caused_by:
+  code: '26693'
+  requisite: Постановление Правительства Республики Казахстан от 27 февраля 2006 года № 134
+  title:
+    rus: О внесении изменений и дополнения в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Yкiметiнiң кейбiр шешiмдерiне өзгерiстер мен толықтыру енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/26693/rus
