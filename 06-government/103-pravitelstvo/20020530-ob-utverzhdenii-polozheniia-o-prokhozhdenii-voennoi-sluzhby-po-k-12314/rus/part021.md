@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/12314/rus/21.07.2005
+source: https://zan.gov.kz/client/#!/doc/12314/rus/28.04.2006
 ---
 
 ## Книга регистрации бланков контрактов* по ______________________________________

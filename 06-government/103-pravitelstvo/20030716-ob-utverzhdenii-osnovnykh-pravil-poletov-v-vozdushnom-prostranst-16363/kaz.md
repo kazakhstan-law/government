@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/16363/kaz/16.07.2003
+source: https://zan.gov.kz/client/#!/doc/16363/kaz/28.04.2006
 ---
 
 # Қазақстан Республикасының әуе кеңiстігінде ұшудың негiзгi ережесiн бекiту туралы
