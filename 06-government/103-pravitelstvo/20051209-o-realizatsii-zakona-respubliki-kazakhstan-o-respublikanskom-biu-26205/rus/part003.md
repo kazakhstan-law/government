@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/26205/rus/24.05.2006
+source: https://zan.gov.kz/client/#!/doc/26205/rus/19.06.2006
 ---
 
 ## II. Затраты 1528806761
