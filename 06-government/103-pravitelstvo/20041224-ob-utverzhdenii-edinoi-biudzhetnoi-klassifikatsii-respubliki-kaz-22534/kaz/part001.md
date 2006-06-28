@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/20.05.2006
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/28.06.2006
 ---
 
 ## 1) Бюджет түсімдерінің сыныптамасы
