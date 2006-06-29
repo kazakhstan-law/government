@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26205/kaz/28.06.2006
+source: https://zan.gov.kz/client/#!/doc/26205/kaz/29.06.2006
 ---
 
 ## Барлығы 499921 177740 233972 88209
