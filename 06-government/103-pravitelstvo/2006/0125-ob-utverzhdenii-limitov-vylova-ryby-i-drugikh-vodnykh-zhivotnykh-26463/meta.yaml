@@ -10,8 +10,15 @@ approved_on: 2006-01-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-01-25
-  rus: 2006-01-25
+  kaz: 2006-06-30
+  rus: 2006-06-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/26463/kaz/25.01.2006
-  rus: https://zan.gov.kz/client/#!/doc/26463/rus/25.01.2006
+  kaz: https://zan.gov.kz/client/#!/doc/26463/kaz/30.06.2006
+  rus: https://zan.gov.kz/client/#!/doc/26463/rus/30.06.2006
+caused_by:
+  code: '28557'
+  requisite: Постановление Правительства Республики Казахстан от 30 июня 2006 года № 607
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 25 января 2006 года № 50
+    kaz: Қазақстан Республикасы Үкiметiнiң 2006 жылғы 25 қаңтардағы № 50 қаулысына өзгерiс енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/28557/rus
