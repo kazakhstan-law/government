@@ -23,11 +23,17 @@ versions:
   - rus
   cause:
     code: P060000280_
+- date: 2006-07-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: P060000661_
 version_date:
-  kaz: 2006-04-14
-  rus: 2006-04-14
+  kaz: 2006-07-12
+  rus: 2006-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/26206/kaz/14.04.2006
-  rus: https://zan.gov.kz/client/#!/doc/26206/rus/14.04.2006
+  kaz: https://zan.gov.kz/client/#!/doc/26206/kaz/12.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/26206/rus/12.07.2006
 caused_by:
-  code: P060000280_
+  code: P060000661_
