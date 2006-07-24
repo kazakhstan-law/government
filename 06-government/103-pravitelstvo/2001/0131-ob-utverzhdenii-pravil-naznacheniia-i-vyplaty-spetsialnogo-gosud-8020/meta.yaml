@@ -11,9 +11,11 @@ approved_on: 2001-01-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-06-24
+  kaz: 2006-07-24
+  rus: 2006-07-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8020/kaz/24.06.2006
+  kaz: https://zan.gov.kz/client/#!/doc/8020/kaz/24.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/8020/rus/24.07.2006
 caused_by:
   code: '28980'
   requisite: Постановление Правительства Республики Казахстан от 24 июля 2006 года № 702. Утратило силу постановлением Правительства Республики Казахстан от 10 сентября 2015 года № 765
