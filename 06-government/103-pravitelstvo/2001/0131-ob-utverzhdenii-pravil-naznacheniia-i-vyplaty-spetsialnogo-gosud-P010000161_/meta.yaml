@@ -44,10 +44,19 @@ versions:
   cause:
     code: '28980'
     key: P060000702_
+- date: 2006-07-24
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '28980'
+    key: P060000702_
 version_date:
-  kaz: 2006-06-24
+  kaz: 2006-07-24
+  rus: 2006-07-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8020/kaz/24.06.2006
+  kaz: https://zan.gov.kz/client/#!/doc/8020/kaz/24.07.2006
+  rus: https://zan.gov.kz/client/#!/doc/8020/rus/24.07.2006
 caused_by:
   code: '28980'
   key: P060000702_
