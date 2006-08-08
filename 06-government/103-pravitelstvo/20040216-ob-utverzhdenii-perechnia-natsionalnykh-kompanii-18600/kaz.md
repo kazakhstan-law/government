@@ -1,5 +1,5 @@
 ---
-version_id: AI18600_4
+version_id: AI18600_6
 act_code: '18600'
 language: kaz
 title: Ұлттық компаниялардың тiзбесiн бекiту туралы
@@ -11,13 +11,11 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2004-02-16
-version_date: 2005-03-17
+version_date: 2006-08-08
 registry_number: '18600'
 caused_by:
-  code: '23202'
-  title: '"Қазғарыш" ұлттық компаниясы" акционерлік қоғамын құру туралы'
-  link: https://zan.gov.kz/client/#!/doc/23202/kaz
-source: https://zan.gov.kz/client/#!/doc/18600/kaz/17.03.2005
+  code: '29259'
+source: https://zan.gov.kz/client/#!/doc/18600/kaz/08.08.2006
 ---
 
 # Ұлттық компаниялардың тiзбесiн бекiту туралы
@@ -79,4 +77,6 @@ source: https://zan.gov.kz/client/#!/doc/18600/kaz/17.03.2005
 
 13. "Қазғарыш" ұлттық компаниясы" АҚ
 
-    > *Ескерту. Тізбе толықтырылды - ҚР Үкiметiнiң 2005.03.17 N 242 қаулысымен.*
+14. "Kazsatnet" ұлттық компаниясы" АҚ
+
+    > *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкiметiнiң 2005.03.17 N 242 , 2006.08.08. N 746 қаулыларымен.*
