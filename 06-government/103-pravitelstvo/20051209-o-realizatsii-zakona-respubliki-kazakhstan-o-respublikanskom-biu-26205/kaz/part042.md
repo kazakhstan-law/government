@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26205/kaz/11.07.2006
+source: https://zan.gov.kz/client/#!/doc/26205/kaz/17.08.2006
 ---
 
 ## 226 Қазақстан Республикасы Денсаулық сақтау министрлiгi 28434041
