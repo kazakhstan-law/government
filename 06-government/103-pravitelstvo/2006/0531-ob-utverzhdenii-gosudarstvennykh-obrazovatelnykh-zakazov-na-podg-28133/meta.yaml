@@ -10,8 +10,15 @@ approved_on: 2006-05-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-05-31
-  rus: 2006-05-31
+  kaz: 2006-09-06
+  rus: 2006-09-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/28133/kaz/31.05.2006
-  rus: https://zan.gov.kz/client/#!/doc/28133/rus/31.05.2006
+  kaz: https://zan.gov.kz/client/#!/doc/28133/kaz/06.09.2006
+  rus: https://zan.gov.kz/client/#!/doc/28133/rus/06.09.2006
+caused_by:
+  code: '29582'
+  requisite: Постановление Правительства Республики Казахстан от 6 сентября 2006 года № 844
+  title:
+    rus: О внесении изменений и дополнения в постановление Правительства Республики Казахстан от 31 мая 2006 года № 485
+    kaz: Қазақстан Республикасы Yкiметiнiң 2006 жылғы 31 мамырдағы № 485 қаулысына өзгерiстер мен толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/29582/rus
