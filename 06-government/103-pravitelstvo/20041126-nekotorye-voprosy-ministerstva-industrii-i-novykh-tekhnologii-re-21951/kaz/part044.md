@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21951/kaz/25.08.2006
+source: https://zan.gov.kz/client/#!/doc/21951/kaz/14.09.2006
 ---
 
 ## 7. Комитеттің қызметiн ұйымдастыру
