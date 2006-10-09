@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/26205/rus/28.09.2006
+source: https://zan.gov.kz/client/#!/doc/26205/rus/09.10.2006
 ---
 
 ## III. Операционное сальдо -8468215
