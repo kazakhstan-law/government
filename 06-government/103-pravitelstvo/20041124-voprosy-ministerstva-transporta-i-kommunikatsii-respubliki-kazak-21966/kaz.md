@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21966/kaz/22.09.2006
+source: https://zan.gov.kz/client/#!/doc/21966/kaz/12.10.2006
 ---
 
 # Қазақстан Республикасы Көлiк және коммуникация министрлiгiнiң мәселелерi
