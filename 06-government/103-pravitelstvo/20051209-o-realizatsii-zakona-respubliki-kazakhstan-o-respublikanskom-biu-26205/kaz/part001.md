@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26205/kaz/09.10.2006
+source: https://zan.gov.kz/client/#!/doc/26205/kaz/13.10.2006
 ---
 
 ## 2006 жылға арналған республикалық бюджет
