@@ -42,11 +42,11 @@
 | [`part001-part063`](kaz/part001-part063.md) | астананың бюджетінен қаржыландырылатын |
 | [`part001-part101`](kaz/part001-part101.md) | министрлiгi |
 | [`part001-part152`](kaz/part001-part152.md) | министрлігі |
-| [`part001-part184`](kaz/part001-part184.md) | (селолық) округ әкiмiнiң аппараты |
+| [`part001-part185`](kaz/part001-part185.md) | министрлiгі |
 | [`part001-part213`](kaz/part001-part213.md) | астананың білім беру департаменті |
 | [`part001-part247`](kaz/part001-part247.md) | тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімi |
 | [`part001-part295`](kaz/part001-part295.md) | астананың құрылыс департаментi |
 | [`part001-part328`](kaz/part001-part328.md) | (басқармасы) |
 | [`part001-part359`](kaz/part001-part359.md) | басқармасы |
 | [`part001-part383`](kaz/part001-part383.md) | қызметтер |
-| [`part001-part430`](kaz/part001-part430.md) | министрлiгi |
+| [`part001-part429`](kaz/part001-part429.md) | Премьер-Министрінің Кеңсесі |
