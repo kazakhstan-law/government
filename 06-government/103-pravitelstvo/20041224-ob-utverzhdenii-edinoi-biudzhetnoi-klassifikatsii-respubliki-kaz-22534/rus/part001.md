@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22534/rus/02.08.2006
+source: https://zan.gov.kz/client/#!/doc/22534/rus/23.10.2006
 ---
 
 ## 1) Классификация поступлений бюджета

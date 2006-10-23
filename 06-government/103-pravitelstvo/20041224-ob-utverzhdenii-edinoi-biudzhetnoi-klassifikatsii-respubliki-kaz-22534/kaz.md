@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/02.08.2006
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/23.10.2006
 ---
 
 # Қазақстан Республикасының Бiрыңғай бюджеттік сыныптамасын бекiту туралы
