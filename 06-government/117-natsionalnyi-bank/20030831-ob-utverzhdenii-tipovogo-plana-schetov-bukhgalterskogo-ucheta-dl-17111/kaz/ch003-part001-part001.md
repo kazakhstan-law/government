@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/17111/kaz/27.01.2006
+source: https://zan.gov.kz/client/#!/doc/17111/kaz/27.10.2006
 ---
 
 ## Өндірістік есеп шоты
