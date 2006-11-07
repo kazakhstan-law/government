@@ -1,0 +1,17 @@
+act_code: '30214'
+requisite: Постановление Правительства Республики Казахстан от 7 ноября 2006 года № 1057
+title:
+  rus: О создании акционерного общества "Фонд науки"
+  kaz: '"Ғылым қоры" акционерлiк қоғамын құру туралы'
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2006-11-07
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2006-11-07
+  rus: 2006-11-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/30214/kaz/07.11.2006
+  rus: https://zan.gov.kz/client/#!/doc/30214/rus/07.11.2006
