@@ -10,10 +10,10 @@ approved_on: 2002-09-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-11-30
-  rus: 2006-11-30
+  kaz: 2006-12-06
+  rus: 2006-12-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/13214/kaz/30.11.2006
-  rus: https://zan.gov.kz/client/#!/doc/13214/rus/30.11.2006
+  kaz: https://zan.gov.kz/client/#!/doc/13214/kaz/06.12.2006
+  rus: https://zan.gov.kz/client/#!/doc/13214/rus/06.12.2006
 caused_by:
-  code: '30482'
+  code: '30541'
