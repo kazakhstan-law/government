@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/26205/rus/30.11.2006
+source: https://zan.gov.kz/client/#!/doc/26205/rus/06.12.2006
 ---
 
 ## Республиканский бюджет на 2006 год
