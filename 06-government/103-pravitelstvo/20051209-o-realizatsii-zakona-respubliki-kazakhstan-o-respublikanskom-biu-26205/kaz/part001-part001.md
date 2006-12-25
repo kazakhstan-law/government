@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/26205/kaz/22.12.2006
+source: https://zan.gov.kz/client/#!/doc/26205/kaz/25.12.2006
 ---
 
 ## салынатын салықтар
