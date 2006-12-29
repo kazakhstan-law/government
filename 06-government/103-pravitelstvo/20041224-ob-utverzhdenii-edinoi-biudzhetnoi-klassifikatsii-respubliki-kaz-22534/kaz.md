@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/23.10.2006
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/29.12.2006
 ---
 
 # Қазақстан Республикасының Бiрыңғай бюджеттік сыныптамасын бекiту туралы
@@ -40,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/22534/kaz/23.10.2006
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ БІРЫҢҒАЙ БЮДЖЕТТІК СЫНЫПТАМАСЫ |
-| [`part001-part038`](kaz/part001-part038.md) | министрлiгі |
-| [`part001-part185`](kaz/part001-part185.md) | министрлiгі |
-| [`part001-part327`](kaz/part001-part327.md) | министрлігі |
-| [`part001-part452`](kaz/part001-part452.md) | құрылыс бөлімі |
+| [`part001-part038`](kaz/part001-part038.md) | және байланыс агенттігі |
+| [`part001-part191`](kaz/part001-part191.md) | министрлігі |
+| [`part001-part329`](kaz/part001-part329.md) | Дене шынықтыру және спорт бөлімі |
+| [`part001-part452`](kaz/part001-part452.md) | сауда министрлігі |
