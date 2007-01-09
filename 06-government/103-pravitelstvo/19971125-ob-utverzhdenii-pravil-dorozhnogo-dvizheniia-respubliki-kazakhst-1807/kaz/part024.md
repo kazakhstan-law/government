@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/1807/kaz/12.10.2005
+source: https://zan.gov.kz/client/#!/doc/1807/kaz/09.01.2007
 ---
 
 ## 18. Маршруттық көлiк құралдарының басымдылығы
