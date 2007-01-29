@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/14.12.2006
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/29.01.2007
 ---
 
 ## 09 Отын-энергетика кешені және жер қойнауын 25995578 пайдалану саласындағы өзге де қызметтер
