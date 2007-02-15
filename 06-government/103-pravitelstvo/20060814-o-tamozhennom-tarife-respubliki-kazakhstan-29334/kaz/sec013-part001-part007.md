@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29334/kaz/14.08.2006
+source: https://zan.gov.kz/client/#!/doc/29334/kaz/15.02.2007
 ---
 
 ## 76-топ Алюминий және одан жасалған бұйымдар
