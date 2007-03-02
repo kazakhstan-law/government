@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29225/kaz/02.08.2006
+source: https://zan.gov.kz/client/#!/doc/29225/kaz/02.03.2007
 ---
 
 ## Қазақстан Республикасы Yкiметiнiң кейбiр шешiмдерiне енгізiлетiн өзгерiстер мен толықтырулар
