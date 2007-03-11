@@ -45,9 +45,9 @@
 | [`part001-part192`](kaz/part001-part192.md) | (басқармасы) |
 | [`part001-part225`](kaz/part001-part225.md) | бағдарламаларды үйлестiру департаменті |
 | [`part001-part253`](kaz/part001-part253.md) | тұрғын үй-коммуналдық шаруашылығы, |
-| [`part001-part301`](kaz/part001-part301.md) | (басқармасы) |
-| [`part001-part338`](kaz/part001-part338.md) | (басқармасы) |
-| [`part001-part357`](kaz/part001-part357.md) | (басқармасы) |
-| [`part001-part391`](kaz/part001-part391.md) | (басқармасы) |
-| [`part001-part431`](kaz/part001-part431.md) | тұрғын үй-коммуналдық шаруашылығы, |
-| [`part001-part472`](kaz/part001-part472.md) | қызмет iстерi агенттiгі |
+| [`part001-part294`](kaz/part001-part294.md) | (басқармасы) |
+| [`part001-part333`](kaz/part001-part333.md) | сауда министрлігі |
+| [`part001-part351`](kaz/part001-part351.md) | құрылыс бөлімі |
+| [`part001-part381`](kaz/part001-part381.md) | қоршаған ортаны қорғау мен жер |
+| [`part001-part426`](kaz/part001-part426.md) | автомобиль жолдары департаментi |
+| [`part001-part464`](kaz/part001-part464.md) | Қаржы бөлiмi |
