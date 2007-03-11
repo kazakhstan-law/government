@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22534/rus/29.12.2006
+source: https://zan.gov.kz/client/#!/doc/22534/rus/11.03.2007
 ---
 
 ## информатизации и связи
