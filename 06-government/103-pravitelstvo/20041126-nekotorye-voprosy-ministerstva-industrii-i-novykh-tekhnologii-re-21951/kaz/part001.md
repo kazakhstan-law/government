@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21951/kaz/15.01.2007
+source: https://zan.gov.kz/client/#!/doc/21951/kaz/19.03.2007
 ---
 
 ## Қазақстан Республикасы Индустрия және сауда министрлiгi туралы ЕРЕЖЕ

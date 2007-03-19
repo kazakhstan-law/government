@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/15.01.2007
+source: https://zan.gov.kz/client/#!/doc/21951/rus/19.03.2007
 ---
 
 ## ПОЛОЖЕНИЕ о Министерстве индустрии и торговли Республики Казахстан
