@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/15.03.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/09.04.2007
 ---
 
 ## жануарлар дүниесiн қорғау, жер қатынастары
