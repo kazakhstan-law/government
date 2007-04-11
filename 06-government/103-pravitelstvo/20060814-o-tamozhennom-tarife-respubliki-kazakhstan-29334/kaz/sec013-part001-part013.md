@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29334/kaz/15.02.2007
+source: https://zan.gov.kz/client/#!/doc/29334/kaz/11.04.2007
 ---
 
 ## 84-топ Ядролық реакторлар, қазандар, жабдықтар мен механикалық құрылғылар; олардың бөлiктерi

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/29334/rus/15.02.2007
+source: https://zan.gov.kz/client/#!/doc/29334/rus/11.04.2007
 ---
 
 ## Дополнительное примечание:
@@ -13444,7 +13444,7 @@ source: https://zan.gov.kz/client/#!/doc/29334/rus/15.02.2007
 <td>8482 10 900 9</td>
 <td>--- прочие</td>
 <td>шт</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>8482 20 000 0</td>
