@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/02.03.2007
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/12.04.2007
 ---
 
 ## 2. Комитеттің функциялары мен құқықтары
