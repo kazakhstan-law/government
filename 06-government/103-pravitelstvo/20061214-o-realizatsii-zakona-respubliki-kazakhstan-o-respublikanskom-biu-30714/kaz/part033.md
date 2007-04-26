@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/09.04.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/26.04.2007
 ---
 
 ## 1 Салықтық түсiмдер 773308168
