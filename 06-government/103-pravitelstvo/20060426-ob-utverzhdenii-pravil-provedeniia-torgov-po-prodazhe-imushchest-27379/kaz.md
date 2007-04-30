@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27379/kaz/26.04.2006
+source: https://zan.gov.kz/client/#!/doc/27379/kaz/30.04.2007
 ---
 
 # Борышкердiң мүлкiн (активтерiн) сату жөнiнде сауда-саттық жүргiзу ережесiн бекiту туралы

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/11873/kaz/17.04.2002
+source: https://zan.gov.kz/client/#!/doc/11873/kaz/30.04.2007
 ---
 
 # Фиcкальдық жады бар бақылау-касса машиналарын қолдану ережесiн бекiту туралы

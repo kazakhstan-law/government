@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/29107/kaz/29.12.2006
+source: https://zan.gov.kz/client/#!/doc/29107/kaz/30.04.2007
 ---
 
 # Жеке тұрғын үй құрылысы үшiн жер учаскелеріне құқық беру ережесiн бекiту туралы

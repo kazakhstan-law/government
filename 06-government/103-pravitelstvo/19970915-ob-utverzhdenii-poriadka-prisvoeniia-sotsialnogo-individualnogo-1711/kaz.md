@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1711/kaz/21.04.2005
+source: https://zan.gov.kz/client/#!/doc/1711/kaz/30.04.2007
 ---
 
 # Уәкiлеттi ұйымның әлеуметтiк жеке код беру тәртібін бекiту туралы

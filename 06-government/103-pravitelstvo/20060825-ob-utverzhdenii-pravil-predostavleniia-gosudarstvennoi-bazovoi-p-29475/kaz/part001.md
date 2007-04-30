@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29475/kaz/25.08.2006
+source: https://zan.gov.kz/client/#!/doc/29475/kaz/30.04.2007
 ---
 
 ## ______________________ облысы бойынша Еңбек және ХӘҚ

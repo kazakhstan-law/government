@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/29475/rus/25.08.2006
+source: https://zan.gov.kz/client/#!/doc/29475/rus/30.04.2007
 ---
 
 ## Журнал регистрации удостоверения
