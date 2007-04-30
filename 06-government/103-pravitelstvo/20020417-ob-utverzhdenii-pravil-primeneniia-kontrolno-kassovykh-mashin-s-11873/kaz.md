@@ -1,5 +1,5 @@
 ---
-version_id: AI11873_0
+version_id: AI11873_2
 act_code: '11873'
 language: kaz
 title: Фиcкальдық жады бар бақылау-касса машиналарын қолдану ережесiн бекiту туралы
@@ -12,9 +12,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2002-04-17
-version_date: 2002-04-17
+version_date: 2007-04-30
 registry_number: '11873'
-source: https://zan.gov.kz/client/#!/doc/11873/kaz/17.04.2002
+caused_by:
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/11873/kaz/30.04.2007
 ---
 
 # Фиcкальдық жады бар бақылау-касса машиналарын қолдану ережесiн бекiту туралы

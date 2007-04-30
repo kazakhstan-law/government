@@ -1,5 +1,5 @@
 ---
-version_id: AI10567_2
+version_id: AI10567_4
 act_code: '10567'
 language: kaz
 title: Жеке кәсiпкерлердi мемлекеттiк тiркеу үшiн алым ставкаларын, жеке кәсiпкердi мемлекеттiк тiркеу туралы куәлiктiң нысанын бекiту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2001-12-06
-version_date: 2006-08-21
+version_date: 2007-04-30
 registry_number: '10567'
 caused_by:
-  code: '29401'
-  title: Қазақстан Республикасы Үкіметінің 2001 жылғы 6 желтоқсандағы № 1586 қаулысына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/29401/kaz
-source: https://zan.gov.kz/client/#!/doc/10567/kaz/21.08.2006
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/10567/kaz/30.04.2007
 ---
 
 # Жеке кәсiпкерлердi мемлекеттiк тiркеу үшiн алым ставкаларын, жеке кәсiпкердi мемлекеттiк тiркеу туралы куәлiктiң нысанын бекiту туралы

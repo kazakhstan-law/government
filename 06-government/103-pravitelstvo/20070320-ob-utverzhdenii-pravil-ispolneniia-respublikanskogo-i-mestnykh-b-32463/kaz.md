@@ -1,5 +1,5 @@
 ---
-version_id: AI32463_0
+version_id: AI32463_2
 act_code: '32463'
 language: kaz
 title: Республикалық және жергілiктi бюджеттердiң атқарылу ережесiн бекiту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2007-03-20
-version_date: 2007-03-20
+version_date: 2007-04-30
 registry_number: '32463'
-source: https://zan.gov.kz/client/#!/doc/32463/kaz/20.03.2007
+caused_by:
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/32463/kaz/30.04.2007
 ---
 
 # Республикалық және жергілiктi бюджеттердiң атқарылу ережесiн бекiту туралы

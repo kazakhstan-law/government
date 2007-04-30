@@ -1,5 +1,5 @@
 ---
-version_id: AI29107_2
+version_id: AI29107_4
 act_code: '29107'
 language: kaz
 title: Жеке тұрғын үй құрылысы үшiн жер учаскелеріне құқық беру ережесiн бекiту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2006-08-01
-version_date: 2006-12-29
+version_date: 2007-04-30
 registry_number: '29107'
 caused_by:
-  code: '31008'
-  title: Қазақстан Республикасы Yкiметiнiң 2006 жылғы 1 тамыздағы № 726 қаулысына өзгерiс пен толықтыру енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/31008/kaz
-source: https://zan.gov.kz/client/#!/doc/29107/kaz/29.12.2006
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/29107/kaz/30.04.2007
 ---
 
 # Жеке тұрғын үй құрылысы үшiн жер учаскелеріне құқық беру ережесiн бекiту туралы

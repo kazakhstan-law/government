@@ -1,5 +1,5 @@
 ---
-version_id: AI16199_2
+version_id: AI16199_4
 act_code: '16199'
 language: kaz
 title: Мемлекеттік кәсiпорындардың басшыларын тағайындау және аттестаттау ережесiн бекiту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2003-07-09
-version_date: 2006-09-19
+version_date: 2007-04-30
 registry_number: '16199'
 caused_by:
-  code: '29682'
-  title: Қазақстан Республикасы Yкiметiнiң 2003 жылғы 10 шiлдедегi № 685 қаулысына толықтыру енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/29682/kaz
-source: https://zan.gov.kz/client/#!/doc/16199/kaz/19.09.2006
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/16199/kaz/30.04.2007
 ---
 
 # Мемлекеттік кәсiпорындардың басшыларын тағайындау және аттестаттау ережесiн бекiту туралы

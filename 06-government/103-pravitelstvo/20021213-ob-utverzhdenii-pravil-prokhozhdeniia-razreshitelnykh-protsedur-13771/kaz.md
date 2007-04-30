@@ -1,5 +1,5 @@
 ---
-version_id: AI13771_4
+version_id: AI13771_6
 act_code: '13771'
 language: kaz
 title: Жаңа объектiлер салуға және қолда бар объектiлерді өзгертуге рұқсат беретiн рәсiмдерді өткiзу ережесiн бекiту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2002-12-13
-version_date: 2006-07-07
+version_date: 2007-04-30
 registry_number: '13771'
 caused_by:
-  code: '28686'
-  title: Қазақстан Республикасы Yкiметiнiң кейбiр шешiмдерiне сәулет, қала құрылысы және құрылыс мәселелерi бойынша өзгерiстер мен толықтырулар енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/28686/kaz
-source: https://zan.gov.kz/client/#!/doc/13771/kaz/07.07.2006
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/13771/kaz/30.04.2007
 ---
 
 # Жаңа объектiлер салуға және қолда бар объектiлерді өзгертуге рұқсат беретiн рәсiмдерді өткiзу ережесiн бекiту туралы

@@ -1,5 +1,5 @@
 ---
-version_id: AI10737_2
+version_id: AI10737_4
 act_code: '10737'
 language: kaz
 title: '"Мемлекеттiк атаулы әлеуметтiк көмек туралы" Қазақстан Республикасының Заңын iске асыру жөнiндегi шаралар туралы'
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2001-12-24
-version_date: 2002-12-29
+version_date: 2007-04-30
 registry_number: '10737'
 caused_by:
-  code: '13989'
-  title: Қазақстан Республикасы Үкіметінің 2001 жылғы 24 желтоқсандағы N 1685 қаулысына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/13989/kaz
-source: https://zan.gov.kz/client/#!/doc/10737/kaz/29.12.2002
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/10737/kaz/30.04.2007
 ---
 
 # "Мемлекеттiк атаулы әлеуметтiк көмек туралы" Қазақстан Республикасының Заңын iске асыру жөнiндегi шаралар туралы

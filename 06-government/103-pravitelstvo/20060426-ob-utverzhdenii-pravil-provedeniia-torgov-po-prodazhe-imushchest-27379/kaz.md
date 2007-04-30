@@ -1,5 +1,5 @@
 ---
-version_id: AI27379_0
+version_id: AI27379_2
 act_code: '27379'
 language: kaz
 title: Борышкердiң мүлкiн (активтерiн) сату жөнiнде сауда-саттық жүргiзу ережесiн бекiту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2006-04-26
-version_date: 2006-04-26
+version_date: 2007-04-30
 registry_number: '27379'
-source: https://zan.gov.kz/client/#!/doc/27379/kaz/26.04.2006
+caused_by:
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/27379/kaz/30.04.2007
 ---
 
 # Борышкердiң мүлкiн (активтерiн) сату жөнiнде сауда-саттық жүргiзу ережесiн бекiту туралы

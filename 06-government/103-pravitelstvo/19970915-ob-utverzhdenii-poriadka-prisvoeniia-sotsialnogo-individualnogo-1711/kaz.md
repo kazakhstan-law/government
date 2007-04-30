@@ -1,5 +1,5 @@
 ---
-version_id: AI1711_2
+version_id: AI1711_4
 act_code: '1711'
 language: kaz
 title: Уәкiлеттi ұйымның әлеуметтiк жеке код беру тәртібін бекiту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 1997-09-15
-version_date: 2005-04-21
+version_date: 2007-04-30
 registry_number: '1711'
 caused_by:
-  code: '23689'
-  title: Қазақстан Республикасы Үкiметiнiң 1997 жылғы 4 маусымдағы N 926 және 1997 жылғы 16 қыркүйектегi N 1342 қаулыларына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/23689/kaz
-source: https://zan.gov.kz/client/#!/doc/1711/kaz/21.04.2005
+  code: '32971'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/32971/kaz
+source: https://zan.gov.kz/client/#!/doc/1711/kaz/30.04.2007
 ---
 
 # Уәкiлеттi ұйымның әлеуметтiк жеке код беру тәртібін бекiту туралы
