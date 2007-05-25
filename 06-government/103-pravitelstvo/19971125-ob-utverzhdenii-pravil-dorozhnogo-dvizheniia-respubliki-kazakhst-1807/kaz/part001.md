@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/1807/kaz/09.01.2007
+source: https://zan.gov.kz/client/#!/doc/1807/kaz/25.05.2007
 ---
 
 ## ҚАЗАҚСТАН РЕСПУБЛИКАСЫНЫҢ ЖОЛ ҚОЗҒАЛЫСЫ ЕРЕЖЕЛЕРI
