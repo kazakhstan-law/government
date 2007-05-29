@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22534/rus/21.05.2007
+source: https://zan.gov.kz/client/#!/doc/22534/rus/29.05.2007
 ---
 
 ## Республики Казахстан
