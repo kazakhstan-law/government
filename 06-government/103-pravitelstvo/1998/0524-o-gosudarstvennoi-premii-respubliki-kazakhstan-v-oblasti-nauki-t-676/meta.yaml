@@ -11,10 +11,15 @@ approved_on: 1998-05-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2005-11-30
-  rus: 2005-11-30
+  kaz: 2007-05-29
+  rus: 2007-05-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/676/kaz/30.11.2005
-  rus: https://zan.gov.kz/client/#!/doc/676/rus/30.11.2005
+  kaz: https://zan.gov.kz/client/#!/doc/676/kaz/29.05.2007
+  rus: https://zan.gov.kz/client/#!/doc/676/rus/29.05.2007
 caused_by:
-  code: '25980'
+  code: '33453'
+  requisite: Постановление Правительства Республики Казахстан от 29 мая 2007 года № 438
+  title:
+    rus: Вопросы Национального космического агентства Республики Казахстан
+    kaz: Қазақстан Республикасы Ұлттық ғарыш агенттігінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/33453/rus

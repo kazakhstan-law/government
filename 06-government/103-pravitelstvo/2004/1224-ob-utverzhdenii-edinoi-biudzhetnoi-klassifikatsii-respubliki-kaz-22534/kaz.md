@@ -54,4 +54,4 @@
 | [`part001-part351`](kaz/part001-part351.md) | құрылыс бөлімі |
 | [`part001-part381`](kaz/part001-part381.md) | қоршаған ортаны қорғау мен жер |
 | [`part001-part426`](kaz/part001-part426.md) | автомобиль жолдары департаментi |
-| [`part001-part464`](kaz/part001-part464.md) | Қаржы бөлiмi |
+| [`part001-part459`](kaz/part001-part459.md) | астананың кәсіпкерлiк және өнеркәсiп |
