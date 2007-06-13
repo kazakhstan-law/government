@@ -1,5 +1,5 @@
 ---
-version_id: AI13729_2
+version_id: AI13729_4
 act_code: '13729'
 language: kaz
 title: Оларға қатысты өсімдіктер карантині жөніндегі іс-шаралар белгіленетін және жүзеге асырылатын карантинді объектілер мен бөтен текті түрлердің тізбесін және ерекше қауiптi зиянды организмдер тiзбесiн бекiту туралы
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2002-12-10
-version_date: 2005-11-23
+version_date: 2007-06-13
 registry_number: '13729'
 caused_by:
-  code: '25874'
-  title: Қазақстан Республикасы Yкiметiнiң 2002 жылғы 10 желтоқсандағы № 1295 қаулысына өзгерістер мен толықтырулар енгiзу туралы
-  link: https://zan.gov.kz/client/#!/doc/25874/kaz
-source: https://zan.gov.kz/client/#!/doc/13729/kaz/23.11.2005
+  code: '33634'
+  title: Қазақстан Республикасы Үкіметінің 2002 жылғы 10 желтоқсандағы № 1295 қаулысына өзгеріс пен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/33634/kaz
+source: https://zan.gov.kz/client/#!/doc/13729/kaz/13.06.2007
 ---
 
 # Карантиндiк объектiлер және ерекше қауiптi зиянды организмдер тiзбелерiн бекiту туралы
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/13729/kaz/23.11.2005
 
 ## Қарсы күрес жүргiзу iсi республикалық бюджет қаражаты есебiнен жүзеге асырылатын карантиндiк объектiлер тiзбесi
 
-> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 қаулысымен.*
+> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 , 2007.06.13. N 488 қаулыларымен.*
 
 ## Қазақстан Республикасының аумағында жоқ карантиндiк маңызы бар, өсiмдiктер зиянкестерi, ауруларын қоздырғыштар және арамшөптер
 
@@ -92,8 +92,6 @@ Phthorimaea operculella Zell.
 
 Callosobruchus chinensis L.
 
-Lymantria dispar L.(asian race)
-
 Thrips palmi Karny.
 
 Carposina niponensis Wlsghm.
@@ -131,6 +129,18 @@ Leucaspis japonica Ckll.
 Viteus vitifolli (Fitsch).
 
 Callosobruchus maculatus F.
+
+Dendroctonus micans (Кugelman)
+
+Dendrolimus sibiricus Tschetw
+
+Monochamus urussovi Fisch.
+
+Monochamus sutot L
+
+Monochamus galloprovincialis Oliv
+
+Monochamus saltuarius Gebl.
 
 ## Б. Өсімдіктер аурулары
 
@@ -259,6 +269,10 @@ Trogoderma granarium (Ev.)
 Pseudococcus comstocki Kuw.
 
 Нурhаntria cunea Drury.
+
+Lymantria dispra (аsіаn rасе)
+
+Myiopardalis pardalina
 
 ## Б. Арамшөптер
 

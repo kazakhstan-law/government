@@ -1,5 +1,5 @@
 ---
-version_id: AI13729_3
+version_id: AI13729_5
 act_code: '13729'
 language: rus
 title: Об утверждении перечня карантинных объектов и чужеродных видов, по отношению к которым устанавливаются и осуществляются мероприятия по карантину растений, и перечня особо опасных вредных организмов
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2002-12-10
-version_date: 2005-11-23
+version_date: 2007-06-13
 registry_number: '13729'
 caused_by:
-  code: '25874'
-  title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 10 декабря 2002 года № 1295
-  link: https://zan.gov.kz/client/#!/doc/25874/rus
-source: https://zan.gov.kz/client/#!/doc/13729/rus/23.11.2005
+  code: '33634'
+  title: О внесении изменения и дополнений в постановление Правительства Республики Казахстан от 10 декабря 2002 года №  1295
+  link: https://zan.gov.kz/client/#!/doc/33634/rus
+source: https://zan.gov.kz/client/#!/doc/13729/rus/13.06.2007
 ---
 
 # Об утверждении перечней карантинных объектов и особо опасных вредных организмов
@@ -47,7 +47,7 @@ source: https://zan.gov.kz/client/#!/doc/13729/rus/23.11.2005
 
 осуществляется за счет средств республиканского бюджета <*>
 
-> *Сноска. В Перечень внесены изменения - постановлением Правительства РК от 23 ноября 2005 года N 1157 .*
+> *Сноска. Перечень с изменениями, внесенными постановлениями Правительства РК от 23 ноября 2005 года N 1157 ; от 13 июня 2007 года N 488 .*
 
 ## Вредители, возбудители болезней растений и сорняки, отсутствующие на территории Республики Казахстан, имеющие карантинное значение
 
@@ -93,8 +93,6 @@ Phthorimaea operculella Zell.
 
 Callosobruchus chinensis L.
 
-Lymantria dispar L. (asian race)
-
 Thrips palmi Karny.
 
 Carposina niponensis Wlsghm.
@@ -132,6 +130,18 @@ Leucaspis japonica Ckll.
 Viteus vitifolli (Fitsch).
 
 Callosobruchus maculatus F.
+
+Dendroctonus micans (Kugelman)
+
+Dendrolimus sibiricus Tschetw
+
+Monochamus urussovi Fisch.
+
+Monochamus sutot L
+
+Monochamus galloprovincialis Oliv
+
+Monochamus saltuarius Gebl.
 
 ## Б. Болезни растений
 
@@ -260,6 +270,10 @@ Trogoderma granarium (Ev.)
 Pseudococcus comstocki Kuw.
 
 Hyphantria cunea Drury.
+
+Lymantria dispar L. (asian race)
+
+Myiopardalis pardalina
 
 ## Б. Сорные растения
 
