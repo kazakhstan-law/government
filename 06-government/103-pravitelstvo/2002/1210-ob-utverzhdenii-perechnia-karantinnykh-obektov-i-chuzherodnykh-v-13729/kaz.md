@@ -26,7 +26,7 @@
 
 ## Қарсы күрес жүргiзу iсi республикалық бюджет қаражаты есебiнен жүзеге асырылатын карантиндiк объектiлер тiзбесi
 
-> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 қаулысымен.*
+> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 , 2007.06.13. N 488 қаулыларымен.*
 
 ## Қазақстан Республикасының аумағында жоқ карантиндiк маңызы бар, өсiмдiктер зиянкестерi, ауруларын қоздырғыштар және арамшөптер
 
@@ -72,8 +72,6 @@ Phthorimaea operculella Zell.
 
 Callosobruchus chinensis L.
 
-Lymantria dispar L.(asian race)
-
 Thrips palmi Karny.
 
 Carposina niponensis Wlsghm.
@@ -111,6 +109,18 @@ Leucaspis japonica Ckll.
 Viteus vitifolli (Fitsch).
 
 Callosobruchus maculatus F.
+
+Dendroctonus micans (Кugelman)
+
+Dendrolimus sibiricus Tschetw
+
+Monochamus urussovi Fisch.
+
+Monochamus sutot L
+
+Monochamus galloprovincialis Oliv
+
+Monochamus saltuarius Gebl.
 
 ## Б. Өсімдіктер аурулары
 
@@ -239,6 +249,10 @@ Trogoderma granarium (Ev.)
 Pseudococcus comstocki Kuw.
 
 Нурhаntria cunea Drury.
+
+Lymantria dispra (аsіаn rасе)
+
+Myiopardalis pardalina
 
 ## Б. Арамшөптер
 
