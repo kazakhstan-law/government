@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/20.03.2007
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/30.06.2007
 ---
 
 # Қазақстан Республикасы Yкiметiнiң Регламентi туралы
@@ -152,4 +152,4 @@ source: https://zan.gov.kz/client/#!/doc/13764/kaz/20.03.2007
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | Қазақстан Республикасы Yкiметiнiң РЕГЛАМEHTI |
-| [`part011`](kaz/part011.md) | 10. Үкiметтiң кесiмдерiн жариялау тәртiбi |
+| [`part028`](kaz/part028.md) | 10. Орындалуын бақылау тәртібі |
