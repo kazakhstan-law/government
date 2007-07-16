@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25337/kaz/27.08.2005
+source: https://zan.gov.kz/client/#!/doc/25337/kaz/16.07.2007
 ---
 
 ## Күші жойылды деп танылатын нормативтік құқықтық актілердің тізбесі
