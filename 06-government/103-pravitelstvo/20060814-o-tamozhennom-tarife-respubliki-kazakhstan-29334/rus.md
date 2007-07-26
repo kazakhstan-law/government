@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/29334/rus/11.04.2007
+source: https://zan.gov.kz/client/#!/doc/29334/rus/26.07.2007
 ---
 
 # О Таможенном тарифе Республики Казахстан
