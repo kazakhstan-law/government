@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/6713/rus/17.05.2006
+source: https://zan.gov.kz/client/#!/doc/6713/rus/13.08.2007
 ---
 
 ## 7. Изъятие объектов из коллекций
