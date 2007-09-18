@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/29.05.2007
+source: https://zan.gov.kz/client/#!/doc/21951/rus/18.09.2007
 ---
 
 ## 4. Функции Комитета
