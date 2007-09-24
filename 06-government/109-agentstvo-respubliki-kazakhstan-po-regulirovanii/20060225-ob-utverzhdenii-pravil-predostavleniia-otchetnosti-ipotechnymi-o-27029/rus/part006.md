@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27029/rus/25.06.2007
+source: https://zan.gov.kz/client/#!/doc/27029/rus/24.09.2007
 ---
 
 3. Отчет об остатках на внебалансовых счетах
