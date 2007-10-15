@@ -11,10 +11,10 @@ approved_on: 2004-12-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2007-10-12
-  rus: 2007-10-12
+  kaz: 2007-10-15
+  rus: 2007-10-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22246/kaz/12.10.2007
-  rus: https://zan.gov.kz/client/#!/doc/22246/rus/12.10.2007
+  kaz: https://zan.gov.kz/client/#!/doc/22246/kaz/15.10.2007
+  rus: https://zan.gov.kz/client/#!/doc/22246/rus/15.10.2007
 caused_by:
-  code: P070000939_
+  code: P070000951_
