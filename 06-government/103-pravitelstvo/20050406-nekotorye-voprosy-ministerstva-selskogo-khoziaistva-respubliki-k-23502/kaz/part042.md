@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/22.05.2007
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/15.10.2007
 ---
 
 ## 3. Комитеттің мүлкi
