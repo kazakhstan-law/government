@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/12.10.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/15.10.2007
 ---
 
 ## 03 Сыртқы саяси қызмет 22515488

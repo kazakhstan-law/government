@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30714/rus/12.10.2007
+source: https://zan.gov.kz/client/#!/doc/30714/rus/15.10.2007
 ---
 
 ## Республиканский бюджет на 2007 год
