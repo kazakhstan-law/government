@@ -1,5 +1,5 @@
 ---
-version_id: '33441_159118'
+version_id: '33441_168173'
 act_code: '33441'
 language: kaz
 title: Көшелерді қайта атау туралы
@@ -12,9 +12,13 @@ approved_by:
 - '157002000001'
 - '157002000002'
 approval_date: 2007-04-02
-version_date: 2007-04-02
+version_date: 2007-10-16
 registry_number: '33441'
-source: https://zan.gov.kz/client/#!/doc/33441/kaz/02.04.2007
+caused_by:
+  code: '35806'
+  title: Өскемен қаласы мәслихатының 2007 жылғы 16 сәуірдегі № 32/3 және әкімдігінің 2007 жылғы 2 сәуірдегі № 253 "Көшелерді қайта атау туралы" бірлескен түрдегі шешімі мен қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/35806/kaz
+source: https://zan.gov.kz/client/#!/doc/33441/kaz
 ---
 
 # Көшелерді қайта атау туралы
