@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/33441/kaz/02.04.2007
+source: https://zan.gov.kz/client/#!/doc/33441/kaz/16.10.2007
 ---
 
 # Көшелерді қайта атау туралы
