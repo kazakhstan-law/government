@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/29334/kaz/26.07.2007
+source: https://zan.gov.kz/client/#!/doc/29334/kaz/20.10.2007
 ---
 
 # Қазақстан Республикасының Кедендiк тарифi туралы
