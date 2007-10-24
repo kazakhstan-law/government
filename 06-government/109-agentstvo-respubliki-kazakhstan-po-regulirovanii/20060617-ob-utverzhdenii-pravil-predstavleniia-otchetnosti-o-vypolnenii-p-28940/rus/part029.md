@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/28940/rus/27.08.2007
+source: https://zan.gov.kz/client/#!/doc/28940/rus/24.10.2007
 ---
 
 ## Дополнительные сведения для расчета пруденциальных нормативов
