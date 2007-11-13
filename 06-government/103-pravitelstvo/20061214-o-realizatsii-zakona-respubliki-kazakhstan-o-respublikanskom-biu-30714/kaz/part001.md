@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/30.10.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/13.11.2007
 ---
 
 ## 2007 жылға арналған республикалық бюджет
