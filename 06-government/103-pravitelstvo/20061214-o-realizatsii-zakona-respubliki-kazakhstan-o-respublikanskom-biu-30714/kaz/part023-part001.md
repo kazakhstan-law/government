@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/20.11.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/26.11.2007
 ---
 
 ## 04 Iргелi ғылыми зерттеулер 9798303
