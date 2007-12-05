@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/32275/rus/28.10.2007
+source: https://zan.gov.kz/client/#!/doc/32275/rus/05.12.2007
 ---
 
 ## Павлодарская область
