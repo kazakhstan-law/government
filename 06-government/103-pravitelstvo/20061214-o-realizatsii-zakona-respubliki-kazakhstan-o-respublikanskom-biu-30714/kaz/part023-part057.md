@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/29.11.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/06.12.2007
 ---
 
 ## 01 Автомобиль көлігі 191082117
