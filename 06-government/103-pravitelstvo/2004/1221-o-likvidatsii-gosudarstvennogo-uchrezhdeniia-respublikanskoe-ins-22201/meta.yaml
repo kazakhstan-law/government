@@ -10,8 +10,15 @@ approved_on: 2004-12-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-12-21
-  rus: 2004-12-21
+  kaz: 2007-12-08
+  rus: 2007-12-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22201/kaz/21.12.2004
-  rus: https://zan.gov.kz/client/#!/doc/22201/rus/21.12.2004
+  kaz: https://zan.gov.kz/client/#!/doc/22201/kaz/08.12.2007
+  rus: https://zan.gov.kz/client/#!/doc/22201/rus/08.12.2007
+caused_by:
+  code: '36050'
+  requisite: Постановление Правительства Республики Казахстан от 8 декабря 2007 года N 1201
+  title:
+    rus: Вопросы Министерства охраны окружающей среды Республики Казахстан
+    kaz: Қазақстан Республикасы Қоршаған ортаны қорғау министрлігінің мәселелері
+  link: https://zan.gov.kz/client/#!/doc/36050/rus
