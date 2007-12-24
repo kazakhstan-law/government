@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/30714/kaz/21.12.2007
+source: https://zan.gov.kz/client/#!/doc/30714/kaz/24.12.2007
 ---
 
 ## Облыстық бюджеттерге, Астана және Алматы қалаларының
