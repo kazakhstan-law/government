@@ -10,8 +10,15 @@ approved_on: 1999-12-19
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1999-12-19
-  rus: 1999-12-19
+  kaz: 2007-12-25
+  rus: 2007-12-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/5005/kaz/19.12.1999
-  rus: https://zan.gov.kz/client/#!/doc/5005/rus/19.12.1999
+  kaz: https://zan.gov.kz/client/#!/doc/5005/kaz/25.12.2007
+  rus: https://zan.gov.kz/client/#!/doc/5005/rus/25.12.2007
+caused_by:
+  code: '36333'
+  requisite: Постановление Правительства Республики Казахстан от 25 декабря 2007 года N 1283
+  title:
+    rus: О внесении дополнений и изменения в постановление Правительства Республики Казахстан от 19 декабря 1999 года N 1930
+    kaz: Қазақстан Республикасы Үкіметінің 1999 жылғы 19 желтоқсандағы N 1930 қаулысына толықтырулар мен өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/36333/rus
