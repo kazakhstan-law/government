@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30714/rus/24.12.2007
+source: https://zan.gov.kz/client/#!/doc/30714/rus/26.12.2007
 ---
 
 ## Перечень республиканских бюджетных программ развития на 2007 год, направленных на реализацию инвестиционных проектов
@@ -1770,7 +1770,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 школы-интерната для одаренных
 детей в городе Астане
 </td>
-<td>438 500</td>
+<td>131 550</td>
 </tr>
 <tr>
 <td></td>
@@ -1796,7 +1796,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 университета имени Аль-Фараби в
 городе Алматы
 </td>
-<td>1 000 000</td>
+<td>1 491 950</td>
 </tr>
 <tr>
 <td></td>
@@ -1820,20 +1820,6 @@ Government&quot;, &quot;Government to Consumer&quot;
 Строительство школы-интерната для
 детей с проблемами зрения
 в городе Караганде на 250 мест
-</td>
-<td>185 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство школы-интерната для
-детей с проблемами зрения на 250
-мест в городе Есик
-Енбекшиказахского района
-Алматинской области
 </td>
 <td>185 000</td>
 </tr>
@@ -3752,7 +3738,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 левый берег, южнее улицы N 19 в
 городе Астане
 </td>
-<td>664 661</td>
+<td>607 523</td>
 </tr>
 <tr>
 <td></td>
@@ -3763,7 +3749,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 Строительство школы на 600 мест в
 поселке Промышленный в городе Астане
 </td>
-<td>338 571</td>
+<td>332 813</td>
 </tr>
 <tr>
 <td></td>
@@ -3797,7 +3783,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 левом берегу в первом жилом районе
 микрорайона 3 в городе Астане
 </td>
-<td>200 000</td>
+<td>262 896</td>
 </tr>
 <tr>
 <td></td>
@@ -4884,7 +4870,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 (в районе Агрогородка) в городе
 Астане
 </td>
-<td>670 000</td>
+<td>867 216</td>
 </tr>
 <tr>
 <td></td>
@@ -4900,7 +4886,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 Грязнова-Колхозная-Репина)
 в городе Астане
 </td>
-<td>448 089</td>
+<td>250 873</td>
 </tr>
 <tr>
 <td></td>
