@@ -11,8 +11,15 @@ approved_on: 2007-09-18
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2007-09-18
-  rus: 2007-09-18
+  kaz: 2007-12-29
+  rus: 2007-12-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/35154/kaz/18.09.2007
-  rus: https://zan.gov.kz/client/#!/doc/35154/rus/18.09.2007
+  kaz: https://zan.gov.kz/client/#!/doc/35154/kaz/29.12.2007
+  rus: https://zan.gov.kz/client/#!/doc/35154/rus/29.12.2007
+caused_by:
+  code: '36873'
+  requisite: Постановление Правительства Республики Казахстан от 29 декабря 2007 года № 1403
+  title:
+    rus: О некоторых вопросах развития социально-предпринимательских корпораций
+    kaz: Әлеуметтік-кәсіпкерлік корпорацияларды дамытудың кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/36873/rus
