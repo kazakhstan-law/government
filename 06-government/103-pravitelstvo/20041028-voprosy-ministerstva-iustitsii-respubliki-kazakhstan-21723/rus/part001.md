@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21723/rus/05.12.2007
+source: https://zan.gov.kz/client/#!/doc/21723/rus/10.01.2008
 ---
 
 ## Положение о Министерстве юстиции Республики Казахстан
