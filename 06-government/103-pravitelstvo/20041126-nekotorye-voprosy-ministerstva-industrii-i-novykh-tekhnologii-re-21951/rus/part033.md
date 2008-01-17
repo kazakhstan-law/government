@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/05.12.2007
+source: https://zan.gov.kz/client/#!/doc/21951/rus/17.01.2008
 ---
 
 ## Акционерные общества
