@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36555/rus/28.12.2007
+source: https://zan.gov.kz/client/#!/doc/36555/rus/06.02.2008
 ---
 
 ## Дополнительные примечания:
@@ -646,7 +646,12 @@ var. saccharata)
 <td>2005 91 000 0</td>
 <td>- - побеги бамбука</td>
 <td>-</td>
-<td></td>
+<td>
+15, но
+не менее
+0,075 евро
+за 1 кг
+</td>
 </tr>
 <tr>
 <td>2005 99</td>

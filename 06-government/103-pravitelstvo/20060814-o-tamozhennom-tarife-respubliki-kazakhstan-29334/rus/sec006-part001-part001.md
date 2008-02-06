@@ -1,11 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/29334/rus/20.10.2007
-repealed_on: 2008-02-14
-repealed_by:
-  code: '36555'
-  title: О Таможенном тарифе и Товарной номенклатуре внешнеэкономической деятельности Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/36555/rus
+source: https://zan.gov.kz/client/#!/doc/29334/rus/06.02.2008
 ---
 
 ## Дополнительное примечание:
@@ -124,7 +119,7 @@ repealed_by:
 <tr>
 <td>2804 10 000 0</td>
 <td>- водород</td>
-<td>м 3</td>
+<td>м3</td>
 <td>5</td>
 </tr>
 <tr>
@@ -136,7 +131,7 @@ repealed_by:
 <tr>
 <td>2804 21 000 0</td>
 <td>-- аргон</td>
-<td>м 3</td>
+<td>м3</td>
 <td>5</td>
 </tr>
 <tr>
@@ -148,7 +143,7 @@ repealed_by:
 <tr>
 <td>2804 29 100 0</td>
 <td>--- гелий</td>
-<td>м 3</td>
+<td>м3</td>
 <td>5</td>
 </tr>
 <tr>

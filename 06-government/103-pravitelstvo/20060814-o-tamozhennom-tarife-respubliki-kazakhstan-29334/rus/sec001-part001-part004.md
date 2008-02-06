@@ -1,11 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/29334/rus/20.10.2007
-repealed_on: 2008-02-14
-repealed_by:
-  code: '36555'
-  title: О Таможенном тарифе и Товарной номенклатуре внешнеэкономической деятельности Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/36555/rus
+source: https://zan.gov.kz/client/#!/doc/29334/rus/06.02.2008
 ---
 
 ## Примечания:

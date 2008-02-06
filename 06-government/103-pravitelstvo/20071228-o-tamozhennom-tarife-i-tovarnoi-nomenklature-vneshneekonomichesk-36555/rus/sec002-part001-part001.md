@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36555/rus/28.12.2007
+source: https://zan.gov.kz/client/#!/doc/36555/rus/06.02.2008
 ---
 
 ## Группа 07 Овощи и некоторые съедобные корнеплоды и клубнеплоды
@@ -6068,7 +6068,7 @@ intybus sativum),
 <td>1212 99 300 0</td>
 <td>- - - плоды рожкового дерева</td>
 <td>-</td>
-<td></td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
