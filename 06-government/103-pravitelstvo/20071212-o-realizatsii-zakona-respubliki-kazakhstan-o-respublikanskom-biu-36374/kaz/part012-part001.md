@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36374/kaz/12.12.2007
+source: https://zan.gov.kz/client/#!/doc/36374/kaz/15.02.2008
 ---
 
 ## 05 Гранттар 1194822
