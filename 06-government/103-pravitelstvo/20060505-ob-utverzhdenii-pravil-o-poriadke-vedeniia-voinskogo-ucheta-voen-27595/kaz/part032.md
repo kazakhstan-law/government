@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27595/kaz/05.05.2006
+source: https://zan.gov.kz/client/#!/doc/27595/kaz/20.03.2008
 ---
 
 ## ТҮСІНДІРМЕ ЖАЗБА
