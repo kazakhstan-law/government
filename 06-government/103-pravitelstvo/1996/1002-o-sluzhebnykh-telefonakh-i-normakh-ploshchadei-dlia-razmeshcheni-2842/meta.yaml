@@ -10,8 +10,15 @@ approved_on: 1996-10-02
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1996-10-02
-  rus: 1996-10-02
+  kaz: 2008-03-25
+  rus: 2008-03-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2842/kaz/02.10.1996
-  rus: https://zan.gov.kz/client/#!/doc/2842/rus/02.10.1996
+  kaz: https://zan.gov.kz/client/#!/doc/2842/kaz/25.03.2008
+  rus: https://zan.gov.kz/client/#!/doc/2842/rus/25.03.2008
+caused_by:
+  code: '38499'
+  requisite: Постановление Правительства Республики Казахстан от 25 марта 2008 года № 283
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/38499/rus
