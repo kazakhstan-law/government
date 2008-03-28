@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27039/kaz/25.06.2007
+source: https://zan.gov.kz/client/#!/doc/27039/kaz/28.03.2008
 ---
 
 # Бағалы қағаздарды ұстаушылар тiзiлiмдерiнiң жүйесiн жүргiзу ережесiн бекiту туралы

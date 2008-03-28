@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27039/rus/25.06.2007
+source: https://zan.gov.kz/client/#!/doc/27039/rus/28.03.2008
 ---
 
 # Об утверждении Правил ведения системы реестров держателей ценных бумаг
