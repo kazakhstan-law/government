@@ -1,0 +1,17 @@
+act_code: '38602'
+requisite: Постановление Правительства Республики Казахстан от 31 марта 2008 года N 304
+title:
+  rus: О некоторых вопросах государственной собственности
+  kaz: Мемлекеттік меншіктің кейбір мәселелері туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2008-03-31
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2008-03-31
+  rus: 2008-03-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/38602/kaz/31.03.2008
+  rus: https://zan.gov.kz/client/#!/doc/38602/rus/31.03.2008
