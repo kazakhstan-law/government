@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/28.03.2008
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/08.04.2008
 ---
 
 ## Қазақстан Республикасы Әдiлет министрлiгі туралы ЕРЕЖЕ
