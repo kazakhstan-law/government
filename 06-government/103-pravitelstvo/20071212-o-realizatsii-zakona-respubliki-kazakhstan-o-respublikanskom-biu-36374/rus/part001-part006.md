@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/15.04.2008
 ---
 
 <table>
@@ -111,11 +111,11 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 </tr>
 <tr>
 <th>VI. Дефицит бюджета</th>
-<th>-210 503 881</th>
+<th>-211 143 560</th>
 </tr>
 <tr>
 <th>VII. Финансирование дефицита бюджета</th>
-<th>210 503 881</th>
+<th>211 143 560</th>
 </tr>
 </table>
 

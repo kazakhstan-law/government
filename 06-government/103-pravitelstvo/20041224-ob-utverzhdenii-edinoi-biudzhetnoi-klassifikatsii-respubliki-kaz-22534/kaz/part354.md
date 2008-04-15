@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/20.03.2008
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/15.04.2008
 ---
 
 ## агенттігі

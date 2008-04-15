@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/15.04.2008
 ---
 
 ## Республиканский бюджет на 2008 год
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 <th></th>
 <th></th>
 <th>I. Доходы</th>
-<th>2 687 282 259</th>
+<th>2 692 376 405</th>
 </tr>
 <tr>
 <th>1</th>
@@ -1548,7 +1548,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 <th></th>
 <th></th>
 <th>Поступления трансфертов</th>
-<th>423 182 774</th>
+<th>428 276 920</th>
 </tr>
 <tr>
 <th></th>
@@ -1626,7 +1626,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 Трансферты из Национального
 фонда
 </th>
-<th>341 430 640</th>
+<th>346 524 786</th>
 </tr>
 <tr>
 <td></td>
@@ -1634,7 +1634,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 <td>1</td>
 <td></td>
 <td>Целевые капитальные трансферты</td>
-<td>341 430 640</td>
+<td>346 524 786</td>
 </tr>
 <tr>
 <td></td>
@@ -1647,5 +1647,13 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/15.02.2008
 Национального фонда
 </td>
 <td>341 430 640</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>02</td>
+<td>Неперечисленная за прошедший год сумма гарантированного трансферта из Национального Фонда Республики Казахстан в республиканский бюджет</td>
+<td>5 094 146</td>
 </tr>
 </table>
