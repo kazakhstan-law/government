@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21951/kaz/03.04.2008
+source: https://zan.gov.kz/client/#!/doc/21951/kaz/16.04.2008
 ---
 
 # Қазақстан Республикасы Индустрия және сауда министрлігінiң кейбiр мәселелерi
