@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/32463/kaz/16.04.2008
+source: https://zan.gov.kz/client/#!/doc/32463/kaz/28.04.2008
 ---
 
 # Республикалық және жергілiктi бюджеттердiң атқарылу ережесiн бекiту туралы
