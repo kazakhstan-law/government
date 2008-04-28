@@ -64,17 +64,17 @@ versions:
   cause:
     code: '35154'
     key: P070000818_
+- date: 2008-04-28
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '39199'
 version_date:
-  kaz: 2007-09-18
-  rus: 2007-09-18
+  kaz: 2008-04-28
+  rus: 2008-04-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18600/kaz/18.09.2007
-  rus: https://zan.gov.kz/client/#!/doc/18600/rus/18.09.2007
+  kaz: https://zan.gov.kz/client/#!/doc/18600/kaz/28.04.2008
+  rus: https://zan.gov.kz/client/#!/doc/18600/rus/28.04.2008
 caused_by:
-  code: '35154'
-  key: P070000818_
-  requisite: Постановление Правительства Республики Казахстан от 18 сентября 2007 года № 818
-  title:
-    rus: О мерах по реализации Указа Президента Республики Казахстан от 17 сентября 2007 года N 407
-    kaz: Қазақстан Республикасы Президентінің 2007 жылы 17 қыркүйектегі N 407 Жарлығын іске асыру жөніндегі шаралар туралы
-  link: https://zan.gov.kz/client/#!/doc/35154/rus
+  code: '39199'
