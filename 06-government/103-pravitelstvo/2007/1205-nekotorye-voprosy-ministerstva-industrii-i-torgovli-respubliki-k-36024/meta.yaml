@@ -11,8 +11,15 @@ approved_on: 2007-12-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2007-12-05
-  rus: 2007-12-05
+  kaz: 2008-05-07
+  rus: 2008-05-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/36024/kaz/05.12.2007
-  rus: https://zan.gov.kz/client/#!/doc/36024/rus/05.12.2007
+  kaz: https://zan.gov.kz/client/#!/doc/36024/kaz/07.05.2008
+  rus: https://zan.gov.kz/client/#!/doc/36024/rus/07.05.2008
+caused_by:
+  code: '39429'
+  requisite: Постановление Правительства Республики Казахстан от 7 мая 2008 года № 429
+  title:
+    rus: О некоторых вопросах Министерства индустрии и торговли Республики Казахстан
+    kaz: Қазақстан Республикасы Индустрия және сауда министрлігінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/39429/rus
