@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13729/kaz/13.06.2007
+source: https://zan.gov.kz/client/#!/doc/13729/kaz/13.05.2008
 ---
 
 # Карантиндiк объектiлер және ерекше қауiптi зиянды организмдер тiзбелерiн бекiту туралы
@@ -28,7 +28,7 @@ source: https://zan.gov.kz/client/#!/doc/13729/kaz/13.06.2007
 
 ## Қарсы күрес жүргiзу iсi республикалық бюджет қаражаты есебiнен жүзеге асырылатын карантиндiк объектiлер тiзбесi
 
-> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24. N 1157 , 2007.06.13. N 488 қаулыларымен.*
+> *Ескерту. Тізбеге өзгерту енгізілді - ҚР Үкіметінің 2005.11.24 N 1157 , 2007.06.13 N 488 , 2008.05.13 N 449 Қаулыларымен.*
 
 ## Қазақстан Республикасының аумағында жоқ карантиндiк маңызы бар, өсiмдiктер зиянкестерi, ауруларын қоздырғыштар және арамшөптер
 
@@ -123,6 +123,8 @@ Monochamus sutot L
 Monochamus galloprovincialis Oliv
 
 Monochamus saltuarius Gebl.
+
+Trogoderma granarium (Ev.).
 
 ## Б. Өсімдіктер аурулары
 
@@ -245,8 +247,6 @@ Bidens pilosa L.
 Grapholitha molesta (Busck.)
 
 Quadraspidiotus perniciosus (Comst.)
-
-Trogoderma granarium (Ev.)
 
 Pseudococcus comstocki Kuw.
 
