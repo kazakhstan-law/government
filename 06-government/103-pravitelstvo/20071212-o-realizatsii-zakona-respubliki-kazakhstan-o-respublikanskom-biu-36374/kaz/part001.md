@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36374/kaz/15.04.2008
+source: https://zan.gov.kz/client/#!/doc/36374/kaz/26.05.2008
 ---
 
 ## 2008 жылға арналған республикалық бюджет
