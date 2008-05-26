@@ -11,8 +11,15 @@ approved_on: 2008-01-23
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-01-23
-  rus: 2008-01-23
+  kaz: 2008-05-26
+  rus: 2008-05-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/37389/kaz/23.01.2008
-  rus: https://zan.gov.kz/client/#!/doc/37389/rus/23.01.2008
+  kaz: https://zan.gov.kz/client/#!/doc/37389/kaz/26.05.2008
+  rus: https://zan.gov.kz/client/#!/doc/37389/rus/26.05.2008
+caused_by:
+  code: '39745'
+  requisite: Постановление Правительства Республики Казахстан от 26 мая 2008 года № 504
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 23 января 2008 года N 41
+    kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 23 қантардағы N 41 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/39745/rus
