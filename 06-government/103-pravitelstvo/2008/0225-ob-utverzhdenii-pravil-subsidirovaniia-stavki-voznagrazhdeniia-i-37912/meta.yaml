@@ -11,8 +11,15 @@ approved_on: 2008-02-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-02-25
-  rus: 2008-02-25
+  kaz: 2008-05-28
+  rus: 2008-05-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/37912/kaz/25.02.2008
-  rus: https://zan.gov.kz/client/#!/doc/37912/rus/25.02.2008
+  kaz: https://zan.gov.kz/client/#!/doc/37912/kaz/28.05.2008
+  rus: https://zan.gov.kz/client/#!/doc/37912/rus/28.05.2008
+caused_by:
+  code: '39792'
+  requisite: Постановление Правительства Республики Казахстан от 28 мая 2008 года № 505
+  title:
+    rus: О внесении изменений в постановление Правительства Республики Казахстан от 25 феврали 2008 года N 187
+    kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 25 ақпандағы N 187 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/39792/rus
