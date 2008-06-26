@@ -12,8 +12,15 @@ approved_on: 2007-06-14
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2007-06-14
-  rus: 2007-06-14
+  kaz: 2008-06-26
+  rus: 2008-06-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/33649/kaz/14.06.2007
-  rus: https://zan.gov.kz/client/#!/doc/33649/rus/14.06.2007
+  kaz: https://zan.gov.kz/client/#!/doc/33649/kaz/26.06.2008
+  rus: https://zan.gov.kz/client/#!/doc/33649/rus/26.06.2008
+caused_by:
+  code: '40196'
+  requisite: Постановление Правительства Республики Казахстан от 26 июня 2008 года № 610
+  title:
+    rus: Некоторые вопросы Министерства культуры Республики Казахстан
+    kaz: Қазақстан Республикасы Мәдениет министрлігінің кейбір мәселелері
+  link: https://zan.gov.kz/client/#!/doc/40196/rus
