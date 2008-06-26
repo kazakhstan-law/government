@@ -1,5 +1,5 @@
 ---
-version_id: '29101_115015'
+version_id: '29101_115019'
 act_code: '29101'
 language: kaz
 title: Мүгедектер үшiн жұмыс орындарының квотасын белгiлеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '159002000001'
 approval_date: 2006-06-22
-version_date: 2006-06-22
+version_date: 2008-06-26
 registry_number: '29101'
-source: https://zan.gov.kz/client/#!/doc/29101/kaz/22.06.2006
+caused_by:
+  code: '40719'
+  title: Орал қаласы әкімдігінің 2006 жылғы 22 маусымдағы № 1088 "Мүгедектер үшін жұмыс орындарының квотасын белгілеу туралы" қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/40719/kaz
+source: https://zan.gov.kz/client/#!/doc/29101/kaz/26.06.2008
 ---
 
 # Мүгедектер үшiн жұмыс орындарының квотасын белгiлеу туралы
