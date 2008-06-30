@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36555/kaz/31.05.2008
+source: https://zan.gov.kz/client/#!/doc/36555/kaz/30.06.2008
 ---
 
 ## Қосымша ескертулер:
@@ -359,7 +359,8 @@ source: https://zan.gov.kz/client/#!/doc/36555/kaz/31.05.2008
 <tr>
 <td></td>
 <td>
-- - - - құрамында 27 мас.%-дан
+- - - - құрамында 27
+мас.%-дан
 аспайтын майы бар:
 </td>
 <td></td>
@@ -515,8 +516,8 @@ source: https://zan.gov.kz/client/#!/doc/36555/kaz/31.05.2008
 <tr>
 <td></td>
 <td>
-- - - - құрамында 45 мас.%-дан
-астам майы бар:
+- - - - құрамында 45
+мас.%-дан астам майы бар:
 </td>
 <td></td>
 <td></td>

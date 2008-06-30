@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/36555/rus/31.05.2008
+source: https://zan.gov.kz/client/#!/doc/36555/rus/30.06.2008
 ---
 
 # О Таможенном тарифе и Товарной номенклатуре внешнеэкономической деятельности Республики Казахстан
@@ -292,4 +292,6 @@ source: https://zan.gov.kz/client/#!/doc/36555/rus/31.05.2008
 | [`sec021-part001-part002-t002`](rus/sec021-part001-part002-t002.md) | таблица 2 |
 | [`sec021-part001-part002-t003`](rus/sec021-part001-part002-t003.md) | таблица 3 |
 | [`sec021-part001-part002-t004`](rus/sec021-part001-part002-t004.md) | таблица 4 |
+| [`sec021-part001-part002-t005`](rus/sec021-part001-part002-t005.md) | таблица 5 |
+| [`sec021-part001-part002-t006`](rus/sec021-part001-part002-t006.md) | таблица 6 |
 | [`sec021-part001-part003`](rus/sec021-part001-part003.md) | Ставки ввозных таможенных пошлин, применяемых на основе наименования товаров |

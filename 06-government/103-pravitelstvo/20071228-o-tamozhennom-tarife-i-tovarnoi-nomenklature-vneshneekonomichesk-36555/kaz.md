@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/36555/kaz/31.05.2008
+source: https://zan.gov.kz/client/#!/doc/36555/kaz/30.06.2008
 ---
 
 # Қазақстан Республикасының Кедендік тарифі және Сыртқы экономикалық қызметінің тауар номенклатурасы туралы
@@ -300,5 +300,5 @@ source: https://zan.gov.kz/client/#!/doc/36555/kaz/31.05.2008
 | [`sec021-part001-part002-t006`](kaz/sec021-part001-part002-t006.md) | таблица 6 |
 | [`sec021-part001-part002-t007`](kaz/sec021-part001-part002-t007.md) | таблица 7 |
 | [`sec021-part001-part002-t008`](kaz/sec021-part001-part002-t008.md) | таблица 8 |
-| [`sec021-part001-part002-part012`](kaz/sec021-part001-part002-part012.md) | sec021-part001-part002-part012 |
+| [`sec021-part001-part002-t009`](kaz/sec021-part001-part002-t009.md) | таблица 9 |
 | [`sec021-part001-part003`](kaz/sec021-part001-part003.md) | Тауарлар атаулары негізінде қолданылатын әкелінетін кедендік баждардың ставкалары |
