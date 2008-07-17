@@ -11,8 +11,15 @@ approved_on: 2008-02-26
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-02-26
-  rus: 2008-02-26
+  kaz: 2008-07-17
+  rus: 2008-07-17
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/37914/kaz/26.02.2008
-  rus: https://zan.gov.kz/client/#!/doc/37914/rus/26.02.2008
+  kaz: https://zan.gov.kz/client/#!/doc/37914/kaz/17.07.2008
+  rus: https://zan.gov.kz/client/#!/doc/37914/rus/17.07.2008
+caused_by:
+  code: '40720'
+  requisite: Постановление Правительства Республики Казахстан от 17 июля 2008 года N 699
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 26 февраля 2008 года N 191
+    kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 26 ақпандағы N 191 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/40720/rus
