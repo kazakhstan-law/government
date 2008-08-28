@@ -10,15 +10,15 @@ approved_on: 2007-12-12
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-08-26
-  rus: 2008-08-26
+  kaz: 2008-08-28
+  rus: 2008-08-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/36374/kaz/26.08.2008
-  rus: https://zan.gov.kz/client/#!/doc/36374/rus/26.08.2008
+  kaz: https://zan.gov.kz/client/#!/doc/36374/kaz/28.08.2008
+  rus: https://zan.gov.kz/client/#!/doc/36374/rus/28.08.2008
 caused_by:
-  code: '41281'
-  requisite: Постановление Правительства Республики Казахстан от 26 августа 2008 года N 766
+  code: '41372'
+  requisite: Постановление Правительства Республики Казахстан от 28 августа 2008 года N 786
   title:
     rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/41281/rus
+  link: https://zan.gov.kz/client/#!/doc/41372/rus
