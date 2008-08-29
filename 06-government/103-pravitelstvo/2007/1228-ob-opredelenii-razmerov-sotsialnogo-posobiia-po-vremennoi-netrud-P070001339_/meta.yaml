@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2008-08-29
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '41374'
+    key: P080000793_
 version_date:
-  kaz: 2007-12-28
-  rus: 2007-12-28
+  kaz: 2008-08-29
+  rus: 2008-08-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/36471/kaz/28.12.2007
-  rus: https://zan.gov.kz/client/#!/doc/36471/rus/28.12.2007
+  kaz: https://zan.gov.kz/client/#!/doc/36471/kaz/29.08.2008
+  rus: https://zan.gov.kz/client/#!/doc/36471/rus/29.08.2008
+caused_by:
+  code: '41374'
+  key: P080000793_
+  requisite: Постановление Правительства Республики Казахстан от 29 августа 2008 года N 793. Утратило силу постановлением Правительства Республики Казахстан от 28 декабря 2015 года № 1103
+  title:
+    rus: О внесении изменения в постановление Правительства Республики Казахстан от 28 декабря 2007 года N 1339
+    kaz: Қазақстан Республикасы Үкіметінің 2007 жылғы 28 желтоқсандағы N 1339 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/41374/rus
