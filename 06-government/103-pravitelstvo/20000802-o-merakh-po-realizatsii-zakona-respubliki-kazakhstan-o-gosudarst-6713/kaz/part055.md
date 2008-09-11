@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/6713/kaz/29.12.2007
+source: https://zan.gov.kz/client/#!/doc/6713/kaz/11.09.2008
 ---
 
 ## 2. Ойықты атыс қаруы табылған (алынып қойылған) және ерiктi түрде тапсырылған жағдайда
