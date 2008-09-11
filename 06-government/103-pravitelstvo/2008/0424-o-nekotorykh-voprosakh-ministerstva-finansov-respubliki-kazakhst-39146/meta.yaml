@@ -12,8 +12,15 @@ approved_on: 2008-04-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-04-24
-  rus: 2008-04-24
+  kaz: 2008-09-11
+  rus: 2008-09-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/24.04.2008
-  rus: https://zan.gov.kz/client/#!/doc/39146/rus/24.04.2008
+  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/11.09.2008
+  rus: https://zan.gov.kz/client/#!/doc/39146/rus/11.09.2008
+caused_by:
+  code: '41490'
+  requisite: Постановление Правительства Республики Казахстан от 11 сентября 2008 года N 846
+  title:
+    rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 24 апреля 2008 года N 387
+    kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 24 сәуірдегі N 387 қаулысына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/41490/rus
