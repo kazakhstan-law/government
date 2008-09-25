@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/41364/kaz/24.07.2008
+source: https://zan.gov.kz/client/#!/doc/41364/kaz/25.09.2008
 ---
 
 # Мемлекеттік қызмет көрсету стандарттарын бекіту туралы
