@@ -1,5 +1,5 @@
 ---
-version_id: AI40199_2
+version_id: AI40199_4
 act_code: '40199'
 language: rus
 title: Об утверждении стандарта оказания государственной услуги
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2008-05-20
-version_date: 2008-09-20
+version_date: 2008-09-25
 registry_number: '40199'
-source: https://zan.gov.kz/client/#!/doc/40199/rus/20.09.2008
+source: https://zan.gov.kz/client/#!/doc/40199/rus/25.09.2008
 ---
 
 # Об утверждении стандарта оказания государственной услуги
