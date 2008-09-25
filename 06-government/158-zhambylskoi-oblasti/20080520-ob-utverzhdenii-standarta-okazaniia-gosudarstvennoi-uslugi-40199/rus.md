@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/40199/rus/20.09.2008
+source: https://zan.gov.kz/client/#!/doc/40199/rus/25.09.2008
 ---
 
 # Об утверждении стандарта оказания государственной услуги
