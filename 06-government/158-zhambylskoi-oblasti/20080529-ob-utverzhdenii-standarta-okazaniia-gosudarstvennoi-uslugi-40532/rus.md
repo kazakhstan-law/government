@@ -1,5 +1,5 @@
 ---
-version_id: AI40532_1
+version_id: AI40532_3
 act_code: '40532'
 language: rus
 title: Об утверждении стандарта оказания государственной услуги
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2008-05-29
-version_date: 2008-05-29
+version_date: 2008-09-25
 registry_number: '40532'
-source: https://zan.gov.kz/client/#!/doc/40532/rus/29.05.2008
+caused_by:
+  code: '42070'
+  title: О внесении изменений в некоторые постановления акимата области
+  link: https://zan.gov.kz/client/#!/doc/42070/rus
+source: https://zan.gov.kz/client/#!/doc/40532/rus/25.09.2008
 ---
 
 # Об утверждении стандарта оказания государственной услуги
@@ -399,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/40532/rus/29.05.2008
 <td>4.4. % (доля) потребителей, удовлетворенных сроками обжалования</td>
 <td>100</td>
 <td>100</td>
-<td>100</td>
+<td>90</td>
 </tr>
 <tr>
 <td colspan="4">5. Вежливость</td>
@@ -411,3 +415,5 @@ source: https://zan.gov.kz/client/#!/doc/40532/rus/29.05.2008
 <td>98</td>
 </tr>
 </table>
+
+> *Сноска. Строки 4.1., 4.2., 4.3., 4.4. с изменениями, внесенными постановлением акимата Жамбылской области от 25.09.2008 № 305 .*

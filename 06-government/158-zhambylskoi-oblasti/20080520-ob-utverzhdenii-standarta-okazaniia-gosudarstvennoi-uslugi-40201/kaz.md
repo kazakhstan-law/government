@@ -1,5 +1,5 @@
 ---
-version_id: AI40201_0
+version_id: AI40201_2
 act_code: '40201'
 language: kaz
 title: Мемлекеттік қызмет көрсетудің стандартын бекіту
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2008-05-20
-version_date: 2008-05-20
+version_date: 2008-09-25
 registry_number: '40201'
-source: https://zan.gov.kz/client/#!/doc/40201/kaz/20.05.2008
+caused_by:
+  code: '42070'
+  title: Облыс әкімиятының кейбір қаулыларына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/42070/kaz
+source: https://zan.gov.kz/client/#!/doc/40201/kaz/25.09.2008
 ---
 
 # Мемлекеттік қызмет көрсетудің стандартын бекіту
@@ -248,9 +252,9 @@ source: https://zan.gov.kz/client/#!/doc/40201/kaz/20.05.2008
 </tr>
 <tr>
 <td>4.2. белгіленген мерзімде қаралған және қанағаттадырылған негізделген шағымдардың % (үлесі)</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>100</td>
+<td>100</td>
+<td>90</td>
 </tr>
 <tr>
 <td>
@@ -283,6 +287,8 @@ source: https://zan.gov.kz/client/#!/doc/40201/kaz/20.05.2008
 <td>100</td>
 </tr>
 </table>
+
+> *Ескерту. Кестенің 4.2. жолына өзгерту енгізілді - Жамбыл облысы әкімиятының 2008.09.25 N 305 Қаулысымен.*
 
 > *Мемлекеттік қызмет көрсетудің*  
 > *стандартына 2 қосымша*
