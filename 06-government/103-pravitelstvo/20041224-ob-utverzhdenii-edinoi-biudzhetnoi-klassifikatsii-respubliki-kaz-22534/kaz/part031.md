@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22534/kaz/11.09.2008
+source: https://zan.gov.kz/client/#!/doc/22534/kaz/03.10.2008
 ---
 
 ## 220 Қазақстан Республикасы Экономика және бюджеттік жоспарлау министрлігі
