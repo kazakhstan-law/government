@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/03.10.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/22.10.2008
 ---
 
 ## Перечень республиканских бюджетных программ развития на 2008 год, направленных на реализацию инвестиционных проектов
@@ -613,7 +613,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 идентификационной системы
 Республики Казахстан
 </td>
-<td>839 913</td>
+<td>364 746</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +625,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 инфраструктуры &quot;электронного
 правительства&quot;
 </td>
-<td>89 898</td>
+<td>565 065</td>
 </tr>
 <tr>
 <td></td>
