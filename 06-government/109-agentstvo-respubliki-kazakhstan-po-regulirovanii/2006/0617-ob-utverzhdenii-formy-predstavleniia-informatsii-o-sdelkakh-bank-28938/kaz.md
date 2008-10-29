@@ -56,6 +56,8 @@ N 134 қаулысына 1-қосымша
 
 1-қосымшаға өзгерту енгізу көзделген - ҚР Қаржы нарығын және қаржы ұйымдарын реттеу мен қадағалау агенттігі Басқармасының 2007.05.28 N 155 (2012.01.01 бастап қолданысқа енгізіледі) қаулысымен.
 
+> *Ескерту: 1-қосымшаға өзгерту енгізілді - ҚР Қаржы нарығын және қаржы ұйымдарын реттеу мен қадағалау агенттігі Басқармасының 2008.10.29 N 173 Қаулысымен.*
+
 ## 200 __ жылғы "___" ______ бастап 200 __ жылғы "___" _____ дейінгі есепті кезең аралығына жасалған, сондай-ақ есепті күнгі жағдай бойынша қолданылатын, банкпен айрықша қатынаста болатын _________________ тұлғалармен жасалған
 
 (банк атауы)
@@ -70,7 +72,7 @@ N 134 қаулысына 1-қосымша
 <td>Тұлға банкпен айрықша қатынаста болатын тұлғаға жатқызылған белгісі</td>
 <td>Операциялар түрі</td>
 <td>Валюта түрі</td>
-<td>Сомасы (мың теңгемен)</td>
+<td>Шарт бойынша мәміле сомасы (мың теңгемен)</td>
 <td>Шарт жасау мерзімі (талаптарды орындаудың басталған күні)</td>
 </tr>
 <tr>
@@ -369,6 +371,7 @@ N 134 қаулысына 1-қосымша
 Төленетін сыйақы
 (жылдық процент бойынша)
 </td>
+<td rowspan="2">Есепті күндегі ағымдағы қалдық (мың теңгемен)</td>
 <td colspan="2" rowspan="2">Деректемелер Банктің директорлар кеңесінің не акционерлердің жалпы жиналысының шешімдері(директорлар кеңесі болмаған жағдайда)</td>
 <td rowspan="2">Ескерту</td>
 </tr>
@@ -386,11 +389,12 @@ N 134 қаулысына 1-қосымша
 <th>12</th>
 <th>13</th>
 <th>14</th>
+<th>14-1</th>
 <th colspan="2">15</th>
 <th>16</th>
 </tr>
 <tr>
-<td colspan="9"></td>
+<td colspan="10"></td>
 </tr>
 <tr>
 <td></td>
@@ -398,17 +402,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -418,20 +412,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -441,7 +422,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -451,20 +445,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -474,7 +455,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -484,20 +478,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -507,7 +488,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -517,20 +511,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -540,7 +521,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -550,20 +544,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -573,7 +554,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -583,20 +577,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -606,7 +587,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -616,20 +610,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="9"></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -639,7 +620,20 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -649,7 +643,7 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -659,7 +653,17 @@ N 134 қаулысына 1-қосымша
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
 <td></td>
 <td></td>
 </tr>
@@ -674,8 +678,6 @@ N 134 қаулысына 1-қосымша
 Орындаушы _________________________
 
 Бас бухгалтер _________________________
-
-Ішкі аудит қызметі басшысы _____________
 
 Мөрдің орны:
 
@@ -713,8 +715,6 @@ N 134 қаулысына 1-қосымша
 Орындаушы _________________________
 
 Бас бухгалтер _________________________
-
-Ішкі аудит қызметі басшысы _____________
 
 Мөрдің орны:
 
