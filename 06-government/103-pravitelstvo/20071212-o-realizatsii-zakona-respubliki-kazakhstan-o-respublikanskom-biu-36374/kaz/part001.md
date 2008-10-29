@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
+source: https://zan.gov.kz/client/#!/doc/36374/kaz/29.10.2008
 ---
 
 ## 2008 жылға арналған республикалық бюджет
@@ -41,7 +41,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td></td>
 <td></td>
 <td>I. Кірістер</td>
-<td>2 722 210 114</td>
+<td>3 329 710 114</td>
 </tr>
 <tr>
 <td>1</td>
@@ -651,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td>1</td>
 <td></td>
 <td>Басқа да салықтар</td>
-<td>10000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -659,8 +659,8 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td></td>
 <td>09</td>
 <td>
-Республикалық бюджетке түсетiн басқа
-да салық түсiмдері
+Республикалық бюджетке түсетiн өзге де
+салық түсiмдері
 </td>
 <td>10 000</td>
 </tr>
@@ -684,7 +684,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td>1</td>
 <td></td>
 <td>Мемлекеттiк баж</td>
-<td>11183342</td>
+<td>11 183 342</td>
 </tr>
 <tr>
 <td></td>
@@ -692,7 +692,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td></td>
 <td>01</td>
 <td>Консулдық алым</td>
-<td>1933798</td>
+<td>1 933 798</td>
 </tr>
 <tr>
 <td></td>
@@ -755,7 +755,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 мемлекеттік тіркеу туралы куәлік
 бергені үшін алынатын мемлекеттік баж
 </td>
-<td>1816766</td>
+<td>1 816 766</td>
 </tr>
 <tr>
 <td></td>
@@ -766,7 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 Мемлекеттік тіркеу нөмірі белгілерін
 бергені үшін алынатын мемлекеттік баж
 </td>
-<td>3858348</td>
+<td>3 858 348</td>
 </tr>
 <tr>
 <td></td>
@@ -792,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td>01</td>
 <td></td>
 <td></td>
-<td>Мемлекет меншiктен түсетiн кірістер</td>
+<td>Мемлекеттік меншiктен түсетiн кірістер</td>
 <td>33 111 446</td>
 </tr>
 <tr>
@@ -1169,9 +1169,9 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
 <td>03</td>
+<td></td>
+<td></td>
 <td>
 Мемлекеттік бюджеттен қаржыландыры-
 латын мемлекеттiк мекемелер
@@ -1208,9 +1208,9 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
 <td>04</td>
+<td></td>
+<td></td>
 <td>
 Мемлекеттiк бюджеттен қаржыландыры-
 латын, сондай-ақ Қазақстан Республика-
@@ -1306,9 +1306,9 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
 <td>05</td>
+<td></td>
+<td></td>
 <td>Гранттар</td>
 <td>1 194 822</td>
 </tr>
@@ -1491,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td></td>
 <td></td>
 <td>Трансферттердің түсiмдері</td>
-<td>558 446 671</td>
+<td>1 165 946 671</td>
 </tr>
 <tr>
 <td></td>
@@ -1578,7 +1578,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td></td>
 <td></td>
 <td>Ұлттық қордан трансферттер</td>
-<td>466 524 786</td>
+<td>1 074 024 786</td>
 </tr>
 <tr>
 <td></td>
@@ -1586,7 +1586,7 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 <td>1</td>
 <td></td>
 <td>Күрделі нысаналы трансферттер</td>
-<td>466 524 786</td>
+<td>1 074 024 786</td>
 </tr>
 <tr>
 <td></td>
@@ -1611,5 +1611,13 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/22.10.2008
 берілген трансферт сомасы
 </td>
 <td>5 094 146</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>03</td>
+<td>Қазақстан Республикасының Ұлттық қорынан Республикалық бюджетке берілетін нысаналы трансферт</td>
+<td>607 500 000</td>
 </tr>
 </table>

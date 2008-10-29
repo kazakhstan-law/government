@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/22.10.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/29.10.2008
 ---
 
 <table>
@@ -39,37 +39,37 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/22.10.2008
 <th>3</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Поступления от продажи
 финансовых активов государства
-</th>
-<th>1 500 000</th>
+</td>
+<td>1 500 000</td>
 </tr>
 <tr>
-<th>6</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Поступления от продажи
 финансовых активов государства
-</th>
-<th>1 500 000</th>
+</td>
+<td>1 500 000</td>
 </tr>
 <tr>
-<th></th>
-<th>01</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>01</td>
+<td></td>
+<td></td>
+<td>
 Поступления от продажи
 финансовых активов государства
-</th>
-<th>1 500 000</th>
+</td>
+<td>1 500 000</td>
 </tr>
 <tr>
 <td></td>
