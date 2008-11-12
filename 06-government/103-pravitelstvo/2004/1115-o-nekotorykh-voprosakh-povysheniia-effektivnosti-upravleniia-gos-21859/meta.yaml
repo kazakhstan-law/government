@@ -11,10 +11,15 @@ approved_on: 2004-11-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-03-31
-  rus: 2006-03-31
+  kaz: 2008-11-12
+  rus: 2008-11-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21859/kaz/31.03.2006
-  rus: https://zan.gov.kz/client/#!/doc/21859/rus/31.03.2006
+  kaz: https://zan.gov.kz/client/#!/doc/21859/kaz/12.11.2008
+  rus: https://zan.gov.kz/client/#!/doc/21859/rus/12.11.2008
 caused_by:
-  code: '26970'
+  code: '42214'
+  requisite: Постановление Правительства Республики Казахстан от 12 ноября 2008 года № 1048
+  title:
+    rus: О некоторых вопросах акционерного общества "Фонд национального благосостояния "Самрук-Казына"
+    kaz: '"Самұрық-Қазына" ұлттық әл-ауқат қоры" акционерлік қоғамының кейбір мәселелері туралы'
+  link: https://zan.gov.kz/client/#!/doc/42214/rus
