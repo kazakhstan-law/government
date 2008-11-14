@@ -23,10 +23,19 @@ versions:
   cause:
     code: '42244'
     key: P080001064_
+- date: 2008-11-14
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '42244'
+    key: P080001064_
 version_date:
-  kaz: 2007-11-14
+  kaz: 2008-11-14
+  rus: 2008-11-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/34605/kaz/14.11.2007
+  kaz: https://zan.gov.kz/client/#!/doc/34605/kaz/14.11.2008
+  rus: https://zan.gov.kz/client/#!/doc/34605/rus/14.11.2008
 caused_by:
   code: '42244'
   key: P080001064_
