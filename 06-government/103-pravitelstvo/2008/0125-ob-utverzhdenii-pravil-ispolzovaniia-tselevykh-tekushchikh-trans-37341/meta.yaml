@@ -12,8 +12,15 @@ approved_on: 2008-01-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-01-25
-  rus: 2008-01-25
+  kaz: 2008-11-27
+  rus: 2008-11-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/37341/kaz/25.01.2008
-  rus: https://zan.gov.kz/client/#!/doc/37341/rus/25.01.2008
+  kaz: https://zan.gov.kz/client/#!/doc/37341/kaz/27.11.2008
+  rus: https://zan.gov.kz/client/#!/doc/37341/rus/27.11.2008
+caused_by:
+  code: '42449'
+  requisite: Постановление Правительства Республики Казахстан от 27 ноября 2008 года № 1097
+  title:
+    rus: О внесении дополнения и изменений в постановление Правительства Республики Казахстан от 25 января 2008 года № 67
+    kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 25 қаңтардағы N 67 қаулысына толықтырулар мен өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/42449/rus
