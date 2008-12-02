@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36555/kaz/30.06.2008
+source: https://zan.gov.kz/client/#!/doc/36555/kaz/02.12.2008
 ---
 
 ## 17-топ Қант және қанттан жасалған кондитерлік өнімдер
