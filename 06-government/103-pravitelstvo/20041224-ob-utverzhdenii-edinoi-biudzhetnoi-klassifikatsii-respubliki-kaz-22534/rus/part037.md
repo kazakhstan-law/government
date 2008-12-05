@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22534/rus/03.10.2008
+source: https://zan.gov.kz/client/#!/doc/22534/rus/05.12.2008
 ---
 
 ## планирования Республики Казахстан
