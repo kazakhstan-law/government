@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/04.06.2008
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/05.12.2008
 ---
 
 ## 6.6. Парламент депутаттары бастамашылық жасаған заң жобаларын қарау тәртібі
