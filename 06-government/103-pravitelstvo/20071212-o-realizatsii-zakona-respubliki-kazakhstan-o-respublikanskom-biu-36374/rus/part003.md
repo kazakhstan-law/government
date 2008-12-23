@@ -1,7 +1,9 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/28.11.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/23.12.2008
 ---
+
+## Перечень республиканских бюджетных программ развития на 2008 год, направленных на реализацию инвестиционных проектов
 
 <table>
 <tr>
@@ -2153,7 +2155,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 обучения в городе Уральске
 Западно-Казахстанской области
 </td>
-<td>988 260</td>
+<td>1 053 260</td>
 </tr>
 <tr>
 <td></td>
@@ -2197,12 +2199,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 <td></td>
 <td></td>
 <td></td>
-<td>
-Строительство средней школы с
-государственным языком обучения
-на 400 мест в городе Рудном
-Костанайской области
-</td>
+<td>Строительство средней школы с государственным языком обучения на 900 мест с бассейном в 19 микрорайоне города Рудного Костанайской области</td>
 <td>100 000</td>
 </tr>
 <tr>
@@ -2243,7 +2240,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 Аральского района Кызылординской
 области
 </td>
-<td>1 715 377</td>
+<td>1 615 377</td>
 </tr>
 <tr>
 <td></td>
@@ -2256,7 +2253,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 в городе Кызылорде Кызылординской
 области
 </td>
-<td>227 860</td>
+<td>327 860</td>
 </tr>
 <tr>
 <td></td>
@@ -2282,7 +2279,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 Мангистау Мунайлинского района
 Мангистауской области
 </td>
-<td>988 260</td>
+<td>843 451</td>
 </tr>
 <tr>
 <td></td>
@@ -2295,7 +2292,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 города Жанаозен Мангистауской
 области
 </td>
-<td>563 123</td>
+<td>642 932</td>
 </tr>
 <tr>
 <td></td>
@@ -2404,20 +2401,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 поселке Шортанды Шортандинского
 района Акмолинской области
 </td>
-<td>988 300</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство средней школы на 600
-мест в селе Александровка
-Аршалынского района Акмолинской
-области
-</td>
-<td>105 000</td>
+<td>1 093 300</td>
 </tr>
 <tr>
 <td></td>
@@ -2734,7 +2718,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 района Восточно-Казахстанской
 области
 </td>
-<td>187 650</td>
+<td>62 355</td>
 </tr>
 <tr>
 <td></td>
@@ -2747,7 +2731,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 района Восточно-Казахстанской
 области
 </td>
-<td>74 188</td>
+<td>199 483</td>
 </tr>
 <tr>
 <td></td>
@@ -2772,7 +2756,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 отделении Сыпатай Меркенского
 района Жамбылской области
 </td>
-<td>187 792</td>
+<td>208 244</td>
 </tr>
 <tr>
 <td></td>
@@ -3217,7 +3201,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 округе Лесбек батыр Сарыагашского
 района Южно-Казахстанской области
 </td>
-<td>1 226 942</td>
+<td>1 206 490</td>
 </tr>
 <tr>
 <td></td>
@@ -3334,7 +3318,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 мест в микрорайоне Казыгурт города
 Шымкента Южно-Казахстанской области
 </td>
-<td>558 430</td>
+<td>167 529</td>
 </tr>
 <tr>
 <td></td>
@@ -3358,7 +3342,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 мест в микрорайоне Самал-3 города
 Шымкента Южно-Казахстанской области
 </td>
-<td>534 643</td>
+<td>272 142</td>
 </tr>
 <tr>
 <td></td>
@@ -3370,7 +3354,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 мест в поселке Кайтпас 2 города
 Шымкента Южно-Казахстанской области
 </td>
-<td>538 394</td>
+<td>199 518</td>
 </tr>
 <tr>
 <td></td>
@@ -3395,7 +3379,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 мест в городе Ленгере Толебийского
 района Южно-Казахстанской области
 </td>
-<td>400 693</td>
+<td>240 693</td>
 </tr>
 <tr>
 <td></td>
@@ -3421,7 +3405,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 на 1200 мест в городе Шымкенте
 Южно-Казахстанской области
 </td>
-<td>389 182</td>
+<td>164 954</td>
 </tr>
 <tr>
 <td></td>
@@ -3570,7 +3554,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 Боргем на 600 мест в городе Кентау
 Южно-Казахстанской области
 </td>
-<td>310 869</td>
+<td>277 869</td>
 </tr>
 <tr>
 <td></td>
@@ -3731,7 +3715,7 @@ Government&quot;, &quot;Government to Consumer&quot;
 мест в селе Карагур Созакского
 района Южно-Казахстанской области
 </td>
-<td>304 493</td>
+<td>254 493</td>
 </tr>
 <tr>
 <td></td>
@@ -4104,6 +4088,22 @@ Government&quot;, &quot;Government to Consumer&quot;
 Алматы
 </td>
 <td>276 902</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Строительство средней школы на 1200 мест в микрорайоне &quot;Калкаман&quot; города Алматы</td>
+<td>1 077 197</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Строительство средней школы на 1200 мест в микрорайоне &quot;Улжан&quot; города Алматы</td>
+<td>382 309</td>
 </tr>
 <tr>
 <td></td>
@@ -5365,17 +5365,5 @@ Government&quot;, &quot;Government to Consumer&quot;
 городе Костанае Костанайской области
 </td>
 <td>550 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство городской поликлиники
-на 500 посещений в смену в городе
-Костанае Костанайской области
-</td>
-<td>245 000</td>
 </tr>
 </table>
