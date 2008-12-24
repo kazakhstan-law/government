@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36374/rus/23.12.2008
+source: https://zan.gov.kz/client/#!/doc/36374/rus/24.12.2008
 ---
 
 ## Перечень республиканских бюджетных программ развития на 2008 год, направленных на реализацию инвестиционных проектов
@@ -36,9 +36,9 @@ source: https://zan.gov.kz/client/#!/doc/36374/rus/23.12.2008
 <td>Наименование</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>01</td>
@@ -623,12 +623,12 @@ Government&quot;, &quot;Government to Consumer&quot;
 <td>217 876</td>
 </tr>
 <tr>
-<th>02</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Оборона</th>
-<th></th>
+<td>02</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Оборона</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1411,12 +1411,12 @@ Government&quot;, &quot;Government to Consumer&quot;
 <td>198 568</td>
 </tr>
 <tr>
-<th>04</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Образование</th>
-<th></th>
+<td>04</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Образование</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4440,12 +4440,12 @@ Government&quot;, &quot;Government to Consumer&quot;
 <td>968 340</td>
 </tr>
 <tr>
-<th>05</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Здравоохранение</th>
-<th></th>
+<td>05</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Здравоохранение</td>
+<td></td>
 </tr>
 <tr>
 <td></td>

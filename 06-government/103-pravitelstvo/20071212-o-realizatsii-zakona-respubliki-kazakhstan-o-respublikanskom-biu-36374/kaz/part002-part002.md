@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36374/kaz/23.12.2008
+source: https://zan.gov.kz/client/#!/doc/36374/kaz/24.12.2008
 ---
 
 ## Инвестициялық жобаларды іске асыруға бағытталған 2008 жылға арналған республикалық бюджеттік даму бағдарламаларының тізбесі
@@ -31,9 +31,9 @@ source: https://zan.gov.kz/client/#!/doc/36374/kaz/23.12.2008
 <td></td>
 </tr>
 <tr>
-<th colspan="4">1</th>
-<th>2</th>
-<th>3</th>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
 </tr>
 <tr>
 <td>01</td>
