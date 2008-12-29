@@ -18,6 +18,11 @@ caused_by:
   title: Орталық депозитарий қызметін жүзеге асыру ережесін бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/44370/kaz
 source: https://zan.gov.kz/client/#!/doc/28502/kaz/29.12.2008
+repealed_on: 2010-01-01
+repealed_by:
+  code: '44370'
+  title: Орталық депозитарий қызметін жүзеге асыру ережесін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/44370/kaz
 ---
 
 # Орталық депозитарийдiң қызметтi жүзеге асыру ережесiн бекiту туралы
