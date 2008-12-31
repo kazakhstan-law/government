@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21722/rus/18.11.2008
+source: https://zan.gov.kz/client/#!/doc/21722/rus/31.12.2008
 ---
 
 ## Положение о Министерстве по чрезвычайным ситуациям Республики Казахстан
