@@ -1,5 +1,5 @@
 ---
-version_id: AI41123_0
+version_id: AI41123_2
 act_code: '41123'
 language: kaz
 title: 2008-2009 оқу жылына мемлекеттік білім беру тапсырыстарын бекіту туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152000000001'
 approval_date: 2008-07-24
-version_date: 2008-07-24
+version_date: 2009-01-28
 registry_number: '41123'
-source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
+source: https://zan.gov.kz/client/#!/doc/41123/kaz/28.01.2009
 ---
 
 # 2008-2009 оқу жылына мемлекеттік білім беру тапсырыстарын бекіту туралы
@@ -37,6 +37,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 > *2008 жылғы 24.07.*  
 > *N а-5/306 қаулысына*  
 > *1-қосымша*
+
+> *Ескерту. 1-қосымша өзгертулер енгізілді - Ақмола облысы әкімдігінің 2009.01.28 № А-1/23 қаулысымен*
 
 ## Ақмола облысы мемлекеттік білім беру мекемелерінде 2008-2009 оқу жылына арналған бастауыш кәсіптік білімі бар білікті кадрларды даярлауға мемлекеттік білім берудің тапсырысы
 
@@ -68,8 +70,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>1</td>
 <td>0817001 - Шаштараз</td>
-<td>25</td>
-<td>25</td>
+<td>30</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -77,8 +79,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>2</td>
 <td>3001001 - Автокөлік құралдарын жөндеу және техникалық қызмет көрсету</td>
-<td>25</td>
-<td>25</td>
+<td>30</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -86,8 +88,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>3</td>
 <td>3310001 - Электр жүйелерiн және электр жабдықтарын электрмонтаждаушы</td>
-<td>25</td>
-<td>25</td>
+<td>30</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -95,8 +97,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>4</td>
 <td>4120001 - әмбебап-портной</td>
-<td>25</td>
-<td>25</td>
+<td>30</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -104,8 +106,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>5</td>
 <td>4315001 - Коммуналдық шаруашылық инженерлік жүйелерінің маманы</td>
-<td>25</td>
-<td>25</td>
+<td>30</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,8 +115,8 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>125</td>
-<td>125</td>
+<td>150</td>
+<td>150</td>
 <td></td>
 <td></td>
 <td></td>
@@ -824,9 +826,9 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 </tr>
 <tr>
 <td>1</td>
-<td>0821001- Тамақ кәсіпорынының маманы</td>
-<td>20</td>
-<td>20</td>
+<td>алынып тасталды</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -846,18 +848,18 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <tr>
 <td>3</td>
 <td>4415001 - Ауылшаруашылығы өндірісінің шебері (фермер)</td>
-<td>65</td>
-<td>65</td>
-<td>20</td>
+<td>60</td>
+<td>60</td>
+<td>25</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>130</td>
-<td>130</td>
-<td>40</td>
+<td>105</td>
+<td>105</td>
+<td>45</td>
 <td></td>
 <td></td>
 </tr>
@@ -1073,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/41123/kaz/24.07.2008
 <td>Барлығы</td>
 <td>1940</td>
 <td>1940</td>
-<td>210</td>
+<td>215</td>
 <td></td>
 <td></td>
 </tr>
