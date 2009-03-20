@@ -12,15 +12,15 @@ approved_on: 2004-10-28
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-04-24
-  rus: 2008-04-24
+  kaz: 2009-03-20
+  rus: 2009-03-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21773/kaz/24.04.2008
-  rus: https://zan.gov.kz/client/#!/doc/21773/rus/24.04.2008
+  kaz: https://zan.gov.kz/client/#!/doc/21773/kaz/20.03.2009
+  rus: https://zan.gov.kz/client/#!/doc/21773/rus/20.03.2009
 caused_by:
-  code: '39146'
-  requisite: Постановление Правительства Республики Казахстан от 24 апреля 2008 года № 387
+  code: '44905'
+  requisite: Постановление Правительства Республики Казахстан от 20 марта 2009 года № 374
   title:
     rus: О некоторых вопросах Министерства финансов Республики Казахстан
     kaz: Қазақстан Республикасы Қаржы министрлігінің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/39146/rus
+  link: https://zan.gov.kz/client/#!/doc/44905/rus
