@@ -1,13 +1,13 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
+source: https://zan.gov.kz/client/#!/doc/43073/kaz/24.03.2009
 ---
 
 ## 2009 - 2011 жылдарға арналған республикалық бюджеттік инвестициялық жобалардың, сондай-ақ республикалық бюджеттен нысаналы даму трансферттері мен кредит есебінен қаржыландыратын жергілікті бюджеттік инвестициялық жобалардың тізбесі
 
 <table>
 <tr>
-<td colspan="4">
+<td colspan="5">
 Функционалдық
 топ
 </td>
@@ -16,31 +16,36 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 </tr>
 <tr>
 <td rowspan="4"></td>
-<td colspan="3">Әкімші</td>
+<td colspan="4">Әкімші</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 <td rowspan="3">2009 жылға</td>
 <td rowspan="3">2010 жылға</td>
 <td rowspan="3">2011 жылға</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td>
+<td colspan="2">
 Кіші бағдар-
 лама
 </td>
 </tr>
 <tr>
+<td></td>
 <td>
-Инвести-
-циялық
+Ин-
+вес-
+ти-
+ция-
+лық
 жоба
 </td>
 </tr>
 <tr>
 <td colspan="4">1</td>
+<td></td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -51,12 +56,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Жалпы сипаттағы мемлекеттік қызметтер</th>
-<th>14 454 048</th>
+<th>14 683 019</th>
 <th>6 080 627</th>
 <th>2 923 561</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -71,6 +78,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>104</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Премьер-Министрінің Кеңсесі</td>
 <td>0</td>
 <td>200 128</td>
@@ -81,12 +89,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>021</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасы Премьер-Министрінің Ахуал орталығын құру</th>
 <th>0</th>
 <th>200 128</th>
 <th>901 132</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,12 +111,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,6 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>204</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Сыртқы істер министрлігі</td>
 <td>2 585 918</td>
 <td>1 212 750</td>
@@ -131,12 +144,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>009</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасының дипломатиялық өкілдіктерін орналастыру үшін</th>
 <th>2 585 918</th>
 <th>1 212 750</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -151,12 +166,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -171,12 +188,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Америка Құрама Штаттары (Нью-Йорк қаласы) Біріккен Ұлттар Ұйымы жанындағы Қазақстан Республикасының Тұрақты Өкілдігінің резиденциясы үшін ғимарат сатып алу</td>
 <td>758 521</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,6 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Германия Федеративтік Республикасындағы Қазақстан Республикасы Елшіліктің әкімшілік ғимараты, тұрғын үй құрылысы және резиденцияны қайта құру</td>
 <td>499 000</td>
 <td>1 212 750</td>
@@ -201,8 +221,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>217</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Қаржы министрлігі</td>
-<td>8 721 770</td>
+<td>8 950 741</td>
 <td>4 286 540</td>
 <td>1 975 814</td>
 </tr>
@@ -210,6 +231,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th>014</th>
+<th></th>
 <th></th>
 <th>Кеден қызметін жаңғырту</th>
 <th>590 318</th>
@@ -221,6 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td>016</td>
+<td></td>
 <td>Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
 <td>590 318</td>
 <td>423 109</td>
@@ -231,12 +254,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -251,12 +276,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>026</th>
 <th></th>
+<th></th>
 <th>Кедендік бақылау және кедендік инфрақұрылым объектілерін салу</th>
-<th>1 624 246</th>
+<th>1 644 097</th>
 <th>631 919</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -271,12 +298,36 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
+<th>Ақтөбе облысы</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ақтөбе облысы &quot;Қарғалы&quot; кедендік бекетінің инфрақұрылымын салу</td>
+<td>19 851</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -291,12 +342,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Батыс Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -311,12 +364,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Маңғыстау облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -331,12 +386,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Маңғыстау облысы &quot;Темір-Баба&quot; бірыңғай бақылау-рұқсатнамалық пункт құрылысы</td>
 <td>475 257</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,12 +408,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Оңтүстік Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -371,12 +430,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>029</th>
 <th></th>
+<th></th>
 <th>Қазынашылықтың ақпараттық жүйесін құру</th>
 <th>2 557 640</th>
 <th>313 978</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -391,12 +452,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -411,12 +474,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>030</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасы Қаржы министрлігінің ақпараттық жүйелерін құру және дамыту</th>
-<th>128 100</th>
+<th>183 772</th>
 <th>6 000</th>
 <th>6 500</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -431,12 +496,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -451,12 +518,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>031</th>
 <th></th>
+<th></th>
 <th>&quot;КААЖ&quot; және &quot;Электрондық кеден&quot; ақпараттық жүйесін құру</th>
 <th>733 758</th>
 <th>500 000</th>
 <th>500 000</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -471,12 +540,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -491,12 +562,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>032</th>
 <th></th>
+<th></th>
 <th>&quot;Мемлекеттік меншік тізімі&quot; ақпараттық жүйесін дамыту</th>
 <th>25 000</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -511,12 +584,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -531,12 +606,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>033</th>
 <th></th>
+<th></th>
 <th>&quot;Электрондық мемлекеттік сатып алу&quot; автоматтандырылған интеграцияланған ақпараттық жүйесін дамыту</th>
 <th>391 841</th>
 <th>70 070</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -551,12 +628,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -571,12 +650,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>035</th>
 <th></th>
+<th></th>
 <th>Қазынашылық объектілерін салу және реконструкциялау</th>
 <th>80 755</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -591,12 +672,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -611,12 +694,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>036</th>
 <th></th>
+<th></th>
 <th>Салық заңнамасын өзгертуге байланысты салық органдарының ақпараттық жүйелерін жаңғырту</th>
 <th>1 270 735</th>
 <th>607 392</th>
 <th>205 301</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -631,12 +716,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -651,12 +738,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>040</th>
 <th></th>
+<th></th>
 <th>Салық органдарының ақпаратты қабылдау және өңдеу орталықтарын құру</th>
-<th>459 723</th>
+<th>613 171</th>
 <th>491 511</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -667,6 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -681,8 +771,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Қаржы министрлігі Салық Комитетінің ақпаратты қабылдау және өңдеу орталықтарын құру</td>
-<td>459 723</td>
+<td>613 171</td>
 <td>491 511</td>
 <td></td>
 </tr>
@@ -691,12 +782,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>055</th>
 <th></th>
+<th></th>
 <th>Қаржылық бақылау жүргізудің ақпараттық жүйесін құру және дамыту</th>
 <th>859 954</th>
 <th>1 242 561</th>
 <th>840 609</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -711,12 +804,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -731,6 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>220</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Экономика және бюджеттік жоспарлау министрлігі</td>
 <td>490 131</td>
 <td>130 124</td>
@@ -741,12 +837,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>003</th>
 <th></th>
+<th></th>
 <th>Мемлекеттік жоспарлау саласында ақпараттық жүйені құру және дамыту</th>
 <th>490 131</th>
 <th>130 124</th>
 <th>40 615</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -761,12 +859,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -781,6 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>603</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ақпараттандыру және байланыс агенттігі</td>
 <td>2 293 229</td>
 <td>126 085</td>
@@ -791,12 +892,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>011</th>
 <th></th>
+<th></th>
 <th>Мемлекеттік деректер базасын құру</th>
 <th>298 700</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -811,12 +914,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -831,12 +936,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>012</th>
 <th></th>
+<th></th>
 <th>Мемлекеттік органдардың ақпараттық инфрақұрылымын құру</th>
 <th>1 462 000</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -851,12 +958,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -871,12 +980,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>013</th>
 <th></th>
+<th></th>
 <th>&quot;Government to Government&quot;, &quot;Government to Consumer&quot; қызметтерін көрсететін кешенді жүйе құру</th>
 <th>99 778</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -891,12 +1002,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -911,12 +1024,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>015</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасы ұлттық сәйкестендіру жүйесінің ашық кілттер инфрақұрылымын жасау</th>
 <th>64 350</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -931,12 +1046,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -951,12 +1068,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>016</th>
 <th></th>
+<th></th>
 <th>&quot;Электрондық үкімет&quot; инфрақұрылымын қорғау жүйесін құру</th>
 <th>102 455</th>
 <th>126 085</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -971,12 +1090,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -991,12 +1112,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>018</th>
 <th></th>
+<th></th>
 <th>&quot;Электрондық үкіметтің төлем шлюзі&quot; автоматтандырылған жүйесін құру</th>
 <th>217 946</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1011,12 +1134,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1031,12 +1156,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>019</th>
 <th></th>
+<th></th>
 <th>E-әкімдіктер және е-үкімет инфрақұрылымдарын интеграциялау жөніндегі іс-шаралар кешенін әзірлеу</th>
 <th>48 000</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1051,12 +1178,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1071,6 +1200,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>606</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Статистика агенттігі</td>
 <td>363 000</td>
 <td>125 000</td>
@@ -1081,12 +1211,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>003</th>
 <th></th>
+<th></th>
 <th>Мемлекеттік статистика органдарының ақпараттық жүйесін құру</th>
 <th>363 000</th>
 <th>125 000</th>
 <th>6 000</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1101,12 +1233,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1121,12 +1255,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Қорғаныс</th>
 <th>35 461 012</th>
 <th>40 222 197</th>
 <th>33 988 964</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1141,6 +1277,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>202</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Төтенше жағдайлар министрлігі</td>
 <td>17 333 058</td>
 <td>18 778 000</td>
@@ -1151,12 +1288,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>003</th>
 <th></th>
+<th></th>
 <th>Төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</th>
 <th>17 333 058</th>
 <th>18 778 000</th>
 <th>15 000 000</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1171,6 +1310,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Ақмола облысы</th>
 <th></th>
 <th></th>
@@ -1181,12 +1321,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысының Щучье қаласында 6 автокөлікке арналған өрттік депосының жобалау-сметалық құжаттарды әзірлеу және салу</td>
 <td>466 636</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1201,6 +1343,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысының Щучье ауданының Бурабай кентінде 6 автокөлікке арналған өрттік депосының жобалау-сметалық құжаттарын әзірлеу және салу</td>
 <td>466 636</td>
 <td></td>
@@ -1211,12 +1354,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1231,12 +1376,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласын Есіл өзенінің тасқын сулары жайылауынан қорғау</td>
 <td>4 200 362</td>
 <td>3 516 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1251,6 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласында (Астрахан шоссесі) Тлендиев даңғылы бойынша 6 автокөлікке арналған өрттік депо ғимараттары кешенінің жобалау-сметалық құжаттарын пысықтау және салу</td>
 <td>262 000</td>
 <td>262 000</td>
@@ -1261,12 +1409,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Оңтүстік Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1281,6 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>208</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Қорғаныс министрлігі</td>
 <td>17 631 954</td>
 <td>20 050 697</td>
@@ -1291,12 +1442,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>003</th>
 <th></th>
+<th></th>
 <th>Қарулы Күштердің автоматтандырылған басқару жүйесін құру</th>
 <th>2 413 006</th>
 <th>1 406 200</th>
 <th>1 406 200</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1311,12 +1464,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1331,12 +1486,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>004</th>
 <th></th>
+<th></th>
 <th>Қарулы Күштердің объектілерін салу</th>
 <th>15 218 948</th>
 <th>18 644 497</th>
 <th>15 492 264</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1351,12 +1508,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1371,6 +1530,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>678</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Республикалық ұланы</td>
 <td>496 000</td>
 <td>1 393 500</td>
@@ -1381,12 +1541,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>002</th>
 <th></th>
+<th></th>
 <th>Республикалық ұлан объектілерін салу</th>
 <th>496 000</th>
 <th>1 393 500</th>
 <th>2 090 500</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1401,12 +1563,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1421,12 +1585,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</th>
-<th>18 734 452</th>
+<th>18 784 573</th>
 <th>13 977 962</th>
 <th>10 332 657</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1441,8 +1607,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>201</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ішкі істер министрлігі</td>
-<td>4 630 755</td>
+<td>4 680 876</td>
 <td>4 337 145</td>
 <td>4 289 165</td>
 </tr>
@@ -1451,12 +1618,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>006</th>
 <th></th>
+<th></th>
 <th>Ақпараттық жүйені дамыту</th>
-<th>2 065 598</th>
+<th>2 070 050</th>
 <th>1 542 545</th>
 <th>1 778 320</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1471,12 +1640,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1491,12 +1662,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>&quot;Бақылау&quot; автоматтандырылған ақпараттық-іздестіру жүйесі</td>
-<td>169 353</td>
+<td>173 805</td>
 <td>148 933</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1511,12 +1684,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1531,12 +1706,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>007</th>
 <th></th>
+<th></th>
 <th>Қоғамдық тәртіп пен қауіпсіздік объектілерін салу, реконструкциялау</th>
-<th>2 290 464</th>
+<th>2 291 100</th>
 <th>2 794 600</th>
 <th>2 510 845</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1551,12 +1728,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Ақтөбе облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1571,6 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
@@ -1581,12 +1761,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>&quot;Шеп-есірткілер&quot; ауыр жүкті автокөлікті бақылау жөніндегі ангарларды салу</td>
-<td>140 464</td>
+<td>141 100</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1601,6 +1783,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ішкі істер министрлігінің Астана қаласындағы дипломатиялық өкілдіктерін күзету жөніндегі Полиция полкін орналастыруға арналған ғимараттар мен имараттар кешенін салу</td>
 <td></td>
 <td>300 000</td>
@@ -1611,12 +1794,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Жамбыл облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1631,12 +1816,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Қостанай облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1651,12 +1838,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Қызылорда облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1671,12 +1860,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Оңтүстік Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1691,6 +1882,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>008</th>
 <th></th>
+<th></th>
 <th>Деректер берудің спутниктік желісі мен телефонияны жаңғырту және дамыту</th>
 <th>274 693</th>
 <th></th>
@@ -1701,12 +1893,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1721,6 +1915,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Деректерді беру мен телефонияның спутниктік желісін жаңғырту және дамыту</td>
 <td>274 693</td>
 <td></td>
@@ -1728,7 +1923,19 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td>009</td>
+<td></td>
+<td></td>
+<td>Мемлекеттік жоба 3</td>
+<td>45 033</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td>221</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Қазақстан Республикасы Әділет министрлігі</td>
@@ -1741,12 +1948,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>004</th>
 <th></th>
+<th></th>
 <th>Қылмыстық-атқару жүйесі объектілерін салу және реконструкциялау</th>
 <th>1 918 445</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1761,12 +1970,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1781,12 +1992,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Атырау облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1801,12 +2014,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1821,12 +2036,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>026</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасының нормативтік құқықтық актілерінің электрондық бақылау Эталондық банкін құру</th>
 <th>27 736</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1841,12 +2058,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1861,6 +2080,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>410</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ұлттық қауіпсіздік комитеті</td>
 <td>9 738 966</td>
 <td>8 580 083</td>
@@ -1871,12 +2091,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>002</th>
 <th></th>
+<th></th>
 <th>Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</th>
 <th>9 738 966</th>
 <th>8 580 083</th>
 <th>5 990 617</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1891,12 +2113,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1911,6 +2135,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>501</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Жоғарғы Соты</td>
 <td>1 936 667</td>
 <td>1 008 584</td>
@@ -1921,12 +2146,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>002</th>
 <th></th>
+<th></th>
 <th>Қазақстан Республикасы сот жүйесі органдарының бірыңғай автоматтандырылған ақпараттық-талдау жүйесін құру</th>
 <th>244 474</th>
 <th>213 373</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1941,12 +2168,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Өзгелер</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1961,12 +2190,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>006</th>
 <th></th>
+<th></th>
 <th>Сот жүйесі органдарының объектілерін салу</th>
 <th>1 692 193</th>
 <th>795 211</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1981,12 +2212,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Ақмола облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2001,12 +2234,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Ақтөбе облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2021,6 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысының Ақтөбе қаласында облыстық сот әкімшілік ғимаратын кеңейту. Алқа билер үшін қосымша ғимарат салу</td>
 <td>50 450</td>
 <td></td>
@@ -2031,12 +2267,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2051,12 +2289,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Талдықорған қаласында облыстық сот ғимаратына қосымша ғимарат салу</td>
 <td>165 500</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2071,12 +2311,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Жамбыл облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2091,12 +2333,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Қызылорда облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2111,12 +2355,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Маңғыстау облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2131,6 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Маңғыстау облысының Ақтау қаласында соттар әкімшісі мен әскери соттың 3 қабатты әкімшілік ғимаратын салу</td>
 <td>94 877</td>
 <td>100 000</td>
@@ -2141,12 +2388,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Оңтүстік Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2161,6 +2410,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>502</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Бас прокуратурасы</td>
 <td>377 708</td>
 <td></td>
@@ -2170,6 +2420,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th>003</th>
+<th></th>
 <th></th>
 <th>Қазақстан Республикасы Бас прокуратурасының Құқықтық статистика және арнаулы есепке алу комитетінің ақпараттық жүйесін құру</th>
 <th>377 708</th>
@@ -2181,12 +2432,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2201,6 +2454,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Бас прокуратурасының Құқықтық статистика және арнаулы есепке алу комитетінің ақпараттық жүйесін құру</td>
 <td>377 708</td>
 <td></td>
@@ -2209,6 +2463,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <tr>
 <td></td>
 <td>618</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Қазақстан Республикасы Экономикалық қылмысқа және сыбайлас жемқорлыққа</td>
@@ -2221,6 +2476,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>003</th>
 <th></th>
+<th></th>
 <th>Бірыңғай автоматтандырылған ақпараттық-телекоммуникациялық жүйені құру</th>
 <th>104 175</th>
 <th>52 150</th>
@@ -2231,12 +2487,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2251,6 +2509,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Бірыңғай автоматтандырылған ақпараттық-телекоммуникациялық жүйесін құру</td>
 <td>104 175</td>
 <td>52 150</td>
@@ -2261,12 +2520,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Білім беру</th>
-<th>103 222 896</th>
+<th>103 410 774</th>
 <th>79 741 879</th>
 <th>46 958 562</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2281,6 +2542,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>201</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ішкі істер министрлігі</td>
 <td>750 000</td>
 <td>1 500 000</td>
@@ -2291,12 +2553,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>013</th>
 <th></th>
+<th></th>
 <th>Білім беру объектілерін салу және реконструкциялау</th>
 <th>750 000</th>
 <th>1 500 000</th>
 <th>1 500 000</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2311,12 +2575,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2331,6 +2597,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>205</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Туризм және спорт министрлігі</td>
 <td>142 000</td>
 <td></td>
@@ -2341,12 +2608,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>002</th>
 <th></th>
+<th></th>
 <th>Спорт жөніндегі білім беру объектілерін салу және реконструкциялау</th>
 <th>142 000</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2361,12 +2630,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2381,6 +2652,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>212</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Ауыл шаруашылығы министрлігі</td>
 <td>80 686</td>
 <td></td>
@@ -2391,12 +2663,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>007</th>
 <th></th>
+<th></th>
 <th>Ауыл шаруашылығы саласындағы білім беру объектілерін салу және реконструкциялау</th>
 <th>80 686</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2411,12 +2685,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2431,8 +2707,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td>225</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қазақстан Республикасы Білім және ғылым министрлігі</td>
-<td>102 189 397</td>
+<td>102 250 937</td>
 <td>78 050 279</td>
 <td>44 558 562</td>
 </tr>
@@ -2440,6 +2717,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th>004</th>
+<th></th>
 <th></th>
 <th>Ғылыми зерттеулерді коммерцияландыру жобасы бойынша инновациялық жүйенің желілерін дамыту</th>
 <th>1 359 856</th>
@@ -2451,6 +2729,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td>004</td>
+<td></td>
 <td>Сыртқы қарыздар есебінен</td>
 <td>590 000</td>
 <td>524 864</td>
@@ -2461,12 +2740,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2481,6 +2762,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td>016</td>
+<td></td>
 <td>Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
 <td>769 856</td>
 <td>684 864</td>
@@ -2491,12 +2773,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2511,12 +2795,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>005</th>
 <th></th>
+<th></th>
 <th>Білім және ғылым объектілерін салу және реконструкциялау</th>
-<th>18 866 393</th>
+<th>18 927 933</th>
 <th>6 283 463</th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2531,12 +2817,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2551,12 +2839,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Атырау облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2571,6 +2861,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Шығыс Қазақстан облысы</th>
 <th></th>
 <th></th>
@@ -2581,12 +2872,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Өскемен қаласында 700 орындық машина жасау саласы үшін техникалық қызмет көрсету және өңдеу саласындағы қызметкерлерді даярлау мен қайта даярлауға арналған өңіраралық кәсіби орталығын салу</td>
-<td>1 022 677</td>
+<td>1 039 114</td>
 <td>2 191 009</td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2597,6 +2890,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2611,12 +2905,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласындағы О.Жәутіков атындағы республикалық орта мектеп-интернат ғимараттар кешенін қайта жаңарту</td>
 <td>1 213 895</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2631,6 +2927,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласы Гоголь көшесінде 161 мекен-жайында орналасқан &quot;Қазақ мемлекеттік қыздар педагогикалық институты&quot; РМҚК 450 орындық жатақхана (студенттер үйін) салу</td>
 <td>361 042</td>
 <td></td>
@@ -2641,12 +2938,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2661,12 +2960,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласында Қазақстан Республикасының Ұлттық биотехнологиялар орталығын салу</td>
 <td>2 275 586</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2681,6 +2982,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласында Л. Гумилев атындағы Еуразия ұлттық университетінің кітапханасын салу</td>
 <td>441 500</td>
 <td>1 575 920</td>
@@ -2691,12 +2993,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Батыс Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2711,12 +3015,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жангір-хан атындағы Батыс-Қазақстан аграрлық-техникалық университетінің 560 орынға арналған жатақханасын салу</td>
 <td>369 541</td>
 <td>389 666</td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2731,12 +3037,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ш.Есенов атындағы Ақтау мемлекеттік университетінің студенттер қалашығындағы инженерлік-техникалық институты оқу корпусының ғимаратын салу. 1,2,3,4 Корпустар</td>
 <td>1 286 719</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2751,12 +3059,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Павлодар облысы Екібастұз қаласында отын-энергетика саласы үшін қызмет көрсететін және техникалық мамандарды дайындау және қайта дайындауға арналған 700 орындық өңіраралық кәсіби орталық салу</td>
 <td>2 808 047</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2771,7 +3081,8 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
-<td>Оңтүстік Қазақстан облысының Түркістан қаласында Қ.Яссауи атындағы Халықаралық қазақ-түрік университетінің басты оку корпусын салу</td>
+<td></td>
+<td>Оңтүстік Қазақстан облысының Түркістан қаласында Қ.Яссауи атындағы Халықаралық қазақ-түрік университетінің басты оқу корпусын салу</td>
 <td>452 864</td>
 <td></td>
 <td></td>
@@ -2781,8 +3092,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Оңтүстік Қазақстан облысы Шымкент қаласында өңдеу саласы үшін қызмет көрсететін және техникалық мамандарды дайындау және қайта дайындауға арналған 700 орындық өңіраралық кәсіби орталық салу</td>
-<td>865 985</td>
+<td>911 088</td>
 <td>1 250 377</td>
 <td></td>
 </tr>
@@ -2791,12 +3103,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th>012</th>
 <th></th>
+<th></th>
 <th>Облыстық бюджеттерге, Астана және Алматы қалаларының бюджеттеріне білім беру объектілерін салуға және реконструкциялауға, Алматы облысының облыстық бюджетіне және Алматы қаласының бюджетіне білім беру объектілерінің сейсмотұрақтылығын күшейту үшін берілетін нысаналы даму трансферттері</th>
 <th>81 963 148</th>
 <th>70 557 088</th>
 <th>44 382 332</th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2811,12 +3125,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Ақмола облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2831,12 +3147,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Көкшетау қаласында 320 орындық балабақша салу</td>
 <td>161 640</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2851,12 +3169,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Целиноград ауданы Қосшы ауылында 320 орындық балабақша салу</td>
 <td>48 720</td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2871,12 +3191,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Щучинск ауданы Щучинск қаласында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2891,12 +3213,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Целиноград ауданы Ильинка ауылында 320 орындық балабақша салу</td>
 <td>48 720</td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2911,12 +3235,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Астрахан ауданы Астраханка ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>370 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2931,12 +3257,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Аршалы ауданының Александровка ауылында 600 орындық орта мектеп салу</td>
 <td>705 600</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2951,12 +3279,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Ерейментау ауданы Ерейментау қаласында 320 орындық балабақша салу</td>
 <td>265 999</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2971,12 +3301,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Целиноград ауданы Ақмола (Малиновка) ауылында 320 орындық балабақша салу</td>
 <td>255 999</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2991,12 +3323,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Бұланды ауданы Макинск қаласында 600 орындық кәсіби-техникалық лицей салу</td>
 <td>150 000</td>
 <td>682 500</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3011,12 +3345,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақмола облысы Қорғалжын ауданы Қорғалжын ауылында 200 орындық жатақханасы бар 300 орындық кәсіби-техникалық лицей салу</td>
 <td>188 000</td>
 <td>644 500</td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -3031,12 +3367,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Хромтау қаласында 140 орындық балабақша салу</td>
 <td>150 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3051,12 +3389,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Ақтөбе қаласында 600 орындық инновациялық мектеп салу</td>
 <td>427 716</td>
 <td>427 716</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3071,12 +3411,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Ақтөбе қаласының Новый ауданында 320 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>390 500</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3091,12 +3433,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Ақтөбе қаласының 12 ауданында 320 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>399 506</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3111,12 +3455,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Ақтөбе қаласының Оңтүстік-батыс ауданында 320 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>399 500</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3131,12 +3477,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Ырғыз ауданы Ырғыз ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3151,12 +3499,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Мәртүк ауданы Мәртүк ауылында 280 орындық балабақша салу</td>
 <td>371 280</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3171,12 +3521,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Қарғалы ауданы Бадамша ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>374 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3191,12 +3543,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Мұғалжар ауданы Қандыағаш қаласында 320 орындық балабақша салу</td>
 <td></td>
 <td>424 320</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3211,12 +3565,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Темір ауданының Кеңқияқ ауылында 600 орындық Кеңқияқ орта мектебін салу</td>
 <td></td>
 <td>436 000</td>
 <td>436 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3231,12 +3587,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ақтөбе облысы Әйтеке би ауданының Аралтөбе селосында 270 орындық Қызылжұлдыз орта мектебін салу</td>
 <td>200 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3251,12 +3609,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Актөбе облысы Мәртүк ауданы Мәртүк ауылында 120 орындық жатақханасы бар 320 орындық кәсіби-техникалық лицей салу</td>
 <td>100 000</td>
 <td>492 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3271,12 +3631,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3291,12 +3653,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Қапшағай қаласында 320 орындық балабақша салу</td>
 <td>424 320</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3311,12 +3675,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Ақши ауданы ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>371 280</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3331,12 +3697,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Талғар ауданы Талғар қаласында 320 орындық балабақша салу</td>
 <td></td>
 <td>424 320</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3351,12 +3719,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Жамбыл ауданы Ұзынағаш ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3371,12 +3741,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Қарасай ауданы Қаскелең ауылында 320 орындық балабақша салу</td>
 <td>424 320</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3391,12 +3763,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Жамбыл ауданы Қарақастек ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>371 280</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3411,12 +3785,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Еңбекшіқазақ ауданы Түрген ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3431,12 +3807,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Еңбекшіқазақ ауданы Маловодное ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3451,12 +3829,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Кербұлақ ауданы Басшы ауылында балабақшаны қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>370 307</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3471,12 +3851,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Райымбек ауданы Нарынқол ауылында балабақшаны қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>62 744</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3491,12 +3873,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Еңбекшіқазақ ауданы Бижанов ауылында балабақшаны қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>29 477</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3511,12 +3895,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Кербұлақ ауданы Сарыөзек ауылында 360 орындық кәсіби-техникалық лицей салу</td>
 <td>113 705</td>
 <td>552 295</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3531,12 +3917,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Ескелді ауданың Қарабұлақ ауылында 600 орындық кәсіби-техникалық лицей салу</td>
 <td>132 600</td>
 <td>591 400</td>
 <td>386 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3551,12 +3939,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Балқаш ауданы Бақанас ауылында N 10 кәсіби мектепті қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>150 000</td>
 <td>51 828</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3571,12 +3961,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы облысы Талдықорған қаласында Талдықорған экономика-технологиялық колледжінің &quot;Гүлдер&quot; N 3 жатақхана ғимаратын қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>180 732</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -3591,12 +3983,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау қаласының Нұрсая шағын ауданында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3611,12 +4005,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау қаласының Жұмыскер-2 шағын ауданында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3631,12 +4027,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау қаласының Привокзальный шағын ауданында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3651,6 +4049,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау облысы Құрманғазы ауданы Ганюшкино ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
@@ -3661,12 +4060,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
-<td>Атырау облысы Жылыой ауданы Жаңа-Қаратон ауылында 280 орындық балабакша салу</td>
+<td></td>
+<td>Атырау облысы Жылыой ауданы Жаңа-Қаратон ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3681,12 +4082,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау облысы Атырау қаласының Жұмыскер ауылында 624 орындық Тайманов атындағы орта мектеп салу</td>
 <td>159 600</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3701,12 +4104,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау облысы Мақат ауданының Мақат кентінде 424 орындық Шахатов атындағы орта мектеп салу</td>
 <td>209 600</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3721,12 +4126,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Атырау облысы Жылыой ауданы Құлсары қаласының Аэропорт шағын ауданында 280 орындық балабақша салу</td>
 <td>371 280</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3741,12 +4148,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Шығыс Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3761,12 +4170,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Благодарное кентінде 320 орындық орта мектеп салу</td>
 <td>250 910</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3781,12 +4192,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Жарма ауданы Үшбиік ауылында 250 орындық орта мектеп салу</td>
 <td>125 295</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3801,12 +4214,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Аягөз ауданы Аягөз ауылында 200 орындық балабақша салу</td>
 <td></td>
 <td>79 200</td>
 <td>150 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3821,12 +4236,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Шемонаиха ауданы Шемонаиха ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>310 800</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3841,12 +4258,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Семей қаласының Холодный ключ кентінде 400 орындық орта мектеп салу</td>
 <td>178 282</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3861,12 +4280,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Семей қаласында 200 орындық жатақханасы бар 300 орындық кәсіби-техникалық лицей салу</td>
 <td>223 900</td>
 <td>316 100</td>
 <td>460 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3881,12 +4302,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Шығыс Қазақстан облысы Жарма ауданы Георгиевка (Қалбатау) ауылында мемлекеттік тілде оқытатын 140 орындық балабақша салу</td>
 <td></td>
 <td>210 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3901,12 +4324,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Алматы қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3921,12 +4346,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласындағы N 102 орта мектеп ғимаратын сейсмикалық нығайту</td>
 <td>177 420</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3941,12 +4368,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласындағы N 120 орта мектеп ғимаратын сейсмикалық нығайту</td>
 <td>122 351</td>
 <td>110 530</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3961,12 +4390,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласында орналасқан N 112 мектеп ғимаратының қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td>51 828</td>
 <td>226 882</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3981,12 +4412,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласының &quot;Камаз&quot; шағын ауданында 320 орындық балабақша салу</td>
 <td></td>
 <td>432 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4001,12 +4434,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласында орналасқан N 52 мектеп ғимаратының қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td></td>
 <td></td>
 <td>123 191</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4021,12 +4456,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласының &quot;Ұлжан&quot; шағын ауданында 1200 орындық орта мектеп салу</td>
 <td>596 801</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4041,12 +4478,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласында орналасқан N 88 мектеп ғимаратының қалпына келтіру жұмыстары арқылы сейсмикалық нығайту</td>
 <td></td>
 <td></td>
 <td>174 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4061,12 +4500,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласының Медеу ауданында 900 орындық инновациялық мектеп салу</td>
 <td>641 574</td>
 <td>641 574</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4081,12 +4522,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласының &quot;Шаңырақ-2&quot; шағын ауданында 280 орындық балабақша салу</td>
 <td>366 365</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4101,12 +4544,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алматы қаласында Казакова көшесінің бұрышы, Райымбек даңғылында 210 орындық балабақша салу</td>
 <td>147 001</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4121,12 +4566,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Астана қаласы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4141,12 +4588,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Ильинка поселкесі 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>600 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4161,12 +4610,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Тілендиев көшесі бойынан 280 орындық балабақша салу</td>
 <td>100 000</td>
 <td>476 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4181,12 +4632,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Промышленный ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>600 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4201,12 +4654,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Комсомольский поселкесінде 240 орындық балабақша салу</td>
 <td>494 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4221,12 +4676,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының поселке Теміржол поселкесі 280 орындық балабақша салу</td>
 <td>255 635</td>
 <td>320 365</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4241,12 +4698,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Тілендиев даңғылы ауданында 1200 орындық орта мектеп салу</td>
 <td>760 200</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4261,12 +4720,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Жұмабаев - Айнакөл көшесі 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>600 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4281,12 +4742,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Алматы - Ақмешіт - N 23 көшелері ауданында 240 орындық балабақша салу</td>
 <td>471 279</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4301,12 +4764,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласында 300 орынға арналған кәсіби-техникалық лицей салу (инженерлік жүйелер)</td>
 <td>183 239</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4321,12 +4786,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Қойма кооперативы ауданында (Степной) 1200 орындық орта мектеп салу</td>
 <td>784 364</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4341,12 +4808,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Айнакөл - Мирзоян көшелерінің қиылысы ауданында 280 орындық балабақша салу</td>
 <td></td>
 <td>157 313</td>
 <td>418 687</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4361,12 +4830,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласында &quot;Сары-Арқа&quot; ауданында 800 орындық кәсіптік мектеп&quot; салу (құрылыс бейіні бойынша)</td>
 <td>264 952</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4381,12 +4852,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының Сарайшық көшесінің оңтүстігі, Жұмабаев көшесінің шығыс жобалауы қиылысы ауданында 280 орындық балабақша салу</td>
 <td></td>
 <td>157 313</td>
 <td>418 687</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4401,12 +4874,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Астана қаласының оңтүстік шығыс тұрғын үй кешені Көктал поселкесінде 280 орындық балабақша салу</td>
 <td></td>
 <td>157 313</td>
 <td>418 687</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4421,12 +4896,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Жамбыл облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4441,12 +4918,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Шу ауданы Шу ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>420 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4461,12 +4940,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Мерке ауданы Мерке ауылында 280 орындық балабақша салу</td>
 <td>48 720</td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4481,12 +4962,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Қордай ауданы Сортөбе ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>420 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4501,12 +4984,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Рысқұлов ауданы Луговая ауылында 240 орындық балабақша салу</td>
 <td></td>
 <td>360 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4521,12 +5006,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Тараз қаласында 600 орындық кәсіби-техникалық лицей салу</td>
 <td>195 945</td>
 <td>798 050</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4541,12 +5028,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Талас ауданы Қаратау ауылында 140 орындық балабақша салу</td>
 <td></td>
 <td>210 000</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4561,12 +5050,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жамбыл облысы Жуалы ауданының Қолбастау ауылында А.Гайдар атындағы 330 орындық орта мектеп салу</td>
 <td>158 660</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4581,12 +5072,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <th></th>
 <th></th>
 <th></th>
+<th></th>
 <th>Батыс Қазақстан облысы</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4601,12 +5094,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Жәнібек ауданы Жәнібек ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td></td>
 <td>444 960</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4621,12 +5116,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Орал қаласының Зачаганск ауылында 320 орындық балабақша салу</td>
 <td>52 040</td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4641,12 +5138,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Бөкейорда ауданы Сайхын ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>371 280</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4661,12 +5160,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Орал қаласы Желаево кентінде 360 орындық орта мектеп салу</td>
 <td>286 648</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4681,12 +5182,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Казталовка ауданы Казталовка ауылында 280 орындық балабақша салу</td>
 <td></td>
 <td>444 960</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4701,6 +5204,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Орал қаласында 300 орындық кәсіби-техникалық лицейінің оқу ғимаратын салу</td>
 <td></td>
 <td></td>
@@ -4711,12 +5215,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
-<td>Батыс Қазақстан облысы Орал қаласында 300 орындық кәсіби-техникалық лицейінің оку ғимаратын салу</td>
+<td></td>
+<td>Батыс Қазақстан облысы Орал қаласында 300 орындық кәсіби-техникалық лицейінің оқу ғимаратын салу</td>
 <td></td>
 <td></td>
 <td>720 000</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4731,12 +5237,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Қаратөбе ауданы Қаратөбе ауылында 100 орындық интернаты бар 300 орындық орта мектеп салу</td>
 <td>246 934</td>
 <td>226 249</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4751,12 +5259,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Батыс Қазақстан облысы Теректі ауданы Подстепное ауылында 300 орындық кәсіби-техникалық лицейінің оқу ғимаратын салу</td>
 <td></td>
 <td>162 000</td>
 <td>393 000</td>
 </tr>
 <tr>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -4771,12 +5281,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Жезқазған қаласында 320 орындық балабақша салу</td>
 <td></td>
 <td>150 000</td>
 <td>273 320</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4791,12 +5303,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Абай ауданы Абай қаласында 320 орындық балабақша салу</td>
 <td></td>
 <td>423 320</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4811,12 +5325,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Сәтпаев қаласында 7-2 шағын ауданында 320 орындық балабақша салу</td>
 <td>249 841</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4831,12 +5347,14 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Қарағанды қаласының Юго-Восток шағын ауданында 320 орындық балабақша салу</td>
 <td>48 880</td>
 <td>374 440</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4851,6 +5369,7 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Қарағанды қаласының 14 шағын ауданында 280 орындық Журавушка балабақшасын қайта жаңарту</td>
 <td></td>
 <td>420 160</td>
@@ -4861,188 +5380,9 @@ source: https://zan.gov.kz/client/#!/doc/43073/kaz/18.12.2008
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Қарағанды облысы Қарағанды қаласының &quot;Көгілдір тоған&quot; шағын ауданында 320 орындық балабақша салу</td>
 <td>213 047</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Қарағанды қаласында Гүлдер шағын ауданында 1200 орындық инновациялық мектеп салу</td>
-<td>423 434</td>
-<td>988 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Қарағанды қаласының 15 шағын ауданында 280 орындық Золотой башмачок балабақшасын қайта жаңарту</td>
-<td>48 880</td>
-<td>371 280</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Қарағанды қаласының Восток-3 (Майқұдық) шағын ауданында 280 орындық балабақша салу</td>
-<td></td>
-<td>100 000</td>
-<td>323 320</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Сарань қаласының Ақтас ауылында 320 орындық балабақша салу</td>
-<td></td>
-<td>100 000</td>
-<td>323 320</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Сарань қаласында 100 орындық жатақханасы бар 360 орындық кәсіби-техникалық лицей салу</td>
-<td></td>
-<td>212 400</td>
-<td>489 600</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Қарағанды қаласында 100 орындық жатақханасы бар 360 орындық кәсіби-техникалық лицей салу</td>
-<td>134 000</td>
-<td>532 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Нұра ауданы Киевка ауылында 100 орындық жатақханасы бар 200 орындық кәсіби-техникалық лицей салу</td>
-<td>160 000</td>
-<td>210 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Осакаровка ауданы Осакаровка ауылында 100 орындық жатақханасы бар 200 орындық кәсіби-техникалық лицей салу</td>
-<td>160 000</td>
-<td>210 000</td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қостанай облысы</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Арқалық қаласында 110 орындық балабақшаны қайта жаңарту</td>
-<td>180 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Рудный қаласында 300 орындық балабақша салу</td>
-<td></td>
-<td>450 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Қостанай қаласында 300 орындық балабақшаны қайта құру</td>
-<td>124 802</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Лисаковск қаласында 280 орындық балабақша салу</td>
-<td></td>
-<td></td>
-<td>371 280</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Қостанай қаласында 280 орындық N 47 балабақшаны қайта жаңарту</td>
-<td></td>
-<td>371 280</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Қостанай қаласында 280 орындық N 4 балабақшаны қайта жаңарту</td>
-<td>360 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Таранов ауданы Тобыл ауылында 300 орындық балабақша салу</td>
-<td></td>
-<td>397 800</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Денисов ауданы Денисовка ауылындағы 160 орындық балабақшаны қайта жаңарту</td>
-<td></td>
-<td>100 000</td>
-<td>240 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы Қамысты ауданының Қамысты ауылында 300 орындық мемлекеттік тілде оқытатын орта мектеп салу</td>
-<td>510 476</td>
 <td></td>
 <td></td>
 </tr>
