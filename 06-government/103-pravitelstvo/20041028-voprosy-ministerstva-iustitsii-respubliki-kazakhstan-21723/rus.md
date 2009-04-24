@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21723/rus/31.12.2008
+source: https://zan.gov.kz/client/#!/doc/21723/rus/24.04.2009
 ---
 
 # Вопросы Министерства юстиции Республики Казахстан
