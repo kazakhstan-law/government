@@ -10,8 +10,10 @@ approved_on: 2008-11-12
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-11-12
-  rus: 2008-11-12
+  kaz: 2009-04-29
+  rus: 2009-04-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/42214/kaz/12.11.2008
-  rus: https://zan.gov.kz/client/#!/doc/42214/rus/12.11.2008
+  kaz: https://zan.gov.kz/client/#!/doc/42214/kaz/29.04.2009
+  rus: https://zan.gov.kz/client/#!/doc/42214/rus/29.04.2009
+caused_by:
+  code: P090000598_
