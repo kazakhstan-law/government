@@ -1,0 +1,18 @@
+act_code: '45727'
+requisite: Постановление Правительства Республики Казахстан от 6 мая 2009 года № 638
+title:
+  rus: Об утверждении перечня биржевых товаров
+  kaz: Биржалық тауарлардың тізбесін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРЧ
+approved_on: 2009-05-06
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2009-05-06
+  rus: 2009-05-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/45727/kaz/06.05.2009
+  rus: https://zan.gov.kz/client/#!/doc/45727/rus/06.05.2009
