@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36553/rus/14.03.2009
+source: https://zan.gov.kz/client/#!/doc/36553/rus/06.05.2009
 ---
 
 ## Рассмотрение заявок на участие в конкурсе, допуск к участию в конкурсе
