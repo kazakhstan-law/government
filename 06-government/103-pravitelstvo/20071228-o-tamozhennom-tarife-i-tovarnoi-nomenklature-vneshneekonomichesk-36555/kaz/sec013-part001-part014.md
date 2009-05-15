@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36555/kaz/02.12.2008
+source: https://zan.gov.kz/client/#!/doc/36555/kaz/15.05.2009
 ---
 
 ## Ескертулер:
@@ -289,7 +289,7 @@ ii) жалпы мөлшері басқа элементтердiң мөлшерi
 көп мөлшерi 7 мм-ден астам
 </td>
 <td>-</td>
-<td>5</td>
+<td>0</td>
 </tr>
 <tr>
 <td>7605 19 000 0</td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36555/kaz/02.12.2008
+source: https://zan.gov.kz/client/#!/doc/36555/kaz/15.05.2009
 ---
 
 ## Қосымша ескертулер:
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/36555/kaz/02.12.2008
 <td>8403 10 900 0</td>
 <td>- - өзгелері</td>
 <td>дана</td>
-<td>0</td>
+<td>15</td>
 </tr>
 <tr>
 <td>8403 90</td>

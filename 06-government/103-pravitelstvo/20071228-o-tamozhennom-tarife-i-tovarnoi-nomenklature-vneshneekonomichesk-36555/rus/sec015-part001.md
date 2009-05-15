@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36555/rus/02.12.2008
+source: https://zan.gov.kz/client/#!/doc/36555/rus/15.05.2009
 ---
 
 ## Группа 73 Изделия из черных металлов
