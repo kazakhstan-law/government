@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36553/kaz/06.05.2009
+source: https://zan.gov.kz/client/#!/doc/36553/kaz/28.05.2009
 ---
 
 ## Конкурсқа қатысуға өтінімдерді қарау, конкурсқа қатысуға рұқсат беру
