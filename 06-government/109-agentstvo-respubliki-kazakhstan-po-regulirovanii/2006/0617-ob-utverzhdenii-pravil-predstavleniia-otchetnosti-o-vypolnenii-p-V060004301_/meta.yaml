@@ -79,10 +79,16 @@ versions:
   cause:
     code: '46755'
     key: V090005712_
+- date: 2009-05-29
+  languages:
+  - kaz
+  cause:
+    code: '46755'
+    key: V090005712_
 version_date:
-  rus: 2009-05-26
+  kaz: 2009-05-29
 source:
-  rus: https://zan.gov.kz/client/#!/doc/28940/rus/26.05.2009
+  kaz: https://zan.gov.kz/client/#!/doc/28940/kaz/29.05.2009
 caused_by:
   code: '46755'
   key: V090005712_
