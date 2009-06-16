@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/14150/kaz/28.10.2005
+source: https://zan.gov.kz/client/#!/doc/14150/kaz/16.06.2009
 ---
 
 # Кемелер мен оларға құқықтарды мемлекеттiк тiркеу ережесiн бекіту туралы
