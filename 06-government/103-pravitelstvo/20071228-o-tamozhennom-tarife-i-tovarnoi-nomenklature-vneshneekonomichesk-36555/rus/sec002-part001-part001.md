@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36555/rus/15.05.2009
+source: https://zan.gov.kz/client/#!/doc/36555/rus/27.06.2009
 ---
 
 ## Группа 07 Овощи и некоторые съедобные корнеплоды и клубнеплоды
