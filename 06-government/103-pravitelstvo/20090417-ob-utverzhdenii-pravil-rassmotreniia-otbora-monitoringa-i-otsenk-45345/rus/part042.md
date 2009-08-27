@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45345/rus/17.04.2009
+source: https://zan.gov.kz/client/#!/doc/45345/rus/27.08.2009
 ---
 
 ## Транспорт и коммуникации
