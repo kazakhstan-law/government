@@ -51,17 +51,27 @@ versions:
   cause:
     code: '46856'
     key: P090001074_
+- date: 2009-08-28
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '47535'
+    key: P090001265_
+  also_caused_by:
+  - code: '47536'
+    key: P090001266_
 version_date:
-  kaz: 2009-07-16
-  rus: 2009-07-16
+  kaz: 2009-08-28
+  rus: 2009-08-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/43073/kaz/16.07.2009
-  rus: https://zan.gov.kz/client/#!/doc/43073/rus/16.07.2009
+  kaz: https://zan.gov.kz/client/#!/doc/43073/kaz/28.08.2009
+  rus: https://zan.gov.kz/client/#!/doc/43073/rus/28.08.2009
 caused_by:
-  code: '46856'
-  key: P090001074_
-  requisite: Постановление Правительства Республики Казахстан от 16 июля 2009 года № 1074
+  code: '47535'
+  key: P090001265_
+  requisite: Постановление Правительства Республики Казахстан от 28 августа 2009 года № 1265
   title:
     rus: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 18 декабря 2008 года № 1184
     kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 18 желтоқсандағы N 1184 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/46856/rus
+  link: https://zan.gov.kz/client/#!/doc/47535/rus
