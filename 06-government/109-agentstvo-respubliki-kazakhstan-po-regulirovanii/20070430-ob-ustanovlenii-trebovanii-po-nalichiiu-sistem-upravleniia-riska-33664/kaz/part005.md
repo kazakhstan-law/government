@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/33664/kaz/30.04.2007
+source: https://zan.gov.kz/client/#!/doc/33664/kaz/26.09.2009
 ---
 
 ## Талаптардың қосымша критерийлері
