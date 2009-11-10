@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39146/rus/27.08.2009
+source: https://zan.gov.kz/client/#!/doc/39146/rus/10.11.2009
 ---
 
 # О некоторых вопросах Министерства финансов Республики Казахстан
