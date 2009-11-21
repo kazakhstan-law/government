@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/44481/rus/09.11.2009
+source: https://zan.gov.kz/client/#!/doc/44481/rus/21.11.2009
 ---
 
 ## Заявление от «___»______________ ______ года
