@@ -10,8 +10,15 @@ approved_on: 2009-01-22
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-01-22
-  rus: 2009-01-22
+  kaz: 2009-12-21
+  rus: 2009-12-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/43721/kaz/22.01.2009
-  rus: https://zan.gov.kz/client/#!/doc/43721/rus/22.01.2009
+  kaz: https://zan.gov.kz/client/#!/doc/43721/kaz/21.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/43721/rus/21.12.2009
+caused_by:
+  code: '49480'
+  requisite: Постановление Правительства Республики Казахстан от 21 декабря 2009 года № 2139
+  title:
+    rus: О внесении изменений в постановление Правительства Республики Казахстан от 22 января 2009 года № 32
+    kaz: Қазақстан Республикасы Үкіметінің 2009 жылғы 27 қаңтардағы № 32 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/49480/rus
