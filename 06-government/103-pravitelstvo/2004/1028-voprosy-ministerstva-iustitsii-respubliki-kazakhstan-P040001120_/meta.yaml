@@ -200,17 +200,24 @@ versions:
   cause:
     code: '48726'
     key: P090001889_
+- date: 2009-12-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '49514'
+    key: P090002189_
 version_date:
-  kaz: 2009-11-19
-  rus: 2009-11-19
+  kaz: 2009-12-25
+  rus: 2009-12-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21723/kaz/19.11.2009
-  rus: https://zan.gov.kz/client/#!/doc/21723/rus/19.11.2009
+  kaz: https://zan.gov.kz/client/#!/doc/21723/kaz/25.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/21723/rus/25.12.2009
 caused_by:
-  code: '48726'
-  key: P090001889_
-  requisite: Постановление Правительства Республики Казахстан от 19 ноября 2009 года № 1889
+  code: '49514'
+  key: P090002189_
+  requisite: Постановление Правительства Республики Казахстан от 25 декабря 2009 года № 2189
   title:
     rus: О внесении дополнения в постановление Правительства Республики Казахстан от 28 октября 2004 года № 1120
     kaz: Қазақстан Республикасы Үкіметінің 2004 жылғы 28 қазандағы № 1120 қаулысына толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/48726/rus
+  link: https://zan.gov.kz/client/#!/doc/49514/rus
