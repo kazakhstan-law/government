@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/28940/kaz/01.07.2009
+source: https://zan.gov.kz/client/#!/doc/28940/kaz/29.12.2009
 ---
 
 ## 200__ жылғы "___"_______ пруденциалдық нормативтерді есептеуге арналған қосымша мәліметтер
