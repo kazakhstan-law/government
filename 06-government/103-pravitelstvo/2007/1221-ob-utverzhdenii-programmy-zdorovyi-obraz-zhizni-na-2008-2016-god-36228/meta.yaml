@@ -11,10 +11,15 @@ approved_on: 2007-12-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-02-18
-  rus: 2009-02-18
+  kaz: 2009-12-30
+  rus: 2009-12-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/36228/kaz/18.02.2009
-  rus: https://zan.gov.kz/client/#!/doc/36228/rus/18.02.2009
+  kaz: https://zan.gov.kz/client/#!/doc/36228/kaz/30.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/36228/rus/30.12.2009
 caused_by:
-  code: '44282'
+  code: '49656'
+  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2009 года № 2305
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/49656/rus
