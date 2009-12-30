@@ -10,10 +10,15 @@ approved_on: 2004-12-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-12-23
-  rus: 2009-12-23
+  kaz: 2009-12-30
+  rus: 2009-12-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22239/kaz/23.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/22239/rus/23.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/22239/kaz/30.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/22239/rus/30.12.2009
 caused_by:
-  code: P090002164_
+  code: '49843'
+  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2009 года № 2255
+  title:
+    rus: О вопросах Министерства сельского хозяйства Республики Казахстан
+    kaz: Қазақстан Республикасы Ауыл шаруашылығы министрлігінің мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/49843/rus
