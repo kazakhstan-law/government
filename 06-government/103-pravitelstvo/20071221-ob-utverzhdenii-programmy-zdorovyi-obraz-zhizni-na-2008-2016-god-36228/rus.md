@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/36228/rus/18.02.2009
+source: https://zan.gov.kz/client/#!/doc/36228/rus/30.12.2009
 ---
 
 # Об утверждении программы "Здоровый образ жизни" на 2008-2016 годы
