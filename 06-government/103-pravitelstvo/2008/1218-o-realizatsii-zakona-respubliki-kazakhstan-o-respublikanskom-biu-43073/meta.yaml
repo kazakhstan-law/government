@@ -10,15 +10,15 @@ approved_on: 2008-12-18
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-12-30
-  rus: 2009-12-30
+  kaz: 2009-12-31
+  rus: 2009-12-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/43073/kaz/30.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/43073/rus/30.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/43073/kaz/31.12.2009
+  rus: https://zan.gov.kz/client/#!/doc/43073/rus/31.12.2009
 caused_by:
-  code: '49729'
-  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2009 года № 2260
+  code: '50317'
+  requisite: Постановление Правительства Республики Казахстан от 31 декабря 2009 года №  2317
   title:
     rus: О внесении изменений в постановление Правительства Республики Казахстан от 18 декабря 2008 года № 1184
     kaz: Қазақстан Республикасы Үкіметінің 2008 жылғы 18 желтоқсандағы № 1184 қаулысына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/49729/rus
+  link: https://zan.gov.kz/client/#!/doc/50317/rus
