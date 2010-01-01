@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/28940/rus/29.12.2009
+source: https://zan.gov.kz/client/#!/doc/28940/rus/01.01.2010
 ---
 
 ## Расшифровка условных и возможных обязательств, взвешенных с учетом кредитного риска
