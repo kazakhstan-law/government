@@ -1,5 +1,5 @@
 ---
-version_id: AI36553_15
+version_id: AI36553_17
 act_code: '36553'
 language: rus
 title: Об утверждении Правил осуществления государственных закупок
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2007-12-27
-version_date: 2009-12-30
+version_date: 2010-01-01
 registry_number: '36553'
 caused_by:
-  code: '49656'
-  title: О внесении изменений в некоторые решения Правительства Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/49656/rus
-source: https://zan.gov.kz/client/#!/doc/36553/rus/30.12.2009
+  code: '43670'
+  title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 27 декабря 2007 года № 1301
+  link: https://zan.gov.kz/client/#!/doc/43670/rus
+source: https://zan.gov.kz/client/#!/doc/36553/rus/01.01.2010
 ---
 
 # Об утверждении Правил осуществления государственных закупок
