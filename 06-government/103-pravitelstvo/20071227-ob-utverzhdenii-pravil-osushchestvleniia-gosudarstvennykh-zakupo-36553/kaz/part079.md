@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/36553/kaz/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/36553/kaz/01.01.2010
 ---
 
 ## Тауарларды/көрсетілетін қызметтерді мемлекеттік сатып алу туралы үлгі шарт
