@@ -1,5 +1,5 @@
 ---
-version_id: AI43896_0
+version_id: AI43896_1
 act_code: '43896'
 language: kaz
 title: 2009 жылы жұмыссыздарды қоғамдық жұмыстарға жіберу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166003000001'
 approval_date: 2009-01-09
-version_date: 2009-01-09
+version_date: 2010-01-01
 registry_number: '43896'
-source: https://zan.gov.kz/client/#!/doc/43896/kaz/09.01.2009
+source: https://zan.gov.kz/client/#!/doc/43896/kaz
 ---
 
 # 2009 жылы жұмыссыздарды қоғамдық жұмыстарға жіберу туралы
@@ -31,4 +31,6 @@ source: https://zan.gov.kz/client/#!/doc/43896/kaz/09.01.2009
 
 6. Осы қаулының орындалуын бақылау аудан әкімінің орынбасары Р.Жолдасқа жүктелсін.
 
-   Аудан әкімі С.Кенжебаев
+**Аудан әкімі**
+
+**С.Кенжебаев**
