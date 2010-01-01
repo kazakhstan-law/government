@@ -31,12 +31,16 @@ versions:
   cause:
     code: '44400'
     key: V090005554_
+- date: 2010-01-01
+  languages:
+  - rus
+  cause:
+    code: '44400'
+    key: V090005554_
 version_date:
-  kaz: 2009-01-26
-  rus: 2009-01-26
+  rus: 2010-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21288/kaz/26.01.2009
-  rus: https://zan.gov.kz/client/#!/doc/21288/rus/26.01.2009
+  rus: https://zan.gov.kz/client/#!/doc/21288/rus/01.01.2010
 caused_by:
   code: '44400'
   key: V090005554_
