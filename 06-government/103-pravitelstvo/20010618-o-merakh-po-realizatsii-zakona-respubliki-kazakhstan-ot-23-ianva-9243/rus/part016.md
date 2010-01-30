@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9243/rus/30.09.2009
+source: https://zan.gov.kz/client/#!/doc/9243/rus/30.01.2010
 ---
 
 ## 2. Организация общественных работ
