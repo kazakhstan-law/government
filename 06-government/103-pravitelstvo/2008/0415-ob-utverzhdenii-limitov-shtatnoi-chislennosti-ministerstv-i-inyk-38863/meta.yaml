@@ -10,15 +10,10 @@ approved_on: 2008-04-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-01-28
-  rus: 2010-01-28
+  kaz: 2010-02-04
+  rus: 2010-02-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/28.01.2010
-  rus: https://zan.gov.kz/client/#!/doc/38863/rus/28.01.2010
+  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/04.02.2010
+  rus: https://zan.gov.kz/client/#!/doc/38863/rus/04.02.2010
 caused_by:
-  code: '50280'
-  requisite: Постановление Правительства Республики Казахстан от 28 января 2010 года № 30
-  title:
-    rus: О передаче отдельных государственных учреждений из коммунальной в республиканскую собственность
-    kaz: Жекелеген мемлекеттік мекемелерді коммуналдық меншіктен республикалық меншікке беру туралы
-  link: https://zan.gov.kz/client/#!/doc/50280/rus
+  code: P100000072_
