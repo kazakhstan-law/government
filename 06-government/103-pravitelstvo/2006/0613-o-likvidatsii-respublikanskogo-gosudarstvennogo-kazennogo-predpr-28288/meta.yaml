@@ -10,8 +10,10 @@ approved_on: 2006-06-13
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2006-06-13
-  rus: 2006-06-13
+  kaz: 2010-03-02
+  rus: 2010-03-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/28288/kaz/13.06.2006
-  rus: https://zan.gov.kz/client/#!/doc/28288/rus/13.06.2006
+  kaz: https://zan.gov.kz/client/#!/doc/28288/kaz/02.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/28288/rus/02.03.2010
+caused_by:
+  code: P100000157_
