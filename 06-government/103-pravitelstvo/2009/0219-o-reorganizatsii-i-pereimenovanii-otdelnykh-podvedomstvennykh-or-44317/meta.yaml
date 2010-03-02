@@ -10,8 +10,10 @@ approved_on: 2009-02-19
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-02-19
-  rus: 2009-02-19
+  kaz: 2010-03-02
+  rus: 2010-03-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/44317/kaz/19.02.2009
-  rus: https://zan.gov.kz/client/#!/doc/44317/rus/19.02.2009
+  kaz: https://zan.gov.kz/client/#!/doc/44317/kaz/02.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/44317/rus/02.03.2010
+caused_by:
+  code: P100000157_
