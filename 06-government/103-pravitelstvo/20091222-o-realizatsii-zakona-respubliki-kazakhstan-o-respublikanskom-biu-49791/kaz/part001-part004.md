@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49791/kaz/01.03.2010
+source: https://zan.gov.kz/client/#!/doc/49791/kaz/25.03.2010
 ---
 
 > *Қызметте пайдалану үшін*  
