@@ -23,12 +23,22 @@ versions:
   cause:
     code: '51428'
     key: P100000150_
+- date: 2010-03-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '51428'
+    key: P100000150_
+  also_caused_by:
+  - code: '51389'
+    key: P100000233_
 version_date:
-  kaz: 2010-03-01
-  rus: 2010-03-01
+  kaz: 2010-03-25
+  rus: 2010-03-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/49791/kaz/01.03.2010
-  rus: https://zan.gov.kz/client/#!/doc/49791/rus/01.03.2010
+  kaz: https://zan.gov.kz/client/#!/doc/49791/kaz/25.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 caused_by:
   code: '51428'
   key: P100000150_
