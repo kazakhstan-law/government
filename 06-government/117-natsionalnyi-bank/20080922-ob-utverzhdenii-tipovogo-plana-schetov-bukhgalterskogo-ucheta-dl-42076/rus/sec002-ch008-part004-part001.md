@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/42076/rus/20.03.2009
+source: https://zan.gov.kz/client/#!/doc/42076/rus/29.03.2010
 ---
 
 ## Условные и возможные требования и обязательства

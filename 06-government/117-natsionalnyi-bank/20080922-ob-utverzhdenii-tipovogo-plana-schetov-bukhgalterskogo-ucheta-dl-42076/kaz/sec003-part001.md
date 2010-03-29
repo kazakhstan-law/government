@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42076/kaz/20.03.2009
+source: https://zan.gov.kz/client/#!/doc/42076/kaz/29.03.2010
 ---
 
 ## Шартты және ықтимал талаптар мен міндеттемелер
