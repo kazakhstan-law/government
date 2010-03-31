@@ -11,8 +11,15 @@ approved_on: 2007-01-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2007-01-30
-  rus: 2007-01-30
+  kaz: 2010-03-31
+  rus: 2010-03-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/31549/kaz/30.01.2007
-  rus: https://zan.gov.kz/client/#!/doc/31549/rus/30.01.2007
+  kaz: https://zan.gov.kz/client/#!/doc/31549/kaz/31.03.2010
+  rus: https://zan.gov.kz/client/#!/doc/31549/rus/31.03.2010
+caused_by:
+  code: '51641'
+  requisite: Постановление Правительства Республики Казахстан от 31 марта 2010 года № 252
+  title:
+    rus: О некоторых вопросах Министерства культуры Республики Казахстан
+    kaz: Қазақстан Республикасы Мәдениет министрлігінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/51641/rus
