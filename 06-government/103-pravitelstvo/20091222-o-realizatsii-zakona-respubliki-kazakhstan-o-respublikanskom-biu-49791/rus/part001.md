@@ -1,11 +1,11 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
+source: https://zan.gov.kz/client/#!/doc/49791/rus/31.03.2010
 ---
 
 ## Перечень бюджетных инвестиционных проектов, финансируемых из республиканского бюджета на 2010-2012 годы
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 01.03.2010 № 150.*
+> *Сноска. Приложение 1 в редакции постановления Правительства РК от 31.03.2010 № 250.*
 
 <table>
 <tr>
@@ -44,35 +44,35 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <th></th>
 <th></th>
 <th>ВСЕГО:</th>
-<th>844 214 578</th>
-<th>645 909 716</th>
+<th>923 427 022</th>
+<th>645 909 717</th>
 <th>605 460 971</th>
 </tr>
 <tr>
-<th>01</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Государственные услуги
 общего характера
-</th>
-<th>11 753 660</th>
-<th>6 143 339</th>
-<th>12 277 235</th>
+</td>
+<td>16 581 353</td>
+<td>6 143 339</td>
+<td>12 277 235</td>
 </tr>
 <tr>
-<th></th>
-<th>104</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>104</td>
+<td></td>
+<td></td>
+<td>
 Канцелярия Премьер-Министра
 Республики Казахстан
-</th>
-<th></th>
-<th>200 128</th>
-<th>901 131</th>
+</td>
+<td></td>
+<td>200 128</td>
+<td>901 131</td>
 </tr>
 <tr>
 <td></td>
@@ -102,14 +102,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -126,17 +126,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>901 131</td>
 </tr>
 <tr>
-<th></th>
-<th>204</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>204</td>
+<td></td>
+<td></td>
+<td>
 Министерство иностранных
 дел Республики Казахстан
-</th>
-<th>3 308 437</th>
-<th>2 751 091</th>
-<th>2 751 091</th>
+</td>
+<td>3 308 437</td>
+<td>2 751 091</td>
+<td>2 751 091</td>
 </tr>
 <tr>
 <td></td>
@@ -169,14 +169,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -203,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>
 Строительство комплекса зданий
 Посольства Республики Казахстан
-на Украине
+в Украине
 </td>
 <td>1 528 427</td>
 <td>1 528 427</td>
@@ -269,17 +269,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>217</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>217</td>
+<td></td>
+<td></td>
+<td>
 Министерство финансов
 Республики Казахстан
-</th>
-<th>7 052 515</th>
-<th>1 975 814</th>
-<th>8 260 381</th>
+</td>
+<td>11 880 208</td>
+<td>1 975 814</td>
+<td>8 260 381</td>
 </tr>
 <tr>
 <td></td>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>014</td>
 <td></td>
 <td>Модернизация таможенной службы</td>
-<td>423 109</td>
+<td>773 702</td>
 <td>423 404</td>
 <td>423 404</td>
 </tr>
@@ -297,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>004</td>
 <td>За счет внешних займов</td>
-<td>126 933</td>
+<td>232 562</td>
 <td>127 021</td>
 <td>127 021</td>
 </tr>
@@ -320,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>Модернизация таможенной службы</td>
-<td>126 933</td>
+<td>232 562</td>
 <td>127 021</td>
 <td>127 021</td>
 </tr>
@@ -334,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 внешних займов из
 республиканского бюджета
 </td>
-<td>296 176</td>
+<td>541 140</td>
 <td>296 383</td>
 <td>296 383</td>
 </tr>
@@ -357,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>Модернизация таможенной службы</td>
-<td>296 176</td>
+<td>541 140</td>
 <td>296 383</td>
 <td>296 383</td>
 </tr>
@@ -371,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 таможенного контроля и
 таможенной инфраструктуры
 </td>
-<td>860 156</td>
+<td>3 954 073</td>
 <td></td>
 <td></td>
 </tr>
@@ -389,14 +389,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -419,10 +419,34 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <th></th>
 <th></th>
 <th></th>
-<th>Мангистауская область</th>
+<th>Жамбылская область</th>
 <th></th>
 <th></th>
 <th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство ЕКПП
+&quot;Нововоскресенка&quot; таможенного
+поста &quot;Сыпатай батыр&quot;
+</td>
+<td>136 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мангистауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -472,13 +496,68 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Разработка ПСД и начало
+реконструкции в соответствии с
+современными требованиями
+</td>
+<td>508 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+6 таможенных постов на южной
+границе (Майкапчагай, Бахты,
+Атамекен, Кулан, Калжат,
+Карасу)
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Разработка ПСД и начало
+строительства 466
+быстровозводимых служебных
+жилых домов и общежитий для
+сотрудников таможенных постов
+</td>
+<td>2 449 917</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>029</td>
 <td></td>
 <td>
 Создание информационной системы
 Казначейства
 </td>
-<td>278 799</td>
+<td>350 122</td>
 <td></td>
 <td></td>
 </tr>
@@ -496,14 +575,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -514,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Создание информационной системы
 Казначейства
 </td>
-<td>278 799</td>
+<td>350 122</td>
 <td></td>
 <td></td>
 </tr>
@@ -527,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Создание информационной системы
 &quot;ТАИС&quot; и &quot;Электронная таможня&quot;
 </td>
-<td>250 501</td>
+<td>478 531</td>
 <td>500 000</td>
 <td>500 000</td>
 </tr>
@@ -545,14 +624,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -563,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Создание информационной системы
 &quot;ТАИС&quot; и &quot;Электронная таможня&quot;
 </td>
-<td>250 501</td>
+<td>478 531</td>
 <td>500 000</td>
 <td>500 000</td>
 </tr>
@@ -596,14 +675,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -627,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство и реконструкция
-объектов казначейства
+объектов Казначейства
 </td>
 <td>3 723</td>
 <td></td>
@@ -640,7 +719,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 в том числе на инвестиционные
-проекты
+проекты:
 </td>
 <td></td>
 <td></td>
@@ -681,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 связанных с изменением
 налогового законодательства
 </td>
-<td>884 341</td>
+<td>1 968 171</td>
 <td>205 301</td>
 <td>205 301</td>
 </tr>
@@ -699,14 +778,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -719,7 +798,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 связанных с изменением
 налогового законодательства
 </td>
-<td>884 341</td>
+<td>1 968 171</td>
 <td>205 301</td>
 <td>205 301</td>
 </tr>
@@ -751,14 +830,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -803,14 +882,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -855,14 +934,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -880,18 +959,18 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>7 131 676</td>
 </tr>
 <tr>
-<th></th>
-<th>220</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>220</td>
+<td></td>
+<td></td>
+<td>
 Министерство экономики и
 бюджетного планирования
 Республики Казахстан
-</th>
-<th>305 765</th>
-<th>495 458</th>
-<th>189 632</th>
+</td>
+<td>305 765</td>
+<td>495 458</td>
+<td>189 632</td>
 </tr>
 <tr>
 <td></td>
@@ -921,14 +1000,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -945,18 +1024,18 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>189 632</td>
 </tr>
 <tr>
-<th></th>
-<th>603</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>603</td>
+<td></td>
+<td></td>
+<td>
 Агентство Республики
 Казахстан по информатизации
 и связи
-</th>
-<th>1 086 943</th>
-<th>720 848</th>
-<th>175 000</th>
+</td>
+<td>1 086 943</td>
+<td>720 848</td>
+<td>175 000</td>
 </tr>
 <tr>
 <td></td>
@@ -985,14 +1064,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1035,14 +1114,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1065,18 +1144,18 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <th>2 890 160</th>
 </tr>
 <tr>
-<th></th>
-<th>202</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>202</td>
+<td></td>
+<td></td>
+<td>
 Министерство по
 чрезвычайным ситуациям
 Республики Казахстан
-</th>
-<th>21 187 212</th>
-<th>3 127 720</th>
-<th></th>
+</td>
+<td>21 187 212</td>
+<td>3 127 720</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1106,14 +1185,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Акмолинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1160,14 +1239,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1199,14 +1278,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1225,17 +1304,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>208</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>208</td>
+<td></td>
+<td></td>
+<td>
 Министерство обороны
 Республики Казахстан
-</th>
-<th>10 608 884</th>
-<th>6 546 416</th>
-<th>2 890 160</th>
+</td>
+<td>10 608 884</td>
+<td>6 546 416</td>
+<td>2 890 160</td>
 </tr>
 <tr>
 <td></td>
@@ -1264,14 +1343,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1284,32 +1363,32 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>2 890 160</td>
 </tr>
 <tr>
-<th>03</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td>03</td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Общественный порядок,
 безопасность, правовая,
 судебная, уголовно-
 исполнительная деятельность
-</th>
-<th>11 552 757</th>
-<th>9 423 437</th>
-<th>3 324 292</th>
+</td>
+<td>16 047 053</td>
+<td>9 423 437</td>
+<td>3 324 292</td>
 </tr>
 <tr>
-<th></th>
-<th>201</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>201</td>
+<td></td>
+<td></td>
+<td>
 Министерство внутренних дел
 Республики Казахстан
-</th>
-<th>2 820 193</th>
-<th>3 776 197</th>
-<th>2 697 100</th>
+</td>
+<td>2 820 193</td>
+<td>3 776 197</td>
+<td>2 697 100</td>
 </tr>
 <tr>
 <td></td>
@@ -1332,14 +1411,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1425,14 +1504,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Акмолинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1452,14 +1531,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Актюбинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Актюбинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1478,14 +1557,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>404 981</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1521,14 +1600,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>750 000</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбылская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1574,14 +1653,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1598,18 +1677,18 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>330 755</td>
 </tr>
 <tr>
-<th></th>
-<th>410</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>410</td>
+<td></td>
+<td></td>
+<td>
 Комитет национальной
 безопасности Республики
 Казахстан
-</th>
-<th>8 444 817</th>
-<th>5 390 867</th>
-<th>627 192</th>
+</td>
+<td>12 344 817</td>
+<td>5 390 867</td>
+<td>627 192</td>
 </tr>
 <tr>
 <td></td>
@@ -1620,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Программа развития системы
 национальной безопасности
 </td>
-<td>8 444 817</td>
+<td>12 344 817</td>
 <td>5 390 867</td>
 <td>627 192</td>
 </tr>
@@ -1638,14 +1717,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1653,22 +1732,22 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>Секретно</td>
-<td>8 444 817</td>
+<td>12 344 817</td>
 <td>5 390 867</td>
 <td>627 192</td>
 </tr>
 <tr>
-<th></th>
-<th>501</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>501</td>
+<td></td>
+<td></td>
+<td>
 Верховный Суд Республики
 Казахстан
-</th>
-<th>244 747</th>
-<th>213 373</th>
-<th></th>
+</td>
+<td>244 747</td>
+<td>213 373</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1700,14 +1779,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1726,20 +1805,187 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>618</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>502</td>
+<td></td>
+<td></td>
+<td>
+Генеральная прокуратура
+Республики Казахстан
+</td>
+<td>594 296</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Создание единой
+информационно-аналитической
+системы Комитета по правовой
+статистике и специальным учетам
+Генеральной прокуратуры
+Республики Казахстан
+</td>
+<td>377 708</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>в том числе на инвестиционные проекты:</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Создание единой
+информационно-аналитической
+системы Комитета по правовой
+статистике и специальным учетам
+Генеральной прокуратуры
+Республики Казахстан
+</td>
+<td>377 708</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>008</td>
+<td></td>
+<td>
+Строительство, реконструкция
+объектов для органов
+прокуратуры
+</td>
+<td>216 588</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+в том числе на инвестиционные
+проекты:
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство административного
+здания Целиноградской районной
+прокуратуры в с. Акмол
+Акмолинской области
+</td>
+<td>70 372</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Актюбинская область</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство здания районной
+прокуратуры в г. Алга
+Актюбинской области
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство административного
+здания прокуратуры в г.
+Каскелен Алматинской области
+</td>
+<td>146 216</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>618</td>
+<td></td>
+<td></td>
+<td>
 Агентство Республики
 Казахстан по борьбе с
 экономической и
 коррупционной преступностью
 (финансовая полиция)
-</th>
-<th>43 000</th>
-<th>43 000</th>
-<th></th>
+</td>
+<td>43 000</td>
+<td>43 000</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1747,9 +1993,10 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>003</td>
 <td></td>
 <td>
-Создание единой автоматизи-
-рованной информационно-
-телекоммуникационной системы
+Создание единой
+автоматизированной
+информационно-телекоммуникаци-
+онной системы
 </td>
 <td>43 000</td>
 <td>43 000</td>
@@ -1769,14 +2016,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1784,9 +2031,10 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>
-Создание единой автоматизи-
-рованной информационно-
-телекоммуникационной системы
+Создание единой
+автоматизированной
+информационно-телекоммуникаци-
+онной системы
 </td>
 <td>43 000</td>
 <td>43 000</td>
@@ -1798,22 +2046,22 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <th></th>
 <th></th>
 <th>Образование</th>
-<th>59 993 691</th>
+<th>53 444 202</th>
 <th>47 243 735</th>
 <th>39 917 282</th>
 </tr>
 <tr>
-<th></th>
-<th>201</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>201</td>
+<td></td>
+<td></td>
+<td>
 Министерство внутренних дел
 Республики Казахстан
-</th>
-<th></th>
-<th>1 500 000</th>
-<th>1 500 000</th>
+</td>
+<td></td>
+<td>1 500 000</td>
+<td>1 500 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1842,14 +2090,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1869,18 +2117,18 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>1 500 000</td>
 </tr>
 <tr>
-<th></th>
-<th>212</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>212</td>
+<td></td>
+<td></td>
+<td>
 Министерство сельского
 хозяйства Республики
 Казахстан
-</th>
-<th>217 972</th>
-<th>226 569</th>
-<th></th>
+</td>
+<td>217 972</td>
+<td>226 569</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1910,14 +2158,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1954,17 +2202,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th>225</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>225</td>
+<td></td>
+<td></td>
+<td>
 Министерство образования и
 науки Республики Казахстан
-</th>
-<th>59 744 321</th>
-<th>45 517 166</th>
-<th>38 417 282</th>
+</td>
+<td>53 194 832</td>
+<td>45 517 166</td>
+<td>38 417 282</td>
 </tr>
 <tr>
 <td></td>
@@ -2088,14 +2336,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2113,14 +2361,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырауская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атырауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2143,17 +2391,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Восточно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2176,14 +2424,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2218,14 +2466,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Алматы</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Алматы</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2242,17 +2490,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Западно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2270,65 +2518,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Кызылординская область</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>
-Строительство учебного корпуса
-нефтегазового факультета КГУ
-им. Коркыт-Ата в г. Кызылорда.
-Спортивно-оздоровительный
-комплекс
-</td>
-<td>167 238</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мангистауская область</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
+<td>Карагандинская область</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>
-Строительство общежития
-Каспийского технологического
-университета имени Ш. Есенова
-г. Актау
-</td>
-<td>200 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Карагандинская область</th>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td></td>
@@ -2346,14 +2543,65 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Павлодарская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кызылординская область</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство учебного корпуса
+нефтегазового факультета КГУ
+им. Коркыт-Ата в г. Кызылорда.
+Спортивно-оздоровительный
+комплекс.
+</td>
+<td>167 238</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мангистауская область</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство общежития
+Каспийского технологического
+университета имени Ш. Есенова
+г. Актау
+</td>
+<td>200 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Павлодарская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2378,14 +2626,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2455,7 +2703,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 для сейсмоусиления объектов
 образования
 </td>
-<td>47 296 770</td>
+<td>40 747 281</td>
 <td>38 227 069</td>
 <td>38 227 069</td>
 </tr>
@@ -2473,14 +2721,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Акмолинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2551,6 +2799,21 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>
+Строительство казахской средней
+школы на 420 ученических мест в
+городе Есиль Есильского района
+Акмолинской области
+</td>
+<td>106 108</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Строительство школы на 600
 ученических мест с
 государственным языком обучения
@@ -2564,14 +2827,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Актюбинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Актюбинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2589,14 +2852,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2660,7 +2923,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 на 900 мест в г. Талдыкорган
 Алматинской области
 </td>
-<td>620 589</td>
+<td>1 590 109</td>
 <td></td>
 <td></td>
 </tr>
@@ -2748,14 +3011,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырауская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атырауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2818,17 +3081,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Восточно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2897,6 +3160,21 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство средней школы на
+320 мест в селе Каратума
+Урджарского района Восточно-
+Казахстанской области
+</td>
+<td>389 567</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Строительство средней школы на
 600 мест в городе Усть-
 Каменогорске Восточно-
 Казахстанской области
@@ -2937,14 +3215,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Алматы</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Алматы</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3069,19 +3347,19 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 восстановительными работами
 школы № 112 города Алматы
 </td>
-<td>278 710</td>
+<td>68 210</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3093,7 +3371,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 240 мест южнее улицы С.
 Сейфуллина города Астаны
 </td>
-<td>477 282</td>
+<td>278 726</td>
 <td></td>
 <td></td>
 </tr>
@@ -3108,7 +3386,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 улиц № 24 и № 37 в городе
 Астане
 </td>
-<td>499 310</td>
+<td>656 710</td>
 <td></td>
 <td></td>
 </tr>
@@ -3138,7 +3416,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 поселке Комсомольский в городе
 Астане
 </td>
-<td>554 873</td>
+<td>547 786</td>
 <td></td>
 <td></td>
 </tr>
@@ -3153,7 +3431,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 (вдоль ручья Сарыбулак) в
 г. Астане
 </td>
-<td>546 000</td>
+<td>487 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -3192,10 +3470,10 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство детского сада на
-280 мест в поселке Мичурино
+240 мест в поселке Мичурино
 города Астаны
 </td>
-<td>476 000</td>
+<td>437 891</td>
 <td></td>
 <td></td>
 </tr>
@@ -3220,10 +3498,10 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство детского сада
-на 280 мест в поселке
+на 240 мест в поселке
 Интернациональный города Астаны
 </td>
-<td>371 280</td>
+<td>333 171</td>
 <td></td>
 <td></td>
 </tr>
@@ -3234,10 +3512,10 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство детского сада на
-280 мест в районе улиц
+240 мест в районе улиц
 Б.Момышулы - № 12 города Астаны
 </td>
-<td>371 280</td>
+<td>333 172</td>
 <td></td>
 <td></td>
 </tr>
@@ -3263,11 +3541,11 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство детского сада на
-280 мест в районе улиц
+240 мест в районе улиц
 Кумисбекова - Кенесары города
 Астаны
 </td>
-<td>371 280</td>
+<td>333 172</td>
 <td></td>
 <td></td>
 </tr>
@@ -3293,11 +3571,11 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td>
 Строительство детского сада на
-280 мест в районе пересечения
+240 мест в районе пересечения
 улиц Айнаколь - Мирзояна города
 Астаны
 </td>
-<td>371 280</td>
+<td>333 171</td>
 <td></td>
 <td></td>
 </tr>
@@ -3357,7 +3635,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 240 мест в поселке
 Комсомольский города Астаны
 </td>
-<td>345 800</td>
+<td>549 275</td>
 <td></td>
 <td></td>
 </tr>
@@ -3372,7 +3650,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Алматы-Акмешит № 23 города
 Астаны
 </td>
-<td>329 895</td>
+<td>424 206</td>
 <td></td>
 <td></td>
 </tr>
@@ -3426,7 +3704,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>
 Строительство детского сада на
 240 мест с бассейном по улице
-Белякова в городе Астаны
+Белякова в городе Астане
 </td>
 <td>381 359</td>
 <td></td>
@@ -3457,7 +3735,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 технического лицея на 800 мест
 в городе Астане (по аграрному и
 строительному профилю в районе
-жилого
+жилого массива Промышленный)
 </td>
 <td></td>
 <td></td>
@@ -3542,6 +3820,20 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>
+Строительство школы на 1200
+мест в новом административном
+центре города Астаны
+</td>
+<td>260 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Строительство школы на 800
 посадочных мест в районе
 Коктал-2 города Астаны
@@ -3583,14 +3875,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбылская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3608,17 +3900,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Западно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3642,10 +3934,11 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td>
-Строительство школы на 300 мест
-с пришкольным интернатом на 100
-мест в селе Каратобе
-Каратобинского района
+Строительство
+общеобразовательной школы на
+300 мест с пришкольным
+интернатом на 100 мест в селе
+Каратобе Каратобинского района
 Западно-Казахстанской области
 </td>
 <td>226 249</td>
@@ -3653,14 +3946,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Костанайская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Костанайская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3678,14 +3971,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Кызылординская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кызылординская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3750,14 +4043,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мангистауская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мангистауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3867,17 +4160,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>200 000</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Северо-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3890,19 +4183,19 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 района им. Г. Мусрепова
 Северо-Казахстанской области
 </td>
-<td>81 242</td>
+<td>291 742</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3915,7 +4208,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Байдибекского района
 Южно-Казахстанской области
 </td>
-<td>93 734</td>
+<td>368 539</td>
 <td></td>
 <td></td>
 </tr>
@@ -4248,14 +4541,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4266,23 +4559,176 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Строительство новых объектов
 образования
 </td>
-<td>19 826 833</td>
+<td>11 277 344</td>
 <td>32 799 548</td>
 <td>34 990 843</td>
 </tr>
 <tr>
-<th></th>
-<th>226</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+в том числе по областям и
+г. Алматы:
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td>459 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Актюбинская область</td>
+<td>459 028</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td>1 147 500</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атырауская область</td>
+<td>668 304</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Восточно-Казахстанская область</td>
+<td>459 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Алматы</td>
+<td>1 020 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылская область</td>
+<td>334 152</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Западно-Казахстанская область</td>
+<td>459 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Карагандинская область</td>
+<td>504 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кызылординская область</td>
+<td>1 075 104</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мангистауская область</td>
+<td>260 894</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Павлодарская область</td>
+<td>613 152</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Северо-Казахстанская область</td>
+<td>459 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td>3 359 210</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>226</td>
+<td></td>
+<td></td>
+<td>
 Министерство
 здравоохранения Республики
 Казахстан
-</th>
-<th>31 398</th>
-<th></th>
-<th></th>
+</td>
+<td>31 398</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4298,14 +4744,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4337,22 +4783,22 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <th></th>
 <th></th>
 <th>Здравоохранение</th>
-<th>116 399 246</th>
+<th>115 537 153</th>
 <th>54 048 250</th>
 <th>65 891 860</th>
 </tr>
 <tr>
-<th></th>
-<th>226</th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td>226</td>
+<td></td>
+<td></td>
+<td>
 Министерство здравоохра-
 нения Республики Казахстан
-</th>
-<th>116 327 281</th>
-<th>54 048 250</th>
-<th>65 891 860</th>
+</td>
+<td>115 465 185</td>
+<td>54 048 250</td>
+<td>65 891 860</td>
 </tr>
 <tr>
 <td></td>
@@ -4370,7 +4816,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 для сейсмоусиления объектов
 здравоохранения
 </td>
-<td>95 361 822</td>
+<td>94 499 726</td>
 <td>39 270 368</td>
 <td>39 566 210</td>
 </tr>
@@ -4388,14 +4834,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Акмолинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акмолинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4448,14 +4894,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Актюбинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Актюбинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4488,14 +4934,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4596,14 +5042,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырауская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Атырауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4732,17 +5178,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Восточно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4768,7 +5214,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>
 Завершение строительства
 центральной районной больницы
-на 100 койко мест с
+на 100 койко-мест с
 поликлиникой на 150 посещений в
 смену в селе Кокпекты
 Кокпектинского района Восточно-
@@ -4812,14 +5258,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Алматы</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Алматы</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4861,7 +5307,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 диспансера на 260 коек в городе
 Алматы
 </td>
-<td>1 937 883</td>
+<td>1 783 913</td>
 <td></td>
 <td></td>
 </tr>
@@ -4904,7 +5350,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Сейсмоусиление городской
 поликлиники № 3 города Алматы
 </td>
-<td>366 004</td>
+<td>68 330</td>
 <td></td>
 <td></td>
 </tr>
@@ -4918,7 +5364,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 городской клинической больницы
 № 1-блок 2Б города Алматы
 </td>
-<td>110 390</td>
+<td>46 750</td>
 <td></td>
 <td></td>
 </tr>
@@ -4947,7 +5393,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Бостандыкском районе в городе
 Алматы. Корректировка
 </td>
-<td>515 300</td>
+<td>496 629</td>
 <td></td>
 <td></td>
 </tr>
@@ -4965,19 +5411,19 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Алатауского района города
 Алматы
 </td>
-<td>229 290</td>
+<td>220 768</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5082,14 +5528,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбылская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5150,17 +5596,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Западно-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5256,14 +5702,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Карагандинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Карагандинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5276,19 +5722,19 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 городе Караганде Карагандинской
 области
 </td>
-<td>1 987 701</td>
+<td>1 717 536</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Костанайская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Костанайская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5350,14 +5796,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Кызылординская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кызылординская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5390,14 +5836,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мангистауская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мангистауская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5411,7 +5857,7 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 Мангистауского района
 Мангистауской области
 </td>
-<td>1 865 130</td>
+<td>1 815 676</td>
 <td></td>
 <td></td>
 </tr>
@@ -5461,14 +5907,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Павлодарская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Павлодарская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5521,17 +5967,17 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
 Северо-Казахстанская
 область
-</th>
-<th></th>
-<th></th>
-<th></th>
+</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5585,14 +6031,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5679,14 +6125,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5728,14 +6174,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Алматы</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Алматы</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5805,14 +6251,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>г. Астана</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Астана</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5896,14 +6342,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Карагандинская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Карагандинская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5922,14 +6368,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td>3 000 000</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Павлодарская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Павлодарская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -5948,14 +6394,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Южно-Казахстанская область</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6001,14 +6447,14 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -6050,420 +6496,5 @@ source: https://zan.gov.kz/client/#!/doc/49791/rus/25.03.2010
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Развитие мобильной и
-телемедицины в здравоохранении
-аульной (сельской) местности
-</td>
-<td>747 739</td>
-<td>475 176</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>029</td>
-<td></td>
-<td>
-Реформирование системы
-здравоохранения
-</td>
-<td>5 398 839</td>
-<td>8 586 609</td>
-<td>12 292 878</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td>За счет внешних займов</td>
-<td>3 344 106</td>
-<td>6 318 913</td>
-<td>1 712 386</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>016</td>
-<td>
-За счет софинансирования
-внешних займов из
-республиканского бюджета
-</td>
-<td>2 054 733</td>
-<td>2 267 696</td>
-<td>10 580 492</td>
-</tr>
-<tr>
-<th></th>
-<th>694</th>
-<th></th>
-<th></th>
-<th>
-Управление делами
-Президента Республики
-Казахстан
-</th>
-<th>71 968</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>018</td>
-<td></td>
-<td>
-Создание комплексной
-медицинской информационной
-системы
-</td>
-<td>71 968</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-в том числе на инвестиционные
-проекты:
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Создание комплексной медицинской информационной системы</td>
-<td>71 968</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>06</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
-Социальная помощь и
-социальное обеспечение
-</th>
-<th>6 333 635</th>
-<th>313 843</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>213</th>
-<th></th>
-<th></th>
-<th>
-Министерство труда и
-социальной защиты населения
-Республики Казахстан
-</th>
-<th>6 333 635</th>
-<th>313 843</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>011</td>
-<td></td>
-<td>
-Создание единой информационной
-системы социально-трудовой
-сферы
-</td>
-<td>606 269</td>
-<td>313 843</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-в том числе на инвестиционные
-проекты:
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Создание единой информационной
-системы социально-трудовой
-сферы
-</td>
-<td>606 269</td>
-<td>313 843</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>019</td>
-<td></td>
-<td>
-Целевые трансферты на развитие
-областным бюджетам, бюджетам
-городов Астаны и Алматы на
-строительство и реконструкцию
-объектов социального
-обеспечения
-</td>
-<td>5 727 366</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-в том числе на инвестиционные
-проекты:
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Карагандинская область</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство
-психоневрологического
-дома-интерната на 500 мест в
-городе Сарани
-</td>
-<td>1 200 157</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Кызылординская область</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство
-психоневрологического
-дома-интерната для детей на 200
-мест в поселке Александровске
-города Кызылорда
-</td>
-<td>1 181 112</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство областного
-реабилитационного центра для
-инвалидов на 150 мест в поселке
-Александровске города Кызылорда
-</td>
-<td>1 470 545</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Строительство
-психоневрологического дома-
-интерната для взрослых на 300
-мест в поселке Александровске
-города Кызылорда
-</td>
-<td>1 875 552</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>07</th>
-<th></th>
-<th></th>
-<th></th>
-<th>
-Жилищно-коммунальное
-хозяйство
-</th>
-<th>149 342 895</th>
-<th>53 712 629</th>
-<th>29 328 546</th>
-</tr>
-<tr>
-<th></th>
-<th>619</th>
-<th></th>
-<th></th>
-<th>
-Агентство Республики
-Казахстан по делам
-строительства и
-жилищно-коммунального
-хозяйства
-</th>
-<th>149 342 895</th>
-<th>53 712 629</th>
-<th>29 328 546</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>008</td>
-<td></td>
-<td>
-Кредитование областных
-бюджетов, бюджетов городов
-Астаны и Алматы на
-строительство и (или)
-приобретение жилья
-</td>
-<td>26 663 470</td>
-<td>9 163 470</td>
-<td>9 163 470</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-в том числе на инвестиционные
-проекты:
-</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Прочие</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Кредитование областных
-бюджетов, бюджетов городов
-Астаны и Алматы на
-строительство и (или)
-приобретение жилья в рамках
-Государственной программы
-жилищного строительства на
-2008-2010 годы
-</td>
-<td>17 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>
-Кредитование областных бюджетов
-на строительство и (или)
-приобретение жилья в рамках
-реализации пилотных проектов
-по программе &quot;Нұрлы-көш&quot;
-</td>
-<td>9 163 470</td>
-<td>9 163 470</td>
-<td>9 163 470</td>
 </tr>
 </table>
