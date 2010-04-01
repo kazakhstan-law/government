@@ -39,12 +39,19 @@ versions:
   cause:
     code: '50633'
     key: V090006039_
+- date: 2010-04-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '50633'
+    key: V090006039_
 version_date:
-  kaz: 2009-12-29
-  rus: 2009-12-29
+  kaz: 2010-04-01
+  rus: 2010-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/41767/kaz/29.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/41767/rus/29.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/41767/kaz/01.04.2010
+  rus: https://zan.gov.kz/client/#!/doc/41767/rus/01.04.2010
 caused_by:
   code: '50633'
   key: V090006039_
