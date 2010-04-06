@@ -1,5 +1,5 @@
 ---
-version_id: AI51280_0
+version_id: AI51280_2
 act_code: '51280'
 language: kaz
 title: Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '162020000001'
 approval_date: 2010-02-01
-version_date: 2010-02-01
+version_date: 2010-04-06
 registry_number: '51280'
-source: https://zan.gov.kz/client/#!/doc/51280/kaz/01.02.2010
+caused_by:
+  code: '51762'
+  title: '"Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек туралы" әкімдіктің 2010 жылғы 1 ақпандағы № 41 қаулысына өзгерістер енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/51762/kaz
+source: https://zan.gov.kz/client/#!/doc/51280/kaz/06.04.2010
 ---
 
 # Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек туралы
