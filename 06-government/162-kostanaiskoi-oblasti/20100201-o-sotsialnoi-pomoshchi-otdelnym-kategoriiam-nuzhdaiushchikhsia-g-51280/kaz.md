@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/51280/kaz/01.02.2010
+source: https://zan.gov.kz/client/#!/doc/51280/kaz/06.04.2010
 ---
 
 # Мұқтаж азаматтардың жекелеген санаттарына әлеуметтік көмек туралы
