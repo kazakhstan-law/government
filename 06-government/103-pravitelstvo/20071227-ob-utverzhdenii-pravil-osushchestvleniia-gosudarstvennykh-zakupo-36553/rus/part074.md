@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36553/rus/02.04.2010
+source: https://zan.gov.kz/client/#!/doc/36553/rus/23.04.2010
 ---
 
 ## Форма объявления об осуществлении государственных закупок способом конкурса
