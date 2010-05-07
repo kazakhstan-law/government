@@ -11,8 +11,15 @@ approved_on: 2009-12-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-12-15
-  rus: 2009-12-15
+  kaz: 2010-05-07
+  rus: 2010-05-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/49756/kaz/15.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/49756/rus/15.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/49756/kaz/07.05.2010
+  rus: https://zan.gov.kz/client/#!/doc/49756/rus/07.05.2010
+caused_by:
+  code: '52374'
+  requisite: Постановление Правительства Республики Казахстан от 7 мая 2010 года № 393
+  title:
+    rus: О внесении дополнений и изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне толықтырулар мен өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/52374/rus
