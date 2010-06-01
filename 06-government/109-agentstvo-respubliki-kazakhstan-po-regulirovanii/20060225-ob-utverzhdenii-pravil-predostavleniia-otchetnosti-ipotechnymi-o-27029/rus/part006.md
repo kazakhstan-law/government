@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27029/rus/29.04.2009
+source: https://zan.gov.kz/client/#!/doc/27029/rus/01.06.2010
 ---
 
 3. Отчет об остатках на внебалансовых счетах условных и возможных требований и обязательств

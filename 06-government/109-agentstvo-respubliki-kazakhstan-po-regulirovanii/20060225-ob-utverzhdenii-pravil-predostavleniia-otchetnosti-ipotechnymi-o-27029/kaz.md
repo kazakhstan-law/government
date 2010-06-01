@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27029/kaz/29.04.2009
+source: https://zan.gov.kz/client/#!/doc/27029/kaz/01.06.2010
 ---
 
 # Ипотекалық ұйымдардың есеп беру ережесін бекіту туралы
