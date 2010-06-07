@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/36555/kaz/27.06.2009
+repealed_on: 2010-07-10
+repealed_by:
+  code: '53021'
+  title: Қазақстан Республикасының кедендік баж ставкалары туралы
+  link: https://zan.gov.kz/client/#!/doc/53021/kaz
 ---
 
 ## Қосымша ескерту:

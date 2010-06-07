@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/36555/rus/27.06.2009
+repealed_on: 2010-07-10
+repealed_by:
+  code: '53021'
+  title: О ставках таможенных пошлин Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/53021/rus
 ---
 
 ## Ставки таможенных пошлин на товары, вывозимые с территории Республики Казахстан
