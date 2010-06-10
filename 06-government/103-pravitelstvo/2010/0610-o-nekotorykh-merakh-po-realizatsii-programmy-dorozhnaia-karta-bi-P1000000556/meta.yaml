@@ -1,0 +1,21 @@
+key: P1000000556
+akn: /akn/kz/act/2010-06-10/P1000000556
+act_code: '1070'
+requisite: Постановление Правительства Республики Казахстан от 10 июня 2010 года № 556
+title:
+  rus: О некоторых мерах по реализации Программы "Дорожная карта бизнеса 2020"
+  kaz: ''
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2010-06-10
+approved_by:
+- '103000000000'
+versions:
+- date: 2010-06-10
+  languages:
+  - rus
+version_date:
+  rus: 2010-06-10
+source:
+  rus: https://zan.gov.kz/client/#!/doc/1070/rus/10.06.2010
