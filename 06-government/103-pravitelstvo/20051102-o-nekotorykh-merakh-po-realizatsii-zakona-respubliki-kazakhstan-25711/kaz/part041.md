@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25711/kaz/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/25711/kaz/17.06.2010
 ---
 
 ## Жеке қосалқы шаруашылығынан түсетiн табыс есебiнiң ҮЛГI ЖЕКЕ НОРМАТИВТIК КАРТОЧКАСЫ

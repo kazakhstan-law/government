@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25711/rus/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/25711/rus/17.06.2010
 ---
 
 ## ТИПОВАЯ ИНДИВИДУАЛЬНАЯ НОРМАТИВНАЯ КАРТОЧКА расчета доходов от личного подсобного хозяйства

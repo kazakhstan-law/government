@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27595/rus/18.11.2008
+source: https://zan.gov.kz/client/#!/doc/27595/rus/17.06.2010
 ---
 
 ## ПОЯСНЕНИЯ по заполнению военного билета офицера запаса
