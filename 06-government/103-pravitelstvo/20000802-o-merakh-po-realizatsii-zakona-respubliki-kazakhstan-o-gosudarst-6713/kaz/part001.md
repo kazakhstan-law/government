@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/6713/kaz/16.11.2009
+source: https://zan.gov.kz/client/#!/doc/6713/kaz/18.06.2010
 ---
 
 ## ҚАЗАҚСТАН РЕСПУБЛИКАСЫНДАҒЫ ҚАРУ МЕН ОНЫҢ ПАТРОНДАРЫ АЙНАЛЫМЫНЫҢ ЕРЕЖЕСI 1. Жалпы ережелер
