@@ -10,8 +10,15 @@ approved_on: 2000-12-22
 approved_by:
 - '105000000000'
 version_date:
-  kaz: 2000-12-22
-  rus: 2000-12-22
+  kaz: 2010-06-25
+  rus: 2010-06-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7838/kaz/22.12.2000
-  rus: https://zan.gov.kz/client/#!/doc/7838/rus/22.12.2000
+  kaz: https://zan.gov.kz/client/#!/doc/7838/kaz/25.06.2010
+  rus: https://zan.gov.kz/client/#!/doc/7838/rus/25.06.2010
+caused_by:
+  code: '53891'
+  requisite: Нормативное постановление Верховного Суда Республики Казахстан от 25 июня 2010 года № 1
+  title:
+    rus: О практике вынесения судами частных определений по гражданским делам
+    kaz: Соттардың азаматтық істер бойынша жеке ұйғарымдар шығару практикасы туралы
+  link: https://zan.gov.kz/client/#!/doc/53891/rus
