@@ -10,10 +10,10 @@ approved_on: 2004-12-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-05-31
-  rus: 2010-05-31
+  kaz: 2010-07-19
+  rus: 2010-07-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22239/kaz/31.05.2010
-  rus: https://zan.gov.kz/client/#!/doc/22239/rus/31.05.2010
+  kaz: https://zan.gov.kz/client/#!/doc/22239/kaz/19.07.2010
+  rus: https://zan.gov.kz/client/#!/doc/22239/rus/19.07.2010
 caused_by:
-  code: P100000496_
+  code: P100000734_
