@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49846/kaz/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/49846/kaz/20.07.2010
 ---
 
 ## Мемлекеттік мұрағаттардың мекенжайы

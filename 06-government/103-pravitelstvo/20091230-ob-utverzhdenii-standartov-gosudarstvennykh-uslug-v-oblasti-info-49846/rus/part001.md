@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49846/rus/30.12.2009
+source: https://zan.gov.kz/client/#!/doc/49846/rus/20.07.2010
 ---
 
 ## Стандарт государственной услуги "Постановка на учет средств массовой информации"
