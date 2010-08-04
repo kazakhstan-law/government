@@ -31,12 +31,19 @@ versions:
   cause:
     code: '52292'
     key: V100006205_
+- date: 2010-08-04
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '52292'
+    key: V100006205_
 version_date:
-  kaz: 2010-03-29
-  rus: 2010-03-29
+  kaz: 2010-08-04
+  rus: 2010-08-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/42076/kaz/29.03.2010
-  rus: https://zan.gov.kz/client/#!/doc/42076/rus/29.03.2010
+  kaz: https://zan.gov.kz/client/#!/doc/42076/kaz/04.08.2010
+  rus: https://zan.gov.kz/client/#!/doc/42076/rus/04.08.2010
 caused_by:
   code: '52292'
   key: V100006205_
