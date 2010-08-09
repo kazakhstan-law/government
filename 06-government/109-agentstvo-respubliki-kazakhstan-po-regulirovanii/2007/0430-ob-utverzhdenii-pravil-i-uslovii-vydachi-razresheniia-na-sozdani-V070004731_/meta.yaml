@@ -31,12 +31,19 @@ versions:
   cause:
     code: '51818'
     key: V100006157_
+- date: 2010-08-09
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '51818'
+    key: V100006157_
 version_date:
-  kaz: 2010-03-01
-  rus: 2010-03-01
+  kaz: 2010-08-09
+  rus: 2010-08-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/33681/kaz/01.03.2010
-  rus: https://zan.gov.kz/client/#!/doc/33681/rus/01.03.2010
+  kaz: https://zan.gov.kz/client/#!/doc/33681/kaz/09.08.2010
+  rus: https://zan.gov.kz/client/#!/doc/33681/rus/09.08.2010
 caused_by:
   code: '51818'
   key: V100006157_
