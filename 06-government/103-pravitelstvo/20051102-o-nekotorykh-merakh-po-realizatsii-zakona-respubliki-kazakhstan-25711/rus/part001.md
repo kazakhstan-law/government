@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25711/rus/17.06.2010
+source: https://zan.gov.kz/client/#!/doc/25711/rus/13.08.2010
 ---
 
 ## Правила назначения и выплаты государственных пособий семьям, имеющим детей
