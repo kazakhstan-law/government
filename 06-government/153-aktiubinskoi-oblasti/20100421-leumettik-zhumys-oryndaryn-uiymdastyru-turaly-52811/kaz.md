@@ -1,5 +1,5 @@
 ---
-version_id: '52811_181709'
+version_id: '52811_213525'
 act_code: '52811'
 language: kaz
 title: Әлеуметтік жұмыс орындарын ұйымдастыру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153006000001'
 approval_date: 2010-04-21
-version_date: 2010-04-21
+version_date: 2010-08-19
 registry_number: '52811'
-source: https://zan.gov.kz/client/#!/doc/52811/kaz/21.04.2010
+caused_by:
+  code: '54359'
+  title: Аудан әкімдігінің 2010 жылғы 21 сәуірдегі "Әлеуметтік жұмыс орындарын ұйымдастыру туралы" № 88 қаулысына толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/54359/kaz
+source: https://zan.gov.kz/client/#!/doc/52811/kaz
 ---
 
 # Әлеуметтік жұмыс орындарын ұйымдастыру туралы
