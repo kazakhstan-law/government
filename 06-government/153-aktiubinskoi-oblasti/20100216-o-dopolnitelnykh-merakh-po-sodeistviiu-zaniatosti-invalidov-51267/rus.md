@@ -1,5 +1,5 @@
 ---
-version_id: '51267_206959'
+version_id: '51267_206962'
 act_code: '51267'
 language: rus
 title: О дополнительных мерах по содействию занятости инвалидов
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153007000001'
 approval_date: 2010-02-16
-version_date: 2010-02-16
+version_date: 2010-09-24
 registry_number: '51267'
-source: https://zan.gov.kz/client/#!/doc/51267/rus/16.02.2010
+caused_by:
+  code: '55170'
+  title: О внесении дополнения в постановление акимата района от 16 февраля 2010 года № 48 "О дополнительных мерах по содействию занятости инвалидов"
+  link: https://zan.gov.kz/client/#!/doc/55170/rus
+source: https://zan.gov.kz/client/#!/doc/51267/rus/24.09.2010
 ---
 
 # О дополнительных мерах по содействию занятости инвалидов
