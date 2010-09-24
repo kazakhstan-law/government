@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/51267/rus/16.02.2010
+source: https://zan.gov.kz/client/#!/doc/51267/rus/24.09.2010
 ---
 
 # О дополнительных мерах по содействию занятости инвалидов
