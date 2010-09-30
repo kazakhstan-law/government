@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49420/kaz/19.06.2010
+source: https://zan.gov.kz/client/#!/doc/49420/kaz/30.09.2010
 ---
 
 ## Оңтүстік Қазақстан облысы бойынша:
