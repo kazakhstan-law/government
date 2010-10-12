@@ -10,15 +10,10 @@ approved_on: 2009-12-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-05-07
-  rus: 2010-05-07
+  kaz: 2010-10-12
+  rus: 2010-10-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/49952/kaz/07.05.2010
-  rus: https://zan.gov.kz/client/#!/doc/49952/rus/07.05.2010
+  kaz: https://zan.gov.kz/client/#!/doc/49952/kaz/12.10.2010
+  rus: https://zan.gov.kz/client/#!/doc/49952/rus/12.10.2010
 caused_by:
-  code: '52334'
-  requisite: Постановление Правительства Республики Казахстан от 7 мая 2010 года № 395
-  title:
-    rus: О внесении изменения и дополнения в постановление Правительства Республики Казахстан от 31 декабря 2009 года № 2320
-    kaz: Қазақстан Республикасы Үкіметінің 2009 жылғы 31 желтоқсандағы № 2320 қаулысына өзгеріс пен толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/52334/rus
+  code: P100001052_
