@@ -1,5 +1,5 @@
 ---
-version_id: AI53431_0
+version_id: AI53431_2
 act_code: '53431'
 language: kaz
 title: 2010 жылдың сәуір-маусымында және қазан-желтоқсанында кезекті мерзімді әскери қызметке шақыруды өткізу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157020000001'
 approval_date: 2010-05-24
-version_date: 2010-05-24
+version_date: 2010-10-18
 registry_number: '53431'
-source: https://zan.gov.kz/client/#!/doc/53431/kaz/24.05.2010
+caused_by:
+  code: '55390'
+  title: '"2010 жылдың сәуір-маусымында және қазан-желтоқсанында кезекті мерзімді әскери қызметке шақыруды өткізу туралы" 2010 жылғы 24 мамырдағы № 65 қаулыға өзгеріс енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/55390/kaz
+source: https://zan.gov.kz/client/#!/doc/53431/kaz/18.10.2010
 ---
 
 # 2010 жылдың сәуір-маусымында және қазан-желтоқсанында кезекті мерзімді әскери қызметке шақыруды өткізу туралы
@@ -71,7 +75,7 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 
 КМҚК директоры Т. Абайделдинов
 
-> *Шемонаиха ауданы әкімінің*  
+> *Шемонаиха ауданы әкімдігінің*  
 > *2010 жылғы 24 мамырдағы*  
 > *№ 65 қаулысына 1-қосымша*
 
@@ -87,7 +91,7 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <td>аудан әкімінің орынбасары, комиссия төрағасының орынбасары.</td>
 </tr>
 <tr>
-<th colspan="2">Комиссия мүшелері:</th>
+<th>Комиссия мүшелері:</th>
 </tr>
 <tr>
 <td>Ерлан Армиянұлы Габдуллин</td>
@@ -107,51 +111,76 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 
 аппаратының басшысы Ж. Қалиева
 
-> *Шемонаиха ауданы әкімінің*  
+> *Шемонаиха ауданы әкімдігінің*  
 > *2010 жылғы 24 мамырдағы*  
 > *№ 65 қаулысына 2-қосымша*
 
-## Шемонаиха ауданының 1983-1992 жылы туған азаматтардың 2010 жылғы cәуip — маусымда әскери қызметке шақыруды өткізу KECTECI
+> *Ескерту. 2 қосымша жаңа редакцияда - Шемонаиха ауданы әкімдігінің 2010.10.18 № 177 (жарияланғаннан кейін 10 күн*
+
+өткеннен соң қолданысқа енгізіледі) қаулысымен.
+
+## Шемонаиха ауданының азаматтарын 2010 жылы қазан — желтоқсанында әскери қызметке шақыруды жүргізу KECTECI
 
 <table>
 <tr>
 <td rowspan="2">№ р/с</td>
-<td rowspan="2">Ауылдық округ атаулары</td>
-<td rowspan="2">Барлығы</td>
-<td colspan="10">cәуip</td>
+<td rowspan="2">Селолық округ атаулары</td>
+<td rowspan="2">барлығы</td>
+<td colspan="20">қазан</td>
+</tr>
+<tr>
+<th>1</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
-<td>5</td>
-<td>6</td>
+<td>Вавилонский</td>
+<td>57</td>
+<td>50</td>
 <td>7</td>
-<td>8</td>
-<td>9</td>
-<td>14</td>
-<td>21</td>
-<td>28</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Вавилон</td>
-<td>25</td>
-<td>25</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ке</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Н</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>Верх-Уба</td>
-<td>20</td>
-<td>20</td>
+<td>Выдрихинский</td>
+<td>43</td>
+<td></td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -159,30 +188,59 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <td></td>
 <td></td>
 <td></td>
-<td>л</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>Волчанка</td>
-<td>20</td>
-<td></td>
-<td>20</td>
+<td>Волчанский</td>
+<td>80</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>50</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
-<td>м</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>Выдриха</td>
-<td>10</td>
+<td>Каменевский</td>
+<td>50</td>
 <td></td>
-<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -194,10 +252,20 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td>5</td>
-<td>Зевакино</td>
-<td>20</td>
+<td>Усть-Таловский</td>
+<td>132</td>
+<td></td>
+<td></td>
 <td></td>
 <td>20</td>
+<td></td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,11 +277,21 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td>6</td>
-<td>Каменевка</td>
-<td>15</td>
+<td>Октябрьский</td>
+<td>41</td>
 <td></td>
 <td></td>
-<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -224,11 +302,21 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td>7</td>
-<td>Октябрьский</td>
-<td>12</td>
+<td>Разинский</td>
+<td>41</td>
 <td></td>
 <td></td>
-<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -239,11 +327,21 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td>8</td>
-<td>Разин</td>
-<td>15</td>
+<td>Верх-Убинский</td>
+<td>30</td>
 <td></td>
 <td></td>
-<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,12 +352,22 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td>9</td>
-<td>Усть-Таловка</td>
-<td>40</td>
+<td>Зевакинский</td>
+<td>36</td>
 <td></td>
 <td></td>
 <td></td>
-<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -270,12 +378,22 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <tr>
 <td>10</td>
 <td>Первомайский</td>
-<td>39</td>
+<td>84</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+<td>34</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -285,30 +403,75 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <tr>
 <td>11</td>
 <td>Шемонаиха қ.</td>
-<td>114</td>
-<td>5</td>
+<td>288</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>37</td>
 <td>8</td>
-<td>10</td>
-<td>11</td>
-<td>50</td>
-<td>30</td>
+<td>19</td>
+<td>13</td>
 <td></td>
+<td>15</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>37</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>330</td>
-<td>50</td>
-<td>50</td>
-<td>50</td>
-<td>50</td>
-<td>50</td>
-<td>50</td>
-<td>30</td>
+<td>сотталғандар</td>
+<td>10</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>барлығы</td>
+<td>892</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>42</td>
 <td></td>
 <td></td>
 </tr>
@@ -319,138 +482,168 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <table>
 <tr>
 <td rowspan="2">№ р/с</td>
-<td rowspan="2">Ауылдық округ атаулары</td>
-<td rowspan="2">Барлығы</td>
-<td colspan="4">мамыр</td>
-<td colspan="5">маусым</td>
-</tr>
-<tr>
-<td>5</td>
-<td>12</td>
-<td>19</td>
-<td>26</td>
-<td>2</td>
-<td>9</td>
-<td>16</td>
-<td>23</td>
-<td>30</td>
+<td rowspan="2">Селолық округ атаулары</td>
+<td rowspan="2">барлығы</td>
+<td colspan="8">қараша</td>
+<td colspan="4">желтоқсан</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Вавилон</td>
-<td>25</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>10</td>
+<td>17</td>
+<td>24</td>
+<td>1</td>
+<td>8</td>
+<td>15</td>
+<td>22</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Вавилонский</td>
+<td>57</td>
 <td></td>
-<td>ку</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>О</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>Верх-Уба</td>
-<td>20</td>
-<td></td>
-<td></td>
-<td>ә</td>
+<td>Выдрихинский</td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Б</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>Волчанка</td>
-<td>20</td>
+<td>Волчанский</td>
+<td>80</td>
+<td>Е</td>
 <td></td>
 <td></td>
 <td></td>
-<td>ла</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>С</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>Выдриха</td>
-<td>10</td>
-<td>еу</td>
+<td>Каменевский</td>
+<td>50</td>
 <td></td>
 <td></td>
 <td></td>
-<td>н</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Л</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
-<td>Зевакино</td>
-<td>20</td>
+<td>Усть-Таловский</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td>Я</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>д</td>
 <td></td>
+<td>Е</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
-<td>Каменевка</td>
-<td>15</td>
+<td>Октябрьский</td>
+<td>41</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ы</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Д</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
-<td>Октябрьский</td>
-<td>12</td>
+<td>Разинский</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>В</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Р</td>
+<td>
+О
+В
+</td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
-<td>Разин</td>
-<td>15</td>
+<td>Верх-Убинский</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>К</td>
 <td></td>
 <td></td>
 <td></td>
-<td>у</td>
+<td></td>
+<td>А</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
-<td>Усть-Таловка</td>
-<td>40</td>
+<td>Зевакинский</td>
+<td>36</td>
 <td></td>
 <td></td>
 <td></td>
@@ -460,11 +653,14 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>Н</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Первомайский</td>
-<td>39</td>
+<td>84</td>
 <td></td>
 <td></td>
 <td></td>
@@ -474,11 +670,34 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>И</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Шемонаиха қ.</td>
-<td>114</td>
+<td>288</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Е</td>
+</tr>
+<tr>
+<td></td>
+<td>сотталғандар</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -491,8 +710,11 @@ icтepi жөніндегі бөлімінің бастығы М. Чурбано�
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>330</td>
+<td>барлығы</td>
+<td>892</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

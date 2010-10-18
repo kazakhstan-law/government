@@ -1,5 +1,5 @@
 ---
-version_id: AI53431_1
+version_id: AI53431_3
 act_code: '53431'
 language: rus
 title: О проведении призыва на срочную воинскую службу в апреле-июне и октябре-декабре 2010 года
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157020000001'
 approval_date: 2010-05-24
-version_date: 2010-05-24
+version_date: 2010-10-18
 registry_number: '53431'
-source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
+caused_by:
+  code: '55390'
+  title: О внесении изменения в постановление № 65 от 24 мая 2010 года "О проведении призыва на срочную воинскую службу в апреле-июне и октябре-декабре 2010 года"
+  link: https://zan.gov.kz/client/#!/doc/55390/rus
+source: https://zan.gov.kz/client/#!/doc/53431/rus/18.10.2010
 ---
 
 # О проведении призыва на срочную воинскую службу в апреле-июне и октябре-декабре 2010 года
@@ -85,9 +89,8 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 
 Шемонаихинского района» Т. Абайдельдинов
 
-> *Приложение 1*  
-> *к постановлению акима*  
-> *Шемонаихинского района*  
+> *Приложение 1 к постановлению*  
+> *акимата Шемонаихинского района*  
 > *от 24 мая 2010 года № 65*
 
 ## СОСТАВ районной призывной комиссии на срочную воинскую службу в апреле-июне и октябре-декабре 2010 года
@@ -125,52 +128,74 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 
 акима Шемонаихинского района Ж. Калиева
 
-> *Приложение 2*  
-> *к постановлению акима*  
-> *Шемонаихинского района*  
+> *Приложение 2 к постановлению*  
+> *акимата Шемонаихинского района*  
 > *от 24 мая 2010 года № 65*
 
-## ГРАФИК проведения призыва граждан Шемонаихинского района 1983 - 1992 годов рождения на воинскую службу в апреле-июне 2010 года
+> *Сноска. Приложение 2 в новой редакции постановления акимата Шемонаихинского района от 18.10.2010 № 177 (вводится в действие по истечении десяти календарных дней со дня первого официального опубликования).*
+
+## ГРАФИК проведения призыва граждан Шемонаихинского района на воинскую службу в октябре-декабре 2010 года
 
 <table>
 <tr>
 <td rowspan="2">№ п/п</td>
 <td rowspan="2">Наименование сельского округа</td>
 <td rowspan="2">всего</td>
-<td colspan="10">апрель</td>
+<td colspan="20">октябрь</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-<td>14</td>
-<td>21</td>
-<td>28</td>
+<th>1</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Вавилонский</td>
-<td>25</td>
-<td>25</td>
+<td>57</td>
+<td>50</td>
+<td>7</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>не</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Н</td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>Верх-Убинский</td>
-<td>20</td>
-<td>20</td>
+<td>Выдрихинский</td>
+<td>43</td>
+<td></td>
+<td>43</td>
 <td></td>
 <td></td>
 <td></td>
@@ -178,30 +203,59 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <td></td>
 <td></td>
 <td></td>
-<td>я</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Волчанский</td>
-<td>20</td>
-<td></td>
-<td>20</td>
+<td>80</td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>50</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
-<td>в</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>Выдрихинский</td>
-<td>10</td>
+<td>Каменевский</td>
+<td>50</td>
 <td></td>
-<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -213,10 +267,20 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 </tr>
 <tr>
 <td>5</td>
-<td>Зевакинский</td>
-<td>20</td>
+<td>Усть-Таловский</td>
+<td>132</td>
+<td></td>
+<td></td>
 <td></td>
 <td>20</td>
+<td></td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,11 +292,21 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 </tr>
 <tr>
 <td>6</td>
-<td>Каменевский</td>
-<td>15</td>
+<td>Октябрьский</td>
+<td>41</td>
 <td></td>
 <td></td>
-<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -243,11 +317,21 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 </tr>
 <tr>
 <td>7</td>
-<td>Октябрьский</td>
-<td>12</td>
+<td>Разинский</td>
+<td>41</td>
 <td></td>
 <td></td>
-<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -258,11 +342,21 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 </tr>
 <tr>
 <td>8</td>
-<td>Разинский</td>
-<td>15</td>
+<td>Верх-Убинский</td>
+<td>30</td>
 <td></td>
 <td></td>
-<td>15</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -273,12 +367,22 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 </tr>
 <tr>
 <td>9</td>
-<td>Усть-Таловский</td>
-<td>40</td>
+<td>Зевакинский</td>
+<td>36</td>
 <td></td>
 <td></td>
 <td></td>
-<td>40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>36</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -289,12 +393,22 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <tr>
 <td>10</td>
 <td>Первомайский</td>
-<td>39</td>
+<td>84</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+<td>34</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,30 +418,75 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <tr>
 <td>11</td>
 <td>г. Шемонаиха</td>
-<td>114</td>
-<td>5</td>
+<td>288</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td>37</td>
 <td>8</td>
-<td>10</td>
-<td>11</td>
-<td>50</td>
-<td>30</td>
+<td>19</td>
+<td>13</td>
 <td></td>
+<td>15</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>судимые</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td>Всего</td>
-<td>330</td>
+<td>892</td>
 <td>50</td>
 <td>50</td>
 <td>50</td>
 <td>50</td>
 <td>50</td>
 <td>50</td>
-<td>30</td>
-<td></td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+<td>42</td>
 <td></td>
 <td></td>
 </tr>
@@ -339,42 +498,54 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <tr>
 <td rowspan="2">№ п/п</td>
 <td rowspan="2">Наименование сельского округа</td>
-<td colspan="4">май</td>
-<td colspan="5">июнь</td>
+<td rowspan="2">всего</td>
+<td colspan="8">ноябрь</td>
+<td colspan="4">декабрь</td>
 </tr>
 <tr>
-<td>5</td>
-<td>12</td>
-<td>19</td>
-<td>26</td>
+<td>1</td>
 <td>2</td>
-<td>9</td>
-<td>16</td>
-<td>23</td>
-<td>30</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>10</td>
+<td>17</td>
+<td>24</td>
+<td>1</td>
+<td>8</td>
+<td>15</td>
+<td>22</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Вавилонский</td>
-<td></td>
-<td>об</td>
-<td></td>
+<td>57</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>О</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>Верх-Убинский</td>
+<td>Выдрихинский</td>
+<td>43</td>
 <td></td>
 <td></td>
-<td>сл</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Б</td>
 <td></td>
 <td></td>
 <td></td>
@@ -382,84 +553,112 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <tr>
 <td>3</td>
 <td>Волчанский</td>
+<td>80</td>
+<td>Е</td>
 <td></td>
 <td></td>
 <td></td>
-<td>ед</td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>С</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
-<td>Выдрихинский</td>
-<td>ка</td>
+<td>Каменевский</td>
+<td>50</td>
 <td></td>
 <td></td>
 <td></td>
-<td>о</td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Л</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>5</td>
-<td>Зевакинский</td>
+<td>Усть-Таловский</td>
+<td>132</td>
+<td></td>
+<td></td>
+<td>Я</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>ва</td>
 <td></td>
+<td>Е</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
-<td>Каменевский</td>
+<td>Октябрьский</td>
+<td>41</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>н</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Д</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
-<td>Октябрьский</td>
+<td>Разинский</td>
+<td>41</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>В</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>и</td>
+<td>
+О
+В
+</td>
 <td></td>
 </tr>
 <tr>
 <td>8</td>
-<td>Разинский</td>
+<td>Верх-Убинский</td>
+<td>30</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>К</td>
 <td></td>
 <td></td>
 <td></td>
-<td>е</td>
+<td></td>
+<td>А</td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
-<td>Усть-Таловский</td>
+<td>Зевакинский</td>
+<td>36</td>
 <td></td>
 <td></td>
 <td></td>
@@ -469,10 +668,14 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>Н</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Первомайский</td>
+<td>84</td>
 <td></td>
 <td></td>
 <td></td>
@@ -482,10 +685,34 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>И</td>
 </tr>
 <tr>
 <td>11</td>
 <td>г. Шемонаиха</td>
+<td>288</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>А</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Е</td>
+</tr>
+<tr>
+<td></td>
+<td>судимые</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -499,6 +726,10 @@ source: https://zan.gov.kz/client/#!/doc/53431/rus/24.05.2010
 <tr>
 <td></td>
 <td>Всего</td>
+<td>892</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
