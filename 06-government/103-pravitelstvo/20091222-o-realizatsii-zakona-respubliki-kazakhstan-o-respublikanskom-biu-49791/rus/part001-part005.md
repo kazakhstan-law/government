@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49791/rus/12.10.2010
+source: https://zan.gov.kz/client/#!/doc/49791/rus/28.10.2010
 ---
 
 > *Для служебного пользования*  
