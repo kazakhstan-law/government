@@ -1,0 +1,17 @@
+act_code: '23856'
+requisite: Постановление Правительства Республики Казахстан от 30 октября 2010 года № 1139
+title:
+  rus: О введении временного запрета на вывоз керосина
+  kaz: Керосинді әкетуге уақытша тыйым салуды енгізу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2010-10-30
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2010-10-30
+  rus: 2010-10-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/23856/kaz/30.10.2010
+  rus: https://zan.gov.kz/client/#!/doc/23856/rus/30.10.2010
