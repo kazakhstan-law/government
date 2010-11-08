@@ -10,8 +10,15 @@ approved_on: 2010-05-18
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-05-18
-  rus: 2010-05-18
+  kaz: 2010-11-08
+  rus: 2010-11-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/52665/kaz/18.05.2010
-  rus: https://zan.gov.kz/client/#!/doc/52665/rus/18.05.2010
+  kaz: https://zan.gov.kz/client/#!/doc/52665/kaz/08.11.2010
+  rus: https://zan.gov.kz/client/#!/doc/52665/rus/08.11.2010
+caused_by:
+  code: '55349'
+  requisite: Постановление Правительства Республики Казахстан от 8 ноября 2010 года № 1169
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/55349/rus
