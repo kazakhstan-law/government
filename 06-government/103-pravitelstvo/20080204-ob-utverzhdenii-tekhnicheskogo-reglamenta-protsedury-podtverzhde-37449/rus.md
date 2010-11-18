@@ -1,5 +1,5 @@
 ---
-version_id: AI37449_7
+version_id: AI37449_9
 act_code: '37449'
 language: rus
 title: Об утверждении Технического регламента "Процедуры подтверждения соответствия"
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2008-02-04
-version_date: 2009-12-10
+version_date: 2010-11-18
 registry_number: '37449'
 caused_by:
-  code: '49229'
-  title: О внесении дополнений и изменений и признании утратившими силу некоторых решений Правительства Республики Казахстан
-  link: https://zan.gov.kz/client/#!/doc/49229/rus
-source: https://zan.gov.kz/client/#!/doc/37449/rus/10.12.2009
+  code: '55703'
+  title: Об утверждении технического регламента "Модульный подход в области подтверждения соответствия"
+  link: https://zan.gov.kz/client/#!/doc/55703/rus
+source: https://zan.gov.kz/client/#!/doc/37449/rus/18.11.2010
 ---
 
 # Об утверждении Технического регламента "Процедуры подтверждения соответствия"

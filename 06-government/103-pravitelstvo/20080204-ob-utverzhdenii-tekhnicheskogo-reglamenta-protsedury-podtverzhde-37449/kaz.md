@@ -1,5 +1,5 @@
 ---
-version_id: AI37449_6
+version_id: AI37449_8
 act_code: '37449'
 language: kaz
 title: '"Сәйкестікті растау рәсімдері" техникалық регламентін бекіту туралы'
@@ -11,13 +11,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2008-02-04
-version_date: 2009-12-10
+version_date: 2010-11-18
 registry_number: '37449'
 caused_by:
-  code: '49229'
-  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне толықтырулар мен өзгерістер енгізу және күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/49229/kaz
-source: https://zan.gov.kz/client/#!/doc/37449/kaz/10.12.2009
+  code: '55703'
+  title: '"Сәйкестікті растау саласындағы модульдік тәсіл" техникалық регламентін бекіту туралы'
+  link: https://zan.gov.kz/client/#!/doc/55703/kaz
+source: https://zan.gov.kz/client/#!/doc/37449/kaz/18.11.2010
 ---
 
 # "Сәйкестікті растау рәсімдері" техникалық регламентін бекіту туралы
