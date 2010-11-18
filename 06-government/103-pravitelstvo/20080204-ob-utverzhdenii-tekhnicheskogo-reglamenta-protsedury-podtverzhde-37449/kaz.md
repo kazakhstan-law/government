@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/37449/kaz/10.12.2009
+source: https://zan.gov.kz/client/#!/doc/37449/kaz/18.11.2010
 ---
 
 # "Сәйкестікті растау рәсімдері" техникалық регламентін бекіту туралы
