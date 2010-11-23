@@ -1,0 +1,24 @@
+key: P1000001238
+akn: /akn/kz/act/2010-11-23/P1000001238
+act_code: '55406'
+requisite: Постановление Правительства Республики Казахстан от 23 ноября 2010 года № 1238
+title:
+  rus: О создании акционерного общества "КазМедТех"
+  kaz: '"ҚазМедТех" акционерлік қоғамын құру туралы'
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2010-11-23
+approved_by:
+- '103000000000'
+versions:
+- date: 2010-11-23
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2010-11-23
+  rus: 2010-11-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/55406/kaz/23.11.2010
+  rus: https://zan.gov.kz/client/#!/doc/55406/rus/23.11.2010
