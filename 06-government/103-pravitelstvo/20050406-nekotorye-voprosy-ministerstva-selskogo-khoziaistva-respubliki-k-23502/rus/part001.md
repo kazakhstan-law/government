@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/23502/rus/01.09.2010
+source: https://zan.gov.kz/client/#!/doc/23502/rus/28.11.2010
 ---
 
 ## Положение о Министерстве сельского хозяйства Республики Казахстан
