@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49791/rus/29.11.2010
+source: https://zan.gov.kz/client/#!/doc/49791/rus/13.12.2010
 ---
 
 ## Перечень государственных заданий на 2010 год
