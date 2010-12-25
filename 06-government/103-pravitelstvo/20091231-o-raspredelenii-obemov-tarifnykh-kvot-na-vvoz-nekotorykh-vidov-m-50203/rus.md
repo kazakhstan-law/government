@@ -1,5 +1,5 @@
 ---
-version_id: AI50203_3
+version_id: AI50203_5
 act_code: '50203'
 language: rus
 title: О распределении объемов тарифных квот на ввоз некоторых видов мяса
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2009-12-31
-version_date: 2010-07-21
+version_date: 2010-12-25
 registry_number: '50203'
 caused_by:
-  code: '53674'
-  title: О внесении изменений и дополнения в постановление Правительства Республики Казахстан от 31 декабря 2009 года № 2333
-  link: https://zan.gov.kz/client/#!/doc/53674/rus
-source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
+  code: '56527'
+  title: О внесении дополнений и изменений в постановление Правительства Республики Казахстан от 31 декабря 2009 года № 2333
+  link: https://zan.gov.kz/client/#!/doc/56527/rus
+source: https://zan.gov.kz/client/#!/doc/50203/rus/25.12.2010
 ---
 
 # О распределении объемов тарифных квот на ввоз некоторых видов мяса
@@ -82,6 +82,10 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 
 6. На основании рассчитанного удельного веса каждого из поставщиков определяется размер тарифной квоты для каждого из них в общем объеме тарифной квоты.
 
+   Результатом расчета объемов тарифных квот поставщиков понимается число, математически округленное до третьего знака после запятой.
+
+   > *Сноска. Пункт 6 с изменениями, внесенными постановлением Правительства РК от 25.12.2010 № 1411.*
+
 7. Поставщики, между которыми распределяется тарифная квота, должны соответствовать следующим критериям:
 
    1) осуществлять ввоз мяса из стран дальнего зарубежья;
@@ -109,7 +113,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 
 ## Распределение объемов тарифных квот для ввоза на территорию Республики Казахстан мяса, за исключением мяса, происходящего и ввезенного из стран-участников Содружества Независимых Государств
 
-> *Сноска. Распределение объемов с изменениями, внесенными постановлением Правительства РК от 21.07.2010 № 750 .*
+> *Сноска. Распределение объемов с изменениями, внесенными постановлениями Правительства РК от 21.07.2010 № 750 ; от 25.12.2010 № 1411.*
 
 <table>
 <tr>
@@ -142,25 +146,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 <td>7 400</td>
 </tr>
 <tr>
-<td rowspan="4">0207</td>
+<td>0207</td>
 <td>
 Мясо и пищевые субпродукты домашней птицы,
 указанной в товарной позиции 0105, свежие,
 охлажденные или замороженные
 </td>
 <td>110 000</td>
-</tr>
-<tr>
-<td>в том числе:</td>
-<td></td>
-</tr>
-<tr>
-<td>Соединенные Штаты Америки</td>
-<td>96 450</td>
-</tr>
-<tr>
-<td>другие</td>
-<td>13 550</td>
 </tr>
 </table>
 
@@ -170,6 +162,8 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 > *от 31 декабря 2009 года № 2333*
 
 ## Распределение тарифных квот между юридическими и физическими лицами, являющимися поставщиками мяса
+
+> *Сноска. Приложение с изменениями, внесенными постановлением Правительства РК от 25.12.2010 № 1411.*
 
 <table>
 <tr>
@@ -200,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Орал Логистик»
 </td>
 <td>270100235356</td>
-<td>750</td>
+<td>966,163</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -209,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Etalim Group»
 </td>
 <td>620300298576</td>
-<td>667</td>
+<td>833,089</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -218,7 +212,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фирма «Рассвет»
 </td>
 <td>061800258789</td>
-<td>457</td>
+<td>570,717</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -227,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Опт Торг Company plus»
 </td>
 <td>391700222672</td>
-<td>248</td>
+<td>309,808</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -236,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Агора-М»
 </td>
 <td>061800228171</td>
-<td>179</td>
+<td>223,560</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -245,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Заман-PVL»
 </td>
 <td>451500244239</td>
-<td>1 052</td>
+<td>1 313,687</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -254,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 ограниченной ответственностью «Класс Продукт»
 </td>
 <td>150900009128</td>
-<td>474</td>
+<td>595,843</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -263,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «United Industries»
 </td>
 <td>600400520260</td>
-<td>434</td>
+<td>541,954</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
@@ -272,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Семипалатинский мясокомбинат»
 </td>
 <td>182700217070</td>
-<td>309</td>
+<td>386,013</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -281,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 № 014764863 выд. МВД РК
 </td>
 <td>430110158050</td>
-<td>252</td>
+<td>332,889</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
@@ -290,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Constant-A»
 </td>
 <td>600700207397</td>
-<td>89</td>
+<td>95,281</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -299,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Алем Трейд KZ»
 </td>
 <td>600300562966</td>
-<td>7</td>
+<td>8,673</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -308,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Golden fish ltd.»
 </td>
 <td>600400531728</td>
-<td>1</td>
+<td>1,362</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -317,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Кублей»
 </td>
 <td>271800004553</td>
-<td>1 111</td>
+<td>1 574,700</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -326,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фахрад»
 </td>
 <td>600400236114</td>
-<td>924</td>
+<td>1 216,701</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -335,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Мясоперерабатывающее предприятие «Жайык-Ет»
 </td>
 <td>270100211403</td>
-<td>200</td>
+<td>249,763</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
@@ -344,7 +338,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 Асан Мендибаевич
 </td>
 <td>271812413934</td>
-<td>100</td>
+<td>146,523</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
@@ -353,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Hyp Май Фарм»
 </td>
 <td>090400222753</td>
-<td>209</td>
+<td>261,109</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
@@ -362,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Zaman»
 </td>
 <td>451500257638</td>
-<td>131</td>
+<td>186,706</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
@@ -371,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Асадар»
 </td>
 <td>182700238227</td>
-<td>75</td>
+<td>116,275</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
@@ -380,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Kazakhstan Commerce Group»
 </td>
 <td>600400540749</td>
-<td>54</td>
+<td>67,400</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
@@ -389,13 +383,34 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Гостиничный комплекс «Салтанат»
 </td>
 <td>600900168895</td>
-<td>0,1</td>
+<td>0,123</td>
+</tr>
+<tr>
+<td colspan="2">23</td>
+<td>Товарищество с ограниченной ответственностью &quot;Seafood Казахстан&quot;</td>
+<td>600800522316</td>
+<td>0,909</td>
+</tr>
+<tr>
+<td colspan="2">24</td>
+<td>Товарищество с ограниченной ответственностью &quot;Gateway support services ltd&quot;</td>
+<td>600900178755</td>
+<td>0,728</td>
+</tr>
+<tr>
+<td colspan="2">25</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Лигабуе Центральная Азия&quot;
+</td>
+<td>600900138740</td>
+<td>0,024</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>ИТОГО</td>
 <td></td>
-<td>7 723,1</td>
+<td>10 000,0</td>
 </tr>
 <tr>
 <td colspan="5">Свинина свежая, охлажденная или замороженная (Код ТН ВЭД 0203)</td>
@@ -407,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Орал Логистик»
 </td>
 <td>270100235356</td>
-<td>1 772</td>
+<td>1 941,170</td>
 </tr>
 <tr>
 <td>2</td>
@@ -416,7 +431,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Оптовая Компания»
 </td>
 <td>090500217222</td>
-<td>1 602</td>
+<td>1 753,336</td>
 </tr>
 <tr>
 <td>3</td>
@@ -425,7 +440,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «КРОМЭКСПО-А»
 </td>
 <td>600400503810</td>
-<td>1 122</td>
+<td>1 236,734</td>
 </tr>
 <tr>
 <td>4</td>
@@ -434,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фахрад»
 </td>
 <td>600400236114</td>
-<td>593</td>
+<td>674,778</td>
 </tr>
 <tr>
 <td>5</td>
@@ -443,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Etalim Group»
 </td>
 <td>620300298576</td>
-<td>432</td>
+<td>475,011</td>
 </tr>
 <tr>
 <td>6</td>
@@ -452,13 +467,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Павлодарский Смак»
 </td>
 <td>451500246863</td>
-<td>97</td>
+<td>107,824</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">ИП Звягинцев Виктор Александрович</td>
 <td>271810163811</td>
-<td>82</td>
+<td>89,770</td>
 </tr>
 <tr>
 <td>8</td>
@@ -467,7 +482,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Агора-М»
 </td>
 <td>061800228171</td>
-<td>47</td>
+<td>51,429</td>
 </tr>
 <tr>
 <td>9</td>
@@ -476,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Unimpex»
 </td>
 <td>270100235587</td>
-<td>46</td>
+<td>50,361</td>
 </tr>
 <tr>
 <td>10</td>
@@ -486,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Беккер и К» СП
 </td>
 <td>600200026766</td>
-<td>149</td>
+<td>164,829</td>
 </tr>
 <tr>
 <td>11</td>
@@ -495,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Класс Продукт»
 </td>
 <td>150900009128</td>
-<td>80</td>
+<td>87,579</td>
 </tr>
 <tr>
 <td>12</td>
@@ -504,7 +519,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 № 020859047
 </td>
 <td>271812660697</td>
-<td>36</td>
+<td>39,384</td>
 </tr>
 <tr>
 <td>13</td>
@@ -513,13 +528,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Бунк и К»
 </td>
 <td>090500034725</td>
-<td>35</td>
+<td>38,294</td>
 </tr>
 <tr>
 <td>14</td>
 <td colspan="2">ИП Трубин Николай Михайлович</td>
 <td>301211725531</td>
-<td>255</td>
+<td>279,081</td>
 </tr>
 <tr>
 <td>15</td>
@@ -528,7 +543,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 Мендибаевич
 </td>
 <td>271812413934</td>
-<td>202</td>
+<td>222,937</td>
 </tr>
 <tr>
 <td>16</td>
@@ -537,7 +552,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Кублей»
 </td>
 <td>271800004553</td>
-<td>6</td>
+<td>6,434</td>
 </tr>
 <tr>
 <td>17</td>
@@ -546,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Заман-PVL»
 </td>
 <td>451500244239</td>
-<td>65</td>
+<td>106,607</td>
 </tr>
 <tr>
 <td>18</td>
@@ -555,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Артон-KZ»
 </td>
 <td>182700237702</td>
-<td>26</td>
+<td>28,488</td>
 </tr>
 <tr>
 <td>19</td>
@@ -564,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Zaman»
 </td>
 <td>451500257638</td>
-<td>24</td>
+<td>30,108</td>
 </tr>
 <tr>
 <td>20</td>
@@ -573,13 +588,19 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Агама Казахстан»
 </td>
 <td>090400214378</td>
-<td>12</td>
+<td>12,818</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="2">Товарищество с ограниченной ответственностью &quot;Constant-A&quot;</td>
+<td>600700207397</td>
+<td>3,029</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">Итого</td>
 <td></td>
-<td>6683</td>
+<td>7 400,0</td>
 </tr>
 <tr>
 <td colspan="5">
@@ -594,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Орал Логистик»
 </td>
 <td>270100235356</td>
-<td>16 038</td>
+<td>17 270,828</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
@@ -603,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фахрад»
 </td>
 <td>600400236114</td>
-<td>11390</td>
+<td>12 246,216</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
@@ -612,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фирма «Рассвет»
 </td>
 <td>061800258789</td>
-<td>10 374</td>
+<td>11 143,433</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -621,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «АЛТА-XXI век»
 </td>
 <td>391700074672</td>
-<td>6 638</td>
+<td>7 152,357</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -630,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Агора-М»
 </td>
 <td>061800228171</td>
-<td>5 059</td>
+<td>5 451,629</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -639,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Каскад LLC»
 </td>
 <td>451500214062</td>
-<td>4 692</td>
+<td>5 042,736</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
@@ -648,7 +669,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Опт Торг Company plus»
 </td>
 <td>391700222672</td>
-<td>4 409</td>
+<td>4 747,412</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
@@ -657,7 +678,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Казпродукт-2030»
 </td>
 <td>301900217816</td>
-<td>4 204</td>
+<td>4 518,262</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
@@ -666,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Хладоленд»
 </td>
 <td>270100219859</td>
-<td>3 579</td>
+<td>3 846,512</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -675,7 +696,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Береке»
 </td>
 <td>302000063623</td>
-<td>2 665</td>
+<td>2 864,224</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
@@ -684,7 +705,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Торговый дом Казрос-II»
 </td>
 <td>600900163377</td>
-<td>2 468</td>
+<td>2 652,466</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
@@ -693,7 +714,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Алмас-2000»
 </td>
 <td>301900211581</td>
-<td>4 182</td>
+<td>4 510,331</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
@@ -702,7 +723,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Фрост Ко»
 </td>
 <td>582100259756</td>
-<td>1 745</td>
+<td>1 875,463</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -711,7 +732,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Оптовая Компания»
 </td>
 <td>090500217222</td>
-<td>1 419</td>
+<td>1 525,104</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
@@ -720,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Табигат-Сервис Д.»
 </td>
 <td>600400511570</td>
-<td>963</td>
+<td>1 034,953</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -729,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «КРОМЭКСПО-А»
 </td>
 <td>600400503810</td>
-<td>758</td>
+<td>814,671</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
@@ -738,13 +759,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Мясоперерабатывающее предприятие «Жайык-Ет»
 </td>
 <td>270100211403</td>
-<td>170</td>
+<td>182,672</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
 <td>ИП Звягинцев Виктор Александрович</td>
 <td>271810163811</td>
-<td>90</td>
+<td>96,729</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
@@ -753,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Улан-Б»
 </td>
 <td>582100271440</td>
-<td>5 706</td>
+<td>6 132,531</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
@@ -762,13 +783,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Заман-PVL»
 </td>
 <td>451500244239</td>
-<td>3 270</td>
+<td>3 514,419</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
 <td>Мамешев Рахим Рахатович</td>
 <td>061811124557</td>
-<td>604</td>
+<td>649,121</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
@@ -777,7 +798,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Рид-Актау»
 </td>
 <td>430600020072</td>
-<td>420</td>
+<td>451,373</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
@@ -786,7 +807,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «The Caspian international restaurants company»
 </td>
 <td>600700587757</td>
-<td>78</td>
+<td>84,804</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
@@ -796,13 +817,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Ибрагим»
 </td>
 <td>270100218620</td>
-<td>72</td>
+<td>77,366</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
 <td>ИП Куатов Сагидулла Самигуллинович</td>
 <td>271812660697</td>
-<td>134</td>
+<td>144,026</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
@@ -811,7 +832,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Класс Продукт»
 </td>
 <td>150900009128</td>
-<td>26</td>
+<td>27,966</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
@@ -820,7 +841,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Golden fish ltd.»
 </td>
 <td>600400531728</td>
-<td>9</td>
+<td>9,782</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
@@ -829,7 +850,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 ответственностью «Интерфуд»
 </td>
 <td>090900021750</td>
-<td>1</td>
+<td>1,088</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
@@ -838,7 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Компания Айс Фуд Астана»
 </td>
 <td>620300307634</td>
-<td>4 264</td>
+<td>4 643,225</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
@@ -847,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Голд Фрейк»
 </td>
 <td>600700610810</td>
-<td>1 779</td>
+<td>1 911,954</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
@@ -856,7 +877,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Прод Сервис Актобе»
 </td>
 <td>061800284854</td>
-<td>825</td>
+<td>915,072</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
@@ -865,7 +886,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Престиж»
 </td>
 <td>600700184636</td>
-<td>756</td>
+<td>840,434</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
@@ -874,7 +895,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Санылау»
 </td>
 <td>451500255616</td>
-<td>455</td>
+<td>498,177</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
@@ -883,7 +904,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 Мендибаевич
 </td>
 <td>271812413934</td>
-<td>355</td>
+<td>387,826</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
@@ -892,7 +913,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 компания «Домино»
 </td>
 <td>031400152673</td>
-<td>69</td>
+<td>74,152</td>
 </tr>
 <tr>
 <td colspan="2">36</td>
@@ -901,7 +922,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Гиперион»
 </td>
 <td>302000226273</td>
-<td>15</td>
+<td>16,099</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
@@ -910,7 +931,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Meat team»
 </td>
 <td>600500578497</td>
-<td>572</td>
+<td>614,745</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
@@ -919,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Талапкер плюс»
 </td>
 <td>061800279110</td>
-<td>441</td>
+<td>473,971</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
@@ -928,7 +949,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Zaman»
 </td>
 <td>451500257638</td>
-<td>408</td>
+<td>438,680</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
@@ -937,7 +958,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Актау Инвест Курлыс-1»
 </td>
 <td>430100252482</td>
-<td>378</td>
+<td>406,261</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
@@ -946,7 +967,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 № 014764863 выд. МВД РК
 </td>
 <td>430110158050</td>
-<td>378</td>
+<td>420,363</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
@@ -955,7 +976,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Дара Трейд»
 </td>
 <td>061800251099</td>
-<td>147</td>
+<td>157,990</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
@@ -964,13 +985,13 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Стерх»
 </td>
 <td>361800035735</td>
-<td>58</td>
+<td>66,678</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
 <td>Ваннер Алексей Павлович</td>
 <td>091710115972</td>
-<td>14</td>
+<td>15,047</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
@@ -979,7 +1000,7 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 «Торговый дом Казар»
 </td>
 <td>061800078340</td>
-<td>14</td>
+<td>15,021</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
@@ -988,12 +1009,67 @@ source: https://zan.gov.kz/client/#!/doc/50203/rus/21.07.2010
 выд. МВД РК
 </td>
 <td>061811079063</td>
-<td>13</td>
+<td>13,994</td>
+</tr>
+<tr>
+<td colspan="2">47</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Кабиев и К&quot;
+</td>
+<td>061800090878</td>
+<td>17,944</td>
+</tr>
+<tr>
+<td colspan="2">48</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Вик Трейд Инвест&quot;
+</td>
+<td>270100238427</td>
+<td>2,991</td>
+</tr>
+<tr>
+<td colspan="2">49</td>
+<td>
+Товарищество с ограниченной
+ответственностью СКГП &quot;Interfood&quot;
+(&quot;Интерфуд&quot;)
+</td>
+<td>600900146916</td>
+<td>0,319</td>
+</tr>
+<tr>
+<td colspan="2">50</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Seafood Казахстан&quot;
+</td>
+<td>600800522316</td>
+<td>0,390</td>
+</tr>
+<tr>
+<td colspan="2">51</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Агама Казахстан&quot;
+</td>
+<td>090400214378</td>
+<td>0,191</td>
+</tr>
+<tr>
+<td colspan="2">52</td>
+<td>
+Товарищество с ограниченной
+ответственностью &quot;Food Line&quot;
+</td>
+<td>600900602223</td>
+<td>0,002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>ИТОГО</td>
 <td></td>
-<td>102 104</td>
+<td>110 000,0</td>
 </tr>
 </table>
