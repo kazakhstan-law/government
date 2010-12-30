@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/30.09.2010
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/30.12.2010
 ---
 
 # Қазақстан Республикасы Iшкi iстер министрлiгiнiң мәселелерi
