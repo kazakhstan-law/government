@@ -10,10 +10,15 @@ approved_on: 2008-04-15
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-12-15
-  rus: 2010-12-15
+  kaz: 2010-12-30
+  rus: 2010-12-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/15.12.2010
-  rus: https://zan.gov.kz/client/#!/doc/38863/rus/15.12.2010
+  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/30.12.2010
+  rus: https://zan.gov.kz/client/#!/doc/38863/rus/30.12.2010
 caused_by:
-  code: P1000001368
+  code: '56538'
+  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2010 года № 1477
+  title:
+    rus: О вопросах Министерства внутренних дел Республики Казахстан
+    kaz: Қазақстан Республикасы Ішкі істер министрлігінің мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/56538/rus
