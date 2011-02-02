@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
+source: https://zan.gov.kz/client/#!/doc/50711/kaz/02.02.2011
 ---
 
 ## 3.1. Қазақстан Республикасы Денсаулық сақтау министрлігінің стратегиялық бағыттары мен мақсаттарының мемлекеттің стратегиялық мақсаттарына сәйкестігі
@@ -561,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 
 ## 8. Бюджеттік бағдарламалар
 
-> *Ескерту. 8-бөлімге өзгерту енгізілді - ҚР Үкіметінің 2010.06.07 № 516 Қаулысымен.*
+> *Ескерту. 8-бөлімге өзгерту енгізілді - ҚР Үкіметінің 2010.06.07 № 516, 2011.02.02 N 70 Қаулыларымен.*
 
 8.1-кесте
 
@@ -638,7 +638,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>55</td>
 <td>46</td>
-<td>46</td>
+<td>9</td>
 <td>46</td>
 <td>46</td>
 </tr>
@@ -1004,7 +1004,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>мың теңге</td>
 <td>1 589 474</td>
 <td>7 441 419</td>
-<td>8 819 749</td>
+<td>8 826 794</td>
 <td>10 159 864</td>
 <td>11 343 617</td>
 </tr>
@@ -1183,7 +1183,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>15 916</td>
 <td>18 558</td>
-<td>22 266</td>
+<td>22 146</td>
 <td>26 524</td>
 <td>30 078</td>
 </tr>
@@ -1192,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>1 442</td>
 <td>1 451</td>
-<td>1 440</td>
+<td>1 403</td>
 <td>1 450</td>
 <td>1 450</td>
 </tr>
@@ -1201,7 +1201,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>606</td>
 <td>625</td>
-<td>757</td>
+<td>751</td>
 <td>942</td>
 <td>1 053</td>
 </tr>
@@ -1248,7 +1248,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>мың теңге</td>
 <td>4 423 067</td>
 <td>6 516 756</td>
-<td>8 981 990</td>
+<td>8 924 090</td>
 <td>12 344 029</td>
 <td>15 324 665</td>
 </tr>
@@ -1311,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>12 872</td>
 <td>13 547</td>
-<td>17 684</td>
+<td>17 142</td>
 <td>20 767</td>
 <td>23 768</td>
 </tr>
@@ -1320,7 +1320,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>адам</td>
 <td>606</td>
 <td>625</td>
-<td>757</td>
+<td>751</td>
 <td>942</td>
 <td>1 053</td>
 </tr>
@@ -1529,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>мың теңге</td>
 <td>1 332 338</td>
 <td>2 093 503</td>
-<td>3 148 028</td>
+<td>2 975 028</td>
 <td>4 524 331</td>
 <td>6 036 328</td>
 </tr>
@@ -1589,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>бірлік</td>
 <td>121</td>
 <td>83</td>
-<td>71</td>
+<td>81</td>
 <td>9</td>
 <td>125</td>
 </tr>
@@ -1599,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>бірлік</td>
 <td>17</td>
 <td>18</td>
-<td>66</td>
+<td>61</td>
 <td>9</td>
 <td>1</td>
 </tr>
@@ -1608,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>мың теңге</td>
 <td>45 079 498</td>
 <td>63 382 291</td>
-<td>94 499 726</td>
+<td>90 887 799</td>
 <td>39 270 368</td>
 <td>39 566 210</td>
 </tr>
@@ -1754,7 +1754,7 @@ source: https://zan.gov.kz/client/#!/doc/50711/kaz/07.06.2010
 <td>мың теңге</td>
 <td>1 897 451</td>
 <td>7 035 875</td>
-<td>8 249 141</td>
+<td>8 252 633</td>
 <td>9 654 591</td>
 <td>10 636 623</td>
 </tr>

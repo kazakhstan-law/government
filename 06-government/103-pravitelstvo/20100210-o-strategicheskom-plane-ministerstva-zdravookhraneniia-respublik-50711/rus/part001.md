@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/50711/rus/07.06.2010
+source: https://zan.gov.kz/client/#!/doc/50711/rus/02.02.2011
 ---
 
 ## СТРАТЕГИЧЕСКИЙ ПЛАН МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РЕСПУБЛИКИ КАЗАХСТАН на 2010-2014 годы
