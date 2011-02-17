@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56192/kaz/07.02.2011
+source: https://zan.gov.kz/client/#!/doc/56192/kaz/17.02.2011
 ---
 
 ## 2011 жылға арналған республикалық бюджет көрсеткіштерін түзету
