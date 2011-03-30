@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39146/kaz/16.07.2010
+source: https://zan.gov.kz/client/#!/doc/39146/kaz/30.03.2011
 ---
 
 # Қазақстан Республикасы Қаржы министрлігінің кейбір мәселелері туралы
