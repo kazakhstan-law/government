@@ -242,11 +242,24 @@ versions:
   - rus
   cause:
     code: P1100000295
+- date: 2011-03-31
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '58274'
+    key: P1100000309
 version_date:
-  kaz: 2011-03-30
-  rus: 2011-03-30
+  kaz: 2011-03-31
+  rus: 2011-03-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/43578/kaz/30.03.2011
-  rus: https://zan.gov.kz/client/#!/doc/43578/rus/30.03.2011
+  kaz: https://zan.gov.kz/client/#!/doc/43578/kaz/31.03.2011
+  rus: https://zan.gov.kz/client/#!/doc/43578/rus/31.03.2011
 caused_by:
-  code: P1100000295
+  code: '58274'
+  key: P1100000309
+  requisite: Постановление Правительства Республики Казахстан от 31 марта 2011 года № 309. Утратило силу постановлением Правительства Республики Казахстан от 1 августа 2013 года № 756
+  title:
+    rus: О создании акционерного общества "Казнефтескважликвид"
+    kaz: '"Қазмұнайұңғымажою" акцнонерлік қоғамын құру туралы'
+  link: https://zan.gov.kz/client/#!/doc/58274/rus
