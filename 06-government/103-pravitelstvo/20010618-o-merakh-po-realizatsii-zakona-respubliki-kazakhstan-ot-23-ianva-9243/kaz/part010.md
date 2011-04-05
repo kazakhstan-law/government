@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/9243/kaz/02.02.2011
+source: https://zan.gov.kz/client/#!/doc/9243/kaz/05.04.2011
 ---
 
 ## 4. Бақылау және есептілік

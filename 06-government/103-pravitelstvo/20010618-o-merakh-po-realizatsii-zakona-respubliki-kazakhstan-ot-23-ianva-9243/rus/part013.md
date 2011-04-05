@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/9243/rus/02.02.2011
+source: https://zan.gov.kz/client/#!/doc/9243/rus/05.04.2011
 ---
 
 ## 3. Финансирование профессиональной подготовки, переподготовки и повышения квалификации
