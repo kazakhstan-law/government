@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/53627/rus/04.04.2011
+source: https://zan.gov.kz/client/#!/doc/53627/rus/07.04.2011
 ---
 
 ## Примечание: расшифровка аббревиатур:
