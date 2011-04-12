@@ -1,5 +1,5 @@
 ---
-version_id: AI46169_0
+version_id: AI46169_1
 act_code: '46169'
 language: kaz
 title: 2009 жылы жастар практикасын ұйымдастыру туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '160015000001'
 approval_date: 2009-04-24
-version_date: 2009-04-24
+version_date: 2011-04-12
 registry_number: '46169'
-source: https://zan.gov.kz/client/#!/doc/46169/kaz/24.04.2009
+source: https://zan.gov.kz/client/#!/doc/46169/kaz
 ---
 
 # 2009 жылы жастар практикасын ұйымдастыру туралы
@@ -33,4 +33,6 @@ source: https://zan.gov.kz/client/#!/doc/46169/kaz/24.04.2009
 
 3. Осы қаулы алғашқы рет ресми жарияланғаннан кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі.
 
-   Шет ауданының әкімі Қ.К. Тілеубергенов
+**Шет ауданының әкімі**
+
+**Қ.К. Тілеубергенов**
