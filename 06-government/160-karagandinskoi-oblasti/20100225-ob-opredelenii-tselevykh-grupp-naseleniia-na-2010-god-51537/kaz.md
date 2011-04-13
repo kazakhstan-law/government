@@ -1,5 +1,5 @@
 ---
-version_id: AI51537_0
+version_id: '51537_198985'
 act_code: '51537'
 language: kaz
 title: 2010 жылға халықтың нысаналы топтарын белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '160012000001'
 approval_date: 2010-02-25
-version_date: 2010-02-25
+version_date: 2011-04-13
 registry_number: '51537'
-source: https://zan.gov.kz/client/#!/doc/51537/kaz/25.02.2010
+source: https://zan.gov.kz/client/#!/doc/51537/kaz
 ---
 
 # 2010 жылға халықтың нысаналы топтарын белгілеу туралы
@@ -53,4 +53,6 @@ source: https://zan.gov.kz/client/#!/doc/51537/kaz/25.02.2010
 
 4. Осы қаулы ресми жарияланған күннен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі.
 
-   Аудан әкімі С. Шайдаров
+**Аудан әкімі**
+
+**С. Шайдаров**
