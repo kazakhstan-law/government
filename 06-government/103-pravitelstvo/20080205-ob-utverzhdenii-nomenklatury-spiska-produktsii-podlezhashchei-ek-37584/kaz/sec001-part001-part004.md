@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/37584/kaz/05.02.2008
+source: https://zan.gov.kz/client/#!/doc/37584/kaz/15.04.2011
 ---
 
 ## 0В Сынақ, бақылау және өндірістік жабдық
