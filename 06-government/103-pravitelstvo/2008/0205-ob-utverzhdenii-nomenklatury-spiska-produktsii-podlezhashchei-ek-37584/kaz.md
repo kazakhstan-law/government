@@ -60,10 +60,10 @@
 | [`sec001-part001-part013`](kaz/sec001-part001-part013.md) | 1Е Технология |
 | [`sec001-part001-part020`](kaz/sec001-part001-part020.md) | Техникалық ескертпе: |
 | [`sec001-part001-part025`](kaz/sec001-part001-part025.md) | Техникалық ескерту: |
-| [`sec001-part001-part036`](kaz/sec001-part001-part036.md) | Жабуларды шөктірудің техникалық қабылдауларының кестесі |
-| [`sec001-part001-part039`](kaz/sec001-part001-part039.md) | 3-Санат Электроника |
-| [`sec001-part001-part044`](kaz/sec001-part001-part044.md) | Техникалық ескерту: |
-| [`sec001-part001-part052`](kaz/sec001-part001-part052.md) | Техникалық ескерту: |
-| [`sec001-part001-part069`](kaz/sec001-part001-part069.md) | "ТЖӨ" Бойынша техникалық ескерту |
-| [`sec001-part001-part073`](kaz/sec001-part001-part073.md) | 5С1 Материалдар |
+| [`sec001-part001-part035`](kaz/sec001-part001-part035.md) | 2Е Технология |
+| [`sec001-part001-part038`](kaz/sec001-part001-part038.md) | Ерекше ескерту: |
+| [`sec001-part001-part043`](kaz/sec001-part001-part043.md) | Техникалық ескерту: |
+| [`sec001-part001-part051`](kaz/sec001-part001-part051.md) | 3В Сынақ, бақылау және өндірістік жабдығы |
+| [`sec001-part001-part063`](kaz/sec001-part001-part063.md) | 4В Сынақ, бақылау және өндірістік жабдық |
+| [`sec001-part001-part072`](kaz/sec001-part001-part072.md) | Техникалық ескерту: |
 | [`sec002`](kaz/sec002.md) | 2-Бөлім "Ақпарат қорғау" |
