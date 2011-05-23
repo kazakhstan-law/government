@@ -1,5 +1,5 @@
 ---
-version_id: AI44025_0
+version_id: AI44025_1
 act_code: '44025'
 language: kaz
 title: 2009 жылы жұмыссыздарды қоғамдық ақылы жұмыстарға жiберу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166009000001'
 approval_date: 2009-01-09
-version_date: 2009-01-09
+version_date: 2011-05-23
 registry_number: '44025'
-source: https://zan.gov.kz/client/#!/doc/44025/kaz/09.01.2009
+source: https://zan.gov.kz/client/#!/doc/44025/kaz
 ---
 
 # 2009 жылы жұмыссыздарды қоғамдық ақылы жұмыстарға жiберу туралы
@@ -29,7 +29,9 @@ source: https://zan.gov.kz/client/#!/doc/44025/kaz/09.01.2009
 
 5. Осы қаулы алғашқы ресми жарияланғаннан кейін күнтізбелік он күн өткен соң қолданысқа енгізілсін.
 
-Аудан әкiмi Ұ.Сәдібеков
+**Аудан әкiмi**
+
+**Ұ.Сәдібеков**
 
 > *2009 жылғы 9 қаңтардағы*  
 > *N 37 аудан әкімдігінің*  
@@ -105,10 +107,10 @@ source: https://zan.gov.kz/client/#!/doc/44025/kaz/09.01.2009
 <td>50</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th></th>
-<th>550</th>
+<td></td>
+<td>Барлығы:</td>
+<td></td>
+<td>550</td>
 </tr>
 </table>
 
