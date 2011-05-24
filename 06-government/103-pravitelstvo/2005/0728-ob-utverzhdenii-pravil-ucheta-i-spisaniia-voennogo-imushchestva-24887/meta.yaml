@@ -11,8 +11,15 @@ approved_on: 2005-07-28
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2005-07-28
-  rus: 2005-07-28
+  kaz: 2011-05-24
+  rus: 2011-05-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/24887/kaz/28.07.2005
-  rus: https://zan.gov.kz/client/#!/doc/24887/rus/28.07.2005
+  kaz: https://zan.gov.kz/client/#!/doc/24887/kaz/24.05.2011
+  rus: https://zan.gov.kz/client/#!/doc/24887/rus/24.05.2011
+caused_by:
+  code: '58949'
+  requisite: Постановление Правительства Республики Казахстан от 24 мая 2011 года № 565
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/58949/rus
