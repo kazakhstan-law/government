@@ -1,12 +1,16 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
+source: https://zan.gov.kz/client/#!/doc/52501/kaz/16.06.2011
 ---
 
-# Техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010 - 2011 оқу жылына арналған мемлекеттік білім беру тапсырысын бекіту туралы
+# Техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010-2014 оқу жылдарына арналған мемлекеттік білім беру тапсырысын бекіту туралы
+
+> *Ескерту. Атауы жаңа редакцияда - Астана қаласы әкімдігінің 2011.06.16 N 22-544қ (қаулы алғашқы ресми жарияланған күннен бастап он күнтізбелік күн өткеннен соң қолданысқа енгізіледі) Қаулысымен.*
 
 «Білім туралы» Қазақстан Республикасы Заңының 6-бабы 3-тармағының 7) тармақшасына сәйкес Астана қаласының әкімдігі ҚАУЛЫ ЕТЕДІ:
 
-1. Қосымшаға сәйкес техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010 - 2011 оқу жылына арналған мемлекеттік білім беру тапсырысы (бұдан әрі – Мемлекеттік білім беру тапсырысы) бекітілсін.
+1. Қосымшаға сәйкес техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010-2014 оқу жылдарына арналған мемлекеттік білім беру тапсырысы (бұдан әрі – Мемлекеттік білім беру тапсырысы) бекітілсін.
+
+   > *Ескерту. 1-тармаққа өзгеріс енгізілді - Астана қаласы әкімдігінің 2011.06.16 N 22-544қ (қаулы алғашқы ресми жарияланған күннен бастап он күнтізбелік күн өткеннен соң қолданысқа енгізіледі) Қаулысымен.*
 
 2. «Астана қаласының Білім басқармасы» мемлекеттік мекемесі (бұдан әрі - Басқарма) бекітілген жергілікті бюджеттен қаржыландырылатын тиісті білім беру ұйымдарында Мемлекеттік білім беру тапсырысын орналастыруды қамтамасыз етсін.
 
@@ -23,37 +27,41 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 > *№ 22-291қ қаулысына*  
 > *қосымша*
 
-## Техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010 - 2011 оқу жылына арналған мемлекеттік білім беру тапсырысы
+> *Ескерту. Қосымшаға өзгеріс енгізілді - Астана қаласы әкімдігінің 2011.06.16 N 22-544қ (қаулы алғашқы ресми жарияланған күннен бастап он күнтізбелік күн өткеннен соң қолданысқа енгізіледі) Қаулысымен.*
+
+## Техникалық және кәсіптік, орта білімнен кейінгі білімді мамандар даярлаудың 2010-2014 оқу жылдарына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. Атауы жаңа редакцияда - Астана қаласы әкімдігінің 2011.06.16 N 22-544қ (қаулы алғашқы ресми жарияланған күннен бастап он күнтізбелік күн өткеннен соң қолданысқа енгізіледі) Қаулысымен.*
 
 <table>
 <tr>
 <td rowspan="3">Мамандық коды</td>
 <td rowspan="3">Техникалық және кәсіптік білімді, орта білімнен кейінгі білімді мамандар даярлау бағыттарының атауы</td>
-<td colspan="7">Оқушыларды қабылдау</td>
+<td colspan="5">Оқушыларды қабылдау</td>
 </tr>
 <tr>
 <td rowspan="2">Барлығы</td>
-<td colspan="4">9-сынып</td>
+<td colspan="2">9-сынып</td>
 <td colspan="2">11-сынып</td>
 </tr>
 <tr>
-<td colspan="2">қазақ тілінде оқыту</td>
-<td colspan="2">орыс тілінде оқыту</td>
+<td>қазақ тілінде оқыту</td>
+<td>орыс тілінде оқыту</td>
 <td>қазақ тілінде оқыту</td>
 <td>орыс тілінде оқыту</td>
 </tr>
 <tr>
-<td colspan="9">Мемлекеттік кәсіптік лицейлер</td>
+<td colspan="7">Мемлекеттік кәсіптік лицейлер</td>
 </tr>
 <tr>
-<td colspan="9">№ 1 кәсіптік лицей</td>
+<td colspan="7">№ 1 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>0510000</td>
 <td>Іс қағаздарын жүргізу және мұрағаттану</td>
 <td>25</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>55</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -61,8 +69,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>0902000</td>
 <td>Электрмен қамтамасыз ету</td>
 <td>25</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>55</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -70,8 +78,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>1114000</td>
 <td>Пісіру ісі</td>
 <td>50</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>55</td>
+<td>50</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -79,8 +87,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>1201000</td>
 <td>Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 <td>25</td>
-<td colspan="2">-</td>
-<td colspan="2">25</td>
+<td>-</td>
+<td>50</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -88,8 +96,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>1401000</td>
 <td>Үйлер мен ғимараттарды салу және пайдалану</td>
 <td>50</td>
-<td colspan="2">-</td>
-<td colspan="2">50</td>
+<td>-</td>
+<td>50</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -97,8 +105,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>1403000</td>
 <td>Ішкі санитарлық-техникалық құрылғылар мен вентиляцияны монтаждау және пайдалану</td>
 <td>25</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>55</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -106,20 +114,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td></td>
 <td>Барлығы</td>
 <td>200</td>
-<td colspan="2">100</td>
-<td colspan="2">100</td>
+<td>100</td>
+<td>100</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">№ 2 кәсіптік лицей</td>
+<td colspan="7">№ 2 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>0416000</td>
 <td>Сәулет</td>
 <td>30</td>
-<td colspan="2">-</td>
-<td colspan="2">30</td>
+<td>-</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -127,8 +135,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>0508000</td>
 <td>Тамақтандыруды ұйымдастыру</td>
 <td>120</td>
-<td colspan="2">60</td>
-<td colspan="2">60</td>
+<td>60</td>
+<td>60</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -136,8 +144,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td>1211000</td>
 <td>Тігін өндірісі және киімдерді моделдеу</td>
 <td>30</td>
-<td colspan="2">-</td>
-<td colspan="2">30</td>
+<td>-</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -145,19 +153,19 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <td></td>
 <td>Барлығы</td>
 <td>180</td>
-<td colspan="2">60</td>
-<td colspan="2">120</td>
+<td>60</td>
+<td>120</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">№ 3 кәсіптік лицей</td>
+<td colspan="7">№ 3 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>0506000</td>
 <td>Шаштараз өнері және сәндік косметика</td>
-<td colspan="2">60</td>
-<td colspan="2">-</td>
+<td>60</td>
+<td>-</td>
 <td>30</td>
 <td>-</td>
 <td>30</td>
@@ -165,8 +173,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1211000</td>
 <td>Тігін өндірісі және киімдерді моделдеу</td>
-<td colspan="2">60</td>
-<td colspan="2">30</td>
+<td>60</td>
+<td>30</td>
 <td>30</td>
 <td>-</td>
 <td>-</td>
@@ -174,8 +182,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1219000</td>
 <td>Нан пісіру өндірісі, макарон өндірісі және кондитер өндірісі</td>
-<td colspan="2">60</td>
-<td colspan="2">-</td>
+<td>60</td>
+<td>-</td>
 <td>60</td>
 <td>-</td>
 <td>-</td>
@@ -183,20 +191,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">180</td>
-<td colspan="2">30</td>
+<td>180</td>
+<td>30</td>
 <td>120</td>
 <td>-</td>
 <td>30</td>
 </tr>
 <tr>
-<td colspan="9">№ 4 кәсіптік лицей</td>
+<td colspan="7">№ 4 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>0904000</td>
 <td>Темір жол электротехникалық жүйелерін электрмен жабдықтау, пайдалану, техникалық қызмет көрсету</td>
-<td colspan="2">30</td>
-<td colspan="2">30</td>
+<td>30</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -204,8 +212,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1108000</td>
 <td>Темір жол жылжымалы құрамдарын пайдалану және техникалық қызмет көрсету</td>
-<td colspan="2">30</td>
-<td colspan="2">-</td>
+<td>30</td>
+<td>-</td>
 <td>30</td>
 <td>-</td>
 <td>-</td>
@@ -213,8 +221,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1109000</td>
 <td>Токарлық іс және металл өңдеу</td>
-<td colspan="2">30</td>
-<td colspan="2">-</td>
+<td>30</td>
+<td>-</td>
 <td>30</td>
 <td>-</td>
 <td>-</td>
@@ -222,8 +230,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1415000</td>
 <td>Лифт шаруашылығы және эскалаторлар</td>
-<td colspan="2">30</td>
-<td colspan="2">30</td>
+<td>30</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -231,20 +239,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">120</td>
-<td colspan="2">60</td>
+<td>120</td>
+<td>60</td>
 <td>60</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">№ 5 кәсіптік лицей</td>
+<td colspan="7">№ 5 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>1306000</td>
 <td>Радиотехника және байланыс</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -252,8 +260,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1307000</td>
 <td>Электр байланысы жүйелі құрылыстары мен сымдық тарату жүйелерін пайдалану</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -261,20 +269,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">75</td>
-<td colspan="2">25</td>
+<td>75</td>
+<td>25</td>
 <td>50</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">№ 6 кәсіптік лицей</td>
+<td colspan="7">№ 6 кәсіптік лицей</td>
 </tr>
 <tr>
 <td>0508000</td>
 <td>Тамақтандыруды ұйымдастыру</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -282,8 +290,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0902000</td>
 <td>Электрмен қамтамасыз ету</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -291,8 +299,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1201000</td>
 <td>Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -300,8 +308,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1402000</td>
 <td>Жол-құрылыс машиналарын техникалық пайдалану</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -309,23 +317,23 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">100</td>
-<td colspan="2">50</td>
+<td>100</td>
+<td>50</td>
 <td>50</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">Мемлекеттік колледждер</td>
+<td colspan="7">Мемлекеттік колледждер</td>
 </tr>
 <tr>
-<td colspan="9">Политехникалық колледжі</td>
+<td colspan="7">Политехникалық колледжі</td>
 </tr>
 <tr>
 <td>0402000</td>
 <td>Дизайн</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -333,8 +341,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0507000</td>
 <td>Қонақ үйі шаруашылығына қызмет көрсету және ұйымдастыру</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>25</td>
@@ -342,8 +350,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0508000</td>
 <td>Тамақтандыруды ұйымдастыру</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -351,8 +359,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0511000</td>
 <td>Туризм</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -360,8 +368,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0518000</td>
 <td>Есеп және аудит</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -369,8 +377,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1201000</td>
 <td>Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -378,8 +386,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1206000</td>
 <td>Жол қозғалысын ұйымдастыру</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>-</td>
 <td>25</td>
 <td>-</td>
@@ -387,8 +395,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1304000</td>
 <td>Электрондық есептеу техникасы және бағдарламалық қамтамасыздандыру</td>
-<td colspan="2">75</td>
-<td colspan="2">25</td>
+<td>75</td>
+<td>25</td>
 <td>50</td>
 <td>-</td>
 <td>-</td>
@@ -396,8 +404,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1401000</td>
 <td>Үйлер мен ғимараттарды салу және пайдалану</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -405,29 +413,29 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">350</td>
-<td colspan="2">100</td>
+<td>350</td>
+<td>100</td>
 <td>200</td>
 <td>25</td>
 <td>25</td>
 </tr>
 <tr>
-<td colspan="9">Гуманитарлық колледжі</td>
+<td colspan="7">Гуманитарлық колледжі</td>
 </tr>
 <tr>
 <td>0101000</td>
 <td>Мектепке дейінгі білім беру және тәрбиелеу</td>
-<td colspan="2">75</td>
-<td colspan="2">25</td>
-<td>25</td>
+<td>130</td>
+<td>55</td>
+<td>50</td>
 <td>25</td>
 <td>-</td>
 </tr>
 <tr>
 <td>0103000</td>
 <td>Дене тәрбиесі және спорт</td>
-<td colspan="2">52</td>
-<td colspan="2">26</td>
+<td>52</td>
+<td>26</td>
 <td>26</td>
 <td>-</td>
 <td>-</td>
@@ -435,17 +443,17 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0105000</td>
 <td>Бастауыш білім беру</td>
-<td colspan="2">214</td>
-<td colspan="2">138</td>
-<td>76</td>
+<td>133</td>
+<td>82</td>
+<td>51</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>0106000</td>
 <td>Бейнелеу өнері және салу</td>
-<td colspan="2">20</td>
-<td colspan="2">20</td>
+<td>20</td>
+<td>20</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -453,8 +461,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0107000</td>
 <td>Технология</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>-</td>
 <td>25</td>
 <td>-</td>
@@ -462,8 +470,17 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0108000</td>
 <td>Музыкалық білім беру</td>
-<td colspan="2">7</td>
-<td colspan="2">7</td>
+<td>7</td>
+<td>7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Негізгі орта білім</td>
+<td>26</td>
+<td>26</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -471,20 +488,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">393</td>
-<td colspan="2">216</td>
+<td>393</td>
+<td>216</td>
 <td>127</td>
 <td>50</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">Көлік және коммуникация колледжі</td>
+<td colspan="7">Көлік және коммуникация колледжі</td>
 </tr>
 <tr>
 <td>0902000</td>
 <td>Электрмен қамтамасыз ету</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -492,8 +509,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1106000</td>
 <td>Темір жол жылжамалы құрам өндірісі</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -501,8 +518,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1107000</td>
 <td>Көтергіш көлік, құрылыс жол машиналары мен жабдықтарын техникалық пайдалану</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -510,8 +527,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1108000</td>
 <td>Темір жол жылжымалы құрамдарын пайдалану және техникалық қызмет көрсету</td>
-<td colspan="2">30</td>
-<td colspan="2">30</td>
+<td>30</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -519,8 +536,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1202000</td>
 <td>Жолаушылар мен жүкті тасымалдауды ұйымдастыру</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -528,8 +545,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1309000</td>
 <td>Оптикалық және электронды құрал-жабдықтар</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -537,8 +554,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1310000</td>
 <td>Көліктік радиоэлектрондық жабдықтарды техникалық пайдалану</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -546,8 +563,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1409000</td>
 <td>Темір жол құрылысы, темір жол және темір жол шаруашылығы</td>
-<td colspan="2">30</td>
-<td colspan="2">30</td>
+<td>30</td>
+<td>30</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -555,8 +572,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1410000</td>
 <td>Автомобиль жолдары мен аэродромдар салу және пайдалану</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -564,20 +581,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">235</td>
-<td colspan="2">110</td>
+<td>235</td>
+<td>110</td>
 <td>125</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">Экономика, технология және тағам өнімдерін стандарттау колледжі</td>
+<td colspan="7">Экономика, технология және тағам өнімдерін стандарттау колледжі</td>
 </tr>
 <tr>
 <td>0518000</td>
 <td>Есеп және аудит</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -585,8 +602,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0601000</td>
 <td>Метрология, стандарттау және сертификаттау</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -594,8 +611,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1226000</td>
 <td>Тамақтану мекемелері тағамдарын өндіру технологиясы және оны ұйымдастыру</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -603,8 +620,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1508000</td>
 <td>Орман шаруашылығы, бақ-саябақты және ландшафты құрылыстар</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -612,20 +629,20 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">200</td>
-<td colspan="2">100</td>
+<td>200</td>
+<td>100</td>
 <td>100</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">Медициналық колледж</td>
+<td colspan="7">Медициналық колледж</td>
 </tr>
 <tr>
 <td>0301000</td>
 <td>Емдеу ісі</td>
-<td colspan="2">75</td>
-<td colspan="2">25</td>
+<td>75</td>
+<td>25</td>
 <td>25</td>
 <td>25</td>
 <td>-</td>
@@ -633,8 +650,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0302000</td>
 <td>Медбикелік іс</td>
-<td colspan="2">275</td>
-<td colspan="2">100</td>
+<td>275</td>
+<td>100</td>
 <td>75</td>
 <td>75</td>
 <td>25</td>
@@ -642,8 +659,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0305000</td>
 <td>Лабораториялық диагностика</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>25</td>
@@ -651,8 +668,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>0309000</td>
 <td>Акушерлік іс</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>-</td>
 <td>25</td>
 <td>-</td>
@@ -660,23 +677,23 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">400</td>
-<td colspan="2">125</td>
+<td>400</td>
+<td>125</td>
 <td>100</td>
 <td>125</td>
 <td>50</td>
 </tr>
 <tr>
-<td colspan="9">Мемлекеттік емес колледждер</td>
+<td colspan="7">Мемлекеттік емес колледждер</td>
 </tr>
 <tr>
-<td colspan="9">Басқару колледжі</td>
+<td colspan="7">Басқару колледжі</td>
 </tr>
 <tr>
 <td>0402000</td>
 <td>Дизайн</td>
-<td colspan="2">25</td>
-<td colspan="2">25</td>
+<td>25</td>
+<td>25</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -684,8 +701,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td>1211000</td>
 <td>Тігін өндірісі және киімдерді моделдеу</td>
-<td colspan="2">25</td>
-<td colspan="2">-</td>
+<td>25</td>
+<td>-</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -693,8 +710,8 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">50</td>
-<td colspan="2">25</td>
+<td>50</td>
+<td>25</td>
 <td>25</td>
 <td>-</td>
 <td>-</td>
@@ -702,9 +719,9 @@ source: https://zan.gov.kz/client/#!/doc/52501/kaz/12.04.2010
 <tr>
 <td></td>
 <td>Жиынтығы</td>
-<td colspan="2">2483</td>
-<td colspan="2">1001</td>
-<td>1177</td>
+<td>2858</td>
+<td>1195</td>
+<td>1358</td>
 <td>200</td>
 <td>105</td>
 </tr>
