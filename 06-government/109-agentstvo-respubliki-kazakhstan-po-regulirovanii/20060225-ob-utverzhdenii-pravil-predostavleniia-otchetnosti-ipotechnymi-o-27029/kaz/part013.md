@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27029/kaz/03.09.2010
+source: https://zan.gov.kz/client/#!/doc/27029/kaz/01.07.2011
 ---
 
 ## Заемдар бойынша мерзімі өткен берешек туралы есеп

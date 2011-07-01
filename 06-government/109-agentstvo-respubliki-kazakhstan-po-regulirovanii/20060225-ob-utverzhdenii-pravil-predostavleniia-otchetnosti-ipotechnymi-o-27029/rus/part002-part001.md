@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27029/rus/11.03.2011
+source: https://zan.gov.kz/client/#!/doc/27029/rus/01.07.2011
 ---
 
 Первый руководитель (на период его отсутствия – лицо, его
