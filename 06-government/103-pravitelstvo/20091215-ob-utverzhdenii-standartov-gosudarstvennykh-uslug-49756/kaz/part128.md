@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49756/kaz/28.05.2011
+source: https://zan.gov.kz/client/#!/doc/49756/kaz/18.07.2011
 ---
 
 ## Уәкілетті органдардың тізімі мен мекенжайлары
