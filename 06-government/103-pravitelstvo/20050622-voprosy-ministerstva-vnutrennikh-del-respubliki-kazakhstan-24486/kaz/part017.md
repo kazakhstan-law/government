@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/30.06.2011
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/26.07.2011
 ---
 
 ## Қазақстан Республикасы Үкiметiнiң күшi жойылған кейбiр шешiмдерiнiң тiзбесi
