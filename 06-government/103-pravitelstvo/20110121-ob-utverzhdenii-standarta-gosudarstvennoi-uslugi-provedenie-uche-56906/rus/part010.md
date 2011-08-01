@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/56906/rus/21.01.2011
+source: https://zan.gov.kz/client/#!/doc/56906/rus/01.08.2011
 ---
 
 ## Адреса местных исполнительных органов районов и городов
