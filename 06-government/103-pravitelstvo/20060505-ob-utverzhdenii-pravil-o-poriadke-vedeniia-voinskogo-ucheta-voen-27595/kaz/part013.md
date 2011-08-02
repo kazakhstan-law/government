@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27595/kaz/17.06.2010
+source: https://zan.gov.kz/client/#!/doc/27595/kaz/02.08.2011
 ---
 
 ## Әскерге шақыру учаскесіне тіркеуге шақырылатын әскер жасына дейінгілерге ЖАДЫНАМА
