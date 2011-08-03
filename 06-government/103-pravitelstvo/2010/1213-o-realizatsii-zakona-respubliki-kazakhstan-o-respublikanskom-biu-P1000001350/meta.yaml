@@ -99,12 +99,19 @@ versions:
   also_caused_by:
   - code: '59863'
     key: P1100000883
+- date: 2011-08-03
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '60015'
+    key: P1100000901
 version_date:
-  kaz: 2011-07-30
-  rus: 2011-07-30
+  kaz: 2011-08-03
+  rus: 2011-08-03
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/56192/kaz/30.07.2011
-  rus: https://zan.gov.kz/client/#!/doc/56192/rus/30.07.2011
+  kaz: https://zan.gov.kz/client/#!/doc/56192/kaz/03.08.2011
+  rus: https://zan.gov.kz/client/#!/doc/56192/rus/03.08.2011
 caused_by:
   code: '60015'
   key: P1100000901
