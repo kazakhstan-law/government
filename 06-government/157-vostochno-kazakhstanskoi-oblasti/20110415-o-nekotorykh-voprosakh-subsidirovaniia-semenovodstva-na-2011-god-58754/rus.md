@@ -1,5 +1,5 @@
 ---
-version_id: AI58754_1
+version_id: AI58754_3
 act_code: '58754'
 language: rus
 title: О некоторых вопросах субсидирования семеноводства на 2011 год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2011-04-15
-version_date: 2011-04-15
+version_date: 2011-08-11
 registry_number: '58754'
-source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
+caused_by:
+  code: '60219'
+  title: О внесении изменения в постановление от 15 апреля 2011 года № 67 "О некоторых вопросах субсидирования семеноводства на 2011 год"
+  link: https://zan.gov.kz/client/#!/doc/60219/rus
+source: https://zan.gov.kz/client/#!/doc/58754/rus/11.08.2011
 ---
 
 # О некоторых вопросах субсидирования семеноводства на 2011 год
@@ -143,6 +147,8 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 
 ## Объемы субсидий по городам и районам на реализованные семена семеноводческими хозяйствами на 2011 год
 
+> *Сноска. Приложение 2 в редакции постановления ВКО акимата от 11.08.2011 № 180 (вводится в действие через 10 дней после опубликования).*
+
 <table>
 <tr>
 <td>№ п/п</td>
@@ -151,16 +157,13 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 городов, районов
 </td>
 <td>Количество семеноводческих хозяйств</td>
-<td>
-Объемы субсидий,
-тысяч тенге
-</td>
+<td>Объемы субсидий, тыс. тенге</td>
 </tr>
 <tr>
 <td>1</td>
 <td>Семей</td>
-<td>1</td>
-<td>3580</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -190,19 +193,19 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 <td>6</td>
 <td>Бородулихинский</td>
 <td>4</td>
-<td>12220</td>
+<td>20381,6</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Глубоковский</td>
 <td>4</td>
-<td>9810</td>
+<td>1632</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Жарминский</td>
-<td>1</td>
-<td>745</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
@@ -225,8 +228,8 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 <tr>
 <td>12</td>
 <td>Кокпектинский</td>
-<td>2</td>
-<td>5595</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
@@ -244,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 <td>15</td>
 <td>Уланский</td>
 <td>4</td>
-<td>18650</td>
+<td>24876,4</td>
 </tr>
 <tr>
 <td>16</td>
@@ -256,12 +259,12 @@ source: https://zan.gov.kz/client/#!/doc/58754/rus/15.04.2011
 <td>17</td>
 <td>Шемонаихинский</td>
 <td>1</td>
-<td>300</td>
+<td>4010</td>
 </tr>
 <tr>
 <td></td>
 <td>По области</td>
-<td>17</td>
+<td>13</td>
 <td>50900</td>
 </tr>
 </table>

@@ -1,5 +1,5 @@
 ---
-version_id: AI58754_0
+version_id: AI58754_2
 act_code: '58754'
 language: kaz
 title: 2011 жылы тұқым шаруашылығын субсидиялаудың кейбір мәселелері туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2011-04-15
-version_date: 2011-04-15
+version_date: 2011-08-11
 registry_number: '58754'
-source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
+caused_by:
+  code: '60219'
+  title: '"2011 жылы тұқым шаруашылығын субсидиялаудың кейбір мәселелері туралы" 2011 жылғы 15 сәуірдегі № 67 қаулыға өзгеріс енгізу туралы'
+  link: https://zan.gov.kz/client/#!/doc/60219/kaz
+source: https://zan.gov.kz/client/#!/doc/58754/kaz/11.08.2011
 ---
 
 # 2011 жылы тұқым шаруашылығын субсидиялаудың кейбір мәселелері туралы
@@ -143,9 +147,11 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 
 ## Тұқым шаруашылықтары сатқан тұқымдарға берілетін субсидияның қалалар және аудандар бойынша 2011 жылға арналған көлемі
 
+> *Ескерту. 2-қосымша жаңа редакцияда - ШҚО әкімдігінің 2011.08.11 № 180 (жарияланғаннан кейін 10 күн өткеннен соң қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td>р/с №</td>
+<td>№ р/с</td>
 <td>Қалалар, аудандар атауы</td>
 <td>Тұқым шаруашылықтарының саны</td>
 <td>Субсидия көлемі, мың теңге</td>
@@ -153,8 +159,8 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 <tr>
 <td>1</td>
 <td>Семей</td>
-<td>1</td>
-<td>3580</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -184,19 +190,19 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 <td>6</td>
 <td>Бородулиха</td>
 <td>4</td>
-<td>12220</td>
+<td>20381,6</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Глубокое</td>
 <td>4</td>
-<td>9810</td>
+<td>1632</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Жарма</td>
-<td>1</td>
-<td>745</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
@@ -219,8 +225,8 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 <tr>
 <td>12</td>
 <td>Көкпекті</td>
-<td>2</td>
-<td>5595</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
@@ -238,7 +244,7 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 <td>15</td>
 <td>Ұлан</td>
 <td>4</td>
-<td>18650</td>
+<td>24876,4</td>
 </tr>
 <tr>
 <td>16</td>
@@ -250,12 +256,12 @@ source: https://zan.gov.kz/client/#!/doc/58754/kaz/15.04.2011
 <td>17</td>
 <td>Шемонаиха</td>
 <td>1</td>
-<td>300</td>
+<td>4010</td>
 </tr>
 <tr>
 <td></td>
 <td>Облыс бойынша</td>
-<td>17</td>
+<td>13</td>
 <td>50900</td>
 </tr>
 </table>
