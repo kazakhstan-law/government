@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57575/rus/04.03.2011
+source: https://zan.gov.kz/client/#!/doc/57575/rus/22.08.2011
 ---
 
 ## Список сельскохозяйственных товаропроизводителей на получение субсидии
