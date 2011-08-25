@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/39146/kaz/29.04.2011
+source: https://zan.gov.kz/client/#!/doc/39146/kaz/25.08.2011
 ---
 
 ## Қазақстан Республикасы Қаржы министрлігі туралы ереже 1. Жалпы ережелер
