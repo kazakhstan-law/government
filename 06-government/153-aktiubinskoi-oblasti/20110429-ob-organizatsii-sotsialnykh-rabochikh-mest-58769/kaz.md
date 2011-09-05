@@ -1,5 +1,5 @@
 ---
-version_id: '58769_181715'
+version_id: '58769_181724'
 act_code: '58769'
 language: kaz
 title: Әлеуметтік жұмыс орындарын ұйымдастыру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153006000001'
 approval_date: 2011-04-29
-version_date: 2011-04-29
+version_date: 2011-09-05
 registry_number: '58769'
-source: https://zan.gov.kz/client/#!/doc/58769/kaz/29.04.2011
+caused_by:
+  code: '60638'
+  title: Аудан әкімдігінің 2011 жылғы 29 сәуірдегі "Әлеуметтік жұмыс орындарын ұйымдастыру туралы" № 92 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/60638/kaz
+source: https://zan.gov.kz/client/#!/doc/58769/kaz/05.09.2011
 ---
 
 # Әлеуметтік жұмыс орындарын ұйымдастыру туралы

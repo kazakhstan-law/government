@@ -1,5 +1,5 @@
 ---
-version_id: '58769_181718'
+version_id: '58769_181725'
 act_code: '58769'
 language: rus
 title: Об организации социальных рабочих мест
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153006000001'
 approval_date: 2011-04-29
-version_date: 2011-04-29
+version_date: 2011-09-05
 registry_number: '58769'
-source: https://zan.gov.kz/client/#!/doc/58769/rus/29.04.2011
+caused_by:
+  code: '60638'
+  title: О внесении изменении в постановление районного акимата "Об организации социальных рабочих мест" № 92 от 29 апреля 2011 года
+  link: https://zan.gov.kz/client/#!/doc/60638/rus
+source: https://zan.gov.kz/client/#!/doc/58769/rus/05.09.2011
 ---
 
 # Об организации социальных рабочих мест
