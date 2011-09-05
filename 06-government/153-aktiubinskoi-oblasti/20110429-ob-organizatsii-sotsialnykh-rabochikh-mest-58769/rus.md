@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58769/rus/29.04.2011
+source: https://zan.gov.kz/client/#!/doc/58769/rus/05.09.2011
 ---
 
 # Об организации социальных рабочих мест

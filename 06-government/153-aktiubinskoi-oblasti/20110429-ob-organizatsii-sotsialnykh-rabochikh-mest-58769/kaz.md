@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58769/kaz/29.04.2011
+source: https://zan.gov.kz/client/#!/doc/58769/kaz/05.09.2011
 ---
 
 # Әлеуметтік жұмыс орындарын ұйымдастыру туралы
