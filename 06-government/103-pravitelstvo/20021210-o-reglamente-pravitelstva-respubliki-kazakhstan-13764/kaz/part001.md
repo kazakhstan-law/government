@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/30.07.2011
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/16.09.2011
 ---
 
 ## Қазақстан Республикасы Yкiметiнiң РЕГЛАМEHTI 1. Жалпы ережелер
