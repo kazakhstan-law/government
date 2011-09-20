@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/18058/kaz/02.10.2010
+source: https://zan.gov.kz/client/#!/doc/18058/kaz/20.09.2011
 ---
 
 # Қазақстан Республикасының дипломатиялық және қызметтік паспорттарының үлгілерін және Қазақстан Республикасының электрондық ақпарат тасымалдағыштары бар дипломаттық және қызметтік паспорттарының үлгілерін бекіту туралы
@@ -334,7 +334,7 @@ DIPLOMATIC PASSPORT»
 
 шет мемлекеттердің барлық құзыретті қызмет
 
-орындарынан дипломаттық паспорт иесінің
+органдарынан дипломаттық паспорт иесінің
 
 бөгетсіз жүріп-тұруын қамтамасыз
 
@@ -357,6 +357,8 @@ to give the bearer all lawful aid and
 protection in case of need.»
 
 деген жазу орналасқан.
+
+> *Ескерту. 7-тармаққа өзгерту енгізілді - ҚР Үкіметінің 2011.09.20 № 1079 Қаулысымен.*
 
 8\. Паспорттың 2-бетінде қазақ және ағылшын тілдерінде:
 
@@ -476,6 +478,8 @@ extreme temperatures or excessive moisture.
 
 деген жазу орналасқан.
 
+> *Ескерту. 13-тармаққа өзгерту енгізілді - ҚР Үкіметінің 2011.09.20 № 1079 Қаулысымен.*
+
 14\. Тоғыз әріптік-цифрлық нышандардан (2 әріптік нышан және жеті таңбалы цифрлық нөмір) тұратын паспорттың нөмірі 1-беттен бастап барлық беттерде лазерлік перфорация әдісімен басылып, паспорттың артқы форзацында аяқталады.
 
 15\. Паспорт беттерінің нөмірлері 4-беттен 35-бетті қоса алғанда, төменгі бұрыштарында орналасқан.
@@ -552,17 +556,19 @@ SERVICE PASSPORT»
 
 жан-жақты жәрдем көрсету сұралады.
 
-All complement authorities of foreign
+All competent authorities of foreign states
 
-states are requested to extend all
+are requested to extend all courtesies
 
-courtesies to the bearer of this passport,
+to the bearer of this passport, a citizen
 
-a citizen of the Republic of Kazakhstan,
+of the Republic of Kazakhstan,
 
 traveling abroad.»
 
 деген жазу орналасқан.
+
+> *Ескерту. 7-тармаққа өзгерту енгізілді - ҚР Үкіметінің 2011.09.20 № 1079 Қаулысымен.*
 
 8\. Паспорттың 2-бетінде қазақ және ағылшын тілдерінде:
 
@@ -660,17 +666,15 @@ the Republic of Kazakhstan»
 
 немесе шектен тыс ылғалдылықтан сақтаңыз.
 
-This service passport contains sensitive
+This service passport contains sensitive electronic
 
-electronic technology and should be handled
+technology and should be handled with the same care as
 
-with the same care as other electronic devices.
+other electronic devices. To ensure that it functions
 
-To ensure that it functions properly, pleasе
+properly, please do not bend, perforate or subject it to
 
-do not bend, perforate of subject it to
-
-extreme temperatures of excessive moisture.
+extreme temperatures or excessive moisture.
 
 Бұл қызметтік паспорт Қазақстан
 
@@ -681,6 +685,8 @@ extreme temperatures of excessive moisture.
 Сыртқы істер министрлігіне тапсырылады.»
 
 деген жазу орналасқан.
+
+> *Ескерту. 13-тармаққа өзгерту енгізілді - ҚР Үкіметінің 2011.09.20 № 1079 Қаулысымен.*
 
 14\. Тоғыз әріптік-цифрлық нышандардан (2 әріптік нышан және жеті таңбалы цифрлық нөмір) тұратын паспорттың нөмірі 1-беттен бастап барлық беттерде лазерлік перфорация әдісімен басылып, паспорттың артқы форзацында аяқталады.
 
