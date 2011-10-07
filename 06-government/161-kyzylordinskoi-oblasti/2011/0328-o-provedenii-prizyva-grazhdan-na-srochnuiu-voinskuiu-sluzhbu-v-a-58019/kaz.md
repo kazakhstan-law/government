@@ -60,6 +60,8 @@
 
 ## Облыстық шақыру комиссиясының құрамы
 
+> *Ескерту. 1-қосымшаға өзгерту енгізілді - Қызылорда облысы әкімдігінің 2011.10.07 N 152 Қаулысымен.*
+
 <table>
 <tr>
 <td>Саутбеков Қалиолла Нұрланұлы</td>
@@ -81,8 +83,8 @@
 <td>&quot;Қызылорда облысының қорғаныс істері жөніндегі департаменті&quot; мемлекеттік мекемесінің тәрбие, әлеуметтік және психологиялық жұмыстары бөлімінің аға әскери маманы - психолог (келісім бойынша);</td>
 </tr>
 <tr>
-<td>Ршауов Мыңділда Сағидуллаұлы</td>
-<td>&quot;Қызылорда облысының қорғаныс істері жөніндегі департаменті&quot; мемлекеттік мекемесі бастығының орынбасары (келісім бойынша);</td>
+<td>Теңізқұлов Нұрлан Ержанұлы</td>
+<td>&quot;Қызылорда облысының қорғаныс істері жөніндегі департаменті&quot; мемлекеттік мекемесінің заңгер - кеңесшісі (келісім бойынша);</td>
 </tr>
 <tr>
 <td>Ешмуратов Ербол Қуанышович</td>
@@ -103,790 +105,686 @@
 <table>
 <tr>
 <td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="56">СӘУІР</td>
+<td colspan="15">СӘУІР</td>
 </tr>
 <tr>
-<td colspan="56">өткізу күндері</td>
+<td colspan="15">өткізу күндері</td>
 </tr>
 <tr>
-<th colspan="3">11</th>
-<th colspan="3">12</th>
-<th colspan="3">13</th>
-<th colspan="3">14</th>
-<th colspan="2">15</th>
-<th colspan="2">18</th>
-<th colspan="3">19</th>
-<th colspan="2">20</th>
-<th colspan="2">21</th>
-<th colspan="2">22</th>
-<th colspan="3">25</th>
-<th colspan="3">26</th>
-<th colspan="3">27</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="2"></th>
-<th></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="2"></th>
-<th colspan="2"></th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
 </tr>
 <tr>
 <td>Арал ауданы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қазалы ауданы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Байқоңыр қаласы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қармақшы ауданы</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жалағаш ауданы</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдария ауданы</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қызылорда қаласы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелі ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жаңақорған ауданы</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="56">МАМЫР</td>
+<td colspan="20">МАМЫР</td>
 </tr>
 <tr>
-<td colspan="56">өткізу күндері</td>
+<td colspan="20">өткізу күндері</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="3">4</td>
+<td>3</td>
+<td>4</td>
 <td>5</td>
-<td colspan="2">6</td>
-<td colspan="3">10</td>
-<td colspan="2">11</td>
-<td colspan="2">12</td>
-<td colspan="3">13</td>
-<td colspan="2">16</td>
-<td colspan="2">17</td>
-<td colspan="2">18</td>
-<td colspan="3">19</td>
-<td colspan="3">20</td>
-<td colspan="3">23</td>
-<td colspan="3">24</td>
-<td colspan="3">25</td>
-<td colspan="2">26</td>
-<td colspan="3">27</td>
-<td colspan="3">30</td>
-<td colspan="3">31</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td></td>
+<td>6</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>30</td>
+<td>31</td>
 </tr>
 <tr>
 <td>Арал ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қазалы ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Байқоңыр қаласы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қармақшы ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
+<td></td>
 <td></td>
 <td>х</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жалағаш ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
+<td></td>
 <td></td>
 <td>х</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдария ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
+<td></td>
 <td></td>
 <td>х</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қызылорда қаласы</td>
 <td>х</td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелі ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жаңақорған ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="56">МАУСЫМ</td>
+<td colspan="22">МАУСЫМ</td>
 </tr>
 <tr>
-<td colspan="56">өткізу күндері</td>
+<td colspan="22">өткізу күндері</td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
+<th>2</th>
+<th>3</th>
 <th>6</th>
-<th colspan="3">7</th>
-<th colspan="2">8</th>
+<th>7</th>
+<th>8</th>
 <th>9</th>
-<th colspan="2">10</th>
-<th colspan="2">13</th>
-<th colspan="3">14</th>
-<th colspan="2">15</th>
-<th colspan="2">16</th>
-<th colspan="2">17</th>
-<th colspan="3">20</th>
-<th colspan="3">21</th>
-<th colspan="3">22</th>
-<th colspan="3">23</th>
-<th colspan="3">24</th>
-<th colspan="4">27</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="4">30</th>
-<th></th>
+<th>10</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
 </tr>
 <tr>
 <td>Арал ауданы</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қазалы ауданы</td>
 <td></td>
 <td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Байқоңыр қаласы</td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
 <td>х</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қармақшы ауданы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Жалағаш ауданы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
 <td></td>
 <td>х</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Сырдария ауданы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қызылорда қаласы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
 <td>х</td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелі ауданы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Жаңақорған ауданы</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td></td>
 <td></td>
 </tr>
 </table>
@@ -894,762 +792,697 @@
 <table>
 <tr>
 <td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="62">ҚАЗАН</td>
+<td colspan="16">ҚАЗАН</td>
 </tr>
 <tr>
-<td colspan="62">өткізу күндері</td>
+<td colspan="16">өткізу күндері</td>
 </tr>
 <tr>
-<th colspan="3">7</th>
-<th colspan="3">10</th>
-<th colspan="3">11</th>
-<th colspan="4">12</th>
-<th colspan="3">13</th>
-<th colspan="4">14</th>
-<th colspan="3">17</th>
-<th colspan="2">18</th>
-<th colspan="3">19</th>
-<th colspan="3">20</th>
-<th colspan="3">21</th>
-<th colspan="3">24</th>
-<th colspan="3">25</th>
-<th colspan="3">26</th>
-<th colspan="3">27</th>
-<th colspan="3">28</th>
-<th colspan="2"></th>
-<th colspan="2"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
+<th>7</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
 </tr>
 <tr>
 <td>Арал ауданы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қазалы ауданы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Байқоңыр қаласы</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қармақшы ауданы</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жалағаш ауданы</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдария ауданы</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Қызылорда қаласы</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелі ауданы</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жаңақорған ауданы</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="62">ҚАРАША</td>
+<td colspan="21">ҚАРАША</td>
 </tr>
 <tr>
-<td colspan="62">өткізу күндері</td>
+<td colspan="21">өткізу күндері</td>
 </tr>
 <tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th colspan="2">8</th>
-<th colspan="3">9</th>
-<th colspan="4">10</th>
-<th colspan="3">11</th>
-<th colspan="3">14</th>
-<th colspan="3">15</th>
-<th colspan="3">16</th>
-<th colspan="3">17</th>
-<th colspan="3">18</th>
-<th colspan="3">21</th>
-<th colspan="2">22</th>
-<th colspan="3">23</th>
-<th colspan="3">24</th>
-<th colspan="2">25</th>
-<th colspan="3">28</th>
-<th colspan="2">29</th>
-<th colspan="4">30</th>
-<th colspan="3"></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+</tr>
+<tr>
+<td>Арал ауданы</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+</tr>
+<tr>
+<td>Қазалы ауданы</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+</tr>
+<tr>
+<td>Байқоңыр қаласы</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Қармақшы ауданы</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жалағаш ауданы</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Сырдария ауданы</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Қызылорда қаласы</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Шиелі ауданы</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жаңақорған ауданы</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="3">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
+<td colspan="21">ЖЕЛТОҚСАН</td>
+</tr>
+<tr>
+<td colspan="21">өткізу күндері</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
 <th></th>
 </tr>
 <tr>
 <td>Арал ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қазалы ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Байқоңыр қаласы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қармақшы ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 <td></td>
 </tr>
 <tr>
 <td>Жалағаш ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдария ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Қызылорда қаласы</td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Шиелі ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Жаңақорған ауданы</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td rowspan="2">Қорғаныс істері жөніндегі бөлімдер (басқармалар)</td>
-<td colspan="62">ЖЕЛТОҚСАН</td>
-</tr>
-<tr>
-<td colspan="62">өткізу күндері</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="3">1</th>
-<th colspan="4">2</th>
-<th colspan="2">5</th>
-<th colspan="2">6</th>
-<th colspan="3">7</th>
-<th colspan="2">8</th>
-<th colspan="2">9</th>
-<th colspan="3">12</th>
-<th colspan="4">13</th>
-<th colspan="3">14</th>
-<th colspan="3">15</th>
-<th colspan="3">20</th>
-<th colspan="3">21</th>
-<th colspan="4">22</th>
-<th colspan="3">23</th>
-<th colspan="3">26</th>
-<th colspan="2">27</th>
-<th colspan="5">28</th>
-<th colspan="2">29</th>
-<th colspan="3">30</th>
-<th colspan="2"></th>
-</tr>
-<tr>
-<td colspan="2">Арал ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Қазалы ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Байқоңыр қаласы</td>
-<td>х</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Қармақшы ауданы</td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Жалағаш ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-</tr>
-<tr>
-<td colspan="2">Сырдария ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Қызылорда қаласы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Шиелі ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">Жаңақорған ауданы</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
