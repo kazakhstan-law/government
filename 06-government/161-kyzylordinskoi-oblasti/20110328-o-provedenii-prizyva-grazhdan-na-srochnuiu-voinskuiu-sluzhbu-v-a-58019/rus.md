@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/58019/rus/28.03.2011
+source: https://zan.gov.kz/client/#!/doc/58019/rus/07.10.2011
 ---
 
 # О проведении призыва граждан на срочную воинскую службу в апреле-июне и октябре-декабре 2011 года
@@ -12,7 +12,7 @@ source: https://zan.gov.kz/client/#!/doc/58019/rus/28.03.2011
 
 3. Акимам районов и города Кызылорды организовать и обеспечить проведение призыва граждан на срочную воинскую службу в апреле-июне и октябре-декабре 2011 года.
 
-4. Государственному учреждению "Управление культуры Кызылординской области" в дни торжественных проводов призывников организовать выступления художественной самодеятельности и творческих коллективов перед призывной молодҰжью, демонстрацию художественных и документальных фильмов на военно-патриотические темы в период призыва на областном сборном пункте при государственном учреждении "Департамент по делам обороны Кызылординской области".
+4. Государственному учреждению "Управление культуры Кызылординской области" в дни торжественных проводов призывников организовать выступления художественной самодеятельности и творческих коллективов перед призывной молодежью, демонстрацию художественных и документальных фильмов на военно-патриотические темы в период призыва на областном сборном пункте при государственном учреждении "Департамент по делам обороны Кызылординской области".
 
 5. Государственному учреждению "Управление здравоохранения Кызылординской области" создать в составе областной призывной комиссии областную медицинскую комиссию.
 
@@ -67,6 +67,8 @@ source: https://zan.gov.kz/client/#!/doc/58019/rus/28.03.2011
 
 ## Состав областной призывной комиссии
 
+> *Сноска. Приложение 1 с изменениями, внесенными постановлением Кызылординского областного акимата от 07.10.2011 года N 152*
+
 <table>
 <tr>
 <td>Саутбеков Калиолла Нурланович</td>
@@ -88,8 +90,8 @@ source: https://zan.gov.kz/client/#!/doc/58019/rus/28.03.2011
 <td>психолог - старший военный специалист отдела воспитательной, социальной и психологической работы государственного учреждения &quot;Департамент по делам обороны Кызылординской области&quot; (по согласованию);</td>
 </tr>
 <tr>
-<td>Ршауов Мындилда Сагидуллаевич</td>
-<td>заместитель начальника государственного учреждения &quot;Департамент по делам обороны Кызылординской области&quot; (по согласованию);</td>
+<td>Тенизкулова Нурлан Ержанович</td>
+<td>юрисконсульт государственного учреждения &quot;Департамент по делам обороны Кызылординской области&quot;(по согласованию);</td>
 </tr>
 <tr>
 <td>Ешмуратов Ербол Куанышович</td>
@@ -111,1522 +113,1384 @@ source: https://zan.gov.kz/client/#!/doc/58019/rus/28.03.2011
 <table>
 <tr>
 <td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="51">АПРЕЛЬ</td>
+<td colspan="15">АПРЕЛЬ</td>
 </tr>
 <tr>
-<td colspan="51">Дни проведения</td>
+<td colspan="15">Дни проведения</td>
 </tr>
 <tr>
-<th colspan="3">11</th>
-<th colspan="3">12</th>
-<th colspan="3">13</th>
-<th colspan="2">14</th>
-<th colspan="2">15</th>
-<th colspan="2">18</th>
-<th colspan="2">19</th>
-<th colspan="2">20</th>
-<th colspan="2">21</th>
-<th colspan="2">22</th>
-<th colspan="2">25</th>
-<th colspan="2">26</th>
-<th colspan="2">27</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th></th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
 </tr>
 <tr>
 <td>Аральского района</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Казалинского района</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>города Байконыр</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Кармакшинского района</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жалагашского района</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдарьинского района</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-</tr>
-<tr>
-<td>города.Кызылорда</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td>Шиелийского района</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td>Жанакорганского района</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="51">МАЙ</td>
-</tr>
-<tr>
-<td colspan="51">Дни проведения</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3">4</td>
-<td colspan="3">5</td>
-<td colspan="2">6</td>
-<td colspan="2">10</td>
-<td colspan="2">11</td>
-<td colspan="2">12</td>
-<td colspan="2">13</td>
-<td colspan="2">16</td>
-<td colspan="2">17</td>
-<td colspan="2">18</td>
-<td colspan="2">19</td>
-<td colspan="2">20</td>
-<td colspan="3">23</td>
-<td colspan="3">24</td>
-<td colspan="3">25</td>
-<td colspan="3">26</td>
-<td colspan="3">27</td>
-<td colspan="3">30</td>
-<td colspan="3">31</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Аральского района</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
-<td>Казалинского района</td>
+<td></td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
-<td>города Байконыр</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
-<td>Кармакшинского района</td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td>Жалагашского района</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
-</tr>
-<tr>
-<td>Сырдарьинского района</td>
+<td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td></td>
 </tr>
 <tr>
 <td>города.Кызылорда</td>
 <td>х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелийского района</td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жанакорганского района</td>
-<td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td></td>
-</tr>
-<tr>
-<td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="51">ИЮНЬ</td>
-</tr>
-<tr>
-<td colspan="51">Дни проведения</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th colspan="3">3</th>
-<th>6</th>
-<th>7</th>
-<th colspan="2">8</th>
-<th colspan="2">9</th>
-<th colspan="2">10</th>
-<th colspan="2">13</th>
-<th colspan="2">14</th>
-<th colspan="2">15</th>
-<th colspan="2">16</th>
-<th colspan="2">17</th>
-<th colspan="2">20</th>
-<th colspan="3">21</th>
-<th colspan="3">22</th>
-<th colspan="3">23</th>
-<th colspan="3">24</th>
-<th colspan="3">27</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="2">30</th>
-</tr>
-<tr>
-<td>Аральского района</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Казалинского района</td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>города Байконыр</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Кармакшинского района</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td>х</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жалагашского района</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Сырдарьинского района</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
 <td></td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>города.Кызылорда</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2">х</td>
-</tr>
-<tr>
-<td>Шиелийского района</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>Жанакорганского района</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>х</td>
+<td>х</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="58">ОКТЯБРЬ</td>
+<td colspan="20">МАЙ</td>
 </tr>
 <tr>
-<td colspan="58">Дни проведения</td>
+<td colspan="20">Дни проведения</td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>30</td>
+<td>31</td>
+</tr>
+<tr>
+<td>Аральского района</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Казалинского района</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>города Байконыр</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Кармакшинского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Жалагашского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Сырдарьинского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>города.Кызылорда</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Шиелийского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Жанакорганского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="3">отделы (управления) по делам обороны</td>
+<td colspan="22">ИЮНЬ</td>
+</tr>
+<tr>
+<td colspan="22">Дни проведения</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
+</tr>
+<tr>
+<td>Аральского района</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Казалинского района</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>города Байконыр</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Кармакшинского района</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жалагашского района</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Сырдарьинского района</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>города.Кызылорда</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+</tr>
+<tr>
+<td>Шиелийского района</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Жанакорганского района</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="3">отделы (управления) по делам обороны</td>
+<td colspan="16">ОКТЯБРЬ</td>
+</tr>
+<tr>
+<td colspan="16">Дни проведения</td>
 </tr>
 <tr>
 <th>7</th>
-<th colspan="2">10</th>
-<th colspan="3">11</th>
-<th colspan="3">12</th>
-<th colspan="4">13</th>
-<th colspan="3">14</th>
-<th colspan="3">17</th>
-<th colspan="3">18</th>
-<th colspan="3">19</th>
-<th colspan="3">20</th>
-<th colspan="3">21</th>
-<th colspan="3">24</th>
-<th colspan="3">25</th>
-<th colspan="3">26</th>
-<th colspan="3">27</th>
-<th colspan="3">28</th>
-<th colspan="3"></th>
-<th colspan="3"></th>
-<th></th>
-<th colspan="4"></th>
-<th></th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>17</th>
+<th>18</th>
+<th>19</th>
+<th>20</th>
+<th>21</th>
+<th>24</th>
+<th>25</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
 </tr>
 <tr>
 <td>Аральского района</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
+<td>х</td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Казалинского района</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
+<td>х</td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>города Байконыр</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
+<td>х</td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Кармакшинского района</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жалагашского района</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Сырдарьинского района</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>города Кызылорда</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
 </tr>
 <tr>
 <td>Шиелийского района</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>Жанакорганского района</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
 <td></td>
-<td colspan="4"></td>
 <td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="58">НОЯБРЬ</td>
+<td colspan="21">НОЯБРЬ</td>
 </tr>
 <tr>
-<td colspan="58">Дни проведения</td>
+<td colspan="21">Дни проведения</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="2">3</th>
-<th colspan="3">4</th>
-<th colspan="2">8</th>
-<th colspan="2">9</th>
-<th colspan="4">10</th>
-<th colspan="3">11</th>
-<th colspan="3">14</th>
-<th colspan="3">15</th>
-<th colspan="3">16</th>
-<th colspan="3">17</th>
-<th colspan="3">18</th>
-<th colspan="3">21</th>
-<th colspan="3">22</th>
-<th colspan="3">23</th>
-<th colspan="3">24</th>
-<th colspan="3">25</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="3">30</th>
-<th></th>
+<th>3</th>
+<th>4</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>18</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>24</th>
+<th>25</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
 </tr>
 <tr>
 <td>Аральского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 <td></td>
 </tr>
 <tr>
 <td>Казалинского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
+<td>х</td>
 <td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
 </tr>
 <tr>
 <td>города Байконыр</td>
 <td>х</td>
 <td></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Кармакшинского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Жалагашского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Сырдарьинского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>города Кызылорда</td>
 <td>х</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2">х</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Шиелийского района</td>
 <td>х</td>
 <td>х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Жанакорганского района</td>
 <td>х</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="4">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td>х</td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
 <td></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td rowspan="3">отделы (управления) по делам обороны</td>
-<td colspan="58">ДЕКАБРЬ</td>
+<td colspan="21">ДЕКАБРЬ</td>
 </tr>
 <tr>
-<td colspan="58">Дни проведения</td>
+<td colspan="21">Дни проведения</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
-<th colspan="3">5</th>
-<th colspan="3">6</th>
-<th colspan="2">7</th>
-<th colspan="2">8</th>
-<th colspan="2">9</th>
-<th colspan="3">12</th>
-<th colspan="3">13</th>
-<th colspan="3">14</th>
-<th colspan="3">15</th>
-<th colspan="3">20</th>
-<th colspan="3">21</th>
-<th colspan="3">22</th>
-<th colspan="3">23</th>
-<th colspan="3">26</th>
-<th colspan="3">27</th>
-<th colspan="3">28</th>
-<th colspan="3">29</th>
-<th colspan="5">30</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>20</th>
+<th>21</th>
+<th>22</th>
+<th>23</th>
+<th>26</th>
+<th>27</th>
+<th>28</th>
+<th>29</th>
+<th>30</th>
 <th></th>
-<th colspan="2"></th>
 </tr>
 <tr>
 <td>Аральского района</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Казалинского района</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>города Байконыр</td>
 <td>х</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Кармакшинского района</td>
 <td></td>
 <td>х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5">х</td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
 </tr>
 <tr>
 <td>Жалагашского района</td>
 <td></td>
 <td></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
+<td>х</td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Сырдарьинского района</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>города Кызылорда</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Шиелийского района</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>Жанакорганского района</td>
 <td></td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">х</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
 <td></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>х</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
