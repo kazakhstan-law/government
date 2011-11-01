@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/06.10.2011
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/01.11.2011
 ---
 
 ## Қазақстан Республикасы Әдiлет министрлігінің Тiркеу қызметi комитетiнiң құрылымы
