@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2011-11-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '111366'
+    key: G11ZH00269A
 version_date:
-  kaz: 2011-04-04
-  rus: 2011-04-04
+  kaz: 2011-11-11
+  rus: 2011-11-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/58465/kaz/04.04.2011
-  rus: https://zan.gov.kz/client/#!/doc/58465/rus/04.04.2011
+  kaz: https://zan.gov.kz/client/#!/doc/58465/kaz/11.11.2011
+  rus: https://zan.gov.kz/client/#!/doc/58465/rus/11.11.2011
+caused_by:
+  code: '111366'
+  key: G11ZH00269A
+  requisite: Постановление акимата Казталовского района Западно-Казахстанской области от 11 ноября 2011 года № 269
+  title:
+    rus: О признании утратившим силу некоторых постановлений акимата района
+    kaz: Аудан әкімдігінің кейбір қаулылардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/111366/rus
