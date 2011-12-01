@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58470/kaz/07.04.2011
+source: https://zan.gov.kz/client/#!/doc/58470/kaz/01.12.2011
 ---
 
 ## Алматы қаласының қалалық және аудандық әкімдіктері

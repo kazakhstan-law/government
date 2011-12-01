@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61339/rus/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/61339/rus/01.12.2011
 ---
 
 ## 8. Управление организацией стационарного типа

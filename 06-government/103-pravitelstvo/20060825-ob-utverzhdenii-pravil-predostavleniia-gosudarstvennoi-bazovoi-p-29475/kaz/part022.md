@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/29475/kaz/26.10.2010
+source: https://zan.gov.kz/client/#!/doc/29475/kaz/01.12.2011
 ---
 
 ## Төлеуші ұйымның БСН-і мен орналасқан жері _________
