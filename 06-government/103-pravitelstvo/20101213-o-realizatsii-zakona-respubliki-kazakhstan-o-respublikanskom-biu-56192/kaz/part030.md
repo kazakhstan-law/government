@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/56192/kaz/25.10.2011
+source: https://zan.gov.kz/client/#!/doc/56192/kaz/13.12.2011
 ---
 
 ## Жұмыспен қамту 2020 бағдарламасы шеңберінде іс-шараларды жүзеге асыру сомаларын бөлу
