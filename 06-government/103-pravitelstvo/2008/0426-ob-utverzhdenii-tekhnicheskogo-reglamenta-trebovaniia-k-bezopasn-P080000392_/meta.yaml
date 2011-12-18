@@ -24,12 +24,19 @@ versions:
   cause:
     code: '58740'
     key: P1100000451
+- date: 2011-12-18
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '58740'
+    key: P1100000451
 version_date:
-  kaz: 2011-04-28
-  rus: 2011-04-28
+  kaz: 2011-12-18
+  rus: 2011-12-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/39197/kaz/28.04.2011
-  rus: https://zan.gov.kz/client/#!/doc/39197/rus/28.04.2011
+  kaz: https://zan.gov.kz/client/#!/doc/39197/kaz/18.12.2011
+  rus: https://zan.gov.kz/client/#!/doc/39197/rus/18.12.2011
 caused_by:
   code: '58740'
   key: P1100000451
