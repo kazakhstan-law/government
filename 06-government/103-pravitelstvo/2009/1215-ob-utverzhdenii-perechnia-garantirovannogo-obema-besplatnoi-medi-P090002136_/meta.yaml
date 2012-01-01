@@ -24,12 +24,19 @@ versions:
   cause:
     code: '56039'
     key: P1000001363
+- date: 2012-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '56039'
+    key: P1000001363
 version_date:
-  kaz: 2010-12-15
-  rus: 2010-12-15
+  kaz: 2012-01-01
+  rus: 2012-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/49374/kaz/15.12.2010
-  rus: https://zan.gov.kz/client/#!/doc/49374/rus/15.12.2010
+  kaz: https://zan.gov.kz/client/#!/doc/49374/kaz/01.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/49374/rus/01.01.2012
 caused_by:
   code: '56039'
   key: P1000001363
