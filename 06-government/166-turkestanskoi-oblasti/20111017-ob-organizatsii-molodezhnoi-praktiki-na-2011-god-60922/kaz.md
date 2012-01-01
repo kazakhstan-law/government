@@ -1,5 +1,5 @@
 ---
-version_id: AI60922_0
+version_id: AI60922_2
 act_code: '60922'
 language: kaz
 title: 2011 жылы жастар практикасын ұйымдастыру туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166005000001'
 approval_date: 2011-10-17
-version_date: 2011-10-17
+version_date: 2012-01-01
 registry_number: '60922'
-source: https://zan.gov.kz/client/#!/doc/60922/kaz/17.10.2011
+source: https://zan.gov.kz/client/#!/doc/60922/kaz
 ---
 
 # 2011 жылы жастар практикасын ұйымдастыру туралы
@@ -25,7 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/60922/kaz/17.10.2011
 
 3. Осы қаулы алғаш ресми жарияланған күннен бастап қолданысқа енгізіледі.
 
-Аудан әкімі С.Тұрбеков
+**Аудан әкімі**
+
+**С.Тұрбеков**
 
 > *Мақтарал ауданы әкімдігінің*  
 > *2011 жылғы «17» қазандағы*  
