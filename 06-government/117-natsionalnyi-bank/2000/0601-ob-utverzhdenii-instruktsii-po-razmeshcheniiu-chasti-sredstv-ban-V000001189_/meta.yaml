@@ -86,12 +86,19 @@ versions:
   cause:
     code: '58307'
     key: V1100006866
+- date: 2012-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '58307'
+    key: V1100006866
 version_date:
-  kaz: 2011-02-28
-  rus: 2011-02-28
+  kaz: 2012-01-01
+  rus: 2012-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/6421/kaz/28.02.2011
-  rus: https://zan.gov.kz/client/#!/doc/6421/rus/28.02.2011
+  kaz: https://zan.gov.kz/client/#!/doc/6421/kaz/01.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/6421/rus/01.01.2012
 caused_by:
   code: '58307'
   key: V1100006866
