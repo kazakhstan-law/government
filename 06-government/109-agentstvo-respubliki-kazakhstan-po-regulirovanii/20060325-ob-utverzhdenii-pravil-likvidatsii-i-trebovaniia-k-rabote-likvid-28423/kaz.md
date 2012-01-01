@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/28423/kaz/27.12.2010
+source: https://zan.gov.kz/client/#!/doc/28423/kaz/01.01.2012
 ---
 
 # Сақтандыру (қайта сақтандыру) ұйымдарын мәжбүрлеп тарату ережесiн бекiту туралы

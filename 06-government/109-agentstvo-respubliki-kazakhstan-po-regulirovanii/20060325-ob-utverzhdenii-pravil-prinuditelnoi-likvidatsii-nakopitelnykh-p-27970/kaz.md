@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/27970/kaz/26.01.2009
+source: https://zan.gov.kz/client/#!/doc/27970/kaz/01.01.2012
 ---
 
 # Жинақтаушы зейнетақы қорларын мәжбүрлеп тарату ережесiн бекiту туралы
