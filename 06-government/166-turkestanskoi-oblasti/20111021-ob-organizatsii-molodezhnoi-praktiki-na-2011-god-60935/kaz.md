@@ -1,5 +1,5 @@
 ---
-version_id: AI60935_0
+version_id: AI60935_2
 act_code: '60935'
 language: kaz
 title: 2011 жылға жастар практикасын ұйымдастыру туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166007000001'
 approval_date: 2011-10-21
-version_date: 2011-10-21
+version_date: 2012-01-05
 registry_number: '60935'
-source: https://zan.gov.kz/client/#!/doc/60935/kaz/21.10.2011
+source: https://zan.gov.kz/client/#!/doc/60935/kaz
 ---
 
 # 2011 жылға жастар практикасын ұйымдастыру туралы
@@ -25,7 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/60935/kaz/21.10.2011
 
 3. Осы қаулы алғаш ресми жарияланған күннен бастап қолданысқа енгізіледі.
 
-Аудан әкімі Б.Сыздықов
+**Аудан әкімі**
+
+**Б.Сыздықов**
 
 > *Отырар ауданы әкімдігінің*  
 > *«21» 10 2011 жылғы*  
