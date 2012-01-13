@@ -1,5 +1,5 @@
 ---
-version_id: AI60907_1
+version_id: AI60907_3
 act_code: '60907'
 language: rus
 title: Об организации молодежной практики на 2011 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166004000001'
 approval_date: 2011-10-05
-version_date: 2011-10-05
+version_date: 2012-01-13
 registry_number: '60907'
-source: https://zan.gov.kz/client/#!/doc/60907/rus/05.10.2011
+source: https://zan.gov.kz/client/#!/doc/60907/rus
 ---
 
 # Об организации молодежной практики на 2011 год
@@ -25,7 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/60907/rus/05.10.2011
 
 3. Настоящее постановление вводится в действие со дня его первого официального опубликования.
 
-Аким района Алиев Т.С.
+**Аким района**
+
+**Алиев Т.С.**
 
 > *Утвержден*  
 > *постановлением акимата*  
