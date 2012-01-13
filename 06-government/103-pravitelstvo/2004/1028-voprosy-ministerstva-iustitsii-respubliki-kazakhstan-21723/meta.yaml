@@ -12,15 +12,15 @@ approved_on: 2004-10-28
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2011-11-01
-  rus: 2011-11-01
+  kaz: 2012-01-13
+  rus: 2012-01-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21723/kaz/01.11.2011
-  rus: https://zan.gov.kz/client/#!/doc/21723/rus/01.11.2011
+  kaz: https://zan.gov.kz/client/#!/doc/21723/kaz/13.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/21723/rus/13.01.2012
 caused_by:
-  code: '61081'
-  requisite: Постановление Правительства Республики Казахстан от 1 ноября 2011 года № 1264
+  code: '63506'
+  requisite: Постановление Правительства Республики Казахстан от 13 января 2012 года № 34
   title:
     rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/61081/rus
+  link: https://zan.gov.kz/client/#!/doc/63506/rus
