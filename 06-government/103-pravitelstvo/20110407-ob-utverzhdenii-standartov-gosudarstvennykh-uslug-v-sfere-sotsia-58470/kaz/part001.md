@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58470/kaz/01.12.2011
+source: https://zan.gov.kz/client/#!/doc/58470/kaz/16.01.2012
 ---
 
 ## «Жұмыссыз азаматтарды тiркеу және есепке қою» мемлекеттік қызмет стандарты

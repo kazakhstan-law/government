@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58470/rus/01.12.2011
+source: https://zan.gov.kz/client/#!/doc/58470/rus/16.01.2012
 ---
 
 ## Районные, городские отделы занятости и социальных программ Акмолинской области
