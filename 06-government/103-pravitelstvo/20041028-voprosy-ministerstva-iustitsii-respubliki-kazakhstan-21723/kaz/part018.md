@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/13.01.2012
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/16.01.2012
 ---
 
 ## 2. Мемлекеттiк мекемелер
