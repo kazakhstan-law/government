@@ -52,12 +52,19 @@ versions:
   cause:
     code: '59613'
     key: P1100000751
+- date: 2012-01-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '59613'
+    key: P1100000751
 version_date:
-  kaz: 2011-07-01
-  rus: 2011-07-01
+  kaz: 2012-01-22
+  rus: 2012-01-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/48274/kaz/01.07.2011
-  rus: https://zan.gov.kz/client/#!/doc/48274/rus/01.07.2011
+  kaz: https://zan.gov.kz/client/#!/doc/48274/kaz/22.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/48274/rus/22.01.2012
 caused_by:
   code: '59613'
   key: P1100000751
