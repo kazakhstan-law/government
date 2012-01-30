@@ -37,12 +37,19 @@ versions:
   cause:
     code: '61468'
     key: P1100001352
+- date: 2012-01-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '61468'
+    key: P1100001352
 version_date:
-  kaz: 2011-11-17
-  rus: 2011-11-17
+  kaz: 2012-01-30
+  rus: 2012-01-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/34092/kaz/17.11.2011
-  rus: https://zan.gov.kz/client/#!/doc/34092/rus/17.11.2011
+  kaz: https://zan.gov.kz/client/#!/doc/34092/kaz/30.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/34092/rus/30.01.2012
 caused_by:
   code: '61468'
   key: P1100001352
