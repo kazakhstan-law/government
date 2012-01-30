@@ -32,12 +32,19 @@ versions:
   cause:
     code: '62211'
     key: P1100001585
+- date: 2012-01-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '62211'
+    key: P1100001585
 version_date:
-  kaz: 2011-12-23
-  rus: 2011-12-23
+  kaz: 2012-01-30
+  rus: 2012-01-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/34843/kaz/23.12.2011
-  rus: https://zan.gov.kz/client/#!/doc/34843/rus/23.12.2011
+  kaz: https://zan.gov.kz/client/#!/doc/34843/kaz/30.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/34843/rus/30.01.2012
 caused_by:
   code: '62211'
   key: P1100001585
