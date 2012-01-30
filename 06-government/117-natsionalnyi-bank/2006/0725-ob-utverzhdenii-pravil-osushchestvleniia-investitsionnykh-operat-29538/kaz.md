@@ -102,7 +102,7 @@
 
     Merrill Lynch U.S. Treasuries, 1-5 Yrs (GVQ0) - 30 (отыз) пайыз;
 
-    «Merrill Lynch EMU Direct Governments, AAA Rated, 1-5 Yrs (EG1V) - 35 (отыз бес) пайыз;
+    Merrill Lynch 1-5 Year All Euro Government Index, DE, FR, NL, AT, LU, FI (EVDF) - 30 (отыз) пайыз;
 
     Merrill Lynch U.K. Gilts, 1-5 Yrs (GVL0) - 10 (он) пайыз;
 
@@ -112,11 +112,15 @@
 
     Merrill Lynch Canadian Governments, 1-5 Yrs (GVC0) - 5 (бес) пайыз;
 
-    Merrill Lynch South Korean Government Index, 1-5 Yrs (GSKV) - 5 (бес) пайыз.
+    Merrill Lynch South Korean Government Index, 1-5 Yrs (GSKV) - 5 (бес) пайыз;
+
+    Merrill Lynch Hong Kong Government Index, 1-5 Yrs (GVHK) - 3 (үш) пайыз;
+
+    Merrill Lynch Singapore Government Index, 1-5 Yrs (GVSP) - 2 (екі) пайыз.
 
     Осы индексте эталондық бөлуге қайтып келу күнтізбелік тоқсанның соңғы жұмыс күні жүргізіледі. Индекстегі бағалы қағаздар құрамы нарықтық капиталдандыру негізінде ай сайын ауысады. Кірістілік және тәуекел көрсеткіштері күн сайын есептеледі.
 
-    > *Ескерту. 12-тармақ жаңа редакцияда - ҚР Ұлттық Банкі Басқармасының 2011.09.30 N 122 (қолданысқа енгізілу тәртібін 2-тармақтан қараңыз), 2011.10.28 № 160 (2-тармақты қараңыз) Қаулысымен.*
+    > *Ескерту. 12-тармақ жаңа редакцияда - ҚР Ұлттық Банкі Басқармасының 2012.01.30 N 122 (қолданысқа енгізілу тәртібін 2-тармақтан қараңыз) Қаулысымен.*
 
 <a id="p13"></a>
 
