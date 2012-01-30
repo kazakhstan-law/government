@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21951/kaz/29.12.2011
+source: https://zan.gov.kz/client/#!/doc/21951/kaz/30.01.2012
 ---
 
 ## 3. Министрліктің қызметін ұйымдастыру
