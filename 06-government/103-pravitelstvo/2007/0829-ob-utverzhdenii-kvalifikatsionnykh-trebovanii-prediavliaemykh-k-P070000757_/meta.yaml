@@ -30,12 +30,19 @@ versions:
   cause:
     code: '62611'
     key: P1100001677
+- date: 2012-01-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '62611'
+    key: P1100001677
 version_date:
-  kaz: 2011-12-30
-  rus: 2011-12-30
+  kaz: 2012-01-30
+  rus: 2012-01-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/34896/kaz/30.12.2011
-  rus: https://zan.gov.kz/client/#!/doc/34896/rus/30.12.2011
+  kaz: https://zan.gov.kz/client/#!/doc/34896/kaz/30.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/34896/rus/30.01.2012
 caused_by:
   code: '62611'
   key: P1100001677
