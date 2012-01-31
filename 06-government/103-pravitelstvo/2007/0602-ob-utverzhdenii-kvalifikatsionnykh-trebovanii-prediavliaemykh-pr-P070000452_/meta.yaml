@@ -54,12 +54,19 @@ versions:
   cause:
     code: '61712'
     key: P1100001426
+- date: 2012-01-31
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '61712'
+    key: P1100001426
 version_date:
-  kaz: 2011-12-01
-  rus: 2011-12-01
+  kaz: 2012-01-31
+  rus: 2012-01-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/33498/kaz/01.12.2011
-  rus: https://zan.gov.kz/client/#!/doc/33498/rus/01.12.2011
+  kaz: https://zan.gov.kz/client/#!/doc/33498/kaz/31.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/33498/rus/31.01.2012
 caused_by:
   code: '61712'
   key: P1100001426
