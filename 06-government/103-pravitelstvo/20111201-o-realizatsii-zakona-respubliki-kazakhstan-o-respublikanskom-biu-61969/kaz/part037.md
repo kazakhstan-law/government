@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61969/kaz/01.12.2011
+source: https://zan.gov.kz/client/#!/doc/61969/kaz/20.02.2012
 ---
 
 ## 2012 жылға арналған мемлекеттік тапсырмалардың тізбесі
