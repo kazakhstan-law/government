@@ -4163,7 +4163,7 @@
 <td></td>
 </tr>
 <tr>
-<td>Анықтама үшiн: &quot;Керi &quot;РЕПО&quot; операциялары</td>
+<td>&quot;Керi &quot;РЕПО&quot; операциялары</td>
 <td></td>
 <td></td>
 <td></td>
