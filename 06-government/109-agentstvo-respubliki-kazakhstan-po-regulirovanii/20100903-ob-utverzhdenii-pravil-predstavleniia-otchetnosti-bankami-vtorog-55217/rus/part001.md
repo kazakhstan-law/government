@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/55217/rus/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/55217/rus/24.02.2012
 ---
 
 ## Правила представления отчетности банками второго уровня Республики Казахстан

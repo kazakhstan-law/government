@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55217/kaz/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/55217/kaz/24.02.2012
 ---
 
 ## _________________________________________ (банк атауы)
@@ -4166,7 +4166,7 @@ source: https://zan.gov.kz/client/#!/doc/55217/kaz/28.10.2011
 <td></td>
 </tr>
 <tr>
-<td>Анықтама үшiн: &quot;Керi &quot;РЕПО&quot; операциялары</td>
+<td>&quot;Керi &quot;РЕПО&quot; операциялары</td>
 <td></td>
 <td></td>
 <td></td>
