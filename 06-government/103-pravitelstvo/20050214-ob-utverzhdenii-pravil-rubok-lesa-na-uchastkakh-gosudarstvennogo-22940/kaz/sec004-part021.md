@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22940/kaz/14.02.2005
+source: https://zan.gov.kz/client/#!/doc/22940/kaz/07.03.2012
 ---
 
 ## Республиканың әкiмшiлiк облыстары шегiнде орман шаруашылығы аудандары бойынша орман мекемелерiнiң тiзбесi
