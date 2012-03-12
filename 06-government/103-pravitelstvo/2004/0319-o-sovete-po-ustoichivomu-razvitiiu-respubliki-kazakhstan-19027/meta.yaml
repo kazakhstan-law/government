@@ -11,10 +11,10 @@ approved_on: 2004-03-19
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-02-02
-  rus: 2012-02-02
+  kaz: 2012-03-12
+  rus: 2012-03-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/19027/kaz/02.02.2012
-  rus: https://zan.gov.kz/client/#!/doc/19027/rus/02.02.2012
+  kaz: https://zan.gov.kz/client/#!/doc/19027/kaz/12.03.2012
+  rus: https://zan.gov.kz/client/#!/doc/19027/rus/12.03.2012
 caused_by:
-  code: '63241'
+  code: '63954'
