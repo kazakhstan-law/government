@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27029/kaz/28.10.2011
+source: https://zan.gov.kz/client/#!/doc/27029/kaz/26.03.2012
 ---
 
 ## 2. Баланс шоттарындағы кірістер мен шығыстардың қалдықтары туралы есеп
