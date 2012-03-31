@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/11.03.2012
+source: https://zan.gov.kz/client/#!/doc/21951/rus/31.03.2012
 ---
 
 ## ПОЛОЖЕНИЕ о Министерстве индустрии и новых технологий Республики Казахстан
