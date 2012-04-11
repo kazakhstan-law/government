@@ -11,8 +11,15 @@ approved_on: 2010-09-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-09-20
-  rus: 2010-09-20
+  kaz: 2012-04-11
+  rus: 2012-04-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/54548/kaz/20.09.2010
-  rus: https://zan.gov.kz/client/#!/doc/54548/rus/20.09.2010
+  kaz: https://zan.gov.kz/client/#!/doc/54548/kaz/11.04.2012
+  rus: https://zan.gov.kz/client/#!/doc/54548/rus/11.04.2012
+caused_by:
+  code: '64508'
+  requisite: Постановление Правительства Республики Казахстан от 11 апреля 2012 года № 441
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/64508/rus
