@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/44481/rus/26.03.2012
+source: https://zan.gov.kz/client/#!/doc/44481/rus/16.04.2012
 ---
 
 ## Индивидуальный план финансирования государственного учреждения по обязательствам
