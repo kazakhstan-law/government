@@ -16,9 +16,10 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2012-05-21
+  languages:
+  - kaz
 version_date:
-  kaz: 2012-01-27
-  rus: 2012-01-27
+  kaz: 2012-05-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/63605/kaz/27.01.2012
-  rus: https://zan.gov.kz/client/#!/doc/63605/rus/27.01.2012
+  kaz: https://zan.gov.kz/client/#!/doc/63605/kaz/21.05.2012
