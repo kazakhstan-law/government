@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30411/rus/27.11.2006
+source: https://zan.gov.kz/client/#!/doc/30411/rus/28.05.2012
 ---
 
 ## 5. Нормы снабжения ветеринарным имуществом для лабораторно-диагностических работ
@@ -1310,7 +1310,7 @@ N 100
 <td>-</td>
 </tr>
 <tr>
-<th colspan="9">Реактивы</th>
+<th>Реактивы</th>
 </tr>
 <tr>
 <td>82</td>
