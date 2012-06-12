@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/63299/kaz/05.01.2012
+source: https://zan.gov.kz/client/#!/doc/63299/kaz/12.06.2012
 ---
 
 ## «Жұмыссыз азаматтарды тіркеу және есепке қою» мемлекеттік қызмет регламенті
