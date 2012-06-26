@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/27.04.2012
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/26.06.2012
 ---
 
 # Қазақстан Республикасы Yкiметiнiң Регламентi туралы
