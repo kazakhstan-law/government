@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/37001/rus/21.06.2012
+source: https://zan.gov.kz/client/#!/doc/37001/rus/28.07.2012
 ---
 
 ## Изменения, которые вносятся в некоторые решения Правительства Республики Казахстан
