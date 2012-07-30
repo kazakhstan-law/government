@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/40544/kaz/07.06.2010
+source: https://zan.gov.kz/client/#!/doc/40544/kaz/30.07.2012
 ---
 
 ## Осы Техникалық регламенттің мақсаттары үшін қолданылатын БҰҰ ЕЭК ережелерінің тізбесі
