@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21722/rus/15.07.2011
+source: https://zan.gov.kz/client/#!/doc/21722/rus/03.08.2012
 ---
 
 # Вопросы Министерства по чрезвычайным ситуациям Республики Казахстан
