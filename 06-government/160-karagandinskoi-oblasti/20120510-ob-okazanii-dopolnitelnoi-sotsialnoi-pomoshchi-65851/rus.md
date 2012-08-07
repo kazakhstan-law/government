@@ -1,5 +1,5 @@
 ---
-version_id: AI65851_1
+version_id: AI65851_3
 act_code: '65851'
 language: rus
 title: Об оказании дополнительной социальной помощи
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '160018000001'
 approval_date: 2012-05-10
-version_date: 2012-05-10
+version_date: 2012-08-07
 registry_number: '65851'
-source: https://zan.gov.kz/client/#!/doc/65851/rus/10.05.2012
+source: https://zan.gov.kz/client/#!/doc/65851/rus/07.08.2012
 ---
 
 # Об оказании дополнительной социальной помощи
