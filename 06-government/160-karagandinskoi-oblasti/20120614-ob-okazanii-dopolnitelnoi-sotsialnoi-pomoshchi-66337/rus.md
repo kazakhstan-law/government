@@ -1,5 +1,5 @@
 ---
-version_id: AI66337_1
+version_id: AI66337_3
 act_code: '66337'
 language: rus
 title: Об оказании дополнительной социальной помощи
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '160003000001'
 approval_date: 2012-06-14
-version_date: 2012-06-14
+version_date: 2012-08-23
 registry_number: '66337'
-source: https://zan.gov.kz/client/#!/doc/66337/rus/14.06.2012
+source: https://zan.gov.kz/client/#!/doc/66337/rus/23.08.2012
 ---
 
 # Об оказании дополнительной социальной помощи
