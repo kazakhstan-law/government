@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/66337/rus/14.06.2012
+source: https://zan.gov.kz/client/#!/doc/66337/rus/23.08.2012
 ---
 
 # Об оказании дополнительной социальной помощи
