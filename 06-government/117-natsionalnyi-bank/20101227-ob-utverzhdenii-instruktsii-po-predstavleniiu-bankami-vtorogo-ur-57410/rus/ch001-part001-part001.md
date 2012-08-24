@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57410/rus/27.12.2010
+source: https://zan.gov.kz/client/#!/doc/57410/rus/24.08.2012
 ---
 
 ## Детализация балансовых счетов для составления обзора финансового сектора
