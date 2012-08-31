@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58470/rus/17.08.2012
+source: https://zan.gov.kz/client/#!/doc/58470/rus/31.08.2012
 ---
 
 ## Перечень центров обслуживания населения
