@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/53627/rus/22.08.2012
+source: https://zan.gov.kz/client/#!/doc/53627/rus/31.08.2012
 ---
 
 # Об утверждении реестра государственных услуг, оказываемых физическим и юридическим лицам
@@ -40,4 +40,5 @@ source: https://zan.gov.kz/client/#!/doc/53627/rus/22.08.2012
 | [`part001-t004`](rus/part001-t004.md) | таблица 4 |
 | [`part001-t005`](rus/part001-t005.md) | таблица 5 |
 | [`part001-t006`](rus/part001-t006.md) | таблица 6 |
+| [`part001-t007`](rus/part001-t007.md) | таблица 7 |
 | [`part003`](rus/part003.md) | Примечание: |
