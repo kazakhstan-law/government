@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
+source: https://zan.gov.kz/client/#!/doc/10173/rus/06.09.2012
 ---
 
 # Об утверждении лимитов вылова рыбы и других водных животных в рыбохозяйственных водоемах на 2012 год
@@ -23,7 +23,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 
 ## Лимиты вылова рыбы и других водных животных в рыбохозяйственных водоемах на 2012 год
 
-> *Сноска. Лимиты с изменением, внесенным постановлением Правительства РК от 07.03.2012 № 304 (вводится в действие со дня первого официального опубликования).*
+> *Сноска. Лимиты с изменениями, внесенными постановлениями Правительства РК от 07.03.2012 № 304 (вводится в действие со дня первого официального опубликования); от 06.09.2012 № 1158 (вводится в действие по истечении десяти календарных дней после первого официального опубликования).*
 
 ## Урало-Каспийский бассейн
 
@@ -394,6 +394,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td rowspan="3">№</td>
 <td rowspan="2">Виды рыб</td>
 <td colspan="3">Всего, тонн</td>
+<td rowspan="2">Всего, штук</td>
 </tr>
 <tr>
 <td>Озеро Балхаш</td>
@@ -405,6 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td>1</td>
@@ -412,6 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>5042,8</td>
 <td>16,0</td>
 <td>27,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
@@ -419,6 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>810,5</td>
 <td>24,0</td>
 <td>59,4</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
@@ -426,6 +430,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>360,2</td>
 <td>24,0</td>
 <td>54,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>4</td>
@@ -433,6 +438,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>270,2</td>
 <td>20,0</td>
 <td>32,4</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
@@ -440,6 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>1170,7</td>
 <td>54,0</td>
 <td>216,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
@@ -447,6 +454,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>180,1</td>
 <td>6,0</td>
 <td>10,8</td>
+<td>-</td>
 </tr>
 <tr>
 <td>7</td>
@@ -454,6 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>1080,5</td>
 <td>40,0</td>
 <td>108,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>8</td>
@@ -461,6 +470,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>90,0</td>
 <td>14,0</td>
 <td>21,6</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
@@ -468,13 +478,23 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>2,0</td>
 <td>10,8</td>
+<td>-</td>
 </tr>
 <tr>
 <td>10</td>
+<td>Шип</td>
+<td>30,0****</td>
+<td>30,0****</td>
+<td>-</td>
+<td>60,0</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Итого*</td>
 <td>9005,0</td>
 <td>200,0</td>
 <td>540,0</td>
+<td>60,0****</td>
 </tr>
 </table>
 
@@ -548,60 +568,78 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td rowspan="2">№</td>
 <td>Виды рыб</td>
 <td>Всего, тонн</td>
+<td>Всего, штук</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Лещ</td>
 <td>600,1</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Судак</td>
 <td>51,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Сазан</td>
 <td>25,6</td>
+<td>-</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Жерех</td>
 <td>34,1</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Сом</td>
 <td>52,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Толстолобик</td>
 <td>59,2</td>
+<td>-</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Белый амур</td>
 <td>11,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Вобла</td>
 <td>39,8</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Карась</td>
 <td>9,2</td>
+<td>-</td>
 </tr>
 <tr>
 <td>10</td>
+<td>Шип</td>
+<td>-</td>
+<td>30,0****</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Итого*</td>
 <td>882,0</td>
+<td>30,0****</td>
 </tr>
 </table>
 
@@ -665,12 +703,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>10</td>
 <td>Рак</td>
-<td>155,0</td>
+<td>304,6</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Итого*</td>
-<td>1909,0</td>
+<td>2058,6</td>
 </tr>
 </table>
 
@@ -739,12 +777,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>11</td>
 <td>Рак</td>
-<td>126,0</td>
+<td>238,6</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Итого*</td>
-<td>5002,0</td>
+<td>5114,6</td>
 </tr>
 </table>
 
@@ -927,6 +965,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td rowspan="3">№</td>
 <td rowspan="2">Виды рыб</td>
 <td colspan="2">Всего, тонн</td>
+<td rowspan="2">Всего, штук</td>
 </tr>
 <tr>
 <td>
@@ -942,66 +981,84 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>1</th>
 <th>2</th>
 <th>3</th>
+<th>4</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Сазан</td>
 <td>17,0</td>
 <td>23,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Лещ</td>
 <td>93,0</td>
 <td>18,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Плотва</td>
 <td>76,5</td>
 <td>25,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Судак</td>
 <td>40,5</td>
 <td>33,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Жерех</td>
 <td>23,0</td>
 <td>21,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Чехонь</td>
 <td>-</td>
 <td>15,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Карась</td>
 <td>-</td>
 <td>30,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Толстолобик</td>
 <td>-</td>
 <td>33,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Сом</td>
 <td>-</td>
 <td>32,0</td>
+<td>-</td>
 </tr>
 <tr>
 <td>10</td>
+<td>Усач</td>
+<td>50****</td>
+<td>50****</td>
+<td>100,0</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Итого*</td>
 <td>250,0</td>
 <td>230,0</td>
+<td>100,0****</td>
 </tr>
 </table>
 
@@ -2021,8 +2078,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>50</td>
 <td>Прочие водоемы**</td>
-<td>204,54</td>
-<td>138,25</td>
+<td>208,94</td>
+<td>142,65</td>
 <td>7,2</td>
 <td>22,85</td>
 <td>2,4</td>
@@ -2036,8 +2093,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>51</td>
 <td>Итого*</td>
-<td>681,91</td>
-<td>238,66</td>
+<td>671,01</td>
+<td>243,06</td>
 <td>190,46</td>
 <td>58,45</td>
 <td>14,5</td>
@@ -2060,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 Всего,
 тонн
 </td>
-<td colspan="9">Виды рыб</td>
+<td colspan="11">Виды рыб</td>
 </tr>
 <tr>
 <td>судак</td>
@@ -2075,6 +2132,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>окунь</td>
 <td>язь</td>
 <td>линь</td>
+<td>густера</td>
+<td>красноперка</td>
 </tr>
 <tr>
 <th>1</th>
@@ -2084,10 +2143,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>5</th>
 <th>6</th>
 <th>7</th>
+<th>8</th>
 <th>9</th>
 <th>10</th>
 <th>11</th>
 <th>12</th>
+<th>13</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2103,6 +2164,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>2,3</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2122,6 +2185,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>2,1</td>
 <td>3,3</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2139,6 +2204,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>3,1</td>
 <td>2,7</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2154,6 +2221,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>0,4</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2173,6 +2242,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,7</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2186,6 +2257,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>0,9</td>
 <td>1,6</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2204,6 +2277,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,4</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>8</td>
@@ -2218,6 +2293,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,4</td>
 <td>-</td>
 <td>0,6</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
@@ -2230,6 +2307,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,3</td>
 <td>0,2</td>
 <td>0,3</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2246,6 +2325,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,3</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>11</td>
@@ -2260,6 +2341,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>0,7</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2267,6 +2350,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,3</td>
 <td>-</td>
 <td>0,3</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -2288,6 +2373,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,2</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>14</td>
@@ -2305,6 +2392,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,4</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2319,6 +2408,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,9</td>
 <td>1,1</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2332,6 +2423,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,7</td>
 <td>0,7</td>
 <td>0,9</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2350,6 +2443,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,8</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>18</td>
@@ -2362,6 +2457,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>1,3</td>
 <td>0,8</td>
 <td>0,5</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -2378,6 +2475,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,3</td>
 <td>0,9</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>20</td>
@@ -2391,6 +2490,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,7</td>
 <td>0,4</td>
 <td>0,8</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2406,6 +2507,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>1,1</td>
 <td>1,3</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>22</td>
@@ -2420,6 +2523,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,9</td>
 <td>0,8</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>23</td>
@@ -2433,6 +2538,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,8</td>
 <td>0,4</td>
 <td>0,9</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -2451,20 +2558,56 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>0,5</td>
 <td>1,5</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>25</td>
+<td>Река Илек (верхнее течение)</td>
+<td>1,6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,3</td>
+<td>-</td>
+<td>0,5</td>
+<td>0,3</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Озеро Шалкар</td>
+<td>8,7</td>
+<td>-</td>
+<td>7,6</td>
+<td>0,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+<td>-</td>
+<td>0,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>27</td>
 <td>Итого*</td>
-<td>152,8</td>
+<td>163,1</td>
 <td>0,7</td>
-<td>50,6</td>
-<td>14,1</td>
+<td>58,2</td>
 <td>14,6</td>
+<td>14,9</td>
 <td>23,1</td>
-<td>17,1</td>
-<td>17,1</td>
-<td>14,2</td>
+<td>17,6</td>
+<td>17,4</td>
+<td>14,5</td>
 <td>1,3</td>
+<td>0,5</td>
+<td>0,3</td>
 </tr>
 </table>
 
@@ -2474,11 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td rowspan="3">№</td>
 <td rowspan="2">Водоемы</td>
-<td rowspan="2">
-Всего,
-тонн
-</td>
-<td colspan="7">Виды рыб</td>
+<td colspan="6">Виды рыб</td>
 </tr>
 <tr>
 <td>лещ</td>
@@ -2487,7 +2626,6 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>сазан</td>
 <td>вобла</td>
 <td>сом</td>
-<td>судак</td>
 </tr>
 <tr>
 <th>1</th>
@@ -2497,20 +2635,204 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
-<th>9</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Озеро Кельте</td>
-<td>11,31</td>
 <td>1,27</td>
 <td>0,35</td>
 <td>0,36</td>
 <td>4,81</td>
 <td>0,31</td>
 <td>3,33</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Водохранилище К - 28</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,55</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Водохранилище К - 30</td>
+<td>-</td>
+<td>-</td>
+<td>0,08</td>
+<td>0,52</td>
+<td>0,36</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Водохринилище Сатыбай</td>
+<td>-</td>
+<td>-</td>
+<td>1,96</td>
+<td>1,11</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Озеро Шошкалы</td>
+<td>-</td>
+<td>-</td>
+<td>3,95</td>
+<td>0,31</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Озеро Теренколь</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Озеро Жасылколь</td>
+<td>-</td>
+<td>-</td>
+<td>0,52</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Река Каратал</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Итого*</td>
+<td>1,27</td>
+<td>0,35</td>
+<td>6,87</td>
+<td>6,75</td>
+<td>1,22</td>
+<td>3,33</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="2">Виды рыб</td>
+<td rowspan="2">Всего, тонн</td>
+<td rowspan="2">
+Шип
+Всего,
+штук
+</td>
+</tr>
+<tr>
+<td>судак</td>
+<td>окунь</td>
+</tr>
+<tr>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+</tr>
+<tr>
 <td>0,88</td>
+<td>-</td>
+<td>11,31</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,57</td>
+<td>-</td>
+<td>1,12</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>-</td>
+<td>1,46</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,7</td>
+<td>3,77</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>4,26</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,93</td>
+<td>0,93</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,51</td>
+<td>1,03</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10,0****</td>
+</tr>
+<tr>
+<td>1,95</td>
+<td>2,14</td>
+<td>23,88</td>
+<td>10,0****</td>
+</tr>
+</table>
+
+## Восточно-Казахстанская область
+
+<table>
+<tr>
+<td>Водоем</td>
+<td>Всего, тонн</td>
+<td colspan="3">Виды рыб</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td rowspan="2">
+Водохранилище на
+реке Шар
+</td>
+<td rowspan="2">9,22</td>
+<td>Щука</td>
+<td>Плотва</td>
+<td>Окунь</td>
+</tr>
+<tr>
+<td>0,86</td>
+<td>4,64</td>
+<td>3,72</td>
 </tr>
 </table>
 
@@ -2744,23 +3066,23 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 Прочие
 водоемы**
 </td>
-<td>75,654</td>
+<td>75,864</td>
 <td>2,26</td>
 <td>6,472</td>
 <td>12,018</td>
 <td>3,918</td>
-<td>34,565</td>
+<td>34,714</td>
 <td>-</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Итого*</td>
-<td>172,939</td>
+<td>173,149</td>
 <td>3,91</td>
 <td>26,782</td>
 <td>21,885</td>
 <td>17,168</td>
-<td>61,197</td>
+<td>61,347</td>
 <td>1,166</td>
 </tr>
 </table>
@@ -2971,7 +3293,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 </tr>
 <tr>
 <td>2,555</td>
-<td>0,05</td>
+<td>0,11</td>
 <td>-</td>
 <td>9,59</td>
 <td>0,305</td>
@@ -2983,7 +3305,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 </tr>
 <tr>
 <td>2,865</td>
-<td>2,007</td>
+<td>2,067</td>
 <td>5,18</td>
 <td>18,65</td>
 <td>0,305</td>
@@ -3158,15 +3480,78 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>9-1</td>
+<td>
+Водохранилище
+Жанакуш
+</td>
+<td>2,7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9-2</td>
+<td>Река Чижа 1</td>
+<td>3,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,9</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9-3</td>
+<td>Река Чижа 2</td>
+<td>10,1</td>
+<td>-</td>
+<td>0,3</td>
+<td>-</td>
+<td>-</td>
+<td>2,0</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9-4</td>
+<td>Река Ащы</td>
+<td>1,4</td>
+<td>-</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>0,5</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9-5</td>
+<td>Озеро Пугачево</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>10</td>
 <td>Итого*</td>
-<td>587,866</td>
+<td>605,566</td>
 <td>32,657</td>
-<td>31,128</td>
-<td>1,89</td>
+<td>31,628</td>
+<td>2,09</td>
 <td>46,8</td>
-<td>18,902</td>
-<td>130,179</td>
+<td>21,802</td>
+<td>130,879</td>
 <td>17,0</td>
 </tr>
 </table>
@@ -3313,15 +3698,75 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
-<td>89,486</td>
-<td>39,23</td>
-<td>10,916</td>
-<td>55,0</td>
-<td>29,675</td>
+<td>0,8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1,7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,5</td>
+<td>0,4</td>
+<td>-</td>
+<td>0,1</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,9</td>
+<td>0,9</td>
+<td>3,0</td>
+<td>-</td>
+<td>2,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,6</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,2</td>
+<td>-</td>
+<td>0,1</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>91,886</td>
+<td>40,63</td>
+<td>14,016</td>
+<td>55,1</td>
+<td>35,475</td>
 <td>40,88</td>
 <td>13,896</td>
 <td>27,427</td>
-<td>0,1</td>
+<td>0,7</td>
 <td>2,7</td>
 </tr>
 </table>
@@ -4590,18 +5035,156 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>73-1</td>
+<td>Плотина Мухтар</td>
+<td>0,6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-2</td>
+<td>Плотина Курум</td>
+<td>5,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-3</td>
+<td>Плотина Шишовская</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-4</td>
+<td>
+Плотина
+Амантау-Жалтырыс
+</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-5</td>
+<td>
+Водохранилище
+Кенгирское
+(участок № 3)
+</td>
+<td>6,47</td>
+<td>-</td>
+<td>-</td>
+<td>3,28</td>
+<td>-</td>
+<td>1,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2,09</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-6</td>
+<td>
+Водохранилище
+Жездинское
+</td>
+<td>4,7</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>3,09</td>
+<td>1,61</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-7</td>
+<td>Плотина Актас</td>
+<td>0,48</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,31</td>
+<td>-</td>
+<td>-</td>
+<td>0,08</td>
+<td>0,09</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>73-8</td>
+<td>Плотина Пионер</td>
+<td>0,19</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,07</td>
+<td>0,12</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>74</td>
 <td>Итого*</td>
-<td>347,952</td>
+<td>367,792</td>
 <td>2,8</td>
 <td>1,795</td>
-<td>9,33</td>
+<td>12,61</td>
 <td>38,25</td>
-<td>49,731</td>
+<td>51,141</td>
 <td>7,402</td>
-<td>143,94</td>
-<td>41,287</td>
-<td>38,617</td>
+<td>152,01</td>
+<td>44,577</td>
+<td>42,407</td>
 <td>1,3</td>
 <td>13,5</td>
 </tr>
@@ -5705,8 +6288,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>63</td>
 <td>Прочие водоемы**</td>
-<td>243,1</td>
-<td>224,9</td>
+<td>254,0</td>
+<td>235,8</td>
 <td>-</td>
 <td>7,6</td>
 <td>2,1</td>
@@ -5721,8 +6304,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <tr>
 <td>64</td>
 <td>Итого*</td>
-<td>975,7</td>
-<td>499,8</td>
+<td>986,6</td>
+<td>510,8</td>
 <td>58,8</td>
 <td>76,9</td>
 <td>44,6</td>
@@ -5747,6 +6330,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 тонн
 </td>
 <td colspan="6">Виды рыб</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>карась</td>
@@ -5758,6 +6344,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>сиговые</td>
 <td>щука</td>
 <td>линь</td>
+<td>синец</td>
+<td>красноперка</td>
+<td>окунь</td>
 </tr>
 <tr>
 <th>1</th>
@@ -5768,6 +6357,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>6</th>
 <th>7</th>
 <th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <td>1</td>
@@ -5782,6 +6374,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>30,0</td>
 <td>10,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
@@ -5793,12 +6388,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>5,0</td>
 <td>10,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Озеро Алаколь</td>
 <td>7,0</td>
 <td>7,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5815,6 +6416,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>0,5</td>
 <td>6,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5826,6 +6430,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>2,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>6</td>
@@ -5837,12 +6444,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>1,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Озеро Бозщаколь</td>
 <td>12,0</td>
 <td>12,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5859,12 +6472,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Озеро Жаксы Алаколь</td>
 <td>4,0</td>
 <td>4,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5881,12 +6500,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Озеро Жаркаин</td>
 <td>12,0</td>
 <td>12,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5903,12 +6528,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Озеро Жул-Журган</td>
 <td>3,0</td>
 <td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5925,6 +6556,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>15</td>
@@ -5935,6 +6569,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>1,5</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -5947,6 +6584,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>17</td>
@@ -5954,6 +6594,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>13,5</td>
 <td>0,5</td>
 <td>13,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5969,12 +6612,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>2,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>19</td>
 <td>Озеро Сабынколь</td>
 <td>3,0</td>
 <td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -5991,6 +6640,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>6,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>21</td>
@@ -6002,12 +6654,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>2,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Озеро Улькен Бурли</td>
 <td>5,0</td>
 <td>5,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6024,6 +6682,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>1,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>24</td>
@@ -6038,12 +6699,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Озеро Курколь</td>
 <td>3,0</td>
 <td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6060,6 +6727,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>27</td>
@@ -6070,6 +6740,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>1,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -6082,6 +6755,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>2,5</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>29</td>
@@ -6092,6 +6768,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>4,0</td>
 <td>-</td>
 <td>4,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>-</td>
 </tr>
 <tr>
@@ -6104,6 +6783,9 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>1,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>31</td>
@@ -6115,28 +6797,37 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>3,0</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td>32</td>
 <td>Прочие водоемы**</td>
-<td>162,7</td>
+<td>164,2</td>
 <td>139,1</td>
-<td>3,6</td>
+<td>4,0</td>
 <td>7,0</td>
 <td>0,5</td>
 <td>8,6</td>
 <td>3,9</td>
+<td>0,2</td>
+<td>0,4</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Итого*</td>
-<td>615,4</td>
+<td>616,9</td>
 <td>240,1</td>
-<td>222,1</td>
+<td>222,5</td>
 <td>51,7</td>
 <td>35,5</td>
 <td>54,1</td>
 <td>11,9</td>
+<td>0,2</td>
+<td>0,4</td>
+<td>0,5</td>
 </tr>
 </table>
 
@@ -6147,7 +6838,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td rowspan="3">№</td>
 <td rowspan="2">Водоемы</td>
 <td rowspan="2">Всего, тонн</td>
-<td colspan="6">Виды рыб</td>
+<td colspan="5">Виды рыб</td>
 </tr>
 <tr>
 <td>плотва</td>
@@ -6158,7 +6849,6 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 </td>
 <td>язь</td>
 <td>толстолобик</td>
-<td>красноперка</td>
 </tr>
 <tr>
 <th>1</th>
@@ -6168,7 +6858,6 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
 </tr>
 <tr>
 <td>1</td>
@@ -6182,13 +6871,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>37,0</td>
 <td>-</td>
 <td>-</td>
-<td>25,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>
-Акшатауская система
-озер
+Акшатауская
+система озер
 </td>
 <td>116,0</td>
 <td>25,0</td>
@@ -6196,13 +6884,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>21,0</td>
 <td>2,0</td>
 <td>-</td>
-<td>8,0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>
-Кандаральская система
-озер
+Кандаральская
+система озер
 </td>
 <td>25,0</td>
 <td>5,0</td>
@@ -6210,13 +6897,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>4,0</td>
 <td>-</td>
 <td>1,0</td>
-<td>3,0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>
-Теликульская система
-озер
+Теликульская
+система озер
 </td>
 <td>22,0</td>
 <td>5,0</td>
@@ -6224,12 +6910,12 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>3,0</td>
 <td>1,0</td>
 <td>3,0</td>
-<td>-</td>
 </tr>
 <tr>
 <td>5</td>
 <td>
-Нансай-Ханкожинская
+Нансай-
+Ханкожинская
 система озер
 </td>
 <td>32,0</td>
@@ -6238,19 +6924,17 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>5,0</td>
 <td>-</td>
 <td>-</td>
-<td>2,0</td>
 </tr>
 <tr>
 <td>6</td>
 <td>
-Жанадарьинская
+Жаңадарьинская
 система озер
 </td>
 <td>51,0</td>
 <td>11,0</td>
 <td>15,0</td>
 <td>12,0</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -6266,7 +6950,6 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>8,0</td>
 <td>-</td>
 <td>-</td>
-<td>8,0</td>
 </tr>
 <tr>
 <td>8</td>
@@ -6280,18 +6963,19 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>17,0</td>
 <td>3,0</td>
 <td>-</td>
-<td>7,0</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Аксайская система озер</td>
+<td>
+Аксайская
+система озер
+</td>
 <td>17,0</td>
 <td>2,0</td>
 <td>4,0</td>
 <td>3,0</td>
 <td>2,0</td>
 <td>-</td>
-<td>2,0</td>
 </tr>
 <tr>
 <td>10</td>
@@ -6302,16 +6986,15 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>4,0</td>
 <td>-</td>
 <td>-</td>
-<td>2,5</td>
 </tr>
 <tr>
 <td>11</td>
 <td>
-залив Тущыбас большого
+залив Тущыбас
+большого
 Аральского моря
 </td>
 <td>52,0</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6322,11 +7005,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>12</td>
 <td>
 залив Чернышева
-большого Аральского
-моря
+большого
+Аральского моря
 </td>
 <td>147,0</td>
-<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6335,21 +7017,115 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 </tr>
 <tr>
 <td>13</td>
+<td>Озеро Жарыкколь</td>
+<td>3,1</td>
+<td>0,7</td>
+<td>1,3</td>
+<td>0,5</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Озеро Шомишколь</td>
+<td>9,65</td>
+<td>2,07</td>
+<td>2,85</td>
+<td>1,65</td>
+<td>0,18</td>
+<td>-</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Озеро Алаша</td>
+<td>5,1</td>
+<td>1,0</td>
+<td>2,2</td>
+<td>0,8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>16</td>
+<td>
+Озеро
+Жайлауколь
+</td>
+<td>1,8</td>
+<td>0,5</td>
+<td>-</td>
+<td>0,36</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>17</td>
+<td>
+Озеро
+Коныраулы-
+Колдей
+</td>
+<td>1,2</td>
+<td>0,6</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Озеро Шагала</td>
+<td>1,1</td>
+<td>0,5</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>19</td>
+<td>
+Озеро
+Жынгылдысай
+</td>
+<td>1,2</td>
+<td>0,3</td>
+<td>-</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Озеро Отебас</td>
+<td>2,1</td>
+<td>1,0</td>
+<td>-</td>
+<td>0,6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>21</td>
 <td>Итого*</td>
-<td>921,0</td>
-<td>190,0</td>
-<td>171,0</td>
-<td>114,0</td>
-<td>8,0</td>
+<td>946,25</td>
+<td>196,67</td>
+<td>177,35</td>
+<td>118,51</td>
+<td>8,18</td>
 <td>4,0</td>
-<td>57,5</td>
 </tr>
 </table>
 
-Продолжение таблицы
-
 <table>
 <tr>
+<td colspan="10">Виды рыб</td>
+</tr>
+<tr>
+<td>
+красно
+перка
+</td>
 <td>карась</td>
 <td>змееголов</td>
 <td>окунь</td>
@@ -6364,6 +7140,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 </td>
 </tr>
 <tr>
+<th>8</th>
 <th>9</th>
 <th>10</th>
 <th>11</th>
@@ -6375,6 +7152,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>17</th>
 </tr>
 <tr>
+<td>25,0</td>
 <td>-</td>
 <td>-</td>
 <td>12,0</td>
@@ -6386,6 +7164,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>8,0</td>
 <td>4,0</td>
 <td>-</td>
 <td>-</td>
@@ -6397,6 +7176,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>3,0</td>
 <td>6,0</td>
 <td>3,0</td>
 <td>-</td>
@@ -6408,6 +7188,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>-</td>
 <td>1,0</td>
 <td>2,0</td>
 <td>-</td>
@@ -6419,6 +7200,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 </tr>
 <tr>
+<td>2,0</td>
 <td>3,0</td>
 <td>4,0</td>
 <td>-</td>
@@ -6427,9 +7209,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>1,0</td>
 <td>1,0</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>-</td>
 <td>5,0</td>
 <td>3,0</td>
 <td>-</td>
@@ -6438,9 +7221,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>3,0</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>8,0</td>
 <td>7,0</td>
 <td>5,0</td>
 <td>-</td>
@@ -6449,9 +7233,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>7,0</td>
 <td>5,0</td>
 <td>6,0</td>
 <td>2,0</td>
@@ -6460,9 +7245,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>2,0</td>
 <td>3,0</td>
 <td>-</td>
 <td>1,0</td>
@@ -6471,9 +7257,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>2,5</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6482,9 +7269,10 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td></td>
+<td>-</td>
 </tr>
 <tr>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6504,16 +7292,114 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td>-</td>
 <td>147,0</td>
 </tr>
 <tr>
-<td>34,0</td>
-<td>23,0</td>
-<td>15,0</td>
-<td>21,5</td>
-<td>10,0</td>
-<td>9,0</td>
-<td>61,0</td>
+<td>0,2</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1,14</td>
+<td>0,33</td>
+<td>-</td>
+<td>-</td>
+<td>0,27</td>
+<td>0,12</td>
+<td>0,24</td>
+<td>0,8</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>0,3</td>
+<td>-</td>
+<td>0,8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,54</td>
+<td>-</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,3</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>0,1</td>
+<td>0,3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>0,3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>58,94</td>
+<td>36,17</td>
+<td>23,4</td>
+<td>15,3</td>
+<td>23,17</td>
+<td>10,12</td>
+<td>9,24</td>
+<td>62,2</td>
 <td>4,0</td>
 <td>199,0</td>
 </tr>
@@ -6529,7 +7415,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 Всего,
 тонн
 </td>
-<td colspan="12">Виды рыб</td>
+<td colspan="13">Виды рыб</td>
 </tr>
 <tr>
 <td>налим</td>
@@ -6549,6 +7435,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 ка-
 рась
 </td>
+<td>берш</td>
 <td>рак</td>
 <td>
 цисты
@@ -6571,6 +7458,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <th>12</th>
 <th>13</th>
 <th>14</th>
+<th>15</th>
 </tr>
 <tr>
 <td>1</td>
@@ -6578,17 +7466,18 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 Пойменные водоемы
 реки Иртыш
 </td>
-<td>95,19</td>
+<td>115,0</td>
 <td>0,917</td>
-<td>32,298</td>
-<td>2,722</td>
-<td>5,333</td>
-<td>5,929</td>
-<td>17,763</td>
-<td>0,332</td>
+<td>34,148</td>
+<td>5,292</td>
+<td>9,633</td>
+<td>9,029</td>
+<td>22,613</td>
+<td>1,272</td>
 <td>1,881</td>
-<td>3,67</td>
-<td>24,345</td>
+<td>4,27</td>
+<td>25,945</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -6599,7 +7488,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 Павлодарской
 области
 </td>
-<td>11,299</td>
+<td>34,999</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -6609,7 +7498,8 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>2,156</td>
 <td>0,408</td>
-<td>3,51</td>
+<td>17,91</td>
+<td>9,3</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -6630,6 +7520,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>0,701</td>
 <td>8,056</td>
+<td>-</td>
 <td>0,250</td>
 <td>-</td>
 </tr>
@@ -6647,6 +7538,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>21,0</td>
 </tr>
@@ -6664,6 +7556,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>20,0</td>
 </tr>
@@ -6681,6 +7574,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>34,0</td>
 </tr>
@@ -6698,6 +7592,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>96,0</td>
 </tr>
@@ -6719,6 +7614,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>8,0</td>
 </tr>
@@ -6736,6 +7632,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>17,0</td>
 </tr>
@@ -6753,6 +7650,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>67,0</td>
 </tr>
@@ -6770,6 +7668,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>21,0</td>
 </tr>
@@ -6791,6 +7690,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>28,0</td>
 </tr>
@@ -6812,6 +7712,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>19,0</td>
 </tr>
@@ -6829,6 +7730,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>91,0</td>
 </tr>
@@ -6850,6 +7752,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>65,0</td>
 </tr>
@@ -6871,6 +7774,7 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>18,0</td>
 </tr>
@@ -6888,23 +7792,25 @@ source: https://zan.gov.kz/client/#!/doc/10173/rus/07.03.2012
 <td>-</td>
 <td>-</td>
 <td>-</td>
+<td></td>
 <td>-</td>
 <td>36,0</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Итого*</td>
-<td>680,753</td>
+<td>724,263</td>
 <td>0,917</td>
-<td>39,727</td>
-<td>4,75</td>
-<td>12,592</td>
-<td>15,569</td>
-<td>20,889</td>
-<td>0,332</td>
+<td>41,577</td>
+<td>7,32</td>
+<td>16,892</td>
+<td>18,669</td>
+<td>25,739</td>
+<td>1,272</td>
 <td>4,037</td>
-<td>4,779</td>
-<td>35,911</td>
+<td>5,379</td>
+<td>51,911</td>
+<td>9,3</td>
 <td>0,250</td>
 <td>541,0</td>
 </tr>
