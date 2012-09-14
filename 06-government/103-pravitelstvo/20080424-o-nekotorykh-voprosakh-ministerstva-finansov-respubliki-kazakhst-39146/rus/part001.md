@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39146/rus/03.08.2012
+source: https://zan.gov.kz/client/#!/doc/39146/rus/14.09.2012
 ---
 
 ## Положение о Министерстве финансов Республики Казахстан
