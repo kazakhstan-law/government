@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61969/kaz/30.07.2012
+source: https://zan.gov.kz/client/#!/doc/61969/kaz/21.09.2012
 ---
 
 ## 2012-2014 жылдарға арналған басымды республикалық бюджеттік инвестициялар тізбесі
@@ -2824,8 +2824,8 @@ source: https://zan.gov.kz/client/#!/doc/61969/kaz/30.07.2012
 <td></td>
 </tr>
 <tr>
-<th>226</th>
 <th></th>
+<th>226</th>
 <th></th>
 <th></th>
 <th>Қазақстан Республикасы Денсаулық сақтау министрлігі</th>
@@ -2835,8 +2835,8 @@ source: https://zan.gov.kz/client/#!/doc/61969/kaz/30.07.2012
 </tr>
 <tr>
 <td></td>
-<td>026</td>
 <td></td>
+<td>026</td>
 <td></td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
 <td>1 697 544</td>
