@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67704/kaz/22.08.2012
+source: https://zan.gov.kz/client/#!/doc/67704/kaz/27.09.2012
 ---
 
 ## 3. Мемлекеттік қызмет көрсету тәртібіне қойылатын талаптар
