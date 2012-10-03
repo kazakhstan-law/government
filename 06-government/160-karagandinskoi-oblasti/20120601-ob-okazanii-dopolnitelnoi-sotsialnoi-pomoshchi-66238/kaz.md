@@ -1,5 +1,5 @@
 ---
-version_id: '66238_159845'
+version_id: '66238_159852'
 act_code: '66238'
 language: kaz
 title: Қосымша әлеуметтік көмек көрсету туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160014000001'
 approval_date: 2012-06-01
-version_date: 2012-06-01
+version_date: 2012-10-03
 registry_number: '66238'
-source: https://zan.gov.kz/client/#!/doc/66238/kaz/01.06.2012
+caused_by:
+  code: '68318'
+  title: Ақтоғай ауданы әкімдігінің 2012 жылғы 1 маусымдағы № 09/03 "Қосымша әлеуметтік көмек көрсету туралы" қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/68318/kaz
+source: https://zan.gov.kz/client/#!/doc/66238/kaz/03.10.2012
 ---
 
 # Қосымша әлеуметтік көмек көрсету туралы

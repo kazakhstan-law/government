@@ -1,5 +1,5 @@
 ---
-version_id: '66238_159846'
+version_id: '66238_159853'
 act_code: '66238'
 language: rus
 title: Об оказании дополнительной социальной помощи
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '160014000001'
 approval_date: 2012-06-01
-version_date: 2012-06-01
+version_date: 2012-10-03
 registry_number: '66238'
-source: https://zan.gov.kz/client/#!/doc/66238/rus/01.06.2012
+caused_by:
+  code: '68318'
+  title: О внесении изменения в постановление акимата Актогайского района от 1 июня 2012 года № 09/03 "Об оказании дополнительной социальной помощи"
+  link: https://zan.gov.kz/client/#!/doc/68318/rus
+source: https://zan.gov.kz/client/#!/doc/66238/rus/03.10.2012
 ---
 
 # Об оказании дополнительной социальной помощи
