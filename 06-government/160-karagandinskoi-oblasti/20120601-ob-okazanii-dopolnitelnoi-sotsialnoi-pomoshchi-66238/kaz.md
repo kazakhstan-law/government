@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/66238/kaz/01.06.2012
+source: https://zan.gov.kz/client/#!/doc/66238/kaz/03.10.2012
 ---
 
 # Қосымша әлеуметтік көмек көрсету туралы
