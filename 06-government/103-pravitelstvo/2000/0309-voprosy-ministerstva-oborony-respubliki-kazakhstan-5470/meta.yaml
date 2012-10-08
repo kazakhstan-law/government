@@ -10,15 +10,8 @@ approved_on: 2000-03-09
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-05-08
-  rus: 2012-05-08
+  kaz: 2012-10-08
+  rus: 2012-10-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/5470/kaz/08.05.2012
-  rus: https://zan.gov.kz/client/#!/doc/5470/rus/08.05.2012
-caused_by:
-  code: '65375'
-  requisite: Постановление Правительства Республики Казахстан от 8 мая 2012 года № 598
-  title:
-    rus: О ликвидации государственного учреждения "Войсковая часть 14805" Министерства обороны Республики Казахстан
-    kaz: Қазақстан Республикасы Қорғаныс министрлігінің "14805 әскери бөлімі" мемлекеттік мекемесін тарату туралы
-  link: https://zan.gov.kz/client/#!/doc/65375/rus
+  kaz: https://zan.gov.kz/client/#!/doc/5470/kaz/08.10.2012
+  rus: https://zan.gov.kz/client/#!/doc/5470/rus/08.10.2012
