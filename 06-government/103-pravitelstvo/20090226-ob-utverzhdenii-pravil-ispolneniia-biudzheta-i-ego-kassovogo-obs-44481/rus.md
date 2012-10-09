@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/44481/rus/22.08.2012
+source: https://zan.gov.kz/client/#!/doc/44481/rus/09.10.2012
 ---
 
 # Об утверждении Правил исполнения бюджета и его кассового обслуживания
