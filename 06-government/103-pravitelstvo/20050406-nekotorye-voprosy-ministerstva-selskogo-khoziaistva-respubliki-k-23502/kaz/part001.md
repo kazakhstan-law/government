@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/26.07.2012
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/10.10.2012
 ---
 
 ## Қазақстан Республикасы Ауыл шаруашылығы министрлігі туралы ереже 1. Жалпы ережелер
