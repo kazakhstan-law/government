@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21951/kaz/09.07.2012
+source: https://zan.gov.kz/client/#!/doc/21951/kaz/15.10.2012
 ---
 
 ## Қазақстан Республикасы Индустрия және жаңа технологиялар министрлігі туралы ереже
