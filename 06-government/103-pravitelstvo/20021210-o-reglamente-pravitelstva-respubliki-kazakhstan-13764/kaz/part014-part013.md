@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/26.06.2012
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/22.10.2012
 ---
 
 ## 9. Орталық атқарушы органдардың бірінші басшылары іссапарларының тәртібі
