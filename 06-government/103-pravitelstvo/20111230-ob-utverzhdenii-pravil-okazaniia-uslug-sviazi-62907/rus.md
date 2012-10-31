@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62907/rus/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62907/rus/31.10.2012
 ---
 
 # Об утверждении Правил оказания услуг связи
