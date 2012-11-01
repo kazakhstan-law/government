@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21951/rus/15.10.2012
+source: https://zan.gov.kz/client/#!/doc/21951/rus/01.11.2012
 ---
 
 ## 3. Организация деятельности Министерства

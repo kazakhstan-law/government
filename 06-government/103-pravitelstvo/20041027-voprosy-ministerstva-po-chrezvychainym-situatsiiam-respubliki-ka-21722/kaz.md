@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21722/kaz/03.08.2012
+source: https://zan.gov.kz/client/#!/doc/21722/kaz/01.11.2012
 ---
 
 # Қазақстан Республикасы Төтенше жағдайлар министрлігiнің мәселелерi
