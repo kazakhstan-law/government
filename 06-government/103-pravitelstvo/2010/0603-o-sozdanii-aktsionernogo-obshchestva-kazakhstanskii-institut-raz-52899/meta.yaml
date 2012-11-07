@@ -10,15 +10,10 @@ approved_on: 2010-06-03
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-03-19
-  rus: 2012-03-19
+  kaz: 2012-11-07
+  rus: 2012-11-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/52899/kaz/19.03.2012
-  rus: https://zan.gov.kz/client/#!/doc/52899/rus/19.03.2012
+  kaz: https://zan.gov.kz/client/#!/doc/52899/kaz/07.11.2012
+  rus: https://zan.gov.kz/client/#!/doc/52899/rus/07.11.2012
 caused_by:
-  code: '64133'
-  requisite: Постановление Правительства Республики Казахстан от 19 марта 2012 года № 340
-  title:
-    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
-    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/64133/rus
+  code: P1200001412
