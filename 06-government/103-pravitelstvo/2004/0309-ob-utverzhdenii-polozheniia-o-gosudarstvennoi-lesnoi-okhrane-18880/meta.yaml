@@ -11,8 +11,15 @@ approved_on: 2004-03-09
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2004-03-09
-  rus: 2004-03-09
+  kaz: 2012-11-07
+  rus: 2012-11-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18880/kaz/09.03.2004
-  rus: https://zan.gov.kz/client/#!/doc/18880/rus/09.03.2004
+  kaz: https://zan.gov.kz/client/#!/doc/18880/kaz/07.11.2012
+  rus: https://zan.gov.kz/client/#!/doc/18880/rus/07.11.2012
+caused_by:
+  code: '68447'
+  requisite: Постановление Правительства Республики Казахстан от 7 ноября 2012 года № 1413
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/68447/rus
