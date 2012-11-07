@@ -1,5 +1,5 @@
 ---
-version_id: AI30107_0
+version_id: AI30107_2
 act_code: '30107'
 language: kaz
 title: Өсімдіктер мен жануарлардың сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесiн бекiту туралы
@@ -11,20 +11,28 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2006-10-31
-version_date: 2006-10-31
+version_date: 2012-11-07
 registry_number: '30107'
-source: https://zan.gov.kz/client/#!/doc/30107/kaz/31.10.2006
+caused_by:
+  code: '68447'
+  title: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/68447/kaz
+source: https://zan.gov.kz/client/#!/doc/30107/kaz/07.11.2012
 ---
 
-# Жануарлар мен өсiмдiктердiң сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесiн бекiту туралы
+# Өсімдіктер мен жануарлардың сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесiн бекiту туралы
+
+> *Ескерту. Тақырып жаңа редакцияда - ҚР Үкіметінің 2012.11.07 N 1413 (алғашқы ресми жарияланғанынан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) Қаулысымен.*
 
 "Ерекше қорғалатын табиғи аумақтар туралы" Қазақстан Республикасының 2006 жылғы 7 шiлдедегi Заңына сәйкес Қазақстан Республикасының Үкiметi ҚАУЛЫ ЕТЕДI :
 
 1. Қоса берiлiп отырған:
 
-   1) жануарлардың сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi;
+   1) өсiмдiктердiң сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi;
 
-   2) өсiмдiктердiң сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi бекiтiлсiн.
+   2) жануарлардың сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi бекiтiлсiн.
+
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Үкіметінің 2012.11.07 N 1413 (алғашқы ресми жарияланғанынан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) Қаулысымен.*
 
 2. Мыналардың күшi жойылды деп танылсын:
 
@@ -34,2393 +42,68 @@ source: https://zan.gov.kz/client/#!/doc/30107/kaz/31.10.2006
 
 3. Осы қаулы қол қойылған күнiнен бастап қолданысқа енгiзiледi.
 
-Қазақстан Республикасының
-
-Премьер-Министрі
+**Қазақстан Республикасының Премьер-Министрі**
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
 > *2006 жылғы 31 қазандағы*  
 > *N 1034 қаулысымен*  
-> *бекітілген*  
+> *бекітілген*
+
 > *Утвержден*  
 > *постановлением Правительства*  
 > *Республики Казахстан*  
 > *от 31 октября 2006 года N 1034*
 
-## Жануарлардың сирек кездесетін және құрып кету қаупі төнген түрлерінің тізбесі
+## Өсiмдiктердiң сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi Перечень редких и находящихся под угрозой исчезновения видов растений
 
-## Перечень редких и находящихся под угрозой исчезновения видов животных
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Үкіметінің 2012.11.07 N 1413 (алғашқы ресми жарияланғанынан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) Қаулысымен.*
 
 <table>
 <tr>
-<th colspan="4">Атауы/Наименование</th>
+<td colspan="4">Атауы /Наименование</td>
 </tr>
 <tr>
-<th>
+<td>
 Р/с
-N
-N
+№
+№
 п/п
-</th>
-<th>
-Қазақ тілінде
+</td>
+<td>
+Қазақ тiлiнде
 На казахском языке
-</th>
-<th>
-Латын тілінде
-На латинском
-языке
-</th>
-<th>
-Орыс тілінде
+</td>
+<td>
+Латын тiлiнде
+На латинском языке
+</td>
+<td>
+Орыс тiлiнде
 На русском языке
-</th>
+</td>
 </tr>
 <tr>
 <th>1</th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
-</tr>
-<tr>
-<th colspan="4">
-Жануарлар
-Түр тармағы - Омыртқалылар
-Дөңгелекауыздылар класы
-Animals
-Vertebrates
-Cyclostomata
-Животные
-Подтип - Позвоночные
-Класс - Круглоротые
-</th>
-</tr>
-<tr>
-<td>1</td>
-<td>Каспий тілтісі</td>
-<td>
-Caspiomyzon wagneri
-Kessler
-</td>
-<td>Каспийская минога</td>
-</tr>
-<tr>
-<th colspan="4">
-Сүйекті балықтар класы
-Osteichthyes
-Класс - Костные рыбы
-</th>
-</tr>
-<tr>
-<td>2</td>
-<td>Ciбip бeкipeci</td>
-<td>Acipenser baeri</td>
-<td>Сибирский осетр</td>
-</tr>
-<tr>
-<td>3</td>
-<td>
-Пілмай (арал және
-іле популяциясы)
-</td>
-<td>Acipenser nudiventris</td>
-<td>
-Шип (аральская и
-илийская популяции)
-</td>
-</tr>
-<tr>
-<td>4</td>
-<td>
-Сырдария
-тасбекіресі
-</td>
-<td>
-Pseudocaphirhynchus
-fedtschenkoi
-</td>
-<td>
-Сырдарьинский
-лжелопатонос
-</td>
-</tr>
-<tr>
-<td>5</td>
-<td>
-Волга көп аталықты
-майшабағы
-</td>
-<td>
-Alosa kessleri
-volgensis
-</td>
-<td>
-Волжская
-многотычинковая
-сельдь
-</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Каспий албырты</td>
-<td>Salmo trutta caspius</td>
-<td>Каспийский лосось</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Арал албырты</td>
-<td>
-Salmo trutta
-aralensis
-</td>
-<td>Аральский лосось</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Таймен</td>
-<td>Hucho taimen</td>
-<td>Таймень</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Сылан</td>
-<td>
-Stenodus leucichthys
-nelma
-</td>
-<td>Нельма</td>
-</tr>
-<tr>
-<td>10</td>
-<td>Ақбалық</td>
-<td>
-Stenodus leucichthys
-leucichthys
-</td>
-<td>Белорыбица</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Күтім</td>
-<td>Rutilus frisii kutum</td>
-<td>Кутум</td>
-</tr>
-<tr>
-<td>12</td>
-<td>
-Шортан тектес
-ақмарқа
-</td>
-<td>Aspiolusius esocinus</td>
-<td>
-Щуковидный жерех
-(лысач)
-</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Арал қаязы</td>
-<td>
-Barbus brachycephalus
-brachycephalus
-</td>
-<td>Аральский усач</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Түркістан қаязы</td>
-<td>
-Barbus capito
-conocephalus
-</td>
-<td>Туркестанский усач</td>
-</tr>
-<tr>
-<td>15</td>
-<td>
-Іле қарабалығы
-(іле популяциясы)
-</td>
-<td>
-Schizothorax
-argentatus
-pseudaksaiensis
-</td>
-<td>
-Илийская маринка
-(илийская
-популяция)
-</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Шу сүйрікқанаты</td>
-<td>
-Capoetobrama
-kuschakewitschi
-orientalis
-</td>
-<td>Чуйская остролучка</td>
-</tr>
-<tr>
-<td>17</td>
-<td>
-Балқаш алабұғасы
-(балқаш-іле
-популяциясы)
-</td>
-<td>Perca schrenki</td>
-<td>
-Балхашский окунь
-(балхаш-илийская
-популяция)
-</td>
-</tr>
-<tr>
-<td>18</td>
-<td>
-Шатқалдық
-тас тасалағыш
-</td>
-<td>Cottus jaxartensis</td>
-<td>
-Чаткальский
-подкаменщик
-</td>
-</tr>
-<tr>
-<th colspan="4">
-Қосмекенділер класы
-Amphibia
-Класс - Земноводные
-</th>
-</tr>
-<tr>
-<td>19</td>
-<td>Жетісу бақатісі</td>
-<td>Ranodon sibiricus</td>
-<td>
-Семиреченский
-лягушкозуб
-</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Даната құрбақасы</td>
-<td>Bufo danatensis</td>
-<td>Данатинская жаба</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Қызылаяқ бақа</td>
-<td>Rana amurensis</td>
-<td>Сибирская лягушка</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="4">
-Бауырымен жорғалаушылар класы
-Reptilia
-Класс - Пресмыкающиеся
-</th>
-</tr>
-<tr>
-<td>22</td>
-<td>
-Шұбар батбат
-кесіртке
-</td>
-<td>
-Phrynocephalus
-versicolor
-</td>
-<td>
-Пестрая
-круглоголовка
-</td>
-</tr>
-<tr>
-<td>23</td>
-<td>
-Зайсан батбат
-кecipткeci
-</td>
-<td>
-Phrynocephalus
-melanurus
-</td>
-<td>
-Зайсанская
-круглоголовка
-</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Кесел, алабажақ кесіртке</td>
-<td>Varanus griseus</td>
-<td>Серый варан</td>
-</tr>
-<tr>
-<td>25</td>
-<td>
-Сары бауыр
-кесіртке
-</td>
-<td>Ophisaurus apodus</td>
-<td>Желтопузик</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Үлкен көз кесіртке</td>
-<td>Eremias multiocellata</td>
-<td>Глазчатая ящурка</td>
-</tr>
-<tr>
-<td>27</td>
-<td>Шұбар кесіртке</td>
-<td>Eremias vermiculata</td>
-<td>
-Центральноазиатская
-ящурка
-</td>
-</tr>
-<tr>
-<td>28</td>
-<td>Қызылжолақ абжылан</td>
-<td>Coluber rhodorhachis</td>
-<td>Краснополосый полоз</td>
-</tr>
-<tr>
-<td>29</td>
-<td>Сарықұрсақ абжылан</td>
-<td>Coluber caspius</td>
-<td>Желтобрюхий полоз</td>
-</tr>
-<tr>
-<td>30</td>
-<td>
-Төрт жолақты
-абжылан
-</td>
-<td>Elaphe quatuorlineata</td>
-<td>
-Четырехполосый
-полоз
-</td>
-</tr>
-<tr>
-<td>31</td>
-<td>Жолақты абжылан</td>
-<td>Coluber spinalis</td>
-<td>Полосатый полоз</td>
-</tr>
-<tr>
-<th colspan="4">
-Құстар класы
-Aves
-Класс - Птицы
-</th>
-</tr>
-<tr>
-<td>32</td>
-<td>Қызғылт бірқазан</td>
-<td>Pelecanus onocrotalus</td>
-<td>Розовый пеликан</td>
-</tr>
-<tr>
-<td>33</td>
-<td>Бұйра бірқазан</td>
-<td>Pelecanus crispus</td>
-<td>Кудрявый пеликан</td>
-</tr>
-<tr>
-<td>34</td>
-<td>Сарықұтан</td>
-<td>Ardeola ralloides</td>
-<td>Желтая цапля</td>
-</tr>
-<tr>
-<td>35</td>
-<td>Кішкене аққұтан</td>
-<td>Egretta garzetta</td>
-<td>Малая белая цапля</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Жалбағай, қалбағай</td>
-<td>Platalea leucorodia</td>
-<td>Колпица</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Қарабай</td>
-<td>Plegadis falcinellus</td>
-<td>Каравайка</td>
-</tr>
-<tr>
-<td>38</td>
-<td>
-Түркістан ақ
-дегелегі
-</td>
-<td>
-Ciconia ciconia
-asiatica
-</td>
-<td>
-Туркестанский
-белый аист
-</td>
-</tr>
-<tr>
-<td>39</td>
-<td>Қара дегелек</td>
-<td>Ciconia nigra</td>
-<td>Черный аист</td>
-</tr>
-<tr>
-<td>40</td>
-<td>Қоқиқаз</td>
-<td>Phoenicopterus roseus</td>
-<td>Фламинго</td>
-</tr>
-<tr>
-<td>41</td>
-<td>Шиқылдақ қаз</td>
-<td>Anser erythropus</td>
-<td>Гусь пискулька</td>
-</tr>
-<tr>
-<td>42</td>
-<td>Қутұмсық қаз</td>
-<td>Cygnopsis cygnoides</td>
-<td>Гусь-сухонос</td>
-</tr>
-<tr>
-<td>43</td>
-<td>
-Қызылжемсаулы
-қарашақаз
-</td>
-<td>Rufibrenta ruficollis</td>
-<td>Краснозобая казарка</td>
-</tr>
-<tr>
-<td>44</td>
-<td>Сұңқылдақ аққу</td>
-<td>Cygnus cygnus</td>
-<td>Лебедь-кликун</td>
-</tr>
-<tr>
-<td>45</td>
-<td>Кiшi аққу</td>
-<td>Cygnus bewickii</td>
-<td>Малый лебедь</td>
-</tr>
-<tr>
-<td>46</td>
-<td>Мәрмәр шүрегей</td>
-<td>Anas angustirostris</td>
-<td>Мраморный чирок</td>
-</tr>
-<tr>
-<td>47</td>
-<td>Алакөз қаралаүйрек</td>
-<td>Aythya nyroca</td>
-<td>Белоглазая чернеть</td>
-</tr>
-<tr>
-<td>48</td>
-<td>Дентұмсық тұрпан</td>
-<td>Mellanitta deglandi</td>
-<td>Горбоносый турпан</td>
-</tr>
-<tr>
-<td>49</td>
-<td>Қара тұрпан</td>
-<td>Melanitta fusca</td>
-<td>Черный турпан</td>
-</tr>
-<tr>
-<td>50</td>
-<td>Ақбас үйрек</td>
-<td>Oxyura leucocephala</td>
-<td>Савка</td>
-</tr>
-<tr>
-<td>51</td>
-<td>Балықшы тұйғын</td>
-<td>Pandion haliaetus</td>
-<td>Скопа</td>
-</tr>
-<tr>
-<td>52</td>
-<td>
-Жыланшы қыран,
-бүркіт
-</td>
-<td>Circaetus gallicus</td>
-<td>Змееяд</td>
-</tr>
-<tr>
-<td>53</td>
-<td>Бақалтақ қыран</td>
-<td>Aquila pennatus</td>
-<td>Орел-карлик</td>
-</tr>
-<tr>
-<td>54</td>
-<td>Дала қыраны</td>
-<td>Aquila rapax</td>
-<td>Степной орел</td>
-</tr>
-<tr>
-<td>55</td>
-<td>Қарақұс</td>
-<td>Aquila heliaca</td>
-<td>Могильник</td>
-</tr>
-<tr>
-<td>56</td>
-<td>Бүркіт</td>
-<td>Aquila chrysaetus</td>
-<td>Беркут</td>
-</tr>
-<tr>
-<td>57</td>
-<td>Ақиық субүркіт</td>
-<td>
-Haliaeetus
-leucoryphus
-</td>
-<td>Орлан-долгохвост</td>
-</tr>
-<tr>
-<td>58</td>
-<td>
-Аққұйрықты
-субүркіт
-</td>
-<td>Haliaeetus albicilla</td>
-<td>Орлан-белохвост</td>
-</tr>
-<tr>
-<td>59</td>
-<td>
-Сақалтай,
-қозықұмай
-</td>
-<td>Gypaetus barbatus</td>
-<td>Бородач</td>
-</tr>
-<tr>
-<td>60</td>
-<td>Жұртшы</td>
-<td>Neophron percnopterus</td>
-<td>Стервятник</td>
-</tr>
-<tr>
-<td>61</td>
-<td>Құмай</td>
-<td>Gyps himalayensis</td>
-<td>Кумай</td>
-</tr>
-<tr>
-<td>62</td>
-<td>Ақсұңқар</td>
-<td>Falco rusticolus</td>
-<td>Кречет</td>
-</tr>
-<tr>
-<td>63</td>
-<td>Ителгі</td>
-<td>Falco cherrug</td>
-<td>Балобан</td>
-</tr>
-<tr>
-<td>64</td>
-<td>Бидайық</td>
-<td>Falco pelegrinoides</td>
-<td>Шахин</td>
-</tr>
-<tr>
-<td>65</td>
-<td>Лашын</td>
-<td>Falco peregrinus</td>
-<td>Сапсан</td>
-</tr>
-<tr>
-<td>66</td>
-<td>Алтай ұлары</td>
-<td>Tetraogallus altaicus</td>
-<td>Алтайский улар</td>
-</tr>
-<tr>
-<td>67</td>
-<td>Ақтырна</td>
-<td>Grus leucogeranus</td>
-<td>Стерх</td>
-</tr>
-<tr>
-<td>68</td>
-<td>Тазтырна</td>
-<td>Grus grus</td>
-<td>Серый журавль</td>
-</tr>
-<tr>
-<td>69</td>
-<td>Ақбас тырна</td>
-<td>Anthropoides virgo</td>
-<td>Журавль-красавка</td>
-</tr>
-<tr>
-<td>70</td>
-<td>Көңмаңдай</td>
-<td>Porphyrio роrphyrio</td>
-<td>Султанка</td>
-</tr>
-<tr>
-<td>71</td>
-<td>Дуадақ</td>
-<td>Otis tarda</td>
-<td>Дрофа</td>
-</tr>
-<tr>
-<td>72</td>
-<td>Безгелдек</td>
-<td>Otis tetrax</td>
-<td>Стрепет</td>
-</tr>
-<tr>
-<td>73</td>
-<td>Жек дуадақ</td>
-<td>Chlamydotis undulata</td>
-<td>Джек</td>
-</tr>
-<tr>
-<td>74</td>
-<td>Тарғақ</td>
-<td>Chettusia gregaria</td>
-<td>Кречетка</td>
-</tr>
-<tr>
-<td>75</td>
-<td>Орақтұмсық</td>
-<td>
-Ibidorhyncha
-struthersii
-</td>
-<td>Серпоклюв</td>
-</tr>
-<tr>
-<td>76</td>
-<td>Кiшi шалшықшы құс</td>
-<td>Numenius minutus</td>
-<td>Кроншнеп-малютка</td>
-</tr>
-<tr>
-<td>77</td>
-<td>
-Сүйір тұмсықты
-шалшықшы құс
-</td>
-<td>Numenius tenuirostris</td>
-<td>
-Тонкоклювый
-кроншнеп
-</td>
-</tr>
-<tr>
-<td>78</td>
-<td>
-Азиялық тарбаң
-шырғалақ
-</td>
-<td>
-Limnodromus
-semipalmamatus
-</td>
-<td>
-Азиатский
-бекасовидный
-веретенник
-</td>
-</tr>
-<tr>
-<td>79</td>
-<td>
-Қарабас өгіз
-шағала
-</td>
-<td>Larus ichthyaetus</td>
-<td>
-Черноголовый
-хохотун
-</td>
-</tr>
-<tr>
-<td>80</td>
-<td>Қарамойнақ шағала</td>
-<td>Larus relictus</td>
-<td>Реликтовая чайка</td>
-</tr>
-<tr>
-<td>81</td>
-<td>Қарабауыр бұлдырық</td>
-<td>Pterocles orientalis</td>
-<td>Чернобрюхий рябок</td>
-</tr>
-<tr>
-<td>82</td>
-<td>Ақбауыр бұлдырық</td>
-<td>Pterocles alchata</td>
-<td>Белобрюхий рябок</td>
-</tr>
-<tr>
-<td>83</td>
-<td>Ұбақ, қолаңтөс</td>
-<td>Syrrhaptes paradoxus</td>
-<td>Саджа</td>
-</tr>
-<tr>
-<td>84</td>
-<td>Қоңыр кептер</td>
-<td>Columba eversmanni</td>
-<td>Бурый голубь</td>
-</tr>
-<tr>
-<td>85</td>
-<td>Yкi</td>
-<td>Bubo bubo</td>
-<td>Филин</td>
-</tr>
-<tr>
-<td>86</td>
-<td>Іле жорға торғайы</td>
-<td>
-Podoces panderi
-ilensis
-</td>
-<td>
-Илийская
-саксаульная сойка
-</td>
-</tr>
-<tr>
-<td>87</td>
-<td>Көкқұс</td>
-<td>Myophonus coeruleus</td>
-<td>Синяя птица</td>
-</tr>
-<tr>
-<td>88</td>
-<td>Үлкен құралайқұс</td>
-<td>Carpodacus rubicilla</td>
-<td>Большая чечевица</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="4">
-Сүт қоректілер класы
-Mammalia
-Класс - Млекопитающие
-</th>
-</tr>
-<tr>
-<td>89</td>
-<td>Көптісті жертесер</td>
-<td>Suncus etruscus</td>
-<td>Белозубка малютка</td>
-</tr>
-<tr>
-<td>90</td>
-<td>Жұпар тышқан</td>
-<td>Desmana moschata</td>
-<td>Выхухоль</td>
-</tr>
-<tr>
-<td>91</td>
-<td>
-Иконников
-жарқанаты
-</td>
-<td>Myotis ikonnikovy</td>
-<td>
-Ночница
-Иконникова
-</td>
-</tr>
-<tr>
-<td>92</td>
-<td>
-Азия жалпаққұлақты
-жарқанаты
-</td>
-<td>
-Barbastella
-leucomelas
-</td>
-<td>
-Азиатская
-широкоушка
-</td>
-</tr>
-<tr>
-<td>93</td>
-<td>
-Бобринский
-жарқанаты
-</td>
-<td>Eptesicus bobrinskii</td>
-<td>Кожанок Бобринского</td>
-</tr>
-<tr>
-<td>94</td>
-<td>Ақбауыр жарқанат</td>
-<td>Otonycteris hemprichi</td>
-<td>
-Белобрюхий
-стрелоух
-</td>
-</tr>
-<tr>
-<td>95</td>
-<td>
-Бүрме ерінді
-жарқанат
-</td>
-<td>Tadarida teniotis</td>
-<td>
-Широкоухий
-складчатогуб
-</td>
-</tr>
-<tr>
-<td>96</td>
-<td>Қызыл қасқыр</td>
-<td>Cuon alpinus</td>
-<td>Красный волк</td>
-</tr>
-<tr>
-<td>97</td>
-<td>
-Тянь-Шань қоңыр
-аюы
-</td>
-<td>
-Ursus arctos
-isabellinus
-</td>
-<td>
-Тянь-шаньский
-бурый медведь
-</td>
-</tr>
-<tr>
-<td>98</td>
-<td>Тас сусары</td>
-<td>Martes foina Erxleben</td>
-<td>Каменная куница</td>
-</tr>
-<tr>
-<td>99</td>
-<td>Орман сусары</td>
-<td>Martes martes</td>
-<td>Лесная куница</td>
-</tr>
-<tr>
-<td>100</td>
-<td>Еуропа күзені</td>
-<td>Mustela lutreola</td>
-<td>Европейская норка</td>
-</tr>
-<tr>
-<td>101</td>
-<td>Шұбар күзені</td>
-<td>Vormela peregusna</td>
-<td>Перевязка</td>
-</tr>
-<tr>
-<td>102</td>
-<td>Балжегіш аю</td>
-<td>Mellivora capensis</td>
-<td>Медоед</td>
-</tr>
-<tr>
-<td>103</td>
-<td>
-Орта Азиялық
-өзен кәмшаты
-</td>
-<td>
-Lutra lutra
-seistanica
-</td>
-<td>
-Среднеазиатская
-речная выдра
-</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Қабылан</td>
-<td>Acinonyx jubatus</td>
-<td>Гепард</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Шағыл мысығы</td>
-<td>Felis margarita</td>
-<td>Барханный кот</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Сабаншы</td>
-<td>Felis manul</td>
-<td>Манул</td>
-</tr>
-<tr>
-<td>107</td>
-<td>Қарақал</td>
-<td>Lynx caracal</td>
-<td>Каракал</td>
-</tr>
-<tr>
-<td>108</td>
-<td>
-Орта Азия немесе
-түркістан
-сілеусіні
-</td>
-<td>Lynx lynx isabellinus</td>
-<td>
-Центральноазиат-
-ская или
-туркестанская
-рысь
-</td>
-</tr>
-<tr>
-<td>109</td>
-<td>Барыс</td>
-<td>Uncia uncia Schreber</td>
-<td>Снежный барс</td>
-</tr>
-<tr>
-<td>110</td>
-<td>Түрікмен құланы</td>
-<td>Equus hemionus onager</td>
-<td>Туркменский кулан</td>
-</tr>
-<tr>
-<td>111</td>
-<td>Тоғай кермаралы</td>
-<td>
-Cervus elaphus
-bactrianus
-</td>
-<td>
-Тугайный
-благородный олень
-</td>
-</tr>
-<tr>
-<td>112</td>
-<td>Қарақұйрық</td>
-<td>Gazella subgutturosa</td>
-<td>Джейран</td>
-</tr>
-<tr>
-<td>113</td>
-<td>Ycтipт арқары</td>
-<td>Ovis vignei arkal</td>
-<td>
-Устюртский
-горный баран
-</td>
-</tr>
-<tr>
-<td>114</td>
-<td>Алтай арқары</td>
-<td>Ovis ammon ammon</td>
-<td>
-Алтайский горный
-баран
-</td>
-</tr>
-<tr>
-<td>115</td>
-<td>Қызылқұм арқары</td>
-<td>Ovis ammon severtzovi</td>
-<td>
-Кызылкумский
-горный баран
-</td>
-</tr>
-<tr>
-<td>116</td>
-<td>Қазақстан арқары</td>
-<td>Ovisammon collium</td>
-<td>
-Казахстанский
-горный баран
-</td>
-</tr>
-<tr>
-<td>117</td>
-<td>Тянь-шань арқары</td>
-<td>Ovis ammon karelini</td>
-<td>
-Тянь-шаньский
-горный баран
-</td>
-</tr>
-<tr>
-<td>118</td>
-<td>Қаратау арқары</td>
-<td>
-Ovis ammon
-nigrimontana
-</td>
-<td>
-Каратауский
-горный баран
-</td>
-</tr>
-<tr>
-<td>119</td>
-<td>Мензбир суыры</td>
-<td>Marmota menzbieri</td>
-<td>Сурок Мензбира</td>
-</tr>
-<tr>
-<td>120</td>
-<td>Үнді жайрасы</td>
-<td>Hystrix indica</td>
-<td>
-Индийский
-дикобраз
-</td>
-</tr>
-<tr>
-<td>121</td>
-<td>Жалман</td>
-<td>
-Selevinia
-betpakdalensis
-</td>
-<td>Селевиния</td>
-</tr>
-<tr>
-<td>122</td>
-<td>
-Бессаусақты
-ергежейлі қосаяқ
-</td>
-<td>
-Cardiocranius
-paradoxus
-</td>
-<td>
-Пятипалый
-карликовый
-тушканчик
-</td>
-</tr>
-<tr>
-<td>123</td>
-<td>
-Гептнер ергежейлі
-қосаяғы
-</td>
-<td>Salpingotus heptneri</td>
-<td>
-Карликовый
-тушканчик
-Гептнера
-</td>
-</tr>
-<tr>
-<td>124</td>
-<td>
-Ергежейлі
-боз қосаяқ
-</td>
-<td>Salpingotus pallidus</td>
-<td>
-Бледный
-карликовый
-тушканчик
-</td>
-</tr>
-<tr>
-<td>125</td>
-<td>
-Ергежейлі
-майқұйрық қосаяқ
-</td>
-<td>
-Salpingotus
-crasicauda
-</td>
-<td>
-Жирнохвостый
-карликовый
-тушканчик
-</td>
-</tr>
-<tr>
-<td>126</td>
-<td>Үлкен көртышқан</td>
-<td>Spalax giganteus</td>
-<td>Гигантский слепыш</td>
-</tr>
-<tr>
-<td>127</td>
-<td>
-Роборовский
-атжалманы
-</td>
-<td>Phodopus roborovskii</td>
-<td>
-Хомячок
-Роборовского
-</td>
-</tr>
-<tr>
-<td>128</td>
-<td>Сары алақоржын</td>
-<td>Lagurus luteus</td>
-<td>Желтая пеструшка</td>
 </tr>
 <tr>
 <td colspan="4">
-Түр тармағы - Омыртқасыздар
-Tүpi - Буылтық құрттар
-Аз қылшықтылар класы
-Люмбрикоморфа отряды
-Invertebrates
-Annelida
-Oligochaeta
-Lumbricomorpha
-Подтип - Беспозвоночные
-Тип - Кольчатые черви
-Класс - Малощетинковые
-Отряд - Люмбрикоморфа
-</td>
-</tr>
-<tr>
-<td>129</td>
-<td>
-Жылан тәрізді
-перелия
-</td>
-<td>Perelia ophiomorpha</td>
-<td>
-Перелия
-змеевидная
-</td>
-</tr>
-<tr>
-<td>130</td>
-<td>Керемет эйзения</td>
-<td>Eisenia magnifica</td>
-<td>
-Эйзения
-великолепная
-</td>
-</tr>
-<tr>
-<th colspan="4">
-Tүpi - Моллюскалар
-Бауыраяқтылар класы
-Құрлықтағылар отряды
-Mollusca
-Gastropoda
-Geophila
-Тип - Моллюски
-Класс - Брюхоногие
-Отряд - Наземные
-</th>
-</tr>
-<tr>
-<td>131</td>
-<td>
-Теель
-гастрокоптасы
-</td>
-<td>Gastrocopta theeli</td>
-<td>Гастрокопта Тееля</td>
-</tr>
-<tr>
-<td>132</td>
-<td>
-Сол бұрандалы
-брадибена
-</td>
-<td>Bradybaena sinisrorsa</td>
-<td>
-Брадибена
-синистрорза
-</td>
-</tr>
-<tr>
-<td>133</td>
-<td>
-Шнитников
-псеудонапэусы
-</td>
-<td>
-Pseudonapaeus
-schnitnikovi
-</td>
-<td>
-Псеудонапэус
-Шнитникова
-</td>
-</tr>
-<tr>
-<td>134</td>
-<td>
-Түркістан
-туркомилаксы
-</td>
-<td>
-Turcomilax
-turkestanus
-</td>
-<td>
-Туркомилакс
-туркестанский
-</td>
-</tr>
-<tr>
-<td>135</td>
-<td>
-Цветков
-туркомилаксы
-</td>
-<td>Turcomilax tzvetkovi</td>
-<td>
-Туркомилакс
-Цветкова
-</td>
-</tr>
-<tr>
-<td>136</td>
-<td>
-Монахоидес
-акулеата
-</td>
-<td>Monachoides aculeate</td>
-<td>
-Монахоидес
-акулеата
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="4">
-Tүpi - Буынаяқтылар
-Шаян тәрізділер класы
-Он аяқтылар отряды
-Arthropoda
-Crustacea
-Decapoda
-Тип - Членистоногие
-Класс - Ракообразные
-Отряд - Десятиногие
-</th>
-</tr>
-<tr>
-<td>137</td>
-<td>Түркістан шаяны</td>
-<td>Astacus kessleri</td>
-<td>Туркестанский рак</td>
-</tr>
-<tr>
-<th colspan="4">
-Өрмекші тәрізділер класы
-Сольпугалар отряды
-Arachnida
-Solifugae
-Класс - Паукообразные
-Отряд - Сольпуги
-</th>
-</tr>
-<tr>
-<td>138</td>
-<td>Рикмерс сольпугасы</td>
-<td>Gylippus rickmersi</td>
-<td>Сольпуга Рикмерса</td>
-</tr>
-<tr>
-<th colspan="4">
-Сары шаяндар отряды
-Scorpiones
-Отряд - Скорпионы
-</th>
-</tr>
-<tr>
-<td>139</td>
-<td>Рикмерс сары шаяны</td>
-<td>
-Anomalobuthus
-rickmersi
-</td>
-<td>Скорпион Рикмерса</td>
-</tr>
-<tr>
-<th colspan="4">
-Насекомдар класы
-Инеліктер отряды
-Insecta
-Odonata
-Класс - Насекомые
-Отряд - Стрекозы
-</th>
-</tr>
-<tr>
-<td>140</td>
-<td>
-Арал жіңішке
-құйрықты инелігі
-</td>
-<td>Ischnura aralenais</td>
-<td>
-Тонкохвост
-аральский
-</td>
-</tr>
-<tr>
-<td>141</td>
-<td>
-Көрнекті шоқпар
-қарынды инелік
-</td>
-<td>
-Cordulegaster
-insignis
-</td>
-<td>
-Булавобрюх
-заметный
-</td>
-</tr>
-<tr>
-<td>142</td>
-<td>Кириченко инелігі</td>
-<td>
-Anormogomphus
-kiritschenkoi
-</td>
-<td>
-Лето детка
-Кириченко
-</td>
-</tr>
-<tr>
-<td>143</td>
-<td>Әдеміқыз инелік</td>
-<td>Calopteryx virgo</td>
-<td>Красотка девушка</td>
-</tr>
-<tr>
-<td>144</td>
-<td>Әмірші инелік</td>
-<td>Anax imperator</td>
-<td>
-Дозорщик-
-император
-</td>
-</tr>
-<tr>
-<td>145</td>
-<td>
-Оңтүстік Азиялық
-тік қарынды инелік
-</td>
-<td>Orthetrum Sabina</td>
-<td>Прямобрюх южноазиатский</td>
-</tr>
-<tr>
-<td>146</td>
-<td>
-Селисия қара
-инелігі
-</td>
-<td>Selysiothemis nigra</td>
-<td>Селисия черная</td>
-</tr>
-<tr>
-<td colspan="4">
-Дәуіттер отряды
-Mantoptera
-Отряд - Богомоловые
-</td>
-</tr>
-<tr>
-<td>147</td>
-<td>
-Қысқа қанатты
-Боливария дәуіті
-</td>
-<td>Bolivaria brachyptera</td>
-<td>
-Боливария
-короткокрылая
-</td>
-</tr>
-<tr>
-<td>148</td>
-<td>Ағаш дәуіті</td>
-<td>Hierodula tenuidentata</td>
-<td>Богомол древесный</td>
-</tr>
-<tr>
-<th colspan="4">
-Тең қанаттылар отряды
-Orthoptera
-Отряд - Прямокрылые
-</th>
-</tr>
-<tr>
-<td>149</td>
-<td>
-Түйіршікті
-деракантина
-</td>
-<td>Deracanthina granulate</td>
-<td>
-Деракантина
-гранулированная
-</td>
-</tr>
-<tr>
-<td>150</td>
-<td>
-Дамалаканта вакка
-шегірткесі
-</td>
-<td>Damalacantha vacca</td>
-<td>Дамалаканта Вакка</td>
-</tr>
-<tr>
-<td>151</td>
-<td>Дала шегірткесі</td>
-<td>Sagapedo</td>
-<td>Дыбка степная</td>
-</tr>
-<tr>
-<td>152</td>
-<td>Сервилль Севчугі</td>
-<td>Onconotus servillei</td>
-<td>Севчук Сервилля</td>
-</tr>
-<tr>
-<td>153</td>
-<td>
-Қоңыр қанатты
-шегіртке
-</td>
-<td>Ceraeocercus fuscipermis</td>
-<td>
-Кузнечик
-темнокрылый
-</td>
-</tr>
-<tr>
-<th colspan="4">
-Tік қанаттылар отряды
-Homoptera
-Отряд - Равнокрылые
-</th>
-</tr>
-<tr>
-<td>154</td>
-<td>
-Якобсон
-филлоргериусы
-(сымыры)
-</td>
-<td>
-Phyllorgerius
-jacobsoni
-</td>
-<td>
-Филлоргериус
-Якобсона
-</td>
-</tr>
-<tr>
-<td>155</td>
-<td>
-Виктория карминді
-сымыры
-</td>
-<td>
-Рorphyrophora
-victoriae
-</td>
-<td>
-Карминоносный
-червец Виктории
-</td>
-</tr>
-<tr>
-<td>156</td>
-<td>
-Кармин бояуын
-өндipушi ақ мия
-сымыры
-</td>
-<td>
-Рorphyrophora
-sophorae
-</td>
-<td>
-Карминоносный
-червец горчаковый
-</td>
-</tr>
-<tr>
-<td>157</td>
-<td>
-Кармин айлаулықтар
-сымыры
-</td>
-<td>
-Porphyrophora
-arnebiae
-</td>
-<td>
-Карминоносный
-червец
-бурачниковый
-</td>
-</tr>
-<tr>
-<td>158</td>
-<td>
-Карминді поляк
-сымыры
-</td>
-<td>
-Рorphyrophora
-polonica
-</td>
-<td>
-Карминосный
-червец польский
-</td>
-</tr>
-<tr>
-<td>159</td>
-<td>Ұзынша сымыр</td>
-<td>
-Parafairmairia
-elongata
-</td>
-<td>Червец удлиненный</td>
-</tr>
-<tr>
-<td>160</td>
-<td>Iciк түзгіш сымыр</td>
-<td>
-Acanthococcus
-orbiculus
-</td>
-<td>Червец галловый</td>
-</tr>
-<tr>
-<th colspan="4">
-Қатты қанаттылар отряды
-Coleoptera
-Отряд - Жесткокрылые
-</th>
-</tr>
-<tr>
-<td>161</td>
-<td>
-Кeшкiлiк
-барылдауық қоңызы
-</td>
-<td>Cicindela nox</td>
-<td>Скакун сумеречный</td>
-</tr>
-<tr>
-<td>162</td>
-<td>
-Семенов
-барылдауық қоңызы
-</td>
-<td>Callisthenes semenovi</td>
-<td>Красотел Семенова</td>
-</tr>
-<tr>
-<td>163</td>
-<td>
-Тор қанатты
-барылдауық қоңыз
-</td>
-<td>
-Callisthenes
-reticulates
-</td>
-<td>Красотел сетчатый</td>
-</tr>
-<tr>
-<td>164</td>
-<td>
-Геблер барылдауық
-қоңызы
-</td>
-<td>Carabus gebleri</td>
-<td>Жужелица Геблера</td>
-</tr>
-<tr>
-<td>165</td>
-<td>
-Михайлов
-барылдауық қоңызы
-</td>
-<td>Carabus michailovi</td>
-<td>Жужелица Михайлова</td>
-</tr>
-<tr>
-<td>166</td>
-<td>
-Линденманн
-барылдауық қоңызы
-</td>
-<td>Carabus lindemanni</td>
-<td>
-Жужелица
-Линдеманна
-</td>
-</tr>
-<tr>
-<td>167</td>
-<td>
-Іле барылдауық
-қоңызы
-</td>
-<td>Carabus iliensis</td>
-<td>Жужелица илийская</td>
-</tr>
-<tr>
-<td>168</td>
-<td>
-Хике барылдауық
-қоңызы
-</td>
-<td>Carabus hiekei</td>
-<td>Жужелица Хике</td>
-</tr>
-<tr>
-<td>169</td>
-<td>
-Сольский
-барылдауық қоңызы
-</td>
-<td>Carabus solskyi</td>
-<td>
-Жужелица
-Сольского
-</td>
-</tr>
-<tr>
-<td>170</td>
-<td>
-Ұл бала
-барылдауық қоңызы
-</td>
-<td>Carabus puer</td>
-<td>Жужелица-мальчик</td>
-</tr>
-<tr>
-<td>171</td>
-<td>
-Керемет барылдауық
-қоңызы
-</td>
-<td>Carabus imperialis</td>
-<td>
-Жужелица
-восхитительная
-</td>
-</tr>
-<tr>
-<td>172</td>
-<td>Бұғы қоңыз</td>
-<td>Lucanus cervus</td>
-<td>Жук-олень</td>
-</tr>
-<tr>
-<td>173</td>
-<td>Балауса бұғы қоңыз</td>
-<td>
-Dorcus
-parallelopipedus
-</td>
-<td>Оленек</td>
-</tr>
-<tr>
-<td>174</td>
-<td>
-Жылжымалы мүйізді
-қоңыз
-</td>
-<td>Bolboceras armiger</td>
-<td>
-Подвижнорогий
-навозник
-</td>
-</tr>
-<tr>
-<td>175</td>
-<td>
-Чичерин летрус
-қоңызы
-</td>
-<td>Lethrus tschitsherini</td>
-<td>Кравчик Чичерина</td>
-</tr>
-<tr>
-<td>176</td>
-<td>
-Еуропа кнемизус
-қоңызы
-</td>
-<td>Cnemisus rufescens</td>
-<td>
-Кнемизус
-европейский
-</td>
-</tr>
-<tr>
-<td>177</td>
-<td>
-Кәдімгі гаплозома
-қоңызы
-</td>
-<td>Haplosoma ordinatum</td>
-<td>Гаплозома обычная</td>
-</tr>
-<tr>
-<td>178</td>
-<td>
-Балқаш тамыр
-жегіш қоңызы
-</td>
-<td>
-Dorcadion
-Balchashense
-</td>
-<td>
-Корнеед
-балхашский
-</td>
-</tr>
-<tr>
-<td>179</td>
-<td>
-Гангльбауэр
-тамыр жегіш қоңызы
-</td>
-<td>Dorcadion ganglbaueri</td>
-<td>Корнеед Гангльбауэра</td>
-</tr>
-<tr>
-<td>180</td>
-<td>
-Үлкен тамыр
-жегіш қоңыз
-</td>
-<td>Dorcadion grande</td>
-<td>Корнеед большой</td>
-</tr>
-<tr>
-<td>181</td>
-<td>
-Іле отын кескіш
-қоңызы
-</td>
-<td>Aromia pruinosa</td>
-<td>
-Дровосек
-мускусный
-</td>
-</tr>
-<tr>
-<td>182</td>
-<td>
-Галузо отын кескіш
-қоңызы
-</td>
-<td>Asias galusoi</td>
-<td>Дровосек Галузо</td>
-</tr>
-<tr>
-<td>183</td>
-<td>
-Жыңғыл отын
-кескіш қоңызы
-</td>
-<td>Hesperophanes heudeni</td>
-<td>
-Дровосек
-тамарисковый
-</td>
-</tr>
-<tr>
-<td>184</td>
-<td>
-Үлкен тораңғы
-қоңызы
-</td>
-<td>
-Capnodis militaris
-metallica
-</td>
-<td>
-Большая
-туранговая златка
-</td>
-</tr>
-<tr>
-<td>185</td>
-<td>Тянь-Шань қанқызы</td>
-<td>
-Coccinella
-tianshanica
-</td>
-<td>
-Коровка
-тянь-шанская
-</td>
-</tr>
-<tr>
-<td>186</td>
-<td>
-Қос нүктелі
-қанқызы
-</td>
-<td>
-Chilocorus
-bipustulatus
-</td>
-<td>
-Хилокорус
-двуточечный
-</td>
-</tr>
-<tr>
-<td>187</td>
-<td>Нүктелі қанқызы</td>
-<td>Stethorus punctillum</td>
-<td>Точечная коровка</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<th colspan="4">
-Жарғақ қанаттылар отряды
-Hymenoptera
-Отряд - Перепончатокрылые
-</th>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<td>188</td>
-<td>Алып сколия</td>
-<td>Scolia maculata</td>
-<td>Сколия-гигант</td>
-</tr>
-<tr>
-<td>189</td>
-<td>Дала сколиясы</td>
-<td>Scolia hirta</td>
-<td>Сколия степная</td>
-</tr>
-<tr>
-<td>190</td>
-<td>
-Шестаков
-Сцелифроны
-</td>
-<td>Sceliphron shestakovi</td>
-<td>
-Сцелифрон
-Шестакова
-</td>
-</tr>
-<tr>
-<td>191</td>
-<td>Сары қанатты сфекс</td>
-<td>Sphex flavipennis</td>
-<td>Сфекс желтокрылый</td>
-</tr>
-<tr>
-<td>192</td>
-<td>
-Харберхауэр
-приониксі
-</td>
-<td>Prionyx haberhaueri</td>
-<td>
-Прионикс
-Хаберхауэра
-</td>
-</tr>
-<tr>
-<td>193</td>
-<td>Қаралы прионикс</td>
-<td>Prionyx macula lugens</td>
-<td>Прионикс траурный</td>
-</tr>
-<tr>
-<td>194</td>
-<td>Тау лестифорусы</td>
-<td>
-Lestiphorus
-oreophilus
-</td>
-<td>
-Лестифорус
-горолюбивый
-</td>
-</tr>
-<tr>
-<td>195</td>
-<td>Жирен гоплит</td>
-<td>
-Hoplitis (Megalosmia)
-fulva
-</td>
-<td>Гоплит рыжий</td>
-</tr>
-<tr>
-<td>196</td>
-<td>
-Ақ бауыр
-металлинелла
-</td>
-<td>
-Metallinella
-leucogastra
-</td>
-<td>
-Металлинелла
-белобрюхая
-</td>
-</tr>
-<tr>
-<td>197</td>
-<td>
-Дөңгеленген
-парарофитес
-</td>
-<td>Pararophites orbinus</td>
-<td>
-Парарофитес
-округлый
-</td>
-</tr>
-<tr>
-<td>198</td>
-<td>
-Жіңішке аяқты
-клизодон
-</td>
-<td>Clisodon gracilipes</td>
-<td>
-Клизодон
-тонконогий
-</td>
-</tr>
-<tr>
-<td>199</td>
-<td>
-Жирен-қызыл
-проксилокопа
-</td>
-<td>
-Proxylocopa
-(Proxylocopa) rufa
-</td>
-<td>
-Проксилокопа
-рыжевато-красная
-</td>
-</tr>
-<tr>
-<td>200</td>
-<td>
-Жылтыр бауырлы
-проксилокопа
-</td>
-<td>
-Proxylocopa
-(Ancylocopa)
-nitidiventris
-</td>
-<td>
-Проксилокопа
-блестящебрюхая
-</td>
-</tr>
-<tr>
-<th colspan="4">
-Қос қанаттылар отряды
-Diptera
-Отряд - Двукрылые
-</th>
-</tr>
-<tr>
-<td>201</td>
-<td>Бөгеті құмытысы</td>
-<td>
-Atraphaxiola
-bogutensis
-</td>
-<td>
-Атрафаксиола
-богутинская
-</td>
-</tr>
-<tr>
-<td>202</td>
-<td>
-Жетілмеген
-эфедромия
-</td>
-<td>
-Ephedromia
-debilopalpis
-</td>
-<td>
-Эфедромия
-недоразвитощупи-
-ковая
-</td>
-</tr>
-<tr>
-<td>203</td>
-<td>Азия стенфаниоласы</td>
-<td>Stefaniola asiatica</td>
-<td>
-Стефаниола
-азиатская
-</td>
-</tr>
-<tr>
-<td>204</td>
-<td>
-Керемет
-стенфаниола
-</td>
-<td>
-Stefaniola
-lepidosa B.
-</td>
-<td>
-Стефаниола
-великолепная
-</td>
-</tr>
-<tr>
-<td>205</td>
-<td>
-Түрлі мүйізді
-псектросема
-</td>
-<td>
-Psectrosema
-diversicornis
-</td>
-<td>
-Псектросема
-разнороговая
-</td>
-</tr>
-<tr>
-<th colspan="4">
-Қабыршақ қанаттылар отряды
-Lepidoptera
-Отряд - Чешуекрылые
-</th>
-</tr>
-<tr>
-<td>206</td>
-<td>
-Түрікмен ала
-көбелегі
-</td>
-<td>Zygaena turchmena</td>
-<td>
-Пестрянка
-туркменская
-</td>
-</tr>
-<tr>
-<td>207</td>
-<td>
-Тораңғы филерема
-көбелегі
-</td>
-<td>Laothoe philerema</td>
-<td>
-Бражник
-туранговый
-</td>
-</tr>
-<tr>
-<td>208</td>
-<td>
-Тоғай айдарлы
-көбелегі
-</td>
-<td>Paragluphisia oxiana</td>
-<td>Хохлатка тугайная</td>
-</tr>
-<tr>
-<td>209</td>
-<td>
-Жолақты тораңғы
-көбелегі
-</td>
-<td>Catocala optima</td>
-<td>
-Лента орденская
-туранговая
-</td>
-</tr>
-<tr>
-<td>210</td>
-<td>
-Мамықты хаймоптена
-көбелегі
-</td>
-<td>Cheimoptena pennigera</td>
-<td>
-Хаймоптена
-оперенная
-</td>
-</tr>
-<tr>
-<td>211</td>
-<td>Алексанор көбелегі</td>
-<td>Papilio alexanor</td>
-<td>
-Парусник
-Алексанор
-</td>
-</tr>
-<tr>
-<td>212</td>
-<td>Поликсена</td>
-<td>Zerynthia polyxena</td>
-<td>Поликсена</td>
-</tr>
-<tr>
-<td>213</td>
-<td>Бедромиус</td>
-<td>Parnassius boedromius</td>
-<td>Бедромиус</td>
-</tr>
-<tr>
-<td>214</td>
-<td>Патриций</td>
-<td>Parnassius patricius</td>
-<td>Патриций</td>
-</tr>
-<tr>
-<td>215</td>
-<td>
-Алау түсті
-микрозегрис
-</td>
-<td>Microzegris pyrothoe</td>
-<td>
-Микрозегрис
-пламенный
-</td>
-</tr>
-<tr>
-<td>216</td>
-<td>
-Вискотт сары
-көбелегі
-</td>
-<td>
-Colias wiscotti
-draconis
-</td>
-<td>Желтушка Вискотта</td>
-</tr>
-<tr>
-<td>217</td>
-<td>
-Ершов сары
-көбелегі
-</td>
-<td>Colias erschovi</td>
-<td>Желтушка Ершова</td>
-</tr>
-<tr>
-<td>218</td>
-<td>
-Монғол барқыт
-түстi көбелегі
-</td>
-<td>Coenonympha mongolica</td>
-<td>
-Сенница
-монгольская
-</td>
-</tr>
-<tr>
-<td>219</td>
-<td>
-Энейс Мулл
-көбелегі
-</td>
-<td>Oeneis mulla</td>
-<td>Энейс Мулла</td>
-</tr>
-<tr>
-<td>220</td>
-<td>
-Мирмекида көгілдір
-көбелегі
-</td>
-<td>
-Aricia chinensis
-myrmecias
-</td>
-<td>
-Голубянка
-Мирмекида
-</td>
-</tr>
-<tr>
-<td>221</td>
-<td>
-Арғали көгілдір
-көбелегі
-</td>
-<td>Glaucopsyche argali</td>
-<td>Голубянка Аргали</td>
-</tr>
-<tr>
-<td>222</td>
-<td>
-Бавия көгілдір
-көбелегі
-</td>
-<td>Scolitantides bavius</td>
-<td>Голубянка Бавия</td>
-</tr>
-<tr>
-<td>223</td>
-<td>
-Панопа көгілдір
-көбелегі
-</td>
-<td>Palaeophilotes panope</td>
-<td>Голубянка Панопа</td>
-</tr>
-<tr>
-<td>224</td>
-<td>
-Татьяна көгілдір
-көбелегі
-</td>
-<td>Otnjukovia tatjana</td>
-<td>Голубянка Татьяна</td>
-</tr>
-</table>
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2006 жылғы 31 қазандағы*  
-> *N 1034 қаулысымен*  
-> *бекітілген*  
-> *Утвержден*  
-> *постановлением Правительства*  
-> *Республики Казахстан*  
-> *от 31 октября 2006 года N 1034*
-
-## Өсімдіктердің сирек кездесетін және құрып кету қаупі төнген түрлерінің тізбесі
-
-## Перечень редких и находящихся под угрозой исчезновения видов растений
-
-<table>
-<tr>
-<th colspan="4">Атауы /Наименование</th>
-</tr>
-<tr>
-<th>
-Р/с
-N
-N
-п/п
-</th>
-<th>
-Қазақ тілінде
-На казахском языке
-</th>
-<th>
-Латын тілінде
-На латинском
-языке
-</th>
-<th>
-Орыс тілінде
-На русском языке
-</th>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-</tr>
-<tr>
-<th colspan="4">
-Өсімдіктер
-Бөлім - Сушырмауық тәрізділер
+Өсiмдiктер
+Бөлiм - Сушырмауық тәрiздiлер
 Plants
 Lycopodiophyta
 Растения
 Отдел - Плауновидные
-</th>
+</td>
 </tr>
 <tr>
 <td>1</td>
-<td>
-Альпі
-дифизиаструмы
-</td>
+<td>Альпi дифизиаструмы</td>
 <td>Diphasiastrum alpinum</td>
-<td>
-Дифазиаструм
-альпийский
-</td>
+<td>Дифазиаструм альпийский</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2429,15 +112,15 @@ Lycopodiophyta
 <td>Гуперция. Баранец</td>
 </tr>
 <tr>
-<th colspan="4">
-Бөлім - Папоротник тәрізділер
+<td colspan="4">
+Бөлiм - Папоротник тәрiздiлер
 Polypodiophyta
 Отдел - Папоротниковые
-</th>
+</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Шолпаншаш сүмбіл</td>
+<td>Шолпаншаш сүмбiл</td>
 <td>
 Adiantum
 capillus-veneris
@@ -2449,56 +132,35 @@ capillus-veneris
 </tr>
 <tr>
 <td>4</td>
-<td>
-Мыңжылқы усасыр
-қырыққұлағы
-</td>
-<td>
-Dryopteris
-mindshelkensis
-</td>
-<td>
-Щитовник
-мынжылкинский
-</td>
+<td>Мыңжылқы усасыр қырыққұлағы</td>
+<td>Dryopteris mindshelkensis</td>
+<td>Щитовник мынжылкинский</td>
 </tr>
 <tr>
-<th colspan="4">
-Бөлім - Жалаң тұқымдылар
+<td colspan="4">
+Бөлiм - Жалаң тұқымдылар
 Pinophyta
 Отдел - Голосеменные
-</th>
+</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Шренк шыршасы</td>
-<td>
-Picea schrenkiana
-f. prostrata
-</td>
-<td>
-Стланиковая форма
-ели Шренка
-</td>
+<td>Picea schrenkiana f. prostrata</td>
+<td>Стланиковая форма ели Шренка</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Зеравшан аршасы</td>
-<td>
-Juniperus
-seravschanica
-</td>
-<td>
-Можжевельник
-зеравшанский
-</td>
+<td>Juniperus seravschanica</td>
+<td>Можжевельник зеравшанский</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="4">
-Бөлім - Жабық тұқымдылар
+Бөлiм - Жабық тұқымдылар
 Magnoliophyta
 Отдел - Покрытосеменные
 </td>
@@ -2517,27 +179,21 @@ Magnoliophyta
 </tr>
 <tr>
 <td>9</td>
-<td>Виталий шөмішгүлі</td>
+<td>Виталий шөмiшгүлi</td>
 <td>Aquilegia vitalii</td>
 <td>Водосбор Виталия</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Қаратау шөмішгүлі</td>
+<td>Қаратау шөмiшгүлi</td>
 <td>Aquilegia karatavica</td>
-<td>
-Водосбор
-каратауский
-</td>
+<td>Водосбор каратауский</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Сарғылт құндызшөп</td>
 <td>Pulsatilla flavescens</td>
-<td>
-Прострел
-желтоватый
-</td>
+<td>Прострел желтоватый</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2547,32 +203,25 @@ Magnoliophyta
 </td>
 <td>Pulsatilla flavescens</td>
 <td>
-Прострел
-раскрытый.
+Прострел раскрытый.
 Сон-трава
 </td>
 </tr>
 <tr>
 <td>13</td>
-<td>
-Фальконер
-бауыршөбі
-</td>
+<td>Фальконер бауыршөбi</td>
 <td>Hepatica falconeri</td>
-<td>
-Печеночница
-Фальконера
-</td>
+<td>Печеночница Фальконера</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Көктем жанаргүлі</td>
+<td>Көктем жанаргүлi</td>
 <td>Adonis vernalis</td>
 <td>Адонис весенний</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Еділ жанаргүлі</td>
+<td>Едiл жанаргүлi</td>
 <td>Adonis wolgensis</td>
 <td>Адонис волжский</td>
 </tr>
@@ -2584,16 +233,13 @@ Magnoliophyta
 </tr>
 <tr>
 <td>17</td>
-<td>Түкті жанаргүл</td>
+<td>Түктi жанаргүл</td>
 <td>Adonis villosa</td>
 <td>Адонис пушистый</td>
 </tr>
 <tr>
 <td>18</td>
-<td>
-Тянь-Шань
-жанаргүлі
-</td>
+<td>Тянь-Шань жанаргүлi</td>
 <td>Adonis tianschanica</td>
 <td>Адонис тяньшанский</td>
 </tr>
@@ -2605,57 +251,33 @@ Magnoliophyta
 </tr>
 <tr>
 <td>20</td>
-<td>
-Сына жапырақты
-тегеурінгүл
-</td>
+<td>Сына жапырақты тегеурiнгүл</td>
 <td>Delphinium cuneatum</td>
-<td>
-Живокость
-клиновидная
-</td>
+<td>Живокость клиновидная</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Сауыр тегеурінгүлі</td>
+<td>Сауыр тегеурiнгүлi</td>
 <td>Delphinium sauricum</td>
 <td>Живокость саурская</td>
 </tr>
 <tr>
 <td>22</td>
-<td>Іле бөріқарақаты</td>
+<td>Iле бөрiқарақаты</td>
 <td>Berberis iliensis</td>
 <td>Барбарис илийский</td>
 </tr>
 <tr>
 <td>23</td>
-<td>
-Қарқаралы
-бөріқарақаты
-</td>
-<td>
-Berberis
-karkaralensis
-</td>
-<td>
-Барбарис
-каркаралинский
-</td>
+<td>Қарқаралы бөрiқарақаты</td>
+<td>Berberis karkaralensis</td>
+<td>Барбарис каркаралинский</td>
 </tr>
 <tr>
 <td>24</td>
-<td>
-Алтай
-гимноспермиумы
-</td>
-<td>
-Gymnospermium
-altaicum
-</td>
-<td>
-Гимноспермиум
-алтайский
-</td>
+<td>Алтай гимноспермиумы</td>
+<td>Gymnospermium altaicum</td>
+<td>Гимноспермиум алтайский</td>
 </tr>
 <tr>
 <td>25</td>
@@ -2665,102 +287,69 @@ altaicum
 </tr>
 <tr>
 <td>26</td>
-<td>
-Дала шұғылығы,
-сәлдегүл
-</td>
+<td>Дала шұғылығы, сәлдегүл</td>
 <td>Paeonia hybrida</td>
 <td>Пион степной</td>
 </tr>
 <tr>
 <td>27</td>
-<td>Жіңішке көкнәр</td>
+<td>Жiңiшке көкнәр</td>
 <td>Papaver tenellum</td>
 <td>Мак тоненький</td>
 </tr>
 <tr>
 <td>28</td>
-<td>Семенов айдаршөбі</td>
+<td>Семенов айдаршөбi</td>
 <td>Corydalis semenovii</td>
 <td>Хохлатка Семенова</td>
 </tr>
 <tr>
 <td>29</td>
-<td>
-Қаңбақ тәрізді
-жерсабын
-</td>
-<td>
-Allochrusa
-gypsophiloides
-</td>
-<td>
-Аллохруза
-качимовидная
-</td>
+<td>Қаңбақ тәрiздi жерсабын</td>
+<td>Allochrusa gypsophiloides</td>
+<td>Аллохруза качимовидная</td>
 </tr>
 <tr>
 <td>30</td>
-<td>Потанин құмдақшөбі</td>
+<td>Потанин құмдақшөбi</td>
 <td>Arenaria potaninii</td>
 <td>Песчанка Потанина</td>
 </tr>
 <tr>
 <td>31</td>
-<td>Түрлан құмдақшөбі</td>
+<td>Түрлан құмдақшөбi</td>
 <td>Eremogone turlanica</td>
-<td>
-Эремогоне
-турланская
-</td>
+<td>Эремогоне турланская</td>
 </tr>
 <tr>
 <td>32</td>
-<td>
-Бетпақдала
-сылдыршөбі
-</td>
+<td>Бетпақдала сылдыршөбi</td>
 <td>Silene betpakdalensis</td>
-<td>
-Смолевка
-бетпакдалинская
-</td>
+<td>Смолевка бетпакдалинская</td>
 </tr>
 <tr>
 <td>33</td>
-<td>Бор сылдыршөбі</td>
+<td>Бор сылдыршөбi</td>
 <td>Silene cretacea</td>
 <td>Смолевка меловая</td>
 </tr>
 <tr>
 <td>34</td>
-<td>Мүслім сылдыршөбі</td>
+<td>Мүслiм сылдыршөбi</td>
 <td>Silene muslimii</td>
 <td>Смолевка Муслима</td>
 </tr>
 <tr>
 <td>35</td>
-<td>
-Сырдария
-сылдыршөбі
-</td>
+<td>Сырдария сылдыршөбi</td>
 <td>Silene jaxartica</td>
-<td>
-Смолевка
-сырдарьинская
-</td>
+<td>Смолевка сырдарьинская</td>
 </tr>
 <tr>
 <td>36</td>
-<td>
-Тянь-Шань
-сылдыршөбі
-</td>
+<td>Тянь-Шань сылдыршөбi</td>
 <td>Silene tianschanica</td>
-<td>
-Смолевка
-тяньшанская
-</td>
+<td>Смолевка тяньшанская</td>
 </tr>
 <tr>
 <td>37</td>
@@ -2771,29 +360,14 @@ gypsophiloides
 <tr>
 <td>38</td>
 <td>Әулиеата қаңбағы</td>
-<td>
-Gypsophilla
-aulieatensis
-</td>
-<td>
-Качим
-аулиеатинский
-</td>
+<td>Gypsophilla aulieatensis</td>
+<td>Качим аулиеатинский</td>
 </tr>
 <tr>
 <td>39</td>
-<td>
-Андржевский
-қалампыры
-</td>
-<td>
-Dianthus
-andrzejowskianus
-</td>
-<td>
-Гвоздика
-Андржевского
-</td>
+<td>Андржевский қалампыры</td>
+<td>Dianthus andrzejowskianus</td>
+<td>Гвоздика Андржевского</td>
 </tr>
 <tr>
 <td>40</td>
@@ -2803,29 +377,20 @@ andrzejowskianus
 </tr>
 <tr>
 <td>41</td>
-<td>Іле сексеуілшесі</td>
+<td>Iле сексеуiлшесi</td>
 <td>Arthrophytum iliense</td>
-<td>
-Саксаульник
-илийский
-</td>
+<td>Саксаульник илийский</td>
 </tr>
 <tr>
 <td>42</td>
-<td>Фомин көкпегі</td>
+<td>Фомин көкпегi</td>
 <td>Atriplex fominii</td>
 <td>Лебеда Фомина</td>
 </tr>
 <tr>
 <td>43</td>
-<td>
-Регель
-рафидофитоны
-</td>
-<td>
-Rhaphidophyton
-regelii
-</td>
+<td>Регель рафидофитоны</td>
+<td>Rhaphidophyton regelii</td>
 <td>Рафидофитон Регеля</td>
 </tr>
 <tr>
@@ -2836,41 +401,20 @@ regelii
 </tr>
 <tr>
 <td>45</td>
-<td>
-Жалпақ жапырақты
-сораң
-</td>
+<td>Жалпақ жапырақты сораң</td>
 <td>Salsola euryphylla</td>
-<td>
-Солянка
-широколистная
-</td>
+<td>Солянка широколистная</td>
 </tr>
 <tr>
 <td>46</td>
-<td>
-Жұмыртқа жапырақ
-түйесіңір
-</td>
-<td>
-Atraphaxis
-teretifolia
-</td>
-<td>
-Курчавка
-вальковатолистая
-</td>
+<td>Жұмыртқа жапырақ түйесiңiр</td>
+<td>Atraphaxis teretifolia</td>
+<td>Курчавка вальковатолистая</td>
 </tr>
 <tr>
 <td>47</td>
-<td>
-Мушкетов
-түйесіңірі
-</td>
-<td>
-Atraphaxis
-muschketowii
-</td>
+<td>Мушкетов түйесiңiрi</td>
+<td>Atraphaxis muschketowii</td>
 <td>Курчавка Мушкетова</td>
 </tr>
 <tr>
@@ -2893,94 +437,49 @@ muschketowii
 </tr>
 <tr>
 <td>51</td>
-<td>
-Линчевский
-кeмпipшөбi
-</td>
-<td>
-Acantholimon
-inczevskii
-</td>
-<td>
-Акантолимон
-Линчевского
-</td>
+<td>Линчевский кeмпipшөбi</td>
+<td>Acantholimon inczevskii</td>
+<td>Акантолимон Линчевского</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>52</td>
-<td>
-Тарбағатай
-кeмпipшөбi
-</td>
-<td>
-Acantholimon
-tarbagataicum
-</td>
-<td>
-Акантолимон
-тарбагатайский
-</td>
+<td>Тарбағатай кeмпipшөбi</td>
+<td>Acantholimon tarbagataicum</td>
+<td>Акантолимон тарбагатайский</td>
 </tr>
 <tr>
 <td>53</td>
 <td>Титов кeмпipшөбi</td>
 <td>Acantholimon titovii</td>
-<td>
-Акантолимон
-Титова
-</td>
+<td>Акантолимон Титова</td>
 </tr>
 <tr>
 <td>54</td>
-<td>
-Тікенді
-келіншекшөп
-</td>
+<td>Тiкендi келiншекшөп</td>
 <td>Chaetolimon setiferum</td>
-<td>
-Хетолимон
-щетинчатый
-</td>
+<td>Хетолимон щетинчатый</td>
 </tr>
 <tr>
 <td>55</td>
-<td>
-Кауфман
-ирекжапырағы
-</td>
-<td>
-Ikonnikovia
-kaufmanniana
-</td>
-<td>
-Иконниковия
-Кауфмановская
-</td>
+<td>Кауфман ирекжапырағы</td>
+<td>Ikonnikovia kaufmanniana</td>
+<td>Иконниковия Кауфмановская</td>
 </tr>
 <tr>
 <td>56</td>
-<td>Михельсон кермегі</td>
+<td>Михельсон кермегi</td>
 <td>Limonium michelsonii</td>
 <td>Кермек Михельсона</td>
 </tr>
 <tr>
 <td>57</td>
-<td>Резниченко кермегі</td>
-<td>
-Limonium
-rezniczenkoanum
-</td>
-<td>
-Кермек
-Резниченковский
-</td>
+<td>Резниченко кермегi</td>
+<td>Limonium rezniczenkoanum</td>
+<td>Кермек Резниченковский</td>
 </tr>
 <tr>
 <td>58</td>
-<td>Кәдімгі емен</td>
+<td>Кәдiмгi емен</td>
 <td>Quercus robur</td>
 <td>Дуб обыкновенный</td>
 </tr>
@@ -3006,22 +505,13 @@ rezniczenkoanum
 <td>62</td>
 <td>Ярмоленко қайыңы</td>
 <td>Betula jarmolenkoana</td>
-<td>
-Береза
-Ярмоленковская
-</td>
+<td>Береза Ярмоленковская</td>
 </tr>
 <tr>
 <td>63</td>
-<td>
-Кәдімгі шаттауық
-орманжаңғақ
-</td>
+<td>Кәдiмгi шаттауық орманжаңғақ</td>
 <td>Corylus avellana</td>
-<td>
-Лещина
-обыкновенная
-</td>
+<td>Лещина обыкновенная</td>
 </tr>
 <tr>
 <td>64</td>
@@ -3031,230 +521,129 @@ rezniczenkoanum
 </tr>
 <tr>
 <td>65</td>
-<td>
-Кәдімгі аюжидек,
-аюбүлдірген
-</td>
-<td>
-Arctostaphylos
-uva-ursi
-</td>
-<td>
-Толокнянка
-обыкновенная
-</td>
+<td>Кәдiмгi аюжидек, аюбүлдiрген</td>
+<td>Arctostaphylos uva-ursi</td>
+<td>Толокнянка обыкновенная</td>
 </tr>
 <tr>
 <td>66</td>
-<td>
-Ұсақ жемісті
-мүкжидек
-</td>
+<td>Ұсақ жемiстi мүкжидек</td>
 <td>Oxycoccus microcarpus</td>
-<td>
-Клюква
-мелкоплодная
-</td>
+<td>Клюква мелкоплодная</td>
 </tr>
 <tr>
 <td>67</td>
 <td>Шатырша қысшылшөп</td>
 <td>Chimaphila umbellata</td>
-<td>
-Зимолюбка
-зонтичная
-</td>
+<td>Зимолюбка зонтичная</td>
 </tr>
 <tr>
 <td>68</td>
-<td>
-Минквиц
-наурызгүлі,
-наурызшешегі
-</td>
+<td>Минквиц наурызгүлi, наурызшешегi</td>
 <td>Primula minkwitziae</td>
-<td>
-Первоцвет
-Минквица
-</td>
+<td>Первоцвет Минквица</td>
 </tr>
 <tr>
 <td>69</td>
-<td>Семенов лөңкесі</td>
+<td>Семенов лөңкесi</td>
 <td>Kaufmannia semenovii</td>
-<td>
-Кауфмания
-Семенова
-</td>
+<td>Кауфмания Семенова</td>
 </tr>
 <tr>
 <td>70</td>
-<td>
-Андросов жыңғылы,
-кеңөзегі
-</td>
+<td>Андросов жыңғылы, кеңөзегi</td>
 <td>Tamarix androssowii</td>
-<td>
-Гребенщик
-Андросова
-</td>
+<td>Гребенщик Андросова</td>
 </tr>
 <tr>
 <td>71</td>
-<td>Берқара терегі</td>
+<td>Беркара терегi</td>
 <td>Populus berkarensis</td>
-<td>
-Тополь
-беркаринский
-</td>
+<td>Тополь беркаринский</td>
 </tr>
 <tr>
 <td>72</td>
 <td>Тораңғыл терек</td>
 <td>Populus pruinosa</td>
-<td>
-Тополь
-сизолистый
-</td>
+<td>Тополь сизолистый</td>
 </tr>
 <tr>
 <td>73</td>
-<td>
-Қара жемісті
-итжүзім
-</td>
+<td>Қара жемiстi итжүзiм</td>
 <td>Bryonia melanocarpa</td>
-<td>
-Переступень
-черноплодный
-</td>
+<td>Переступень черноплодный</td>
 </tr>
 <tr>
 <td>74</td>
 <td>Қар дәуаяғы</td>
 <td>Macropodium nivale</td>
-<td>
-Долгоног
-снеговой
-</td>
+<td>Долгоног снеговой</td>
 </tr>
 <tr>
 <td>75</td>
 <td>Жирен ақбасқурай</td>
 <td>Erysimum croceum</td>
-<td>
-Желтушник
-оранжевый
-</td>
+<td>Желтушник оранжевый</td>
 </tr>
 <tr>
 <td>76</td>
-<td>
-Жалған жүрек
-жапырақты деңгел
-</td>
-<td>
-Eutrema
-pseudocordifolium
-</td>
-<td>
-Эутрема
-ложносердцелист-
-ная
-</td>
+<td>Жалған жүрек жапырақты деңгел</td>
+<td>Eutrema pseudocordifolium</td>
+<td>Эутрема ложносердцелистная</td>
 </tr>
 <tr>
 <td>77</td>
-<td>
-Қаратау
-неоторулариясы
-</td>
-<td>
-Neotorularia
-karatavica
-</td>
-<td>
-Неоторулария
-каратауская
-</td>
+<td>Қаратау неоторулариясы</td>
+<td>Neotorularia karatavica</td>
+<td>Неоторулария каратауская</td>
 </tr>
 <tr>
 <td>78</td>
-<td>
-Қаратау
-бочанцевиясы
-</td>
-<td>
-Botschantzevia
-karatavica
-</td>
-<td>
-Бочанцевия
-каратауская
-</td>
+<td>Қаратау бочанцевиясы</td>
+<td>Botschantzevia karatavica</td>
+<td>Бочанцевия каратауская</td>
 </tr>
 <tr>
 <td>79</td>
 <td>Сабақсыз лейоспора</td>
 <td>Leiospora excapa</td>
-<td>
-Гладкосемянница
-бесстебельная
-</td>
+<td>Гладкосемянница бесстебельная</td>
 </tr>
 <tr>
 <td>80</td>
-<td>
-Бекетов
-неуроломасы
-</td>
+<td>Бекетов неуроломасы</td>
 <td>Neuroloma beketovii</td>
-<td>
-Неуролома
-Бекетова
-</td>
+<td>Неуролома Бекетова</td>
 </tr>
 <tr>
 <td>81</td>
-<td>Мыңжылқы ақшешегі</td>
+<td>Мыңжылқы ақшешегi</td>
 <td>Arabis mindshilkensis</td>
-<td>
-Резуха
-мынжылкинская
-</td>
+<td>Резуха мынжылкинская</td>
 </tr>
 <tr>
 <td>82</td>
-<td>Попов ақшешегі</td>
+<td>Попов ақшешегi</td>
 <td>Arabis popovii</td>
 <td>Резуха Попова</td>
 </tr>
 <tr>
 <td>83</td>
 <td>Федченко жауылшасы</td>
-<td>
-Alyssum
-fedtschenkoanum
-</td>
+<td>Alyssum fedtschenkoanum</td>
 <td>Бурачок Федченко</td>
 </tr>
 <tr>
 <td>84</td>
-<td>
-Яруткалық
-кірпікшөп
-</td>
+<td>Яруткалық кiрпiкшөп</td>
 <td>Clypeola jonthlaspi</td>
 <td>Щитница яруточная</td>
 </tr>
 <tr>
 <td>85</td>
-<td>Ұсақ жемісті әжік</td>
+<td>Ұсақ жемiстi әжiк</td>
 <td>Draba microcarpella</td>
-<td>
-Крупка
-мелкоплодная
-</td>
+<td>Крупка мелкоплодная</td>
 </tr>
 <tr>
 <td>86</td>
@@ -3266,73 +655,37 @@ fedtschenkoanum
 <td>87</td>
 <td>Тамыры нық ергеш</td>
 <td>Stroganowia robusta</td>
-<td>
-Строгановия
-коренастая
-</td>
+<td>Строгановия коренастая</td>
 </tr>
 <tr>
 <td>88</td>
-<td>
-Жүрек жапырақты
-ергеш
-</td>
-<td>
-Stroganowia
-cardiophylla
-</td>
-<td>
-Строгановия
-сердцелистная
-</td>
+<td>Жүрек жапырақты ергеш</td>
+<td>Stroganowia cardiophylla</td>
+<td>Строгановия сердцелистная</td>
 </tr>
 <tr>
 <td>89</td>
-<td>
-Жебе жапырақты
-ергеш
-</td>
+<td>Жебе жапырақты ергеш</td>
 <td>Stroganowia sagittata</td>
-<td>
-Строгановия
-стрелолистая
-</td>
+<td>Строгановия стрелолистая</td>
 </tr>
 <tr>
 <td>90</td>
 <td>Траутфеттер epгeшi</td>
-<td>
-Stroganowia
-trautvetteri
-</td>
-<td>
-Строгановия
-Траутфеттера
-</td>
+<td>Stroganowia trautvetteri</td>
+<td>Строгановия Траутфеттера</td>
 </tr>
 <tr>
 <td>91</td>
-<td>Жіңішке пайыз</td>
-<td>
-Stubendorffia
-gracilis
-</td>
-<td>
-Штубендорфия
-тонкая
-</td>
+<td>Жеңiшке пайыз</td>
+<td>Stubendorffia gracilis</td>
+<td>Штубендорфия тонкая</td>
 </tr>
 <tr>
 <td>92</td>
 <td>Күрекше мамықбас</td>
-<td>
-Pterygostemon
-spathulatus
-</td>
-<td>
-Пушистотычиночник
-лопатчатый
-</td>
+<td>Pterygostemon spathulatus</td>
+<td>Пушистотычиночник лопатчатый</td>
 </tr>
 <tr>
 <td>93</td>
@@ -3354,82 +707,43 @@ spathulatus
 </tr>
 <tr>
 <td>96</td>
-<td>Бepiк сүттіген</td>
-<td>
-Euphorbia
-sclerocyathium
-</td>
-<td>
-Молочай
-твердобокальчатый
-</td>
+<td>Бepiк сүттiген</td>
+<td>Euphorbia sclerocyathium</td>
+<td>Молочай твердобокальчатый</td>
 </tr>
 <tr>
 <td>97</td>
-<td>Ярослав сүттігені</td>
+<td>Ярослав сүттiгенi</td>
 <td>Euphorbia jaroslavii</td>
 <td>Молочай Ярослава</td>
 </tr>
 <tr>
 <td>98</td>
-<td>Алтай қасқыржидегі</td>
+<td>Алтай қасқыржидегi</td>
 <td>Daphne altaica Pall.</td>
-<td>
-Волчеягодник
-алтайский
-</td>
+<td>Волчеягодник алтайский</td>
 </tr>
 <tr>
 <td>99</td>
-<td>
-Тарбағатай
-таушешегі
-</td>
-<td>
-Stelleropsis
-tarbagataica
-</td>
-<td>
-Стеллеропсис
-тарбагатайский
-</td>
+<td>Тарбағатай таушешегi</td>
+<td>Stelleropsis tarbagataica</td>
+<td>Стеллеропсис тарбагатайский</td>
 </tr>
 <tr>
 <td>100</td>
-<td>
-Тянь-Шань
-таушешегі
-</td>
-<td>
-Stelleropsis
-tianschanica
-</td>
-<td>
-Стеллеропсис
-тяньшанский
-</td>
+<td>Тянь-Шань таушешегi</td>
+<td>Stelleropsis tianschanica</td>
+<td>Стеллеропсис тяньшанский</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>101</td>
-<td>Қаратау бозкілемі</td>
-<td>
-Pseudosedum
-karatavicum
-</td>
-<td>
-Ложноочиток
-каратауский
-</td>
+<td>Қаратау бозкiлемi</td>
+<td>Pseudosedum karatavicum</td>
+<td>Ложноочиток каратауский</td>
 </tr>
 <tr>
 <td>102</td>
-<td>
-Қызғылт ceмiзот,
-алтынтамыр
-</td>
+<td>Қызғылт ceмiзот, алтынтамыр</td>
 <td>Rhodiola rosea</td>
 <td>Родиола розовая</td>
 </tr>
@@ -3443,61 +757,37 @@ karatavicum
 <td>104</td>
 <td>Янчевский қарақаты</td>
 <td>Ribes janczewskii</td>
-<td>
-Смородина
-Янчевского
-</td>
+<td>Смородина Янчевского</td>
 </tr>
 <tr>
 <td>105</td>
-<td>
-Дөңгелек жапырақты
-шықшөп
-</td>
+<td>Дөңгелек жапырақты шықшөп</td>
 <td>Drosera rotundifolia</td>
-<td>
-Росянка
-круглолистая
-</td>
+<td>Росянка круглолистая</td>
 </tr>
 <tr>
 <td>106</td>
-<td>Бүршікті дәнел</td>
+<td>Бүршiктi дәнел</td>
 <td>Aldrovanda vesiculosa</td>
-<td>
-Альдрованда
-пузырчатая
-</td>
+<td>Альдрованда пузырчатая</td>
 </tr>
 <tr>
 <td>107</td>
-<td>Алтай суықшөбі</td>
+<td>Алтай суықшөбi</td>
 <td>Sibiraea altaiensis</td>
-<td>
-Сибирка
-алтайская
-</td>
+<td>Сибирка алтайская</td>
 </tr>
 <tr>
 <td>108</td>
-<td>Тянь-Шань суықшөбі</td>
+<td>Тянь-Шань суықшөбi</td>
 <td>Sibiraea tianschanica</td>
-<td>
-Сибирка
-тяньшанская
-</td>
+<td>Сибирка тяньшанская</td>
 </tr>
 <tr>
 <td>109</td>
-<td>Шренк тобылғытүсі</td>
-<td>
-Spiraeanthus
-schrenkianus
-</td>
-<td>
-Таволгоцвет
-Шренка
-</td>
+<td>Шренк тобылғытүсi</td>
+<td>Spiraeanthus schrenkianus</td>
+<td>Таволгоцвет Шренка</td>
 </tr>
 <tr>
 <td>110</td>
@@ -3507,36 +797,21 @@ schrenkianus
 </tr>
 <tr>
 <td>111</td>
-<td>
-Тянь-Шань
-қазтабаны
-</td>
-<td>
-Potentilla
-tianschanica
-</td>
-<td>
-Лапчатка
-тяньшанская
-</td>
+<td>Тянь-Шань қазтабаны</td>
+<td>Potentilla tianschanica</td>
+<td>Лапчатка тяньшанская</td>
 </tr>
 <tr>
 <td>112</td>
-<td>Парсы шетені</td>
+<td>Парсы шетенi</td>
 <td>Sorbus persica</td>
-<td>
-Рябина
-персидская
-</td>
+<td>Рябина персидская</td>
 </tr>
 <tr>
 <td>113</td>
 <td>Недзвецкий алмасы</td>
 <td>Malus niedzwetzkyana</td>
-<td>
-Яблоня
-Недзвецкого
-</td>
+<td>Яблоня Недзвецкого</td>
 </tr>
 <tr>
 <td>114</td>
@@ -3547,59 +822,32 @@ tianschanica
 <tr>
 <td>115</td>
 <td>Қаратау ырғайы</td>
-<td>
-Cotoneaster
-karatavicus
-</td>
-<td>
-Кизильник
-каратауский
-</td>
+<td>Cotoneaster karatavicus</td>
+<td>Кизильник каратауский</td>
 </tr>
 <tr>
 <td>116</td>
-<td>Күмәнді долана</td>
+<td>Күмәндi долана</td>
 <td>Crataegus ambigua</td>
-<td>
-Боярышник
-сомнительный
-</td>
+<td>Боярышник сомнительный</td>
 </tr>
 <tr>
 <td>117</td>
-<td>Кәдімгі өpік</td>
+<td>Кәдiмгi өpiк</td>
 <td>Armeniaca vulgaris</td>
-<td>
-Абрикос
-обыкновенный
-</td>
+<td>Абрикос обыкновенный</td>
 </tr>
 <tr>
 <td>118</td>
 <td>Ледебур бадамы</td>
-<td>
-Amygdalus
-ledebouriana
-</td>
-<td>
-Миндаль
-Ледебуровский
-</td>
+<td>Amygdalus ledebouriana</td>
+<td>Миндаль Ледебуровский</td>
 </tr>
 <tr>
 <td>119</td>
-<td>
-Шегіршін жапырақты
-тасжаңғақ
-</td>
-<td>
-Louiseania ulmifolia
-(Aflatunia ulmifolia)
-</td>
-<td>
-Афлатуния
-вязолистая
-</td>
+<td>Шегiршiн жапырақты тасжаңғақ</td>
+<td>Louiseania ulmifolia (Aflatunia ulmifolia)</td>
+<td>Афлатуния вязолистая</td>
 </tr>
 <tr>
 <td>120</td>
@@ -3609,173 +857,93 @@ Louiseania ulmifolia
 </tr>
 <tr>
 <td>121</td>
-<td>Еділ майқарағаны</td>
+<td>Едiл майқарағаны</td>
 <td>Calophaca wolgarica</td>
-<td>
-Майкараган
-волжский
-</td>
+<td>Майкараган волжский</td>
 </tr>
 <tr>
 <td>122</td>
 <td>Жоңғар майқарағаны</td>
 <td>Calophaca soongorica</td>
-<td>
-Майкараган
-джунгарский
-</td>
+<td>Майкараган джунгарский</td>
 </tr>
 <tr>
 <td>123</td>
-<td>Тікенді қараған</td>
-<td>
-Caragana
-tragacanthoides
-</td>
-<td>
-Карагана
-трагакантовая
-</td>
+<td>Тiкендi қараған</td>
+<td>Caragana tragacanthoides</td>
+<td>Карагана трагакантовая</td>
 </tr>
 <tr>
 <td>124</td>
 <td>Жоңғар аспарасы</td>
 <td>Chesneya dshungarica</td>
-<td>
-Чезнея
-джунгарская
-</td>
+<td>Чезнея джунгарская</td>
 </tr>
 <tr>
 <td>125</td>
-<td>Ақ түкті таспа</td>
-<td>
-Astragalus
-candidissimus
-</td>
-<td>
-Астрагал
-беловойлочный
-</td>
+<td>Ақ түктi таспа</td>
+<td>Astragalus candidissimus</td>
+<td>Астрагал беловойлочный</td>
 </tr>
 <tr>
 <td>126</td>
-<td>Түкті гүлді таспа</td>
-<td>
-Astragalus
-trichanthus
-</td>
-<td>
-Астрагал
-волосистоцвет-
-ковый
-</td>
+<td>Түктi гүлдi таспа</td>
+<td>Astragalus trichanthus</td>
+<td>Астрагал волосистоцветковый</td>
 </tr>
 <tr>
 <td>127</td>
 <td>Жым таспасы</td>
 <td>Astragalus dshimensis</td>
-<td>
-Астрагал
-джимский
-</td>
+<td>Астрагал джимский</td>
 </tr>
 <tr>
 <td>128</td>
 <td>Зайсан таспасы</td>
-<td>
-Astragalus
-zaissanensis
-</td>
-<td>
-Астрагал
-зайсанский
-</td>
+<td>Astragalus zaissanensis</td>
+<td>Астрагал зайсанский</td>
 </tr>
 <tr>
 <td>129</td>
 <td>Қаратау таспасы</td>
-<td>
-Astragalus
-karataviensis
-</td>
-<td>
-Астрагал
-каратауский
-</td>
+<td>Astragalus karataviensis</td>
+<td>Астрагал каратауский</td>
 </tr>
 <tr>
 <td>130</td>
-<td>Кендірлік таспасы</td>
+<td>Кендiрлiк таспасы</td>
 <td>Astragalus kendyrlyki</td>
-<td>
-Астрагал
-кендырлыкский
-</td>
+<td>Астрагал кендырлыкский</td>
 </tr>
 <tr>
 <td>131</td>
 <td>Көкашық таспасы</td>
-<td>
-Astragalus
-kokaschikii
-</td>
-<td>
-Астрагал
-кокашикский
-</td>
+<td>Astragalus kokaschikii</td>
+<td>Астрагал кокашикский</td>
 </tr>
 <tr>
 <td>132</td>
 <td>Қопал таспасы</td>
 <td>Astragalus kopalensis</td>
-<td>
-Астрагал
-копальский
-</td>
+<td>Астрагал копальский</td>
 </tr>
 <tr>
 <td>133</td>
-<td>
-Жалған шiлiктi
-таспа
-</td>
-<td>
-Astragalus
-pseudocytisoides
-</td>
-<td>
-Астрагал
-ложноракитнико-
-вый
-</td>
+<td>Жалған шiлiктi таспа</td>
+<td>Astragalus pseudocytisoides</td>
+<td>Астрагал ложноракитниковый</td>
 </tr>
 <tr>
 <td>134</td>
-<td>
-Дерлік үшқабатты
-таспа
-</td>
-<td>
-Astragalus
-subternatus
-</td>
-<td>
-Астрагал
-почтитройчатый
-</td>
+<td>Дерлiк үшқабатты таспа</td>
+<td>Astragalus subternatus</td>
+<td>Астрагал почтитройчатый</td>
 </tr>
 <tr>
 <td>135</td>
 <td>Қос тұмсықты таспа</td>
-<td>
-Astragalus
-ornithorrhinchus
-</td>
-<td>
-Астрагал
-птицеклювый
-</td>
+<td>Astragalus ornithorrhinchus</td>
+<td>Астрагал птицеклювый</td>
 </tr>
 <tr>
 <td>136</td>
@@ -3785,358 +953,193 @@ ornithorrhinchus
 </tr>
 <tr>
 <td>137</td>
-<td>
-Тәтті жапырақты
-таспа
-</td>
-<td>
-Astragalus
-glycyphyllos
-</td>
-<td>
-Астрагал
-сладколистый
-</td>
+<td>Тәттi жапырақты таспа</td>
+<td>Astragalus glycyphyllos</td>
+<td>Астрагал сладколистый</td>
 </tr>
 <tr>
 <td>138</td>
 <td>Сумневич таспасы</td>
-<td>
-Astragalus
-sumneviczii
-</td>
-<td>
-Астрагал
-Сумневича
-</td>
+<td>Astragalus sumneviczii</td>
+<td>Астрагал Сумневича</td>
 </tr>
 <tr>
 <td>139</td>
-<td>
-Жіңішке сабақты
-таспа
-</td>
-<td>
-Astragalus
-leptocaulis
-</td>
-<td>
-Астрагал
-тонкостебельный
-</td>
+<td>Жiңiшке сабақты таспа</td>
+<td>Astragalus leptocaulis</td>
+<td>Астрагал тонкостебельный</td>
 </tr>
 <tr>
 <td>140</td>
 <td>Шарын таспасы</td>
-<td>
-Astragalus
-tscharynensis
-</td>
-<td>
-Астрагал
-чарынский
-</td>
+<td>Astragalus tscharynensis</td>
+<td>Астрагал чарынский</td>
 </tr>
 <tr>
 <td>141</td>
 <td>Штейнберг таспасы</td>
-<td>
-Astragalus
-steinbergianus
-</td>
-<td>
-Астрагал
-Штейнберга
-</td>
+<td>Astragalus steinbergianus</td>
+<td>Астрагал Штейнберга</td>
 </tr>
 <tr>
 <td>142</td>
-<td>Алматы кекегі</td>
+<td>Алматы кекегi</td>
 <td>Oxytropis almaatensis</td>
-<td>
-Остролодочник
-алматинский
-</td>
+<td>Остролодочник алматинский</td>
 </tr>
 <tr>
 <td>143</td>
 <td>Қосбұдыр кекек</td>
 <td>Oxytropis biloba</td>
-<td>
-Остролодочник
-двулопастный
-</td>
+<td>Остролодочник двулопастный</td>
 </tr>
 <tr>
 <td>144</td>
-<td>Инелі кекек</td>
+<td>Инелi кекек</td>
 <td>Oxytropis hystrix</td>
-<td>
-Остролодочник
-иглистый
-</td>
+<td>Остролодочник иглистый</td>
 </tr>
 <tr>
 <td>145</td>
-<td>Қаратау кекегі</td>
-<td>
-Oxytropis
-karataviensis
-</td>
-<td>
-Остролодочник
-каратауский
-</td>
+<td>Қаратау кекегi</td>
+<td>Oxytropis karataviensis</td>
+<td>Остролодочник каратауский</td>
 </tr>
 <tr>
 <td>146</td>
-<td>Недзвецкий кекегі</td>
-<td>
-Oxytropis
-niedzweckiana
-</td>
-<td>
-Остролодочник
-Недзвецкого
-</td>
+<td>Недзвецкий кекегi</td>
+<td>Oxytropis niedzweckiana</td>
+<td>Остролодочник Недзвецкого</td>
 </tr>
 <tr>
 <td>147</td>
-<td>
-Дерлік күлтебасты
-кекек
-</td>
-<td>
-Oxytropis
-subverticillaris
-</td>
-<td>
-Остролодочник
-почтимутовчатый
-</td>
+<td>Дерлiк күлтебасты кекек</td>
+<td>Oxytropis subverticillaris</td>
+<td>Остролодочник почтимутовчатый</td>
 </tr>
 <tr>
 <td>148</td>
-<td>Сауыр кекегі</td>
+<td>Сауыр кекегi</td>
 <td>Oxytropis saurica</td>
-<td>
-Остролодочник
-саурский
-</td>
+<td>Остролодочник саурский</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>149</td>
-<td>Талас кекегі</td>
+<td>Талас кекегi</td>
 <td>Oxytropis talassica</td>
-<td>
-Остролодочник
-таласский
-</td>
+<td>Остролодочник таласский</td>
 </tr>
 <tr>
 <td>150</td>
-<td>Үгем кекегі</td>
+<td>Үгем кекегi</td>
 <td>Oxytropis ugamica</td>
-<td>
-Остролодочник
-угамский
-</td>
+<td>Остролодочник угамский</td>
 </tr>
 <tr>
 <td>151</td>
 <td>Бұдыр кекек</td>
 <td>Oxytropis echidna</td>
-<td>
-Остролодочник
-шиповатый
-</td>
+<td>Остролодочник шиповатый</td>
 </tr>
 <tr>
 <td>152</td>
 <td>Бектауата тиынтағы</td>
-<td>
-Hedysarum
-bectauatavicum
-</td>
-<td>
-Копеечник
-бектауатауский
-</td>
+<td>Hedysarum bectauatavicum</td>
+<td>Копеечник бектауатауский</td>
 </tr>
 <tr>
 <td>153</td>
 <td>Қаратау тиынтағы</td>
-<td>
-Hedysarum
-karataviense
-</td>
-<td>
-Копеечник
-каратауский
-</td>
+<td>Hedysarum karataviense</td>
+<td>Копеечник каратауский</td>
 </tr>
 <tr>
 <td>154</td>
 <td>Мыңжылқы тиынтағы</td>
-<td>
-Hedysarum
-mindshilkense
-</td>
-<td>
-Копеечник
-мынжылкинский
-</td>
+<td>Hedysarum mindshilkense</td>
+<td>Копеечник мынжылкинский</td>
 </tr>
 <tr>
 <td>155</td>
-<td>
-Разумовский
-тиынтағы
-</td>
-<td>
-Hedysarum
-razoumovianum
-</td>
-<td>
-Копеечник
-Разумовского
-</td>
+<td>Разумовский тиынтағы</td>
+<td>Hedysarum razoumovianum</td>
+<td>Копеечник Разумовского</td>
 </tr>
 <tr>
 <td>156</td>
 <td>Шыбықша тиынтағы</td>
 <td>Hedysarum scoparium</td>
-<td>
-Копеечник
-прутьевидный
-</td>
+<td>Копеечник прутьевидный</td>
 </tr>
 <tr>
 <td>157</td>
-<td>Алатау эспарцеті</td>
+<td>Алатау эспарцетi</td>
 <td>Onobrychis alatavica</td>
-<td>
-Эспарцет
-алатауский
-</td>
+<td>Эспарцет алатауский</td>
 </tr>
 <tr>
 <td>158</td>
-<td>Ледебур әйкені</td>
+<td>Ледебур әйкенi</td>
 <td>Lathyrus ledebourii</td>
 <td>Чина Ледебура</td>
 </tr>
 <tr>
 <td>159</td>
-<td>
-Тянь-Шань
-жоңышқасы
-</td>
+<td>Тянь-Шань жоңышқасы</td>
 <td>Medicago tianschanica</td>
-<td>
-Люцерна
-тяньшанская
-</td>
+<td>Люцерна тяньшанская</td>
 </tr>
 <tr>
 <td>160</td>
-<td>
-Жоңғар
-тұтасжапырағы
-</td>
-<td>
-Haplophyllum
-dshungaricum
-</td>
-<td>
-Цельнолистник
-джунгарский
-</td>
+<td>Жоңғар тұтасжапырағы</td>
+<td>Haplophyllum dshungaricum</td>
+<td>Цельнолистник джунгарский</td>
 </tr>
 <tr>
 <td>161</td>
-<td>
-Евгений Коровин
-тұтасжапырағы
-</td>
-<td>
-Haplophyllum
-eugenii korovonii
-</td>
-<td>
-Цельнолистник
-Евгения Коровина
-</td>
+<td>Евгений Коровин тұтасжапырағы</td>
+<td>Haplophyllum eugenii korovonii</td>
+<td>Цельнолистник Евгения Коровина</td>
 </tr>
 <tr>
 <td>162</td>
 <td>Қаратау түйетабаны</td>
-<td>
-Zygophyllum
-karatavicum
-</td>
-<td>
-Парнолистник
-каратауский
-</td>
+<td>Zygophyllum karatavicum</td>
+<td>Парнолистник каратауский</td>
 </tr>
 <tr>
 <td>163</td>
 <td>Потанин түйетабаны</td>
 <td>Zygophyllum potaninii</td>
-<td>
-Парнолистник
-Потанина
-</td>
+<td>Парнолистник Потанина</td>
 </tr>
 <tr>
 <td>164</td>
-<td>
-Критможапырақты
-жұмсақжеміс
-</td>
-<td>
-Malacocarpus
-crithmifolius
-</td>
-<td>
-Мягкоплодник
-критмолистный
-</td>
+<td>Критможапырақты жұмсақжемiс</td>
+<td>Malacocarpus crithmifolius</td>
+<td>Мягкоплодник критмолистный</td>
 </tr>
 <tr>
 <td>165</td>
-<td>Кәдімгі пicтe</td>
+<td>Кәдiмгi пicтe</td>
 <td>Pistacia vera</td>
-<td>
-Фисташка
-настоящая
-</td>
+<td>Фисташка настоящая</td>
 </tr>
 <tr>
 <td>166</td>
-<td>Сүйелді қабыржық</td>
+<td>Сүйелдi қабыржық</td>
 <td>Euonymus verrucosa</td>
-<td>
-Бересклет
-бородавчатый
-</td>
+<td>Бересклет бородавчатый</td>
 </tr>
 <tr>
 <td>167</td>
 <td>Коопман қабыржығы</td>
 <td>Euonymus koopmannii</td>
-<td>
-Бересклет
-Коопмана
-</td>
+<td>Бересклет Коопмана</td>
 </tr>
 <tr>
 <td>168</td>
-<td>Минквиц кендіршесі</td>
+<td>Минквиц кендiршесi</td>
 <td>Thesium minkwitzianum</td>
 <td>Ленец Минквица</td>
 </tr>
@@ -4144,14 +1147,11 @@ crithmifolius
 <td>169</td>
 <td>Арша шажыр</td>
 <td>Arceuthobium oxycedri</td>
-<td>
-Арцевтобиум
-можжевельниковый
-</td>
+<td>Арцевтобиум можжевельниковый</td>
 </tr>
 <tr>
 <td>170</td>
-<td>Жабайы жүзім</td>
+<td>Жабайы жүзiм</td>
 <td>Vitis vinifera</td>
 <td>Виноград дикий</td>
 </tr>
@@ -4159,217 +1159,109 @@ crithmifolius
 <td>171</td>
 <td>Еуропа орманоты</td>
 <td>Sanicula europaea</td>
-<td>
-Подлесник
-европейский
-</td>
+<td>Подлесник европейский</td>
 </tr>
 <tr>
 <td>172</td>
 <td>Қылтанды дәлен</td>
 <td>Osmorhiza aristata</td>
-<td>
-Осмориза
-остистая
-</td>
+<td>Осмориза остистая</td>
 </tr>
 <tr>
 <td>173</td>
 <td>Қаратау көкбасы</td>
 <td>Eryngium karatavicum</td>
-<td>
-Синеголовник
-каратауский
-</td>
+<td>Синеголовник каратауский</td>
 </tr>
 <tr>
 <td>174</td>
-<td>
-Бес мүйізді
-қаттыбас
-</td>
-<td>
-Sclerotiaria
-pentaceros
-</td>
-<td>
-Жестковенечник
-пятирогий
-</td>
+<td>Бес мүйiздi қаттыбас</td>
+<td>Sclerotiaria pentaceros</td>
+<td>Жестковенечник пятирогий</td>
 </tr>
 <tr>
 <td>175</td>
 <td>Культиасов батаны</td>
-<td>
-Schrenkia
-kultiassovii
-</td>
-<td>
-Шренкия
-Культиасова
-</td>
+<td>Schrenkia kultiassovii</td>
+<td>Шренкия Культиасова</td>
 </tr>
 <tr>
 <td>176</td>
-<td>
-Маргарита
-щуровскиясы
-</td>
-<td>
-Schtschurowskia
-margaritae
-</td>
-<td>
-Шуровския
-Маргариты
-</td>
+<td>Маргарита щуровскиясы</td>
+<td>Schtschurowskia margaritae</td>
+<td>Шуровския Маргариты</td>
 </tr>
 <tr>
 <td>177</td>
-<td>
-Түркiстан
-козополянскиясы
-</td>
-<td>
-Kosopoljanskia
-turkestanica
-</td>
-<td>
-Козополянския
-туркестанская
-</td>
+<td>Түркiстан козополянскиясы</td>
+<td>Kosopoljanskia turkestanica</td>
+<td>Козополянския туркестанская</td>
 </tr>
 <tr>
 <td>178</td>
-<td>
-Гердер (Кахрис
-Гердер) сайсабағы
-</td>
+<td>Гердер (Кахрис Гердер) сайсабағы</td>
 <td>Prangos herderi</td>
-<td>
-Прангос Гердера
-(Кахрис Гердера)
-</td>
+<td>Прангос Гердера (Кахрис Гердера)</td>
 </tr>
 <tr>
 <td>179</td>
-<td>
-Түктігүлді
-сайсабақ
-</td>
+<td>Түктiгүлдi сайсабақ</td>
 <td>Prangos lachnantha</td>
-<td>
-Прангос
-пушистоцветковый
-</td>
+<td>Прангос пушистоцветковый</td>
 </tr>
 <tr>
 <td>180</td>
-<td>
-Қырықбуын тәрізді
-сайсабақ
-</td>
+<td>Қырықбуын тәрiздi сайсабақ</td>
 <td>Prangos equisetoides</td>
-<td>
-Прангос
-хвощевидный
-</td>
+<td>Прангос хвощевидный</td>
 </tr>
 <tr>
 <td>181</td>
-<td>
-Культиасов
-каратавиясы
-</td>
-<td>
-Karatavia
-kultiassovii
-</td>
-<td>
-Каратавия
-Культиасова
-</td>
+<td>Культиасов каратавиясы</td>
+<td>Karatavia kultiassovii</td>
+<td>Каратавия Культиасова</td>
 </tr>
 <tr>
 <td>182</td>
 <td>Жертаран шоқсары</td>
 <td>Bupleurum rosulare</td>
-<td>
-Володушка
-розеточная
-</td>
+<td>Володушка розеточная</td>
 </tr>
 <tr>
 <td>183</td>
-<td>
-Попов
-аулакоспермумы
-</td>
+<td>Попов аулакоспермумы</td>
 <td>Aulacospermum popovii</td>
-<td>
-Бороздосемянник
-Попова
-</td>
+<td>Бороздосемянник Попова</td>
 </tr>
 <tr>
 <td>184</td>
-<td>
-Желбезекше
-ледебуриелла
-</td>
-<td>
-Ledebouriella
-seseloides
-</td>
-<td>
-Ледебуриелла
-жабрицевидная
-</td>
+<td>Желбезекше ледебуриелла</td>
+<td>Ledebouriella seseloides</td>
+<td>Ледебуриелла жабрицевидная</td>
 </tr>
 <tr>
 <td>185</td>
-<td>
-Ipi жапырақты
-медиазия
-</td>
+<td>Ipi жапырақты медиазия</td>
 <td>Mediasia macrophylla</td>
-<td>
-Медиазия
-крупнолистная
-</td>
+<td>Медиазия крупнолистная</td>
 </tr>
 <tr>
 <td>186</td>
-<td>
-Жартас
-чулактавиясы
-</td>
-<td>
-Tschulaktavia
-saxatilis
-</td>
-<td>
-Чулактавия
-скальная
-</td>
+<td>Жартас чулактавиясы</td>
+<td>Tschulaktavia saxatilis</td>
+<td>Чулактавия скальная</td>
 </tr>
 <tr>
 <td>187</td>
 <td>Ақжолақ сасыр</td>
 <td>Ferula leucographa</td>
-<td>
-Ферула
-белополосчатая
-</td>
+<td>Ферула белополосчатая</td>
 </tr>
 <tr>
 <td>188</td>
-<td>Гипсшіл сасыр</td>
+<td>Гипсшiл сасыр</td>
 <td>Ferula gypsacea</td>
-<td>
-Ферула
-гипсолюбивая
-</td>
+<td>Ферула гипсолюбивая</td>
 </tr>
 <tr>
 <td>189</td>
@@ -4379,19 +1271,13 @@ saxatilis
 </tr>
 <tr>
 <td>190</td>
-<td>
-Ащы жапырақты
-сасыр
-</td>
+<td>Ащы жапырақты сасыр</td>
 <td>Ferula peucedanifolia</td>
-<td>
-Ферула
-горичниколистная
-</td>
+<td>Ферула горичниколистная</td>
 </tr>
 <tr>
 <td>191</td>
-<td>Іле сасыры, илан</td>
+<td>Iле сасыры, илан</td>
 <td>Ferula iliensis</td>
 <td>Ферула илийская</td>
 </tr>
@@ -4405,157 +1291,91 @@ saxatilis
 <td>193</td>
 <td>Құрғақ сасыр</td>
 <td>Ferula xeromopha</td>
-<td>
-Ферула
-ксероморфная
-</td>
+<td>Ферула ксероморфная</td>
 </tr>
 <tr>
 <td>194</td>
-<td>
-Жұмсақ жапырақты
-сасыр
-</td>
+<td>Жұмсақ жапырақты сасыр</td>
 <td>Ferula malacophylla</td>
-<td>
-Ферула
-мягколистная
-</td>
+<td>Ферула мягколистная</td>
 </tr>
 <tr>
 <td>195</td>
 <td>Cөгeтi сасыры</td>
 <td>Ferula sugatensis</td>
-<td>
-Ферула
-сюгатинская
-</td>
+<td>Ферула сюгатинская</td>
 </tr>
 <tr>
 <td>196</td>
 <td>Тауқұм сасыры</td>
 <td>Ferula taucumica</td>
-<td>
-Ферула
-таукумская
-</td>
+<td>Ферула таукумская</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>197</td>
-<td>
-Қаратау
-сасыққурайы
-</td>
+<td>Қаратау сасыққурайы</td>
 <td>Dorema karataviense</td>
-<td>
-Дорема
-каратауская
-</td>
+<td>Дорема каратауская</td>
 </tr>
 <tr>
 <td>198</td>
 <td>Рубцов таушығы</td>
 <td>Semenovia rubtzovii</td>
-<td>
-Семеновия
-Рубцова
-</td>
+<td>Семеновия Рубцова</td>
 </tr>
 <tr>
 <td>199</td>
-<td>
-Голоскоков
-көкшолағы
-</td>
-<td>
-Pilopleura
-goloskokovii
-</td>
-<td>
-Волосореберник
-Голоскокова
-</td>
+<td>Голоскоков көкшолағы</td>
+<td>Pilopleura goloskokovii</td>
+<td>Волосореберник Голоскокова</td>
 </tr>
 <tr>
 <td>200</td>
 <td>Мұз ботташ</td>
-<td>
-Pastinacopsis
-glacialis
-</td>
-<td>
-Пастернаковник
-ледниковый
-</td>
+<td>Pastinacopsis glacialis</td>
+<td>Пастернаковник ледниковый</td>
 </tr>
 <tr>
 <td>201</td>
-<td>Іле тугайясы</td>
+<td>Iле тугайясы</td>
 <td>Tugaja iliensis</td>
 <td>Тугайя илийская</td>
 </tr>
 <tr>
 <td>202</td>
-<td>Шу-Іле шыбынқанаты</td>
-<td>
-Hyalolaena
-tschuiliensis
-</td>
-<td>
-Гиалолена
-чу-илийская
-</td>
+<td>Шу-Iле шыбынқанаты</td>
+<td>Hyalolaena tschuiliensis</td>
+<td>Гиалолена чу-илийская</td>
 </tr>
 <tr>
 <td>203</td>
-<td>Қалқанды асаймусей</td>
+<td>Қалқанды асаймүсей</td>
 <td>Abelia corymbosa</td>
-<td>
-Абелия
-щитковидная
-</td>
+<td>Абелия щитковидная</td>
 </tr>
 <tr>
 <td>204</td>
-<td>Іле ұшқаты</td>
+<td>Iле ұшқаты</td>
 <td>Lonicera iliensis</td>
-<td>
-Жимолость
-илийская
-</td>
+<td>Жимолость илийская</td>
 </tr>
 <tr>
 <td>205</td>
 <td>Қаратау ұшқаты</td>
-<td>
-Lonicera
-karataviensis
-</td>
-<td>
-Жимолость
-каратауская
-</td>
+<td>Lonicera karataviensis</td>
+<td>Жимолость каратауская</td>
 </tr>
 <tr>
 <td>206</td>
-<td>Қаршыл шүйіншөп</td>
+<td>Қаршыл шүйiншөп</td>
 <td>Valeriana chionophila</td>
-<td>
-Валериана
-снеголюбивая
-</td>
+<td>Валериана снеголюбивая</td>
 </tr>
 <tr>
 <td>207</td>
 <td>Қоқан салпысы</td>
 <td>Morina kokanica</td>
-<td>
-Морина
-кокандская
-</td>
+<td>Морина кокандская</td>
 </tr>
 <tr>
 <td>208</td>
@@ -4573,31 +1393,19 @@ karataviensis
 <td>210</td>
 <td>Резниченко рияны</td>
 <td>Rubia rezniczenkoana</td>
-<td>
-Марена
-Резниченковская
-</td>
+<td>Марена Резниченковская</td>
 </tr>
 <tr>
 <td>211</td>
-<td>
-Қалқан жапырақты
-батпақгүл
-</td>
+<td>Қалқан жапырақты батпақгүл</td>
 <td>Nymphoides peltata</td>
-<td>
-Болотноцветник
-щитолистный
-</td>
+<td>Болотноцветник щитолистный</td>
 </tr>
 <tr>
 <td>212</td>
-<td>Жоңғар шерменгүлі</td>
+<td>Жоңғар шерменгүлi</td>
 <td>Gentiana dshungarica</td>
-<td>
-Горечавка
-джунгарская
-</td>
+<td>Горечавка джунгарская</td>
 </tr>
 <tr>
 <td>213</td>
@@ -4609,398 +1417,224 @@ karataviensis
 <td>214</td>
 <td>Парсы шырмауығы</td>
 <td>Convolvulus persicus</td>
-<td>
-Вьюнок
-персидский
-</td>
+<td>Вьюнок персидский</td>
 </tr>
 <tr>
 <td>215</td>
 <td>Кiшi сүйелжазар</td>
 <td>Heliotropium parvulum</td>
-<td>
-Гелиотроп
-маленький
-</td>
+<td>Гелиотроп маленький</td>
 </tr>
 <tr>
 <td>216</td>
-<td>Жағастай дембеті</td>
-<td>
-Mertensia
-dshagastanica
-</td>
-<td>
-Мертензия
-джагастайская
-</td>
+<td>Жағастай дембетi</td>
+<td>Mertensia dshagastanica</td>
+<td>Мертензия джагастайская</td>
 </tr>
 <tr>
 <td>217</td>
-<td>Попов дембеті</td>
+<td>Попов дембетi</td>
 <td>Mertensia popovii</td>
 <td>Мертензия Попова</td>
 </tr>
 <tr>
 <td>218</td>
-<td>Тарбағатай дембеті</td>
-<td>
-Mertensia
-tarbagataica
-</td>
-<td>
-Мертензия
-тарбагатайская
-</td>
+<td>Тарбағатай дембетi</td>
+<td>Mertensia tarbagataica</td>
+<td>Мертензия тарбагатайская</td>
 </tr>
 <tr>
 <td>219</td>
-<td>Жалаң кәріқыз</td>
+<td>Жалаң кәрiқыз</td>
 <td>Lappula glabrata</td>
-<td>
-Липучка
-оголенная
-</td>
+<td>Липучка оголенная</td>
 </tr>
 <tr>
 <td>220</td>
 <td>Михаил басағы</td>
-<td>
-Lepechiniella
-michaelis
-</td>
-<td>
-Лепехиниелла
-Михаила
-</td>
+<td>Lepechiniella michaelis</td>
+<td>Лепехиниелла Михаила</td>
 </tr>
 <tr>
 <td>221</td>
-<td>
-Кipпi бас
-сүйектұқым
-</td>
-<td>
-Craniospermum
-echioides
-</td>
-<td>
-Черепоплодник
-ежистый
-</td>
+<td>Кipпi бас сүйектұқым</td>
+<td>Craniospermum echioides</td>
+<td>Черепоплодник ежистый</td>
 </tr>
 <tr>
 <td>222</td>
 <td>Ақсары жуантамыр</td>
 <td>Rindera ochroleuca</td>
-<td>
-Риндера
-светло-желтая
-</td>
+<td>Риндера светло-желтая</td>
 </tr>
 <tr>
 <td>223</td>
-<td>Қаратау емшені</td>
-<td>
-Paracaryum
-karataviense
-</td>
-<td>
-Ларакариум
-каратауский
-</td>
+<td>Қаратау емшенi</td>
+<td>Paracaryum karataviense</td>
+<td>Ларакариум каратауский</td>
 </tr>
 <tr>
 <td>224</td>
-<td>Бүтін жиекті емшен</td>
-<td>
-Paracaryum
-integerrimum
-</td>
-<td>
-Паракариум
-цельнокрайний
-</td>
+<td>Бүтiн жиектi емшен</td>
+<td>Paracaryum integerrimum</td>
+<td>Паракариум цельнокрайний</td>
 </tr>
 <tr>
 <td>225</td>
-<td>Жоңғар сабынкөгі</td>
-<td>
-Scrophularia
-dshungarica
-</td>
-<td>
-Норичник
-джунгарский
-</td>
+<td>Жоңғар сабынкөгi</td>
+<td>Scrophularia dshungarica</td>
+<td>Норичник джунгарский</td>
 </tr>
 <tr>
 <td>226</td>
-<td>Нурания сабынкөгі</td>
+<td>Нурания сабынкөгi</td>
 <td>Scrophularia nuraniae</td>
 <td>Норичник Нурании</td>
 </tr>
 <tr>
 <td>227</td>
-<td>Бор сиякөгі</td>
+<td>Бор сиякөгi</td>
 <td>Linaria cretacea</td>
 <td>Льнянка меловая</td>
 </tr>
 <tr>
 <td>228</td>
-<td>Алатау бөденешөбі</td>
+<td>Алатау бөденешөбi</td>
 <td>Veronica alatavica</td>
-<td>
-Вероника
-алатауская
-</td>
+<td>Вероника алатауская</td>
 </tr>
 <tr>
 <td>229</td>
-<td>Жебір бөденешөбі</td>
+<td>Жебiр бөденешөбi</td>
 <td>Veronica serpylloides</td>
-<td>
-Вероника
-тимьянная
-</td>
+<td>Вероника тимьянная</td>
 </tr>
 <tr>
 <td>230</td>
-<td>
-Тарбағатай
-қандыгүлі
-</td>
-<td>
-Pedicularis
-tarbagataica
-</td>
-<td>
-Мытник
-тарбагатайский
-</td>
+<td>Тарбағатай қандыгүлi</td>
+<td>Pedicularis tarbagataica</td>
+<td>Мытник тарбагатайский</td>
 </tr>
 <tr>
 <td>231</td>
-<td>Шу-Іле қандыгүлі</td>
-<td>
-Pedicularis
-czuiliensis
-</td>
-<td>
-Мытник
-чу-илийский
-</td>
+<td>Шу-Iле қандыгүлi</td>
+<td>Pedicularis czuiliensis</td>
+<td>Мытник чу-илийский</td>
 </tr>
 <tr>
 <td>232</td>
 <td>Дауыр бақаауызы</td>
 <td>Cymbaria daurica</td>
-<td>
-Цимбария
-даурская
-</td>
+<td>Цимбария даурская</td>
 </tr>
 <tr>
 <td>233</td>
 <td>Сопақша допшагүл</td>
 <td>Globularia punctata</td>
-<td>
-Шаровница
-точечная
-</td>
+<td>Шаровница точечная</td>
 </tr>
 <tr>
 <td>234</td>
-<td>
-Жетісу
-қызыладыраспаны
-</td>
-<td>
-Niedzwedzkia
-semiretschenskia
-</td>
-<td>
-Недзвецкия
-семиреченская
-</td>
+<td>Жетiсу қызыладыраспаны</td>
+<td>Niedzwedzkia semiretschenskia</td>
+<td>Недзвецкия семиреченская</td>
 </tr>
 <tr>
 <td>235</td>
-<td>Қаратау томағашөбі</td>
-<td>
-Scutellaria
-karatavica
-</td>
-<td>
-Шлемник
-каратауский
-</td>
+<td>Қаратау томағашөбi</td>
+<td>Scutellaria karatavica</td>
+<td>Шлемник каратауский</td>
 </tr>
 <tr>
 <td>236</td>
 <td>Қайықша томағашөп</td>
-<td>
-Scutellaria
-navicularis
-</td>
-<td>
-Шлемник
-лодочковый
-</td>
+<td>Scutellaria navicularis</td>
+<td>Шлемник лодочковый</td>
 </tr>
 <tr>
 <td>237</td>
-<td>
-Дерлік түбірлі
-томағашөп
-</td>
-<td>
-Scutellaria
-subcaespitosa
-</td>
-<td>
-Шлемник
-почтидернистый
-</td>
+<td>Дерлiк түбiрлi томағашөп</td>
+<td>Scutellaria subcaespitosa</td>
+<td>Шлемник почтидернистый</td>
 </tr>
 <tr>
 <td>238</td>
-<td>Іле көкжалбызы</td>
+<td>Iле көкжалбызы</td>
 <td>Nepeta transiliensis</td>
-<td>
-Котовник
-заилийский
-</td>
+<td>Котовник заилийский</td>
 </tr>
 <tr>
 <td>239</td>
 <td>Қаратау жыланбасы</td>
-<td>
-Dracocephalum
-karataviense
-</td>
-<td>
-Змееголовник
-каратауский
-</td>
+<td>Dracocephalum karataviense</td>
+<td>Змееголовник каратауский</td>
 </tr>
 <tr>
 <td>240</td>
 <td>
-Зинаида
-фломоидесі.
+Зинаида фломоидесi.
 Шөлмасақ
 </td>
 <td>Phlomoides zenaidae</td>
 <td>
-Фломоидес
-Зинаиды.
+Фломоидес Зинаиды.
 Пустынноколосник
 </td>
 </tr>
 <tr>
 <td>241</td>
 <td>Садақша найзабас</td>
-<td>
-Metastachydium
-sagittatum
-</td>
-<td>
-Метастахис
-стреловидный
-</td>
+<td>Metastachydium sagittatum</td>
+<td>Метастахис стреловидный</td>
 </tr>
 <tr>
 <td>242</td>
-<td>
-Северцов жалған
-шөлмасағы
-</td>
-<td>
-Pseudoeremostachus
-sewerzowii
-</td>
-<td>
-Лжепустынноко-
-лосник Северцова
-</td>
+<td>Северцов жалған шөлмасағы</td>
+<td>Pseudoeremostachus sewerzowii</td>
+<td>Лжепустынноко-лосник Северцова</td>
 </tr>
 <tr>
 <td>243</td>
-<td>
-Шөлмасақты жалған
-бұйражапырақ
-</td>
-<td>
-Pseudomarrubium
-eremostachydioides
-</td>
-<td>
-Ложная шандра
-пустынноколос-
-никовая
-</td>
+<td>Шөлмасақты жалған бұйражапырақ</td>
+<td>Pseudomarrubium eremostachydioides</td>
+<td>Ложная шандра пустынноколосниковая</td>
 </tr>
 <tr>
 <td>244</td>
-<td>Әдемі ойраш</td>
+<td>Әдемi ойраш</td>
 <td>Ostrowskia magnifica</td>
-<td>
-Островския
-великолепная
-</td>
+<td>Островския великолепная</td>
 </tr>
 <tr>
 <td>245</td>
-<td>Дара бас ершін</td>
-<td>
-Cryptocodon
-monocephalus
-</td>
-<td>
-Криптокодон
-одноглавый
-</td>
+<td>Дара бас ершiн</td>
+<td>Cryptocodon monocephalus</td>
+<td>Криптокодон одноглавый</td>
 </tr>
 <tr>
 <td>246</td>
 <td>Құмбел саршатыры</td>
 <td>Hieracium kumbelicum</td>
-<td>
-Ястребинка
-кумбельская
-</td>
+<td>Ястребинка кумбельская</td>
 </tr>
 <tr>
 <td>247</td>
 <td>Таусағыз</td>
 <td>Scorzoncra tau-saghyz</td>
-<td>
-Козелец
-тау-сагыз
-</td>
+<td>Козелец тау-сагыз</td>
 </tr>
 <tr>
 <td>248</td>
 <td>Хантау таусағызы</td>
 <td>Scorzonera chantavica</td>
-<td>
-Козелец
-хантауский
-</td>
+<td>Козелец хантауский</td>
 </tr>
 <tr>
 <td>249</td>
 <td>Тамаша сүтжапырақ</td>
 <td>Lactuca mira</td>
-<td>
-Латук
-удивительный
-</td>
+<td>Латук удивительный</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>250</td>
 <td>Виталий бақбағы</td>
@@ -5011,59 +1645,35 @@ monocephalus
 <td>251</td>
 <td>Көк-сағыз бақбағы</td>
 <td>Taraxacum kok-saghyz</td>
-<td>
-Одуванчик
-кок-сагыз
-</td>
+<td>Одуванчик кок-сагыз</td>
 </tr>
 <tr>
 <td>252</td>
 <td>Кузнецов жерсағызы</td>
-<td>
-Chondrilla
-kusnezovii
-</td>
-<td>
-Хондрила
-Кузнецова
-</td>
+<td>Chondrilla kusnezovii</td>
+<td>Хондрила Кузнецова</td>
 </tr>
 <tr>
 <td>253</td>
 <td>Зайсан лаксасы</td>
 <td>Echinops saissanicus</td>
-<td>
-Мордовник
-зайсанский
-</td>
+<td>Мордовник зайсанский</td>
 </tr>
 <tr>
 <td>254</td>
 <td>Қазақ лаксасы</td>
 <td>Echinops kasakorum</td>
-<td>
-Мордовник
-казахский
-</td>
+<td>Мордовник казахский</td>
 </tr>
 <tr>
 <td>255</td>
-<td>
-Біркелкі биік
-лакса
-</td>
+<td>Бiркелкi биiк лакса</td>
 <td>Echinops fastigiatus</td>
-<td>
-Мордовник
-равновысокий
-</td>
+<td>Мордовник равновысокий</td>
 </tr>
 <tr>
 <td>256</td>
-<td>
-Вавилов
-көбеңқұйрығы
-</td>
+<td>Вавилов көбеңқұйрығы</td>
 <td>Cousinia vavilovii</td>
 <td>Кузиния Вавилова</td>
 </tr>
@@ -5075,240 +1685,123 @@ kusnezovii
 </tr>
 <tr>
 <td>258</td>
-<td>
-Ipi жапырақты
-көбеңқұйрық
-</td>
+<td>Ipi жапырақты көбеңқұйрық</td>
 <td>Cousinia grandifolia</td>
-<td>
-Кузиния
-крупнолистная
-</td>
+<td>Кузиния крупнолистная</td>
 </tr>
 <tr>
 <td>259</td>
-<td>
-Мыңжылқы
-көбеңқұйрығы
-</td>
-<td>
-Cousinia
-mindshelkensis
-</td>
-<td>
-Кузиния
-мынжылкинская
-</td>
+<td>Мыңжылқы көбеңқұйрығы</td>
+<td>Cousinia mindshelkensis</td>
+<td>Кузиния мынжылкинская</td>
 </tr>
 <tr>
 <td>260</td>
 <td>Ұялы шмальгаузения</td>
-<td>
-Schmalhausenia
-nidulans
-</td>
-<td>
-Шмальгаузения
-гнездистая
-</td>
+<td>Schmalhausenia nidulans</td>
+<td>Шмальгаузения гнездистая</td>
 </tr>
 <tr>
 <td>261</td>
-<td>Микешин шұбаршөбі</td>
-<td>
-Saussurea
-mikeschinii
-</td>
+<td>Микешин шұбаршөбi</td>
+<td>Saussurea mikeschinii</td>
 <td>Соссюрея Микешина</td>
 </tr>
 <tr>
 <td>262</td>
 <td>Орамалы шұбаршөп</td>
-<td>
-Saussurea
-involucrata.
-</td>
-<td>
-Соссюрея
-обвернутая
-</td>
+<td>Saussurea involucrata.</td>
+<td>Соссюрея обвернутая</td>
 </tr>
 <tr>
 <td>263</td>
 <td>Алматы ақжапырағы</td>
 <td>Jurinea almaatensis</td>
-<td>
-Наголоватка
-алматинская
-</td>
+<td>Наголоватка алматинская</td>
 </tr>
 <tr>
 <td>264</td>
 <td>Аяқбас ақжапырақ</td>
 <td>Jurinea cephalopoda</td>
-<td>
-Наголоватка
-головоногая
-</td>
+<td>Наголоватка головоногая</td>
 </tr>
 <tr>
 <td>265</td>
 <td>Қалың ақжапырақ</td>
 <td>Jurinea robusta</td>
-<td>
-Наголоватка
-мощная
-</td>
+<td>Наголоватка мощная</td>
 </tr>
 <tr>
 <td>266</td>
-<td>
-Мұғалжар
-ақжапырағы
-</td>
+<td>Мұғалжар ақжапырағы</td>
 <td>Jurinea mugodsharica</td>
-<td>
-Наголоватка
-мугоджарская
-</td>
+<td>Наголоватка мугоджарская</td>
 </tr>
 <tr>
 <td>267</td>
 <td>Көркем ақжапырақ</td>
 <td>Jurinea eximia</td>
-<td>
-Наголоватка
-превосходная
-</td>
+<td>Наголоватка превосходная</td>
 </tr>
 <tr>
 <td>268</td>
-<td>
-Федченко
-ақжапырағы
-</td>
-<td>
-Jurinea
-fedtschenkoana
-</td>
-<td>
-Наголоватка
-Федченко
-</td>
+<td>Федченко ақжапырағы</td>
+<td>Jurinea fedtschenkoana</td>
+<td>Наголоватка Федченко</td>
 </tr>
 <tr>
 <td>269</td>
-<td>
-Гүлкекірелі
-себетбас
-</td>
-<td>
-Plagiobasis
-centauroides
-</td>
-<td>
-Плагиобазис
-васильковый
-</td>
+<td>Гүлкекiрелi себетбас</td>
+<td>Plagiobasis centauroides</td>
+<td>Плагиобазис васильковый</td>
 </tr>
 <tr>
 <td>270</td>
 <td>Жоңғар түймебасы</td>
-<td>
-Serratula
-dshungarica
-</td>
-<td>
-Серпуха
-джунгарская
-</td>
+<td>Serratula dshungarica</td>
+<td>Серпуха джунгарская</td>
 </tr>
 <tr>
 <td>271</td>
-<td>Әулиеата аюдәрісі</td>
-<td>
-Rhaponticum
-aulieatense
-</td>
-<td>
-Рапонтикум
-аулиеатинский
-</td>
+<td>Әулиеата аюдәрiсi</td>
+<td>Rhaponticum aulieatense</td>
+<td>Рапонтикум аулиеатинский</td>
 </tr>
 <tr>
 <td>272</td>
-<td>Қаратау аюдәрісі</td>
-<td>
-Rhaponticum
-karatavicum
-</td>
-<td>
-Рапонтикум
-каратауский
-</td>
+<td>Қаратау аюдәрiсi</td>
+<td>Rhaponticum karatavicum</td>
+<td>Рапонтикум каратауский</td>
 </tr>
 <tr>
 <td>273</td>
-<td>
-Сафлор тәріздес
-аюдәрі
-</td>
-<td>
-Rhaponticum
-carthamoides
-</td>
-<td>
-Рапонтикум
-сафлоровидный
-</td>
+<td>Сафлор тәрiздес аюдәрi</td>
+<td>Rhaponticum carthamoides</td>
+<td>Рапонтикум сафлоровидный</td>
 </tr>
 <tr>
 <td>274</td>
-<td>
-Культиасов
-гүлкекіресі
-</td>
-<td>
-Centaurea
-kultiassovii
-</td>
-<td>
-Василек
-Культиасова
-</td>
+<td>Культиасов гүлкекiресi</td>
+<td>Centaurea kultiassovii</td>
+<td>Василек Культиасова</td>
 </tr>
 <tr>
 <td>275</td>
-<td>Талиев гүлкекіресі</td>
+<td>Талиев гүлкекiресi</td>
 <td>Centaurea taliewii</td>
 <td>Василек Талиева</td>
 </tr>
 <tr>
 <td>276</td>
-<td>
-Түркiстан
-гүлкекіресі
-</td>
-<td>
-Centaurea
-turkestanica
-</td>
-<td>
-Василек
-туркестанский
-</td>
+<td>Түркiстан гүлкекiресi</td>
+<td>Centaurea turkestanica</td>
+<td>Василек туркестанский</td>
 </tr>
 <tr>
 <td>277</td>
-<td>
-Түкті аяқ
-гүлкекіре
-</td>
+<td>Түктi аяқ гүлкекiре</td>
 <td>Centaurea lasiopoda</td>
-<td>
-Василек
-шерстистоногий
-</td>
+<td>Василек шерстистоногий</td>
 </tr>
 <tr>
 <td>278</td>
@@ -5318,39 +1811,21 @@ turkestanica
 </tr>
 <tr>
 <td>279</td>
-<td>
-Голоскоков
-сертебесі
-</td>
-<td>
-Tanacetopsis
-goloskokovii
-</td>
-<td>
-Танацетопсис
-Голоскокова
-</td>
+<td>Голоскоков сертебесi</td>
+<td>Tanacetopsis goloskokovii</td>
+<td>Танацетопсис Голоскокова</td>
 </tr>
 <tr>
 <td>280</td>
-<td>Пятаева сертебесі</td>
-<td>
-Tanacetopsis
-pjataevae
-</td>
-<td>
-Танацетопсис
-Пятаевой
-</td>
+<td>Пятаева сертебесi</td>
+<td>Tanacetopsis pjataevae</td>
+<td>Танацетопсис Пятаевой</td>
 </tr>
 <tr>
 <td>281</td>
-<td>Қызыл тілді зиягул</td>
+<td>Қызыл тiлдi зиягул</td>
 <td>Senecio pyroglossus</td>
-<td>
-Крестовник
-огненноязычковый
-</td>
+<td>Крестовник огненноязычковый</td>
 </tr>
 <tr>
 <td>282</td>
@@ -5361,60 +1836,36 @@ pjataevae
 <tr>
 <td>283</td>
 <td>Буталық ақбасбалау</td>
-<td>
-Asterothamnus
-fruticosus
-</td>
-<td>
-Астеротамнус
-кустарниковый
-</td>
+<td>Asterothamnus fruticosus</td>
+<td>Астеротамнус кустарниковый</td>
 </tr>
 <tr>
 <td>284</td>
 <td>Жартас далазығыры</td>
 <td>Galatella saxatilis</td>
-<td>
-Солонечник
-скальный
-</td>
+<td>Солонечник скальный</td>
 </tr>
 <tr>
 <td>285</td>
-<td>
-Шашақ тәріздес
-бозтүк
-</td>
-<td>
-Anaphalis
-racemifera Franch.
-</td>
-<td>
-Анафалис
-кистеносный
-</td>
+<td>Шашақ тәрiздес бозтүк</td>
+<td>Anaphalis racemifera Franch.</td>
+<td>Анафалис кистеносный</td>
 </tr>
 <tr>
 <td>286</td>
-<td>
-Корнух-Троцкий
-өгізкөзі
-</td>
+<td>Корнух-Троцкий өгiзкөзi</td>
 <td>Anthemis trotzkiana</td>
-<td>
-Пупавка
-Корнух-Троцкого
-</td>
+<td>Пупавка Корнух-Троцкого</td>
 </tr>
 <tr>
 <td>287</td>
-<td>Тастақ түймешетені</td>
+<td>Тастақ түймешетенi</td>
 <td>Tanacetum saxicola</td>
 <td>Пижма скальная</td>
 </tr>
 <tr>
 <td>288</td>
-<td>Ұлытау түймешетені</td>
+<td>Ұлытау түймешетенi</td>
 <td>Tanacetum ulutavicum</td>
 <td>Пижма улытауская</td>
 </tr>
@@ -5426,18 +1877,9 @@ racemifera Franch.
 </tr>
 <tr>
 <td>290</td>
-<td>
-Солтүстік жоңғар
-кестежусаны
-</td>
-<td>
-Pyrethrum
-arctodzhungaricum
-</td>
-<td>
-Пиретрум
-североджунгарский
-</td>
+<td>Солтүстiк жоңғар кестежусаны</td>
+<td>Pyrethrum arctodzhungaricum</td>
+<td>Пиретрум североджунгарский</td>
 </tr>
 <tr>
 <td>291</td>
@@ -5448,26 +1890,14 @@ arctodzhungaricum
 <tr>
 <td>292</td>
 <td>Әулиеата саржауы</td>
-<td>
-Trichanthemis
-aulieatensis
-</td>
-<td>
-Трихантемис
-аулиеатинский
-</td>
+<td>Trichanthemis aulieatensis</td>
+<td>Трихантемис аулиеатинский</td>
 </tr>
 <tr>
 <td>293</td>
-<td>Қаратау сетені</td>
-<td>
-Lepidolopha
-karatavica
-</td>
-<td>
-Лепидолофа
-каратауская
-</td>
+<td>Қаратау сетенi</td>
+<td>Lepidolopha karatavica</td>
+<td>Лепидолофа каратауская</td>
 </tr>
 <tr>
 <td>294</td>
@@ -5477,48 +1907,27 @@ karatavica
 </tr>
 <tr>
 <td>295</td>
-<td>
-Крашенинников
-capтүтiгi
-</td>
-<td>
-Cancriniella
-krascheninnikovii
-</td>
-<td>
-Канкриниелла
-Крашенинников
-</td>
+<td>Крашенинников capтүтiгi</td>
+<td>Cancriniella krascheninnikovii</td>
+<td>Канкриниелла Крашенинников</td>
 </tr>
 <tr>
 <td>296</td>
 <td>Сары лапыз</td>
 <td>Colchicum luteum</td>
-<td>
-Безвременник
-желтый
-</td>
+<td>Безвременник желтый</td>
 </tr>
 <tr>
 <td>297</td>
 <td>Кессельринг лапызы</td>
-<td>
-Colchicum
-kesselringii
-</td>
-<td>
-Безвременник
-Кессельринга
-</td>
+<td>Colchicum kesselringii</td>
+<td>Безвременник Кессельринга</td>
 </tr>
 <tr>
 <td>298</td>
 <td>Мығым дестегүл</td>
 <td>Merendera robusta</td>
-<td>
-Мерендера
-коренастая
-</td>
+<td>Мерендера коренастая</td>
 </tr>
 </table>
 
@@ -5543,42 +1952,21 @@ kesselringii
 </tr>
 <tr>
 <td>302</td>
-<td>
-Колпаковский
-иридодиктиумы
-</td>
-<td>
-Iridodictyum
-kolpakowskianum
-</td>
-<td>
-Иридодиктиум
-Колпаковского
-</td>
+<td>Колпаковский иридодиктиумы</td>
+<td>Iridodictyum kolpakowskianum</td>
+<td>Иридодиктиум Rолпаковского</td>
 </tr>
 <tr>
 <td>303</td>
-<td>
-Винклер
-иридодиктиумы
-</td>
-<td>
-Iridodictyum
-winkleri
-</td>
-<td>
-Иридодиктиум
-Винклера
-</td>
+<td>Винклер иридодиктиумы</td>
+<td>Iridodictyum winkleri</td>
+<td>Иридодиктиум Винклера</td>
 </tr>
 <tr>
 <td>304</td>
 <td>Алматы шиқылдағы</td>
 <td>Juno almaatensis</td>
-<td>
-Юнона
-алматинская
-</td>
+<td>Юнона алматинская</td>
 </tr>
 <tr>
 <td>305</td>
@@ -5588,16 +1976,13 @@ winkleri
 </tr>
 <tr>
 <td>306</td>
-<td>
-Кушакевич
-шиқылдағы
-</td>
+<td>Кушакевич шиқылдағы</td>
 <td>Juno kuschakewiczii</td>
 <td>Юнона Кушакевича</td>
 </tr>
 <tr>
 <td>307</td>
-<td>Сүйсін шиқылдақ</td>
+<td>Сүйсiн шиқылдақ</td>
 <td>Juno orchioides</td>
 <td>Юнона орхидная</td>
 </tr>
@@ -5605,43 +1990,25 @@ winkleri
 <td>308</td>
 <td>Қатпар баршынгүл</td>
 <td>Gladiolus imbricatus</td>
-<td>
-Шпажник
-черепитчатый
-</td>
+<td>Шпажник черепитчатый</td>
 </tr>
 <tr>
 <td>309</td>
-<td>
-Алатау запыраны,
-ботатабан
-</td>
+<td>Алатау запыраны, ботатабан</td>
 <td>Crocus alatavicus</td>
-<td>
-Шафран
-алатауский
-</td>
+<td>Шафран алатауский</td>
 </tr>
 <tr>
 <td>310</td>
 <td>Корольков запыраны</td>
 <td>Crocus korolkowii</td>
-<td>
-Шафран
-Королькова
-</td>
+<td>Шафран Королькова</td>
 </tr>
 <tr>
 <td>311</td>
-<td>
-Жаңа Попов
-қазжуасы
-</td>
+<td>Жаңа Попов қазжуасы</td>
 <td>Gagea neo-popovii</td>
-<td>
-Гусиный лук
-новый Попова
-</td>
+<td>Гусиный лук новый Попова</td>
 </tr>
 <tr>
 <td>312</td>
@@ -5651,15 +2018,9 @@ winkleri
 </tr>
 <tr>
 <td>313</td>
-<td>Ақшыл секпілгүл</td>
-<td>
-Fritillaria
-pallidiflora
-</td>
-<td>
-Рябчик
-бледноцветковый
-</td>
+<td>Ақшыл секпiлгүл</td>
+<td>Fritillaria pallidiflora</td>
+<td>Рябчик бледноцветковый</td>
 </tr>
 <tr>
 <td>314</td>
@@ -5669,18 +2030,9 @@ pallidiflora
 </tr>
 <tr>
 <td>315</td>
-<td>
-Биберштейн
-қызғалдағы
-</td>
-<td>
-Tulipa
-biebersteiniana
-</td>
-<td>
-Тюльпан
-Биберштейна
-</td>
+<td>Биберштейн қызғалдағы</td>
+<td>Tulipa biebersteiniana</td>
+<td>Тюльпан Биберштейна</td>
 </tr>
 <tr>
 <td>316</td>
@@ -5696,15 +2048,9 @@ biebersteiniana
 </tr>
 <tr>
 <td>318</td>
-<td>
-Қос гүлді
-қызғалдақ
-</td>
+<td>Қос гүлдi қызғалдақ</td>
 <td>Tulipa biflora</td>
-<td>
-Тюльпан
-двуцветковый
-</td>
+<td>Тюльпан двуцветковый</td>
 </tr>
 <tr>
 <td>319</td>
@@ -5716,83 +2062,43 @@ biebersteiniana
 <td>320</td>
 <td>Кауфман қызғалдағы</td>
 <td>Tulipa kaufmanniana</td>
-<td>
-Тюльпан
-Кауфмановский
-</td>
+<td>Тюльпан Кауфмановский</td>
 </tr>
 <tr>
 <td>321</td>
-<td>
-Колпаковский
-қызғалдағы
-</td>
-<td>
-Tulipa
-kolpakowskiana
-</td>
-<td>
-Тюльпан
-Колпаковского
-</td>
+<td>Колпаковский қызғалдағы</td>
+<td>Tulipa kolpakowskiana</td>
+<td>Тюльпан Колпаковского</td>
 </tr>
 <tr>
 <td>322</td>
-<td>
-Корольков
-қызғалдағы
-</td>
+<td>Корольков қызғалдағы</td>
 <td>Tulipa korolkowii</td>
-<td>
-Тюльпан
-Королькова
-</td>
+<td>Тюльпан Королькова</td>
 </tr>
 <tr>
 <td>323</td>
-<td>
-Қысқа аталықты
-қызғалдақ
-</td>
+<td>Қысқа аталықты қызғалдақ</td>
 <td>Tulipa brachystemon</td>
-<td>
-Тюльпан
-короткотычиноч-
-ный
-</td>
+<td>Тюльпан короткотычиночный</td>
 </tr>
 <tr>
 <td>324</td>
 <td>Леманн қызғалдағы</td>
 <td>Tulipa lehmanniana</td>
-<td>
-Тюльпан
-Леманновский
-</td>
+<td>Тюльпан Леманновский</td>
 </tr>
 <tr>
 <td>325</td>
-<td>
-Дара гүлді
-қызғалдақ
-</td>
+<td>Дара гүлдi қызғалдақ</td>
 <td>Tulipa uniflora</td>
-<td>
-Тюльпан
-одноцветковый
-</td>
+<td>Тюльпан одноцветковый</td>
 </tr>
 <tr>
 <td>326</td>
-<td>
-Островский
-қызғалдағы
-</td>
+<td>Островский қызғалдағы</td>
 <td>Tulipa ostrowskiana</td>
-<td>
-Тюльпан
-Островского
-</td>
+<td>Тюльпан Островского</td>
 </tr>
 <tr>
 <td>327</td>
@@ -5804,22 +2110,13 @@ kolpakowskiana
 <td>328</td>
 <td>Жатаған қызғалдақ</td>
 <td>Tulipa patens</td>
-<td>
-Тюльпан
-поникающий
-</td>
+<td>Тюльпан поникающий</td>
 </tr>
 <tr>
 <td>329</td>
-<td>
-Ала күлтелі
-қызғалдақ
-</td>
+<td>Ала күлтелi қызғалдақ</td>
 <td>Tulipa heteropetala</td>
-<td>
-Тюльпан
-разнолепестный
-</td>
+<td>Тюльпан разнолепестный</td>
 </tr>
 <tr>
 <td>330</td>
@@ -5847,15 +2144,9 @@ kolpakowskiana
 </tr>
 <tr>
 <td>334</td>
-<td>Фишер құссүттігені</td>
-<td>
-Ornithogalum
-fischerianum
-</td>
-<td>
-Птицемлечник
-Фишеровский
-</td>
+<td>Фишер құссүттiгенi</td>
+<td>Ornithogalum fischerianum</td>
+<td>Птицемлечник Фишеровский</td>
 </tr>
 <tr>
 <td>335</td>
@@ -5886,8 +2177,7 @@ fischerianum
 <td>Ұсақ торлы жуа</td>
 <td>Allium microdictyon</td>
 <td>
-Лук
-мелкосетчатый.
+Лук мелкосетчатый.
 Черемша
 </td>
 </tr>
@@ -5895,10 +2185,7 @@ fischerianum
 <td>340</td>
 <td>Көп тамырлы жуа</td>
 <td>Allium polyrhizum</td>
-<td>
-Лук
-многокорневой
-</td>
+<td>Лук многокорневой</td>
 </tr>
 <tr>
 <td>341</td>
@@ -5908,7 +2195,7 @@ fischerianum
 </tr>
 <tr>
 <td>342</td>
-<td>Піскем жуасы</td>
+<td>Пiскем жуасы</td>
 <td>Allium pskemense</td>
 <td>Лук пскемский</td>
 </tr>
@@ -5939,98 +2226,50 @@ fischerianum
 <tr>
 <td>347</td>
 <td>Сарғыш сарана</td>
-<td>
-Hemerocallis
-lilio-asphodelus
-</td>
-<td>
-Красноднев
-желтый
-</td>
+<td>Hemerocallis lilio-asphodelus</td>
+<td>Красноднев желтый</td>
 </tr>
 <tr>
 <td>348</td>
-<td>
-Северцов
-унгерниясы
-</td>
+<td>Северцов унгерниясы</td>
 <td>Ungernia sewerzowii</td>
-<td>
-Унгерния
-Северцова
-</td>
+<td>Унгерния Северцова</td>
 </tr>
 <tr>
 <td>349</td>
-<td>Мамыр меруертгүлі</td>
+<td>Мамыр меруертгүлi</td>
 <td>Convallaria majalis</td>
 <td>Ландыш майский</td>
 </tr>
 <tr>
 <td>350</td>
-<td>
-Введенский
-қасқыржемісі
-</td>
+<td>Введенский қасқыржемiсi</td>
 <td>Asparagus vvedenskyi</td>
-<td>
-Спаржа
-Введенского
-</td>
+<td>Спаржа Введенского</td>
 </tr>
 <tr>
 <td>351</td>
-<td>Кәдімгі қарғакөз</td>
+<td>Кәдiмгi қарғакөз</td>
 <td>Paris quadrifolia</td>
-<td>
-Вороний глаз
-обыкновенный
-</td>
+<td>Вороний глаз обыкновенный</td>
 </tr>
 <tr>
 <td>352</td>
-<td>Нағыз шолпанкебіс</td>
-<td>
-Cypripedium
-calceolus
-</td>
-<td>
-Башмачок
-настоящий
-</td>
+<td>Нағыз шолпанкебiс</td>
+<td>Cypripedium calceolus</td>
+<td>Башмачок настоящий</td>
 </tr>
 <tr>
 <td>353</td>
-<td>
-Іpi гүлді
-шолпанкебіс
-</td>
-<td>
-Cypripedium
-macranthon
-</td>
-<td>
-Башмачок
-крупноцветный
-</td>
+<td>Ipi гүлдi шолпанкебiс</td>
+<td>Cypripedium macranthon</td>
+<td>Башмачок крупноцветный</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td>354</td>
-<td>
-Секпіл
-шолпанкебіс
-</td>
-<td>
-Cypripedium
-guttatum
-</td>
-<td>
-Башмачок
-пятнистый
-</td>
+<td>Секпiл шолпанкебiс</td>
+<td>Cypripedium guttatum</td>
+<td>Башмачок пятнистый</td>
 </tr>
 <tr>
 <td>355</td>
@@ -6042,127 +2281,73 @@ guttatum
 <td>356</td>
 <td>Жапырақсыз орашық</td>
 <td>Epipogium aphyllum</td>
-<td>
-Надбородник
-безлистый
-</td>
+<td>Надбородник безлистый</td>
 </tr>
 <tr>
 <td>357</td>
-<td>
-Қос жапырақты
-жұпаршөп
-</td>
+<td>Қос жапырақты жұпаршөп</td>
 <td>Platanthera bifolia</td>
 <td>Любка двулистная</td>
 </tr>
 <tr>
 <td>358</td>
 <td>Фукс бармақтамыры</td>
-<td>
-Dactylorhiza
-fuchsii
-</td>
-<td>
-Пальчатокоренник
-Фукса
-</td>
+<td>Dactylorhiza fuchsii</td>
+<td>Пальчатокоренник Фукса</td>
 </tr>
 <tr>
 <td>359</td>
-<td>Телпек сүйсін</td>
+<td>Телпек сүйсiн</td>
 <td>Orchis militaris</td>
-<td>
-Ятрышник
-шлемовидный
-</td>
+<td>Ятрышник шлемовидный</td>
 </tr>
 <tr>
 <td>360</td>
-<td>Қазақстан өлеңшөбі</td>
-<td>
-Scirpus
-kasachstanicus
-</td>
-<td>
-Камыш
-казахстанский
-</td>
+<td>Қазақстан өлеңшөбi</td>
+<td>Scirpus kasachstanicus</td>
+<td>Камыш казахстанский</td>
 </tr>
 <tr>
 <td>361</td>
-<td>Кәдімгі семсершөп</td>
+<td>Кәдiмгi семсершөп</td>
 <td>Cladium mariscus</td>
-<td>
-Меч-трава
-обыкновенная
-</td>
+<td>Меч-трава обыкновенная</td>
 </tr>
 <tr>
 <td>362</td>
-<td>
-Қатты жапырақты
-дұғаш
-</td>
-<td>
-Koeleria
-sclerophylla
-</td>
-<td>
-Тонконог
-жестколистный
-</td>
+<td>Қатты жапырақты дұғаш</td>
+<td>Koeleria sclerophylla</td>
+<td>Тонконог жестколистный</td>
 </tr>
 <tr>
 <td>363</td>
-<td>
-Верещагин
-саздақшөбі
-</td>
+<td>Верещагин саздақшөбi</td>
 <td>Limnas versczaginii</td>
-<td>
-Болотник
-Верещагина
-</td>
+<td>Болотник Верещагина</td>
 </tr>
 <tr>
 <td>364</td>
 <td>Таспа боз</td>
 <td>Stipa anomala</td>
-<td>
-Ковыль
-уклоняющийся
-</td>
+<td>Ковыль уклоняющийся</td>
 </tr>
 <tr>
 <td>365</td>
-<td>
-Оңтүстік
-Алтай бозы
-</td>
+<td>Оңтүстiк Алтай бозы</td>
 <td>Stipa austroaltaica</td>
-<td>
-Ковыль
-южноалтайский
-</td>
+<td>Ковыль южноалтайский</td>
 </tr>
 <tr>
 <td>366</td>
 <td>Қаратау бозы</td>
 <td>Stipa karataviensis</td>
-<td>
-Ковыль
-каратауский
-</td>
+<td>Ковыль каратауский</td>
 </tr>
 <tr>
 <td>367</td>
 <td>Күнгей бозы</td>
 <td>Stipa kungeica</td>
-<td>
-Ковыль
-кунгейский
-</td>
+<td>Ковыль кунгейский</td>
 </tr>
 <tr>
 <td>368</td>
@@ -6174,53 +2359,32 @@ sclerophylla
 <td>369</td>
 <td>Корольков шаяноты</td>
 <td>Arum korolkowii</td>
-<td>
-Аронник
-Королькова
-</td>
+<td>Аронник Королькова</td>
 </tr>
 <tr>
 <td>370</td>
-<td>
-Леманн күшаласы,
-ит күшала
-</td>
+<td>Леманн күшаласы, ит күшала</td>
 <td>Eminium lehmannii</td>
 <td>Эминиум Леманна</td>
 </tr>
 <tr>
-<th colspan="4">
-Бөлім - Мүк тәрізділер
+<td colspan="4">
+Бөлiм - Мүк тәрiздiлер
 Bryophyta
 Отдел - Моховидные
-</th>
+</td>
 </tr>
 <tr>
 <td>371</td>
-<td>
-Ipi жапырақты
-пахифиссиденс
-</td>
-<td>
-Pachyfissidens
-grandifrons
-</td>
-<td>
-Пахифиссиденс
-крупнолиственный
-</td>
+<td>Ipi жапырақты пахифиссиденс</td>
+<td>Pachyfissidens grandifrons</td>
+<td>Пахифиссиденс крупнолиственный</td>
 </tr>
 <tr>
 <td>372</td>
 <td>Жатаған ортотрихум</td>
-<td>
-Orthotrichum
-laevigatum
-</td>
-<td>
-Ортотрихум
-приглаженнный
-</td>
+<td>Orthotrichum laevigatum</td>
+<td>Ортотрихум приглаженнный</td>
 </tr>
 <tr>
 <td>373</td>
@@ -6229,188 +2393,1661 @@ laevigatum
 <td>Сфагнум гладкий</td>
 </tr>
 <tr>
-<th colspan="4">
-Бөлім - Саңырауқұлақтар
+<td colspan="4">
+Бөлiм - Саңырауқұлақтар
 Myceta
 Отдел - Грибы
-</th>
+</td>
 </tr>
 <tr>
 <td>374</td>
 <td>Дала тыржыңқұлағы</td>
-<td>
-Morchella
-steppicola
-</td>
+<td>Morchella steppicola</td>
 <td>Сморчок степной</td>
 </tr>
 <tr>
 <td>375</td>
-<td>Кестелі қозықұйрық</td>
+<td>Кестелi қозықұйрық</td>
 <td>Agaricus tabularis</td>
-<td>
-Шампиньон
-табличатый
-</td>
+<td>Шампиньон табличатый</td>
 </tr>
 <tr>
 <td>376</td>
-<td>Тікенді шыбынжұт</td>
+<td>Тiкендi шыбынжұт</td>
 <td>Amanita solitaria</td>
-<td>
-Мухомор
-щетинистый
-</td>
+<td>Мухомор щетинистый</td>
 </tr>
 <tr>
 <td>377</td>
-<td>Берішті клавулина</td>
-<td>
-Clavulina
-cartilaginea
-</td>
-<td>
-Клавулина
-хрящеватая
-</td>
+<td>Берiштi клавулина</td>
+<td>Clavulina cartilaginea</td>
+<td>Клавулина хрящеватая</td>
 </tr>
 <tr>
 <td>378</td>
-<td>
-Аналық мүйіз
-саңырауқұлақ
-</td>
-<td>
-Clavaridelphus
-pistillaris
-</td>
-<td>
-Клаваридельфус
-пестиковый
-</td>
+<td>Аналық мүйiз саңырауқұлақ</td>
+<td>Clavaridelphus pistillaris</td>
+<td>Клаваридельфус пестиковый</td>
 </tr>
 <tr>
 <td>379</td>
 <td>Торлы диктиофора</td>
-<td>
-Dictyophora
-duplicate
-</td>
-<td>
-Диктиофора
-сдвоенная
-</td>
+<td>Dictyophora duplicate</td>
+<td>Диктиофора сдвоенная</td>
 </tr>
 <tr>
 <td>380</td>
-<td>
-Тамырсүйгіш
-полипорус
-</td>
-<td>
-Polyporus
-rhizophilus
-</td>
-<td>
-Полипорус
-корнелюбивый
-</td>
+<td>Тамырсүйгiш полипорус</td>
+<td>Polyporus rhizophilus</td>
+<td>Полипорус корнелюбивый</td>
 </tr>
 <tr>
 <td>381</td>
-<td>Тянь-шань скутигері</td>
-<td>
-Scutiger
-tiahesanicus
-</td>
-<td>
-Скутигер
-тянь-шанский
-</td>
+<td>Тянь-шань скутигерi</td>
+<td>Scutiger tiahesanicus</td>
+<td>Скутигер тянь-шанский</td>
 </tr>
 <tr>
 <td>382</td>
-<td>
-Қазақстан
-спарасисы
-</td>
-<td>
-Sparasis
-kazakhstanicus
-</td>
-<td>
-Спарарис
-казахстанский
-</td>
+<td>Қазақстан спарасисы</td>
+<td>Sparasis kazakhstanicus</td>
+<td>Спарарис казахстанский</td>
 </tr>
 <tr>
 <td>383</td>
-<td>
-Мейен
-хламидопопусы
-</td>
-<td>
-Chlamydopus
-meyenianus
-</td>
-<td>
-Хламидопус
-Мейена
-</td>
+<td>Мейен хламидопопусы</td>
+<td>Chlamydopus meyenianus</td>
+<td>Хламидопус Мейена</td>
 </tr>
 <tr>
 <td>384</td>
 <td>Сопақша торлыбас</td>
-<td>
-Dictyocephalus
-attenuatus
-</td>
-<td>
-Сетчатоголовник
-оттянутый
-</td>
+<td>Dictyocephalus attenuatus</td>
+<td>Сетчатоголовник оттянутый</td>
 </tr>
 <tr>
 <td>385</td>
 <td>Керемет клевеция</td>
 <td>Quelettia mirabilis</td>
-<td>
-Клевеция
-удивительная
-</td>
+<td>Клевеция удивительная</td>
 </tr>
 <tr>
 <td>386</td>
-<td>
-Бүрлікті
-феллориция
-</td>
-<td>
-Phellorinia
-strobilina
-</td>
-<td>
-Феллориния
-шишковатая
-</td>
+<td>Бүрлiктi феллориция</td>
+<td>Phellorinia strobilina</td>
+<td>Феллориния шишковатая</td>
 </tr>
 <tr>
-<th colspan="4">
-Бөлім - Қыналар
+<td colspan="4">
+Бөлiм - Қыналар
 Lichenes
 Отдел - Лишайники
-</th>
+</td>
 </tr>
 <tr>
 <td>387</td>
-<td>Кладина. Бұғы мүгі</td>
-<td>
-Cladonia
-rangiferina
-</td>
+<td>Кладина. Бұғы мүгi</td>
+<td>Cladonia rangiferina</td>
 <td>
 Кладина оленья.
 Ягель.
 </td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2006 жылғы 31 қазандағы*  
+> *N 1034 қаулысымен*  
+> *бекітілген*
+
+> *Утвержден*  
+> *постановлением Правительства*  
+> *Республики Казахстан*  
+> *от 31 октября 2006 года N 1034*
+
+## Жануарлардың сирек кездесетiн және құрып кету қаупi төнген түрлерiнiң тiзбесi Перечень редких и находящихся под угрозой исчезновения видов животных
+
+> *Ескерту. Тізбе жаңа редакцияда - ҚР Үкіметінің 2012.11.07 N 1413 (алғашқы ресми жарияланғанынан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) Қаулысымен.*
+
+<table>
+<tr>
+<td colspan="5">Атауы/Наименование</td>
+</tr>
+<tr>
+<td>
+Р/с
+№
+№
+п/п
+</td>
+<td colspan="2">
+Қазақ тiлiнде
+На казахском языке
+</td>
+<td>
+Латын тiлiнде
+На латинском языке
+</td>
+<td>
+Орыс тiлiнде
+На русском языке
+</td>
+</tr>
+<tr>
+<th>1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td colspan="5">
+Жануарлар
+Түр тармағы - Омыртқалылар
+Дөңгелекауыздылар класы
+Animals
+Vertebrates
+Cyclostomata
+Животные
+Подтип - Позвоночные
+Класс - Круглоротые
+</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Каспий тiлтiсi</td>
+<td>Caspiomyzon wagneri Kessler</td>
+<td>Каспийская минога</td>
+</tr>
+<tr>
+<td colspan="5">
+Сүйектi балықтар класы
+Osteichthyes
+Класс - Костные рыбы
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Ciбip бeкipeci</td>
+<td>Acipenser baeri</td>
+<td>Сибирский осетр</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Пiлмай (арал және iле популяциясы)</td>
+<td>Acipenser nudiventris</td>
+<td>Шип (аральская и илийская популяции)</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Сырдария тасбекiресi</td>
+<td>Pseudocaphirhynchus fedtschenkoi</td>
+<td>Сырдарьинский лжелопатонос</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Волга көп аталықты майшабағы</td>
+<td>Alosa kessleri volgensis</td>
+<td>Волжская многотычинковая сельдь</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Каспий албырты</td>
+<td>Salmo trutta caspius</td>
+<td>Каспийский лосось</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Арал албырты</td>
+<td>Salmo trutta aralensis</td>
+<td>Аральский лосось</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Таймен</td>
+<td>Hucho taimen</td>
+<td>Таймень</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Сылан</td>
+<td>Stenodus leucichthys nelma</td>
+<td>Нельма</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Ақбалық</td>
+<td>Stenodus leucichthys leucichthys</td>
+<td>Белорыбица</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Күтiм</td>
+<td>Rutilus frisii kutum</td>
+<td>Кутум</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">Шортан тектес ақмарқа</td>
+<td>Aspiolusius esocinus</td>
+<td>Щуковидный жерех (лысач)</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Арал қаязы</td>
+<td>Barbus brachycephalus brachycephalus</td>
+<td>Аральский усач</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Түркiстан қаязы</td>
+<td>Barbus capito conocephalus</td>
+<td>Туркестанский усач</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Iле қарабалығы (iле популяциясы)</td>
+<td>Schizothorax argentatus pseudaksaiensis</td>
+<td>Илийская маринка (илийская популяция)</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Шу сүйрiкқанаты</td>
+<td>Capoetobrama kuschakewitschi orientalis</td>
+<td>Чуйская остролучка</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Балқаш алабұғасы (балқаш-iле популяциясы)</td>
+<td>Perca schrenki</td>
+<td>Балхашский окунь (балхаш-илийская популяция)</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="2">Шатқалдық тас тасалағыш</td>
+<td>Cottus jaxartensis</td>
+<td>Чаткальский подкаменщик</td>
+</tr>
+<tr>
+<td colspan="5">
+Қосмекендiлер класы
+Amphibia
+Класс - Земноводные
+</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="2">Жетiсу бақатiсi</td>
+<td>Ranodon sibiricus</td>
+<td>Семиреченский лягушкозуб</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="2">Даната құрбақасы</td>
+<td>Bufo danatensis</td>
+<td>Данатинская жаба</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="2">Қызылаяқ бақа</td>
+<td>Rana amurensis</td>
+<td>Сибирская лягушка</td>
+</tr>
+<tr>
+<td colspan="5">
+Бауырымен жорғалаушылар класы
+Reptilia
+Класс - Пресмыкающиеся
+</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="2">Шұбар батбат кесiртке</td>
+<td>Phrynocephalus versicolor</td>
+<td>Пестрая круглоголовка</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="2">Зайсан батбат кecipткeci</td>
+<td>Phrynocephalus melanurus</td>
+<td>Зайсанская круглоголовка</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="2">Кесел, алабажақ кесiртке</td>
+<td>Varanus griseus</td>
+<td>Серый варан</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="2">Сары бауыр кесiртке</td>
+<td>Ophisaurus apodus</td>
+<td>Желтопузик</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="2">Үлкен көз кесiртке</td>
+<td>Eremias multiocellata</td>
+<td>Глазчатая ящурка</td>
+</tr>
+<tr>
+<td>27</td>
+<td colspan="2">Шұбар кесiртке</td>
+<td>Eremias vermiculata</td>
+<td>Центральноазиатская ящурка</td>
+</tr>
+<tr>
+<td>28</td>
+<td colspan="2">Қызылжолақ абжылан</td>
+<td>Coluber rhodorhachis</td>
+<td>Краснополосый полоз</td>
+</tr>
+<tr>
+<td>29</td>
+<td colspan="2">Сарықұрсақ абжылан</td>
+<td>Coluber caspius</td>
+<td>Желтобрюхий полоз</td>
+</tr>
+<tr>
+<td>30</td>
+<td colspan="2">Төрт жолақты абжылан</td>
+<td>Elaphe quatuorlineata</td>
+<td>Четырехполосый полоз</td>
+</tr>
+<tr>
+<td>31</td>
+<td colspan="2">Жолақты абжылан</td>
+<td>Coluber spinalis</td>
+<td>Полосатый полоз</td>
+</tr>
+<tr>
+<td colspan="5">
+Құстар класы
+Aves
+Класс - Птицы
+</td>
+</tr>
+<tr>
+<td>32</td>
+<td colspan="2">Қызғылт бiрқазан</td>
+<td>Pelecanus onocrotalus</td>
+<td>Розовый пеликан</td>
+</tr>
+<tr>
+<td>33</td>
+<td colspan="2">Бұйра бiрқазан</td>
+<td>Pelecanus crispus</td>
+<td>Кудрявый пеликан</td>
+</tr>
+<tr>
+<td>34</td>
+<td colspan="2">Сарықұтан</td>
+<td>Ardeola ralloides</td>
+<td>Желтая цапля</td>
+</tr>
+<tr>
+<td>35</td>
+<td colspan="2">Кiшкене аққұтан</td>
+<td>Egretta garzetta</td>
+<td>Малая белая цапля</td>
+</tr>
+<tr>
+<td>36</td>
+<td colspan="2">Жалбағай, қалбағай</td>
+<td>Platalea leucorodia</td>
+<td>Колпица</td>
+</tr>
+<tr>
+<td>37</td>
+<td colspan="2">Қарабай</td>
+<td>Plegadis falcinellus</td>
+<td>Каравайка</td>
+</tr>
+<tr>
+<td>38</td>
+<td colspan="2">Түркiстан ақ дегелегi</td>
+<td>Ciconia ciconia asiatica</td>
+<td>Туркестанский белый аист</td>
+</tr>
+<tr>
+<td>39</td>
+<td colspan="2">Қара дегелек</td>
+<td>Ciconia nigra</td>
+<td>Черный аист</td>
+</tr>
+<tr>
+<td>40</td>
+<td colspan="2">Қоқиқаз</td>
+<td>Phoenicopterus roseus</td>
+<td>Фламинго</td>
+</tr>
+<tr>
+<td>41</td>
+<td colspan="2">Шиқылдақ қаз</td>
+<td>Anser erythropus</td>
+<td>Гусь пискулька</td>
+</tr>
+<tr>
+<td>42</td>
+<td colspan="2">Қутұмсық қаз</td>
+<td>Cygnopsis cygnoides</td>
+<td>Гусь-сухонос</td>
+</tr>
+<tr>
+<td>43</td>
+<td colspan="2">Қызылжемсаулы қарашақаз</td>
+<td>Rufibrenta ruficollis</td>
+<td>Краснозобая казарка</td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="2">Сұңқылдақ аққу</td>
+<td>Cygnus cygnus</td>
+<td>Лебедь-кликун</td>
+</tr>
+<tr>
+<td>45</td>
+<td colspan="2">Кiшi аққу</td>
+<td>Cygnus bewickii</td>
+<td>Малый лебедь</td>
+</tr>
+<tr>
+<td>46</td>
+<td colspan="2">Мәрмәр шүрегей</td>
+<td>Anas angustirostris</td>
+<td>Мраморный чирок</td>
+</tr>
+<tr>
+<td>47</td>
+<td colspan="2">Алакөз қаралаүйрек</td>
+<td>Aythya nyroca</td>
+<td>Белоглазая чернеть</td>
+</tr>
+<tr>
+<td>48</td>
+<td colspan="2">Дентұмсық тұрпан</td>
+<td>Mellanitta deglandi</td>
+<td>Горбоносый турпан</td>
+</tr>
+<tr>
+<td>49</td>
+<td colspan="2">Қара тұрпан</td>
+<td>Melanitta fusca</td>
+<td>Черный турпан</td>
+</tr>
+<tr>
+<td>50</td>
+<td colspan="2">Ақбас үйрек</td>
+<td>Oxyura leucocephala</td>
+<td>Савка</td>
+</tr>
+<tr>
+<td>51</td>
+<td colspan="2">Балықшы тұйғын</td>
+<td>Pandion haliaetus</td>
+<td>Скопа</td>
+</tr>
+<tr>
+<td>52</td>
+<td colspan="2">Жыланшы қыран, бүркiт</td>
+<td>Circaetus gallicus</td>
+<td>Змееяд</td>
+</tr>
+<tr>
+<td>53</td>
+<td colspan="2">Бақалтақ қыран</td>
+<td>Aquila pennatus</td>
+<td>Орел-карлик</td>
+</tr>
+<tr>
+<td>54</td>
+<td colspan="2">Дала қыраны</td>
+<td>Aquila rapax</td>
+<td>Степной орел</td>
+</tr>
+<tr>
+<td>55</td>
+<td colspan="2">Қарақұс</td>
+<td>Aquila heliaca</td>
+<td>Могильник</td>
+</tr>
+<tr>
+<td>56</td>
+<td colspan="2">Бүркiт</td>
+<td>Aquila chrysaetus</td>
+<td>Беркут</td>
+</tr>
+<tr>
+<td>57</td>
+<td colspan="2">Ақиық субүркiт</td>
+<td>Haliaeetus leucoryphus</td>
+<td>Орлан-долгохвост</td>
+</tr>
+<tr>
+<td>58</td>
+<td colspan="2">Аққұйрықты субүркiт</td>
+<td>Haliaeetus albicilla</td>
+<td>Орлан-белохвост</td>
+</tr>
+<tr>
+<td>59</td>
+<td colspan="2">Сақалтай, қозықұмай</td>
+<td>Gypaetus barbatus</td>
+<td>Бородач</td>
+</tr>
+<tr>
+<td>60</td>
+<td colspan="2">Жұртшы</td>
+<td>Neophron percnopterus</td>
+<td>Стервятник</td>
+</tr>
+<tr>
+<td>61</td>
+<td colspan="2">Құмай</td>
+<td>Gyps himalayensis</td>
+<td>Кумай</td>
+</tr>
+<tr>
+<td>62</td>
+<td colspan="2">Ақсұңқар</td>
+<td>Falco rusticolus</td>
+<td>Кречет</td>
+</tr>
+<tr>
+<td>63</td>
+<td colspan="2">Ителгi</td>
+<td>Falco cherrug</td>
+<td>Балобан</td>
+</tr>
+<tr>
+<td>64</td>
+<td colspan="2">Бидайық</td>
+<td>Falco pelegrinoides</td>
+<td>Шахин</td>
+</tr>
+<tr>
+<td>65</td>
+<td colspan="2">Лашын</td>
+<td>Falco peregrinus</td>
+<td>Сапсан</td>
+</tr>
+<tr>
+<td>66</td>
+<td colspan="2">Алтай ұлары</td>
+<td>Tetraogallus altaicus</td>
+<td>Алтайский улар</td>
+</tr>
+<tr>
+<td>67</td>
+<td colspan="2">Ақтырна</td>
+<td>Grus leucogeranus</td>
+<td>Стерх</td>
+</tr>
+<tr>
+<td>68</td>
+<td colspan="2">Тазтырна</td>
+<td>Grus grus</td>
+<td>Серый журавль</td>
+</tr>
+<tr>
+<td>69</td>
+<td colspan="2">Ақбас тырна</td>
+<td>Anthropoides virgo</td>
+<td>Журавль-красавка</td>
+</tr>
+<tr>
+<td>70</td>
+<td colspan="2">Көңмаңдай</td>
+<td>Porphyrio роrphyrio</td>
+<td>Султанка</td>
+</tr>
+<tr>
+<td>71</td>
+<td colspan="2">Дуадақ</td>
+<td>Otis tarda</td>
+<td>Дрофа</td>
+</tr>
+<tr>
+<td>72</td>
+<td colspan="2">Безгелдек</td>
+<td>Otis tetrax</td>
+<td>Стрепет</td>
+</tr>
+<tr>
+<td>73</td>
+<td colspan="2">Жек дуадақ</td>
+<td>Chlamydotis undulata</td>
+<td>Джек</td>
+</tr>
+<tr>
+<td>74</td>
+<td colspan="2">Тарғақ</td>
+<td>Chettusia gregaria</td>
+<td>Кречетка</td>
+</tr>
+<tr>
+<td>75</td>
+<td colspan="2">Орақтұмсық</td>
+<td>Ibidorhyncha struthersii</td>
+<td>Серпоклюв</td>
+</tr>
+<tr>
+<td>76</td>
+<td colspan="2">Кiшi шалшықшы құс</td>
+<td>Numenius minutus</td>
+<td>Кроншнеп-малютка</td>
+</tr>
+<tr>
+<td>77</td>
+<td colspan="2">Сүйiр тұмсықты шалшықшы құс</td>
+<td>Numenius tenuirostris</td>
+<td>Тонкоклювый кроншнеп</td>
+</tr>
+<tr>
+<td>78</td>
+<td colspan="2">Азиялық тарбаң шырғалақ</td>
+<td>Limnodromus semipalmamatus</td>
+<td>Азиатский бекасовидный веретенник</td>
+</tr>
+<tr>
+<td>79</td>
+<td colspan="2">Қарабас өгiз шағала</td>
+<td>Larus ichthyaetus</td>
+<td>Черноголовый хохотун</td>
+</tr>
+<tr>
+<td>80</td>
+<td colspan="2">Қарамойнақ шағала</td>
+<td>Larus relictus</td>
+<td>Реликтовая чайка</td>
+</tr>
+<tr>
+<td>81</td>
+<td colspan="2">Қарабауыр бұлдырық</td>
+<td>Pterocles orientalis</td>
+<td>Чернобрюхий рябок</td>
+</tr>
+<tr>
+<td>82</td>
+<td colspan="2">Ақбауыр бұлдырық</td>
+<td>Pterocles alchata</td>
+<td>Белобрюхий рябок</td>
+</tr>
+<tr>
+<td>83</td>
+<td colspan="2">Ұбақ, қолаңтөс</td>
+<td>Syrrhaptes paradoxus</td>
+<td>Саджа</td>
+</tr>
+<tr>
+<td>84</td>
+<td colspan="2">Қоңыр кептер</td>
+<td>Columba eversmanni</td>
+<td>Бурый голубь</td>
+</tr>
+<tr>
+<td>85</td>
+<td colspan="2">Yкi</td>
+<td>Bubo bubo</td>
+<td>Филин</td>
+</tr>
+<tr>
+<td>86</td>
+<td colspan="2">Iле жорға торғайы</td>
+<td>Podoces panderi ilensis</td>
+<td>Илийская саксаульная сойка</td>
+</tr>
+<tr>
+<td>87</td>
+<td colspan="2">Көкқұс</td>
+<td>Myophonus coeruleus</td>
+<td>Синяя птица</td>
+</tr>
+<tr>
+<td>88</td>
+<td colspan="2">Үлкен құралайқұс</td>
+<td>Carpodacus rubicilla</td>
+<td>Большая чечевица</td>
+</tr>
+<tr>
+<td colspan="5">
+Сүт қоректiлер класы
+Mammalia
+Класс - Млекопитающие
+</td>
+</tr>
+<tr>
+<td>89</td>
+<td colspan="2">Көптiстi жертесер</td>
+<td>Suncus etruscus</td>
+<td>Белозубка малютка</td>
+</tr>
+<tr>
+<td>90</td>
+<td colspan="2">Жұпар тышқан</td>
+<td>Desmana moschata</td>
+<td>Выхухоль</td>
+</tr>
+<tr>
+<td>91</td>
+<td colspan="2">Иконников жарқанаты</td>
+<td>Myotis ikonnikovy</td>
+<td>Ночница Иконникова</td>
+</tr>
+<tr>
+<td>92</td>
+<td colspan="2">Азия жалпаққұлақты жарқанаты</td>
+<td>Barbastella leucomelas</td>
+<td>Азиатская широкоушка</td>
+</tr>
+<tr>
+<td>93</td>
+<td colspan="2">Бобринский жарқанаты</td>
+<td>Eptesicus bobrinskii</td>
+<td>Кожанок Бобринского</td>
+</tr>
+<tr>
+<td>94</td>
+<td colspan="2">Ақбауыр жарқанат</td>
+<td>Otonycteris hemprichi</td>
+<td>Белобрюхий стрелоух</td>
+</tr>
+<tr>
+<td>95</td>
+<td colspan="2">Бүрме ерiндi жарқанат</td>
+<td>Tadarida teniotis</td>
+<td>Широкоухий складчатогуб</td>
+</tr>
+<tr>
+<td>96</td>
+<td colspan="2">Қызыл қасқыр</td>
+<td>Cuon alpinus</td>
+<td>Красный волк</td>
+</tr>
+<tr>
+<td>97</td>
+<td colspan="2">Тянь-Шань қоңыр аюы</td>
+<td>Ursus arctos isabellinus</td>
+<td>Тянь-шаньский бурый медведь</td>
+</tr>
+<tr>
+<td>98</td>
+<td colspan="2">Тас сусары</td>
+<td>Martes foina Erxleben</td>
+<td>Каменная куница</td>
+</tr>
+<tr>
+<td>99</td>
+<td colspan="2">Орман сусары</td>
+<td>Martes martes</td>
+<td>Лесная куница</td>
+</tr>
+<tr>
+<td>100</td>
+<td colspan="2">Еуропа күзенi</td>
+<td>Mustela lutreola</td>
+<td>Европейская норка</td>
+</tr>
+<tr>
+<td>101</td>
+<td colspan="2">Шұбар күзенi</td>
+<td>Vormela peregusna</td>
+<td>Перевязка</td>
+</tr>
+<tr>
+<td>102</td>
+<td colspan="2">Балжегiш аю</td>
+<td>Mellivora capensis</td>
+<td>Медоед</td>
+</tr>
+<tr>
+<td>103</td>
+<td colspan="2">Орта Азиялық өзен кәмшаты</td>
+<td>Lutra lutra seistanica</td>
+<td>Среднеазиатская речная выдра</td>
+</tr>
+<tr>
+<td>104</td>
+<td colspan="2">Қабылан</td>
+<td>Acinonyx jubatus</td>
+<td>Гепард</td>
+</tr>
+<tr>
+<td>105</td>
+<td colspan="2">Шағыл мысығы</td>
+<td>Felis margarita</td>
+<td>Барханный кот</td>
+</tr>
+<tr>
+<td>106</td>
+<td colspan="2">Сабаншы</td>
+<td>Felis manul</td>
+<td>Манул</td>
+</tr>
+<tr>
+<td>107</td>
+<td colspan="2">Қарақал</td>
+<td>Lynx caracal</td>
+<td>Каракал</td>
+</tr>
+<tr>
+<td>108</td>
+<td colspan="2">Орта Азия немесе түркiстан сiлеусiнi</td>
+<td>Lynx lynx isabellinus</td>
+<td>Центральноазиатская или туркестанская рысь</td>
+</tr>
+<tr>
+<td>109</td>
+<td colspan="2">Барыс</td>
+<td>Uncia uncia Schreber</td>
+<td>Снежный барс</td>
+</tr>
+<tr>
+<td>110</td>
+<td colspan="2">Түрiкмен құланы</td>
+<td>Equus hemionus onager</td>
+<td>Туркменский кулан</td>
+</tr>
+<tr>
+<td>111</td>
+<td colspan="2">Тоғай кермаралы</td>
+<td>Cervus elaphus bactrianus</td>
+<td>Тугайный благородный олень</td>
+</tr>
+<tr>
+<td>112</td>
+<td colspan="2">Қарақұйрық</td>
+<td>Gazella subgutturosa</td>
+<td>Джейран</td>
+</tr>
+<tr>
+<td>113</td>
+<td colspan="2">Ycтipт арқары</td>
+<td>Ovis vignei arkal</td>
+<td>Устюртский горный баран</td>
+</tr>
+<tr>
+<td>114</td>
+<td colspan="2">Алтай арқары</td>
+<td>Ovis ammon ammon</td>
+<td>Алтайский горный баран</td>
+</tr>
+<tr>
+<td>115</td>
+<td colspan="2">Қызылқұм арқары</td>
+<td>Ovis ammon severtzovi</td>
+<td>Кызылкумский горный баран</td>
+</tr>
+<tr>
+<td>116</td>
+<td colspan="2">Қазақстан арқары</td>
+<td>Ovisammon collium</td>
+<td>Казахстанский горный баран</td>
+</tr>
+<tr>
+<td>117</td>
+<td colspan="2">Тянь-шань арқары</td>
+<td>Ovis ammon karelini</td>
+<td>Тянь-шаньский горный баран</td>
+</tr>
+<tr>
+<td>118</td>
+<td colspan="2">Қаратау арқары</td>
+<td>Ovis ammon nigrimontana</td>
+<td>Каратауский горный баран</td>
+</tr>
+<tr>
+<td>119</td>
+<td colspan="2">Мензбир суыры</td>
+<td>Marmota menzbieri</td>
+<td>Сурок Мензбира</td>
+</tr>
+<tr>
+<td>120</td>
+<td colspan="2">Үндi жайрасы</td>
+<td>Hystrix indica</td>
+<td>Индийский дикобраз</td>
+</tr>
+<tr>
+<td>121</td>
+<td colspan="2">Жалман</td>
+<td>Selevinia betpakdalensis</td>
+<td>Селевиния</td>
+</tr>
+<tr>
+<td>122</td>
+<td colspan="2">Бессаусақты ергежейлi қосаяқ</td>
+<td>Cardiocranius paradoxus</td>
+<td>Пятипалый карликовый тушканчик</td>
+</tr>
+<tr>
+<td>123</td>
+<td colspan="2">Гептнер ергежейлi қосаяғы</td>
+<td>Salpingotus heptneri</td>
+<td>Карликовый тушканчик Гептнера</td>
+</tr>
+<tr>
+<td>124</td>
+<td colspan="2">Ергежейлi боз қосаяқ</td>
+<td>Salpingotus pallidus</td>
+<td>Бледный карликовый тушканчик</td>
+</tr>
+<tr>
+<td>125</td>
+<td colspan="2">Ергежейлi майқұйрық қосаяқ</td>
+<td>Salpingotus crasicauda</td>
+<td>Жирнохвостый карликовый тушканчик</td>
+</tr>
+<tr>
+<td>126</td>
+<td colspan="2">Үлкен көртышқан</td>
+<td>Spalax giganteus</td>
+<td>Гигантский слепыш</td>
+</tr>
+<tr>
+<td>127</td>
+<td colspan="2">Роборовский атжалманы</td>
+<td>Phodopus roborovskii</td>
+<td>Хомячок Роборовского</td>
+</tr>
+<tr>
+<td>128</td>
+<td colspan="2">Сары алақоржын</td>
+<td>Lagurus luteus</td>
+<td>Желтая пеструшка</td>
+</tr>
+<tr>
+<td colspan="5">
+Түр тармағы - Омыртқасыздар
+Tүpi - Буылтық құрттар
+Аз қылшықтылар класы
+Люмбрикоморфа отряды
+Invertebrates
+Annelida
+Oligochaeta
+Lumbricomorpha
+Подтип - Беспозвоночные
+Тип - Кольчатые черви
+Класс - Малощетинковые
+Отряд - Люмбрикоморфа
+</td>
+</tr>
+<tr>
+<td>129</td>
+<td colspan="2">Жылан тәрiздi перелия</td>
+<td>Perelia ophiomorpha</td>
+<td>Перелия змеевидная</td>
+</tr>
+<tr>
+<td>130</td>
+<td colspan="2">Керемет эйзения</td>
+<td>Eisenia magnifica</td>
+<td>Эйзения великолепная</td>
+</tr>
+<tr>
+<td colspan="5">
+Tүpi - Моллюскалар
+Бауыраяқтылар класы
+Құрлықтағылар отряды
+Mollusca
+Gastropoda
+Geophila
+Тип - Моллюски
+Класс - Брюхоногие
+Отряд - Наземные
+</td>
+</tr>
+<tr>
+<td colspan="2">131</td>
+<td>Теель гастрокоптасы</td>
+<td>Gastrocopta theeli</td>
+<td>Гастрокопта Тееля</td>
+</tr>
+<tr>
+<td colspan="2">132</td>
+<td>Сол бұрандалы брадибена</td>
+<td>Bradybaena sinisrorsa</td>
+<td>Брадибена синистрорза</td>
+</tr>
+<tr>
+<td colspan="2">133</td>
+<td>Шнитников псеудонапэусы</td>
+<td>Pseudonapaeus schnitnikovi</td>
+<td>Псеудонапэус Шнитникова</td>
+</tr>
+<tr>
+<td colspan="2">134</td>
+<td>Түркiстан туркомилаксы</td>
+<td>Turcomilax turkestanus</td>
+<td>Туркомилакс туркестанский</td>
+</tr>
+<tr>
+<td colspan="2">135</td>
+<td>Цветков туркомилаксы</td>
+<td>Turcomilax tzvetkovi</td>
+<td>Туркомилакс Цветкова</td>
+</tr>
+<tr>
+<td colspan="2">136</td>
+<td>Монахоидес акулеата</td>
+<td>Monachoides aculeate</td>
+<td>Монахоидес акулеата</td>
+</tr>
+<tr>
+<td colspan="5">
+Tүpi - Буынаяқтылар
+Шаян тәрiздiлер класы
+Он аяқтылар отряды
+Arthropoda
+Crustacea
+Decapoda
+Тип - Членистоногие
+Класс - Ракообразные
+Отряд - Десятиногие
+</td>
+</tr>
+<tr>
+<td colspan="2">137</td>
+<td>Түркiстан шаяны</td>
+<td>Astacus kessleri</td>
+<td>Туркестанский рак</td>
+</tr>
+<tr>
+<td colspan="5">
+Өрмекшi тәрiздiлер класы
+Сольпугалар отряды
+Arachnida
+Solifugae
+Класс - Паукообразные
+Отряд - Сольпуги
+</td>
+</tr>
+<tr>
+<td colspan="2">138</td>
+<td>Рикмерс сольпугасы</td>
+<td>Gylippus rickmersi</td>
+<td>Сольпуга Рикмерса</td>
+</tr>
+<tr>
+<td colspan="5">
+Сары шаяндар отряды
+Scorpiones
+Отряд - Скорпионы
+</td>
+</tr>
+<tr>
+<td colspan="2">139</td>
+<td>Рикмерс сары шаяны</td>
+<td>Anomalobuthus rickmersi</td>
+<td>Скорпион Рикмерса</td>
+</tr>
+<tr>
+<td colspan="5">
+Жәндіктер класы
+Инелiктер отряды
+Insecta
+Odonata
+Класс - Насекомые
+Отряд - Стрекозы
+</td>
+</tr>
+<tr>
+<td colspan="2">140</td>
+<td>Арал жiңiшке құйрықты инелiгi</td>
+<td>Ischnura aralenais</td>
+<td>Тонкохвост аральский</td>
+</tr>
+<tr>
+<td colspan="2">141</td>
+<td>Көрнектi шоқпар қарынды инелiк</td>
+<td>Cordulegaster insignis</td>
+<td>Булавобрюх заметный</td>
+</tr>
+<tr>
+<td colspan="2">142</td>
+<td>Кириченко инелiгi</td>
+<td>Anormogomphus kiritschenkoi</td>
+<td>Лето детка Кириченко</td>
+</tr>
+<tr>
+<td colspan="2">143</td>
+<td>Әдемiқыз инелiк</td>
+<td>Calopteryx virgo</td>
+<td>Красотка девушка</td>
+</tr>
+<tr>
+<td colspan="2">144</td>
+<td>Әмiршi инелiк</td>
+<td>Anax imperator</td>
+<td>Дозорщик-император</td>
+</tr>
+<tr>
+<td colspan="2">145</td>
+<td>Оңтүстiк Азиялық тiк қарынды инелiк</td>
+<td>Orthetrum Sabina</td>
+<td>Прямобрюх южноазиатский</td>
+</tr>
+<tr>
+<td colspan="2">146</td>
+<td>Селисия қара инелiгi</td>
+<td>Selysiothemis nigra</td>
+<td>Селисия черная</td>
+</tr>
+<tr>
+<td colspan="5">
+Дәуiттер отряды
+Mantoptera
+Отряд - Богомоловые
+</td>
+</tr>
+<tr>
+<td colspan="2">147</td>
+<td>Қысқа қанатты Боливария дәуiтi</td>
+<td>Bolivaria brachyptera</td>
+<td>Боливария короткокрылая</td>
+</tr>
+<tr>
+<td colspan="2">148</td>
+<td>Ағаш дәуiтi</td>
+<td>Hierodula tenuidentata</td>
+<td>Богомол древесный</td>
+</tr>
+<tr>
+<td colspan="5">
+Тең қанаттылар отряды
+Orthoptera
+Отряд - Прямокрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">149</td>
+<td>Түйiршiктi деракантина</td>
+<td>Deracanthina granulate</td>
+<td>Деракантина гранулированная</td>
+</tr>
+<tr>
+<td colspan="2">150</td>
+<td>Дамалаканта вакка шегiрткесi</td>
+<td>Damalacantha vacca</td>
+<td>Дамалаканта Вакка</td>
+</tr>
+<tr>
+<td colspan="2">151</td>
+<td>Дала шегiрткесi</td>
+<td>Sagapedo</td>
+<td>Дыбка степная</td>
+</tr>
+<tr>
+<td colspan="2">152</td>
+<td>Сервилль Севчугi</td>
+<td>Onconotus servillei</td>
+<td>Севчук Сервилля</td>
+</tr>
+<tr>
+<td colspan="2">153</td>
+<td>Қоңыр қанатты шегiртке</td>
+<td>Ceraeocercus fuscipermis</td>
+<td>Кузнечик темнокрылый</td>
+</tr>
+<tr>
+<td colspan="5">
+Tiк қанаттылар отряды
+Homoptera
+Отряд - Равнокрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">154</td>
+<td>Якобсон филлоргериусы (сымыры)</td>
+<td>Phyllorgerius jacobsoni</td>
+<td>Филлоргериус Якобсона</td>
+</tr>
+<tr>
+<td colspan="2">155</td>
+<td>Виктория карминдi сымыры</td>
+<td>Рorphyrophora victoriae</td>
+<td>Карминоносный червец Виктории</td>
+</tr>
+<tr>
+<td colspan="2">156</td>
+<td>Кармин бояуын өндipушi ақ мия сымыры</td>
+<td>Рorphyrophora sophorae</td>
+<td>Карминоносный червец горчаковый</td>
+</tr>
+<tr>
+<td colspan="2">157</td>
+<td>Кармин айлаулықтар сымыры</td>
+<td>Porphyrophora arnebiae</td>
+<td>Карминоносный червец бурачниковый</td>
+</tr>
+<tr>
+<td colspan="2">158</td>
+<td>Карминдi поляк сымыры</td>
+<td>Рorphyrophora polonica</td>
+<td>Карминосный червец польский</td>
+</tr>
+<tr>
+<td colspan="2">159</td>
+<td>Ұзынша сымыр</td>
+<td>Parafairmairia elongata</td>
+<td>Червец удлиненный</td>
+</tr>
+<tr>
+<td colspan="2">160</td>
+<td>Iciк түзгiш сымыр</td>
+<td>Acanthococcus orbiculus</td>
+<td>Червец галловый</td>
+</tr>
+<tr>
+<td colspan="5">
+Қатты қанаттылар отряды
+Coleoptera
+Отряд - Жесткокрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">161</td>
+<td>Кeшкiлiк барылдауық қоңызы</td>
+<td>Cicindela nox</td>
+<td>Скакун сумеречный</td>
+</tr>
+<tr>
+<td colspan="2">162</td>
+<td>Семенов барылдауық қоңызы</td>
+<td>Callisthenes semenovi</td>
+<td>Красотел Семенова</td>
+</tr>
+<tr>
+<td colspan="2">163</td>
+<td>Тор қанатты барылдауық қоңыз</td>
+<td>Callisthenes reticulates</td>
+<td>Красотел сетчатый</td>
+</tr>
+<tr>
+<td colspan="2">164</td>
+<td>Геблер барылдауық қоңызы</td>
+<td>Carabus gebleri</td>
+<td>Жужелица Геблера</td>
+</tr>
+<tr>
+<td colspan="2">165</td>
+<td>Михайлов барылдауық қоңызы</td>
+<td>Carabus michailovi</td>
+<td>Жужелица Михайлова</td>
+</tr>
+<tr>
+<td colspan="2">166</td>
+<td>Линденманн барылдауық қоңызы</td>
+<td>Carabus lindemanni</td>
+<td>Жужелица Линдеманна</td>
+</tr>
+<tr>
+<td colspan="2">167</td>
+<td>Iле барылдауық қоңызы</td>
+<td>Carabus iliensis</td>
+<td>Жужелица илийская</td>
+</tr>
+<tr>
+<td colspan="2">168</td>
+<td>Хике барылдауық қоңызы</td>
+<td>Carabus hiekei</td>
+<td>Жужелица Хике</td>
+</tr>
+<tr>
+<td colspan="2">169</td>
+<td>Сольский барылдауық қоңызы</td>
+<td>Carabus solskyi</td>
+<td>Жужелица Сольского</td>
+</tr>
+<tr>
+<td colspan="2">170</td>
+<td>Ұл бала барылдауық қоңызы</td>
+<td>Carabus puer</td>
+<td>Жужелица-мальчик</td>
+</tr>
+<tr>
+<td colspan="2">171</td>
+<td>Керемет барылдауық қоңызы</td>
+<td>Carabus imperialis</td>
+<td>Жужелица восхитительная</td>
+</tr>
+<tr>
+<td colspan="2">172</td>
+<td>Бұғы қоңыз</td>
+<td>Lucanus cervus</td>
+<td>Жук-олень</td>
+</tr>
+<tr>
+<td colspan="2">173</td>
+<td>Балауса бұғы қоңыз</td>
+<td>Dorcus parallelopipedus</td>
+<td>Оленек</td>
+</tr>
+<tr>
+<td colspan="2">174</td>
+<td>Жылжымалы мүйiздi қоңыз</td>
+<td>Bolboceras armiger</td>
+<td>Подвижнорогий навозник</td>
+</tr>
+<tr>
+<td colspan="2">175</td>
+<td>Чичерин летрус қоңызы</td>
+<td>Lethrus tschitsherini</td>
+<td>Кравчик Чичерина</td>
+</tr>
+<tr>
+<td colspan="2">176</td>
+<td>Еуропа кнемизус қоңызы</td>
+<td>Cnemisus rufescens</td>
+<td>Кнемизус европейский</td>
+</tr>
+<tr>
+<td colspan="2">177</td>
+<td>Кәдiмгi гаплозома қоңызы</td>
+<td>Haplosoma ordinatum</td>
+<td>Гаплозома обычная</td>
+</tr>
+<tr>
+<td colspan="2">178</td>
+<td>Балқаш тамыр жегiш қоңызы</td>
+<td>Dorcadion Balchashense</td>
+<td>Корнеед балхашский</td>
+</tr>
+<tr>
+<td colspan="2">179</td>
+<td>Гангльбауэр тамыр жегiш қоңызы</td>
+<td>Dorcadion ganglbaueri</td>
+<td>Корнеед Гангльбауэра</td>
+</tr>
+<tr>
+<td colspan="2">180</td>
+<td>Үлкен тамыр жегiш қоңыз</td>
+<td>Dorcadion grande</td>
+<td>Корнеед большой</td>
+</tr>
+<tr>
+<td colspan="2">181</td>
+<td>Iле отын кескiш қоңызы</td>
+<td>Aromia pruinosa</td>
+<td>Дровосек мускусный</td>
+</tr>
+<tr>
+<td colspan="2">182</td>
+<td>Галузо отын кескiш қоңызы</td>
+<td>Asias galusoi</td>
+<td>Дровосек Галузо</td>
+</tr>
+<tr>
+<td colspan="2">183</td>
+<td>Жыңғыл отын кескiш қоңызы</td>
+<td>Hesperophanes heudeni</td>
+<td>Дровосек тамарисковый</td>
+</tr>
+<tr>
+<td colspan="2">184</td>
+<td>Үлкен тораңғы қоңызы</td>
+<td>Capnodis militaris metallica</td>
+<td>Большая туранговая златка</td>
+</tr>
+<tr>
+<td colspan="2">185</td>
+<td>Тянь-Шань қанқызы</td>
+<td>Coccinella tianshanica</td>
+<td>Коровка тянь-шанская</td>
+</tr>
+<tr>
+<td colspan="2">186</td>
+<td>Қос нүктелi қанқызы</td>
+<td>Chilocorus bipustulatus</td>
+<td>Хилокорус двуточечный</td>
+</tr>
+<tr>
+<td colspan="2">187</td>
+<td>Нүктелi қанқызы</td>
+<td>Stethorus punctillum</td>
+<td>Точечная коровка</td>
+</tr>
+<tr>
+<td colspan="5">
+Жарғақ қанаттылар отряды
+Hymenoptera
+Отряд - Перепончатокрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">188</td>
+<td>Алып сколия</td>
+<td>Scolia maculata</td>
+<td>Сколия-гигант</td>
+</tr>
+<tr>
+<td colspan="2">189</td>
+<td>Дала сколиясы</td>
+<td>Scolia hirta</td>
+<td>Сколия степная</td>
+</tr>
+<tr>
+<td colspan="2">190</td>
+<td>Шестаков Сцелифроны</td>
+<td>Sceliphron shestakovi</td>
+<td>Сцелифрон Шестакова</td>
+</tr>
+<tr>
+<td colspan="2">191</td>
+<td>Сары қанатты сфекс</td>
+<td>Sphex flavipennis</td>
+<td>Сфекс желтокрылый</td>
+</tr>
+<tr>
+<td colspan="2">192</td>
+<td>Харберхауэр приониксi</td>
+<td>Prionyx haberhaueri</td>
+<td>Прионикс Хаберхауэра</td>
+</tr>
+<tr>
+<td colspan="2">193</td>
+<td>Қаралы прионикс</td>
+<td>Prionyx macula lugens</td>
+<td>Прионикс траурный</td>
+</tr>
+<tr>
+<td colspan="2">194</td>
+<td>Тау лестифорусы</td>
+<td>Lestiphorus oreophilus</td>
+<td>Лестифорус горолюбивый</td>
+</tr>
+<tr>
+<td colspan="2">195</td>
+<td>Жирен гоплит</td>
+<td>Hoplitis (Megalosmia) fulva</td>
+<td>Гоплит рыжий</td>
+</tr>
+<tr>
+<td colspan="2">196</td>
+<td>Ақ бауыр металлинелла</td>
+<td>Metallinella leucogastra</td>
+<td>Металлинелла белобрюхая</td>
+</tr>
+<tr>
+<td colspan="2">197</td>
+<td>Дөңгеленген парарофитес</td>
+<td>Pararophites orbinus</td>
+<td>Парарофитес округлый</td>
+</tr>
+<tr>
+<td colspan="2">198</td>
+<td>Жiңiшке аяқты клизодон</td>
+<td>Clisodon gracilipes</td>
+<td>Клизодон тонконогий</td>
+</tr>
+<tr>
+<td colspan="2">199</td>
+<td>Жирен-қызыл проксилокопа</td>
+<td>Proxylocopa (Proxylocopa) rufa</td>
+<td>Проксилокопа рыжевато-красная</td>
+</tr>
+<tr>
+<td colspan="2">200</td>
+<td>Жылтыр бауырлы проксилокопа</td>
+<td>Proxylocopa (Ancylocopa) nitidiventris</td>
+<td>Проксилокопа блестящебрюхая</td>
+</tr>
+<tr>
+<td colspan="5">
+Қос қанаттылар отряды
+Diptera
+Отряд - Двукрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">201</td>
+<td>Бөгетi құмытысы</td>
+<td>Atraphaxiola bogutensis</td>
+<td>Атрафаксиола богутинская</td>
+</tr>
+<tr>
+<td colspan="2">202</td>
+<td>Жетiлмеген эфедромия</td>
+<td>Ephedromia debilopalpis</td>
+<td>Эфедромия недоразвитощупиковая</td>
+</tr>
+<tr>
+<td colspan="2">203</td>
+<td>Азия стенфаниоласы</td>
+<td>Stefaniola asiatica</td>
+<td>Стефаниола азиатская</td>
+</tr>
+<tr>
+<td colspan="2">204</td>
+<td>Керемет стенфаниола</td>
+<td>Stefaniola lepidosa B.</td>
+<td>Стефаниола великолепная</td>
+</tr>
+<tr>
+<td colspan="2">205</td>
+<td>Түрлi мүйiздi псектросема</td>
+<td>Psectrosema diversicornis</td>
+<td>Псектросема разнороговая</td>
+</tr>
+<tr>
+<td colspan="5">
+Қабыршақ қанаттылар отряды
+Lepidoptera
+Отряд - Чешуекрылые
+</td>
+</tr>
+<tr>
+<td colspan="2">206</td>
+<td>Түрiкмен ала көбелегi</td>
+<td>Zygaena turchmena</td>
+<td>Пестрянка туркменская</td>
+</tr>
+<tr>
+<td colspan="2">207</td>
+<td>Тораңғы филерема көбелегi</td>
+<td>Laothoe philerema</td>
+<td>Бражник туранговый</td>
+</tr>
+<tr>
+<td colspan="2">208</td>
+<td>Тоғай айдарлы көбелегi</td>
+<td>Paragluphisia oxiana</td>
+<td>Хохлатка тугайная</td>
+</tr>
+<tr>
+<td colspan="2">209</td>
+<td>Жолақты тораңғы көбелегi</td>
+<td>Catocala optima</td>
+<td>Лента орденская туранговая</td>
+</tr>
+<tr>
+<td colspan="2">210</td>
+<td>Мамықты хаймоптена көбелегi</td>
+<td>Cheimoptena pennigera</td>
+<td>Хаймоптена оперенная</td>
+</tr>
+<tr>
+<td colspan="2">211</td>
+<td>Алексанор көбелегi</td>
+<td>Papilio alexanor</td>
+<td>Парусник Алексанор</td>
+</tr>
+<tr>
+<td colspan="2">212</td>
+<td>Поликсена</td>
+<td>Zerynthia polyxena</td>
+<td>Поликсена</td>
+</tr>
+<tr>
+<td colspan="2">213</td>
+<td>Бедромиус</td>
+<td>Parnassius boedromius</td>
+<td>Бедромиус</td>
+</tr>
+<tr>
+<td colspan="2">214</td>
+<td>Патриций</td>
+<td>Parnassius patricius</td>
+<td>Патриций</td>
+</tr>
+<tr>
+<td colspan="2">215</td>
+<td>Алау түстi микрозегрис</td>
+<td>Microzegris pyrothoe</td>
+<td>Микрозегрис пламенный</td>
+</tr>
+<tr>
+<td colspan="2">216</td>
+<td>Вискотт сары көбелегi</td>
+<td>Colias wiscotti draconis</td>
+<td>Желтушка Вискотта</td>
+</tr>
+<tr>
+<td colspan="2">217</td>
+<td>Ершов сары көбелегi</td>
+<td>Colias erschovi</td>
+<td>Желтушка Ершова</td>
+</tr>
+<tr>
+<td colspan="2">218</td>
+<td>Монғол барқыт түстi көбелегi</td>
+<td>Coenonympha mongolica</td>
+<td>Сенница монгольская</td>
+</tr>
+<tr>
+<td colspan="2">219</td>
+<td>Энейс Мулл көбелегi</td>
+<td>Oeneis mulla</td>
+<td>Энейс Мулла</td>
+</tr>
+<tr>
+<td colspan="2">220</td>
+<td>Мирмекида көгiлдiр көбелегi</td>
+<td>Aricia chinensis myrmecias</td>
+<td>Голубянка Мирмекида</td>
+</tr>
+<tr>
+<td colspan="2">221</td>
+<td>Арғали көгiлдiр көбелегi</td>
+<td>Glaucopsyche argali</td>
+<td>Голубянка Аргали</td>
+</tr>
+<tr>
+<td colspan="2">222</td>
+<td>Бавия көгiлдiр көбелегi</td>
+<td>Scolitantides bavius</td>
+<td>Голубянка Бавия</td>
+</tr>
+<tr>
+<td colspan="2">223</td>
+<td>Панопа көгiлдiр көбелегi</td>
+<td>Palaeophilotes panope</td>
+<td>Голубянка Панопа</td>
+</tr>
+<tr>
+<td colspan="2">224</td>
+<td>Татьяна көгiлдiр көбелегi</td>
+<td>Otnjukovia tatjana</td>
+<td>Голубянка Татьяна</td>
 </tr>
 </table>
