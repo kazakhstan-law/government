@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/37001/rus/02.11.2012
+source: https://zan.gov.kz/client/#!/doc/37001/rus/09.11.2012
 ---
 
 ## Доплаты и надбавки за условия труда гражданским служащим физической культуры и спорта
