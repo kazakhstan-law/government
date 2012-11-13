@@ -80,11 +80,17 @@ versions:
   - rus
   cause:
     code: '63954'
+- date: 2012-11-13
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '68877'
 version_date:
-  kaz: 2012-03-12
-  rus: 2012-03-12
+  kaz: 2012-11-13
+  rus: 2012-11-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/19027/kaz/12.03.2012
-  rus: https://zan.gov.kz/client/#!/doc/19027/rus/12.03.2012
+  kaz: https://zan.gov.kz/client/#!/doc/19027/kaz/13.11.2012
+  rus: https://zan.gov.kz/client/#!/doc/19027/rus/13.11.2012
 caused_by:
-  code: '63954'
+  code: '68877'
