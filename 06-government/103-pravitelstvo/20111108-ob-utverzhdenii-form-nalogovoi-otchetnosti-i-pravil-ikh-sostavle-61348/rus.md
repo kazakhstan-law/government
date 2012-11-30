@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/61348/rus/30.11.2012
+repealed_on: 2013-01-01
+repealed_by:
+  code: '68931'
+  title: Об утверждении форм налоговой отчетности и правил их составления
+  link: https://zan.gov.kz/client/#!/doc/68931/rus
 ---
 
 ## Части документа
