@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/61348/kaz/08.11.2011
+source: https://zan.gov.kz/client/#!/doc/61348/kaz/30.11.2012
 ---
 
 ## 11. Шикі мұнайдың, газ конденсатының салық салынатын импорты – 320.09-нысанын жасау

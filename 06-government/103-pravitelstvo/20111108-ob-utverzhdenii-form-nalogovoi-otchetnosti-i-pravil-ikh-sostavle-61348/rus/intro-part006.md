@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/61348/rus/08.11.2011
+source: https://zan.gov.kz/client/#!/doc/61348/rus/30.11.2012
 ---
 
 ## 5. Составление формы 100.03 - Вычеты по фиксированным активам
