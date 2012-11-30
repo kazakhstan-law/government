@@ -18,6 +18,11 @@ caused_by:
   title: Салық есептілігі нысандарын және оларды жасау қағидаларын бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/68931/kaz
 source: https://zan.gov.kz/client/#!/doc/61348/kaz/30.11.2012
+repealed_on: 2013-01-01
+repealed_by:
+  code: '68931'
+  title: Салық есептілігі нысандарын және оларды жасау қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/68931/kaz
 ---
 
 # Салық есептілігі нысандарын және оларды жасау қағидаларын бекіту туралы
