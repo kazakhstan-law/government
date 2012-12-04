@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54782/kaz/31.08.2012
+source: https://zan.gov.kz/client/#!/doc/54782/kaz/04.12.2012
 ---
 
 ## Кесте. Сапа және тиімділік көрсеткіштерінің мәні
