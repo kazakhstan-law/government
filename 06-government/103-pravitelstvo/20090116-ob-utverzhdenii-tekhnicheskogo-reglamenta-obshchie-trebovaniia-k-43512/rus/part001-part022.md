@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43512/rus/31.10.2011
+source: https://zan.gov.kz/client/#!/doc/43512/rus/07.12.2012
 ---
 
 ## 3.4.2. Требования к генеральным планам производственных объектов
