@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60486/kaz/14.09.2011
+source: https://zan.gov.kz/client/#!/doc/60486/kaz/13.12.2012
 ---
 
 ## Шағын өлшемді кемені есепке алу карточкасы Карточка учета маломерного судна № ____
