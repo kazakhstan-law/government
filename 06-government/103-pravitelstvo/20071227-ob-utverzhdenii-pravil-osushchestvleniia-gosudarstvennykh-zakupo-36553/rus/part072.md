@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36553/rus/15.11.2012
+source: https://zan.gov.kz/client/#!/doc/36553/rus/19.12.2012
 ---
 
 ## Гарантийное обязательство N_______
