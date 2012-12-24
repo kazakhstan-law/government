@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/64790/kaz/24.02.2012
+source: https://zan.gov.kz/client/#!/doc/64790/kaz/24.12.2012
 ---
 
 ## Ақпарат алмасу жүйесін ұйымдастыру
