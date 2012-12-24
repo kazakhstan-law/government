@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60331/rus/24.08.2012
+source: https://zan.gov.kz/client/#!/doc/60331/rus/24.12.2012
 ---
 
 ## Параграф 5. Учет переклассификации приобретенных долговых и долевых ценных бумаг по категориям
