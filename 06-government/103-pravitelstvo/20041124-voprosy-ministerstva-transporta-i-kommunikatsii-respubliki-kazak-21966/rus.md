@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21966/rus/04.12.2012
+source: https://zan.gov.kz/client/#!/doc/21966/rus/24.12.2012
 ---
 
 # Вопросы Министерства транспорта и коммуникаций Республики Казахстан
