@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25739/rus/24.12.2012
+source: https://zan.gov.kz/client/#!/doc/25739/rus/01.01.2013
 ---
 
 ## 7. Заключительные положения
