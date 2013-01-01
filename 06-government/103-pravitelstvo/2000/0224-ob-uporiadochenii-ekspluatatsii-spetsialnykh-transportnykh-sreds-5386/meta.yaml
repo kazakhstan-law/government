@@ -10,11 +10,11 @@ approved_on: 2000-02-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-11-19
-  rus: 2012-11-19
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/5386/kaz/19.11.2012
-  rus: https://zan.gov.kz/client/#!/doc/5386/rus/19.11.2012
+  kaz: https://zan.gov.kz/client/#!/doc/5386/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/5386/rus/01.01.2013
 caused_by:
   code: '68611'
   requisite: Постановление Правительства Республики Казахстан от 19 ноября 2012 года № 1458. Утратило силу постановлением Правительства Республики Казахстан от 28 декабря 2016 года № 887.
