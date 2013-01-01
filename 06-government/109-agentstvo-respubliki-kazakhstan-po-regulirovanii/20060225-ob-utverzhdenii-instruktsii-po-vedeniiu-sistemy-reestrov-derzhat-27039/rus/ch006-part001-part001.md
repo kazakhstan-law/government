@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27039/rus/24.08.2012
+source: https://zan.gov.kz/client/#!/doc/27039/rus/01.01.2013
 ---
 
 ## Приказ эмитента на внесение записей о конвертировании ценных бумаг/денежных обязательств
