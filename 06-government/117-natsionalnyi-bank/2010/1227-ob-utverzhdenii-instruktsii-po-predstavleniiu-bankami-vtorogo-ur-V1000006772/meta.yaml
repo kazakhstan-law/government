@@ -24,12 +24,19 @@ versions:
   cause:
     code: '67946'
     key: V1200007961
+- date: 2013-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '67946'
+    key: V1200007961
 version_date:
-  kaz: 2012-08-24
-  rus: 2012-08-24
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/57410/kaz/24.08.2012
-  rus: https://zan.gov.kz/client/#!/doc/57410/rus/24.08.2012
+  kaz: https://zan.gov.kz/client/#!/doc/57410/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/57410/rus/01.01.2013
 caused_by:
   code: '67946'
   key: V1200007961
