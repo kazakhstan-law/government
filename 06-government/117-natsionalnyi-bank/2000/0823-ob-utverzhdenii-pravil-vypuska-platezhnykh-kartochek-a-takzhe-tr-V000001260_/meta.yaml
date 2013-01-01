@@ -103,12 +103,19 @@ versions:
   cause:
     code: '65227'
     key: V1200007625
+- date: 2013-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '65227'
+    key: V1200007625
 version_date:
-  kaz: 2012-03-26
-  rus: 2012-03-26
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/7165/kaz/26.03.2012
-  rus: https://zan.gov.kz/client/#!/doc/7165/rus/26.03.2012
+  kaz: https://zan.gov.kz/client/#!/doc/7165/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/7165/rus/01.01.2013
 caused_by:
   code: '65227'
   key: V1200007625
