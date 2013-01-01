@@ -44,12 +44,19 @@ versions:
   cause:
     code: '64517'
     key: V1200007511
+- date: 2013-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '64517'
+    key: V1200007511
 version_date:
-  kaz: 2012-02-24
-  rus: 2012-02-24
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21288/kaz/24.02.2012
-  rus: https://zan.gov.kz/client/#!/doc/21288/rus/24.02.2012
+  kaz: https://zan.gov.kz/client/#!/doc/21288/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/21288/rus/01.01.2013
 caused_by:
   code: '64517'
   key: V1200007511
