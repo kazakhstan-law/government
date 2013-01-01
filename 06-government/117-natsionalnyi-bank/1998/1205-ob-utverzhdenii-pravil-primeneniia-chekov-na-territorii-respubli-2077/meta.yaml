@@ -11,11 +11,11 @@ approved_on: 1998-12-05
 approved_by:
 - '117000000000'
 version_date:
-  kaz: 2012-03-26
-  rus: 2012-03-26
+  kaz: 2013-01-01
+  rus: 2013-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/2077/kaz/26.03.2012
-  rus: https://zan.gov.kz/client/#!/doc/2077/rus/26.03.2012
+  kaz: https://zan.gov.kz/client/#!/doc/2077/kaz/01.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/2077/rus/01.01.2013
 caused_by:
   code: '65227'
   requisite: Постановление Правления Национального Банка Республики Казахстан от 26 марта 2012 года № 108. Зарегистрировано в Министерстве юстиции Республики Казахстан 7 мая 2012 года № 7625
