@@ -1,5 +1,5 @@
 ---
-version_id: AI62681_1
+version_id: '62681_179971'
 act_code: '62681'
 language: rus
 title: Об определении целевых групп населения на 2012 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166002000001'
 approval_date: 2011-12-30
-version_date: 2011-12-30
+version_date: 2013-01-01
 registry_number: '62681'
-source: https://zan.gov.kz/client/#!/doc/62681/rus/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62681/rus
 ---
 
 # Об определении целевых групп населения на 2012 год
@@ -43,4 +43,6 @@ source: https://zan.gov.kz/client/#!/doc/62681/rus/30.12.2011
 
 5. Контроль за исполнением настоящего постановления возложить на заместителя акима города Нарымбетова Б.М.
 
-   Аким города А.Жетписбаев
+**Аким города**
+
+**А.Жетписбаев**

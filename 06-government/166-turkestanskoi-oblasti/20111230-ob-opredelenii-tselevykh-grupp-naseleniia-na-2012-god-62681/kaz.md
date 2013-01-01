@@ -1,5 +1,5 @@
 ---
-version_id: AI62681_0
+version_id: '62681_179970'
 act_code: '62681'
 language: kaz
 title: 2012 жылға халықтың нысаналы топтарын анықтау туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166002000001'
 approval_date: 2011-12-30
-version_date: 2011-12-30
+version_date: 2013-01-01
 registry_number: '62681'
-source: https://zan.gov.kz/client/#!/doc/62681/kaz/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62681/kaz
 ---
 
 # 2012 жылға халықтың нысаналы топтарын анықтау туралы
@@ -43,4 +43,6 @@ source: https://zan.gov.kz/client/#!/doc/62681/kaz/30.12.2011
 
 5. Осы қаулы алғаш рет ресми жарияланған күнінен бастап он күнтізбелік күн өткен соң қолданысқа енгізіледі.
 
-   Қала әкімі А.Жетпісбаев
+**Қала әкімі**
+
+**А.Жетпісбаев**
