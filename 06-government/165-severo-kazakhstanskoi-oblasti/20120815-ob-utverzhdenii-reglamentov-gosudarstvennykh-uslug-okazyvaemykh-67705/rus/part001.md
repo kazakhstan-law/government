@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67705/rus/07.11.2012
+source: https://zan.gov.kz/client/#!/doc/67705/rus/04.01.2013
 ---
 
 ## Регламент государственной услуги «Регистрация и постановка на учет безработных граждан»
