@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67697/rus/01.11.2012
+source: https://zan.gov.kz/client/#!/doc/67697/rus/08.01.2013
 ---
 
 ## 3. Требования к порядку оказания государственной услуги
