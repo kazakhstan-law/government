@@ -22,10 +22,16 @@ versions:
   cause:
     code: '71101'
     key: V1300008338
+- date: 2013-01-18
+  languages:
+  - rus
+  cause:
+    code: '71101'
+    key: V1300008338
 version_date:
-  kaz: 2012-01-18
+  rus: 2013-01-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/60750/kaz/18.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/60750/rus/18.01.2013
 caused_by:
   code: '71101'
   key: V1300008338
