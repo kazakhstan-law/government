@@ -11,8 +11,15 @@ approved_on: 2012-01-19
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-01-19
-  rus: 2012-01-19
+  kaz: 2013-01-21
+  rus: 2013-01-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/63201/kaz/19.01.2012
-  rus: https://zan.gov.kz/client/#!/doc/63201/rus/19.01.2012
+  kaz: https://zan.gov.kz/client/#!/doc/63201/kaz/21.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/63201/rus/21.01.2013
+caused_by:
+  code: '70372'
+  requisite: Постановление Правительства Республики Казахстан от 21 января 2013 года № 15
+  title:
+    rus: О внесении изменений и признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикаcы Үкіметінің кейбір шешімдеріне өзгерiстер енгізу және кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/70372/rus
