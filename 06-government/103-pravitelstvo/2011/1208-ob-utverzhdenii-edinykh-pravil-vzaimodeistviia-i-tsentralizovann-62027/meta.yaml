@@ -11,8 +11,15 @@ approved_on: 2011-12-08
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2011-12-08
-  rus: 2011-12-08
+  kaz: 2013-01-28
+  rus: 2013-01-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/62027/kaz/08.12.2011
-  rus: https://zan.gov.kz/client/#!/doc/62027/rus/08.12.2011
+  kaz: https://zan.gov.kz/client/#!/doc/62027/kaz/28.01.2013
+  rus: https://zan.gov.kz/client/#!/doc/62027/rus/28.01.2013
+caused_by:
+  code: '70641'
+  requisite: Постановление Правительства Республики Казахстан от 28 января 2013 года № 49
+  title:
+    rus: О некоторых вопросах государственной технической службы
+    kaz: Мемлекеттік техникалық қызметтің кейбір мәселелерi туралы
+  link: https://zan.gov.kz/client/#!/doc/70641/rus
