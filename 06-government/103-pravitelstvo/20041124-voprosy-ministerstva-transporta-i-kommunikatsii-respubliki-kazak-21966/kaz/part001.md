@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21966/kaz/28.01.2013
+source: https://zan.gov.kz/client/#!/doc/21966/kaz/01.02.2013
 ---
 
 ## Қазақстан Республикасы Көлік және коммуникация министрлігі туралы ереже
