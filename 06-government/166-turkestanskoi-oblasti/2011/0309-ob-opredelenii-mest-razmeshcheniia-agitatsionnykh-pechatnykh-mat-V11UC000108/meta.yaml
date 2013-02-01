@@ -20,9 +20,10 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2013-02-01
+  languages:
+  - rus
 version_date:
-  kaz: 2012-01-01
-  rus: 2012-01-01
+  rus: 2013-02-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/57633/kaz/01.01.2012
-  rus: https://zan.gov.kz/client/#!/doc/57633/rus/01.01.2012
+  rus: https://zan.gov.kz/client/#!/doc/57633/rus/01.02.2013
