@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67557/rus/10.09.2012
+source: https://zan.gov.kz/client/#!/doc/67557/rus/20.02.2013
 ---
 
 ## Контактные данные Центров обслуживания населения
