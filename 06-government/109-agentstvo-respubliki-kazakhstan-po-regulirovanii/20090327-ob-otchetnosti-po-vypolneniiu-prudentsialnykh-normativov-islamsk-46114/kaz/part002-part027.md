@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/46114/kaz/24.12.2012
+source: https://zan.gov.kz/client/#!/doc/46114/kaz/25.02.2013
 ---
 
 ## 20__ жылғы «____» _______ пруденциалдық нормативтерді есептеуге арналған қосымша мәліметтер

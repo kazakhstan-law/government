@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/45677/kaz/24.12.2012
+source: https://zan.gov.kz/client/#!/doc/45677/kaz/25.02.2013
 ---
 
 ## Кредиттiк тәуекел дәрежесi бойынша мөлшерленген банк активтерiнiң кестесi
