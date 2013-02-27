@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/45345/kaz/07.12.2012
+source: https://zan.gov.kz/client/#!/doc/45345/kaz/27.02.2013
 ---
 
 ## Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі

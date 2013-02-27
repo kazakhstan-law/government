@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45345/rus/07.12.2012
+source: https://zan.gov.kz/client/#!/doc/45345/rus/27.02.2013
 ---
 
 ## Сводная справка к отчету по мониторингу бюджетных инвестиционных проектов
