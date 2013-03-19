@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/18954/kaz/21.07.2005
+source: https://zan.gov.kz/client/#!/doc/18954/kaz/19.03.2013
 ---
 
 ## Қазақстан Республикасында автомобиль көлiгiмен тасымалдауға жiберiлетiн қауiптi жүктердiң ТIЗБЕСI
