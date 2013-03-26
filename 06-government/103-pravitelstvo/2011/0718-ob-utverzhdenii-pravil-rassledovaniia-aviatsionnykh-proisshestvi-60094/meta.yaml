@@ -11,8 +11,15 @@ approved_on: 2011-07-18
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2011-07-18
-  rus: 2011-07-18
+  kaz: 2013-03-26
+  rus: 2013-03-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/60094/kaz/18.07.2011
-  rus: https://zan.gov.kz/client/#!/doc/60094/rus/18.07.2011
+  kaz: https://zan.gov.kz/client/#!/doc/60094/kaz/26.03.2013
+  rus: https://zan.gov.kz/client/#!/doc/60094/rus/26.03.2013
+caused_by:
+  code: '71749'
+  requisite: Постановление Правительства Республики Казахстан от 26 марта 2013 года № 274
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/71749/rus
