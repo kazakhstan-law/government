@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/63421/rus/18.01.2012
+source: https://zan.gov.kz/client/#!/doc/63421/rus/29.03.2013
 ---
 
 ## Обобщенные показатели химических веществ
