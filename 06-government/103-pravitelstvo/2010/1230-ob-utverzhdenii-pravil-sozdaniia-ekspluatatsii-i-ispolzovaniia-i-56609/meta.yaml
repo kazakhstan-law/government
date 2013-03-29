@@ -11,8 +11,15 @@ approved_on: 2010-12-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-12-30
-  rus: 2010-12-30
+  kaz: 2013-03-29
+  rus: 2013-03-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/56609/kaz/30.12.2010
-  rus: https://zan.gov.kz/client/#!/doc/56609/rus/30.12.2010
+  kaz: https://zan.gov.kz/client/#!/doc/56609/kaz/29.03.2013
+  rus: https://zan.gov.kz/client/#!/doc/56609/rus/29.03.2013
+caused_by:
+  code: '71824'
+  requisite: Постановление Правительства Республики Казахстан от 29 марта 2013 года № 309
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/71824/rus
