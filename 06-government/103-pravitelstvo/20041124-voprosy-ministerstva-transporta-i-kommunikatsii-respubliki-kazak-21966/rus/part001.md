@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21966/rus/01.02.2013
+source: https://zan.gov.kz/client/#!/doc/21966/rus/11.04.2013
 ---
 
 ## Положение о Министерстве транспорта и коммуникаций Республики Казахстан
