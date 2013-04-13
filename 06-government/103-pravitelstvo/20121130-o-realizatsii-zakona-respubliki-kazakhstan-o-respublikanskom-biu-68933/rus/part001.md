@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/68933/rus/29.03.2013
+source: https://zan.gov.kz/client/#!/doc/68933/rus/13.04.2013
 ---
 
 ## Перечень приоритетных республиканских бюджетных инвестиций на 2013 - 2015 годы
