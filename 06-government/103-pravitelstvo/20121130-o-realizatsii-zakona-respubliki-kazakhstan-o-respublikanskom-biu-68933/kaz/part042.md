@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/68933/kaz/13.04.2013
+source: https://zan.gov.kz/client/#!/doc/68933/kaz/16.04.2013
 ---
 
 ## 2013 жылға арналған мемлекеттік тапсырмалардың тізбесі
