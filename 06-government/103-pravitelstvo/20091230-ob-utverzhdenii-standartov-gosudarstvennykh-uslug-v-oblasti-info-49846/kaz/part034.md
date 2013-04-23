@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49846/kaz/09.10.2012
+source: https://zan.gov.kz/client/#!/doc/49846/kaz/23.04.2013
 ---
 
 ## Облыстардың, Астана, Алматы қалаларының жергілікті атқарушы органдарының тізбесі
