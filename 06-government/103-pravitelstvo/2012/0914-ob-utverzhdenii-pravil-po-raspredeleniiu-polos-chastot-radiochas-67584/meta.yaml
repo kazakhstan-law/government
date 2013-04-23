@@ -11,8 +11,15 @@ approved_on: 2012-09-14
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2012-09-14
-  rus: 2012-09-14
+  kaz: 2013-04-23
+  rus: 2013-04-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/67584/kaz/14.09.2012
-  rus: https://zan.gov.kz/client/#!/doc/67584/rus/14.09.2012
+  kaz: https://zan.gov.kz/client/#!/doc/67584/kaz/23.04.2013
+  rus: https://zan.gov.kz/client/#!/doc/67584/rus/23.04.2013
+caused_by:
+  code: '72284'
+  requisite: Постановление Правительства Республики Казахстан от 23 апреля 2013 года № 387
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/72284/rus
