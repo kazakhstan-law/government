@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30496/rus/01.01.2013
+source: https://zan.gov.kz/client/#!/doc/30496/rus/26.04.2013
 ---
 
 ## ЖУРНАЛ реестров операций с неплатежной и негодной к обращению наличной иностранной валютой
