@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58470/rus/31.08.2012
+source: https://zan.gov.kz/client/#!/doc/58470/rus/30.04.2013
 ---
 
 ## Городские и районные акиматы по Южно-Казахстанской области

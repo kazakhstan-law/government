@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58470/rus/31.08.2012
+source: https://zan.gov.kz/client/#!/doc/58470/rus/30.04.2013
 ---
 
 ## Районные, городские отделы занятости и социальных программ Восточно-Казахстанской области

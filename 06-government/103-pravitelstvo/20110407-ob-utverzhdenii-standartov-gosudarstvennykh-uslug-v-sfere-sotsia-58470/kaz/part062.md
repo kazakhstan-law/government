@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58470/kaz/31.08.2012
+source: https://zan.gov.kz/client/#!/doc/58470/kaz/30.04.2013
 ---
 
 ## Қарағанды облысының қалалық және аудандық әкімдіктері
