@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/30411/rus/19.11.2012
+source: https://zan.gov.kz/client/#!/doc/30411/rus/30.04.2013
 ---
 
 ## 6. Нормы снабжения имущества для производственной работы ветеринарных складов

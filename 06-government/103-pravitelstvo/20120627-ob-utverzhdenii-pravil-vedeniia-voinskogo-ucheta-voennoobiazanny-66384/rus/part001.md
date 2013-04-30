@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/66384/rus/27.06.2012
+source: https://zan.gov.kz/client/#!/doc/66384/rus/30.04.2013
 ---
 
 ## Правила ведения воинского учета военнообязанных и призывников
