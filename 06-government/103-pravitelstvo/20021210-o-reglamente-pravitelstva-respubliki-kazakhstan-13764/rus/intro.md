@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/05.03.2013
+source: https://zan.gov.kz/client/#!/doc/13764/rus/02.05.2013
 ---
 
 # О Регламенте Правительства Республики Казахстан
