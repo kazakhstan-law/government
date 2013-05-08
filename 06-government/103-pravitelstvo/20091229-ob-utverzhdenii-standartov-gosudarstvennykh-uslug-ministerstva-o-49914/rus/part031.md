@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49914/rus/29.12.2012
+source: https://zan.gov.kz/client/#!/doc/49914/rus/08.05.2013
 ---
 
 ## Адреса и телефоны центров обслуживания населения областей, городов Астаны и Алматы
