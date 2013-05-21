@@ -11,8 +11,15 @@ approved_on: 2010-10-18
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-10-18
-  rus: 2010-10-18
+  kaz: 2013-05-21
+  rus: 2013-05-21
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/55126/kaz/18.10.2010
-  rus: https://zan.gov.kz/client/#!/doc/55126/rus/18.10.2010
+  kaz: https://zan.gov.kz/client/#!/doc/55126/kaz/21.05.2013
+  rus: https://zan.gov.kz/client/#!/doc/55126/rus/21.05.2013
+caused_by:
+  code: '72695'
+  requisite: Постановление Правительства Республики Казахстан от 21 мая 2013 года № 507
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/72695/rus
