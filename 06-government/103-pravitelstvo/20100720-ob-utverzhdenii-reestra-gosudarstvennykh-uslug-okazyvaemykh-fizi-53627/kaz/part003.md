@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53627/kaz/15.05.2013
+source: https://zan.gov.kz/client/#!/doc/53627/kaz/21.05.2013
 ---
 
 ## Ескертпе:
@@ -224,5 +224,20 @@ source: https://zan.gov.kz/client/#!/doc/53627/kaz/15.05.2013
 <td>РМК</td>
 <td>–</td>
 <td>республикалық мемлекеттік кәсіпорын</td>
+</tr>
+<tr>
+<td>ЕДБ</td>
+<td>-</td>
+<td>екінші деңгейдегі банк</td>
+</tr>
+<tr>
+<td>ЭНП</td>
+<td>-</td>
+<td>электрондық үкімет порталы</td>
+</tr>
+<tr>
+<td>ЕЛП</td>
+<td>-</td>
+<td>«Е-Лицензиялау» www.​eli​cens​e.​kz веб-порталы</td>
 </tr>
 </table>

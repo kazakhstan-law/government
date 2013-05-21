@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/58830/rus/31.01.2013
+source: https://zan.gov.kz/client/#!/doc/58830/rus/21.05.2013
 ---
 
 ## Правила организации труда и отдыха водителей, а также применения тахографов

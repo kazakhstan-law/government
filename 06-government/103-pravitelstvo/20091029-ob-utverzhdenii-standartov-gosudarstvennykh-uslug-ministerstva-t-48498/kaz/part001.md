@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/48498/kaz/05.09.2012
+source: https://zan.gov.kz/client/#!/doc/48498/kaz/21.05.2013
 ---
 
 ## "Өздігімен жүретін шағын көлемдi кемелердi басқару құқығына куәлiк беру" мемлекеттiк қызмет стандарты

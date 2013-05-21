@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58830/kaz/31.01.2013
+source: https://zan.gov.kz/client/#!/doc/58830/kaz/21.05.2013
 ---
 
 ## 7. Электрондық (цифрлық) тахографтар бойынша ұлттық дерекқордың жұмыс істеу тәртібі
