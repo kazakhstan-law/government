@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/8785/kaz/24.08.2012
+source: https://zan.gov.kz/client/#!/doc/8785/kaz/27.05.2013
 ---
 
 ## 7. Құндылықтар қоймасының клиенттердiң дербес сейфтерiмен жұмыс жүргiзу тәртiбi <*>
