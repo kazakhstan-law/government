@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/54976/kaz/27.09.2012
+source: https://zan.gov.kz/client/#!/doc/54976/kaz/10.06.2013
 ---
 
 ## Ескертпе: аббревиатуралардың толық жазылуы:
