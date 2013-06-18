@@ -63,11 +63,13 @@
 | [`sec001-part001-part002`](kaz/sec001-part001-part002.md) | 0 Санат. Ядролық материалдар, қондырғылар және жабдықтар |
 | [`sec001-part001-part005`](kaz/sec001-part001-part005.md) | 0С Материалдар |
 | [`sec001-part001-part009`](kaz/sec001-part001-part009.md) | 1С Материалдар |
-| [`sec001-part001-part013`](kaz/sec001-part001-part013.md) | 1Е Технология |
-| [`sec001-part001-part020`](kaz/sec001-part001-part020.md) | Техникалық ескертпе: |
+| [`sec001-part001-part013`](kaz/sec001-part001-part013.md) | Техникалық ескертпе: |
+| [`sec001-part001-part014`](kaz/sec001-part001-part014.md) | 1Е Технология |
+| [`sec001-part001-part021`](kaz/sec001-part001-part021.md) | Техникалық ескертпе: |
 | [`sec001-part001-part025`](kaz/sec001-part001-part025.md) | Техникалық ескерту: |
 | [`sec001-part001-part035`](kaz/sec001-part001-part035.md) | 2Е Технология |
 | [`sec001-part001-part038`](kaz/sec001-part001-part038.md) | Ерекше ескерту: |
+| [`sec001-part001-part043`](kaz/sec001-part001-part043.md) | Техникалық ескерту: |
 | [`sec001-part001-part050`](kaz/sec001-part001-part050.md) | Техникалық ескерту: |
 | [`sec001-part001-part061`](kaz/sec001-part001-part061.md) | 1-ерекше ескерту: |
 | [`sec001-part001-part070`](kaz/sec001-part001-part070.md) | 5-Санат Телекоммуникациялар және "ақпарат қорғау" 1-Бөлім Телекоммуникациялар |
