@@ -11,10 +11,10 @@ approved_on: 2008-06-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-04-30
-  rus: 2013-04-30
+  kaz: 2013-06-18
+  rus: 2013-06-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/40397/kaz/30.04.2013
-  rus: https://zan.gov.kz/client/#!/doc/40397/rus/30.04.2013
+  kaz: https://zan.gov.kz/client/#!/doc/40397/kaz/18.06.2013
+  rus: https://zan.gov.kz/client/#!/doc/40397/rus/18.06.2013
 caused_by:
-  code: P1300000422
+  code: P1300000620
