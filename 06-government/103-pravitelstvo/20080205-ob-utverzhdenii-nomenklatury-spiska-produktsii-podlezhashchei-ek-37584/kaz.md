@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/37584/kaz/17.10.2012
+source: https://zan.gov.kz/client/#!/doc/37584/kaz/18.06.2013
 ---
 
 # Экспорттық бақылауға жататын өнімнің номенклатурасын (тізімін) бекіту туралы
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/37584/kaz/17.10.2012
 | [`sec001`](kaz/sec001.md) | 1 бөлім. Телекоммуникациялар; |
 | [`sec001-part001-part004`](kaz/sec001-part001-part004.md) | 0В Сынақ, бақылау және өндірістік жабдық |
 | [`sec001-part001-part012`](kaz/sec001-part001-part012.md) | Техникалық ескертпе: |
-| [`sec001-part001-part017`](kaz/sec001-part001-part017.md) | Техникалық ескертпе: |
+| [`sec001-part001-part018`](kaz/sec001-part001-part018.md) | Техникалық ескертпе: |
 | [`sec001-part001-part038`](kaz/sec001-part001-part038.md) | Ерекше ескерту: |
 | [`sec001-part001-part069`](kaz/sec001-part001-part069.md) | "ТЖӨ" Бойынша техникалық ескерту |
 | [`sec002`](kaz/sec002.md) | 2-Бөлім "Ақпарат қорғау" |
