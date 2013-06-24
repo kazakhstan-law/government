@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49756/rus/15.05.2013
+source: https://zan.gov.kz/client/#!/doc/49756/rus/24.06.2013
 ---
 
 # Об утверждении стандартов государственных услуг
