@@ -1,0 +1,113 @@
+---
+part_of: ../kaz.md
+source: https://zan.gov.kz/client/#!/doc/68933/kaz/25.06.2013
+---
+
+<table>
+<tr>
+<td colspan="4">Функционалдық топ</td>
+<td rowspan="4">Атауы</td>
+<td colspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">Әкімші</td>
+<td rowspan="3">2013 жыл</td>
+<td rowspan="3">2014 жыл</td>
+<td rowspan="3">2015 жыл</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td>Кіші бағдарлама</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="4">1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V. Ұлттық Қордан алынған нысаналы даму трансферттері</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>215</td>
+<td></td>
+<td></td>
+<td>Қазақстан Республикасы Көлiк және коммуникация министрлiгi</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>002</td>
+<td></td>
+<td>Республикалық деңгейде автомобиль жолдарын дамыту</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Iшкі қаржыландыру көздерінен</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>оның ішінде инвестициялық жобаларға:</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Өзгелер</td>
+<td>25 500 000</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2012 жылғы 30 қарашадағы*  
+> *№ 1520 қаулысына*  
+> *2-қосымша*
