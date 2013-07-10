@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/71012/rus/14.02.2013
+source: https://zan.gov.kz/client/#!/doc/71012/rus/10.07.2013
 ---
 
 ## Закуп товаров, работ и услуг способом запроса ценовых предложений

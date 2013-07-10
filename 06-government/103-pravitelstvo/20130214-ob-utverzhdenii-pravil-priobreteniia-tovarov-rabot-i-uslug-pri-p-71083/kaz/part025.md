@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71083/kaz/14.02.2013
+source: https://zan.gov.kz/client/#!/doc/71083/kaz/10.07.2013
 ---
 
 ## Бір көзден алу тәсілімен тауарларды, жұмыстарды немесе қызмет көрсетулерді сатып алу

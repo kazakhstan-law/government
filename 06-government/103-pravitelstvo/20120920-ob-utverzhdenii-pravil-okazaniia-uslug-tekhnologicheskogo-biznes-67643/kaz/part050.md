@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67643/kaz/20.09.2012
+source: https://zan.gov.kz/client/#!/doc/67643/kaz/10.07.2013
 ---
 
 ## Жобаның қысқаша сипаттамасына қойылатын талаптар

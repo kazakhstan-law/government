@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/67340/rus/29.08.2012
+source: https://zan.gov.kz/client/#!/doc/67340/rus/10.07.2013
 ---
 
 # Об утверждении стандартов государственных услуг в сфере туризма
