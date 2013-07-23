@@ -11,10 +11,15 @@ approved_on: 2010-10-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2011-03-31
-  rus: 2011-03-31
+  kaz: 2013-07-23
+  rus: 2013-07-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/54979/kaz/31.03.2011
-  rus: https://zan.gov.kz/client/#!/doc/54979/rus/31.03.2011
+  kaz: https://zan.gov.kz/client/#!/doc/54979/kaz/23.07.2013
+  rus: https://zan.gov.kz/client/#!/doc/54979/rus/23.07.2013
 caused_by:
-  code: P1100000302
+  code: '73579'
+  requisite: Постановление Правительства Республики Казахстан от 23 июля 2013 года № 735
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне өзгерiстер енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/73579/rus
