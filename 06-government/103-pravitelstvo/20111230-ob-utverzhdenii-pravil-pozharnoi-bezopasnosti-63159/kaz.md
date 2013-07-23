@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63159/kaz/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/63159/kaz/23.07.2013
 ---
 
 # Өрт қaуiпciздiгi қағидаларын бекіту туралы

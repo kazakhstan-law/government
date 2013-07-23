@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/55934/kaz/18.07.2011
+source: https://zan.gov.kz/client/#!/doc/55934/kaz/23.07.2013
 ---
 
 ## Сәулет, қала құрылысы және құрылыс саласындағы мемлекеттік нормативтік құжаттардың құрылымы

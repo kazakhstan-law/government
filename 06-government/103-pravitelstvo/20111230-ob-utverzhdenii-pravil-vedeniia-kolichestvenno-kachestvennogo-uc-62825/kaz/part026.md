@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62825/kaz/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62825/kaz/23.07.2013
 ---
 
 ## 20___ ж. "___"___________ тазарту актiсi

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60129/rus/26.07.2011
+source: https://zan.gov.kz/client/#!/doc/60129/rus/23.07.2013
 ---
 
 ## 80. Устройство аварийных выходов

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60129/kaz/26.07.2011
+source: https://zan.gov.kz/client/#!/doc/60129/kaz/23.07.2013
 ---
 
 ## 206. Бақылау және сигнал беру аппаратурасы

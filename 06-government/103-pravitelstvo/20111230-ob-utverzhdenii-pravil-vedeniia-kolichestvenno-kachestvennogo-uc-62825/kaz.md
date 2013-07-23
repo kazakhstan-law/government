@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62825/kaz/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62825/kaz/23.07.2013
 ---
 
 # Астықтың сандық-сапалық есебiн жүргiзу қағидаларын бекiту туралы

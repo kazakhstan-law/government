@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62825/rus/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62825/rus/23.07.2013
 ---
 
 ## Акт зачистки от «___»________________ 20__ г.

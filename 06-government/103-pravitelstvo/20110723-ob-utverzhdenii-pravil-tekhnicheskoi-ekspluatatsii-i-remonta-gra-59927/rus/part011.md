@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/59927/rus/23.07.2011
+source: https://zan.gov.kz/client/#!/doc/59927/rus/23.07.2013
 ---
 
 ## Глава 5. Периодическое техническое обслуживание воздушных судов

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62828/kaz/21.12.2011
+source: https://zan.gov.kz/client/#!/doc/62828/kaz/23.07.2013
 ---
 
 ## Кептірілген астық ылғалдылығының шектеулері (%)

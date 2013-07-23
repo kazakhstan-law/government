@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/56450/rus/29.04.2013
+source: https://zan.gov.kz/client/#!/doc/56450/rus/23.07.2013
 ---
 
 # Об утверждении модельных контрактов на недропользование

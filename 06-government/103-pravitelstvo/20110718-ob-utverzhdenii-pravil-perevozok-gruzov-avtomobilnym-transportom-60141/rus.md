@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60141/rus/18.07.2011
+source: https://zan.gov.kz/client/#!/doc/60141/rus/23.07.2013
 ---
 
 # Об утверждении Правил перевозок грузов автомобильным транспортом

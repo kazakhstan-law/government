@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62907/kaz/21.05.2013
+source: https://zan.gov.kz/client/#!/doc/62907/kaz/23.07.2013
 ---
 
 # Байланыс қызметтерін көрсету қағидаларын бекіту туралы
