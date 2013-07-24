@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62117/rus/05.12.2011
+source: https://zan.gov.kz/client/#!/doc/62117/rus/24.07.2013
 ---
 
 ## Заявка на участие в тендере (для индивидуальных предпринимателей и физических лиц)

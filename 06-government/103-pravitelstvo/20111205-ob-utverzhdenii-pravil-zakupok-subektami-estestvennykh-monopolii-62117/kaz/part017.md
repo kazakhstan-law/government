@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62117/kaz/05.12.2011
+source: https://zan.gov.kz/client/#!/doc/62117/kaz/24.07.2013
 ---
 
 ## Бiр көзден сатып алу және оны қолдану шарттары
