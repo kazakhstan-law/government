@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45677/rus/25.02.2013
+source: https://zan.gov.kz/client/#!/doc/45677/rus/26.07.2013
 ---
 
 ## Таблица активов банка, взвешенных по степени кредитного риска
