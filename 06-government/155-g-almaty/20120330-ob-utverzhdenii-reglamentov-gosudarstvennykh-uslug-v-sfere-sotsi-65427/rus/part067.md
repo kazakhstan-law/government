@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/65427/rus/30.03.2012
+source: https://zan.gov.kz/client/#!/doc/65427/rus/26.07.2013
 ---
 
 ## Адреса и график работы центров облуживания населения города Алматы

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/65427/kaz/30.03.2012
+source: https://zan.gov.kz/client/#!/doc/65427/kaz/26.07.2013
 ---
 
 ## 4. Мемлекеттік қызмет көрсету үрдісінде әрекеттер (өзара әрекеттер) тәртібінің бейнеленуі
