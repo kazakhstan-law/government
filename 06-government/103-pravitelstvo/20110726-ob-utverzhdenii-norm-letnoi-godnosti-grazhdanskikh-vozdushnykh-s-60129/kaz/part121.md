@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60129/kaz/23.07.2013
+source: https://zan.gov.kz/client/#!/doc/60129/kaz/31.07.2013
 ---
 
 ## 121. Қозғалтқыштың ұшу сынақтары
