@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/71287/rus/26.02.2013
+source: https://zan.gov.kz/client/#!/doc/71287/rus/05.08.2013
 ---
 
 ## 3. Организация деятельности Министерства индустрии и новых технологий Республики Казахстан

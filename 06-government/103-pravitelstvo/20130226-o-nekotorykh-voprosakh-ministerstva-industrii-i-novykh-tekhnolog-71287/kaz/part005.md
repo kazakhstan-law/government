@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/71287/kaz/26.02.2013
+source: https://zan.gov.kz/client/#!/doc/71287/kaz/05.08.2013
 ---
 
 ## 3. Қазақстан Республикасы Индустрия және жаңа технологиялар министрлiгiнің қызметiн ұйымдастыру
