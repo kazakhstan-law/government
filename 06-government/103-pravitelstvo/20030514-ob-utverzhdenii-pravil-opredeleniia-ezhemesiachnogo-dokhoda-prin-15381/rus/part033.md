@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/15381/rus/14.05.2003
+source: https://zan.gov.kz/client/#!/doc/15381/rus/26.08.2013
 ---
 
 ## 31. Легкая промышленность

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/15381/kaz/14.05.2003
+source: https://zan.gov.kz/client/#!/doc/15381/kaz/26.08.2013
 ---
 
 ## 28. МҰНАЙ, ГАЗ ЖӘНЕ ГАЗ КОНДЕНСАТЫН БҰРҒЫЛАУ, ӨНДIРУ ЖӘНЕ ӨҢДЕУ, КӨМIР МЕН ТАҚТАТАСТЫ ӨҢДЕУ
