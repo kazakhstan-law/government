@@ -1,9 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/72569/kaz/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 ---
 
 ## 7.2. Бюджеттiк шығыстардың жиыны
+
+> *Ескерту. 7.2-кіші бөлімге өзгеріс енгізілді - ҚР Үкіметінің 26.08.2013 № 844 қаулысымен.*
 
 <table>
 <tr>
@@ -37,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/30.04.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>312 967 518</td>
+<td>373 122 927</td>
 <td></td>
 <td></td>
 <td></td>
@@ -48,7 +50,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/30.04.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>76 111 263</td>
+<td>98 066 922</td>
 <td></td>
 <td></td>
 <td></td>
@@ -59,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/30.04.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>236 856 255</td>
+<td>275 056 005</td>
 <td></td>
 <td></td>
 <td></td>
@@ -219,6 +221,11 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/30.04.2013
 <td>ҒТҚ</td>
 <td>–</td>
 <td>Ғылыми-техникалық кеңес.</td>
+</tr>
+<tr>
+<td>«ҚИК» ИҰ» АҚ</td>
+<td>-</td>
+<td>«Қазақстандық ипотекалық компания» ипотекалық ұйымы» акционерлік қоғамы</td>
 </tr>
 </table>
 

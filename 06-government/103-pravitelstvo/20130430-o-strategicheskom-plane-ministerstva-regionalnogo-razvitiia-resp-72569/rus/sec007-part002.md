@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72569/rus/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/72569/rus/26.08.2013
 ---
 
 ## 7.2. Свод бюджетных расходов
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/30.04.2013
 <td>тыс. тенге</td>
 <td></td>
 <td></td>
-<td>312 967 518</td>
+<td>373 122 927</td>
 <td></td>
 <td></td>
 <td></td>
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/30.04.2013
 </td>
 <td></td>
 <td></td>
-<td>76 111 263</td>
+<td>98 066 922</td>
 <td></td>
 <td></td>
 <td></td>
@@ -65,7 +65,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/30.04.2013
 </td>
 <td></td>
 <td></td>
-<td>236 856 255</td>
+<td>275 056 005</td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,7 +228,12 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/30.04.2013
 <tr>
 <td>НТС</td>
 <td>–</td>
-<td>научно-технический совет.</td>
+<td>научно-технический совет;</td>
+</tr>
+<tr>
+<td>АО «ИО «КИК»</td>
+<td>-</td>
+<td>акционерное общество «Ипотечная организация «Казахстанская ипотечная компания».</td>
 </tr>
 </table>
 
