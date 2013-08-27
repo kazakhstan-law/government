@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27039/kaz/26.04.2013
+source: https://zan.gov.kz/client/#!/doc/27039/kaz/27.08.2013
 ---
 
 ## Кепіл ұстаушының бағалы қағаздарға ауыртпалық салу жөніндегі бұйрық
