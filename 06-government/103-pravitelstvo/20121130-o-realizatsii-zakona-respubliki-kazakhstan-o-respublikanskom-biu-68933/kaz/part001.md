@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/68933/kaz/25.06.2013
+source: https://zan.gov.kz/client/#!/doc/68933/kaz/29.08.2013
 ---
 
 ## 2013 - 2015 жылдарға арналған басым республикалық бюджеттік инвестициялар тізбесі
