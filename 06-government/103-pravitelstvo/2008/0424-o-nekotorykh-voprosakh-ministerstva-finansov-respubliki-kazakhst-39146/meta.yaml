@@ -12,15 +12,15 @@ approved_on: 2008-04-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-08-27
-  rus: 2013-08-27
+  kaz: 2013-09-12
+  rus: 2013-09-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/27.08.2013
-  rus: https://zan.gov.kz/client/#!/doc/39146/rus/27.08.2013
+  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/12.09.2013
+  rus: https://zan.gov.kz/client/#!/doc/39146/rus/12.09.2013
 caused_by:
-  code: '74135'
-  requisite: Постановление Правительства Республики Казахстан от 27 августа 2013 года № 867
+  code: '74361'
+  requisite: Постановление Правительства Республики Казахстан от 12 сентября 2013 года № 947
   title:
     rus: О некоторых вопросах Министерства финансов Республики Казахстан
-    kaz: Қазақстан Республикасы Қаржы министрлігінің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/74135/rus
+    kaz: Қазақстан Республикасы Қаржы министрлiгiнiң кейбiр мәселелерi туралы
+  link: https://zan.gov.kz/client/#!/doc/74361/rus
