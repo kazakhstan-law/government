@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/54782/rus/04.12.2012
+source: https://zan.gov.kz/client/#!/doc/54782/rus/18.09.2013
 ---
 
 ## Система охраны труда и техники безопасности
