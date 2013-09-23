@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60330/rus/26.07.2013
+source: https://zan.gov.kz/client/#!/doc/60330/rus/23.09.2013
 ---
 
 ## Параграф 4. Учет при обесценении ценных бумаг, оцениваемых по амортизированной стоимости
