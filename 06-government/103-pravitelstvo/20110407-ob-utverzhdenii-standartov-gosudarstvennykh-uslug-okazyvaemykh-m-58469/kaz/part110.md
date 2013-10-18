@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58469/kaz/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/58469/kaz/18.10.2013
 ---
 
 ## Ақтөбе облысы уәкілетті ұйымның құрылымдық бөлімшелері
