@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/70330/kaz/09.09.2013
+source: https://zan.gov.kz/client/#!/doc/70330/kaz/18.10.2013
 ---
 
 ## «Тұрғын үй көмегін тағайындау» мемлекеттік қызмет регламенті
