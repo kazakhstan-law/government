@@ -1,5 +1,5 @@
 ---
-version_id: AI53430_1
+version_id: '53430_213604'
 act_code: '53430'
 language: rus
 title: Об установлении квоты рабочих мест для инвалидов на 2010 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164008000001'
 approval_date: 2010-06-10
-version_date: 2010-06-10
+version_date: 2013-11-06
 registry_number: '53430'
-source: https://zan.gov.kz/client/#!/doc/53430/rus/10.06.2010
+source: https://zan.gov.kz/client/#!/doc/53430/rus
 ---
 
 # Об установлении квоты рабочих мест для инвалидов на 2010 год
@@ -25,4 +25,6 @@ source: https://zan.gov.kz/client/#!/doc/53430/rus/10.06.2010
 
 3. Контроль за выполнением данного постановления возложить на заместителя акима района Марданову А.К.
 
-   Аким района Б. Бакауов
+   **Аким района**
+
+   **Б. Бакауов**

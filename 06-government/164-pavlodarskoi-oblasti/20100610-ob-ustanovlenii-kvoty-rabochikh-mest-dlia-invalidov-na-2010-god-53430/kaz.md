@@ -1,5 +1,5 @@
 ---
-version_id: AI53430_0
+version_id: '53430_213603'
 act_code: '53430'
 language: kaz
 title: 2010 жылға мүгедектер үшін жұмыс орындарына квота белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164008000001'
 approval_date: 2010-06-10
-version_date: 2010-06-10
+version_date: 2013-11-06
 registry_number: '53430'
-source: https://zan.gov.kz/client/#!/doc/53430/kaz/10.06.2010
+source: https://zan.gov.kz/client/#!/doc/53430/kaz
 ---
 
 # 2010 жылға мүгедектер үшін жұмыс орындарына квота белгілеу туралы
@@ -25,4 +25,6 @@ source: https://zan.gov.kz/client/#!/doc/53430/kaz/10.06.2010
 
 3. Осы қаулының орындалуын бақылау аудан әкімінің орынбасары А.Қ. Мардановаға жүктелсін.
 
-   Аудан әкімі Б. Бақауов
+   **Аудан әкімі**
+
+   **Б. Бақауов**
