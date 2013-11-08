@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/03.09.2013
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/08.11.2013
 ---
 
 ## Қазақстан Республикасы Yкiметінiң күші жойылған кейбiр шешімдерінің тізбесі
