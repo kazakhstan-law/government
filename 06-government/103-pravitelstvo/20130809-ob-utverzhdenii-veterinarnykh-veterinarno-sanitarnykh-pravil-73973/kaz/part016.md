@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/73973/kaz/09.08.2013
+source: https://zan.gov.kz/client/#!/doc/73973/kaz/08.11.2013
 ---
 
 ## 8-тарау. Аусыл ауруы

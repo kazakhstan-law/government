@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/73973/rus/09.08.2013
+source: https://zan.gov.kz/client/#!/doc/73973/rus/08.11.2013
 ---
 
 ## Глава 8. Ящур
