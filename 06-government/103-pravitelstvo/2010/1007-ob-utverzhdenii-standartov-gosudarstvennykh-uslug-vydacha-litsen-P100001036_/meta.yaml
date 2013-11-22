@@ -38,12 +38,22 @@ versions:
   cause:
     code: '74418'
     key: P1300000983
+- date: 2013-11-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '74418'
+    key: P1300000983
+  also_caused_by:
+  - code: '75470'
+    key: P1300001254
 version_date:
-  kaz: 2013-09-18
-  rus: 2013-09-18
+  kaz: 2013-11-22
+  rus: 2013-11-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/54782/kaz/18.09.2013
-  rus: https://zan.gov.kz/client/#!/doc/54782/rus/18.09.2013
+  kaz: https://zan.gov.kz/client/#!/doc/54782/kaz/22.11.2013
+  rus: https://zan.gov.kz/client/#!/doc/54782/rus/22.11.2013
 caused_by:
   code: '74418'
   key: P1300000983
