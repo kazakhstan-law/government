@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/37095/kaz/25.02.2013
+source: https://zan.gov.kz/client/#!/doc/37095/kaz/01.12.2013
 ---
 
 ## 2-параграф. Фьючерстік мәмілелер бойынша операцияларды есепке алу
