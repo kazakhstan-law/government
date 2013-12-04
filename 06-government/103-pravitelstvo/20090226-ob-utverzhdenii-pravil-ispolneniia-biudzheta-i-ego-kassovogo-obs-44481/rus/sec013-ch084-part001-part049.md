@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/44481/rus/14.11.2013
+source: https://zan.gov.kz/client/#!/doc/44481/rus/04.12.2013
 ---
 
 ## Перечень счетов в иностранной валюте в казначействе
