@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/72194/kaz/26.03.2013
+source: https://zan.gov.kz/client/#!/doc/72194/kaz/05.12.2013
 ---
 
 ## 3. Электрондық мемлекеттік қызмет көрсету жөнінде қызмет беруші әрекетінің тәртібі

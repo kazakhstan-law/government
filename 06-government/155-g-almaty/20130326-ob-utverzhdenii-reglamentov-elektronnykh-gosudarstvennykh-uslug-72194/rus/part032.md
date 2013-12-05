@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72194/rus/26.03.2013
+source: https://zan.gov.kz/client/#!/doc/72194/rus/05.12.2013
 ---
 
 ## 5. Порядок обжалования
