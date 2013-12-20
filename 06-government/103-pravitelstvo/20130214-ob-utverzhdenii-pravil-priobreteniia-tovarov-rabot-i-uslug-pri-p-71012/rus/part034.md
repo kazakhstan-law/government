@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/71012/rus/10.07.2013
+source: https://zan.gov.kz/client/#!/doc/71012/rus/20.12.2013
 ---
 
 ## Протокол подведения итогов по закупу способом из одного источника (название закупа)
