@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62976/rus/30.12.2011
+source: https://zan.gov.kz/client/#!/doc/62976/rus/20.12.2013
 ---
 
 ## Приборы, применяемые для исследования бумаги
