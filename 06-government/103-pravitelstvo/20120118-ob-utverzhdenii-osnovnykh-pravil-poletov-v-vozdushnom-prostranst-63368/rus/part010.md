@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/63368/rus/31.07.2013
+source: https://zan.gov.kz/client/#!/doc/63368/rus/20.12.2013
 ---
 
 ## Порядок обеспечения полетов

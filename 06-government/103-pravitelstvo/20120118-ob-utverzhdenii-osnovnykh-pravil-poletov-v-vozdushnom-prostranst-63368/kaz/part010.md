@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/63368/kaz/31.07.2013
+source: https://zan.gov.kz/client/#!/doc/63368/kaz/20.12.2013
 ---
 
 ## Ұшуды қамтамасыз ету тәртібі
