@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/36553/rus/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/36553/rus/25.12.2013
 ---
 
 ## Вскрытие конвертов с заявками на участие в конкурсе

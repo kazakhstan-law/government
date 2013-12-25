@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/36553/kaz/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/36553/kaz/25.12.2013
 ---
 
 # Мемлекеттік сатып алуды жүзеге асыру ережесін бекіту туралы
