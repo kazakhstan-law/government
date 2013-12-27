@@ -10,8 +10,15 @@ approved_on: 2011-11-01
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2011-11-01
-  rus: 2011-11-01
+  kaz: 2013-12-27
+  rus: 2013-12-27
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/8706/kaz/01.11.2011
-  rus: https://zan.gov.kz/client/#!/doc/8706/rus/01.11.2011
+  kaz: https://zan.gov.kz/client/#!/doc/8706/kaz/27.12.2013
+  rus: https://zan.gov.kz/client/#!/doc/8706/rus/27.12.2013
+caused_by:
+  code: '76302'
+  requisite: Постановление Правительства Республики Казахстан от 27 декабря 2013 года № 1413
+  title:
+    rus: О некоторых вопросах Министерства окружающей среды и водных ресурсов Республики Казахстан
+    kaz: Қазақстан Республикасы Қоршаған орта және су ресурстары министрлігінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/76302/rus
