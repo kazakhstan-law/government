@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/63368/kaz/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/63368/kaz/30.12.2013
 ---
 
 ## ІІ. Ұшу кезінде экипаж мүшелеріне олардың жұмыс қабілеттілігін бағалайтын жүйелер тізбесі
