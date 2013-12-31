@@ -11,10 +11,10 @@ approved_on: 2013-04-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-08-26
-  rus: 2013-08-26
+  kaz: 2013-12-31
+  rus: 2013-12-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
-  rus: https://zan.gov.kz/client/#!/doc/72569/rus/26.08.2013
+  kaz: https://zan.gov.kz/client/#!/doc/72569/kaz/31.12.2013
+  rus: https://zan.gov.kz/client/#!/doc/72569/rus/31.12.2013
 caused_by:
-  code: '74076'
+  code: '76838'
