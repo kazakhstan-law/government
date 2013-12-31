@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
+source: https://zan.gov.kz/client/#!/doc/72569/kaz/31.12.2013
 ---
 
 <table>
@@ -430,7 +430,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
-<td>31</td>
+<td>36</td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
-<td>121</td>
+<td>111</td>
 <td></td>
 <td></td>
 <td></td>
@@ -452,7 +452,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
-<td>48</td>
+<td>162</td>
 <td></td>
 <td></td>
 <td></td>
@@ -518,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>4 213 026</td>
+<td>4 068 244</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1252,7 +1252,18 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
-<td>53</td>
+<td>31</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Сумен жабдықтау және су бұру жүйелеріне инвестициялардың негіздемесін әзірлеу жөніндегі аралық есеп</td>
+<td>бірлік</td>
+<td></td>
+<td></td>
+<td>22</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1274,7 +1285,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>%</td>
 <td></td>
 <td></td>
-<td>55,5</td>
+<td>51,6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1307,7 +1318,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>53 735</td>
+<td>28 679</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1318,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>2 847 970</td>
+<td>1 520 000</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1528,7 +1539,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>адам</td>
 <td></td>
 <td></td>
-<td>266 834</td>
+<td>265 525</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1594,7 +1605,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>7 249 230</td>
+<td>7 244 667</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1710,7 +1721,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>адам</td>
 <td></td>
 <td></td>
-<td>2 018 472</td>
+<td>2 127 406</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1721,7 +1732,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
-<td>775</td>
+<td>802</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1732,7 +1743,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың текше метр</td>
 <td></td>
 <td></td>
-<td>69 403,39</td>
+<td>57 640</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1754,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>%</td>
 <td></td>
 <td></td>
-<td>11-100</td>
+<td>9,73-100</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1787,7 +1798,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>теңге</td>
 <td></td>
 <td></td>
-<td>5-922</td>
+<td>4,31-1484,67</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2185,7 +2196,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың шаршы метр</td>
 <td></td>
 <td></td>
-<td>280,4</td>
+<td>271,7</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2207,7 +2218,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>пәтер саны</td>
 <td></td>
 <td></td>
-<td>3 700</td>
+<td>3 623</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2218,7 +2229,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>%</td>
 <td></td>
 <td></td>
-<td>8,5</td>
+<td>8,3</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2276,7 +2287,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 </td>
 <td></td>
 <td></td>
-<td>30 152 400</td>
+<td>29 408 357</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2370,7 +2381,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>Енгізілген объектілердің саны</td>
 <td></td>
 <td></td>
-<td>100</td>
+<td>209</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2566,7 +2577,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td>749 188</td>
+<td>1 083 188</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2577,7 +2588,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td>513 727</td>
+<td>846 727</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2588,7 +2599,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td>333 814</td>
+<td>666 814</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2674,7 +2685,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>объектілердің саны</td>
 <td></td>
 <td></td>
-<td>132</td>
+<td>136</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2718,7 +2729,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>объектілердің саны</td>
 <td></td>
 <td></td>
-<td>97</td>
+<td>96</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2795,18 +2806,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>368 748</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1 км сумен жабдықтау желідегі құрылыс-монтаждау жұмыстарының құны</td>
-<td>мың теңге</td>
-<td></td>
-<td></td>
-<td>20 000</td>
+<td>357 903</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2821,169 +2821,6 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td>48 674 842</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>Бюджеттік бағдарлама</td>
-<td colspan="8">036 «Тұрғын үй-коммуналдық шаруашылығын жаңғырту мен дамытудың қазақстандық орталығы» АҚ жарғылық капиталын ұлғайту»</td>
-</tr>
-<tr>
-<td>Сипаттама</td>
-<td colspan="8">«Тұрғын үй-коммуналдық шаруашылығын жаңғырту мен дамытудың қазақстандық орталығы» акционерлік қоғамының жарғылық капиталын қалыптастыру</td>
-</tr>
-<tr>
-<td rowspan="3">Бюджеттік бағдарламаның түрі</td>
-<td colspan="3">мазмұнына қарай</td>
-<td colspan="5">бюджеттік инвестицияларды жүзеге асыру</td>
-</tr>
-<tr>
-<td colspan="3">іске асыру тәсіліне қарай</td>
-<td colspan="5">жеке</td>
-</tr>
-<tr>
-<td colspan="3">ағымдағы/даму</td>
-<td colspan="5">даму</td>
-</tr>
-<tr>
-<td rowspan="2">Бюджеттік бағдарлама көрсеткіштерінің атауы</td>
-<td rowspan="2">Өлшем бірлігі</td>
-<td colspan="2">Есепті кезең</td>
-<td colspan="3">Жоспарлы кезең</td>
-<td rowspan="2">Жобаланған 2016 жыл</td>
-<td rowspan="2">Жобаланған 2017 жыл</td>
-</tr>
-<tr>
-<td>2011 жыл</td>
-<td>2012 жыл</td>
-<td>2013 жыл</td>
-<td>2014 жыл</td>
-<td>2015 жыл</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-</tr>
-<tr>
-<td>тікелей нәтиже көрсеткіштері</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тұрғын үйлерді салу және жаңғырту саласында нормативтік-техникалық құжаттар және үлгі жобалар әзірлеу</td>
-<td>дана</td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Тұрғын үйлерді салу және жаңғырту саласында ҒЗТҚЖ әзірлеу</td>
-<td>бірлік</td>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>түпкілікті нәтиже көрсеткіштері</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Құрылыс технологияларын бағалау бойынша сараптамалық қорытындылардың саны</td>
-<td>бірлік</td>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>сапа көрсеткіштері</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Жүргізілген жұмыстардың нормативтік-техникалық құжаттардың талаптарына және ҚНжЕ сәйкестігі</td>
-<td>%</td>
-<td></td>
-<td></td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>тиімділік көрсеткіштері</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақстанда жаңа технологияларды, материалдарды, техникалық және басқару шешімдерін пайдалануды кең ауқымда енгізуді қамтамасыз ету, кем дегенде</td>
-<td>бірлік</td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Бюджеттік шығыстардың көлемі</td>
-<td>
-мың
-теңге
-</td>
-<td></td>
-<td></td>
-<td>86 550</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3240,7 +3077,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>объектілердің саны</td>
 <td></td>
 <td></td>
-<td>66</td>
+<td>65</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3273,7 +3110,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td>14</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3295,7 +3132,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>км</td>
 <td></td>
 <td></td>
-<td>1 000</td>
+<td>1 096</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3428,7 +3265,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 </td>
 <td></td>
 <td></td>
-<td>14 658 601</td>
+<td>14 618 140</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3591,7 +3428,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 </td>
 <td></td>
 <td></td>
-<td>8 230 809</td>
+<td>6 777 906</td>
 <td></td>
 <td></td>
 <td></td>
@@ -3837,7 +3674,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>объектілердің саны</td>
 <td></td>
 <td></td>
-<td>125</td>
+<td>126</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4137,7 +3974,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 </tr>
 <tr>
-<td>Әзірленген инвестициялық жобалар саны</td>
+<td>Әзірленіп жатқан инвестициялық жобалар саны</td>
 <td>бірлік</td>
 <td></td>
 <td></td>
@@ -4153,17 +3990,6 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Мемлекеттік сараптаманың оң қорытындысы бар жобаларды аяқтау</td>
-<td>бірлік</td>
-<td></td>
-<td></td>
-<td>10</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4207,7 +4033,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>56 470</td>
+<td>39 535</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4218,7 +4044,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>564 700</td>
+<td>395 350</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4378,7 +4204,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>73 012</td>
+<td>70 242</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4389,7 +4215,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>584 098</td>
+<td>561 939</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4759,19 +4585,8 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>бірлік</td>
 <td></td>
 <td></td>
+<td></td>
 <td>1</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2-кезектегі кіші жүйелерді әзірлеу: «Өңірлердің әлеуметтік- экономикалық дамуын мониторингілеу», «Қазақстан Республикасы өңірлерінің әлеуметтік шиеленісін мониторингілеу, модельдеу және болжау», «Өңірлердің бәсекеге қабілеттілігін мониторингілеу»</td>
-<td>бірлік</td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4794,28 +4609,6 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Өңірлердің әлеуметтік- экономикалық даму көрсеткіштерін мониторингпен қамту</td>
-<td>%</td>
-<td></td>
-<td></td>
-<td></td>
-<td>100</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Қазақстан Республикасы өңірлерінің әлеуметтік шиеленісін мониторингпен, модельдеумен және болжаумен қамту</td>
-<td>%</td>
-<td></td>
-<td></td>
-<td></td>
-<td>100</td>
 <td></td>
 <td></td>
 <td></td>
@@ -4880,7 +4673,123 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/26.08.2013
 <td>мың теңге</td>
 <td></td>
 <td></td>
-<td>407 360</td>
+<td>240 930</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Бюджеттік бағдарлама</td>
+<td colspan="8">051 «Астана қаласының бюджетіне Астана қаласы әкімдігінің уәкілетті ұйымының «Самұрық-Қазына» ҰӘҚ» АҚ алдында бұрын қабылданған міндеттемелерін өтеуге берілетін нысаналы ағымдағы трансферттер»</td>
+</tr>
+<tr>
+<td>Сипаттама</td>
+<td colspan="8">Астана қаласының әкімдігіне «Самұрық-Қазына» ҰӘҚ» АҚ алдындағы кредитті қайтару бойынша міндеттемелерді орындауды қамтамасыз ету мақсатында республикалық бюджеттен қаражат бөлу</td>
+</tr>
+<tr>
+<td rowspan="3">Бюджеттік бағдарламаның түрі</td>
+<td colspan="3">мазмұнына қарай</td>
+<td colspan="5">трансферттер беру</td>
+</tr>
+<tr>
+<td colspan="3">іске асыру тәсіліне қарай</td>
+<td colspan="5">жеке</td>
+</tr>
+<tr>
+<td colspan="3">ағымдағы/даму</td>
+<td colspan="5">ағымдағы</td>
+</tr>
+<tr>
+<td rowspan="2">Бюджеттік бағдарлама көрсеткіштерінің атауы</td>
+<td rowspan="2">Өлшем бірлігі</td>
+<td colspan="2">Есепті кезең</td>
+<td colspan="3">Жоспарлы кезең</td>
+<td rowspan="2">Жобаланған 2016 жыл</td>
+<td rowspan="2">Жобаланған 2017 жыл</td>
+</tr>
+<tr>
+<td>2011 жыл</td>
+<td>2012 жыл</td>
+<td>2013 жыл</td>
+<td>2014 жыл</td>
+<td>2015 жыл</td>
+</tr>
+<tr>
+<td>тікелей нәтиже көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Астана қаласының әкімдігіне ағымдағы трансферттерді аудару</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>түпкілікті нәтиже көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Астана қаласы әкімдігінің уәкілетті ұйымының міндеттемелерін орындауы</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сапа көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>тиімділік көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>бюджеттік шығыстардың көлемі</td>
+<td>мың теңге</td>
+<td></td>
+<td></td>
+<td>20 000 000</td>
 <td></td>
 <td></td>
 <td></td>
