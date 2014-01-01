@@ -1,5 +1,5 @@
 ---
-version_id: AI71144_1
+version_id: AI71144_3
 act_code: '71144'
 language: rus
 title: Об определении целевых групп населения на 2013 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166013000001'
 approval_date: 2013-02-04
-version_date: 2013-02-04
+version_date: 2014-01-01
 registry_number: '71144'
-source: https://zan.gov.kz/client/#!/doc/71144/rus/04.02.2013
+source: https://zan.gov.kz/client/#!/doc/71144/rus
 ---
 
 # Об определении целевых групп населения на 2013 год
@@ -37,4 +37,6 @@ source: https://zan.gov.kz/client/#!/doc/71144/rus/04.02.2013
 
 4. Настоящее постановление вводится в действие по истечении десяти календарных дней после его первого официального опубликования.
 
-   Аким района К.Айтуреев
+**Аким района**
+
+**К.Айтуреев**

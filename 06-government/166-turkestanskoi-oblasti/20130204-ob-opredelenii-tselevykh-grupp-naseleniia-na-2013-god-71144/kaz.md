@@ -1,5 +1,5 @@
 ---
-version_id: AI71144_0
+version_id: AI71144_2
 act_code: '71144'
 language: kaz
 title: 2013 жылға халықтың нысаналы топтарын анықтау туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '166013000001'
 approval_date: 2013-02-04
-version_date: 2013-02-04
+version_date: 2014-01-01
 registry_number: '71144'
-source: https://zan.gov.kz/client/#!/doc/71144/kaz/04.02.2013
+source: https://zan.gov.kz/client/#!/doc/71144/kaz
 ---
 
 # 2013 жылға халықтың нысаналы топтарын анықтау туралы
@@ -37,4 +37,6 @@ source: https://zan.gov.kz/client/#!/doc/71144/kaz/04.02.2013
 
 4. Осы қаулы алғаш ресми жарияланған күннен бастап күнтізбелік он күн өткен соң қолданысқа енгiзiледi.
 
-   Аудан әкімі Қ.Айтөреев
+**Аудан әкімі**
+
+**Қ.Айтөреев**
