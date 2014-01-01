@@ -11,11 +11,11 @@ approved_on: 2005-12-23
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-11-11
-  rus: 2013-11-11
+  kaz: 2014-01-01
+  rus: 2014-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/26296/kaz/11.11.2013
-  rus: https://zan.gov.kz/client/#!/doc/26296/rus/11.11.2013
+  kaz: https://zan.gov.kz/client/#!/doc/26296/kaz/01.01.2014
+  rus: https://zan.gov.kz/client/#!/doc/26296/rus/01.01.2014
 caused_by:
   code: '75251'
   requisite: Постановление Правительства Республики Казахстан от 11 ноября 2013 года № 1204. Утратило силу постановлением Правительства Республики Казахстан от 16 ноября 2018 года № 772
