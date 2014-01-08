@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/69786/kaz/19.12.2012
+source: https://zan.gov.kz/client/#!/doc/69786/kaz/08.01.2014
 ---
 
 ## 3. Электрондық мемлекеттік қызметті көрсету процесінде өзара әрекеттесу тәртібінің сипаты
