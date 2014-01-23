@@ -1,0 +1,25 @@
+key: V14A0000800
+akn: /akn/kz/act/2014-01-22/V14A0000800
+act_code: '77345'
+requisite: ''
+title:
+  rus: Об определении целевых групп населения и мер по содействию их занятости и социальной защите в 2014 году
+  kaz: Халықтың нысаналы топтарын және 2014 жылы оларды жұмыспен қамту мен әлеуметтік қорғалуына көмек көрсету жөніндегі шараларды белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2014-01-22
+in_force_from: 2014-02-06
+approved_by:
+- '151000000001'
+versions:
+- date: 2014-01-23
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2014-01-23
+  rus: 2014-01-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/77345/kaz/23.01.2014
+  rus: https://zan.gov.kz/client/#!/doc/77345/rus/23.01.2014
