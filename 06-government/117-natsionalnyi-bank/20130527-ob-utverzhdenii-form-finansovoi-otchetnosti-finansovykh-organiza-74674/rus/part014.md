@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/74674/rus/23.09.2013
+source: https://zan.gov.kz/client/#!/doc/74674/rus/03.02.2014
 ---
 
 ## Отчет о прибылях и убытках

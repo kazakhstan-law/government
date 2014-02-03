@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/74811/kaz/27.08.2013
+source: https://zan.gov.kz/client/#!/doc/74811/kaz/03.02.2014
 ---
 
 ## Бір клиентке ең жоғарғы тәуекелдің талдамасы (клиенттер бөлігінде)
