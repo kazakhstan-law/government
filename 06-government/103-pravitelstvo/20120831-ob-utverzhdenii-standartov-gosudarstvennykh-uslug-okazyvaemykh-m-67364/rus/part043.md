@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67364/rus/18.10.2013
+source: https://zan.gov.kz/client/#!/doc/67364/rus/04.02.2014
 ---
 
 ## 2. Порядок оказания государственной услуги
