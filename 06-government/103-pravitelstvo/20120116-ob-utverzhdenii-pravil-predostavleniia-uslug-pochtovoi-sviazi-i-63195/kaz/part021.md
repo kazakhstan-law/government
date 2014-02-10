@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/63195/kaz/16.01.2012
+source: https://zan.gov.kz/client/#!/doc/63195/kaz/10.02.2014
 ---
 
 ## Ішкі почта жөнелтімдерінде жіберуге тыйым салынған заттар мен бұйымдар
