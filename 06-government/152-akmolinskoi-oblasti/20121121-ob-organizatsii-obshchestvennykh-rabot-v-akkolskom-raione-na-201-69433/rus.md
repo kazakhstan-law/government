@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69433/rus/21.11.2012
+source: https://zan.gov.kz/client/#!/doc/69433/rus/21.02.2014
 ---
 
 # Об организации общественных работ в Аккольском районе на 2013 год

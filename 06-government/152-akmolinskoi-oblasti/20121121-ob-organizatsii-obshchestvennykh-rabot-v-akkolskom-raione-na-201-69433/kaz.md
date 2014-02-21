@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/69433/kaz/21.11.2012
+source: https://zan.gov.kz/client/#!/doc/69433/kaz/21.02.2014
 ---
 
 # 2013 жылға Ақкөл ауданында қоғамдық жұмыстарды ұйымдастыру туралы
