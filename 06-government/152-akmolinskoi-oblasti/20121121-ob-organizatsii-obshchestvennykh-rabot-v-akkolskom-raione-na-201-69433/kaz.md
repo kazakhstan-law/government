@@ -1,5 +1,5 @@
 ---
-version_id: '69433_189784'
+version_id: AI69433_2
 act_code: '69433'
 language: kaz
 title: 2013 жылға Ақкөл ауданында қоғамдық жұмыстарды ұйымдастыру туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152004000001'
 approval_date: 2012-11-21
-version_date: 2012-11-21
+version_date: 2014-02-21
 registry_number: '69433'
-source: https://zan.gov.kz/client/#!/doc/69433/kaz/21.11.2012
+source: https://zan.gov.kz/client/#!/doc/69433/kaz
 ---
 
 # 2013 жылға Ақкөл ауданында қоғамдық жұмыстарды ұйымдастыру туралы
