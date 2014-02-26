@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25745/kaz/24.12.2012
+source: https://zan.gov.kz/client/#!/doc/25745/kaz/26.02.2014
 ---
 
 ## Нұсқаулық талаптарының базалық критерииі
