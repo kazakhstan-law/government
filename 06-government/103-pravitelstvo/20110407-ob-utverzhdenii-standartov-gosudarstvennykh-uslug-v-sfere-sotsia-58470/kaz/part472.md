@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/58470/kaz/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/58470/kaz/05.03.2014
 ---
 
 ## Солтүстік Қазақстан облысының қалалық және аудандық әкімдіктері
