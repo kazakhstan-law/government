@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/77438/rus/17.02.2014
+source: https://zan.gov.kz/client/#!/doc/77438/rus/11.03.2014
 ---
 
 ## Перечень государственных заданий на 2014 год
