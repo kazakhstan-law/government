@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/21723/rus/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/21723/rus/11.03.2014
 ---
 
 ## 2. Государственные учреждения
