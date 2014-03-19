@@ -1,8 +1,12 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
+source: https://zan.gov.kz/client/#!/doc/73779/kaz/19.03.2014
 ---
 
 # 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысын бекіту туралы
+
+> РҚАО-ның ескертпесі.
+
+> Құжаттың мәтінінде түпнұсқаның пунктуациясы мен орфографиясы сақталған.
 
 «Бiлiм туралы» Қазақстан Республикасының 2007 жылғы 27 шiлдедегi Заңының 6 бабы 2-тармағының 8) тармақшасына сәйкес Оңтүстiк Қазақстан облысының әкiмдiгi ҚАУЛЫ ЕТЕДI:
 
@@ -16,14 +20,16 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 
 5. Осы қаулының орындалуын бақылау облыс әкiмiнiң орынбасары С.Ә.Қаныбековке жүктелсiн.
 
-Облыс әкiмi А.Мырзахметов
+**Облыс әкiмi**
+
+**А.Мырзахметов**
 
 > *Оңтүстік Қазақстан облысы*  
 > *әкімдігінің 2013 жылғы*  
 > *«30» шілдедегі № 196 қаулысына*  
 > *1-қосымша*
 
-## Облыстық бюджет есебінен 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
+# Облыстық бюджет есебінен 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
 
 <table>
 <tr>
@@ -33,7 +39,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">9 сынып негізінде</td>
 <td colspan="2">11 сынып негізінде</td>
 <td colspan="3">Барлығы</td>
-<td rowspan="189"></td>
 </tr>
 <tr>
 <td colspan="2" rowspan="13">Оңтүстік Қазақстан облысы білім басқармасының «Жаңа технологиялар колледжі» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
@@ -285,10 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <tr>
 <td colspan="2" rowspan="19">Оңтүстік Қазақстан облысы білім басқармасының «Шымкент аграрлық колледжі» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">0601000</td>
-<td colspan="9">
-Метрология, стандарттау және сертификаттау
-(салалар бойынша)
-</td>
+<td colspan="9">Метрология, стандарттау және сертификаттау (салалар бойынша)</td>
 </tr>
 <tr>
 <td colspan="2">0601013</td>
@@ -1129,13 +1131,11 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">30</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="8">Оңтүстік Қазақстан облысы білім басқармасының «№ 1 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Ферма шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">
 Ауыл шаруашылық өндірісіндегі тракторшы-
@@ -1146,7 +1146,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504102</td>
 <td colspan="2">Жөндеуші слесарь</td>
 <td colspan="2">25</td>
@@ -1154,7 +1153,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504042</td>
 <td colspan="2">Аспазшы</td>
 <td colspan="2">25</td>
@@ -1162,7 +1160,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504092</td>
 <td colspan="2">Электржабдықтарға қызмет көрсету бойынша электромонтер</td>
 <td colspan="2"></td>
@@ -1170,12 +1167,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114012</td>
 <td colspan="2">Дәнекерлеуші (барлық атауларымен)</td>
 <td colspan="2">25</td>
@@ -1183,20 +1178,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">100</td>
 <td colspan="3">25</td>
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="25">Оңтүстік Қазақстан облысы білім басқармасының «№ 2 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">50</td>
@@ -1204,12 +1196,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1402000</td>
 <td colspan="9">Жол - құрылыс машиналарын техникалық пайдалану (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1402162</td>
 <td colspan="2">Автомобиль кранының машинисі</td>
 <td colspan="2">50</td>
@@ -1217,12 +1207,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">50</td>
@@ -1230,12 +1218,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1414000</td>
 <td colspan="9">Жиһаз өндірісі</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1414012</td>
 <td colspan="2">Жиһаз жинақтаушы</td>
 <td colspan="2">50</td>
@@ -1243,7 +1229,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1414032</td>
 <td colspan="2">Ағаш өңдеу станоктарының станокшысы</td>
 <td colspan="2"></td>
@@ -1251,12 +1236,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0502000</td>
 <td colspan="9">Телекоммуникациялық құралдармен тұрмыстық техникаларды жөндеу және қызмет көрсету (салалар бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0502012</td>
 <td colspan="2">Аппаратура жөндеу және қызмет көрсету радиомеханигі (радио, теле-, аудио -, бейне-)</td>
 <td colspan="2">25</td>
@@ -1264,12 +1247,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Ағаш шебері</td>
 <td colspan="2">25</td>
@@ -1277,7 +1258,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401042</td>
 <td colspan="2">Сылақшы</td>
 <td colspan="2">25</td>
@@ -1285,12 +1265,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0901000</td>
 <td colspan="9">Электр станциялары мен желілерінің электр жабдықтары (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0901012</td>
 <td colspan="2">Электромонтер (барлығының атаулары)</td>
 <td colspan="2">25</td>
@@ -1298,12 +1276,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -1311,12 +1287,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0416000</td>
 <td colspan="9">Сәулет</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0416012</td>
 <td colspan="2">Көркемдік-әсемдеу жұмыстарын жүргізуші</td>
 <td colspan="2">25</td>
@@ -1324,12 +1298,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1112000</td>
 <td colspan="9">Өнеркәсіп машиналары және жабдықтарын пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1112032</td>
 <td colspan="2">Жөндеуші слесарь</td>
 <td colspan="2"></td>
@@ -1337,7 +1309,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="2">Тігін өндірісі және киімдерді моделдеу</td>
 <td colspan="2"></td>
@@ -1345,7 +1316,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2"></td>
@@ -1353,20 +1323,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">350</td>
 <td colspan="3">150</td>
 <td colspan="2">500</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="11">Оңтүстік Қазақстан облысы білім басқармасының «№ 3 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">75</td>
@@ -1374,12 +1341,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">75</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">100</td>
@@ -1387,12 +1352,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1109000</td>
 <td colspan="9">Токарлық іс және металл өңдеу (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1109012</td>
 <td colspan="2">Токарь</td>
 <td colspan="2">25</td>
@@ -1400,12 +1363,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1013000</td>
 <td colspan="9">Механоөңдеу, өлшеуіш-бақылау приборлары және машина жасау автоматикасы</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1013062</td>
 <td colspan="2">Бақылау өлшеу аспаптары және автоматтандыруды іске қосушы</td>
 <td colspan="2">50</td>
@@ -1413,12 +1374,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1115000</td>
 <td colspan="9">Өндірістердегі электромеханикалық жабдықтар (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1115042</td>
 <td colspan="2">Электржабдықтарды жөндейтін және қызмет көрсететін электрмонтер</td>
 <td colspan="2">25</td>
@@ -1426,20 +1385,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">275</td>
 <td colspan="3"></td>
 <td colspan="2">275</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="14">Оңтүстік Қазақстан облысы білім басқармасының «№ 4 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">0503000</td>
 <td colspan="9">Темірұста ісі</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0503012</td>
 <td colspan="2">Электр құрал жабдықтарын жөндеуші слесарь-электрик</td>
 <td colspan="2">50</td>
@@ -1447,12 +1403,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1307000</td>
 <td colspan="9">Электр байланысы жүйелі құрылыстары мен сымдық тарату жүйелерін пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1307022</td>
 <td colspan="2">Электр байланысы жүйелі құрылыстары мен сымдық тарату жүйелері электромонтері</td>
 <td colspan="2">25</td>
@@ -1460,12 +1414,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1306000</td>
 <td colspan="9">Радиотехника және байланыс (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1306032</td>
 <td colspan="2">Байланыс операторы</td>
 <td colspan="2">25</td>
@@ -1473,7 +1425,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1306052</td>
 <td colspan="2">Байланыс кабелінің монтажшысы</td>
 <td colspan="2">25</td>
@@ -1481,7 +1432,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1306022</td>
 <td colspan="2">Телефон байланысындағы электромонтер</td>
 <td colspan="2">25</td>
@@ -1489,7 +1439,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1306062</td>
 <td colspan="2">Пошта жабдықтарының электромеханигі</td>
 <td colspan="2">25</td>
@@ -1497,12 +1446,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -1510,12 +1457,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0510000</td>
 <td colspan="9">Іс қағаздарын жүргізу және мұрағаттану (салалары бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0510012</td>
 <td colspan="2">Хатшы – референт</td>
 <td colspan="2">25</td>
@@ -1523,20 +1468,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">225</td>
 <td colspan="3"></td>
 <td colspan="2">225</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="4">Оңтүстік Қазақстан облысы білім басқармасының «№ 5 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">75</td>
@@ -1544,7 +1486,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211072</td>
 <td colspan="2">Модельер-пішуші</td>
 <td colspan="2">125</td>
@@ -1552,20 +1493,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">200</td>
 <td colspan="3">50</td>
 <td colspan="2">250</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="9">Оңтүстік Қазақстан облысы білім басқармасының «№ 6 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">50</td>
@@ -1573,7 +1511,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508042</td>
 <td colspan="2">Официант</td>
 <td colspan="2">25</td>
@@ -1581,7 +1518,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508022</td>
 <td colspan="2">Кондитер</td>
 <td colspan="2">50</td>
@@ -1589,12 +1525,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1219000</td>
 <td colspan="9">Нан пісіру өндірісі, макарон өндірісі және кондитер өндірісі</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1219042</td>
 <td colspan="2">Бисквит даярлаушы</td>
 <td colspan="2">50</td>
@@ -1602,12 +1536,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0513000</td>
 <td colspan="9">Маркетинг (салалар бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0513012</td>
 <td colspan="2">Азық-түлік тауарларының сатушысы</td>
 <td colspan="2">25</td>
@@ -1615,20 +1547,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">200</td>
 <td colspan="3"></td>
 <td colspan="2">200</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="15">Оңтүстік Қазақстан облысы білім басқармасының «№ 7 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1115000</td>
 <td colspan="9">Өндірістердегі электромеханикалық жабдықтар (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1115042</td>
 <td colspan="2">Электрожабдықтарды жөндейтін және қызмет көрсететін электромонтер</td>
 <td colspan="2">25</td>
@@ -1636,12 +1565,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114012</td>
 <td colspan="2">Дәнекерлеуші (барлық атауларымен)</td>
 <td colspan="2">25</td>
@@ -1649,12 +1576,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -1662,12 +1587,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403000</td>
 <td colspan="9">Ішкі санитарлық-техникалық құрылғылар мен вентиляцияны монтаждау және пайдалану (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403012</td>
 <td colspan="2">Слесарь-сантехник</td>
 <td colspan="2">25</td>
@@ -1675,12 +1598,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -1688,12 +1609,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201092</td>
 <td colspan="2">Көлікті жөндеу шебері</td>
 <td colspan="2"></td>
@@ -1701,12 +1620,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304022</td>
 <td colspan="2">Байланыс кабелінің монтажшысы</td>
 <td colspan="2"></td>
@@ -1714,20 +1631,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3">75</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="15">Оңтүстік Қазақстан облысы білім басқармасының «№ 8 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -1735,12 +1649,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлікті жөндеу слесары</td>
 <td colspan="2">25</td>
@@ -1748,12 +1660,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -1761,12 +1671,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1115000</td>
 <td colspan="9">Өндірістердегі электрмеханикалық жабдықтар (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1115042</td>
 <td colspan="2">Электро-жабдықтарды жөндейтін және қызмет көрсететін электромонтер</td>
 <td colspan="2">25</td>
@@ -1774,12 +1682,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Құрылыс столяры</td>
 <td colspan="2">25</td>
@@ -1787,12 +1693,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -1800,7 +1704,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1109000</td>
 <td colspan="2">Токарлық іс және металл өңдеу (түрлері бойынша)</td>
 <td colspan="2"></td>
@@ -1808,7 +1711,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1109012</td>
 <td colspan="2">Токарь</td>
 <td colspan="2"></td>
@@ -1816,20 +1718,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">150</td>
 <td colspan="3">150</td>
 <td colspan="2">300</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="14">Оңтүстік Қазақстан облысы білім басқармасының «№ 9 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504042</td>
 <td colspan="2">Аспазшы</td>
 <td colspan="2">25</td>
@@ -1837,7 +1736,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -1845,12 +1743,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211032</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -1858,12 +1754,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -1871,12 +1765,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">25</td>
@@ -1884,12 +1776,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401012</td>
 <td colspan="2">Тас қалаушы</td>
 <td colspan="2"></td>
@@ -1897,12 +1787,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -1910,20 +1798,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">150</td>
 <td colspan="3">25</td>
 <td colspan="2">175</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="18">Оңтүстік Қазақстан облысы білім басқармасының «№ 10 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -1931,7 +1816,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504042</td>
 <td colspan="2">Аспазшы</td>
 <td colspan="2">25</td>
@@ -1939,12 +1823,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1402000</td>
 <td colspan="9">Жол-құрылыс машиналарын техникалық пайдалану (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1402102</td>
 <td colspan="2">Бір ожаулық эксковатор машинисі</td>
 <td colspan="2">25</td>
@@ -1952,12 +1834,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Құрылыс столяры</td>
 <td colspan="2">25</td>
@@ -1965,7 +1845,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401022</td>
 <td colspan="2">Ағаш ұстасы</td>
 <td colspan="2">25</td>
@@ -1973,12 +1852,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2" rowspan="3">Автокөлік жөндейтін слесары</td>
 <td colspan="2" rowspan="3">25</td>
@@ -1986,20 +1863,14 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2" rowspan="3">25</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0503000</td>
 <td colspan="9">Темірұста ісі</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0503012</td>
 <td colspan="2">Электр құрал жабдықтарын жөндеуші слесарь-электрик</td>
 <td colspan="2">25</td>
@@ -2007,12 +1878,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114012</td>
 <td colspan="2">Дәнекерлеуші (барлық атауларымен)</td>
 <td colspan="2">25</td>
@@ -2020,7 +1889,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2028,20 +1896,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">225</td>
 <td colspan="3"></td>
 <td colspan="2">225</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="13">Оңтүстік Қазақстан облысы білім басқармасының «№ 11 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2049,12 +1914,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндеу слесары</td>
 <td colspan="2"></td>
@@ -2062,12 +1925,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2075,12 +1936,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0510000</td>
 <td colspan="9">Іс қағаздарын жүргізу және мұрағаттану (салалары бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0510012</td>
 <td colspan="2">Хатшы – референт</td>
 <td colspan="2">25</td>
@@ -2088,12 +1947,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401022</td>
 <td colspan="2">Ағаш ұстасы</td>
 <td colspan="2">25</td>
@@ -2101,12 +1958,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2114,20 +1969,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3">25</td>
 <td colspan="2">150</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="10">Оңтүстік Қазақстан облысы білім басқармасының «№ 12 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2135,12 +1987,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">25</td>
@@ -2148,7 +1998,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201082</td>
 <td colspan="2">Автокөлік кузовын жөндеу шебері</td>
 <td colspan="2">25</td>
@@ -2156,12 +2005,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">75</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -2169,12 +2016,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Құрылыс столяры</td>
 <td colspan="2">25</td>
@@ -2182,20 +2027,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3">100</td>
 <td colspan="2">225</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="12">Оңтүстік Қазақстан облысы білім басқармасының «№ 13 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">50</td>
@@ -2203,12 +2045,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2216,12 +2056,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2229,12 +2067,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2"></td>
@@ -2242,7 +2078,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201082</td>
 <td colspan="2">Автокөлік кузовын жөндеу шебері</td>
 <td colspan="2">25</td>
@@ -2250,12 +2085,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2263,20 +2096,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">150</td>
 <td colspan="3">25</td>
 <td colspan="2">175</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="10">Оңтүстік Қазақстан облысы білім басқармасының «№ 14 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">
 Ауыл шаруашылық өндірісіндегі тракторшы-
@@ -2287,7 +2117,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504042</td>
 <td colspan="2">Аспазшы</td>
 <td colspan="2">25</td>
@@ -2295,12 +2124,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403000</td>
 <td colspan="9">Ішкі санитарлық-техникалық құрылғылар мен вентиляцияны монтаждау және пайдалану (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403082</td>
 <td colspan="2">Газоэлектрмен пісіруші</td>
 <td colspan="2">25</td>
@@ -2308,12 +2135,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201011</td>
 <td colspan="2">Жүргізуші</td>
 <td colspan="2">25</td>
@@ -2321,12 +2146,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеуіш машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2334,20 +2157,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3">50</td>
 <td colspan="2">175</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="11">Оңтүстік Қазақстан облысы білім басқармасының «№ 15 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2355,12 +2175,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2368,12 +2186,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403000</td>
 <td colspan="9">Ішкі санитарлық техникалық құрылғыларын желдету және инженерлік жүйелерін жинақтау және пайдалану (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1403082</td>
 <td colspan="2">Электрогазымен дәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2381,12 +2197,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөліктерге техникалық қызмет көрсету, жөндеу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201011</td>
 <td colspan="2">Жүргізуші</td>
 <td colspan="2">25</td>
@@ -2394,12 +2208,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2407,20 +2219,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3"></td>
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="15">Оңтүстік Қазақстан облысы білім басқармасының «№ 16 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114012</td>
 <td colspan="2">Дәнекерлеуші (барлық атауларымен)</td>
 <td colspan="2">25</td>
@@ -2428,7 +2237,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Электргазымен дәнекерлеуші</td>
 <td colspan="2"></td>
@@ -2436,12 +2244,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">25</td>
@@ -2449,7 +2255,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201011</td>
 <td colspan="2">Жүргізуші</td>
 <td colspan="2"></td>
@@ -2457,12 +2262,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -2470,12 +2273,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2483,7 +2284,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504092</td>
 <td colspan="2">Электржабдықтарға қызмет көрсету бойынша электромонтер</td>
 <td colspan="2">25</td>
@@ -2491,12 +2291,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1405000</td>
 <td colspan="9">Газ жабдықтау жүйесімен жабдықтарды монтаждау және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1405012</td>
 <td colspan="2" rowspan="2">Газ құбырларын пайдалану және жөндеу слесары</td>
 <td colspan="2" rowspan="2"></td>
@@ -2504,24 +2302,19 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2" rowspan="2">25</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3">75</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="13">Оңтүстік Қазақстан облысы білім басқармасының «№ 17 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2529,12 +2322,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2542,12 +2333,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">050801 2</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -2555,12 +2344,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Ағаш шебері</td>
 <td colspan="2">25</td>
@@ -2568,12 +2355,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1108000</td>
 <td colspan="9">Темір жол жылжымалы құрамдарын пайдалану және техникалық қызмет көрсету (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1108062</td>
 <td colspan="2">Электровоз машинисінің көмекшісі</td>
 <td colspan="2">25</td>
@@ -2581,12 +2366,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1303000</td>
 <td colspan="9">Темір жол қозғалысында автоматика, телемеханиканы басқару</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1303022</td>
 <td colspan="2">Сигнал беру құрылысын орталықтандыру және блокадалау электромонтері</td>
 <td colspan="2">25</td>
@@ -2594,20 +2377,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">150</td>
 <td colspan="3"></td>
 <td colspan="2">150</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="10">Оңтүстік Қазақстан облысы білім басқармасының «№ 18 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2615,12 +2395,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">25</td>
@@ -2628,12 +2406,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2641,7 +2417,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504042</td>
 <td colspan="2">Аспазшы</td>
 <td colspan="2">25</td>
@@ -2649,12 +2424,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2662,20 +2435,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3"></td>
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="10">Оңтүстік Қазақстан облысы білім басқармасының «№ 19 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2683,12 +2453,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504092</td>
 <td colspan="2">Электржабдықтарға қызмет көрсету бойынша электромонтер</td>
 <td colspan="2">25</td>
@@ -2696,7 +2464,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2704,12 +2471,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2717,12 +2482,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2730,20 +2493,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">125</td>
 <td colspan="3"></td>
 <td colspan="2">125</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="9">Оңтүстік Қазақстан облысы білім басқармасының «Дәуренбек Құрманбек атындағы «№ 20 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2751,12 +2511,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201092</td>
 <td colspan="2">Көлікті жөндеу шебері</td>
 <td colspan="2">25</td>
@@ -2764,12 +2522,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2777,12 +2533,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2790,20 +2544,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">100</td>
 <td colspan="3"></td>
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="17">Оңтүстік Қазақстан облысы білім басқармасының «№ 21 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -2811,12 +2562,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2824,12 +2573,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөлікті жөндеу, пайдалану және қызмет көрсету</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлік жөндейтін слесары</td>
 <td colspan="2">25</td>
@@ -2837,12 +2584,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2850,12 +2595,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401032</td>
 <td colspan="2">Құрылыс столяры</td>
 <td colspan="2">25</td>
@@ -2863,12 +2606,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504092</td>
 <td colspan="2">Электро жабдықтарға қызмет көрсетуші</td>
 <td colspan="2">25</td>
@@ -2876,12 +2617,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1405000</td>
 <td colspan="9">Газ жабдықтау жүйесімен жабдықтарды монтаждау және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1405012</td>
 <td colspan="2">Газ құрылғыларын жөндеу және пайдалану слесары</td>
 <td colspan="2">25</td>
@@ -2889,12 +2628,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304000</td>
 <td colspan="9">Есептеу техникасы және бағдарламалық қамтамасыздандыру (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1304012</td>
 <td colspan="2">Электрондық есептеу машинасының операторы</td>
 <td colspan="2">25</td>
@@ -2902,20 +2639,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">200</td>
 <td colspan="3"></td>
 <td colspan="2">200</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="7">Оңтүстік Қазақстан облысы білім басқармасының «№ 22 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -2923,12 +2657,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөліктерге техникалық қызмет көрсету, жөндеу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлікті жөндеу слесары</td>
 <td colspan="2">25</td>
@@ -2936,12 +2668,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -2949,20 +2679,18 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Барлығы</td>
+<td colspan="2"></td>
+<td colspan="2">Барлығы</td>
 <td colspan="2">75</td>
 <td colspan="3"></td>
 <td colspan="2">75</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="7">Оңтүстік Қазақстан облысы білім басқармасының «№ 23 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -2970,12 +2698,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508000</td>
 <td colspan="9">Тамақтандыруды ұйымдастыру</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0508012</td>
 <td colspan="2">Аспаз</td>
 <td colspan="2">25</td>
@@ -2983,12 +2709,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401000</td>
 <td colspan="9">Үйлер мен ғимараттарды салу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1401042</td>
 <td colspan="2">Сылақшы</td>
 <td colspan="2">25</td>
@@ -2996,20 +2720,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">75</td>
 <td colspan="3"></td>
 <td colspan="2">75</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="9">Оңтүстік Қазақстан облысы білім басқармасының «№ 24 колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">0801000</td>
 <td colspan="9">Мұнай және газ скважиналарын бұрғылау және бұрғылау жұмыстарының технологиясы (бейін бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0801082</td>
 <td colspan="2">Бұрғылау қондырғыларының машинисі</td>
 <td colspan="2"></td>
@@ -3017,12 +2738,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0809000</td>
 <td colspan="9">Мұнай және газ кен орындарын пайдалану (салалары бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0809052</td>
 <td colspan="2">Мұнай және газ алатын оператор</td>
 <td colspan="2">25</td>
@@ -3030,12 +2749,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0816000</td>
 <td colspan="9">Химиялық технология және өндіріс (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">0816032</td>
 <td colspan="2">Аппаратшы</td>
 <td colspan="2"></td>
@@ -3043,12 +2760,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1302000</td>
 <td colspan="9">Автоматтандыру және басқару (бейін бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1302012</td>
 <td colspan="2">Бақылау-өлшеу аспаптары мен автоматика теміршебері</td>
 <td colspan="2"></td>
@@ -3056,20 +2771,17 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">25</td>
 <td colspan="3">75</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2" rowspan="10">Оңтүстік Қазақстан облысы білім басқармасының «№ 25 Д.Қонаев атындағы колледж» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td colspan="2">1114000</td>
 <td colspan="9">Дәнекерлеу ісі (түрлері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1114042</td>
 <td colspan="2">Газбенэлектрдәнекерлеуші</td>
 <td colspan="2">25</td>
@@ -3077,12 +2789,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201000</td>
 <td colspan="9">Автокөліктерге техникалық қызмет көрсету, жөндеу және пайдалану</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201072</td>
 <td colspan="2">Автокөлікті жөндеу слесары</td>
 <td colspan="2">50</td>
@@ -3090,7 +2800,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1201062</td>
 <td colspan="2">Автокөліктің электр құрылғыларын жөндеуші электрик</td>
 <td colspan="2">50</td>
@@ -3098,12 +2807,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">50</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504000</td>
 <td colspan="9">Фермерлік шаруашылығы (бейіндері бойынша)</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1504062</td>
 <td colspan="2">Ауыл шаруашылық өндірісіндегі тракторшы-машинисі</td>
 <td colspan="2">25</td>
@@ -3111,12 +2818,10 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211000</td>
 <td colspan="9">Тігін өндірісі және киімдерді моделдеу</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">1211062</td>
 <td colspan="2">Тігінші</td>
 <td colspan="2">25</td>
@@ -3124,14 +2829,12 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td colspan="2">25</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="4">Барлығы</td>
 <td colspan="2">175</td>
 <td colspan="3"></td>
 <td colspan="2">175</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2"></td>
 <td colspan="4">Облыс бойынша барлығы:</td>
 <td colspan="2">6008</td>
@@ -3145,7 +2848,9 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 > *шілдедегі № 196 қаулысына*  
 > *2-қосымша*
 
-## Республикалық бюджет есебінен қаржыландыратын 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
+# Республикалық бюджет есебінен қаржыландыратын 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 2-қосымшаға өзгерістер енгізілді - Оңтүстік Қазақстан облысы әкімдігінің 19.03.2014 № 67 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -3257,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td>75</td>
 </tr>
 <tr>
-<td rowspan="7">Оңтүстік Қазақстан облысы білім басқармасының «Оңтүстік Қазақстан политехникалық колледжі» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
+<td rowspan="13">Оңтүстік Қазақстан облысы білім басқармасының «Оңтүстік Қазақстан политехникалық колледжі» мемлекеттік коммуналдық қазыналық кәсіпорны</td>
 <td>0802000</td>
 <td colspan="3">Мұнай-газ құбырлары және мұнай газ қоймаларын салу және пайдалану</td>
 </tr>
@@ -3265,7 +2970,7 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td>0802043</td>
 <td>Техник</td>
 <td>25</td>
-<td></td>
+<td>25</td>
 </tr>
 <tr>
 <td>0907000</td>
@@ -3288,10 +2993,40 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <td>25</td>
 </tr>
 <tr>
+<td>0814000</td>
+<td colspan="3">Полимер өндiрiсiнiң технологиясы</td>
+</tr>
+<tr>
+<td>0814023</td>
+<td>Техник-технолог</td>
+<td>25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>0812000</td>
+<td colspan="3">Резеңке техникалық өндiрiс</td>
+</tr>
+<tr>
+<td>0812083</td>
+<td>Техник-технолог</td>
+<td>25</td>
+<td>25</td>
+</tr>
+<tr>
+<td>0813000</td>
+<td colspan="3">Шина өндiрiсi және көркейту процесi технологиясы</td>
+</tr>
+<tr>
+<td>0813023</td>
+<td>Техник</td>
+<td>25</td>
+<td>25</td>
+</tr>
+<tr>
 <td>Барлығы</td>
 <td></td>
-<td>75</td>
-<td>75</td>
+<td>150</td>
+<td>150</td>
 </tr>
 <tr>
 <td rowspan="5">&quot;Техникалық колледжі&quot; жеке мекемесі</td>
@@ -3365,43 +3100,6 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 <tr>
 <td>1304043</td>
 <td>Техник-бағдарламашы</td>
-<td>25</td>
-<td>25</td>
-</tr>
-<tr>
-<td>Барлығы</td>
-<td></td>
-<td>75</td>
-<td>75</td>
-</tr>
-<tr>
-<td rowspan="7">«Ізденіс» көп салалы колледжі ЖШС</td>
-<td>0814000</td>
-<td colspan="3">Полимер өндірісінің технологиясы</td>
-</tr>
-<tr>
-<td>0814023</td>
-<td>Техник -технолог</td>
-<td>25</td>
-<td>25</td>
-</tr>
-<tr>
-<td>0812000</td>
-<td colspan="3">Резеңке техникалық өндіріс</td>
-</tr>
-<tr>
-<td>0812083</td>
-<td>Техник - технолог</td>
-<td>25</td>
-<td>25</td>
-</tr>
-<tr>
-<td>0813000</td>
-<td colspan="3">Шина өндірісі және көркейту процесі технологиясы</td>
-</tr>
-<tr>
-<td>0813023</td>
-<td>Техник</td>
 <td>25</td>
 <td>25</td>
 </tr>
@@ -3642,7 +3340,7 @@ source: https://zan.gov.kz/client/#!/doc/73779/kaz/30.07.2013
 > *«30» шілдедегі № 196 қаулысына*  
 > *3-қосымша*
 
-## Облыстық бюджет есебінен сырттай оқу нысаны үшін 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
+# Облыстық бюджет есебінен сырттай оқу нысаны үшін 2013-2014 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандар даярлауға арналған мемлекеттік білім беру тапсырысы
 
 <table>
 <tr>
