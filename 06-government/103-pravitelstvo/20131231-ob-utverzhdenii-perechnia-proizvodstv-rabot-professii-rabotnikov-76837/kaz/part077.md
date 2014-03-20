@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76837/kaz/31.12.2013
+source: https://zan.gov.kz/client/#!/doc/76837/kaz/20.03.2014
 ---
 
 ## 66. Тас құю өндірісі

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76837/rus/31.12.2013
+source: https://zan.gov.kz/client/#!/doc/76837/rus/20.03.2014
 ---
 
 ## 30. Обработка и переработка цветных и драгоценных металлов
