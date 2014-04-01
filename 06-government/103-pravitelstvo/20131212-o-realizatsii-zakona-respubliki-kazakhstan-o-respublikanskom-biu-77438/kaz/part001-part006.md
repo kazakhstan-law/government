@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
+source: https://zan.gov.kz/client/#!/doc/77438/kaz/01.04.2014
 ---
 
 <table>
@@ -25,7 +25,10 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td>Кіші бағдарлама</td>
 </tr>
 <tr>
-<th colspan="4">1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
 <th>2</th>
 <th>3</th>
 <th>4</th>
@@ -37,7 +40,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>IV. Кредиттер</td>
-<td>66 455 614</td>
+<td>69 037 814</td>
 <td>60 926 357</td>
 <td>65 601 202</td>
 </tr>
@@ -227,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>26 889 965</td>
+<td>29 472 165</td>
 <td>37 000 000</td>
 <td>40 000 000</td>
 </tr>
@@ -237,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Қазақстан Республикасы Өңірлік даму министрлігі</td>
-<td>26 889 965</td>
+<td>29 472 165</td>
 <td>37 000 000</td>
 <td>40 000 000</td>
 </tr>
@@ -247,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td>032</td>
 <td></td>
 <td>Облыстық бюджеттерге, Астана және Алматы қалаларының бюджеттеріне тұрғын үй жобалауға, салуға және (немесе) сатып алуға кредит беру</td>
-<td>26 889 965</td>
+<td>29 472 165</td>
 <td>37 000 000</td>
 <td>40 000 000</td>
 </tr>
@@ -267,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Ақмола облысы</td>
-<td>890 820</td>
+<td>989 800</td>
 <td>950 000</td>
 <td>1 437 500</td>
 </tr>
@@ -277,7 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Ақтөбе облысы</td>
-<td>3 000 000</td>
+<td>3 333 300</td>
 <td>3 170 000</td>
 <td>2 437 500</td>
 </tr>
@@ -287,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>524 662</td>
+<td>711 208</td>
 <td>1 905 000</td>
 <td>3 882 500</td>
 </tr>
@@ -297,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Атырау облысы</td>
-<td>2 361 167</td>
+<td>2 413 664</td>
 <td>3 170 000</td>
 <td>2 187 500</td>
 </tr>
@@ -307,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 552 169</td>
+<td>1 586 679</td>
 <td>3 170 000</td>
 <td>3 357 500</td>
 </tr>
@@ -317,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Жамбыл облысы</td>
-<td>251 164</td>
+<td>573 488</td>
 <td>845 000</td>
 <td>1 732 500</td>
 </tr>
@@ -327,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Батыс Қазақстан облысы</td>
-<td>1 416 688</td>
+<td>1 574 098</td>
 <td>1 905 000</td>
 <td>1 587 500</td>
 </tr>
@@ -337,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>1 800 000</td>
+<td>2 000 000</td>
 <td>1 905 000</td>
 <td>2 592 500</td>
 </tr>
@@ -347,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Қостанай облысы</td>
-<td>800 000</td>
+<td>888 900</td>
 <td>845 000</td>
 <td>1 032 500</td>
 </tr>
@@ -357,7 +360,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Қызылорда облысы</td>
-<td>1 800 000</td>
+<td>2 000 000</td>
 <td>1 905 000</td>
 <td>1 992 500</td>
 </tr>
@@ -377,7 +380,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Павлодар облысы</td>
-<td>693 295</td>
+<td>770 328</td>
 <td>950 000</td>
 <td>1 437 500</td>
 </tr>
@@ -387,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Солтүстік Қазақстан облысы</td>
-<td></td>
+<td>608 500</td>
 <td>635 000</td>
 <td>1 422 500</td>
 </tr>
@@ -397,7 +400,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Оңтүстік Қазақстан облысы</td>
-<td>1 000 000</td>
+<td>1 222 200</td>
 <td>1 055 000</td>
 <td>1 747 500</td>
 </tr>
@@ -487,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>V. Ұлттық Қордан бөлінген нысаналы трансферттер</td>
-<td>74 500 000</td>
+<td>114 500 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -497,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Көлiк және коммуникация</td>
-<td>30 000 000</td>
+<td>70 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -507,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Қазақстан Республикасы Көлiк және коммуникация министрлiгi</td>
-<td>30 000 000</td>
+<td>70 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -517,7 +520,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td>002</td>
 <td></td>
 <td>Республикалық деңгейде автомобиль жолдарын дамыту</td>
-<td>30 000 000</td>
+<td>70 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -527,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td>005</td>
 <td>Iшкі көздер есебінен</td>
-<td>30 000 000</td>
+<td>70 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -547,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td></td>
 <td>Өзгелер</td>
-<td>30 000 000</td>
+<td>70 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -558,6 +561,16 @@ source: https://zan.gov.kz/client/#!/doc/77438/kaz/11.03.2014
 <td></td>
 <td>Орталық-Шығыс «Астана - Павлодар - Қалбатау - Өскемен» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
 <td>30 000 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Орталық-Оңтүстік «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау</td>
+<td>40 000 000</td>
 <td></td>
 <td></td>
 </tr>
