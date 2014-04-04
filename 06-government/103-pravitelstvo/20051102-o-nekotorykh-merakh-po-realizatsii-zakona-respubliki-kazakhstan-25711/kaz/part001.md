@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25711/kaz/30.04.2013
+source: https://zan.gov.kz/client/#!/doc/25711/kaz/04.04.2014
 ---
 
 ## Балалы отбасыларға берілетін мемлекеттік жәрдемақыларды тағайындау және төлеу ережесі
