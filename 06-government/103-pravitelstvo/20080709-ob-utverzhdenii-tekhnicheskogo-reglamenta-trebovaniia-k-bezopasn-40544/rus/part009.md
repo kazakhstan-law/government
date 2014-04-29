@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/40544/rus/25.12.2013
+source: https://zan.gov.kz/client/#!/doc/40544/rus/29.04.2014
 ---
 
 ## Перечень Правил ЕЭК ООН, применяемых для целей настоящего Технического регламента
