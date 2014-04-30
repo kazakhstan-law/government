@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/39146/kaz/10.04.2014
+source: https://zan.gov.kz/client/#!/doc/39146/kaz/30.04.2014
 ---
 
 ## Қазақстан Республикасы Қаржы министрлiгi Салық комитетiнiң аумақтық органдары - мемлекеттiк мекемелерiнiң тiзбесi
