@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
+source: https://zan.gov.kz/client/#!/doc/76736/rus/04.05.2014
 ---
 
 ## Стратегический план Министерства финансов Республики Казахстан на 2014 – 2018 годы

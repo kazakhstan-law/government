@@ -1,9 +1,9 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
+source: https://zan.gov.kz/client/#!/doc/76736/rus/04.05.2014
 ---
 
-## Раздел 7. Бюджетные программы Бюджетные программы
+## Бюджетные программы
 
 <table>
 <tr>
@@ -122,7 +122,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>ед.</td>
 <td>6</td>
 <td>1</td>
-<td>2</td>
+<td>1</td>
 <td>1</td>
 <td>1</td>
 <td></td>
@@ -210,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>51 074 460</th>
 <th>51 120 935</th>
-<th>49 982 795</th>
+<th>50 212 501</th>
 <th>49 957 248</th>
 <th>49 957 248</th>
 <th></th>
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>орг.</td>
 <td>828</td>
 <td>632</td>
-<td>1111</td>
+<td>282</td>
 <td>1111</td>
 <td>1111</td>
 <td></td>
@@ -442,7 +442,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>орг.</td>
 <td>794</td>
 <td>632</td>
-<td>1111</td>
+<td>282</td>
 <td>1111</td>
 <td>1111</td>
 <td></td>
@@ -475,7 +475,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>78 230</th>
 <th>76 570</th>
-<th>131254</th>
+<th>35 128</th>
 <th>131 254</th>
 <th>131 254</th>
 <th></th>
@@ -602,7 +602,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>2 439 237</th>
 <th>2 313 096</th>
-<th>998 815</th>
+<th>1 207 717</th>
 <th>842 754</th>
 <th></th>
 <th></th>
@@ -839,7 +839,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>114 819</th>
 <th>125 075</th>
-<th>131 234</th>
+<th>131 646</th>
 <th>122 699</th>
 <th>122 699</th>
 <th></th>
@@ -966,7 +966,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th></th>
 <th>46 024 637</th>
-<th>59 090 308</th>
+<th>104 090 308</th>
 <th>58 593 740</th>
 <th>58 899 836</th>
 <th></th>
@@ -1093,7 +1093,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>292 284</th>
 <th>290 804</th>
-<th>296 560</th>
+<th>324 412</th>
 <th>290 278</th>
 <th>284 090</th>
 <th></th>
@@ -1165,7 +1165,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>%</td>
 <td></td>
 <td></td>
-<td>100</td>
+<td></td>
 <td>100</td>
 <td>100</td>
 <td></td>
@@ -1187,7 +1187,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>%</td>
 <td></td>
 <td></td>
-<td>100</td>
+<td></td>
 <td>100</td>
 <td>100</td>
 <td></td>
@@ -1220,7 +1220,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th></th>
 <th></th>
-<th>600 000</th>
+<th></th>
 <th>600 000</th>
 <th>600 000</th>
 <th></th>
@@ -1347,7 +1347,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>129 714 362</th>
 <th>178 248 466</th>
-<th>238 082 180</th>
+<th>251 657 901</th>
 <th>308 744 610</th>
 <th>344 840 778</th>
 <th></th>
@@ -1998,7 +1998,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>ед.</td>
 <td>54</td>
 <td>28</td>
-<td>14</td>
+<td>20</td>
 <td>4</td>
 <td>3</td>
 <td></td>
@@ -2031,7 +2031,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <td>ед.</td>
 <td>54</td>
 <td>28</td>
-<td>14</td>
+<td>20</td>
 <td>4</td>
 <td>3</td>
 <td></td>
@@ -2075,7 +2075,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>1 466 857</th>
 <th>1 617 328</th>
-<th>2 233 651</th>
+<th>2 454 063</th>
 <th>1 951 422</th>
 <th>1 809 881</th>
 <th></th>
@@ -2384,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/76736/rus/31.12.2013
 <th>тыс. тг.</th>
 <th>87 940</th>
 <th>83 262</th>
-<th>65 501</th>
+<th>65 664</th>
 <th>65 501</th>
 <th>65 501</th>
 <th></th>
