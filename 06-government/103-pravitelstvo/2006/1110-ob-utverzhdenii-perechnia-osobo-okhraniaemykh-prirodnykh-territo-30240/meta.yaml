@@ -11,10 +11,10 @@ approved_on: 2006-11-10
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2014-05-11
-  rus: 2014-05-11
+  kaz: 2014-05-13
+  rus: 2014-05-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/30240/kaz/11.05.2014
-  rus: https://zan.gov.kz/client/#!/doc/30240/rus/11.05.2014
+  kaz: https://zan.gov.kz/client/#!/doc/30240/kaz/13.05.2014
+  rus: https://zan.gov.kz/client/#!/doc/30240/rus/13.05.2014
 caused_by:
-  code: '79141'
+  code: '79844'
