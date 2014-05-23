@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72641/rus/17.05.2013
+source: https://zan.gov.kz/client/#!/doc/72641/rus/23.05.2014
 ---
 
 ## 2. Порядок деятельности организаций высшего и послевузовского образования

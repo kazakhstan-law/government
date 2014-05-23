@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/72641/kaz/17.05.2013
+source: https://zan.gov.kz/client/#!/doc/72641/kaz/23.05.2014
 ---
 
 ## 2. Жоғары және жоғары оқу орнынан кейінгі білім беру ұйымдары қызметінің тәртібі
