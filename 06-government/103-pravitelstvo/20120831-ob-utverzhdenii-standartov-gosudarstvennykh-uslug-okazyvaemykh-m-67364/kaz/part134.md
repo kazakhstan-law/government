@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67364/kaz/23.05.2014
+source: https://zan.gov.kz/client/#!/doc/67364/kaz/26.05.2014
 ---
 
 ## ҚОСЫМША БІЛІМ БЕРУ ҰЙЫМЫ МЕН БАЛАНЫҢ АТА-АНАСЫ АРАСЫНДАҒЫ ҮЛГІ ШАРТ
