@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/74418/rus/18.09.2013
+source: https://zan.gov.kz/client/#!/doc/74418/rus/27.05.2014
 ---
 
 # Об утверждении реестра государственных услуг
@@ -31,32 +31,32 @@ source: https://zan.gov.kz/client/#!/doc/74418/rus/18.09.2013
 | Часть | Название |
 |---|---|
 | [`part001`](rus/part001.md) | Реестр государственных услуг |
-| [`part001-t001`](rus/part001-t001.md) | таблица 1 |
+| [`part001-part002`](rus/part001-part002.md) | part001-part002 |
 | [`part001-t002`](rus/part001-t002.md) | таблица 2 |
 | [`part001-t003`](rus/part001-t003.md) | таблица 3 |
+| [`part001-part006`](rus/part001-part006.md) | part001-part006 |
 | [`part001-t004`](rus/part001-t004.md) | таблица 4 |
 | [`part001-part008`](rus/part001-part008.md) | part001-part008 |
-| [`part001-t005`](rus/part001-t005.md) | таблица 5 |
 | [`part001-part010`](rus/part001-part010.md) | part001-part010 |
 | [`part001-t006`](rus/part001-t006.md) | таблица 6 |
 | [`part001-part012`](rus/part001-part012.md) | part001-part012 |
-| [`part001-t007`](rus/part001-t007.md) | таблица 7 |
-| [`part001-part014`](rus/part001-part014.md) | part001-part014 |
+| [`part001-t008`](rus/part001-t008.md) | таблица 8 |
+| [`part001-part015`](rus/part001-part015.md) | part001-part015 |
 | [`part001-t009`](rus/part001-t009.md) | таблица 9 |
-| [`part001-part017`](rus/part001-part017.md) | part001-part017 |
 | [`part001-t010`](rus/part001-t010.md) | таблица 10 |
 | [`part001-t011`](rus/part001-t011.md) | таблица 11 |
 | [`part001-t012`](rus/part001-t012.md) | таблица 12 |
 | [`part001-t013`](rus/part001-t013.md) | таблица 13 |
+| [`part001-part022`](rus/part001-part022.md) | part001-part022 |
 | [`part001-t014`](rus/part001-t014.md) | таблица 14 |
-| [`part001-part024`](rus/part001-part024.md) | part001-part024 |
 | [`part001-t015`](rus/part001-t015.md) | таблица 15 |
 | [`part001-t016`](rus/part001-t016.md) | таблица 16 |
-| [`part001-t017`](rus/part001-t017.md) | таблица 17 |
+| [`part001-part027`](rus/part001-part027.md) | part001-part027 |
 | [`part001-t018`](rus/part001-t018.md) | таблица 18 |
 | [`part001-t019`](rus/part001-t019.md) | таблица 19 |
 | [`part001-t020`](rus/part001-t020.md) | таблица 20 |
-| [`part001-part034`](rus/part001-part034.md) | part001-part034 |
-| [`part001-t021`](rus/part001-t021.md) | таблица 21 |
-| [`part001-part036`](rus/part001-part036.md) | part001-part036 |
+| [`part001-part033`](rus/part001-part033.md) | part001-part033 |
+| [`part001-t022`](rus/part001-t022.md) | таблица 22 |
+| [`part001-part035`](rus/part001-part035.md) | part001-part035 |
+| [`part001-part037`](rus/part001-part037.md) | part001-part037 |
 | [`part002`](rus/part002.md) | Перечень утративших силу некоторых решений Правительства Республики Казахстан |
