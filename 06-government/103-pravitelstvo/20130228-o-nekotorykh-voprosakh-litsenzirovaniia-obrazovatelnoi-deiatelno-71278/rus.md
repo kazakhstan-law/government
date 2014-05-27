@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/71278/rus/28.02.2013
+source: https://zan.gov.kz/client/#!/doc/71278/rus/27.05.2014
 ---
 
 # О некоторых вопросах лицензирования образовательной деятельности
