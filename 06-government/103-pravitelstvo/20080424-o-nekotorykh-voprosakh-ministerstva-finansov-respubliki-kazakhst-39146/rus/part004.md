@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39146/rus/30.04.2014
+source: https://zan.gov.kz/client/#!/doc/39146/rus/28.05.2014
 ---
 
 ## 3. Организация деятельности Министерства финансов Республики Казахстан
