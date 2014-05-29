@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/72569/rus/29.05.2014
 ---
 
 <table>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>20</td>
-<td>22</td>
+<td>14</td>
 <td>15</td>
 <td>14</td>
 <td></td>
@@ -158,6 +158,61 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 </tr>
 <tr>
+<td>Разработка нормативно-технических документов для создания и ведения Государственного градостроительного кадастра Республики Казахстан</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Разработка и внедрение ситуационных моделей для аналитической системы генеральной схемы организации территории Республики Казахстан</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Корректировка (актуализация) Генеральной схемы организации территории Республики Казахстан с учетом Стратегии «Казахстан-2050»</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>11</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Разработка Региональной схемы развития территорий Астанинской агломерации</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>46</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Разработка Региональной схемы развития территорий Алматинской агломерации</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>47</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
 <td>показатели качества</td>
 <td></td>
 <td></td>
@@ -185,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>4 068 244</td>
-<td>5 235 584</td>
+<td>6 735 584</td>
 <td>4 154 762</td>
 <td>2 763 890</td>
 <td></td>
@@ -908,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>31</td>
-<td>-</td>
+<td>22</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -920,6 +975,17 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td>22</td>
 <td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Количество городов, где разрабатываются обоснования инвестиций систем водоснабжения и водоотведения</td>
+<td>ед.</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>22</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -941,7 +1007,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>51,6</td>
-<td>-</td>
+<td>3,9</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -974,7 +1040,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>28 679</td>
-<td>-</td>
+<td>6 818</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -985,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>1 520 000</td>
-<td>-</td>
+<td>150 000</td>
 <td>-</td>
 <td>-</td>
 <td></td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/72569/rus/29.05.2014
 ---
 
 <table>
@@ -218,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>265 525</td>
-<td>337 529</td>
+<td>323 166</td>
 <td>419 364</td>
 <td>514 442</td>
 <td></td>
@@ -298,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>7 244 667</td>
-<td>14 887 863</td>
+<td>9 367 079</td>
 <td>17 897 697</td>
 <td>19 648 594</td>
 <td></td>
@@ -865,7 +865,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>74 768</td>
-<td>81 848</td>
+<td>81 250</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1034,7 +1034,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>29 408 357</td>
-<td>26 889 965</td>
+<td>29 472 165</td>
 <td>37 000 000</td>
 <td>40 000 000</td>
 <td></td>
@@ -1112,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>2 056</td>
-<td>2 866</td>
+<td>3 380</td>
 <td>3 135</td>
 <td>3 011</td>
 <td></td>
@@ -1192,7 +1192,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>41 134 381</td>
-<td>57 307 162</td>
+<td>67 607 162</td>
 <td>62 705 959</td>
 <td>60 229 186</td>
 <td></td>
@@ -1270,7 +1270,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>100</td>
-<td>-</td>
+<td>100</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1292,7 +1292,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>3</td>
-<td>-</td>
+<td>3</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1336,7 +1336,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>1 083 188</td>
-<td>-</td>
+<td>127 143</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1347,7 +1347,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>846 727</td>
-<td>-</td>
+<td>119 267</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1358,7 +1358,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>666 814</td>
-<td>-</td>
+<td>451 689</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1369,7 +1369,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>2 596 729</td>
-<td>-</td>
+<td>698 099</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1447,7 +1447,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>136</td>
-<td>117</td>
+<td>114</td>
 <td>67</td>
 <td>41</td>
 <td></td>
@@ -1491,7 +1491,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>96</td>
-<td>70</td>
+<td>68</td>
 <td>49</td>
 <td>23</td>
 <td></td>
@@ -1568,7 +1568,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>357 903</td>
-<td>430 624</td>
+<td>472 658</td>
 <td>751 985</td>
 <td>1 228 853</td>
 <td></td>
@@ -1579,7 +1579,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>48 674 842</td>
-<td>50 383 000</td>
+<td>53 883 000</td>
 <td>50 383 000</td>
 <td>50 383 000</td>
 <td></td>
@@ -1801,7 +1801,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>190</td>
-<td>211,3</td>
+<td>222,6</td>
 <td>275</td>
 <td>275</td>
 <td></td>
@@ -1834,7 +1834,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>2 700</td>
-<td>3 019</td>
+<td>3 180</td>
 <td>3 900</td>
 <td>3 900</td>
 <td></td>
@@ -1856,7 +1856,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>3,6</td>
-<td>5,7</td>
+<td>5,8</td>
 <td>8,3</td>
 <td>11</td>
 <td></td>
@@ -1914,7 +1914,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>27 500 000</td>
-<td>37 237 909</td>
+<td>39 690 909</td>
 <td>50 000 000</td>
 <td>54 000 000</td>
 <td></td>
@@ -1989,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>65</td>
-<td>43</td>
+<td>57</td>
 <td>24</td>
 <td>8</td>
 <td></td>
@@ -2000,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>45</td>
-<td>17</td>
+<td>23</td>
 <td>16</td>
 <td>6</td>
 <td></td>
@@ -2011,7 +2011,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>6</td>
-<td>7</td>
+<td>14</td>
 <td>2</td>
 <td>1</td>
 <td></td>
@@ -2022,7 +2022,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>13</td>
-<td>19</td>
+<td>20</td>
 <td>6</td>
 <td>1</td>
 <td></td>
@@ -2044,7 +2044,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>1 096</td>
-<td>900</td>
+<td>662</td>
 <td>800</td>
 <td>300</td>
 <td></td>
@@ -2055,7 +2055,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>39</td>
-<td>39</td>
+<td>48</td>
 <td>18</td>
 <td>3</td>
 <td></td>
@@ -2168,7 +2168,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>14 618 140</td>
-<td>18 644 263</td>
+<td>20 806 535</td>
 <td>15 000 000</td>
 <td>15 000 000</td>
 <td></td>
@@ -2246,7 +2246,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>4</td>
-<td>3</td>
+<td>4</td>
 <td>3</td>
 <td>2</td>
 <td></td>
@@ -2312,7 +2312,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>6 777 906</td>
-<td>7 531 315</td>
+<td>9 805 770</td>
 <td>5 000 000</td>
 <td>5 000 000</td>
 <td></td>
@@ -2682,7 +2682,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <table>
 <tr>
 <td>Бюджетная программа</td>
-<td colspan="8">042 «Целевые трансферты на развитие областным бюджетам, бюджетам городов Астаны и Алматы на увеличение уставных капиталов специализированных региональных организаций»</td>
+<td colspan="8">042 «Целевые трансферты на развитие областным бюджетам, бюджетам городов Астаны и Алматы на увеличение уставных капиталов специализированных уполномоченных организаций»</td>
 </tr>
 <tr>
 <td>Описание</td>
@@ -2750,7 +2750,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>780</td>
+<td>634</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -2773,6 +2773,17 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td>-</td>
 <td>37 852</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Доля объектов кондоминиума, требующих капитального ремонта</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>22</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -2807,31 +2818,6 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Средняя стоимость капитального ремонта/м2</td>
-<td>тенге</td>
-<td></td>
-<td></td>
-<td>-</td>
-<td>3 623</td>
-<td>-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>объем бюджетных расходов</td>
-<td>
-тыс.
-тенге
-</td>
-<td></td>
-<td></td>
-<td>-</td>
-<td>12 000 000</td>
-<td>4 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -2905,7 +2891,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>1500</td>
-<td>872,9</td>
+<td>1 419</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2996,7 +2982,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>15 000 000</td>
-<td>8 729 000</td>
+<td>14 193 800</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3218,7 +3204,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>0,9242</td>
-<td>4,0313</td>
+<td>4,3362</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3229,7 +3215,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>8</td>
-<td>16</td>
+<td>18</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3240,7 +3226,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>1813,5</td>
-<td>5 072,27</td>
+<td>5 511,07</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3262,7 +3248,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>0,9242</td>
-<td>4,0313</td>
+<td>4,3362</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3273,7 +3259,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>8</td>
-<td>15</td>
+<td>17</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3306,7 +3292,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>70 242</td>
-<td>104 502</td>
+<td>133 199</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3320,7 +3306,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>561 939</td>
-<td>1 672 032</td>
+<td>2 397 577</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -3926,7 +3912,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <table>
 <tr>
 <td>Бюджетная программа</td>
-<td colspan="8">052 «Целевые текущие трансферты областным бюджетам на субсидирование стоимости услуг по подаче питьевой воды из особо важных локальных систем водоснабжения, являющихся безальтернативными источниками питьевого водоснабжения»</td>
+<td colspan="8">052 «Целевые текущие трансферты областным бюджетам на субсидирование стоимости услуг по подаче питьевой воды из особо важных локальных и групповых систем водоснабжения, являющихся безальтернативными источниками питьевого водоснабжения»</td>
 </tr>
 <tr>
 <td>Описание</td>
@@ -3989,12 +3975,12 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 </tr>
 <tr>
-<td>Системы водоснабжения, получающие субсидии (локальные водопроводы)</td>
+<td>Системы водоснабжения, получающие субсидии</td>
 <td>кол-во</td>
 <td></td>
 <td></td>
 <td>-</td>
-<td>424</td>
+<td>499</td>
 <td>424</td>
 <td>424</td>
 <td></td>
@@ -4005,7 +3991,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>927 768</td>
+<td>2 705 887</td>
 <td>927 768</td>
 <td>927 768</td>
 <td></td>
@@ -4016,7 +4002,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>460</td>
+<td>1 050</td>
 <td>460</td>
 <td>460</td>
 <td></td>
@@ -4027,7 +4013,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>16 376</td>
+<td>84 955</td>
 <td>16 368</td>
 <td>16 368</td>
 <td></td>
@@ -4049,7 +4035,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>4,4-97,8</td>
+<td>24,81-100</td>
 <td>4,4-97,8</td>
 <td>4,4-97,8</td>
 <td></td>
@@ -4082,7 +4068,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>1,8-1756,5</td>
+<td>13-1756,5</td>
 <td>1,8-1756,5</td>
 <td>1,8-1756,5</td>
 <td></td>
@@ -4093,9 +4079,354 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>1 503 300</td>
+<td>5 082 892</td>
 <td>1 500 000</td>
 <td>1 500 000</td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Бюджетная программа</td>
+<td colspan="8">054 «Увеличение уставного капитала АО «Фонд жилищно-коммунального хозяйства»</td>
+</tr>
+<tr>
+<td>Описание</td>
+<td colspan="8">Формирование уставного капитала акционерного общества «Фонд жилищно-коммунального хозяйства»</td>
+</tr>
+<tr>
+<td rowspan="3">вид бюджетной программы</td>
+<td colspan="3">в зависимости от содержания</td>
+<td colspan="5">осуществление бюджетных инвестиций</td>
+</tr>
+<tr>
+<td colspan="3">в зависимости от способа реализации</td>
+<td colspan="5">индивидуальная</td>
+</tr>
+<tr>
+<td colspan="3">текущая/развития</td>
+<td colspan="5">развития</td>
+</tr>
+<tr>
+<td rowspan="2">
+Наименование показателей
+бюджетной программы
+</td>
+<td rowspan="2">
+ед.
+изм.
+</td>
+<td colspan="2">
+отчетный
+период
+</td>
+<td colspan="4">плановый период</td>
+<td rowspan="2">
+Проектируемый
+2017 год
+</td>
+</tr>
+<tr>
+<th>
+2011
+год
+</th>
+<th>
+2012
+год
+</th>
+<th>
+2013
+год
+</th>
+<th>
+2014
+год
+</th>
+<th>
+2015
+год
+</th>
+<th>
+2016
+год
+</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>показатели прямого результата</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Установка общедомовых приборов учета тепловой энергии в городах республики</td>
+<td>ед.</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12 600</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели конечного результата</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Обеспечение оснащенности потребителей общедомовыми приборами учета тепловой энергии в городах республики</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48,8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели качества</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели эффективности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Средняя стоимость общедомового прибора учета тепловой энергии</td>
+<td>
+тыс.
+тенге
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>635</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>объем бюджетных расходов</td>
+<td>
+тыс.
+тенге
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>8 000 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Бюджетная программа</td>
+<td colspan="8">055 «Целевые трансферты на развитие бюджету Атырауской области на реализацию проектов в рамках XI Форума межрегионального сотрудничества Казахстана и России»</td>
+</tr>
+<tr>
+<td>Описание</td>
+<td colspan="8">Строительство здания «Салтанат Сарайы» в г. Атырау</td>
+</tr>
+<tr>
+<td rowspan="3">вид бюджетной программы</td>
+<td colspan="3">в зависимости от содержания</td>
+<td colspan="5">осуществление бюджетных инвестиций</td>
+</tr>
+<tr>
+<td colspan="3">в зависимости от способа реализации</td>
+<td colspan="5">индивидуальная</td>
+</tr>
+<tr>
+<td colspan="3">текущая/развития</td>
+<td colspan="5">развития</td>
+</tr>
+<tr>
+<td rowspan="2">
+Наименование показателей
+бюджетной программы
+</td>
+<td rowspan="2">
+ед.
+изм.
+</td>
+<td colspan="2">
+отчетный
+период
+</td>
+<td colspan="4">плановый период</td>
+<td rowspan="2">
+Проектируемый
+2017 год
+</td>
+</tr>
+<tr>
+<th>
+2011
+год
+</th>
+<th>
+2012
+год
+</th>
+<th>
+2013
+год
+</th>
+<th>
+2014
+год
+</th>
+<th>
+2015
+год
+</th>
+<th>
+2016
+год
+</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>показатели прямого результата</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Количество инвестиционных проектов</td>
+<td>шт.</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели конечного результата</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Обеспечение зданием для проведения торжественных мероприятий</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели качества</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Качество строительства в соответствии со СНиП, СН и утвержденной ПСД</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>показатели эффективности</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>объем бюджетных расходов</td>
+<td>
+тыс.
+тенге
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>929 492</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>

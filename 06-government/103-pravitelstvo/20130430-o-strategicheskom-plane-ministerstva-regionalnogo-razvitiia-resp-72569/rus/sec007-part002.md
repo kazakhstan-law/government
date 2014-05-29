@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/72569/rus/29.05.2014
 ---
 
 ## 7.2. Свод бюджетных расходов
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>385 983 101</td>
-<td>407 125 249</td>
+<td>448 127 489</td>
 <td>397 793 233</td>
 <td>396 911 080</td>
 <td></td>
@@ -49,7 +49,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>113 586 833</td>
-<td>95 256 714</td>
+<td>94 477 452</td>
 <td>84 275 183</td>
 <td>83 069 803</td>
 <td></td>
@@ -60,7 +60,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>272 396 268</td>
-<td>311 868 535</td>
+<td>353 650 037</td>
 <td>313 518 050</td>
 <td>313 841 277</td>
 <td></td>

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/72569/rus/29.05.2014
 ---
 
 <table>
@@ -239,7 +239,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>585 175</td>
-<td>549 138</td>
+<td>677 161</td>
 <td>375 648</td>
 <td>-</td>
 <td></td>
@@ -250,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>297 654</td>
-<td>298 227</td>
+<td>360 602</td>
 <td>281 712</td>
 <td>-</td>
 <td></td>
@@ -261,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>287 521</td>
-<td>250 911</td>
+<td>316 559</td>
 <td>93 936</td>
 <td>-</td>
 <td></td>
@@ -1138,7 +1138,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>65</td>
-<td>14</td>
+<td>100</td>
 <td>93</td>
 <td>93</td>
 <td></td>
@@ -1238,7 +1238,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>17 546 000</td>
-<td>15 546 000</td>
+<td>16 729 501</td>
 <td>15 546 000</td>
 <td>15 546 000</td>
 <td></td>
@@ -1316,9 +1316,9 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>28</td>
-<td>39</td>
-<td>39</td>
-<td>39</td>
+<td>41</td>
+<td>24</td>
+<td>24</td>
 <td></td>
 </tr>
 <tr>
@@ -1396,7 +1396,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>15 202 978</td>
-<td>14 980 000</td>
+<td>15 980 000</td>
 <td>15 000 000</td>
 <td>15 000 000</td>
 <td></td>
@@ -1564,7 +1564,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <table>
 <tr>
 <td>Бюджетная программа</td>
-<td colspan="8">017 «Реализация текущих мероприятий в рамках Программы развития моногородов на 2012 – 2020 годы»</td>
+<td colspan="8">017 «Целевые текущие трансферты областным бюджетам на реализацию текущих мероприятий в рамках Программы развития моногородов на 2012 – 2020 годы»</td>
 </tr>
 <tr>
 <td>Описание</td>
@@ -1927,7 +1927,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/rus/01.01.2014
 <td></td>
 <td></td>
 <td>8 188 944</td>
-<td>15 583 091</td>
+<td>16 816 774</td>
 <td>12 583 091</td>
 <td>12 583 091</td>
 <td></td>

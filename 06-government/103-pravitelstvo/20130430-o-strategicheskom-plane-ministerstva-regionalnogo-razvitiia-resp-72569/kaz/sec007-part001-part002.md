@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
+source: https://zan.gov.kz/client/#!/doc/72569/kaz/29.05.2014
 ---
 
 <table>
@@ -108,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2782</td>
-<td>1797</td>
+<td>1 022</td>
 <td>1797</td>
 <td>1797</td>
 <td></td>
@@ -119,7 +119,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2697</td>
-<td>3 600</td>
+<td>3 067</td>
 <td>4 000</td>
 <td>4 000</td>
 <td></td>
@@ -140,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 -
 </td>
 <td>
-1154/575
+1454/875
 -
 -
 </td>
@@ -193,7 +193,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1 298</td>
-<td>1 298</td>
+<td></td>
 <td>897</td>
 <td>-</td>
 <td></td>
@@ -204,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>3 305</td>
-<td>3014</td>
+<td>996</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -330,7 +330,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>81,4</td>
-<td>108</td>
+<td>202,7</td>
 <td>98,4</td>
 <td>98,4</td>
 <td></td>
@@ -340,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>90,7</td>
-<td>116,8</td>
+<td>124,7</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -350,22 +350,18 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>102,7</td>
-<td>101</td>
+<td>148,7</td>
 <td>-</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
-<td>2) нивелирлеу I –сынып II-сынып</td>
-<td>
-мың
-теңге/
-шаршы км
-</td>
+<td>2) нивелирлеу I, II сынып</td>
+<td>мың теңге/ қума км</td>
 <td></td>
 <td></td>
 <td>42,1</td>
-<td>61,2</td>
+<td>94,7</td>
 <td>65,2</td>
 <td>65,2</td>
 <td></td>
@@ -386,8 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 </td>
 <td>
 116,8
-81,8
-45
+31,4
 </td>
 <td>
 80
@@ -451,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2 333 141</td>
-<td>2 496 461</td>
+<td>2 558 543</td>
 <td>2 500 000</td>
 <td>2 500 000</td>
 <td></td>
@@ -563,7 +558,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>20</td>
-<td>22</td>
+<td>14</td>
 <td>15</td>
 <td>14</td>
 <td></td>
@@ -613,6 +608,61 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 </tr>
 <tr>
+<td>Қазақстан Республикасының Мемлекеттік қала құрылысы кадастрын құру және жүргізу үшін нормативтік-техникалық құжаттарды әзірлеу</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Қазақстан Республикасының аумағын ұйымдастырудың бас схемасының талдау жүйесіне арналған ахуалдық модельдерін әзірлеу және енгізу</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>100</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>«Қазақстан – 2050» Стратегиясын ескере отырып, Қазақстан Республикасының аумағын ұйымдастырудың бас схемасын түзету (өзектілендіру)</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>11</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Астана агломерациясы аумағын дамытудың өңірлік схемасын әзірлеу</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>46</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Алматы агломерациясы аумағын дамытудың өңірлік схемасын әзірлеу</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>47</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
 <td>сапа көрсеткіштері</td>
 <td></td>
 <td></td>
@@ -640,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>4 068 244</td>
-<td>5 235 584</td>
+<td>6 735 584</td>
 <td>4 154 762</td>
 <td>2 763 890</td>
 <td></td>
@@ -1345,7 +1395,18 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>31</td>
+<td>22</td>
 <td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>Сумен жабдықтау және су бұру жүйелеріне инвестициялардың негіздемелері әзірленетін қалалардың саны</td>
+<td>бірлік</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>22</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1378,7 +1439,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>51,6</td>
-<td>-</td>
+<td>3,9</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1411,7 +1472,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>28 679</td>
-<td>-</td>
+<td>6 818</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1422,7 +1483,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1 520 000</td>
-<td>-</td>
+<td>150 000</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -1638,7 +1699,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>265 525</td>
-<td>337 529</td>
+<td>323 166</td>
 <td>419 364</td>
 <td>514 442</td>
 <td></td>
@@ -1715,7 +1776,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>7 244 667</td>
-<td>14 887 863</td>
+<td>9 367 079</td>
 <td>17 897 697</td>
 <td>19 648 594</td>
 <td></td>
@@ -2276,7 +2337,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>74 768</td>
-<td>81 848</td>
+<td>81 250</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2442,7 +2503,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>29 408 357</td>
-<td>26 889 965</td>
+<td>29 472 165</td>
 <td>37 000 000</td>
 <td>40 000 000</td>
 <td></td>
@@ -2517,7 +2578,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2 056</td>
-<td>2 866</td>
+<td>3 380</td>
 <td>3 135</td>
 <td>3 011</td>
 <td></td>
@@ -2597,7 +2658,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>41 134 381</td>
-<td>57 307 162</td>
+<td>67 607 162</td>
 <td>62 705 959</td>
 <td>60 229 186</td>
 <td></td>
@@ -2672,7 +2733,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>100</td>
-<td>-</td>
+<td>100</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2694,7 +2755,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>3</td>
-<td>-</td>
+<td>3</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2738,7 +2799,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1 083 188</td>
-<td>-</td>
+<td>127 143</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2749,7 +2810,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>846 727</td>
-<td>-</td>
+<td>119 267</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2760,7 +2821,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>666 814</td>
-<td>-</td>
+<td>451 689</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2771,7 +2832,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2 596 729</td>
-<td>-</td>
+<td>698 099</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -2846,7 +2907,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>136</td>
-<td>117</td>
+<td>114</td>
 <td>67</td>
 <td>41</td>
 <td></td>
@@ -2890,7 +2951,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>96</td>
-<td>70</td>
+<td>68</td>
 <td>49</td>
 <td>23</td>
 <td></td>
@@ -2970,7 +3031,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>357 903</td>
-<td>430 624</td>
+<td>472 658</td>
 <td>751 985</td>
 <td>1 228 853</td>
 <td></td>
@@ -2984,7 +3045,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>48 674 842</td>
-<td>50 383 000</td>
+<td>53 883 000</td>
 <td>50 383 000</td>
 <td>50 383 000</td>
 <td></td>
@@ -3203,7 +3264,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>190</td>
-<td>211,3</td>
+<td>222,6</td>
 <td>275</td>
 <td>275</td>
 <td></td>
@@ -3236,7 +3297,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>2 700</td>
-<td>3019</td>
+<td>3 180</td>
 <td>3900</td>
 <td>3900</td>
 <td></td>
@@ -3258,7 +3319,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>3,6</td>
-<td>5,7</td>
+<td>5,8</td>
 <td>8,3</td>
 <td>11</td>
 <td></td>
@@ -3316,7 +3377,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>27 500 000</td>
-<td>37 237 909</td>
+<td>39 690 909</td>
 <td>50 000 000</td>
 <td>54 000 000</td>
 <td></td>
@@ -3391,7 +3452,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>65</td>
-<td>43</td>
+<td>57</td>
 <td>24</td>
 <td>8</td>
 <td></td>
@@ -3402,7 +3463,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>45</td>
-<td>17</td>
+<td>23</td>
 <td>16</td>
 <td>6</td>
 <td></td>
@@ -3413,7 +3474,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>6</td>
-<td>7</td>
+<td>14</td>
 <td>2</td>
 <td>1</td>
 <td></td>
@@ -3424,7 +3485,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>13</td>
-<td>19</td>
+<td>20</td>
 <td>6</td>
 <td>1</td>
 <td></td>
@@ -3446,7 +3507,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1 096</td>
-<td>900</td>
+<td>662</td>
 <td>800</td>
 <td>300</td>
 <td></td>
@@ -3457,7 +3518,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>39</td>
-<td>39</td>
+<td>48</td>
 <td>18</td>
 <td>3</td>
 <td></td>
@@ -3570,7 +3631,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>14 618 140</td>
-<td>18 644 263</td>
+<td>20 806 535</td>
 <td>15 000 000</td>
 <td>15 000 000</td>
 <td></td>
@@ -3645,7 +3706,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>4</td>
-<td>3</td>
+<td>4</td>
 <td>3</td>
 <td>2</td>
 <td></td>
@@ -3714,7 +3775,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>6 777 906</td>
-<td>7 531 315</td>
+<td>9 805 770</td>
 <td>5 000 000</td>
 <td>5 000 000</td>
 <td></td>
@@ -4081,7 +4142,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <table>
 <tr>
 <td>Бюджеттік бағдарлама</td>
-<td colspan="2">042 «Облыстық бюджеттерге, Астана және Алматы қалаларының бюджеттерiне мамандандырылған өңiрлiк ұйымдардың жарғылық капиталдарын ұлғайтуға берiлетiн нысаналы даму трансферттерi»</td>
+<td colspan="2">042 «Облыстық бюджеттерге, Астана және Алматы қалаларының бюджеттерiне мамандандырылған уәкілетті ұйымдардың жарғылық капиталдарын ұлғайтуға берілетін нысаналы даму трансферттері»</td>
 </tr>
 <tr>
 <td>Сипаттама</td>
@@ -4146,7 +4207,18 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>780</td>
+<td>634</td>
+<td>-</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Күрделі жөндеуді талап ететін кондоминиум объектілерінің үлесі</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>22</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -4203,17 +4275,6 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Күрделі жөндеудің/м2 орташа құны</td>
-<td>теңге</td>
-<td></td>
-<td></td>
-<td>-</td>
-<td>3 623</td>
-<td>-</td>
 <td></td>
 <td></td>
 </tr>
@@ -4301,7 +4362,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1500</td>
-<td>872,9</td>
+<td>1 419</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4389,7 +4450,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>15 000 000</td>
-<td>8 729 000</td>
+<td>14 193 800</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4605,18 +4666,18 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>0,9242</td>
-<td>4,0313</td>
+<td>4,3362</td>
 <td>-</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
-<td>Жылжымайтын мүлік обьектілерінің меншік иелеріне өтемақы төлеу</td>
+<td>Жылжымайтын мүлік объектілерінің меншік иелеріне өтемақы төлеу</td>
 <td>дана</td>
 <td></td>
 <td></td>
 <td>8</td>
-<td>16</td>
+<td>18</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4627,7 +4688,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>1813,5</td>
-<td>5 072,27</td>
+<td>5 511,07</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4649,7 +4710,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>0,9242</td>
-<td>4,0313</td>
+<td>4,3362</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4660,7 +4721,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>8</td>
-<td>15</td>
+<td>17</td>
 <td>-</td>
 <td>-</td>
 <td></td>
@@ -4693,7 +4754,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>70 242</td>
-<td>104 502</td>
+<td>133 199</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -4704,7 +4765,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>561 939</td>
-<td>1 672 032</td>
+<td>2 397 577</td>
 <td>-</td>
 <td></td>
 <td></td>
@@ -5300,7 +5361,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <table>
 <tr>
 <td>Бюджеттік бағдарлама</td>
-<td colspan="2">052 «Облыстық бюджеттерге, Астана және Алматы қалаларының бюджеттеріне ауыз сумен жабдықтаудың баламасыз көздері болып табылатын аса маңызды жергілікті сумен жабдықтау жүйеден ауыз су беру жөніндегі қызметтердің құнын субсидиялауға берілетін ағымдағы нысаналы трансферттер»</td>
+<td colspan="2">052 «Облыстық бюджеттерге баламасыз ауыз сумен жабдықтау көздері болып табылатын сумен жабдықтаудың аса маңызды жергілікті және топтық жүйелерінен ауыз су беру жөніндегі қызметтердің құнын субсидиялауға берілетін ағымдағы нысаналы трансферттер»</td>
 </tr>
 <tr>
 <td>Сипаттама</td>
@@ -5360,12 +5421,12 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 </tr>
 <tr>
-<td>Субсидия алатын сумен жабдықтау жүйелері (жергілікті су құбырлары)</td>
+<td>Субсидия алатын сумен жабдықтау жүйелері</td>
 <td>саны</td>
 <td></td>
 <td></td>
 <td>-</td>
-<td>424</td>
+<td>499</td>
 <td>424</td>
 <td>424</td>
 <td></td>
@@ -5376,7 +5437,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>927 768</td>
+<td>2 705 887</td>
 <td>927 768</td>
 <td>927 768</td>
 <td></td>
@@ -5387,7 +5448,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>460</td>
+<td>1 050</td>
 <td>460</td>
 <td>460</td>
 <td></td>
@@ -5398,7 +5459,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>16 376</td>
+<td>84 955</td>
 <td>16 368</td>
 <td>16 368</td>
 <td></td>
@@ -5420,7 +5481,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>4,4-97,8</td>
+<td>24,81-100</td>
 <td>4,4-97,8</td>
 <td>4,4-97,8</td>
 <td></td>
@@ -5453,7 +5514,7 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>1,8-1756,5</td>
+<td>13-1756,5</td>
 <td>1,8-1756,5</td>
 <td>1,8-1756,5</td>
 <td></td>
@@ -5464,9 +5525,285 @@ source: https://zan.gov.kz/client/#!/doc/72569/kaz/01.01.2014
 <td></td>
 <td></td>
 <td>-</td>
-<td>1 503 300</td>
+<td>5 082 892</td>
 <td>1 500 000</td>
 <td>1 500 000</td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Бюджеттік бағдарлама</td>
+<td colspan="8">054 «Тұрғын үй-коммуналдық шаруашылық қоры» АҚ жарғылық капиталын ұлғайту»</td>
+</tr>
+<tr>
+<td>Сипаттама</td>
+<td colspan="8">«Тұрғын үй-коммуналдық шаруашылық қоры» акционерлік қоғамының жарғылық капиталын қалыптастыру</td>
+</tr>
+<tr>
+<td rowspan="3">бюджеттік бағдарламаның түрі</td>
+<td colspan="3">мазмұнына қарай</td>
+<td colspan="5">бюджеттік инвестицияларды жүзеге асыру</td>
+</tr>
+<tr>
+<td colspan="3">іске асыру тәсіліне қарай</td>
+<td colspan="5">жеке</td>
+</tr>
+<tr>
+<td colspan="3">ағымдағы/даму</td>
+<td colspan="5">даму</td>
+</tr>
+<tr>
+<td rowspan="2">Бюджеттік бағдарлама көрсеткіштерінің атауы</td>
+<td rowspan="2">Өлшем бірлігі</td>
+<td colspan="2">есепті кезең</td>
+<td colspan="4">жоспарлы кезең</td>
+<td rowspan="2">Жобаланған 2017 жыл</td>
+</tr>
+<tr>
+<td>2011 жыл</td>
+<td>2012 жыл</td>
+<td>2013 жыл</td>
+<td>2014 жыл</td>
+<td>2015 жыл</td>
+<td>2016 жыл</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>тiкелей нәтиже көрсеткiштерi</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Республика қалаларында үйге ортақ жылу энергиясын есептеу аспаптарын орнату</td>
+<td>бірлік</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12 600</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>түпкілікті нәтиже көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Республика қалаларында үйге ортақ жылу энергиясын есептеу аспаптарымен тұтынушылардың жабдықталуын қамтамасыз ету</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>48,8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сапа көрсеткiштерi</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>тиiмдiлiк көрсеткiштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Үйге ортақ жылу энергиясын есептеу аспабының орташа құны</td>
+<td>мың теңге</td>
+<td></td>
+<td></td>
+<td></td>
+<td>635</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>бюджеттік шығыстардың көлемі</td>
+<td>мың теңге</td>
+<td></td>
+<td></td>
+<td></td>
+<td>8 000 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>Бюджеттік бағдарлама</td>
+<td colspan="8">055 «Атырау облысының бюджетіне Қазақстан мен Ресей арасындағы XI өңіраралық ынтымақтастық форумының шеңберінде жобаларды іске асыруға берілетін нысаналы даму трансферттері»</td>
+</tr>
+<tr>
+<td>Сипаттама</td>
+<td colspan="8">Атырау қаласында «Салтанат сарайы» ғимаратын салу</td>
+</tr>
+<tr>
+<td rowspan="3">бюджеттік бағдарламаның түрі</td>
+<td colspan="3">мазмұнына қарай</td>
+<td colspan="5">бюджеттік инвестицияларды жүзеге асыру</td>
+</tr>
+<tr>
+<td colspan="3">іске асыру тәсіліне қарай</td>
+<td colspan="5">жеке</td>
+</tr>
+<tr>
+<td colspan="3">ағымдағы/даму</td>
+<td colspan="5">даму</td>
+</tr>
+<tr>
+<td rowspan="2">Бюджеттік бағдарлама көрсеткіштерінің атауы</td>
+<td rowspan="2">Өлшем бірлігі</td>
+<td colspan="2">есепті кезең</td>
+<td colspan="4">жоспарлы кезең</td>
+<td rowspan="2">Жобаланған 2017 жыл</td>
+</tr>
+<tr>
+<td>2011 жыл</td>
+<td>2012 жыл</td>
+<td>2013 жыл</td>
+<td>2014 жыл</td>
+<td>2015 жыл</td>
+<td>2016 жыл</td>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+</tr>
+<tr>
+<td>тiкелей нәтиже көрсеткiштерi</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Инвестициялық жобалардың саны</td>
+<td>дана</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>түпкілікті нәтиже көрсеткіштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Салтанатты іс-шараларды өткізу үшін ғимаратпен қамтамасыз ету</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>сапа көрсеткiштерi</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ҚНжЕ-ге, ҚН-ге және бекітілген ЖСҚ-қа сәйкес құрылыстың сапасы</td>
+<td>%</td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>тиiмдiлiк көрсеткiштері</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>бюджеттік шығыстардың көлемі</td>
+<td>мың теңге</td>
+<td></td>
+<td></td>
+<td></td>
+<td>929 492</td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </table>
