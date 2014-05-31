@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67364/rus/26.05.2014
+source: https://zan.gov.kz/client/#!/doc/67364/rus/31.05.2014
 ---
 
 ## Таблица. Значения показателей качества и доступности
