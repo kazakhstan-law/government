@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/40073/kaz/17.10.2012
+source: https://zan.gov.kz/client/#!/doc/40073/kaz/03.06.2014
 ---
 
 ## Есірткі құралдарының, психотроптық заттар мен олардың прекурсорларының экспорты мен импорты

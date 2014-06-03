@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/40073/rus/17.10.2012
+source: https://zan.gov.kz/client/#!/doc/40073/rus/03.06.2014
 ---
 
 # О некоторых вопросах лицензирования экспорта и импорта товаров
