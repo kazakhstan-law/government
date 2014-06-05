@@ -1,5 +1,5 @@
 ---
-version_id: AI77330_1
+version_id: AI77330_3
 act_code: '77330'
 language: rus
 title: Об утверждении лимитов вылова рыбы и других водных животных в рыбохозяйственных водоемах с 15 февраля 2014 года по 15 февраля 2015 года
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2014-02-10
-version_date: 2014-02-10
+version_date: 2014-06-05
 registry_number: '77330'
-source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
+caused_by:
+  code: '32638'
+  title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 10 февраля 2014 года № 76 "Об утверждении лимитов вылова рыбы и других водных животных в рыбохозяйственных водоемах с 15 февраля 2014 года по 15 февраля 2015 года"
+  link: https://zan.gov.kz/client/#!/doc/32638/rus
+source: https://zan.gov.kz/client/#!/doc/77330/rus
 ---
 
 # Об утверждении лимитов вылова рыбы и других водных животных в рыбохозяйственных водоемах с 15 февраля 2014 года по 15 февраля 2015 года
@@ -23,9 +27,9 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 
 2. Настоящее постановление вводится в действие со дня его первого официального опубликования.
 
-Премьер-Министр
+**Премьер-Министр Республики Казахстан**
 
-Республики Казахстан С. АХМЕТОВ
+**С. АХМЕТОВ**
 
 > *Утверждены*  
 > *постановлением Правительства*  
@@ -33,6 +37,8 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 > *от 10 февраля 2014 года № 76*
 
 ## Лимиты вылова рыбы и других водных животных в рыбохозяйственных водоемах с 15 февраля 2014 года по 15 февраля 2015 года Урало-Каспийский бассейн
+
+> *Сноска. Лимиты с изменениями, внесенными постановлением Правительства РК от 05.06.2014 № 615.*
 
 (в тоннах)
 
@@ -741,7 +747,7 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <tr>
 <td>4</td>
 <td>Судак</td>
-<td>114,2*******</td>
+<td>500,0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -771,7 +777,7 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <tr>
 <td>10</td>
 <td>Итого*</td>
-<td>4 892,2</td>
+<td>5 392,2</td>
 </tr>
 </table>
 
@@ -2206,16 +2212,31 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <td>–</td>
 </tr>
 <tr>
+<td>22-1</td>
+<td>Река Улькаяк</td>
+<td>1,6</td>
+<td>-</td>
+<td>-</td>
+<td>0,6</td>
+<td>-</td>
+<td>-</td>
+<td>0,6</td>
+<td>0,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>23</td>
 <td>Итого*</td>
-<td>108,8</td>
+<td>110,4</td>
 <td>0,7</td>
 <td>39,1</td>
-<td>6,5</td>
+<td>7,1</td>
 <td>7,5</td>
 <td>16,3</td>
-<td>13,9</td>
-<td>15,7</td>
+<td>14,5</td>
+<td>16,1</td>
 <td>8,1</td>
 <td>0,9</td>
 <td>0,1</td>
@@ -2231,8 +2252,11 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 п/п
 </th>
 <th rowspan="2">Водоемы</th>
-<th colspan="8">Виды рыб и других водных животных</th>
-<th rowspan="2">Всего, тонн</th>
+<th colspan="7">Виды рыб и других водных животных</th>
+<th rowspan="2">
+Всего,
+тонн
+</th>
 </tr>
 <tr>
 <th>лещ</th>
@@ -2242,7 +2266,6 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <th>вобла</th>
 <th>сом</th>
 <th>судак</th>
-<th>окунь</th>
 </tr>
 <tr>
 <th>1</th>
@@ -2255,7 +2278,6 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <th>8</th>
 <th>9</th>
 <th>10</th>
-<th>11</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2267,21 +2289,55 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <td>1,0</td>
 <td>2,6</td>
 <td>1,4</td>
-<td>–</td>
 <td>8,9</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Итого*</td>
-<td>0,8</td>
-<td>0,9</td>
-<td>0,7</td>
-<td>1,5</td>
-<td>1,0</td>
-<td>2,6</td>
-<td>1,4</td>
-<td>–</td>
-<td>8,9</td>
+<td>Озера Райские</td>
+<td>0,04</td>
+<td>-</td>
+<td>0,34</td>
+<td>-</td>
+<td>0,14</td>
+<td>-</td>
+<td>2,93</td>
+<td>3,45</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Озеро Баклан</td>
+<td>0,55</td>
+<td>1,99</td>
+<td>0,32</td>
+<td>-</td>
+<td>1,8</td>
+<td>0,32</td>
+<td>0,42</td>
+<td>5,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Озеро Жиделиколь</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,13</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,13</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ИТОГО*</td>
+<td>1,39</td>
+<td>2,89</td>
+<td>1,36</td>
+<td>1,63</td>
+<td>2,94</td>
+<td>2,92</td>
+<td>4,75</td>
+<td>17,88</td>
 </tr>
 </table>
 
@@ -2697,19 +2753,65 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <td>220,0</td>
 </tr>
 <tr>
+<td>12-1</td>
+<td>Озеро Аккушик</td>
+<td>0,62</td>
+<td>-</td>
+<td>-</td>
+<td>0,29</td>
+<td>-</td>
+<td>0,19</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,14</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>12-2</td>
+<td>Пруд 4-го отделения</td>
+<td>1,223</td>
+<td>-</td>
+<td>-</td>
+<td>0,56</td>
+<td>-</td>
+<td>0,31</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,353</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>13</td>
 <td>Итого*</td>
-<td>410,17</td>
+<td>412,013</td>
 <td>4,125</td>
 <td>30,895</td>
-<td>20,92</td>
+<td>21,77</td>
 <td>17,15</td>
-<td>66,735</td>
+<td>67,235</td>
 <td>2,85</td>
 <td>5,125</td>
 <td>2,76</td>
 <td>4,47</td>
-<td>20,975</td>
+<td>21,468</td>
 <td>0,495</td>
 <td>0,435</td>
 <td>0,315</td>
@@ -3053,23 +3155,47 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <td>–</td>
 </tr>
 <tr>
+<td>9-1</td>
+<td>Водохранилище на балке Кончубай</td>
+<td>3,4</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>0,1</td>
+<td>-</td>
+<td>-</td>
+<td>0,2</td>
+<td>-</td>
+<td>3,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
 <td>10</td>
 <td>Итого*</td>
-<td>270,07</td>
+<td>273,47</td>
 <td>4,59</td>
 <td>9,2</td>
 <td>16,475</td>
 <td>7,183</td>
 <td>3,5</td>
-<td>49,799</td>
+<td>49,899</td>
 <td>37,862</td>
 <td>12,1</td>
-<td>20,506</td>
+<td>20,606</td>
 <td>14,736</td>
 <td>1,3</td>
-<td>23,31</td>
+<td>23,51</td>
 <td>5,1</td>
-<td>43,429</td>
+<td>46,429</td>
 <td>3,2</td>
 <td>4,6</td>
 <td>8,96</td>
@@ -3607,15 +3733,15 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 Прочие
 водоемы**
 </td>
-<td>52,479</td>
+<td>56,679</td>
 <td>–</td>
 <td>1,1</td>
-<td>3,1</td>
+<td>4,1</td>
 <td>–</td>
 <td>9,52</td>
 <td>0,1</td>
-<td>26,013</td>
-<td>7,094</td>
+<td>29,013</td>
+<td>7,294</td>
 <td>4,443</td>
 <td>0,5</td>
 <td>0,109</td>
@@ -3625,15 +3751,15 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <tr>
 <td>24</td>
 <td>Итого*</td>
-<td>342,087</td>
+<td>346,287</td>
 <td>2,0</td>
 <td>1,828</td>
-<td>8,335</td>
+<td>9,335</td>
 <td>39,357</td>
 <td>34,815</td>
 <td>2,771</td>
-<td>138,803</td>
-<td>38,448</td>
+<td>141,803</td>
+<td>38,648</td>
 <td>26,144</td>
 <td>2,627</td>
 <td>13,309</td>
@@ -5908,25 +6034,47 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <td>136,9</td>
 </tr>
 <tr>
+<td>11-1</td>
+<td>Озера Камбаш</td>
+<td>343,3</td>
+<td>-</td>
+<td>102,1</td>
+<td>88,1</td>
+<td>34,7</td>
+<td>-</td>
+<td>-</td>
+<td>33,8</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>14,0</td>
+<td>21,0</td>
+<td>-</td>
+<td>-</td>
+<td>41,4</td>
+<td>8,2</td>
+<td>-</td>
+</tr>
+<tr>
 <td>12</td>
 <td>Итого*</td>
-<td>829,76</td>
+<td>1173,06</td>
 <td>1,5</td>
-<td>141,0</td>
-<td>134,0</td>
-<td>86,0</td>
+<td>243,1</td>
+<td>222,1</td>
+<td>120,7</td>
 <td>14,0</td>
 <td>1,5</td>
-<td>60,0</td>
+<td>93,8</td>
 <td>10,5</td>
 <td>43,5</td>
 <td>29,5</td>
-<td>9,5</td>
-<td>13,5</td>
+<td>23,5</td>
+<td>34,5</td>
 <td>17,5</td>
 <td>14,0</td>
-<td>32,0</td>
-<td>1,5</td>
+<td>73,4</td>
+<td>9,7</td>
 <td>220,26</td>
 </tr>
 </table>
@@ -5937,7 +6085,10 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <tr>
 <th rowspan="2">№ п/п</th>
 <th rowspan="2">Водоемы</th>
-<th rowspan="2">Всего, тонн</th>
+<th rowspan="2">
+Всего,
+тонн
+</th>
 <th colspan="11">Виды рыб и других водных животных</th>
 </tr>
 <tr>
@@ -5972,258 +6123,290 @@ source: https://zan.gov.kz/client/#!/doc/77330/rus/10.02.2014
 <tr>
 <td>1</td>
 <td>Пойменные водоемы реки Иртыш</td>
-<td>64,248</td>
-<td>0,669</td>
-<td>18,687</td>
-<td>2,238</td>
-<td>3,224</td>
-<td>4,607</td>
-<td>13,158</td>
-<td>0,328</td>
-<td>1,379</td>
-<td>2,846</td>
-<td>17,112</td>
-<td>–</td>
+<td>73,448</td>
+<td>0,719</td>
+<td>19,687</td>
+<td>2,588</td>
+<td>-</td>
+<td>5,977</td>
+<td>14,348</td>
+<td>0,578</td>
+<td>1,429</td>
+<td>3,446</td>
+<td>18,342</td>
+<td>-</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Степные водоемы Павлодарской области</td>
 <td>6,446</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>0,79</td>
 <td>1,255</td>
 <td>0,375</td>
-<td>–</td>
+<td>-</td>
 <td>1,325</td>
 <td>0,631</td>
 <td>2,07</td>
-<td>–</td>
+<td>-</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Озеро Ащитакыр</td>
 <td>20,1</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>20,1</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Озеро Карасор</td>
 <td>37,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>37,0</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Озеро Борли</td>
 <td>121,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>121,0</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Озеро Жамантуз (Лебяжинский район)</td>
 <td>5,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>5,0</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Озеро Казы</td>
 <td>5,2</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>5,2</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Озеро Калатуз</td>
 <td>73,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>73,0</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Озеро Каракаска</td>
 <td>34,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>34,0</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Озеро Жамантуз (Актогайский район)</td>
 <td>36,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>36,0</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Озеро Кызылтуз (Лебяжинский район)</td>
 <td>4,8</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>4,8</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Озеро Сейтень</td>
 <td>90,4</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>90,4</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Озеро Туз (Баянаульский район)</td>
 <td>71,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>71,0</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Озеро Туз (Лебяжинский район)</td>
 <td>44,0</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>44,0</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Озеро Щарбакты</td>
 <td>65,2</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
-<td>–</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
 <td>65,2</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Итого*</td>
-<td>677,394</td>
-<td>0,669</td>
-<td>18,687</td>
-<td>2,238</td>
-<td>4,014</td>
-<td>5,862</td>
-<td>13,533</td>
-<td>0,328</td>
-<td>2,704</td>
-<td>3,477</td>
-<td>19,182</td>
-<td>606,7</td>
+<td>Озеро Айдарша</td>
+<td>5,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Озеро Бура</td>
+<td>39,0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>39,0</td>
+</tr>
+<tr>
+<td>18</td>
+<td>ИТОГО*</td>
+<td>730,594</td>
+<td>0,719</td>
+<td>19,687</td>
+<td>2,588</td>
+<td>7,124</td>
+<td>7,232</td>
+<td>14,723</td>
+<td>0,578</td>
+<td>2,754</td>
+<td>4,077</td>
+<td>20,412</td>
+<td>650,7</td>
 </tr>
 </table>
 
