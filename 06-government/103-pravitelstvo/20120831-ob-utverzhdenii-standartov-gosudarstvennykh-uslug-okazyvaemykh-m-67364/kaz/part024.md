@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67364/kaz/31.05.2014
+source: https://zan.gov.kz/client/#!/doc/67364/kaz/09.06.2014
 ---
 
 ## Халыққа қызмет көрсету орталықтарының тізімі
