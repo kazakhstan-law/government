@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/77438/rus/20.06.2014
+source: https://zan.gov.kz/client/#!/doc/77438/rus/28.06.2014
 ---
 
 <table>
