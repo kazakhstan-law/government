@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/78563/kaz/27.05.2014
+source: https://zan.gov.kz/client/#!/doc/78563/kaz/16.07.2014
 ---
 
 ## Қазақстан Республикасының Ұлттық Банкі Басқармасының күші жойылған қаулыларының тізбесі
