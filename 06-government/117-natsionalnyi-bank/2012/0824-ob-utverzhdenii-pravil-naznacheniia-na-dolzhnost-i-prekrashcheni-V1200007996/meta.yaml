@@ -30,10 +30,16 @@ versions:
   cause:
     code: '82963'
     key: V1400009700
+- date: 2014-07-16
+  languages:
+  - kaz
+  cause:
+    code: '82963'
+    key: V1400009700
 version_date:
-  rus: 2014-06-16
+  kaz: 2014-07-16
 source:
-  rus: https://zan.gov.kz/client/#!/doc/68112/rus/16.06.2014
+  kaz: https://zan.gov.kz/client/#!/doc/68112/kaz/16.07.2014
 caused_by:
   code: '82963'
   key: V1400009700
