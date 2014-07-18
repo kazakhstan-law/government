@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/12.06.2014
+source: https://zan.gov.kz/client/#!/doc/13764/rus/18.07.2014
 ---
 
 ## 6. Законотворческая деятельность Правительства
