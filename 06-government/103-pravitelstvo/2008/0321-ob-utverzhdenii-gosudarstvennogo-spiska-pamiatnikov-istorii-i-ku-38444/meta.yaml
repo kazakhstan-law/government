@@ -10,10 +10,15 @@ approved_on: 2008-03-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2010-07-03
-  rus: 2010-07-03
+  kaz: 2014-07-31
+  rus: 2014-07-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/38444/kaz/03.07.2010
-  rus: https://zan.gov.kz/client/#!/doc/38444/rus/03.07.2010
+  kaz: https://zan.gov.kz/client/#!/doc/38444/kaz/31.07.2014
+  rus: https://zan.gov.kz/client/#!/doc/38444/rus/31.07.2014
 caused_by:
-  code: P100000690_
+  code: '63533'
+  requisite: Постановление Правительства Республики Казахстан от 31 июля 2014 года № 846
+  title:
+    rus: О некоторых вопросах памятников истории и культуры республиканского и местного значений
+    kaz: Республикалық және жергілікті маңызы бар тарих және мәдениет ескерткіштерінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/63533/rus
