@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/75202/kaz/27.08.2013
+source: https://zan.gov.kz/client/#!/doc/75202/kaz/27.08.2014
 ---
 
 ## Шоғырландырылған қаржылық есептілікті жасау бойынша жұмыс кестелері
