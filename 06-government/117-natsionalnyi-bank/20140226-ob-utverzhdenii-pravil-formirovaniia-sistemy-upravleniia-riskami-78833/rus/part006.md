@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/78833/rus/26.02.2014
+source: https://zan.gov.kz/client/#!/doc/78833/rus/27.08.2014
 ---
 
 ## Минимальные требования к организации систем управления рисками, внутреннего контроля

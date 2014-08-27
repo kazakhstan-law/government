@@ -1,11 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25745/rus/26.02.2014
-repealed_on: 2015-01-01
-repealed_by:
-  code: '78833'
-  title: Об утверждении Правил формирования системы управления рисками и внутреннего контроля для банков второго уровня
-  link: https://zan.gov.kz/client/#!/doc/78833/rus
+source: https://zan.gov.kz/client/#!/doc/25745/rus/27.08.2014
 ---
 
 ## Дополнительные критерии требований к Инструкции

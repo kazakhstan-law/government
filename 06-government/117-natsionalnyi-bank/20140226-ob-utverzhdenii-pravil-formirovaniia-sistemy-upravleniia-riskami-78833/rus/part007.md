@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/78833/rus/26.02.2014
+source: https://zan.gov.kz/client/#!/doc/78833/rus/27.08.2014
 ---
 
 ## Перечень нормативных правовых актов Республики Казахстан, утративших силу

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/74811/rus/03.02.2014
+source: https://zan.gov.kz/client/#!/doc/74811/rus/27.08.2014
 ---
 
 ## Отчет о соблюдении (использовании) установленных лимитов инвестирования
