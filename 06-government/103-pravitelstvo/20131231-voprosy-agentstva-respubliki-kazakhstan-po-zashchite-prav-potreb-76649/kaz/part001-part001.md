@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76649/kaz/05.05.2014
+source: https://zan.gov.kz/client/#!/doc/76649/kaz/19.09.2014
 ---
 
 ## Қазақстан Республикасы Тұтынушылардың құқықтарын қорғау агенттігі туралы ереже

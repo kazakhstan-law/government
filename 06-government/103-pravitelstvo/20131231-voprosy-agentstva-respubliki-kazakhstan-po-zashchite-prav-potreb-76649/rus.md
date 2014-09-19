@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76649/rus/05.05.2014
+source: https://zan.gov.kz/client/#!/doc/76649/rus/19.09.2014
 ---
 
 # Вопросы Агентства Республики Казахстан по защите прав потребителей
