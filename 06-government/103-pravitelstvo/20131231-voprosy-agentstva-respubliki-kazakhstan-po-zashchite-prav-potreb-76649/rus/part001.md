@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76649/rus/19.09.2014
+source: https://zan.gov.kz/client/#!/doc/76649/rus/23.09.2014
 ---
 
 ## Положение об Агентстве Республики Казахстан по защите прав потребителей
