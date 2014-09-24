@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/22636/rus/26.06.2012
+source: https://zan.gov.kz/client/#!/doc/22636/rus/24.09.2014
 ---
 
 ## Отчет о вкладах и текущих, корреспондентских счетах

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/22636/kaz/26.06.2012
+source: https://zan.gov.kz/client/#!/doc/22636/kaz/24.09.2014
 ---
 
 ## Банк операцияларының жекелеген түрлерін жүзеге асыратын ұйымдардың есеп беру ережесі

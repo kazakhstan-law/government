@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/27029/kaz/26.03.2012
+source: https://zan.gov.kz/client/#!/doc/27029/kaz/24.09.2014
 ---
 
 ## Ипотекалық ұйымдардың есеп беру ережесі
