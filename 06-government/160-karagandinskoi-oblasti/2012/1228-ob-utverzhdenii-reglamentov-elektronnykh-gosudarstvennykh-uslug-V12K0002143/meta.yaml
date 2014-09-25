@@ -21,9 +21,13 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2014-09-25
+  languages:
+  - kaz
+  - rus
 version_date:
-  kaz: 2014-07-29
-  rus: 2014-07-29
+  kaz: 2014-09-25
+  rus: 2014-09-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/70608/kaz/29.07.2014
-  rus: https://zan.gov.kz/client/#!/doc/70608/rus/29.07.2014
+  kaz: https://zan.gov.kz/client/#!/doc/70608/kaz/25.09.2014
+  rus: https://zan.gov.kz/client/#!/doc/70608/rus/25.09.2014
