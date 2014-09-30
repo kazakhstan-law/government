@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57322/rus/10.02.2011
+source: https://zan.gov.kz/client/#!/doc/57322/rus/30.09.2014
 ---
 
 ## 2.1.8. Эксплуатация добывающих и нагнетательных скважин

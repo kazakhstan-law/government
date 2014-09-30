@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57322/kaz/10.02.2011
+source: https://zan.gov.kz/client/#!/doc/57322/kaz/30.09.2014
 ---
 
 ## 2.1.8. Өндiру және айдамалау ұңғымаларын пайдалану
