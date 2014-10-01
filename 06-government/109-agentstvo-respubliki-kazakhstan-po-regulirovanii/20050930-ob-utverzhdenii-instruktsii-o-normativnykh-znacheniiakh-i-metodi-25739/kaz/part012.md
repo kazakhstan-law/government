@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25739/kaz/16.07.2014
+source: https://zan.gov.kz/client/#!/doc/25739/kaz/01.10.2014
 ---
 
 ## 7. Қорытынды ережелер
