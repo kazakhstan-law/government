@@ -1,5 +1,5 @@
 ---
-version_id: '33153_196905'
+version_id: AI33153_1
 act_code: '33153'
 language: kaz
 title: Құрманғазы және Махамбет аудандарының кейбір әкімшілік-аумақтық бірліктерін қайта атау туралы
@@ -12,9 +12,9 @@ approved_by:
 - '156000000001'
 - '156000000002'
 approval_date: 2007-04-06
-version_date: 2007-04-06
+version_date: 2014-10-10
 registry_number: '33153'
-source: https://zan.gov.kz/client/#!/doc/33153/kaz/06.04.2007
+source: https://zan.gov.kz/client/#!/doc/33153/kaz
 ---
 
 # Құрманғазы және Махамбет аудандарының кейбір әкімшілік-аумақтық бірліктерін қайта атау туралы

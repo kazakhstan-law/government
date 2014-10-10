@@ -1,5 +1,5 @@
 ---
-version_id: '39027_166445'
+version_id: AI39027_3
 act_code: '39027'
 language: rus
 title: О переименовании некоторых административно-территориальных единиц Исатайского района
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '156000000001'
 approval_date: 2008-04-10
-version_date: 2008-04-11
+version_date: 2014-10-10
 registry_number: '39027'
-source: https://zan.gov.kz/client/#!/doc/39027/rus/11.04.2008
+source: https://zan.gov.kz/client/#!/doc/39027/rus
 ---
 
 # О переименовании некоторых административно-территориальных единиц Исатайского района

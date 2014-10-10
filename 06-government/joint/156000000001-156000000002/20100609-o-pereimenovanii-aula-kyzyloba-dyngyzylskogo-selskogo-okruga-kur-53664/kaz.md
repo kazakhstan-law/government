@@ -1,5 +1,5 @@
 ---
-version_id: '53664_173162'
+version_id: AI53664_2
 act_code: '53664'
 language: kaz
 title: Құрманғазы ауданы Дыңғызыл селолық округінің Қызылоба ауылын Ғизат Әліпов ауылы деп қайта атау туралы
@@ -12,9 +12,9 @@ approved_by:
 - '156000000001'
 - '156000000002'
 approval_date: 2010-06-09
-version_date: 2010-06-09
+version_date: 2014-10-10
 registry_number: '53664'
-source: https://zan.gov.kz/client/#!/doc/53664/kaz/09.06.2010
+source: https://zan.gov.kz/client/#!/doc/53664/kaz
 ---
 
 # Құрманғазы ауданы Дыңғызыл селолық округінің Қызылоба ауылын Ғизат Әліпов ауылы деп қайта атау туралы

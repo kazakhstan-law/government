@@ -1,5 +1,5 @@
 ---
-version_id: '39027_166444'
+version_id: AI39027_2
 act_code: '39027'
 language: kaz
 title: Исатай ауданының кейбір әкімшілік-аумақтық бірліктерін қайта атау туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '156000000001'
 approval_date: 2008-04-10
-version_date: 2008-04-10
+version_date: 2014-10-10
 registry_number: '39027'
-source: https://zan.gov.kz/client/#!/doc/39027/kaz/10.04.2008
+source: https://zan.gov.kz/client/#!/doc/39027/kaz
 ---
 
 # Исатай ауданының кейбір әкімшілік-аумақтық бірліктерін қайта атау туралы
