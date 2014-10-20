@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/37001/kaz/16.10.2014
+source: https://zan.gov.kz/client/#!/doc/37001/kaz/20.10.2014
 ---
 
 ## Республикалық мемлекеттік қазыналық кәсіпорындар
