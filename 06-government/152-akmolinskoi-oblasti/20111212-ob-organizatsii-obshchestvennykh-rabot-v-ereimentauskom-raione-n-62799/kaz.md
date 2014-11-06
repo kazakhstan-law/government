@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/62799/kaz/18.05.2012
+source: https://zan.gov.kz/client/#!/doc/62799/kaz/06.11.2014
 ---
 
 # 2012 жылға Ерейментау ауданында қоғамдық жұмыстарды ұйымдастыру туралы

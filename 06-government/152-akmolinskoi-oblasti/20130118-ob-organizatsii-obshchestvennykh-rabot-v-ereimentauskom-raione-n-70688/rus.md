@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/70688/rus/18.01.2013
+source: https://zan.gov.kz/client/#!/doc/70688/rus/06.11.2014
 ---
 
 # Об организации общественных работ в Ерейментауском районе на 2013 год
