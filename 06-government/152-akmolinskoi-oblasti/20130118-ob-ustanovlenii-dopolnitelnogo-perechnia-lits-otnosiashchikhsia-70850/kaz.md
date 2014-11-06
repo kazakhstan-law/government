@@ -1,5 +1,5 @@
 ---
-version_id: '70850_185688'
+version_id: AI70850_2
 act_code: '70850'
 language: kaz
 title: 2013 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын, тұлғалардың қосымша тізбелерін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2013-01-18
-version_date: 2013-01-18
+version_date: 2014-11-06
 registry_number: '70850'
-source: https://zan.gov.kz/client/#!/doc/70850/kaz/18.01.2013
+source: https://zan.gov.kz/client/#!/doc/70850/kaz
 ---
 
 # 2013 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын, тұлғалардың қосымша тізбелерін белгілеу туралы

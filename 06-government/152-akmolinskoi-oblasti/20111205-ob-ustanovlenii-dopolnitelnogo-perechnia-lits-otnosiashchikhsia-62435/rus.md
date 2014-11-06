@@ -1,5 +1,5 @@
 ---
-version_id: '62435_195282'
+version_id: AI62435_3
 act_code: '62435'
 language: rus
 title: Об установлении дополнительного перечня лиц относящихся к целевым группам населения Ерейментауского района на 2012 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-12-05
-version_date: 2011-12-05
+version_date: 2014-11-06
 registry_number: '62435'
-source: https://zan.gov.kz/client/#!/doc/62435/rus/05.12.2011
+source: https://zan.gov.kz/client/#!/doc/62435/rus
 ---
 
 # Об установлении дополнительного перечня лиц относящихся к целевым группам населения Ерейментауского района на 2012 год

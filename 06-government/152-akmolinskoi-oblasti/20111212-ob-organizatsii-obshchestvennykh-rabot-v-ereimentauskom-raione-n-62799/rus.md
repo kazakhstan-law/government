@@ -1,5 +1,5 @@
 ---
-version_id: '62799_195289'
+version_id: AI62799_5
 act_code: '62799'
 language: rus
 title: Об организации общественных работ в Ерейментауском районе на 2012 год
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-12-12
-version_date: 2012-05-18
+version_date: 2014-11-06
 registry_number: '62799'
-caused_by:
-  code: '65925'
-  title: О внесении изменений в постановление акимата Ерейментауского района от 12 декабря 2011 года № А-12/429 "Об организации общественных работ в Ерейментауском районе на 2012 год"
-  link: https://zan.gov.kz/client/#!/doc/65925/rus
-source: https://zan.gov.kz/client/#!/doc/62799/rus/18.05.2012
+source: https://zan.gov.kz/client/#!/doc/62799/rus
 ---
 
 # Об организации общественных работ в Ерейментауском районе на 2012 год

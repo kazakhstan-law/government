@@ -1,5 +1,5 @@
 ---
-version_id: '58048_195178'
+version_id: AI58048_2
 act_code: '58048'
 language: kaz
 title: 2011 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбелерін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-03-04
-version_date: 2011-03-04
+version_date: 2014-11-06
 registry_number: '58048'
-source: https://zan.gov.kz/client/#!/doc/58048/kaz/04.03.2011
+source: https://zan.gov.kz/client/#!/doc/58048/kaz
 ---
 
 # 2011 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбелерін белгілеу туралы

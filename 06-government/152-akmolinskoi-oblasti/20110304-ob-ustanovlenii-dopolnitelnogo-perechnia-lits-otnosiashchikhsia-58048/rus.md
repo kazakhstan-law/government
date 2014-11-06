@@ -1,5 +1,5 @@
 ---
-version_id: '58048_195179'
+version_id: AI58048_3
 act_code: '58048'
 language: rus
 title: Об установлении дополнительного перечня лиц относящихся к целевым группам населения Ерейментауского района на 2011 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-03-04
-version_date: 2011-03-04
+version_date: 2014-11-06
 registry_number: '58048'
-source: https://zan.gov.kz/client/#!/doc/58048/rus/04.03.2011
+source: https://zan.gov.kz/client/#!/doc/58048/rus
 ---
 
 # Об установлении дополнительного перечня лиц относящихся к целевым группам населения Ерейментауского района на 2011 год

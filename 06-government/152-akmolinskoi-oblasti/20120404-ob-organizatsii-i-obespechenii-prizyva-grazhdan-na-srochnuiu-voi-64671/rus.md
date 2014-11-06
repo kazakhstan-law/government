@@ -1,5 +1,5 @@
 ---
-version_id: '64671_191283'
+version_id: AI64671_3
 act_code: '64671'
 language: rus
 title: Об организации и обеспечении призыва граждан на срочную воинскую службу в апреле-июне и октябре-декабре 2012 года
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2012-04-04
-version_date: 2012-04-04
+version_date: 2014-11-06
 registry_number: '64671'
-source: https://zan.gov.kz/client/#!/doc/64671/rus/04.04.2012
+source: https://zan.gov.kz/client/#!/doc/64671/rus
 ---
 
 # Об организации и обеспечении призыва граждан на срочную воинскую службу в апреле-июне и октябре-декабре 2012 года

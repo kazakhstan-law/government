@@ -1,5 +1,5 @@
 ---
-version_id: '62799_195288'
+version_id: AI62799_4
 act_code: '62799'
 language: kaz
 title: 2012 жылға Ерейментау ауданында қоғамдық жұмыстарды ұйымдастыру туралы
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-12-12
-version_date: 2012-05-18
+version_date: 2014-11-06
 registry_number: '62799'
-caused_by:
-  code: '65925'
-  title: Ерейментау ауданының 2011 жылғы 12 желтоқсандағы № А-12/429 "2012 жылға Ерейментау ауданында қоғамдық жұмыстарды ұйымдастыру туралы" қаулысына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/65925/kaz
-source: https://zan.gov.kz/client/#!/doc/62799/kaz/18.05.2012
+source: https://zan.gov.kz/client/#!/doc/62799/kaz
 ---
 
 # 2012 жылға Ерейментау ауданында қоғамдық жұмыстарды ұйымдастыру туралы

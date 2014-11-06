@@ -1,5 +1,5 @@
 ---
-version_id: '62435_195281'
+version_id: AI62435_2
 act_code: '62435'
 language: kaz
 title: 2012 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбелерін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-12-05
-version_date: 2011-12-05
+version_date: 2014-11-06
 registry_number: '62435'
-source: https://zan.gov.kz/client/#!/doc/62435/kaz/05.12.2011
+source: https://zan.gov.kz/client/#!/doc/62435/kaz
 ---
 
 # 2012 жылға Ерейментау ауданындағы халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбелерін белгілеу туралы

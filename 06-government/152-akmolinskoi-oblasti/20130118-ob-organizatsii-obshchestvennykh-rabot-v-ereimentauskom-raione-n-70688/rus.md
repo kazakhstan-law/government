@@ -1,5 +1,5 @@
 ---
-version_id: '70688_185698'
+version_id: AI70688_3
 act_code: '70688'
 language: rus
 title: Об организации общественных работ в Ерейментауском районе на 2013 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2013-01-18
-version_date: 2013-01-18
+version_date: 2014-11-06
 registry_number: '70688'
-source: https://zan.gov.kz/client/#!/doc/70688/rus/18.01.2013
+source: https://zan.gov.kz/client/#!/doc/70688/rus
 ---
 
 # Об организации общественных работ в Ерейментауском районе на 2013 год

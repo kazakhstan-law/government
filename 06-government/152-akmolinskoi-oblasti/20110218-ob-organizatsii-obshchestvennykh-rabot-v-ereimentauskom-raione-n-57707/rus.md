@@ -1,5 +1,5 @@
 ---
-version_id: '57707_195138'
+version_id: AI57707_3
 act_code: '57707'
 language: rus
 title: Об организации общественных работ в Ерейментауском районе на 2011 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152011000001'
 approval_date: 2011-02-18
-version_date: 2011-02-18
+version_date: 2014-11-06
 registry_number: '57707'
-source: https://zan.gov.kz/client/#!/doc/57707/rus/18.02.2011
+source: https://zan.gov.kz/client/#!/doc/57707/rus
 ---
 
 # Об организации общественных работ в Ерейментауском районе на 2011 год
