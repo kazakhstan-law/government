@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/1807/rus/10.07.2013
+source: https://zan.gov.kz/client/#!/doc/1807/rus/13.11.2014
 ---
 
 ## Части документа

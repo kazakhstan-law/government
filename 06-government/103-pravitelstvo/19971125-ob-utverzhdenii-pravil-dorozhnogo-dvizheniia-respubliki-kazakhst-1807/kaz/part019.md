@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/1807/kaz/10.07.2013
+source: https://zan.gov.kz/client/#!/doc/1807/kaz/13.11.2014
 ---
 
 ## Реттелмейтiн көше қиылыстары
