@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/24486/rus/15.08.2014
+source: https://zan.gov.kz/client/#!/doc/24486/rus/20.11.2014
 ---
 
 ## Положение о Министерстве внутренних дел Республики Казахстан
