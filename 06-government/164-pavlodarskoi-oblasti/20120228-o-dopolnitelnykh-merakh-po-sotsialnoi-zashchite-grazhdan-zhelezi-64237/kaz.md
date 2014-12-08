@@ -1,5 +1,5 @@
 ---
-version_id: '64237_191284'
+version_id: AI64237_2
 act_code: '64237'
 language: kaz
 title: 2012 жылы Железин ауданының азаматтарын жұмыспен қамту саласында әлеуметтік қорғау бойынша қосымша шаралар туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '164006000001'
 approval_date: 2012-02-28
-version_date: 2012-02-28
+version_date: 2014-12-08
 registry_number: '64237'
-source: https://zan.gov.kz/client/#!/doc/64237/kaz/28.02.2012
+source: https://zan.gov.kz/client/#!/doc/64237/kaz
 ---
 
 # 2012 жылы Железин ауданының азаматтарын жұмыспен қамту саласында әлеуметтік қорғау бойынша қосымша шаралар туралы

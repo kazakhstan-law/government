@@ -1,5 +1,5 @@
 ---
-version_id: '64237_191285'
+version_id: AI64237_3
 act_code: '64237'
 language: rus
 title: О дополнительных мерах по социальной защите граждан Железинского района в сфере занятости в 2012 году
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '164006000001'
 approval_date: 2012-02-28
-version_date: 2012-02-28
+version_date: 2014-12-08
 registry_number: '64237'
-source: https://zan.gov.kz/client/#!/doc/64237/rus/28.02.2012
+source: https://zan.gov.kz/client/#!/doc/64237/rus
 ---
 
 # О дополнительных мерах по социальной защите граждан Железинского района в сфере занятости в 2012 году
