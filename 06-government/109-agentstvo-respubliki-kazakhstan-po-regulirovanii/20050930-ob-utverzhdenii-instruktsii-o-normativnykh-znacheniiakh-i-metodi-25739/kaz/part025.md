@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25739/kaz/21.11.2014
+source: https://zan.gov.kz/client/#!/doc/25739/kaz/24.12.2014
 ---
 
 ## 200__ жылғы "___"_________ ұлттық валютамен активтердiң және мiндеттемелердiң мерзiмдерiн салыстыру кестесi
