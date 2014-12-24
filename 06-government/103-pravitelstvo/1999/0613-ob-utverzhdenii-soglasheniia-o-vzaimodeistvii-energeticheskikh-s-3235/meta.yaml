@@ -10,8 +10,15 @@ approved_on: 1999-06-13
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 1999-06-13
-  rus: 1999-06-13
+  kaz: 2014-12-24
+  rus: 2014-12-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/3235/kaz/13.06.1999
-  rus: https://zan.gov.kz/client/#!/doc/3235/rus/13.06.1999
+  kaz: https://zan.gov.kz/client/#!/doc/3235/kaz/24.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/3235/rus/24.12.2014
+caused_by:
+  code: '85245'
+  requisite: Закон Республики Казахстан от 24 декабря 2014 года № 266-V ЗРК
+  title:
+    rus: О ратификации Договора о прекращении деятельности Евразийского экономического сообщества
+    kaz: Еуразиялық экономикалық қоғамдастықтың қызметін тоқтату туралы шартты ратификациялау туралы
+  link: https://zan.gov.kz/client/#!/doc/85245/rus
