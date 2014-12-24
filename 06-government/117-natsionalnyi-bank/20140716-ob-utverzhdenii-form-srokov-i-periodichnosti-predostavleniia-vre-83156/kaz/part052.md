@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83156/kaz/16.07.2014
+source: https://zan.gov.kz/client/#!/doc/83156/kaz/24.12.2014
 ---
 
 ## 2. Есеп нысанын толтыру бойынша түсіндірме
