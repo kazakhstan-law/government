@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/11.08.2014
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/30.12.2014
 ---
 
 ## 4.8. Үкіметтің қаулыларын (Премьер-Министрдің өкімдерін) тіркеу және есепке алу

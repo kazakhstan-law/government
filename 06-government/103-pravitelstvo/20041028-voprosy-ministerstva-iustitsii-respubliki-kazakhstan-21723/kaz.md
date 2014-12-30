@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/26.12.2014
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/30.12.2014
 ---
 
 # Қазақстан Республикасы Әділет министрлігінің мәселелерi

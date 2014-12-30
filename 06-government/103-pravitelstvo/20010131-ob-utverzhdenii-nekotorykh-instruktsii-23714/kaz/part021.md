@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23714/kaz/11.08.2014
+source: https://zan.gov.kz/client/#!/doc/23714/kaz/30.12.2014
 ---
 
 ## Премьер-Министр Кеңсесінде тіркеуге жатпайтын құжаттардың ТІЗБЕСІ
