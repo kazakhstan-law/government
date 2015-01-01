@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60141/rus/04.12.2013
+source: https://zan.gov.kz/client/#!/doc/60141/rus/01.01.2015
 ---
 
 ## § 16. Особенности перевозок пакетированных грузов
