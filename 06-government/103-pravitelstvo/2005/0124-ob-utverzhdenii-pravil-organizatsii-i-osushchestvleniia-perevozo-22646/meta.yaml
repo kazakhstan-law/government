@@ -10,11 +10,11 @@ approved_on: 2005-01-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-12-24
-  rus: 2013-12-24
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/22646/kaz/24.12.2013
-  rus: https://zan.gov.kz/client/#!/doc/22646/rus/24.12.2013
+  kaz: https://zan.gov.kz/client/#!/doc/22646/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/22646/rus/01.01.2015
 caused_by:
   code: '76135'
   requisite: Постановление Правительства Республики Казахстан от 24 декабря 2013 года № 1390
