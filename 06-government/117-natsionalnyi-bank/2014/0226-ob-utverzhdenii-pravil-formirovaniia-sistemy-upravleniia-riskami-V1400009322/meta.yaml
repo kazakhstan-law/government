@@ -24,12 +24,19 @@ versions:
   cause:
     code: '83955'
     key: V14Y0009796
+- date: 2015-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '83955'
+    key: V14Y0009796
 version_date:
-  kaz: 2014-08-27
-  rus: 2014-08-27
+  kaz: 2015-01-01
+  rus: 2015-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/78833/kaz/27.08.2014
-  rus: https://zan.gov.kz/client/#!/doc/78833/rus/27.08.2014
+  kaz: https://zan.gov.kz/client/#!/doc/78833/kaz/01.01.2015
+  rus: https://zan.gov.kz/client/#!/doc/78833/rus/01.01.2015
 caused_by:
   code: '83955'
   key: V14Y0009796
