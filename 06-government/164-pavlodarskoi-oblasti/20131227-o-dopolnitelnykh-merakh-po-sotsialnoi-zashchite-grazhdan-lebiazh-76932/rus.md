@@ -1,5 +1,5 @@
 ---
-version_id: '76932_172077'
+version_id: AI76932_3
 act_code: '76932'
 language: rus
 title: О дополнительных мерах по социальной защите граждан Лебяжинского района в сфере занятости населения в 2014 году
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164009000001'
 approval_date: 2013-12-27
-version_date: 2013-12-27
+version_date: 2015-01-08
 registry_number: '76932'
-source: https://zan.gov.kz/client/#!/doc/76932/rus/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/76932/rus
 ---
 
 # О дополнительных мерах по социальной защите граждан Лебяжинского района в сфере занятости населения в 2014 году

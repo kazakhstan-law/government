@@ -1,5 +1,5 @@
 ---
-version_id: '76701_187513'
+version_id: AI76701_2
 act_code: '76701'
 language: kaz
 title: 2014 жылға халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбесін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152014000001'
 approval_date: 2013-12-20
-version_date: 2013-12-20
+version_date: 2015-01-08
 registry_number: '76701'
-source: https://zan.gov.kz/client/#!/doc/76701/kaz/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/76701/kaz
 ---
 
 # 2014 жылға халықтың нысаналы топтарына жататын тұлғалардың қосымша тізбесін белгілеу туралы

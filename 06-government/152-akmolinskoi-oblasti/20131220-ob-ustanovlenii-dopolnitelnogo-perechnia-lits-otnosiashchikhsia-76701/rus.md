@@ -1,5 +1,5 @@
 ---
-version_id: '76701_187514'
+version_id: AI76701_3
 act_code: '76701'
 language: rus
 title: Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152014000001'
 approval_date: 2013-12-20
-version_date: 2013-12-20
+version_date: 2015-01-08
 registry_number: '76701'
-source: https://zan.gov.kz/client/#!/doc/76701/rus/20.12.2013
+source: https://zan.gov.kz/client/#!/doc/76701/rus
 ---
 
 # Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год

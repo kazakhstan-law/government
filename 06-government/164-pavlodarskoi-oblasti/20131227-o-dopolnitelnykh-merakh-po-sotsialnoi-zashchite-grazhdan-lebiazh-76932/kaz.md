@@ -1,5 +1,5 @@
 ---
-version_id: '76932_172076'
+version_id: AI76932_2
 act_code: '76932'
 language: kaz
 title: 2014 жылы Лебяжі ауданы азаматтарын жұмыспен қамту саласында әлеуметтік қорғау бойынша қосымша шаралар туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164009000001'
 approval_date: 2013-12-27
-version_date: 2013-12-27
+version_date: 2015-01-08
 registry_number: '76932'
-source: https://zan.gov.kz/client/#!/doc/76932/kaz/27.12.2013
+source: https://zan.gov.kz/client/#!/doc/76932/kaz
 ---
 
 # 2014 жылы Лебяжі ауданы азаматтарын жұмыспен қамту саласында әлеуметтік қорғау бойынша қосымша шаралар туралы
