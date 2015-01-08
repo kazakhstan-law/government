@@ -22,10 +22,16 @@ versions:
   cause:
     code: '85843'
     key: V14M0002582
+- date: 2015-01-08
+  languages:
+  - rus
+  cause:
+    code: '85843'
+    key: V14M0002582
 version_date:
-  kaz: 2014-12-08
+  rus: 2015-01-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/80495/kaz/08.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/80495/rus/08.01.2015
 caused_by:
   code: '85843'
   key: V14M0002582
