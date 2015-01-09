@@ -1,5 +1,5 @@
 ---
-version_id: '78546_180267'
+version_id: AI78546_3
 act_code: '78546'
 language: rus
 title: Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год в Бурабайском районе
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152020000001'
 approval_date: 2014-03-07
-version_date: 2014-03-07
+version_date: 2015-01-09
 registry_number: '78546'
-source: https://zan.gov.kz/client/#!/doc/78546/rus/07.03.2014
+source: https://zan.gov.kz/client/#!/doc/78546/rus
 ---
 
 # Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год в Бурабайском районе

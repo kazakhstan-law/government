@@ -1,5 +1,5 @@
 ---
-version_id: '78546_180266'
+version_id: AI78546_2
 act_code: '78546'
 language: kaz
 title: 2014 жылға Бурабай ауданында халықтың нысаналы топтарына жататын адамдардың қосымша тізбесін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152020000001'
 approval_date: 2014-03-07
-version_date: 2014-03-07
+version_date: 2015-01-09
 registry_number: '78546'
-source: https://zan.gov.kz/client/#!/doc/78546/kaz/07.03.2014
+source: https://zan.gov.kz/client/#!/doc/78546/kaz
 ---
 
 # 2014 жылға Бурабай ауданында халықтың нысаналы топтарына жататын адамдардың қосымша тізбесін белгілеу туралы
