@@ -1,5 +1,5 @@
 ---
-version_id: '77012_185381'
+version_id: AI77012_3
 act_code: '77012'
 language: rus
 title: Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год в Атбасарском районе
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152007000001'
 approval_date: 2013-12-24
-version_date: 2013-12-24
+version_date: 2015-01-15
 registry_number: '77012'
-source: https://zan.gov.kz/client/#!/doc/77012/rus/24.12.2013
+source: https://zan.gov.kz/client/#!/doc/77012/rus
 ---
 
 # Об установлении дополнительного перечня лиц, относящихся к целевым группам населения на 2014 год в Атбасарском районе

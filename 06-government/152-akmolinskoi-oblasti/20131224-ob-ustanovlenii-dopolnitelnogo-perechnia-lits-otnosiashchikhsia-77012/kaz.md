@@ -1,5 +1,5 @@
 ---
-version_id: '77012_185380'
+version_id: AI77012_2
 act_code: '77012'
 language: kaz
 title: 2014 жылға Атбасар ауданында халықтың нысаналы топтарға жататын адамдардың бұған қосымша тізбесін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152007000001'
 approval_date: 2013-12-24
-version_date: 2013-12-24
+version_date: 2015-01-15
 registry_number: '77012'
-source: https://zan.gov.kz/client/#!/doc/77012/kaz/24.12.2013
+source: https://zan.gov.kz/client/#!/doc/77012/kaz
 ---
 
 # 2014 жылға Атбасар ауданында халықтың нысаналы топтарға жататын адамдардың бұған қосымша тізбесін белгілеу туралы
