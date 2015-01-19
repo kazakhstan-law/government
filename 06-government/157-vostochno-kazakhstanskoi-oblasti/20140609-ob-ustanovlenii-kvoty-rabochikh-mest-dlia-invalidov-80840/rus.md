@@ -1,5 +1,5 @@
 ---
-version_id: '80840_139053'
+version_id: AI80840_3
 act_code: '80840'
 language: rus
 title: Об установлении квоты рабочих мест для инвалидов
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157007000001'
 approval_date: 2014-06-09
-version_date: 2014-06-09
+version_date: 2015-01-19
 registry_number: '80840'
-source: https://zan.gov.kz/client/#!/doc/80840/rus/09.06.2014
+caused_by:
+  code: '87081'
+  title: 'Об установлении квоты рабочих мест для инвалидов  '
+  link: https://zan.gov.kz/client/#!/doc/87081/rus
+source: https://zan.gov.kz/client/#!/doc/80840/rus
 ---
 
 # Об установлении квоты рабочих мест для инвалидов

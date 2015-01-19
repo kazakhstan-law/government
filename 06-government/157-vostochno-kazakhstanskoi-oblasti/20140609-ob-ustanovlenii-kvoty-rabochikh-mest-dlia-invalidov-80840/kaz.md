@@ -1,5 +1,5 @@
 ---
-version_id: '80840_139052'
+version_id: AI80840_2
 act_code: '80840'
 language: kaz
 title: Мүгедектер үшiн жұмыс орындарының квотасын белгілеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157007000001'
 approval_date: 2014-06-09
-version_date: 2014-06-09
+version_date: 2015-01-19
 registry_number: '80840'
-source: https://zan.gov.kz/client/#!/doc/80840/kaz/09.06.2014
+caused_by:
+  code: '87081'
+  title: 'Мүгедектер үшін жұмыс орындарының квотасын белгілеу туралы    '
+  link: https://zan.gov.kz/client/#!/doc/87081/kaz
+source: https://zan.gov.kz/client/#!/doc/80840/kaz
 ---
 
 # Мүгедектер үшiн жұмыс орындарының квотасын белгілеу туралы
