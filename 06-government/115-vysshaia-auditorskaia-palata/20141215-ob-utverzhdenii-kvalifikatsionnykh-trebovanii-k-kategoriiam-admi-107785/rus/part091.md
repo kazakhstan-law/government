@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/107785/rus/15.12.2014
+source: https://zan.gov.kz/client/#!/doc/107785/rus/20.01.2015
 ---
 
 ## Главный консультант – 2 единицы, категория В-3 (8/1-4, 8/1-5)
