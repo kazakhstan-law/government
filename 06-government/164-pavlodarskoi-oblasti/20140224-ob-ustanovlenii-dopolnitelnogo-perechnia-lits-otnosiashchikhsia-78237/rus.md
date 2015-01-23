@@ -1,5 +1,5 @@
 ---
-version_id: '78237_173535'
+version_id: AI78237_3
 act_code: '78237'
 language: rus
 title: Об установлении дополнительного перечня лиц, относящихся к целевым группам населения по Актогайскому району на 2014 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164003000001'
 approval_date: 2014-02-24
-version_date: 2014-02-24
+version_date: 2015-01-23
 registry_number: '78237'
-source: https://zan.gov.kz/client/#!/doc/78237/rus/24.02.2014
+source: https://zan.gov.kz/client/#!/doc/78237/rus
 ---
 
 # Об установлении дополнительного перечня лиц, относящихся к целевым группам населения по Актогайскому району на 2014 год
