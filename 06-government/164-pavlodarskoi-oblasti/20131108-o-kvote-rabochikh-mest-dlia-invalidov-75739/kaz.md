@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/75739/kaz/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/75739/kaz/27.01.2015
 ---
 
 # Мүгедектер үшін жұмыс орындарының квотасы туралы

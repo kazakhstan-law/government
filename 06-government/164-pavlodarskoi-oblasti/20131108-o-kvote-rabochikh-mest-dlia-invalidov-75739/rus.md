@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/75739/rus/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/75739/rus/27.01.2015
 ---
 
 # О квоте рабочих мест для инвалидов
