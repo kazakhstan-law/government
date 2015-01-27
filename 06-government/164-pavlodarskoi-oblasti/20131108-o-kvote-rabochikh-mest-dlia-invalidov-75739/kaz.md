@@ -1,5 +1,5 @@
 ---
-version_id: '75739_188416'
+version_id: AI75739_2
 act_code: '75739'
 language: kaz
 title: Мүгедектер үшін жұмыс орындарының квотасы туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164014000001'
 approval_date: 2013-11-08
-version_date: 2013-11-08
+version_date: 2015-01-27
 registry_number: '75739'
-source: https://zan.gov.kz/client/#!/doc/75739/kaz/08.11.2013
+source: https://zan.gov.kz/client/#!/doc/75739/kaz
 ---
 
 # Мүгедектер үшін жұмыс орындарының квотасы туралы

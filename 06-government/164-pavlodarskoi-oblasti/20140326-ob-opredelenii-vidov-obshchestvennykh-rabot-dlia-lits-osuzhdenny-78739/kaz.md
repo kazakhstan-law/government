@@ -1,5 +1,5 @@
 ---
-version_id: '78739_173687'
+version_id: AI78739_2
 act_code: '78739'
 language: kaz
 title: Қоғамдық жұмыстарға тарту түрінде жазаны өтеуге сотталған адамдар үшін қоғамдық жұмыстар түрлерін белгілеу туралы
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '164014000001'
 approval_date: 2014-03-26
-version_date: 2014-03-26
+version_date: 2015-01-27
 registry_number: '78739'
-source: https://zan.gov.kz/client/#!/doc/78739/kaz/26.03.2014
+source: https://zan.gov.kz/client/#!/doc/78739/kaz
 ---
 
 # Қоғамдық жұмыстарға тарту түрінде жазаны өтеуге сотталған адамдар үшін қоғамдық жұмыстар түрлерін белгілеу туралы
