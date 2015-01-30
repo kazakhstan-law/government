@@ -1,5 +1,5 @@
 ---
-version_id: '85533_268848'
+version_id: '85533_268930'
 act_code: '85533'
 language: rus
 title: Об организации и финансировании общественных работ в 2015 году
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157008000001'
 approval_date: 2014-12-04
-version_date: 2014-12-04
+version_date: 2015-01-30
 registry_number: '85533'
-source: https://zan.gov.kz/client/#!/doc/85533/rus/04.12.2014
+caused_by:
+  code: '87745'
+  title: О внесении дополнений в постановление акимата Бородулихинского района от 4 декабря 2014 года № 292 «Об организации и финансировании общественных работ в 2015 году»
+  link: https://zan.gov.kz/client/#!/doc/87745/rus
+source: https://zan.gov.kz/client/#!/doc/85533/rus/30.01.2015
 ---
 
 # Об организации и финансировании общественных работ в 2015 году

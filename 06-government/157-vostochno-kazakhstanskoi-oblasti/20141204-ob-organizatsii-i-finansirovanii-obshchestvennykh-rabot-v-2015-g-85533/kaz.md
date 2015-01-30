@@ -1,5 +1,5 @@
 ---
-version_id: '85533_268847'
+version_id: '85533_268929'
 act_code: '85533'
 language: kaz
 title: 2015 жылы қоғамдық жұмыстарды ұйымдастыру мен қаржыландыру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157008000001'
 approval_date: 2014-12-04
-version_date: 2014-12-04
+version_date: 2015-01-30
 registry_number: '85533'
-source: https://zan.gov.kz/client/#!/doc/85533/kaz/04.12.2014
+caused_by:
+  code: '87745'
+  title: «2015 жылы қоғамдық жұмыстарды ұйымдастыру және қаржыландыру туралы» Бородулиха ауданы әкімдігінің 2014 жылғы 4 желтоқсандағы № 292 қаулысына толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/87745/kaz
+source: https://zan.gov.kz/client/#!/doc/85533/kaz/30.01.2015
 ---
 
 # 2015 жылы қоғамдық жұмыстарды ұйымдастыру мен қаржыландыру туралы
