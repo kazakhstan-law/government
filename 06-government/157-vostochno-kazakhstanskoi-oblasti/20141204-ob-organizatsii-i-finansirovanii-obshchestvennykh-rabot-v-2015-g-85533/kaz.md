@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85533/kaz/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/85533/kaz/30.01.2015
 ---
 
 # 2015 жылы қоғамдық жұмыстарды ұйымдастыру мен қаржыландыру туралы

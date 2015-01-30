@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85533/rus/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/85533/rus/30.01.2015
 ---
 
 # Об организации и финансировании общественных работ в 2015 году
