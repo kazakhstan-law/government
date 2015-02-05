@@ -12,8 +12,10 @@ approved_on: 2013-12-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-12-30
-  rus: 2013-12-30
+  kaz: 2015-02-05
+  rus: 2015-02-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/76399/kaz/30.12.2013
-  rus: https://zan.gov.kz/client/#!/doc/76399/rus/30.12.2013
+  kaz: https://zan.gov.kz/client/#!/doc/76399/kaz/05.02.2015
+  rus: https://zan.gov.kz/client/#!/doc/76399/rus/05.02.2015
+caused_by:
+  code: P1500000042
