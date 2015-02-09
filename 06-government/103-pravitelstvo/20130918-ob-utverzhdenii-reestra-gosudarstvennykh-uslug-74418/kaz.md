@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/74418/kaz/27.05.2014
+source: https://zan.gov.kz/client/#!/doc/74418/kaz/09.02.2015
 ---
 
 # Мемлекеттік көрсетілетін қызметтер тізілімін бекіту туралы
@@ -32,29 +32,9 @@ source: https://zan.gov.kz/client/#!/doc/74418/kaz/27.05.2014
 | Часть | Название |
 |---|---|
 | [`part001`](kaz/part001.md) | Мемлекеттік көрсетілетін қызметтер тізілімі |
-| [`part001-part002`](kaz/part001-part002.md) | part001-part002 |
-| [`part001-t003`](kaz/part001-t003.md) | таблица 3 |
-| [`part001-t004`](kaz/part001-t004.md) | таблица 4 |
-| [`part001-part007`](kaz/part001-part007.md) | part001-part007 |
-| [`part001-t005`](kaz/part001-t005.md) | таблица 5 |
-| [`part001-part009`](kaz/part001-part009.md) | part001-part009 |
-| [`part001-t006`](kaz/part001-t006.md) | таблица 6 |
-| [`part001-part011`](kaz/part001-part011.md) | part001-part011 |
-| [`part001-t008`](kaz/part001-t008.md) | таблица 8 |
-| [`part001-part014`](kaz/part001-part014.md) | part001-part014 |
-| [`part001-t009`](kaz/part001-t009.md) | таблица 9 |
-| [`part001-t010`](kaz/part001-t010.md) | таблица 10 |
-| [`part001-part017`](kaz/part001-part017.md) | part001-part017 |
-| [`part001-t011`](kaz/part001-t011.md) | таблица 11 |
-| [`part001-part019`](kaz/part001-part019.md) | part001-part019 |
-| [`part001-t012`](kaz/part001-t012.md) | таблица 12 |
-| [`part001-part021`](kaz/part001-part021.md) | part001-part021 |
-| [`part001-t014`](kaz/part001-t014.md) | таблица 14 |
-| [`part001-t015`](kaz/part001-t015.md) | таблица 15 |
-| [`part001-t016`](kaz/part001-t016.md) | таблица 16 |
-| [`part001-part027`](kaz/part001-part027.md) | part001-part027 |
-| [`part001-t018`](kaz/part001-t018.md) | таблица 18 |
-| [`part001-part029`](kaz/part001-part029.md) | part001-part029 |
-| [`part001-part031`](kaz/part001-part031.md) | part001-part031 |
-| [`part001-part033`](kaz/part001-part033.md) | part001-part033 |
-| [`part002`](kaz/part002.md) | Ескертпе: |
+| [`part001-t001-r002`](kaz/part001-t001-r002.md) | таблица 1, строки 185–386 |
+| [`part001-t001-r003`](kaz/part001-t001-r003.md) | таблица 1, строки 387–543 |
+| [`part001-t001-r004`](kaz/part001-t001-r004.md) | таблица 1, строки 544–752 |
+| [`part001-t001-r005`](kaz/part001-t001-r005.md) | таблица 1, строки 753–823 |
+| [`part001-part006`](kaz/part001-part006.md) | part001-part006 |
+| [`part002`](kaz/part002.md) | Қазақстан Республикасы Үкіметінің күші жойылған кейбір шешімдерінің тізбесі |
