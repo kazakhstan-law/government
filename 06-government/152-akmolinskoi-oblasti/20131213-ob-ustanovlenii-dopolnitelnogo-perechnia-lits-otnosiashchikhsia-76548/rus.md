@@ -1,5 +1,5 @@
 ---
-version_id: '76548_184844'
+version_id: AI76548_3
 act_code: '76548'
 language: rus
 title: Об установлении дополнительного перечня лиц, относящихся к целевым группам населения города Степногорска, на 2014 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '152003000001'
 approval_date: 2013-12-13
-version_date: 2013-12-13
+version_date: 2015-02-10
 registry_number: '76548'
-source: https://zan.gov.kz/client/#!/doc/76548/rus/13.12.2013
+source: https://zan.gov.kz/client/#!/doc/76548/rus
 ---
 
 # Об установлении дополнительного перечня лиц, относящихся к целевым группам населения города Степногорска, на 2014 год

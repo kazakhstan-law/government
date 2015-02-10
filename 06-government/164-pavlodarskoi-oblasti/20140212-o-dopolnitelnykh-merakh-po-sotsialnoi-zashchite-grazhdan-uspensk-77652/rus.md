@@ -1,5 +1,5 @@
 ---
-version_id: '77652_173227'
+version_id: AI77652_3
 act_code: '77652'
 language: rus
 title: О дополнительных мерах по социальной защите граждан Успенского района в сфере занятости на 2014 год
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '164011000001'
 approval_date: 2014-02-12
-version_date: 2014-02-12
+version_date: 2015-02-10
 registry_number: '77652'
-source: https://zan.gov.kz/client/#!/doc/77652/rus/12.02.2014
+source: https://zan.gov.kz/client/#!/doc/77652/rus
 ---
 
 # О дополнительных мерах по социальной защите граждан Успенского района в сфере занятости на 2014 год

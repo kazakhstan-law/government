@@ -1,5 +1,5 @@
 ---
-version_id: '77652_173226'
+version_id: AI77652_2
 act_code: '77652'
 language: kaz
 title: 2014 жылы жұмыспен қамту саласында Успен ауданының азаматтарын әлеуметтік қорғау бойынша қосымша шаралар туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '164011000001'
 approval_date: 2014-02-12
-version_date: 2014-02-12
+version_date: 2015-02-10
 registry_number: '77652'
-source: https://zan.gov.kz/client/#!/doc/77652/kaz/12.02.2014
+source: https://zan.gov.kz/client/#!/doc/77652/kaz
 ---
 
 # 2014 жылы жұмыспен қамту саласында Успен ауданының азаматтарын әлеуметтік қорғау бойынша қосымша шаралар туралы
