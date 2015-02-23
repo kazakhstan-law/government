@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/107785/rus/20.01.2015
+source: https://zan.gov.kz/client/#!/doc/107785/rus/23.02.2015
 ---
 
 ## Главный эксперт-государственный контролер – 2 единицы, категория В-4 (3/3-24, 3/3-25)
