@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25739/kaz/01.01.2015
+source: https://zan.gov.kz/client/#!/doc/25739/kaz/25.02.2015
 ---
 
 ## Активтер мен міндеттемелер мерзімдерін салыстыру кестесін толтыру жөніндегі түсіндірме
