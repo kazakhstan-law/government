@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5010/kaz/11.12.2013
+source: https://zan.gov.kz/client/#!/doc/5010/kaz/25.02.2015
 ---
 
 ## Части документа
@@ -14,6 +14,6 @@ source: https://zan.gov.kz/client/#!/doc/5010/kaz/11.12.2013
 | [`intro-part004`](kaz/intro-part004.md) | 3. Төлем құжаттарын толтыру тәртібі |
 | [`intro-part004-part001`](kaz/intro-part004-part001.md) | ЭКОНОМИКА СЕКТОРЛАРЫНЫҢ КОДТАРЫ |
 | [`intro-part004-part007`](kaz/intro-part004-part007.md) | Төлем белгілеу кодының жан-жақты кестесі |
-| [`intro-part004-part007-t001-r002`](kaz/intro-part004-part007-t001-r002.md) | таблица 1, строки 552–700 |
+| [`intro-part004-part007-t001-r002`](kaz/intro-part004-part007-t001-r002.md) | таблица 1, строки 552–691 |
 | [`intro-part004-part007-part003`](kaz/intro-part004-part007-part003.md) | intro-part004-part007-part003 |
 | [`sec000`](kaz/sec000.md) | 0-бөлім - "Зейнетақы төлемдері және жәрдемақылар" |

@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/5010/kaz/11.12.2013
+source: https://zan.gov.kz/client/#!/doc/5010/kaz/25.02.2015
 ---
 
 ## Төлем белгілеу кодының жан-жақты кестесі

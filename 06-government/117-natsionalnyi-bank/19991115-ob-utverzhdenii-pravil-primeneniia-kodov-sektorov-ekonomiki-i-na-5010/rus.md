@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5010/rus/11.12.2013
+source: https://zan.gov.kz/client/#!/doc/5010/rus/25.02.2015
 ---
 
 ## Части документа
@@ -14,6 +14,6 @@ source: https://zan.gov.kz/client/#!/doc/5010/rus/11.12.2013
 | [`intro-part004`](rus/intro-part004.md) | 3. Порядок заполнения платежных документов |
 | [`intro-part004-part001`](rus/intro-part004-part001.md) | Коды секторов экономики |
 | [`intro-part004-part007`](rus/intro-part004-part007.md) | Детализированная таблица кодов назначения платежей |
-| [`intro-part004-part007-t001-r002`](rus/intro-part004-part007-t001-r002.md) | таблица 1, строки 565–695 |
+| [`intro-part004-part007-t001-r002`](rus/intro-part004-part007-t001-r002.md) | таблица 1, строки 565–686 |
 | [`intro-part004-part007-part003`](rus/intro-part004-part007-part003.md) | intro-part004-part007-part003 |
 | [`sec000`](rus/sec000.md) | Раздел 0 - "Пенсионные платежи и пособия" |
