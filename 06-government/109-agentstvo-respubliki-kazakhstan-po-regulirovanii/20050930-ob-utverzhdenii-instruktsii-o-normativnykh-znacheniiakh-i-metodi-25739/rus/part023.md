@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25739/rus/25.02.2015
+source: https://zan.gov.kz/client/#!/doc/25739/rus/08.03.2015
 ---
 
 ## Расчет общего процентного риска
