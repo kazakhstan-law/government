@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2015-03-13
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '87809'
+    key: P1500000140
 version_date:
-  kaz: 2014-02-04
-  rus: 2014-02-04
+  kaz: 2015-03-13
+  rus: 2015-03-13
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/77286/kaz/04.02.2014
-  rus: https://zan.gov.kz/client/#!/doc/77286/rus/04.02.2014
+  kaz: https://zan.gov.kz/client/#!/doc/77286/kaz/13.03.2015
+  rus: https://zan.gov.kz/client/#!/doc/77286/rus/13.03.2015
+caused_by:
+  code: '87809'
+  key: P1500000140
+  requisite: Постановление Правительства Республики Казахстан от 13 марта 2015 года № 140
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/87809/rus
