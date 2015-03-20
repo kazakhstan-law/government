@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/39146/kaz/31.12.2014
+source: https://zan.gov.kz/client/#!/doc/39146/kaz/20.03.2015
 ---
 
 ## 3. Қазақстан Республикасы Қаржы министрлігінің қызметін ұйымдастыру
