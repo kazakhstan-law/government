@@ -11,8 +11,15 @@ approved_on: 2014-07-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2014-07-31
-  rus: 2014-07-31
+  kaz: 2015-04-09
+  rus: 2015-04-09
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/81893/kaz/31.07.2014
-  rus: https://zan.gov.kz/client/#!/doc/81893/rus/31.07.2014
+  kaz: https://zan.gov.kz/client/#!/doc/81893/kaz/09.04.2015
+  rus: https://zan.gov.kz/client/#!/doc/81893/rus/09.04.2015
+caused_by:
+  code: '88467'
+  requisite: Постановление Правительства Республики Казахстан от 9 апреля 2015 года № 205
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/88467/rus
