@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/67287/rus/23.08.2012
+source: https://zan.gov.kz/client/#!/doc/67287/rus/25.04.2015
 ---
 
 ## 2. Требования к содержанию образования
