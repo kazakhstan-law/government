@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83353/kaz/15.04.2015
+source: https://zan.gov.kz/client/#!/doc/83353/kaz/27.04.2015
 ---
 
 ## 3. Мемлекеттік органның қызметін ұйымдастыру
