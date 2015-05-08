@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57410/kaz/28.06.2013
+source: https://zan.gov.kz/client/#!/doc/57410/kaz/08.05.2015
 ---
 
 ## Қаржы секторына шолу жасауға арналған көрсеткіштер тізбесі
