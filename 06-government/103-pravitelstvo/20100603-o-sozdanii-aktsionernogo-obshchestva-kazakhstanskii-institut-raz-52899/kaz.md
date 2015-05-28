@@ -1,5 +1,5 @@
 ---
-version_id: AI52899_6
+version_id: AI52899_8
 act_code: '52899'
 language: kaz
 title: '"Қазақстандық индустрияны дамыту институты" акционерлік қоғамын құру туралы'
@@ -10,13 +10,9 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2010-06-03
-version_date: 2014-09-19
+version_date: 2015-05-28
 registry_number: '52899'
-caused_by:
-  code: '83297'
-  title: Қазақстан Республикасы Инвестициялар және даму министрлігінің кейбір мәселелері
-  link: https://zan.gov.kz/client/#!/doc/83297/kaz
-source: https://zan.gov.kz/client/#!/doc/52899/kaz/19.09.2014
+source: https://zan.gov.kz/client/#!/doc/52899/kaz/28.05.2015
 ---
 
 # "Қазақстандық индустрияны дамыту институты" акционерлік қоғамын құру туралы
