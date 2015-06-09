@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/25.04.2015
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/09.06.2015
 ---
 
 ## 1. Қазақстан Республикасы Iшкi iстер министрлiгi

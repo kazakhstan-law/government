@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/24486/rus/25.04.2015
+source: https://zan.gov.kz/client/#!/doc/24486/rus/09.06.2015
 ---
 
 ## 4. Комитет по чрезвычайным ситуациям
