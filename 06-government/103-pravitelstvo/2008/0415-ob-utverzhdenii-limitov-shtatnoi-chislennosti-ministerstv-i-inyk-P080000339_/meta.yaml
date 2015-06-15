@@ -940,17 +940,24 @@ versions:
   cause:
     code: '91499'
     key: P1500000431
+- date: 2015-06-15
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '1076'
+    key: P1500000433
 version_date:
-  kaz: 2015-06-12
-  rus: 2015-06-12
+  kaz: 2015-06-15
+  rus: 2015-06-15
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/12.06.2015
-  rus: https://zan.gov.kz/client/#!/doc/38863/rus/12.06.2015
+  kaz: https://zan.gov.kz/client/#!/doc/38863/kaz/15.06.2015
+  rus: https://zan.gov.kz/client/#!/doc/38863/rus/15.06.2015
 caused_by:
-  code: '91499'
-  key: P1500000431
-  requisite: Постановление Правительства Республики Казахстан от 12 июня 2015 года № 431
+  code: '1076'
+  key: P1500000433
+  requisite: Постановление Правительства Республики Казахстан от 15 июня 2015 года № 433
   title:
-    rus: Некоторые вопросы Министерства внутренних дел Республики Казахстан
-    kaz: Қазақстан Республикасы Ішкі істер министрлігінің кейбір мәселелері
-  link: https://zan.gov.kz/client/#!/doc/91499/rus
+    rus: О ликвидации государственного учреждения "Академия финансовой полиции"
+    kaz: '"Қаржы полициясы академиясы" мемлекеттік мекемесін тарату туралы'
+  link: https://zan.gov.kz/client/#!/doc/1076/rus
