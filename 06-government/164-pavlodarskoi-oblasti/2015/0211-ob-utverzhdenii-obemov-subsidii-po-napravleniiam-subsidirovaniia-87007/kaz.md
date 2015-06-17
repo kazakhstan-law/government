@@ -36,373 +36,457 @@
 > *2015 жылғы «11» ақпандағы № 35/2*  
 > *қаулысымен бекітілді*
 
-## Асыл тұқымды мал шаруашылығын дамытуды және мал шаруашылығы өнімінің өнімділігі мен сапасын арттыруды субсидиялау бағыттары бойынша 2015 жылға арналған субсидия көлемдері
+## Асыл тұқымды мал шаруашылығын дамытуды, мал шаруашылығының өнімділігін және өнім сапасын арттыруды субсидиялау бағыттары бойынша 2015 жылға арналған субсидия көлемдері
+
+> *Ескерту. Қосымша жаңа редакцияда - Павлодар облыстық әкімдігінің 17.06.2015 N 178/6 (алғаш ресми жарияланған күннен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td>Субсидиялау бағытының атауы</td>
-<td colspan="2">Өлшем бірлігі</td>
-<td colspan="2">Субсидиялау нормативтері, 1 бірлік үшін, теңге</td>
-<td colspan="2">
-Субсидияланды-рылатын көлемі
-(бас, килограмм, дана)
-</td>
-<td>
-Субсидиялау сомасы,
-мың теңге
-</td>
+<th>№ п/п</th>
+<th>Субсидиялау бағытының атауы</th>
+<th>Өлшем бірлігі</th>
+<th>Субсидиялау нормативтері, 1 бірлік үшін, теңге</th>
+<th>Субсидия ланды-рылатын көлемі (бас, килограмм, дана)</th>
+<th>Субсидиялау сомасы, мың теңге</th>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
-<td colspan="8">Мал шаруашылығы</td>
+<td>1</td>
+<td colspan="5">
+<strong>Мал шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>1.1</td>
 <td>Жеке қосалқы шаруашылықтардағы ірі қара малдың аналық мал басын қолдан ұрықтандыруды ұйымдастыру</td>
-<td colspan="3">бас</td>
+<td>бас</td>
 <td>3000</td>
 <td>5 566</td>
-<td colspan="2">16 698</td>
+<td>16 698</td>
 </tr>
 <tr>
-<td colspan="8">етті бағыттағы ірі қара мал шаруашылығы</td>
+<td>2</td>
+<td colspan="5">
+<strong>етті бағыттағы ірі қара мал шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>2.1</td>
 <td>Асыл тұқымды және селекциялық жұмысты жүргізу</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>2.2</td>
 <td>тұқымдық түрлендірумен қамтылған ірі қара малдың аналық мал басы</td>
-<td colspan="2">бас</td>
-<td colspan="2">18 000</td>
-<td colspan="2">29 800</td>
-<td>536 400</td>
+<td>бас</td>
+<td>18 000</td>
+<td>38 133</td>
+<td>686 394</td>
 </tr>
 <tr>
+<td>2.3</td>
 <td>асыл тұқымды ірі қара малдың аналық мал басы</td>
-<td colspan="2">бас</td>
-<td colspan="2">20 000</td>
-<td colspan="2">10 500</td>
+<td>бас</td>
+<td>20 000</td>
+<td>10 500</td>
 <td>210 000</td>
 </tr>
 <tr>
+<td>2.4</td>
 <td>Асыл тұқымды және селекциялық ірі қара малды сатып алу</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
+<td>2.5</td>
 <td>отандық асыл тұқымды ірі қара мал</td>
-<td colspan="2">бас</td>
-<td colspan="2">154 000</td>
-<td colspan="2">819</td>
-<td>126 076</td>
+<td>бас</td>
+<td>154 000</td>
+<td>1 140</td>
+<td>175 506,6</td>
 </tr>
 <tr>
+<td>2.6</td>
+<td>Импортталған асыл тұқымды ірі қара мал (Австралиядан, АҚШ және Канададан)</td>
+<td>бас</td>
+<td>200 000</td>
+<td>1000</td>
+<td>200 000</td>
+</tr>
+<tr>
+<td>2.7</td>
 <td>импортталған селекциялық ірі қара мал</td>
-<td colspan="2">бас</td>
-<td colspan="2">118 000</td>
-<td colspan="2">203</td>
+<td>бас</td>
+<td>118 000</td>
+<td>203</td>
 <td>23 954</td>
 </tr>
 <tr>
+<td>2.8</td>
 <td>Сиыр етін өндіру үшін арзандату:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>2.8.1</td>
 <td>1-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">300</td>
-<td colspan="2">350 000</td>
-<td>105 000</td>
+<td>кг</td>
+<td>300</td>
+<td>1 016 667</td>
+<td>305 000</td>
 </tr>
 <tr>
+<td>2.8.2</td>
 <td>2-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">170</td>
-<td colspan="2">147 100</td>
+<td>кг</td>
+<td>170</td>
+<td>147 100</td>
 <td>25 007</td>
 </tr>
 <tr>
+<td>2.8.3</td>
 <td>3-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">100</td>
-<td colspan="2">549 880,88</td>
+<td>кг</td>
+<td>100</td>
+<td>549 880,88</td>
 <td>54 988,088</td>
 </tr>
 <tr>
+<td>2.9</td>
 <td>Бұқашықтарды субсидиялаудың бірінші деңгейіндегі бордақылау алаңдарына өткізу</td>
-<td colspan="2">бас</td>
-<td colspan="2">24 000</td>
-<td colspan="2">2 500</td>
-<td>60 000</td>
+<td>бас</td>
+<td>24 000</td>
+<td>2 292</td>
+<td>55 008</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>1 158 123,088</td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>1 752 555,688</th>
 </tr>
 <tr>
-<td colspan="8">сүтті бағыттағы ірі қара мал шаруашылығы</td>
+<td>3</td>
+<td colspan="5">
+<strong>сүтті бағыттағы ірі қара мал шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>3.1</td>
 <td>Селекциялық және асыл тұқымдық жұмысты жүргізу</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>3.2</td>
 <td>асыл тұқымды ірі қара малдың аналық мал басы</td>
-<td colspan="2">бас</td>
-<td colspan="2">20 000</td>
-<td colspan="2">8 000</td>
+<td>бас</td>
+<td>20 000</td>
+<td>8 000</td>
 <td>160 000</td>
 </tr>
 <tr>
+<td>3.3</td>
 <td>Асыл тұқымды және селекциялық ірі қара малды сатып алу</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>отандық асыл тұқымды ірі қара мал</td>
-<td colspan="2">бас</td>
-<td colspan="2">154 000</td>
-<td colspan="2">92</td>
-<td>14 168</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
+<td>3.4</td>
+<td>отандық асыл тұқымды ірі қара мал</td>
+<td>бас</td>
+<td>154 000</td>
+<td>97</td>
+<td>14 743,4</td>
+</tr>
+<tr>
+<td>3.5</td>
 <td>импортталған селекциялық ірі қара мал (Ресейден, Белоруссиядан және Украинадан әкелінген асыл тұқымды малды қоса есептегенде)</td>
-<td colspan="2">бас</td>
-<td colspan="2">118 000</td>
-<td colspan="2">72</td>
+<td>бас</td>
+<td>118 000</td>
+<td>72</td>
 <td>8 496</td>
 </tr>
 <tr>
-<td>Сүт өндіру үшін құнын арзандату:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>3.6</td>
+<td>Сүт өндіру үшін құнын арзандату:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.6.1</td>
 <td>1-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">25</td>
-<td colspan="2">6 600 000</td>
+<td>кг</td>
+<td>25</td>
+<td>6 600 000</td>
 <td>165 000</td>
 </tr>
 <tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
-<th>5</th>
-</tr>
-<tr>
+<td>3.6.2</td>
 <td>2-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">15</td>
-<td colspan="2">6 200 000</td>
-<td>93 000</td>
+<td>кг</td>
+<td>15</td>
+<td>8 866 667</td>
+<td>133 000</td>
 </tr>
 <tr>
+<td>3.6.3</td>
 <td>3-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">10</td>
-<td colspan="2">9 200 000</td>
-<td>92 000</td>
+<td>кг</td>
+<td>10</td>
+<td>5 200 000</td>
+<td>52 000</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>532 664</td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>533 239,4</th>
 </tr>
 <tr>
-<td colspan="8">етті бағыттағы құс шаруашылығы</td>
+<td>4</td>
+<td colspan="5">
+<strong>етті бағыттағы құс шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>4.1</td>
 <td>Құс етін өндіру үшін арзандату :</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>4.1.1</td>
 <td>3-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">50</td>
-<td colspan="2">2 600 000</td>
+<td>кг</td>
+<td>50</td>
+<td>2 600 000</td>
 <td>130 000</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>130 000</td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>130 000</th>
 </tr>
 <tr>
-<td colspan="8">жұмыртқа бағыттағы құс шаруашылығы</td>
+<td>5</td>
+<td colspan="5">
+<strong>жұмыртқа бағыттағы құс шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>5.1</td>
 <td>Тағамдық жұмыртқа өндіру үшін арзандату :</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>5.1.1</td>
 <td>2-деңгей</td>
-<td colspan="2">дана</td>
-<td colspan="2">2,6</td>
-<td colspan="2">65 384 700</td>
-<td>170 000,220</td>
+<td>дана</td>
+<td>2,6</td>
+<td>69 551 113</td>
+<td>180 832,894</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>170 000,220</td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>180 832,894</th>
 </tr>
 <tr>
-<td colspan="8">жылқы шаруашылығы</td>
+<td>6</td>
+<td colspan="5">
+<strong>жылқы шаруашылығы</strong>
+</td>
 </tr>
 <tr>
+<td>6.1</td>
 <td>Асыл тұқымды жылқыларды сатып алу</td>
 <td>бас</td>
-<td colspan="3">40 000</td>
+<td>40 000</td>
 <td>70</td>
-<td colspan="2">2 800</td>
+<td>2 800</td>
 </tr>
 <tr>
+<td>6.2</td>
 <td>Мыналарды өндіру үшін құнын арзандату:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>6.2.1</td>
 <td>қымыз</td>
-<td colspan="2">кг</td>
-<td colspan="2">60</td>
-<td colspan="2">416 700</td>
+<td>кг</td>
+<td>60</td>
+<td>416 700</td>
 <td>25 002</td>
 </tr>
 <tr>
+<td>6.2.2</td>
 <td>жылқы еті</td>
-<td colspan="2">кг</td>
-<td colspan="2">92</td>
-<td colspan="2">163 044</td>
-<td>15 000,048</td>
+<td>кг</td>
+<td>92</td>
+<td>124 359,5</td>
+<td>11 441,074</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>42 802,048</td>
-</tr>
-<tr>
-<td colspan="8">шошқа шаруашылығы</td>
-</tr>
-<tr>
-<td>Шошқа етін өндіруге құнын арзандату</td>
-<td colspan="2">кг</td>
-<td colspan="2">98</td>
-<td colspan="2">2 989 578</td>
-<td>292 978,644</td>
-</tr>
-<tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>292 978,644</td>
-</tr>
-<tr>
-<td colspan="8">қой шаруашылығы</td>
-</tr>
-<tr>
-<td>Селекциялық және асыл тұқымдық жұмыстарды жүргізу</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>39 243,074</th>
 </tr>
 <tr>
 <th>1</th>
-<th colspan="2">2</th>
-<th colspan="2">3</th>
-<th colspan="2">4</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 <th>5</th>
+<th>6</th>
 </tr>
 <tr>
-<td>тұқымдық түрлендірумен қамтылған аналық қой басы, асыл тұқымдық зауыттар мен шаруашылықтардағы асыл тұқымдық аналық қой басы</td>
-<td colspan="2">бас</td>
-<td colspan="2">1 500</td>
-<td colspan="2">20 000</td>
-<td>30 000</td>
+<td>7</td>
+<td colspan="5">
+<strong>шошқа шаруашылығы</strong>
+</td>
 </tr>
 <tr>
-<td>Асыл тұқымды тоқтылар мен тұсақтарды сатып алу</td>
-<td colspan="2">бас</td>
-<td colspan="2">8000</td>
-<td colspan="2">301</td>
-<td>2 408</td>
+<td>7.1</td>
+<td>Шошқа етін өндіруге құнын арзандату</td>
+<td>кг</td>
+<td>98</td>
+<td>2 989 578</td>
+<td>292 978,644</td>
 </tr>
 <tr>
-<td>қой етін өндіру үшін құнын арзандату:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>292 978,644</th>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="5">
+<strong>қой шаруашылығы</strong>
+</td>
+</tr>
+<tr>
+<td>8.1</td>
+<td>Селекциялық және асыл тұқымдық жұмыстарды жүргізу</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td>8.2</td>
+<td>тұқымдық түрлендірумен қамтылған аналық қой басы, асыл тұқымдық зауыттар мен шаруашылықтардағы асыл тұқымдық аналық қой басы</td>
+<td>бас</td>
+<td>1 500</td>
+<td>20 000</td>
+<td>30 000</td>
+</tr>
+<tr>
+<td>8.3</td>
+<td>Асыл тұқымды тоқтылар мен тұсақтарды сатып алу</td>
+<td>бас</td>
+<td>8000</td>
+<td>301</td>
+<td>2 408</td>
+</tr>
+<tr>
+<td>8.4</td>
+<td>қой етін өндіру үшін құнын арзандату:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8.4.1</td>
 <td>2-деңгей</td>
-<td colspan="2">кг</td>
-<td colspan="2">100</td>
-<td colspan="2">100 000</td>
-<td>10 000</td>
+<td>кг</td>
+<td>100</td>
+<td>77 183</td>
+<td>7 718,300</td>
 </tr>
 <tr>
-<td>Барлық сомасы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>42 408</td>
+<th></th>
+<th>Барлық сомасы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>40 126,3</th>
 </tr>
 <tr>
-<td>Барлығы</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>2 368 976</td>
+<th></th>
+<th>Барлығы</th>
+<th></th>
+<th></th>
+<th></th>
+<th>2 968 976</th>
 </tr>
 </table>
