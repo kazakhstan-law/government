@@ -10,8 +10,15 @@ approved_on: 2013-03-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-03-27
-  rus: 2013-03-27
+  kaz: 2015-06-18
+  rus: 2015-06-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/71188/kaz/27.03.2013
-  rus: https://zan.gov.kz/client/#!/doc/71188/rus/27.03.2013
+  kaz: https://zan.gov.kz/client/#!/doc/71188/kaz/18.06.2015
+  rus: https://zan.gov.kz/client/#!/doc/71188/rus/18.06.2015
+caused_by:
+  code: '90969'
+  requisite: Постановление Правительства Республики Казахстан от 18 июня 2015 года № 457
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/90969/rus
