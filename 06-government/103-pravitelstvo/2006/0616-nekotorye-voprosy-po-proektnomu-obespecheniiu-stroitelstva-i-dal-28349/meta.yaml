@@ -10,10 +10,15 @@ approved_on: 2006-06-16
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2008-03-01
-  rus: 2008-03-01
+  kaz: 2015-06-24
+  rus: 2015-06-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/28349/kaz/01.03.2008
-  rus: https://zan.gov.kz/client/#!/doc/28349/rus/01.03.2008
+  kaz: https://zan.gov.kz/client/#!/doc/28349/kaz/24.06.2015
+  rus: https://zan.gov.kz/client/#!/doc/28349/rus/24.06.2015
 caused_by:
-  code: P080000208_
+  code: '91168'
+  requisite: Постановление Правительства Республики Казахстан от 24 июня 2015 года № 479
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/91168/rus
