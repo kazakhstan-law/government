@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/87597/kaz/11.02.2015
+source: https://zan.gov.kz/client/#!/doc/87597/kaz/29.06.2015
 ---
 
 > *Шу ауданы әкімдігінің 2015 жылғы 11 ақпандағы № 86 қаулысымен бекітілген*
