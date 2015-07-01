@@ -1,0 +1,25 @@
+key: G15BC07216A
+akn: /akn/kz/act/2015-07-01/G15BC07216A
+act_code: '100638'
+requisite: Постановление акимата Аккольского района Акмолинской области от 1 июля 2015 года № А-7/216
+title:
+  rus: О признании утратившим силу постановление акимата Аккольского района
+  kaz: Ақкөл ауданы әкімдігі қаулысының күшін жойғандығы тану туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2015-07-01
+in_force_from: 2015-07-01
+approved_by:
+- '152004000001'
+versions:
+- date: 2015-07-01
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2015-07-01
+  rus: 2015-07-01
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/100638/kaz/01.07.2015
+  rus: https://zan.gov.kz/client/#!/doc/100638/rus/01.07.2015
