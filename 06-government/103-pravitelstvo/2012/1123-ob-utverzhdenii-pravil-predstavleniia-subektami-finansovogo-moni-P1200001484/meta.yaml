@@ -24,12 +24,16 @@ versions:
   cause:
     code: '85730'
     key: P1400001435
+- date: 2015-07-01
+  languages:
+  - rus
+  cause:
+    code: '85730'
+    key: P1400001435
 version_date:
-  kaz: 2014-12-31
-  rus: 2014-12-31
+  rus: 2015-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/69016/kaz/31.12.2014
-  rus: https://zan.gov.kz/client/#!/doc/69016/rus/31.12.2014
+  rus: https://zan.gov.kz/client/#!/doc/69016/rus/01.07.2015
 caused_by:
   code: '85730'
   key: P1400001435
