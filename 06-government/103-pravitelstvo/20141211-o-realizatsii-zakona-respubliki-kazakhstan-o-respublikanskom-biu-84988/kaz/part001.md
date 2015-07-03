@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
+source: https://zan.gov.kz/client/#!/doc/84988/kaz/03.07.2015
 ---
 
 ## Басым республикалық бюджеттік инвестициялар тізбесі
 
-> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Үкіметінің 13.03.2015 № 139 қаулысымен (01.01.2015 бастап қолданысқа енгiзiледi).*
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Үкіметінің 13.03.2015 № 139 (01.01.2015 бастап қолданысқа енгiзiледi); өзгеріс енгізілді - ҚР Үкіметінің 03.07.2015 № 510 (2015 жылғы 1 қаңтардан бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>233 024 190</th>
 </tr>
 <tr>
-<th>1</th>
+<th rowspan="52">1</th>
 <th></th>
 <th></th>
 <th></th>
@@ -66,7 +66,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<th></th>
 <th>204</th>
 <th></th>
 <th></th>
@@ -77,7 +76,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>009</td>
 <td></td>
 <td colspan="2">Қазақстан Республикасының дипломатиялық өкілдіктерін орналастыру үшін шетелде жылжымайтын мүлік объектілерін салу</td>
@@ -86,7 +84,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,14 +98,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Өзгелер</th>
 <th>3 028 783</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,14 +118,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Беларусь Республикасында ҚР Елшілігінің ғимараттар кешенін салу</td>
 <td>1 194 033</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>217</th>
 <th></th>
 <th></th>
@@ -141,7 +134,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>014</td>
 <td></td>
 <td colspan="2">Кеден қызметін жаңғырту</td>
@@ -150,7 +142,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -165,14 +156,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -187,14 +176,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Кеден қызметін жаңғырту</td>
 <td>537 104</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -209,14 +196,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -231,14 +216,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Кеден қызметін жаңғырту</td>
 <td>802 382</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>061</td>
 <td></td>
@@ -252,14 +235,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -274,14 +255,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«е-Қаржымині» интеграцияланған автоматтандырылған ақпараттық жүйесін құру</td>
 <td>1 708 675</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>091</td>
 <td></td>
@@ -295,14 +274,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -317,14 +294,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Шығыс Қазақстан облысының Зайсан ауданы Қаратал ауылдық округіндегі қызметтік тұрғын үйлердің құрылысы</td>
 <td>18 590</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -339,14 +314,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жамбыл облысының «Қордай» өткізу пунктінің жобалау-сметалық құжаттамасын әзірлеу, салу, кеңейту және қайта жаңарту</td>
 <td></td>
 <td>350 000</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -361,14 +334,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Оңтүстік Қазақстан облысының «Қапланбек» өткізу пунктінің жобалау-сметалық құжаттамасын әзірлеу, салу, кеңейту және қайта жаңарту</td>
 <td>375 000</td>
 <td>375 000</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -383,7 +354,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Астана қаласы</th>
 <th>895 563</th>
 <th>383 812</th>
@@ -394,14 +364,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласында салық органдарының ақпараттарын қабылдау және өңдеу орталығы ғимаратын салу (№ 1 МӨО)</td>
 <td>895 563</td>
 <td>383 812</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>242</th>
 <th></th>
 <th></th>
@@ -411,7 +379,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>077</td>
 <td></td>
@@ -425,14 +392,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -447,14 +412,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жоғарғы деңгейдің домендік аттары серверлерінің істен шығуға қарсы тұруын қамтамасыз ету бөлігінде ақпараттық-коммуникациялық желілер мониторингінің ақпараттық жүйесін құру</td>
 <td></td>
 <td>202 872</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>243</th>
 <th></th>
 <th></th>
@@ -464,7 +427,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>013</td>
 <td></td>
@@ -478,14 +440,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -500,14 +460,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Экономика, мемлекеттік жоспарлау және талдау саласындағы ақпараттық жүйелерді дамыту</td>
 <td>814 124</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>406</th>
 <th></th>
 <th></th>
@@ -517,7 +475,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>006</td>
 <td></td>
@@ -531,14 +488,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -553,14 +508,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Республикалық бюджеттiң атқарылуын бақылау жөнiндегi есеп комитетiнің интеграцияланған ақпараттық жүйесін құру</td>
 <td>53 528</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>622</th>
 <th></th>
 <th></th>
@@ -570,7 +523,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>006</td>
 <td></td>
@@ -584,14 +536,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -606,14 +556,13 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«Е-қызмет» интеграцияланған ақпараттық жүйесін құру</td>
 <td>797 001</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th>2</th>
+<th rowspan="52">2</th>
 <th></th>
 <th></th>
 <th></th>
@@ -623,7 +572,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>22 205 115</th>
 </tr>
 <tr>
-<th></th>
 <th>201</th>
 <th></th>
 <th></th>
@@ -633,7 +581,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>3 278 909</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>066</td>
 <td></td>
@@ -647,14 +594,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -669,14 +614,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қызмет бабында пайдалану үшін</td>
 <td>1 752 566</td>
 <td>5 061 890</td>
 <td>2 736 104</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -691,14 +634,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Үлгі жобаны байластыру бойынша жобалау-сметалық құжаттаманы әзірлеу және «Ақмола облысы Төтенше жағдайлар департаментінің Суда құтқару қызметі» Мемлекеттік мекемесі үшін 2 разрядты су-құтқару станцияларының үлгі жобасы бойынша қалыпты геологиялық жағдайларымен IВ және IIIА климатты аудандары үшін Ақмола облысы Бурабай ауданы Бурабай кентінде Бурабай көлінің жағалауында су-құтқару станциясын салу»</td>
 <td></td>
 <td>246 779</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -713,14 +654,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақтөбе қаласындағы қалыпты геологиялық жағдайларымен климаттық аумағының 6 автомобилі ІІІ А арналған өрт сөндіру депосы кешенінің құрылысы</td>
 <td>621 624</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -735,14 +674,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Шекара маңы ынтымақтастығының халықаралық орталығы (ШЫХО) ауданында Қорғас өзенінде қорғаныс ғимаратының және «Қорғас» кедені ғимаратының құрылысын салу</td>
 <td>969 746</td>
 <td>12 385 701</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -757,14 +694,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«Жартасты қала – Астана» сумен жабдықтауды өткізуге жобалау-сметалық құжаттаманы әзірлеу</td>
 <td>750</td>
 <td>32 000</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -779,14 +714,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Шығыс Қазақстан облысы Зырян ауданы Жаңа Бұқтырма к. «Геологиялық жағдайлары әдеттегідей ІВ, ІІІА климаттық шағын аудандарға арналған V типтік 2 автомобильге арналған өрт сөндіру депо кешені» типтік жобасын байланыстыру бойынша жобалық-сметалық құжаттама әзірлеу және оның құрылысы</td>
 <td></td>
 <td>54 810</td>
 <td>156 708</td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -801,14 +734,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарағанды қаласының «Голубые пруды» құрылыс салу алаңында геологиялық талаптарымен IВ және IIIА климатологиялық аудандары үшін II-ші типтегі 6 автомобильге арналған өрт сөндіру депосының кешенін салу</td>
 <td>625 622</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -823,14 +754,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Қызылорда облысы</th>
 <th>211 127</th>
 <th>816 725</th>
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -845,14 +774,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Үлгі жобаны байластыру бойынша жобалау-сметалық құжаттаманы әзірлеу және Қызылорда облысы Байқоңыр қаласы Торетам кентінде «Сейсмикалық белсенділігі 7 балдық IIIА, IIIВ және IVГ климатты аудандары үшін V-типті 2 автокөлігіне өрт сөндіру депосының кешенін» салу</td>
 <td></td>
 <td>229 581</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -867,14 +794,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>ОҚО, Шымкент қаласы «Достық» мөлтек ауданындағы 6 автокөлікке өрт сөндіру депо кешенінің құрылысы</td>
 <td>634 610</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -889,14 +814,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы қаласы Алатау ауданы, Ақбұлақ және Қарасу ықшам ауданының батыс жағындағы бекітілген жер учаскесінде орналасқан өрт сөндіру депосы ғимараттарының құрылысы. Ақбұлақ ықшам ауданындағы 6 автомобильді өрт сөндіру депосының кешені</td>
 <td>45 042</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -911,14 +834,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қ. жобалық атауы Е 357 және 227 көшелерінің қиылыстарындағы «Геологиялық жағдайлары әдеттегі IВ, IIIА климаттық шағын аудандар үшін ІІ үлгідегі 6 автомобильге арналған өрт сөндіру депосының кешенін» салу</td>
 <td>408 289</td>
 <td>612 434</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -933,14 +854,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«Астана қ. Орталық аэромобильді өңірлік жедел-құтқару жасағы» мемлекеттік мекемесі үшін ғимараттар мен құрылыстарды салуға» жобалау-сметалық құжаттаманы әзірлеу</td>
 <td>44 621</td>
 <td>314 802</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>070</td>
 <td></td>
@@ -954,14 +873,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -976,14 +893,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>ТЖ және АҚ корпоративтік ақпараттық-коммуникациялық мемлекеттік жүйесін құру</td>
 <td>353 675</td>
 <td>360 211</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>073</td>
 <td></td>
@@ -997,14 +912,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1019,14 +932,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасы Төтенше жағдайлар министрлігінің 112 бірыңғай кезекші-диспетчерлік қызметін құру</td>
 <td>20 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>208</th>
 <th></th>
 <th></th>
@@ -1036,7 +947,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>16 689 129</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>002</td>
 <td></td>
@@ -1050,14 +960,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1072,14 +980,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарулы Күштердің автоматтандырылған басқару жүйесін құру</td>
 <td>9 878 086</td>
 <td>10 610 587</td>
 <td>10 610 587</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>004</td>
 <td></td>
@@ -1093,14 +999,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1115,14 +1019,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қызмет бабында пайдалану үшін</td>
 <td>22 410 920</td>
 <td>13 474 076</td>
 <td>6 078 542</td>
 </tr>
 <tr>
-<th></th>
 <th>243</th>
 <th></th>
 <th></th>
@@ -1132,7 +1034,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>2 237 077</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>016</td>
 <td></td>
@@ -1146,14 +1047,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1168,14 +1067,13 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Құпия</td>
 <td></td>
 <td>342 232</td>
 <td>2 237 077</td>
 </tr>
 <tr>
-<th>3</th>
+<th rowspan="89">3</th>
 <th></th>
 <th></th>
 <th></th>
@@ -1185,7 +1083,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>7 296 068</th>
 </tr>
 <tr>
-<th></th>
 <th>201</th>
 <th></th>
 <th></th>
@@ -1195,7 +1092,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>2 346 113</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>007</td>
 <td></td>
@@ -1209,14 +1105,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1231,14 +1125,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы облысындағы Заречный кентінің ЛА-155/12 мекемесін 1500 орынға арналған қатаң режимдегі түзеу колониясы етіп салу және реконструкциялау</td>
 <td>1 452 957</td>
 <td>148 137</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1253,14 +1145,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Орал қаласында 1500 орынға арналған тергеу изоляторын салу</td>
 <td>484 968</td>
 <td>595 077</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1275,14 +1165,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана, Алматы, Шымкент қалаларында 200 орынды арнайы қабылдау орындарының (қамау үйі) үлгі жобаларын жергілікті жерге байланыстыру</td>
 <td></td>
 <td></td>
 <td>22 039</td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1297,14 +1185,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана, Алматы, Шымкент қалаларында 200 орынды арнайы қабылдау орындарының (қамау үйі) үлгі жобаларын жергілікті жерге байланыстыру</td>
 <td></td>
 <td></td>
 <td>22 037</td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1319,14 +1205,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласында Қазақстан Республикасы ІІМ Ішкі әскерлердің 3656 әскери бөлім объектілерін (кешендер) салу және құру (әуе эскадрильясы)</td>
 <td>853 260</td>
 <td>939 858</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1341,14 +1225,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана, Алматы, Шымкент қалаларында 200 орынды арнайы қабылдау орындарының (қамау үйі) үлгі жобаларын жергілікті жерге байланыстыру</td>
 <td></td>
 <td></td>
 <td>22 037</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>049</td>
 <td></td>
@@ -1362,14 +1244,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1384,14 +1264,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасы ІІМ қызметтік ғимаратының кешенін салу</td>
 <td>1 554 867</td>
 <td>1 217 784</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>051</td>
 <td></td>
@@ -1405,14 +1283,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1427,7 +1303,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасы ІІМ Көші-қон полициясы комитетінің ақпараттық жүйесін құру</td>
 <td>80 612</td>
 <td>18 324</td>
@@ -1438,14 +1313,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Орталықтандырылған автоматтандырылған қылмыстық-атқару жүйесі деректер базасын құру</td>
 <td>323 248</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>057</td>
 <td></td>
@@ -1459,14 +1332,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1481,14 +1352,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасының шағын қалаларында жедел басқару орталықтарын құру</td>
 <td></td>
 <td>2 280 000</td>
 <td>2 280 000</td>
 </tr>
 <tr>
-<th></th>
 <th>221</th>
 <th></th>
 <th></th>
@@ -1498,7 +1367,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>665 463</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>061</td>
 <td></td>
@@ -1512,14 +1380,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1534,14 +1400,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласының Қабанбай батыр даңғылы бойындағы сот медицинасы орталығы. Түзету</td>
 <td></td>
 <td>1 044 586</td>
 <td>665 463</td>
 </tr>
 <tr>
-<th></th>
 <th>410</th>
 <th></th>
 <th></th>
@@ -1551,7 +1415,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>002</td>
 <td></td>
@@ -1565,14 +1428,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1587,14 +1448,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</td>
 <td>3 134 851</td>
 <td>5 706 480</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>502</th>
 <th></th>
 <th></th>
@@ -1604,7 +1463,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>408 972</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>008</td>
 <td></td>
@@ -1618,14 +1476,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1640,14 +1496,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақмола облысы Астрахан ауданы Астраханка селосының Әл-Фараби, 48а көшесі бойында прокуратура әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td>86 243</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1662,14 +1516,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақтөбе облысы Әйтекеби ауданы Комсомол селосындағы прокуратура әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td>60 900</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1684,14 +1536,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақтөбе облысы Қобда ауданы Қобда селосындағы прокуратура әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td>55 043</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1706,14 +1556,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы облысының Текелі қаласындағы прокуратура әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td>59 334</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1728,14 +1576,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Жамбыл облысы</th>
 <th></th>
 <th>218 015</th>
 <th>94 686</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1750,14 +1596,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Жамбыл облысы Шу ауданы Шу қаласы Оспанов көшесі бойындағы ауданаралық және көлік прокуратурасы әкімшілік ғимараты құрылысын салу</td>
 <td></td>
 <td>218 015</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1772,14 +1616,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>БҚО Тасқала ауданы Тасқала ауылының Абай көшесі 26а мекенжайдағы прокуратура ғимаратының құрылысы</td>
 <td></td>
 <td>67 056</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1794,14 +1636,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>БҚО Теректі ауданы Федоровка ауылының Крупская көшесіндегі прокуратура ғимаратының құрылысы</td>
 <td></td>
 <td>71 274</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1816,14 +1656,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Қарағанды облысы</th>
 <th></th>
 <th></th>
 <th>190 580</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1838,14 +1676,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қарағанды облысы Сәтпаев қаласының прокуратура әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td></td>
 <td>68 834</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1860,14 +1696,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Солтүстік Қазақстан облысы</th>
 <th></th>
 <th>218 015</th>
 <th>123 706</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1882,14 +1716,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Солтүстік Қазақстан облысы Петропавл қаласы Қ. Сәтпаев көшесі бойындағы әскери, көлік прокуратуралары және ҚСЖАЕАЖК әкімшілік ғимаратын салу</td>
 <td></td>
 <td>218 015</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1904,14 +1736,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>ОҚО Төлеби ауданы Ленгір қаласы Алатау мөлтек ауданындағы Төлеби аудандық прокуратурасының әкімшілік ғимаратының құрылысы</td>
 <td></td>
 <td>98 543</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1926,7 +1756,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Астана қаласы</th>
 <th>674 311</th>
 <th></th>
@@ -1937,14 +1766,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласындағы Орынбор және Сығанақ көшелерінің қиылысында паркингі бар көп пәтерлі тұрғын үй кешені</td>
 <td>674 311</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>010</td>
 <td></td>
@@ -1958,14 +1785,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -1980,14 +1805,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасының құқық қорғау және арнайы органдары үшін ақпарат алмасу жүйесін құру</td>
 <td>194 772</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>017</td>
 <td></td>
@@ -2001,14 +1824,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2023,14 +1844,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«Сотқа дейінгі тергеп-тексерулердің бірыңғай тізілімі» ақпараттық жүйесін құру</td>
 <td>1 336 291</td>
 <td>236 792</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>622</th>
 <th></th>
 <th></th>
@@ -2040,7 +1859,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>011</td>
 <td></td>
@@ -2054,14 +1872,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2076,14 +1892,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Бірыңғай автоматтандырылған ақпараттық-телекоммуникациялық жүйені дамыту</td>
 <td>446 771</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>681</th>
 <th></th>
 <th></th>
@@ -2093,7 +1907,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>3 875 520</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>002</td>
 <td></td>
@@ -2107,14 +1920,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2129,14 +1940,13 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасының Мемлекеттік күзет қызметін дамыту бағдарламасы</td>
 <td>3 095 535</td>
 <td>5 393 046</td>
 <td>3 875 520</td>
 </tr>
 <tr>
-<th>4</th>
+<th rowspan="53">4</th>
 <th></th>
 <th></th>
 <th></th>
@@ -2146,7 +1956,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th>2 373 088</th>
 </tr>
 <tr>
-<th></th>
 <th>201</th>
 <th></th>
 <th></th>
@@ -2156,7 +1965,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>053</td>
 <td></td>
@@ -2170,14 +1978,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2192,14 +1998,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы облысының Заречный кентінде «Бүркіт» арнайы мақсаттағы бөлініс үшін әскери қалашығымен бірге жауынгерлік және әдістемелік дайындық оқу орталығын салу</td>
 <td>1 455 944</td>
 <td>2 613 087</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>225</th>
 <th></th>
 <th></th>
@@ -2210,7 +2014,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>004</td>
 <td></td>
 <td colspan="2">Ғылыми зерттеулерді коммерцияландыру жобасы бойынша инновациялық жүйенің желілерін дамыту</td>
@@ -2219,7 +2022,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>004</td>
@@ -2234,14 +2036,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2256,14 +2056,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ғылыми зерттеулерді коммерцияландыру жобасы бойынша инновациялық жүйенің желілерін дамыту</td>
 <td>354 044</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>016</td>
@@ -2278,14 +2076,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2300,14 +2096,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ғылыми зерттеулерді коммерцияландыру жобасы бойынша инновациялық жүйенің желілерін дамыту</td>
 <td>2 353 425</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>005</td>
 <td></td>
@@ -2321,14 +2115,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2343,14 +2135,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақмола облысы Көкшетау қаласы Ақан сері, 24 көшесі бойында 310 орындық жатақхана құрылысы</td>
 <td>196 051</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2365,14 +2155,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Шығыс Қазақстан облысы Өскемен қаласында Д. Серікбаев атындағы Шығыс Қазақстан мемлекеттік техникалық университетінің студқалашық ауданында 500 орындық студенттер мен аспиранттар үшін жатақхана салу</td>
 <td>208 650</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2387,14 +2175,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ломов көш., 64 мекенжайындағы «С.Торайғыров атындағы Павлодар мемлекеттік университеті» РМҚК аумағында 500 орынға арналған жатақхана салу</td>
 <td>600 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2409,14 +2195,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Оңтүстік Қазақстан облысы</th>
 <th>1 134 665</th>
 <th>824 452</th>
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2431,14 +2215,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Шымкент қаласы № 2 студенттік жатақхана мен № 9 оқу корпусы аумағындағы өз жерінде 588 орындық жатақхана құрылысы</td>
 <td>324 048</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2453,14 +2235,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Алматы қаласы</th>
 <th>836 659</th>
 <th>1 696 383</th>
 <th>1 126 795</th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2475,14 +2255,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы қаласы, Бостандық ауданындағы Байтұрсынов көшесі, 147Б бойындағы Қ.И. Сәтбаев атындағы КазҰТУ-дың жатақханасын салу</td>
 <td>536 650</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2497,14 +2275,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Алматы қаласындағы Әл-Фараби атындағы ҚазҰУ ҒІИ зертханалық корпустары</td>
 <td></td>
 <td>1 210 993</td>
 <td>1 126 795</td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2519,14 +2295,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Қазақстан Республикасының Ұлттық биотехнология орталығының құрылысы</td>
 <td>367 839</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2541,14 +2315,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласындағы С. Сейфуллин атындағы Қазақ мемлекеттік агротехникалық университетінің 592 орындық жатақханасының құрылысы</td>
 <td>200 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2563,7 +2335,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>М.В. Ломоносов атындағы Мәскеу мемлекеттік университетінің қазақстандық филиалы үшін Л.Н. Гумилев атындағы Еуразия ұлттық университетінің оқу корпусының құрылысы және ЖСҚ-ны әзірлеу</td>
 <td>62 000</td>
 <td>1 500 000</td>
@@ -2574,14 +2345,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Астана қаласындағы Сауран және Ақмешіт көшелерінің арасындағы Керей - Жәнібек хандар көшесіндегі пәтер типтес жатақхананың құрылысы</td>
 <td></td>
 <td>300 000</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>239</th>
 <th></th>
 <th></th>
@@ -2591,7 +2360,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>007</td>
 <td></td>
@@ -2605,14 +2373,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>оның ішінде инвестициялық жобаларға:</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2627,14 +2393,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>Ақтөбе қаласындағы «М. Оспанов атындағы Батыс Қазақстан медицина университеті» РМҚК үшін 1000 орындық жатақхана құрылысы</td>
 <td>282 325</td>
 <td>860 308</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -2649,14 +2413,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>«Семей қаласының мемлекеттік медициналық университеті» РМҚК үшін 1000 орынға арналған жатақхана</td>
 <td>282 326</td>
 <td>1 103 586</td>
 <td></td>
 </tr>
 <tr>
-<th></th>
 <th>240</th>
 <th></th>
 <th></th>
@@ -2667,7 +2429,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>029</td>
 <td></td>
 <td colspan="2">Мәдениет және өнер саласында қызметін жүзеге асыратын білім беру объектілерін салу, реконструкциялау</td>
@@ -2676,7 +2437,6 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2691,14 +2451,12 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Алматы қаласы</th>
 <th>335 400</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3087,7 +2845,7 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th>Алматы облысы</th>
-<th>1 278 946</th>
+<th>678 946</th>
 <th>1 250 000</th>
 <th>1 729 183</th>
 </tr>
@@ -3098,7 +2856,7 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td>Алматы облысында республикалық олимпиадалық даярлық базасын салу</td>
-<td>1 278 946</td>
+<td>678 946</td>
 <td>1 250 000</td>
 <td>1 729 183</td>
 </tr>
@@ -3109,7 +2867,7 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <th></th>
 <th></th>
 <th>Астана қаласы</th>
-<th>488 163</th>
+<th>0</th>
 <th>1 250 000</th>
 <th>8 918 074</th>
 </tr>
@@ -3120,9 +2878,35 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td></td>
 <td></td>
 <td>Астана қаласында көп функционалды «Олимпиадалық даярлау орталығы» спорттық кешенін салу (сыртқы инженерлік желісіз)</td>
-<td>488 163</td>
+<td>0</td>
 <td>1 250 000</td>
 <td>8 918 074</td>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Ақмола облысы</th>
+<th>1 088 163</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+Ақмола облысы Щучинск қаласында республикалық
+шаңғы спорты
+базасын салу (I және II кезектер)
+</td>
+<td>1 088 163</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <th></th>
@@ -4930,5 +4714,71 @@ source: https://zan.gov.kz/client/#!/doc/84988/kaz/13.03.2015
 <td>40 890</td>
 <td>1 000 000</td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>«Жетібай - Жаңаөзен - Фетисово - Түркменстан шекарасы (Түркменбасшыға)» автожолын қайта жаңарту және жобалау-іздестіру жұмыстары</td>
+<td></td>
+<td>15 000 000</td>
+<td>9 000 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>«Жезқазған - Есіл - Петропавловск» республикалық автожолының телімін Жезқазған кен орны тау-кен жұмыстарының әсер ететін аймағынан көшіру</td>
+<td>707 847</td>
+<td>1 272 017</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>«РФ шек. (Орск қаласына) - Ақтөбе - Атырау - РФ шек. (Астрахань қаласына)» автожолын қайта жаңарту және жобалау-іздестіру жұмыстары</td>
+<td>10 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>016</td>
+<td></td>
+<td>Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
+<td>12 923 455</td>
+<td>9 870 000</td>
+<td>13 102 183</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>оның ішінде инвестициялық жобаларға:</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Өзгелер</th>
+<th>12 923 455</th>
+<th>9 870 000</th>
+<th>13 102 183</th>
 </tr>
 </table>
