@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/80498/kaz/25.09.2014
+source: https://zan.gov.kz/client/#!/doc/80498/kaz/17.07.2015
 ---
 
 > *"Тракторлардың және олардың*  
