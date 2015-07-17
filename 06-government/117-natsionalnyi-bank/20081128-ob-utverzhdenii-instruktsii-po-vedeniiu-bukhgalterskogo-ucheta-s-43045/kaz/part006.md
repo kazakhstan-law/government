@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/43045/kaz/24.02.2012
+source: https://zan.gov.kz/client/#!/doc/43045/kaz/17.07.2015
 ---
 
 ## 6. Заем шарттарының бухгалтерлік есебі

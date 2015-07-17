@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43045/rus/24.02.2012
+source: https://zan.gov.kz/client/#!/doc/43045/rus/17.07.2015
 ---
 
 ## 6. Бухгалтерский учет договоров займа

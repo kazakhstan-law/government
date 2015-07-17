@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/60331/kaz/27.05.2015
+source: https://zan.gov.kz/client/#!/doc/60331/kaz/17.07.2015
 ---
 
 ## 3-параграф. Опционмен операцияларды есепке алу
