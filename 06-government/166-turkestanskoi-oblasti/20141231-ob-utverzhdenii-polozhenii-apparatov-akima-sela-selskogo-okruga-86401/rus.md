@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/86401/rus/31.12.2014
+source: https://zan.gov.kz/client/#!/doc/86401/rus/30.07.2015
 ---
 
 # Об утверждении положении аппаратов акима села, сельского округа
