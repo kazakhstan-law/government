@@ -1,5 +1,5 @@
 ---
-version_id: '85213_23301'
+version_id: '85213_153808'
 act_code: '85213'
 language: kaz
 title: 2015 жылға қоғамдық жұмыстарды ұйымдастыру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158003000001'
 approval_date: 2014-11-28
-version_date: 2014-11-28
+version_date: 2015-08-12
 registry_number: '85213'
-source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
+caused_by:
+  code: '93560'
+  title: 2015 жылға  қоғамдық жұмыстарды ұйымдастыру туралы Байзақ ауданы әкімдігінің 2014 жылғы 28 қарашадағы № 656 қаулысына өзгерістер енгізу
+  link: https://zan.gov.kz/client/#!/doc/93560/kaz
+source: https://zan.gov.kz/client/#!/doc/85213/kaz
 ---
 
 # 2015 жылға қоғамдық жұмыстарды ұйымдастыру туралы
@@ -35,6 +39,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 
 # Ұйымдардың тiзбелерi, қоғамдық жұмыстардың түрлерi, көлемi мен нақты жағдайлары, қатысушылардың еңбегiне төленетiн ақының мөлшерi және оларды қаржыландыру көздерi, қоғамдық жұмыстарға сұраныс пен ұсыныс
 
+> *Ескерту. Қосымшаға өзгерістер енгізілді - Жамбыл облысы Байзақ ауданы әкімдігінің 12.08.2015 № 457 қаулысымен (алғашқы ресми жарияланғаннан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі және 2015 жылдың 1 тамызынан туындайтын қатынастарға таралады).*
+
 <table>
 <tr>
 <td>№</td>
@@ -54,8 +60,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>31</td>
-<td>31</td>
+<td>34</td>
+<td>34</td>
 </tr>
 <tr>
 <td>2</td>
@@ -90,8 +96,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>8</td>
-<td>8</td>
+<td>9</td>
+<td>9</td>
 </tr>
 <tr>
 <td>5</td>
@@ -102,8 +108,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>7</td>
-<td>7</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6</td>
@@ -114,8 +120,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>15</td>
-<td>15</td>
+<td>17</td>
+<td>17</td>
 </tr>
 <tr>
 <td>7</td>
@@ -138,8 +144,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>7</td>
-<td>7</td>
+<td>9</td>
+<td>9</td>
 </tr>
 <tr>
 <td>9</td>
@@ -162,8 +168,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>10</td>
-<td>10</td>
+<td>14</td>
+<td>14</td>
 </tr>
 <tr>
 <td>11</td>
@@ -174,8 +180,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>10</td>
-<td>10</td>
+<td>12</td>
+<td>12</td>
 </tr>
 <tr>
 <td>12</td>
@@ -210,8 +216,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>5</td>
-<td>5</td>
+<td>6</td>
+<td>6</td>
 </tr>
 <tr>
 <td>15</td>
@@ -222,8 +228,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>8</td>
-<td>8</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
 <td>16</td>
@@ -234,8 +240,8 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 32046
 Жергілікті бюджет
 </td>
-<td>13</td>
-<td>13</td>
+<td>16</td>
+<td>16</td>
 </tr>
 <tr>
 <td>17</td>
@@ -267,7 +273,7 @@ source: https://zan.gov.kz/client/#!/doc/85213/kaz/28.11.2014
 <td></td>
 <td></td>
 <td></td>
-<td>220</td>
-<td>220</td>
+<td>243</td>
+<td>243</td>
 </tr>
 </table>
