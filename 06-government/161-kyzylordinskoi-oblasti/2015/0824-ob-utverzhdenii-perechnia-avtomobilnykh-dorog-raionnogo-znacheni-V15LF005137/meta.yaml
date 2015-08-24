@@ -1,0 +1,24 @@
+key: V15LF005137
+akn: /akn/kz/act/2015-08-24/V15LF005137
+act_code: '93862'
+requisite: Постановление от 24.08.2015 №177, Акимат Жалагашского района
+title:
+  rus: Об утверждении перечня автомобильных дорог районного значения
+  kaz: Аудандық маңыздағы автомобиль жолдарының тізбесін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2015-08-24
+approved_by:
+- '161006000001'
+versions:
+- date: 2015-08-24
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2015-08-24
+  rus: 2015-08-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/93862/kaz/24.08.2015
+  rus: https://zan.gov.kz/client/#!/doc/93862/rus/24.08.2015
