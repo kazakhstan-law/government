@@ -32,17 +32,24 @@ versions:
   cause:
     code: '22122'
     key: P1500000537
+- date: 2015-08-28
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '93246'
+    key: P1500000683
 version_date:
-  kaz: 2015-07-16
-  rus: 2015-07-16
+  kaz: 2015-08-28
+  rus: 2015-08-28
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/83247/kaz/16.07.2015
-  rus: https://zan.gov.kz/client/#!/doc/83247/rus/16.07.2015
+  kaz: https://zan.gov.kz/client/#!/doc/83247/kaz/28.08.2015
+  rus: https://zan.gov.kz/client/#!/doc/83247/rus/28.08.2015
 caused_by:
-  code: '22122'
-  key: P1500000537
-  requisite: Постановление Правительства Республики Казахстан от 16 июля 2015 года № 537
+  code: '93246'
+  key: P1500000683
+  requisite: Постановление Правительства Республики Казахстан от 28 августа 2015 года № 683
   title:
-    rus: О ликвидации акционерного общества «Казаэросервис»
-    kaz: «Қазаэросервис» акционерлік қоғамын тарату туралы
-  link: https://zan.gov.kz/client/#!/doc/22122/rus
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/93246/rus
