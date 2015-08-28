@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83247/rus/16.07.2015
+source: https://zan.gov.kz/client/#!/doc/83247/rus/28.08.2015
 ---
 
 ## Положение о Министерстве энергетики Республики Казахстан
