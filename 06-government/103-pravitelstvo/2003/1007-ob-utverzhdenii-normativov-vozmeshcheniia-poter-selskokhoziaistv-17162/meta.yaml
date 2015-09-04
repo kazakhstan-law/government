@@ -12,15 +12,15 @@ approved_on: 2003-10-07
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2015-07-16
-  rus: 2015-07-16
+  kaz: 2015-09-04
+  rus: 2015-09-04
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17162/kaz/16.07.2015
-  rus: https://zan.gov.kz/client/#!/doc/17162/rus/16.07.2015
+  kaz: https://zan.gov.kz/client/#!/doc/17162/kaz/04.09.2015
+  rus: https://zan.gov.kz/client/#!/doc/17162/rus/04.09.2015
 caused_by:
-  code: '91809'
-  requisite: Постановление Правительства Республики Казахстан от 16 июля 2015 года № 542
+  code: '93487'
+  requisite: Постановление Правительства Республики Казахстан от 4 сентября 2015 года № 745
   title:
     rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/91809/rus
+  link: https://zan.gov.kz/client/#!/doc/93487/rus
