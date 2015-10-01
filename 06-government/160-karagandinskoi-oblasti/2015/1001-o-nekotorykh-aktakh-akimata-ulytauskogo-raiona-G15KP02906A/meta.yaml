@@ -1,0 +1,24 @@
+key: G15KP02906A
+akn: /akn/kz/act/2015-10-01/G15KP02906A
+act_code: '107621'
+requisite: Постановление акимата Улытауского района Карагандинской области от 1 октября 2015 года № 29/06
+title:
+  rus: О некоторых актах акимата Улытауского района
+  kaz: Ұлытау ауданы әкімдігінің кейбір актілері туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2015-10-01
+approved_by:
+- '160019000001'
+versions:
+- date: 2015-10-01
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2015-10-01
+  rus: 2015-10-01
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/107621/kaz/01.10.2015
+  rus: https://zan.gov.kz/client/#!/doc/107621/rus/01.10.2015
