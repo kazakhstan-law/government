@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/87597/rus/29.06.2015
+source: https://zan.gov.kz/client/#!/doc/87597/rus/01.10.2015
 ---
 
 > *Приложение к постановлению акимата Шуского района от 11 февраля 2015 года № 86*
