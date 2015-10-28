@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/84988/kaz/20.10.2015
+source: https://zan.gov.kz/client/#!/doc/84988/kaz/28.10.2015
 ---
 
 ## 2015 жылға арналған мемлекеттік тапсырмалардың тізбесі
