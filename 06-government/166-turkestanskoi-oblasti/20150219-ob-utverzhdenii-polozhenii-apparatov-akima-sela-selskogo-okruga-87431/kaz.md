@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/87431/kaz/19.02.2015
+source: https://zan.gov.kz/client/#!/doc/87431/kaz/02.11.2015
 ---
 
 # Ауыл, ауылдық округ әкімі аппараттарының ережелерін бекіту туралы
