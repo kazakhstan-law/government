@@ -1,5 +1,5 @@
 ---
-version_id: '93344_21640'
+version_id: '93344_36906'
 act_code: '93344'
 language: kaz
 title: 2015-2016 оқу жылына мемлекеттік білім беру тапсырысын бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '152000000001'
 approval_date: 2015-07-24
-version_date: 2015-07-24
+version_date: 2015-11-12
 registry_number: '93344'
-source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
+caused_by:
+  code: '96112'
+  title: «2015-2016 оқу жылына мемлекеттік білім беру тапсырысын бекіту туралы» Ақмола облысы әкімдігінің 2015 жылғы 24 шілдедегі № А-8/352 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/96112/kaz
+source: https://zan.gov.kz/client/#!/doc/93344/kaz
 ---
 
 # 2015-2016 оқу жылына мемлекеттік білім беру тапсырысын бекіту туралы
@@ -133,11 +137,12 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 МКҚК – мемлекеттік коммуналдық қазыналық кәсіпорын.
 
 > *Ақмола облысы әкімдігінің*  
-> *2015 жылғы 24 шілдедегі*  
-> *№ А-8/352 қаулысына*  
-> *2-қосымша*
+> *2015 жылғы 24 шілдедегі № А-8/352*  
+> *қаулысына 2-қосымша*
 
 # Жергілікті бюджет есебінен техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды дайындау үшін 2015-2016 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. 2-қосымша жаңа редакцияда - Ақмола облысы әкімдігінің 12.11.2015 № А-11/522 қаулысымен (ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -146,7 +151,10 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2" rowspan="2">Коды</td>
 <td colspan="2" rowspan="2">Мамандықтың атауы</td>
 <td rowspan="2">Коды</td>
-<td rowspan="2">Біліктіліктің атауы</td>
+<td rowspan="2">
+Біліктіліктің
+атауы
+</td>
 <td rowspan="2">Барлығы</td>
 <td colspan="2">9-сынып негізінде</td>
 <td colspan="2">11-сынып негізінде</td>
@@ -382,8 +390,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>125</td>
 </tr>
 <tr>
-<td rowspan="11">3.</td>
-<td rowspan="11">
+<td rowspan="10">3.</td>
+<td rowspan="10">
 Ақмола облысы білім басқармасының «Аршалы ауданы, Аршалы ауылы,
 № 4 агротехникалық колледжі» КММ
 </td>
@@ -391,17 +399,6 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Пісіру ісі (түрлері бойынша)</td>
 <td>111401 2</td>
 <td>Пісіруші (барлық атауларымен)</td>
-<td>20</td>
-<td>0</td>
-<td>20</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">1401000</td>
-<td colspan="2">Ғимараттар мен құрылымдарды салу және пайдалану</td>
-<td>140101 2</td>
-<td>Тас қалаушы</td>
 <td>20</td>
 <td>0</td>
 <td>20</td>
@@ -423,8 +420,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>150406 2</td>
 <td>Ауыл шаруашылық өндірісіндегі тракторшы-машинист</td>
 <td>40</td>
-<td>20</td>
-<td>20</td>
+<td>0</td>
+<td>40</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -433,8 +430,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Барлығы:</td>
 <td></td>
 <td></td>
-<td>100</td>
-<td>20</td>
+<td>80</td>
+<td>0</td>
 <td>80</td>
 <td>0</td>
 <td>0</td>
@@ -478,7 +475,10 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 </tr>
 <tr>
 <td>1403000</td>
-<td colspan="3">Ішкі санитарлық - техникалық құрылғыларды, желдеткіш терді және инженерлік жүйелерді пайдалану (түрлері бойынша)</td>
+<td colspan="3">
+Ішкі санитарлық - техникалық құрылғыларды, желдеткіш терді және инженерлік жүйелерді пайдалану (түрлері
+бойынша)
+</td>
 <td>140301 2</td>
 <td>Дәнекерлеуші-сантехник</td>
 <td>20</td>
@@ -505,8 +505,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>200</td>
-<td>20</td>
+<td>180</td>
+<td>0</td>
 <td>80</td>
 <td>0</td>
 <td>100</td>
@@ -518,9 +518,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Тамақтандыруды ұйымдастыру</td>
 <td>050801 2</td>
 <td>Аспаз</td>
-<td>60</td>
-<td>40</td>
-<td>20</td>
+<td>45</td>
+<td>30</td>
+<td>15</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -529,9 +529,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Ферма шаруашылығы (бейіндері бойынша)</td>
 <td>150406 2</td>
 <td>Ауыл шаруашылық өндірісіндегі тракторшы-машинист</td>
-<td>60</td>
-<td>40</td>
-<td>20</td>
+<td>45</td>
+<td>30</td>
+<td>15</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -542,9 +542,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>120</td>
-<td>80</td>
-<td>40</td>
+<td>90</td>
+<td>60</td>
+<td>30</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -746,15 +746,15 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>60</td>
 </tr>
 <tr>
-<td rowspan="3">7.</td>
-<td rowspan="3">Ақмола облысы білім басқармасының «Ерейментау ауданы, Ерейментау қаласы, № 8 агротехникалық колледжі» КММ</td>
+<td rowspan="2">7.</td>
+<td rowspan="2">Ақмола облысы білім басқармасының «Ерейментау ауданы, Ерейментау қаласы, № 8 агротехникалық колледжі» КММ</td>
 <td colspan="3">0508000</td>
 <td>Тамақтандыруды ұйымдастыру</td>
 <td>050801 2</td>
 <td>Аспаз</td>
 <td>40</td>
-<td>20</td>
-<td>20</td>
+<td>15</td>
+<td>25</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -764,19 +764,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>120107 2</td>
 <td>Автомобильдерді жөндейтін дәнекерлеуші</td>
 <td>40</td>
-<td>20</td>
-<td>20</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">1504000</td>
-<td>Ферма шаруашылығы (бейіндері бойынша)</td>
-<td>150406 2</td>
-<td>Ауыл шаруашылық өндірісіндегі тракторшы-машинист</td>
-<td>40</td>
-<td>20</td>
-<td>20</td>
+<td>15</td>
+<td>25</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -787,9 +776,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td></td>
 <td></td>
 <td></td>
-<td>120</td>
-<td>60</td>
-<td>60</td>
+<td>80</td>
+<td>30</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1049,9 +1038,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>Автомобиль көлігіне қызмет көрсету, жөндеу және пайдалану</td>
 <td>120107 2</td>
 <td>Автомобильдерді жөндейтін дәнекерлеуші</td>
-<td>25</td>
+<td>50</td>
 <td>0</td>
-<td>25</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1071,9 +1060,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>Барлығы:</td>
 <td></td>
 <td></td>
-<td>175</td>
+<td>200</td>
 <td>25</td>
-<td>150</td>
+<td>175</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1141,7 +1130,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="4">Барлығы:</td>
+<td colspan="2">Барлығы:</td>
+<td></td>
+<td></td>
 <td>100</td>
 <td>0</td>
 <td>0</td>
@@ -1155,9 +1146,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>275</td>
+<td>300</td>
 <td>25</td>
-<td>150</td>
+<td>175</td>
 <td>0</td>
 <td>100</td>
 </tr>
@@ -1290,7 +1281,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 </tr>
 <tr>
 <td colspan="3"></td>
-<td colspan="3">Барлығы:</td>
+<td>Барлығы:</td>
+<td></td>
+<td></td>
 <td>80</td>
 <td>0</td>
 <td>0</td>
@@ -1300,7 +1293,10 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <tr>
 <td></td>
 <td>БАРЛЫҒЫ:</td>
-<td colspan="6"></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
 <td>195</td>
 <td>0</td>
 <td>115</td>
@@ -1314,9 +1310,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Сәнді-қолданбалы және халықтық кәсіпшілік өнері (бейін бойынша)</td>
 <td>041301 2</td>
 <td>Ағаштан көркем заттар дайындаушы</td>
-<td>9</td>
+<td>10</td>
 <td>0</td>
-<td>9</td>
+<td>10</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1344,9 +1340,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 Кондитер
 Калькулятор
 </td>
-<td>80</td>
-<td>26</td>
-<td>54</td>
+<td>75</td>
+<td>25</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1366,9 +1362,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Токарлық іс және металл өндеу (түрлері бойынша)</td>
 <td>110901 2</td>
 <td>Токарь</td>
-<td>15</td>
+<td>20</td>
 <td>0</td>
-<td>15</td>
+<td>20</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -1412,30 +1408,19 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>224</td>
-<td>26</td>
-<td>198</td>
+<td>225</td>
+<td>25</td>
+<td>200</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td rowspan="5">14.</td>
-<td rowspan="5">Ақмола облысы білім басқармасының «Степногорск қаласы, №2 құрылыс-техникалық колледжі» КММ</td>
-<td colspan="2">0902000</td>
-<td colspan="2">Электрмен қамтамасыз ету (салалары бойынша)</td>
-<td>090202 2</td>
-<td>Бақылау-өлшеу құралдары және автоматтандыру бойынша дәнекерлеуші</td>
-<td>25</td>
-<td>0</td>
-<td>25</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
+<td rowspan="3">14.</td>
+<td rowspan="3">Ақмола облысы білім басқармасының «Степногорск қаласы, №2 құрылыс-техникалық колледжі» КММ</td>
 <td colspan="2">1401000</td>
 <td colspan="2">Ғимараттар мен құрылымдарды салу және пайдалану</td>
-<td>140104 2</td>
-<td>Сылақшы</td>
+<td>140124 2</td>
+<td>Кең бейінді құрылыс шебері</td>
 <td>25</td>
 <td>0</td>
 <td>25</td>
@@ -1447,26 +1432,15 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2" rowspan="2">Жол-құрылыс машиналарын техникалық пайдалану (түрлері бойынша)</td>
 <td>140210 2</td>
 <td>Бір ожаулы экскаватор машинисі</td>
-<td>25</td>
+<td>50</td>
 <td>0</td>
 <td>25</td>
 <td>0</td>
-<td>0</td>
+<td>25</td>
 </tr>
 <tr>
 <td>140216 2</td>
 <td>Автомобиль кранының машинисі</td>
-<td>25</td>
-<td>0</td>
-<td>25</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">1403000</td>
-<td colspan="2">Ішкі санитарлық-техникалық құрылғыларды, желдеткіш терді және инженерлік жүйелерді пайдалану(түрлерібойынша)</td>
-<td>140308 2</td>
-<td>Электргазбен пісіруші</td>
 <td>25</td>
 <td>0</td>
 <td>25</td>
@@ -1480,11 +1454,11 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>125</td>
+<td>100</td>
 <td>0</td>
-<td>125</td>
+<td>75</td>
 <td>0</td>
-<td>0</td>
+<td>25</td>
 </tr>
 <tr>
 <td rowspan="8">15.</td>
@@ -1558,11 +1532,11 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2" rowspan="2">Тігін өндірісі және киімдерді үлгілеу</td>
 <td>121103 2</td>
 <td>Тігінші әйел</td>
-<td>50</td>
+<td>25</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>50</td>
+<td>25</td>
 </tr>
 <tr>
 <td>121106 2</td>
@@ -1591,11 +1565,11 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>275</td>
+<td>250</td>
 <td>25</td>
 <td>150</td>
 <td>0</td>
-<td>100</td>
+<td>75</td>
 </tr>
 <tr>
 <td rowspan="7">16.</td>
@@ -1766,50 +1740,28 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td>0</td>
 </tr>
 <tr>
-<td rowspan="4">18.</td>
-<td rowspan="4">Ақмола облысы білім басқармасының жанындағы «Бурабай ауданы, Қатаркөл ауылы, ауыл шаруашылық колледжі» МКҚК</td>
+<td rowspan="2">18.</td>
+<td rowspan="2">Ақмола облысы білім басқармасының жанындағы «Бурабай ауданы, Қатаркөл ауылы, ауыл шаруашылық колледжі» МКҚК</td>
 <td colspan="2">1114000</td>
 <td colspan="2">Пісіру ісі (түрлері бойынша)</td>
 <td>111404 2</td>
 <td>Электргазбен пісіруші</td>
-<td>20</td>
+<td>15</td>
 <td>0</td>
-<td>20</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">1224000</td>
-<td colspan="2">Сүт өнімдерін өндірісі</td>
-<td>122406 3</td>
-<td>Техник-технолог</td>
-<td>20</td>
-<td>0</td>
-<td>20</td>
+<td>15</td>
 <td>0</td>
 <td>0</td>
-</tr>
-<tr>
-<td colspan="2">1225000</td>
-<td colspan="2">Ет және ет өнімдері өндірісі (түрлері бойынша)</td>
-<td>122511 3</td>
-<td>Техник-технолог</td>
-<td>20</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>20</td>
 </tr>
 <tr>
 <td colspan="2">1513000</td>
 <td colspan="2">Ветеринария</td>
 <td>151306 3</td>
 <td>Ветеринарлық техник</td>
-<td>60</td>
+<td>70</td>
 <td>0</td>
+<td>25</td>
 <td>20</td>
-<td>20</td>
-<td>20</td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
@@ -1818,11 +1770,11 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>120</td>
+<td>85</td>
 <td>0</td>
-<td>60</td>
-<td>20</td>
 <td>40</td>
+<td>20</td>
+<td>25</td>
 </tr>
 <tr>
 <td rowspan="4">19.</td>
@@ -2227,8 +2179,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Дене тәрбиесі және спорт</td>
 <td>010302 3</td>
 <td>Дене тәрбиесі және спорт пәнінің мұғалімі</td>
-<td>25</td>
-<td>25</td>
+<td>50</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2260,8 +2212,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2" rowspan="3">Негізгі орта білім</td>
 <td>011101 3</td>
 <td>Қазақ тілі және әдебиет мұғалімі</td>
-<td>25</td>
-<td>25</td>
+<td>50</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2269,8 +2221,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <tr>
 <td>011108 3</td>
 <td>Негізгі мектептің шетел тілі мұғалімі</td>
-<td>25</td>
-<td>25</td>
+<td>50</td>
+<td>50</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2291,8 +2243,8 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>200</td>
-<td>175</td>
+<td>275</td>
+<td>250</td>
 <td>0</td>
 <td>25</td>
 <td>0</td>
@@ -2304,20 +2256,20 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Мектепке дейінгі тәрбиеле және білім беру</td>
 <td>010101 3</td>
 <td>Мектепке дейінгі ұжымдардың тәрбиешісі</td>
-<td>50</td>
+<td>49</td>
 <td>0</td>
 <td>25</td>
 <td>0</td>
-<td>25</td>
+<td>24</td>
 </tr>
 <tr>
 <td colspan="2">0103000</td>
 <td colspan="2">Дене тәрбиесі және спорт</td>
 <td>010302 3</td>
 <td>Дене тәрбиесі және спорт пәнінің мұғалімі</td>
-<td>45</td>
+<td>46</td>
 <td>0</td>
-<td>45</td>
+<td>46</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -2383,9 +2335,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td></td>
 <td>225</td>
 <td>50</td>
-<td>150</td>
+<td>151</td>
 <td>0</td>
-<td>25</td>
+<td>24</td>
 </tr>
 <tr>
 <td rowspan="7">25.</td>
@@ -2666,21 +2618,21 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2">Өрт қауіпсіздігі</td>
 <td>151601 3</td>
 <td>Өрт сөндіру инспекторы</td>
+<td>50</td>
 <td>25</td>
+<td>0</td>
+<td>0</td>
 <td>25</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td colspan="2">1517000</td>
 <td colspan="2">Төтенше жағдайларда қорғау</td>
 <td>151703 3</td>
 <td>Техник</td>
-<td>25</td>
+<td>50</td>
 <td>0</td>
 <td>25</td>
-<td>0</td>
+<td>25</td>
 <td>0</td>
 </tr>
 <tr>
@@ -2690,19 +2642,30 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>50</td>
+<td>100</td>
 <td>25</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+</tr>
+<tr>
+<td rowspan="3">29.</td>
+<td rowspan="3">Көкшетау гуманитарлық-техникалық колледжі</td>
+<td colspan="2">1226000</td>
+<td colspan="2">Тамақтандыру кәсіпорындарының өнім өндіру технологиясы және оны ұйымдастыруы</td>
+<td>122604 3</td>
+<td>Техник-технолог</td>
+<td>25</td>
+<td>0</td>
 <td>25</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td rowspan="2">29.</td>
-<td rowspan="2">Көкшетау гуманитарлық-техникалық колледжі</td>
-<td colspan="2">1226000</td>
-<td colspan="2">Тамақтандыру кәсіпорындарының өнім өндіру технологиясы және оны ұйымдастыруы</td>
-<td>122604 3</td>
-<td>Техник-технолог</td>
+<td colspan="2">1304000</td>
+<td colspan="2">Есептеу техникасы және бағдарламалық қамтамасыздандыру</td>
+<td>130404 3</td>
+<td>Техник-бағдарламашы</td>
 <td>25</td>
 <td>0</td>
 <td>25</td>
@@ -2727,9 +2690,9 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>50</td>
+<td>75</td>
 <td>0</td>
-<td>50</td>
+<td>75</td>
 <td>0</td>
 <td>0</td>
 </tr>
@@ -2777,11 +2740,11 @@ source: https://zan.gov.kz/client/#!/doc/93344/kaz/24.07.2015
 <td colspan="2"></td>
 <td></td>
 <td></td>
-<td>4533</td>
-<td>1026</td>
-<td>2640</td>
-<td>96</td>
-<td>771</td>
+<td>4534</td>
+<td>1030</td>
+<td>2603</td>
+<td>121</td>
+<td>780</td>
 </tr>
 </table>
 
