@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/23502/rus/22.08.2015
+source: https://zan.gov.kz/client/#!/doc/23502/rus/13.11.2015
 ---
 
 ## 3. Организация деятельности Министерства сельского хозяйства Республики Казахстан
