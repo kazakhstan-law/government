@@ -1,0 +1,17 @@
+act_code: '95640'
+requisite: Постановление Правительства Республики Казахстан от 21 ноября 2015 года № 934
+title:
+  rus: Об определении лицензиаров в сфере образования
+  kaz: Білім беру саласындағы лицензиарларды айқындау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2015-11-21
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2015-11-21
+  rus: 2015-11-21
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/95640/kaz/21.11.2015
+  rus: https://zan.gov.kz/client/#!/doc/95640/rus/21.11.2015
