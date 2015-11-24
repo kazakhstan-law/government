@@ -10,15 +10,15 @@ approved_on: 2009-06-16
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2015-08-10
-  rus: 2015-08-10
+  kaz: 2015-11-24
+  rus: 2015-11-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/46475/kaz/10.08.2015
-  rus: https://zan.gov.kz/client/#!/doc/46475/rus/10.08.2015
+  kaz: https://zan.gov.kz/client/#!/doc/46475/kaz/24.11.2015
+  rus: https://zan.gov.kz/client/#!/doc/46475/rus/24.11.2015
 caused_by:
-  code: '92865'
-  requisite: Постановление Правительства Республики Казахстан от 10 августа 2015 года № 622
+  code: '95803'
+  requisite: Постановление Правительства Республики Казахстан от 24 ноября 2015 года № 941
   title:
     rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/92865/rus
+  link: https://zan.gov.kz/client/#!/doc/95803/rus
