@@ -11,8 +11,15 @@ approved_on: 2014-03-06
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2014-03-06
-  rus: 2014-03-06
+  kaz: 2015-11-24
+  rus: 2015-11-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/77930/kaz/06.03.2014
-  rus: https://zan.gov.kz/client/#!/doc/77930/rus/06.03.2014
+  kaz: https://zan.gov.kz/client/#!/doc/77930/kaz/24.11.2015
+  rus: https://zan.gov.kz/client/#!/doc/77930/rus/24.11.2015
+caused_by:
+  code: '95803'
+  requisite: Постановление Правительства Республики Казахстан от 24 ноября 2015 года № 941
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/95803/rus
