@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76837/rus/20.03.2014
+source: https://zan.gov.kz/client/#!/doc/76837/rus/10.12.2015
 ---
 
 ## 67. Целлюлозно-бумажное производство
