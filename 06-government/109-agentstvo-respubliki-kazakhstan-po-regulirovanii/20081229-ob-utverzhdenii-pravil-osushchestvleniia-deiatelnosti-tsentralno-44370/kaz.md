@@ -18,6 +18,11 @@ caused_by:
   title: Орталық депозитарийдің қызметін жүзеге асырудың қағидаларын бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/98617/kaz
 source: https://zan.gov.kz/client/#!/doc/44370/kaz/19.12.2015
+repealed_on: 2016-04-11
+repealed_by:
+  code: '98617'
+  title: Орталық депозитарийдің қызметін жүзеге асырудың қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/98617/kaz
 ---
 
 # Орталық депозитарий қызметін жүзеге асыру ережесін бекіту туралы
