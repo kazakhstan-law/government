@@ -1,7 +1,258 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45677/rus/17.07.2015
+source: https://zan.gov.kz/client/#!/doc/45677/rus/19.12.2015
 ---
+
+## Распределение открытых позиций по временным интервалам
+
+<table>
+<tr>
+<td rowspan="2">Зоны</td>
+<td rowspan="2">
+Временные
+интервалы
+</td>
+<td colspan="2">
+Открытые
+позиции
+</td>
+<td rowspan="2">
+Коэффициент
+взвешивания
+</td>
+<td colspan="2">
+Открытые
+взвешенные
+позиции
+</td>
+<td rowspan="2">
+Закрытые
+взвешенные
+позиции
+</td>
+<td colspan="2">
+Итоговые
+взвешенные
+открытые позиции
+</td>
+</tr>
+<tr>
+<td>
+Длин-
+ная
+</td>
+<td>
+Корот-
+кая
+</td>
+<td>
+Длин-
+ная
+</td>
+<td>
+Корот-
+кая
+</td>
+<td>
+Длин-
+ная
+</td>
+<td>
+Корот-
+кая
+</td>
+</tr>
+<tr>
+<td rowspan="5">1</td>
+<td>
+менее 1
+месяца
+</td>
+<td></td>
+<td></td>
+<td>0,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+1-3
+месяцев
+</td>
+<td></td>
+<td></td>
+<td>0,002</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+3-6
+месяцев
+</td>
+<td></td>
+<td></td>
+<td>0,004</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+6-12
+месяцев
+</td>
+<td></td>
+<td></td>
+<td>0,007</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">Итог зоны 1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1-2 года</td>
+<td></td>
+<td></td>
+<td>0,0125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2-3 года</td>
+<td></td>
+<td></td>
+<td>0,0175</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3-4 года</td>
+<td></td>
+<td></td>
+<td>0,0225</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">Итог зоны 2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">3</td>
+<td>4-5 лет</td>
+<td></td>
+<td></td>
+<td>0,0275</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5-7 лет</td>
+<td></td>
+<td></td>
+<td>0,0325</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7-10 лет</td>
+<td></td>
+<td></td>
+<td>0,0375</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10-15 лет</td>
+<td></td>
+<td></td>
+<td>0,0450</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15-20 лет</td>
+<td></td>
+<td></td>
+<td>0,0525</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+более 20
+лет
+</td>
+<td></td>
+<td></td>
+<td>0,06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">Итог зоны 3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Итог по зонам</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+> *Приложение 5*  
+> *к Инструкции о пруденциальных*  
+> *нормативах для исламских банков, их*  
+> *нормативных значениях и методике*  
+> *расчетов*
 
 ## Расчет общего рыночного риска исламских ценных бумаг
 
