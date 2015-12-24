@@ -1,0 +1,17 @@
+act_code: '98604'
+requisite: Постановление акимата Нуринского района Карагандинской области от 24 декабря 2015 года № 33/01
+title:
+  rus: О снятии ограничительных мероприятий
+  kaz: Шектеу іс-шараларын тоқтату туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2015-12-24
+approved_by:
+- '160012000001'
+version_date:
+  kaz: 2015-12-24
+  rus: 2015-12-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/98604/kaz/24.12.2015
+  rus: https://zan.gov.kz/client/#!/doc/98604/rus/24.12.2015
