@@ -10,15 +10,10 @@ approved_on: 2008-07-17
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2015-08-28
-  rus: 2015-08-28
+  kaz: 2015-12-25
+  rus: 2015-12-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/40672/kaz/28.08.2015
-  rus: https://zan.gov.kz/client/#!/doc/40672/rus/28.08.2015
+  kaz: https://zan.gov.kz/client/#!/doc/40672/kaz/25.12.2015
+  rus: https://zan.gov.kz/client/#!/doc/40672/rus/25.12.2015
 caused_by:
-  code: '93246'
-  requisite: Постановление Правительства Республики Казахстан от 28 августа 2015 года № 683
-  title:
-    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
-    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/93246/rus
+  code: P1500001056
