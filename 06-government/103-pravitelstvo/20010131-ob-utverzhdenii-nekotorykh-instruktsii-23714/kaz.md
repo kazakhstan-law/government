@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23714/kaz/30.12.2014
+source: https://zan.gov.kz/client/#!/doc/23714/kaz/29.12.2015
 ---
 
 # Кейбiр нұсқаулықтарды бекiту туралы

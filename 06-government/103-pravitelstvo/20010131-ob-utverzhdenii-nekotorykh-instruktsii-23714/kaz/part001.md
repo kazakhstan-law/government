@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23714/kaz/30.12.2014
+source: https://zan.gov.kz/client/#!/doc/23714/kaz/29.12.2015
 ---
 
 ## Қазақстан Республикасы Премьер-Министрінің Кеңсесінде іс жүргізу жөніндегі НҰСҚАУЛЫҚ
