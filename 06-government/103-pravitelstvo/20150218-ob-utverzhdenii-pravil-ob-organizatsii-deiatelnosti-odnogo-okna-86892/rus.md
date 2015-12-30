@@ -14,6 +14,11 @@ approval_date: 2015-02-18
 version_date: 2015-02-18
 registry_number: '86892'
 source: https://zan.gov.kz/client/#!/doc/86892/rus/18.02.2015
+repealed_on: 2015-12-31
+repealed_by:
+  code: '97053'
+  title: Об утверждении Правил об организации деятельности «одного окна» для инвесторов
+  link: https://zan.gov.kz/client/#!/doc/97053/rus
 ---
 
 # Об утверждении Правил об организации деятельности «одного окна» для инвесторов
