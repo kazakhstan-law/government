@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/74418/rus/08.09.2015
+source: https://zan.gov.kz/client/#!/doc/74418/rus/31.12.2015
 ---
 
 ## Перечень утративших силу некоторых решений Правительства Республики Казахстан
