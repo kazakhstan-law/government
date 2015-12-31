@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92385/kaz/25.06.2015
+source: https://zan.gov.kz/client/#!/doc/92385/kaz/31.12.2015
 ---
 
 > *Жамбыл облысы әкімдігінің 2015 жылғы 25 маусымдағы №133 қаулысымен бекітілген*
