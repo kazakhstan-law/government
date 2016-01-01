@@ -1,5 +1,5 @@
 ---
-version_id: '84518_155615'
+version_id: AI84518_3
 act_code: '84518'
 language: rus
 title: О целевых группах населения и дополнительных мерах по содействию их занятости и социальной защите в районе на 2015 год
@@ -10,9 +10,9 @@ type_codes:
 approved_by:
 - '160017000001'
 approval_date: 2014-11-07
-version_date: 2014-11-07
+version_date: 2016-01-01
 registry_number: '84518'
-source: https://zan.gov.kz/client/#!/doc/84518/rus/07.11.2014
+source: https://zan.gov.kz/client/#!/doc/84518/rus
 ---
 
 # О целевых группах населения и дополнительных мерах по содействию их занятости и социальной защите в районе на 2015 год
