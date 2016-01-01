@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45677/rus/19.12.2015
+source: https://zan.gov.kz/client/#!/doc/45677/rus/01.01.2016
 ---
 
 ## Распределение открытых позиций по временным интервалам
