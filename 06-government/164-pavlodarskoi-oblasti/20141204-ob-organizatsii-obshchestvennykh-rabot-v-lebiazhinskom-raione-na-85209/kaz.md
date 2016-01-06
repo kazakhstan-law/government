@@ -1,5 +1,5 @@
 ---
-version_id: '85209_177005'
+version_id: AI85209_2
 act_code: '85209'
 language: kaz
 title: Лебяжі ауданында 2015 жылға арналған қоғамдық жұмыстарды ұйымдастыру туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '164009000001'
 approval_date: 2014-12-04
-version_date: 2014-12-04
+version_date: 2016-01-06
 registry_number: '85209'
-source: https://zan.gov.kz/client/#!/doc/85209/kaz/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/85209/kaz
 ---
 
 # Лебяжі ауданында 2015 жылға арналған қоғамдық жұмыстарды ұйымдастыру туралы
