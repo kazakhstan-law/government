@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85209/rus/04.12.2014
+source: https://zan.gov.kz/client/#!/doc/85209/rus/06.01.2016
 ---
 
 # Об организации общественных работ в Лебяжинском районе на 2015 год
