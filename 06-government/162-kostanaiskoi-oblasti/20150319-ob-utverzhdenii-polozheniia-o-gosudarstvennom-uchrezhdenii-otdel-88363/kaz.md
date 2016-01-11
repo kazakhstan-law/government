@@ -13,6 +13,11 @@ approval_date: 2015-03-19
 version_date: 2015-03-19
 registry_number: '88363'
 source: https://zan.gov.kz/client/#!/doc/88363/kaz/19.03.2015
+repealed_on: 2016-06-11
+repealed_by:
+  code: '98610'
+  title: Аудан әкімдігінің кейбір қаулыларының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/98610/kaz
 ---
 
 # Қостанай ауданы әкімдігінің «Жұмыспен қамту және әлеуметтік бағдарламалар бөлімі» мемлекеттік мекемесі туралы ережені бекіту туралы
