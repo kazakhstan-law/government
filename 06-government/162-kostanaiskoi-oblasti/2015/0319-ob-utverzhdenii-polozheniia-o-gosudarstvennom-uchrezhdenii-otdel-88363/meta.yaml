@@ -10,8 +10,13 @@ approved_on: 2015-03-19
 approved_by:
 - '162012000001'
 version_date:
-  kaz: 2015-03-19
-  rus: 2015-03-19
+  rus: 2016-01-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/88363/kaz/19.03.2015
-  rus: https://zan.gov.kz/client/#!/doc/88363/rus/19.03.2015
+  rus: https://zan.gov.kz/client/#!/doc/88363/rus/11.01.2016
+caused_by:
+  code: '98610'
+  requisite: Постановление акимата Костанайского района Костанайской области от 11 января 2016 года № 16
+  title:
+    rus: Об утрате силы некоторых постановлений акимата района
+    kaz: Аудан әкімдігінің кейбір қаулыларының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/98610/rus
