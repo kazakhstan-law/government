@@ -1,5 +1,5 @@
 ---
-version_id: '85499_139766'
+version_id: AI85499_3
 act_code: '85499'
 language: rus
 title: Об организации общественных работ в Аккайынском районе в 2015 году
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '165005000001'
 approval_date: 2014-12-09
-version_date: 2014-12-09
+version_date: 2016-01-15
 registry_number: '85499'
-source: https://zan.gov.kz/client/#!/doc/85499/rus/09.12.2014
+source: https://zan.gov.kz/client/#!/doc/85499/rus
 ---
 
 # Об организации общественных работ в Аккайынском районе в 2015 году
