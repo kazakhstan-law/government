@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85499/rus/09.12.2014
+source: https://zan.gov.kz/client/#!/doc/85499/rus/15.01.2016
 ---
 
 # Об организации общественных работ в Аккайынском районе в 2015 году

@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85499/kaz/09.12.2014
+source: https://zan.gov.kz/client/#!/doc/85499/kaz/15.01.2016
 ---
 
 # 2015 жылы Аққайың ауданында қоғамдық жұмыстарды ұйымдастыру туралы
