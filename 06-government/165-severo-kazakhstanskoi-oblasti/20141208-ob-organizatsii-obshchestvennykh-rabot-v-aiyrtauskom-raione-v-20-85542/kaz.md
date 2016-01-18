@@ -1,5 +1,5 @@
 ---
-version_id: '85542_139755'
+version_id: AI85542_2
 act_code: '85542'
 language: kaz
 title: 2015 жылы Айыртау ауданында қоғамдық жұмыстарды ұйымдастыру туралы
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '165003000001'
 approval_date: 2014-12-08
-version_date: 2014-12-08
+version_date: 2016-01-18
 registry_number: '85542'
-source: https://zan.gov.kz/client/#!/doc/85542/kaz/08.12.2014
+source: https://zan.gov.kz/client/#!/doc/85542/kaz
 ---
 
 # 2015 жылы Айыртау ауданында қоғамдық жұмыстарды ұйымдастыру туралы
