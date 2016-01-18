@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85542/rus/08.12.2014
+source: https://zan.gov.kz/client/#!/doc/85542/rus/18.01.2016
 ---
 
 # Об организации общественных работ в Айыртауском районе в 2015 году

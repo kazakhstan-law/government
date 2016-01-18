@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85542/kaz/08.12.2014
+source: https://zan.gov.kz/client/#!/doc/85542/kaz/18.01.2016
 ---
 
 # 2015 жылы Айыртау ауданында қоғамдық жұмыстарды ұйымдастыру туралы
