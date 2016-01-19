@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/95624/kaz/22.09.2015
+source: https://zan.gov.kz/client/#!/doc/95624/kaz/19.01.2016
 ---
 
 > *Шығыс Қазақстан облысы әкімдігінің*  
