@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/93262/rus/27.07.2015
+source: https://zan.gov.kz/client/#!/doc/93262/rus/27.01.2016
 ---
 
 > *Утвержден постановлением акимата Жамбылской области от 23 июля 2015 года № 158*
