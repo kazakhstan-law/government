@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/60331/rus/17.07.2015
+source: https://zan.gov.kz/client/#!/doc/60331/rus/28.01.2016
 ---
 
 ## Параграф 3. Учет операций с опционом

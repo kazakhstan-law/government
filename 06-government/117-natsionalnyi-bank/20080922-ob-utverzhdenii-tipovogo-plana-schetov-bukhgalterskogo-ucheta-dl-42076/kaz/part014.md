@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/42076/kaz/17.07.2015
+source: https://zan.gov.kz/client/#!/doc/42076/kaz/28.01.2016
 ---
 
 ## 1-параграф. Баланстық шоттар
