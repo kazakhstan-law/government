@@ -26,127 +26,192 @@
 
 *Төрағасы Г. Марченко*
 
-> *Қазақстан Республикасының*  
+> *Қазақстан Республикасы*  
 > *Ұлттық Банкі Басқармасының*  
 > *2012 жылғы 24 ақпандағы*  
-> *№ 98 қаулысына*  
-> *1-қосымша*
+> *№ 98 қаулысына 1-қосымша*
 
 ## Халықаралық қор биржаларының тізімі
 
+> *Ескерту. 1-қосымша жаңа редакцияда - ҚР Ұлттық Банкі Басқармасының 28.01.2016 № 12 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+
 <a id="para_1"></a>
 
-1\. Австрия қор биржасы (Wiener bourse AG)
+1\. Австрия қор биржасы (Wiener bourse AG);
 
-2\. Америка қор биржасы (American Stock Exchange)
+2\. Америка қор биржасы (American Stock Exchange);
 
 <a id="para_3"></a>
 
-3\. Бомбей қор биржасы (The Bombay Stock Exchange Limited, ВSE)
+3\. Бомбей қор биржасы (The Bombay Stock Exchange Limited, ВSE);
 
 <a id="para_4"></a>
 
-4\. Бразилия қор биржасы (Bovespa)
+4\. Бразилия қор биржасы (Bovespa);
 
 <a id="para_5"></a>
 
-5\. Гонконг қор биржасы (Hong Kong Exchanges and Clearing)
+5\. Варшава қор биржасы (Warsaw Stock Exchange);
 
 <a id="para_6"></a>
 
-6\. Амстердамдағы "Евронекст" Еуропа қор биржасы (Euronext Amsterdam)
+6\. Гонконг қор биржасы (Hong Kong Exchanges and Clearing);
 
 <a id="para_7"></a>
 
-7\. Брюссельдегі "Евронекст" Еуропа қор биржасы (Euronext Brussels)
+7\. Амстердамдағы «Евронекст» Еуропа қор биржасы (Euronext Amsterdam);
 
 <a id="para_8"></a>
 
-8\. Лиссабондағы "Евронекст" Еуропа қор биржасы (Euronext Lisbon)
+8\. Брюссельдегі «Евронекст» Еуропа қор биржасы (Euronext Brussels);
 
 <a id="para_9"></a>
 
-9\. Париждегі "Евронекст" Еуропа қор биржасы (Euronext Paris)
+9\. Лиссабондағы «Евронекст» Еуропа қор биржасы (Euronext Lisbon);
 
 <a id="para_10"></a>
 
-10\. Үндістан қор биржасы (Delhi Stock Exchange)
+10\. Париждегі «Евронекст» Еуропа қор биржасы (Euronext Paris);
 
 <a id="para_11"></a>
 
-11\. Италия қор биржасы (Borsa Italiana SPA)
+11\. Үндістан қор биржасы (Delhi Stock Exchange);
 
 <a id="para_12"></a>
 
-12\. Лондон қор биржасы (London Stock Exchange)
+12\. Ирландия қор биржасы (Irish Stock Exchange);
 
 <a id="para_13"></a>
 
-13\. Малайзия қор биржасы (Bursa Malaysia)
+13\. Италия қор биржасы (Borsa Italiana SPA);
 
 <a id="para_14"></a>
 
-14\. Мексика қор биржасы (Bolsa Mexicana de Valores, BMV)
+14\. Лондон қор биржасы (London Stock Exchange);
 
 <a id="para_15"></a>
 
-15\. Неміс қор биржасы (Deutsche bourse AG)
+15\. Малайзия қор биржасы (Bursa Malaysia);
 
 <a id="para_16"></a>
 
-16\. Нью-Йорк қор биржасы (New York Stock Exchange)
+16\. Мексика қор биржасы (Bolsa Mexicana de Valores, BMV);
 
 <a id="para_17"></a>
 
-17\. Құрамына Стокгольм, Хельсинки, Таллин және Рига биржалары кіретін біріккен қор биржасы (Hex Integrated Markets Ltd.)
+17\. Үндістан Ұлттық қор биржасы (National Stock Exchange of India Limited);
 
 <a id="para_18"></a>
 
-18\. Сингапур қор биржасы (Singapore Exchange)
+18\. Неміс қор биржасы (Deutsche bourse AG);
 
 <a id="para_19"></a>
 
-19\. Стамбул қор биржасы (Istanbul Stock Exchange)
+19\. Нью-Йорк қор биржасы (New York Stock Exchange);
 
 <a id="para_20"></a>
 
-20\. Стокгольм қор биржасы (Stockholm Exchange)
+20\. Испания біріккен қор биржасы (ВМЕ Spanish Exchanges);
 
 <a id="para_21"></a>
 
-21\. Токио қор биржасы (Tokyo Stock Exchange)
+21\. Құрамына Стокгольм, Хельсинки, Таллин және Рига биржалары кіретін Біріккен қор биржасы (Hex Integrated Markets Ltd.);
 
 <a id="para_22"></a>
 
-22\. Австралия қор биржасы (Australian Stock Exchange)
+22\. Сингапур қор биржасы (Singapore Exchange);
 
 <a id="para_23"></a>
 
-23\. Монреаль қор биржасы (Bourse de Montreal)
+23\. Стамбул қор биржасы (Istanbul Stock Exchange);
 
 <a id="para_24"></a>
 
-24\. Ресей Федерациясының қор биржасы (ОАО ММВБ-РТС)
+24\. Стокгольм қор биржасы (Stockholm Exchange);
 
 <a id="para_25"></a>
 
-25\. Торонто қор биржасы (Toronto Stock Exchange)
+25\. Токио қор биржасы (Tokyo Stock Exchange);
 
 <a id="para_26"></a>
 
-26\. Швейцария қор биржасы (SWX Swiss Exchange)
+26\. Филиппин қор биржасы (Philippine Stock Exchange);
 
 <a id="para_27"></a>
 
-27\. Франкфурт қор биржасы (Frankfurt Stock Exchange)
+27\. Австралия қор биржасы (Australian Stock Exchange);
 
 <a id="para_28"></a>
 
-28\. Шанхай қор биржасы (Shanghai Stock Exchange)
+28\. Афина қор биржасы (Athens Exchange);
 
 <a id="para_29"></a>
 
-29\. Оңтүстік Корея қор биржасы (Korea Stock Exchange)
+29\. Джакарта қор биржасы (Jakarta Stock Exchange);
+
+<a id="para_30"></a>
+
+30\. Йоханнесбург (Оңтүстік Африка) қор биржасы (JSE Securities Exchange South Africa);
+
+<a id="para_31"></a>
+
+31\. Копенгаген қор биржасы (Copenhagen Stock Exchange);
+
+<a id="para_32"></a>
+
+32\. Люксембург қор биржасы (Bourse de Luxembourg);
+
+<a id="para_33"></a>
+
+33\. Мальта қор биржасы (Malta Stock Exchange);
+
+<a id="para_34"></a>
+
+34\. Монреаль қор биржасы (Bourse de Montreal);
+
+<a id="para_35"></a>
+
+35\. Жаңа Зеландия қор биржасы (New Zealand Exchange);
+
+<a id="para_36"></a>
+
+36\. Осака қор биржасы (Osaka Securities Exchange);
+
+<a id="para_37"></a>
+
+37\. Осло қор биржасы (Oslo bourse);
+
+<a id="para_38"></a>
+
+38\. Ресей Федерациясының қор биржасы (ОАО ММВБ-РТС);
+
+<a id="para_39"></a>
+
+39\. АҚШ қор биржасы (National Association of Securities Dealers Automated Quotation, NASDAQ);
+
+<a id="para_40"></a>
+
+40\. Торонто қор биржасы (Toronto Stock Exchange);
+
+<a id="para_41"></a>
+
+41\. Швейцария қор биржасы (SWX Swiss Exchange);
+
+<a id="para_42"></a>
+
+42\. Франкфурт қор биржасы (Frankfurt Stock Exchange);
+
+<a id="para_43"></a>
+
+43\. Шанхай қор биржасы (Shanghai Stock Exchange);
+
+<a id="para_44"></a>
+
+44\. Шэньчжень қор биржасы (Shenchzhen Stock Exchange);
+
+<a id="para_45"></a>
+
+45\. Оңтүстік Корея қор биржасы (Korea Stock Exchange).
 
 > *Қазақстан Республикасының*  
 > *Ұлттық Банкі Басқармасының*  
