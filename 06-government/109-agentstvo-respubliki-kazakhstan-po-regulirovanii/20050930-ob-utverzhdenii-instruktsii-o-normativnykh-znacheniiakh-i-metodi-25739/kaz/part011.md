@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25739/kaz/01.01.2016
+source: https://zan.gov.kz/client/#!/doc/25739/kaz/28.01.2016
 ---
 
 ## 6-3. Банктің несие портфеліндегі тұтынушылық қарыздардың ең жоғары өсімінің коэффициенті
