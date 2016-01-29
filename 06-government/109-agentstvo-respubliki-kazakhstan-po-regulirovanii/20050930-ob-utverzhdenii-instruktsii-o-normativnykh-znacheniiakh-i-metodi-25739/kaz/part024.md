@@ -1,7 +1,251 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/25739/kaz/28.01.2016
+source: https://zan.gov.kz/client/#!/doc/25739/kaz/29.01.2016
 ---
+
+## Уақытша аралығы бойынша ашық позицияларды бөлу
+
+<table>
+<tr>
+<td>
+Ай-
+мақ-
+тар
+</td>
+<td>
+Уақытша
+ара-
+лықтар
+</td>
+<td colspan="2">
+Ашық
+пози-
+циялар
+</td>
+<td rowspan="2">
+Өлшеу
+коэф-
+фици-
+енті
+</td>
+<td colspan="2">
+Ашық
+өлшенген
+позициялар
+</td>
+<td rowspan="2">
+Жабық
+өлшен-
+ген
+пози-
+циялар
+</td>
+<td colspan="2">
+Өлшенген
+ашық по-
+зициялар
+жиынтығы
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ұзақ</td>
+<td>
+қыс-
+қа
+</td>
+<td>ұзақ</td>
+<td>
+Қыс-
+қа
+</td>
+<td>ұзақ</td>
+<td>
+қыс-
+қа
+</td>
+</tr>
+<tr>
+<td rowspan="5">1</td>
+<td>1 айдан кем</td>
+<td></td>
+<td></td>
+<td>0,00</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1-3 айлар</td>
+<td></td>
+<td></td>
+<td>0,002</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3-6 айлар</td>
+<td></td>
+<td></td>
+<td>0,004</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6-12 айлар</td>
+<td></td>
+<td></td>
+<td>0,007</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">1 аймақ жиынтығы</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1-2 жылдар</td>
+<td></td>
+<td></td>
+<td>0,0125</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2-3 жылдар</td>
+<td></td>
+<td></td>
+<td>0,0175</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3-4 жылдар</td>
+<td></td>
+<td></td>
+<td>0,0225</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">2 аймақ жиынтығы</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="7">3</td>
+<td>4-5 жыл</td>
+<td></td>
+<td></td>
+<td>0,0275</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5-7 жыл</td>
+<td></td>
+<td></td>
+<td>0,0325</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7-10 жыл</td>
+<td></td>
+<td></td>
+<td>0,0375</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10-15 жыл</td>
+<td></td>
+<td></td>
+<td>0,0450</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15-20 жыл</td>
+<td></td>
+<td></td>
+<td>0,0525</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20 жылдан астам</td>
+<td></td>
+<td></td>
+<td>0,06</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">3 аймақ жиынтығы</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Аймақтар бойынша жиынтығы</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+</table>
+
+Екiншi деңгейдегi банктер
+
+үшiн пруденциалдық нормативтер
+
+бойынша есеп айырысудың
+
+нормативтiк мәнi мен әдiстемесi
+
+туралы нұсқаулықтың 6-қосымшасы
 
 ## Проценттiк тәуекелдiң жалпы есебi
 
