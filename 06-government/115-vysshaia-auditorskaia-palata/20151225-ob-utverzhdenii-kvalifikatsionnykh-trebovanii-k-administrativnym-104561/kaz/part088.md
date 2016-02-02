@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/104561/kaz/25.12.2015
+source: https://zan.gov.kz/client/#!/doc/104561/kaz/02.02.2016
 ---
 
 ## Бас консультант – 2 бірлік, В-3 санаты (8/2-11, 8/2-12)

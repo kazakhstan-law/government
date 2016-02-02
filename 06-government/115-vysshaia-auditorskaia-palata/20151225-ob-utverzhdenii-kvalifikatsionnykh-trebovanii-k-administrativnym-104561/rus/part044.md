@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/104561/rus/25.12.2015
+source: https://zan.gov.kz/client/#!/doc/104561/rus/02.02.2016
 ---
 
 ## Заместитель заведующего отделом – 1 единица, категория В-1 (4-1)
