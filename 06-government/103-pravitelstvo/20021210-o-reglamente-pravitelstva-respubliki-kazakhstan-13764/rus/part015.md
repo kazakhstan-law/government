@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/31.12.2015
+source: https://zan.gov.kz/client/#!/doc/13764/rus/02.02.2016
 ---
 
 ## 4.7. Вынесение проектов постановлений Правительства на голосование Правительства

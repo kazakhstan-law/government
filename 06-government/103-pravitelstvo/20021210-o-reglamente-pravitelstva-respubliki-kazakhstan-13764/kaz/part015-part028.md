@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/31.12.2015
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/02.02.2016
 ---
 
 ## Қазақстан Республикасы Заңының жобасына АНЫҚТАМА ПАРАҚ
