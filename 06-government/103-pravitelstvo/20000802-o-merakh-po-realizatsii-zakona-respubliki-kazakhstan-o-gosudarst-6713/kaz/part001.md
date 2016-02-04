@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/6713/kaz/14.11.2014
+source: https://zan.gov.kz/client/#!/doc/6713/kaz/04.02.2016
 ---
 
 ## ҚАЗАҚСТАН РЕСПУБЛИКАСЫНДАҒЫ ҚАРУ МЕН ОНЫҢ ПАТРОНДАРЫ АЙНАЛЫМЫНЫҢ ЕРЕЖЕСI
