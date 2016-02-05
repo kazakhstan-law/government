@@ -10,15 +10,8 @@ approved_on: 2016-02-05
 approved_by:
 - '166007000001'
 version_date:
-  kaz: 2015-05-17
-  rus: 2015-05-17
+  kaz: 2016-02-05
+  rus: 2016-02-05
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/99614/kaz/17.05.2015
-  rus: https://zan.gov.kz/client/#!/doc/99614/rus/17.05.2015
-caused_by:
-  code: '102820'
-  requisite: Постановление акимата Отрарского района Южно-Казахстанской области от 17 мая 2016 года № 173
-  title:
-    rus: О признании утратившими силу некоторых нормативных правовых постановлений акимата Отырарского района
-    kaz: Отырар ауданы әкімдігінің кейбір нормативтік құқықтық қаулыларының күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/102820/rus
+  kaz: https://zan.gov.kz/client/#!/doc/99614/kaz/05.02.2016
+  rus: https://zan.gov.kz/client/#!/doc/99614/rus/05.02.2016
