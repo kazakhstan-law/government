@@ -13,6 +13,11 @@ approval_date: 2014-11-04
 version_date: 2014-11-04
 registry_number: '84878'
 source: https://zan.gov.kz/client/#!/doc/84878/rus/04.11.2014
+repealed_on: 2016-10-05
+repealed_by:
+  code: '107911'
+  title: О признании утратившими силу некоторых постановлений акимата города Астаны
+  link: https://zan.gov.kz/client/#!/doc/107911/rus
 ---
 
 # Об утверждении регламентов государственных услуг в области ветеринарии
