@@ -1,0 +1,24 @@
+key: G16MD00047A
+akn: /akn/kz/act/2016-02-19/G16MD00047A
+act_code: '99324'
+requisite: Постановление акимата Каракиянского района  от 19 февраля 2016 года № 47
+title:
+  rus: Об утрате силы некоторых постановлений акимата  Каракиянского района
+  kaz: Қарақия ауданы әкімдігінің кейбір қаулыларының күшін жою  туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2016-02-19
+approved_by:
+- '163005000001'
+versions:
+- date: 2016-02-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-02-19
+  rus: 2016-02-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/99324/kaz/19.02.2016
+  rus: https://zan.gov.kz/client/#!/doc/99324/rus/19.02.2016
