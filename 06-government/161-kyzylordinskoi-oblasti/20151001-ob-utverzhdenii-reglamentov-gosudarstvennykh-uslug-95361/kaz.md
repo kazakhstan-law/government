@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/95361/kaz/01.10.2015
+source: https://zan.gov.kz/client/#!/doc/95361/kaz/29.02.2016
 ---
 
 # Мемлекеттік көрсетілетін қызметтер регламенттерін бекіту туралы
