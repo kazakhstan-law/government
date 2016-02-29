@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/94974/rus/02.10.2015
+source: https://zan.gov.kz/client/#!/doc/94974/rus/29.02.2016
 ---
 
 # Об утверждении регламентов государственных услуг в сфере семьи и детей
