@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83353/rus/01.02.2016
+source: https://zan.gov.kz/client/#!/doc/83353/rus/01.03.2016
 ---
 
 ## 2. Миссия, основные задачи, функции, права и обязанности государственного органа

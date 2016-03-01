@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83353/kaz/01.02.2016
+source: https://zan.gov.kz/client/#!/doc/83353/kaz/01.03.2016
 ---
 
 ## 2. Мемлекеттік органның миссиясы, негізі міндеттері, функциялары, құқықтары мен міндеттері
