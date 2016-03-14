@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/25739/rus/29.02.2016
+source: https://zan.gov.kz/client/#!/doc/25739/rus/14.03.2016
 ---
 
 ## 6-2. Коэффициент по размещению части средств банков во внутренние активы

@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/45677/rus/29.02.2016
+source: https://zan.gov.kz/client/#!/doc/45677/rus/14.03.2016
 ---
 
 ## 5. Лимиты открытой валютной позиции
