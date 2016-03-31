@@ -1,5 +1,5 @@
 ---
-version_id: '99197_52136'
+version_id: '99197_78592'
 act_code: '99197'
 language: kaz
 title: Жамбыл облысы аумағында карантиндік режимді енгізе отырып, карантинді аймақты белгілеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2016-02-08
-version_date: 2016-02-08
+version_date: 2016-03-31
 registry_number: '99197'
-source: https://zan.gov.kz/client/#!/doc/99197/kaz/08.02.2016
+caused_by:
+  code: '101943'
+  title: «Жамбыл облысы аумағында карантиндік режимді енгізе отырып, карантинді аймақты белгілеу туралы» Жамбыл облысы әкімдігінің 2016 жылғы 8 ақпандағы № 32 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/101943/kaz
+source: https://zan.gov.kz/client/#!/doc/99197/kaz/31.03.2016
 ---
 
 # Жамбыл облысы аумағында карантиндік режимді енгізе отырып, карантинді аймақты белгілеу туралы
@@ -53,6 +57,8 @@ source: https://zan.gov.kz/client/#!/doc/99197/kaz/08.02.2016
 
 # Жамбыл облысы бойынша карантиндік зиянкестермен залалданған ошақтардың аудандар мен ауылдық округтар кескініндегі тізімі
 
+> *Ескерту. Қосымша жаңа редакцияда - Жамбыл облысы әкімдігінің 31.03.2016 № 96 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік 10 күн өткен соң қолданыска енгізіледі).*
+
 <table>
 <tr>
 <td>№</td>
@@ -64,130 +70,130 @@ source: https://zan.gov.kz/client/#!/doc/99197/kaz/08.02.2016
 <td colspan="4">Жемістің шығыс жемірі (Grapholita molesta (Busck))</td>
 </tr>
 <tr>
-<td>1</td>
+<td>1.</td>
 <td>Меркі</td>
 <td>Жамбыл</td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td></td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td colspan="4">Калифорниялық қалқаншалы сымыр (Quadraspidiotus perniciosus Comst.)</td>
 </tr>
 <tr>
-<td rowspan="2">1</td>
+<td rowspan="2">2.</td>
 <td rowspan="2">Байзақ</td>
 <td>Бурыл</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
 <td>Мырзатай</td>
-<td>13000</td>
+<td>13,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td>3.</td>
 <td>Жамбыл</td>
 <td>Ақбастау</td>
-<td>10000</td>
+<td>10,0</td>
 </tr>
 <tr>
-<td>3</td>
+<td>4.</td>
 <td>Жуалы</td>
 <td>Қарасаз</td>
-<td>19000</td>
+<td>19,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td>5.</td>
 <td>Қордай</td>
 <td>Қарасай</td>
-<td>7000</td>
+<td>7,0</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
+<td rowspan="2">6.</td>
 <td rowspan="2">Т.Рысқұлов</td>
 <td>Құлан</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
 <td>Көкдөнен</td>
-<td>8000</td>
+<td>8,0</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td></td>
-<td>87000</td>
+<td>87,0</td>
 </tr>
 <tr>
 <td colspan="4">Жұпсыз жібек көбелек (Lymantria dispar L.(asian race).)</td>
 </tr>
 <tr>
-<td rowspan="2">1</td>
+<td rowspan="2">7.</td>
 <td rowspan="2">Меркі</td>
 <td>Ақтоған</td>
-<td>7000</td>
+<td>7,0</td>
 </tr>
 <tr>
 <td>Ақарал</td>
-<td>30000</td>
+<td>30,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td>8.</td>
 <td>Т. Рысқұлов</td>
 <td>Жаңатұрмыс</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td></td>
-<td>48000</td>
+<td>48,0</td>
 </tr>
 <tr>
 <td colspan="4">Комсток сымыры (құрты) (Pseudococcus comstocki Kuw.)</td>
 </tr>
 <tr>
-<td>1</td>
+<td>9.</td>
 <td>Т. Рысқұлов</td>
 <td>Жаңатұрмыс</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td></td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="4">Америкалық ақ көбелек (Hyphantria cunea Drury.)</td>
 </tr>
 <tr>
-<td rowspan="3">1</td>
+<td rowspan="3">10.</td>
 <td rowspan="3">Қордай</td>
 <td>Қарасу</td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td>Масаншы</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td>Жаңатұрмыс</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td>11.</td>
 <td>Меркі</td>
 <td>Андас Батыр</td>
-<td>36000</td>
+<td>36,0</td>
 </tr>
 <tr>
 <td colspan="2">Барлығы</td>
 <td></td>
-<td>85000</td>
+<td>85,0</td>
 </tr>
 <tr>
 <td colspan="3">Барлығы облыс бойынша</td>
-<td>254000</td>
+<td>254,0</td>
 </tr>
 </table>

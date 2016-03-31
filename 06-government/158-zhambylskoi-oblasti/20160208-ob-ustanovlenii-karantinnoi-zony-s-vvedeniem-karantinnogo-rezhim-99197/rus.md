@@ -1,5 +1,5 @@
 ---
-version_id: '99197_52137'
+version_id: '99197_78593'
 act_code: '99197'
 language: rus
 title: Об установлении карантинной зоны с введением карантинного режима на территории Жамбылской области
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2016-02-08
-version_date: 2016-02-08
+version_date: 2016-03-31
 registry_number: '99197'
-source: https://zan.gov.kz/client/#!/doc/99197/rus/08.02.2016
+caused_by:
+  code: '101943'
+  title: О внесении изменений в постановление акимата Жамбылской области от 8 февраля 2016 года № 32 «Об установлении карантинной зоны с введением карантинного режима на территории Жамбылской области»
+  link: https://zan.gov.kz/client/#!/doc/101943/rus
+source: https://zan.gov.kz/client/#!/doc/99197/rus/31.03.2016
 ---
 
 # Об установлении карантинной зоны с введением карантинного режима на территории Жамбылской области
@@ -52,6 +56,8 @@ source: https://zan.gov.kz/client/#!/doc/99197/rus/08.02.2016
 
 # Перечень очагов заселенности карантинных вредителей в разрезе районов и сельских округов по Жамбылской области
 
+> *Сноска. Приложение - в редакции постановления акимата Жамбылской области от 31.03.2016 № 96 (вводится в действие по истечении 10 календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td>№</td>
@@ -63,130 +69,130 @@ source: https://zan.gov.kz/client/#!/doc/99197/rus/08.02.2016
 <td colspan="4">Восточная плодожорка (Grapholita molesta (Busck))</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Мерке</td>
+<td>1.</td>
+<td>Меркенский</td>
 <td>Жамбылский</td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
 <td></td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td colspan="4">Калифорнийская щитовка (Quadraspidiotus perniciosus Comst.)</td>
 </tr>
 <tr>
-<td rowspan="2">1</td>
-<td rowspan="2">Байзак</td>
+<td rowspan="2">2.</td>
+<td rowspan="2">Байзакский</td>
 <td>Бурылский</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
 <td>Мырзатайский</td>
-<td>13000</td>
+<td>13,0</td>
 </tr>
 <tr>
-<td>2</td>
-<td>Жамбыл</td>
+<td>3.</td>
+<td>Жамбылский</td>
 <td>Акбастауский</td>
-<td>10000</td>
+<td>10,0</td>
 </tr>
 <tr>
-<td>3</td>
-<td>Жуалы</td>
+<td>4.</td>
+<td>Жуалынский</td>
 <td>Карасазский</td>
-<td>19000</td>
+<td>19,0</td>
 </tr>
 <tr>
-<td>4</td>
-<td>Кордай</td>
+<td>5.</td>
+<td>Кордайский</td>
 <td>Карасайский</td>
-<td>7000</td>
+<td>7,0</td>
 </tr>
 <tr>
-<td rowspan="2">5</td>
+<td rowspan="2">6.</td>
 <td rowspan="2">Т.Рыскулова</td>
 <td>Куланский</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
 <td>Кокдоненский</td>
-<td>8000</td>
+<td>8,0</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
 <td></td>
-<td>87000</td>
+<td>87,0</td>
 </tr>
 <tr>
 <td colspan="4">Непарный шелкопряд (Lymantria dispar L.(asian race).)</td>
 </tr>
 <tr>
-<td rowspan="2">1</td>
-<td rowspan="2">Мерке</td>
+<td rowspan="2">7.</td>
+<td rowspan="2">Меркенский</td>
 <td>Актоганский</td>
-<td>7000</td>
+<td>7,0</td>
 </tr>
 <tr>
 <td>Акаралский</td>
-<td>30000</td>
+<td>30,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td>8.</td>
 <td>Т. Рыскулова</td>
 <td>Жанатурмысский</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
 <td></td>
-<td>48000</td>
+<td>48,0</td>
 </tr>
 <tr>
 <td colspan="4">Червец Комстока (Pseudococcus comstocki Kuw.)</td>
 </tr>
 <tr>
-<td>1</td>
+<td>9.</td>
 <td>Т. Рыскулова</td>
 <td>Жанатурмысский</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
 <td></td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td colspan="4">Американская белая бабочка (Hyphantria cunea Drury.)</td>
 </tr>
 <tr>
-<td rowspan="3">1</td>
-<td rowspan="3">Кордай</td>
+<td rowspan="3">10.</td>
+<td rowspan="3">Кордайский</td>
 <td>Карасуский</td>
-<td>23000</td>
+<td>23,0</td>
 </tr>
 <tr>
 <td>Масанчинский</td>
-<td>11000</td>
+<td>11,0</td>
 </tr>
 <tr>
 <td>Жанатурмысский</td>
-<td>15000</td>
+<td>15,0</td>
 </tr>
 <tr>
-<td>2</td>
-<td>Мерке</td>
+<td>11.</td>
+<td>Меркенский</td>
 <td>Андас Батыр</td>
-<td>36000</td>
+<td>36,0</td>
 </tr>
 <tr>
 <td colspan="2">Всего</td>
 <td></td>
-<td>85000</td>
+<td>85,0</td>
 </tr>
 <tr>
 <td colspan="3">Всего по области</td>
-<td>254000</td>
+<td>254,0</td>
 </tr>
 </table>
