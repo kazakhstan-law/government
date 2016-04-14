@@ -10,15 +10,15 @@ approved_on: 2006-02-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2014-04-04
-  rus: 2014-04-04
+  kaz: 2016-04-14
+  rus: 2016-04-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/26642/kaz/04.04.2014
-  rus: https://zan.gov.kz/client/#!/doc/26642/rus/04.04.2014
+  kaz: https://zan.gov.kz/client/#!/doc/26642/kaz/14.04.2016
+  rus: https://zan.gov.kz/client/#!/doc/26642/rus/14.04.2016
 caused_by:
-  code: '78523'
-  requisite: Постановление Правительства Республики Казахстан от 4 апреля 2014 года № 322
+  code: '101212'
+  requisite: Постановление Правительства Республики Казахстан от 14 апреля 2016 года № 215
   title:
     rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/78523/rus
+  link: https://zan.gov.kz/client/#!/doc/101212/rus
