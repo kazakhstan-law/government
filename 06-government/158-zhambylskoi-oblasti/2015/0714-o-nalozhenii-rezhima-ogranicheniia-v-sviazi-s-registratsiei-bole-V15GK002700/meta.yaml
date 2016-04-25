@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/91925/kaz/14.07.2015
   rus: https://zan.gov.kz/client/#!/doc/91925/rus/14.07.2015
+repealed_on: 2016-06-06
+repealed_by:
+  code: '102490'
+  key: G16GK00239A
+  requisite: Постановление акимата Шуского района Жамбылской области от 25 апреля 2016 №239
+  title:
+    rus: О признании утратившим силу некоторых постановлений акимата района
+    kaz: Аудан әкімдігінің кейбір каулыларының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/102490/rus
