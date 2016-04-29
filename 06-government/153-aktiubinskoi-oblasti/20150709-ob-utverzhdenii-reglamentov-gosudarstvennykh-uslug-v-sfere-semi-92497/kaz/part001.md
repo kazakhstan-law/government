@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92497/kaz/04.02.2016
+source: https://zan.gov.kz/client/#!/doc/92497/kaz/29.04.2016
 ---
 
 > *Ақтөбе облысы әкімдігінің*  
