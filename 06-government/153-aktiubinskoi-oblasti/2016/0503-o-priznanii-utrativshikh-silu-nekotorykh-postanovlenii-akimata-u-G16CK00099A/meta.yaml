@@ -1,0 +1,24 @@
+key: G16CK00099A
+akn: /akn/kz/act/2016-05-03/G16CK00099A
+act_code: '102302'
+requisite: Постановление акимата Уилского района Актюбинской области от 3 мая 2016 года № 99
+title:
+  rus: О признании утративших силу некоторых постановлений акимата Уилского района
+  kaz: Ойыл ауданы әкімдігінің кейбір қаулыларын жою туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2016-05-03
+approved_by:
+- '153011000001'
+versions:
+- date: 2016-05-03
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2016-05-03
+  rus: 2016-05-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/102302/kaz/03.05.2016
+  rus: https://zan.gov.kz/client/#!/doc/102302/rus/03.05.2016
