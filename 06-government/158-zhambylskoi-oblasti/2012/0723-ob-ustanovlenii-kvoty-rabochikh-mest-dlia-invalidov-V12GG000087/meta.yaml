@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/67088/kaz/23.07.2012
   rus: https://zan.gov.kz/client/#!/doc/67088/rus/23.07.2012
+repealed_on: 2016-06-04
+repealed_by:
+  code: '102228'
+  key: G16GG00193A
+  requisite: Постановление акимата Мойынкумского района Жамбылской области от 03 мая 2016 года №193
+  title:
+    rus: О признании утратившими силу некоторых постановлений акимата района
+    kaz: Аудан әкімдігінің кейбір қаулыларының күшін жою туралы
+  link: https://zan.gov.kz/client/#!/doc/102228/rus
