@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94974/kaz/29.02.2016
+source: https://zan.gov.kz/client/#!/doc/94974/kaz/16.05.2016
 ---
 
 > *Қызылорда облысы әкімдігінің*  
