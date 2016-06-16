@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/66326/kaz/31.12.2015
+source: https://zan.gov.kz/client/#!/doc/66326/kaz/16.06.2016
 ---
 
 # Қазақстан Республикасында валюталық операцияларды жүзеге асыру қағидаларын бекіту туралы
