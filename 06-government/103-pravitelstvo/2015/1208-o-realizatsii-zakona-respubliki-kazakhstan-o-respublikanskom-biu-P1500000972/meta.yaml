@@ -44,9 +44,13 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2016-07-25
+  languages:
+  - kaz
+  - rus
 version_date:
-  kaz: 2016-07-01
-  rus: 2016-07-01
+  kaz: 2016-07-25
+  rus: 2016-07-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96459/kaz/01.07.2016
-  rus: https://zan.gov.kz/client/#!/doc/96459/rus/01.07.2016
+  kaz: https://zan.gov.kz/client/#!/doc/96459/kaz/25.07.2016
+  rus: https://zan.gov.kz/client/#!/doc/96459/rus/25.07.2016
