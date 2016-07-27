@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93232/kaz/25.02.2016
+source: https://zan.gov.kz/client/#!/doc/93232/kaz/27.07.2016
 ---
 
 > *«Некені (ерлі-зайыптылықты) бұзуды*  
