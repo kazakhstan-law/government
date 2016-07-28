@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94874/kaz/05.05.2016
+source: https://zan.gov.kz/client/#!/doc/94874/kaz/28.07.2016
 ---
 
 > *Қарағанды облысы әкiмдiгiнің*  
