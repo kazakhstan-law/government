@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2016-08-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '105482'
+    key: P1600000455
 version_date:
-  kaz: 2015-12-28
-  rus: 2015-12-28
+  kaz: 2016-08-11
+  rus: 2016-08-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/96871/kaz/28.12.2015
-  rus: https://zan.gov.kz/client/#!/doc/96871/rus/28.12.2015
+  kaz: https://zan.gov.kz/client/#!/doc/96871/kaz/11.08.2016
+  rus: https://zan.gov.kz/client/#!/doc/96871/rus/11.08.2016
+caused_by:
+  code: '105482'
+  key: P1600000455
+  requisite: Постановление Правительства Республики Казахстан от 11 августа 2016 года № 455
+  title:
+    rus: О внесении изменений и признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу және кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/105482/rus
