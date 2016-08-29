@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/104561/rus/12.02.2016
+source: https://zan.gov.kz/client/#!/doc/104561/rus/29.08.2016
 ---
 
 ## СЕКТОР ФИНАНСОВ И МАТЕРИАЛЬНОГО ОБЕСПЕЧЕНИЯ
