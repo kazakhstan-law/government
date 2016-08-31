@@ -1,6 +1,11 @@
 ---
 part_of: ../rus.md
 source: https://zan.gov.kz/client/#!/doc/5010/rus/31.08.2016
+repealed_on: 2017-01-01
+repealed_by:
+  code: '107293'
+  title: Об утверждении Правил применения кодов секторов экономики и назначения платежей
+  link: https://zan.gov.kz/client/#!/doc/107293/rus
 ---
 
 ## 3. Порядок заполнения платежных документов

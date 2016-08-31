@@ -1,6 +1,11 @@
 ---
 part_of: ../kaz.md
 source: https://zan.gov.kz/client/#!/doc/5010/kaz/31.08.2016
+repealed_on: 2017-01-01
+repealed_by:
+  code: '107293'
+  title: Экономика секторларының және төлемдер белгілеу кодтарын қолдану қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/107293/kaz
 ---
 
 > *Ескерту:*
