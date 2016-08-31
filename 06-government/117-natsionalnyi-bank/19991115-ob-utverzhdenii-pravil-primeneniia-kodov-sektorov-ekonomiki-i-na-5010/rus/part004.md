@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/5010/rus/31.12.2015
+source: https://zan.gov.kz/client/#!/doc/5010/rus/31.08.2016
 ---
 
 ## 3. Порядок заполнения платежных документов
