@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/99178/kaz/22.06.2016
+source: https://zan.gov.kz/client/#!/doc/99178/kaz/02.09.2016
 ---
 
 > *Азаматтық хал актілерінің жазбаларын қалпына келтіру»*  
