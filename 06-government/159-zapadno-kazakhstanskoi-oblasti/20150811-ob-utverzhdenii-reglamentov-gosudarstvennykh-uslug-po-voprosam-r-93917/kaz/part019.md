@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93917/kaz/29.03.2016
+source: https://zan.gov.kz/client/#!/doc/93917/kaz/13.09.2016
 ---
 
 > *2015 жылғы «11» тамыздағы №205*  
