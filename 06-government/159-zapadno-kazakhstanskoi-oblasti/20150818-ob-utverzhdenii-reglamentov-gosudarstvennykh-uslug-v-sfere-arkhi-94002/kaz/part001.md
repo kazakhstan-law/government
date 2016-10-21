@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94002/kaz/22.04.2016
+source: https://zan.gov.kz/client/#!/doc/94002/kaz/21.10.2016
 ---
 
 > *2015 жылғы 18 тамыздағы №221 Батыс Қазақстан облысы*  
