@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96459/rus/08.10.2016
+source: https://zan.gov.kz/client/#!/doc/96459/rus/25.10.2016
 ---
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
