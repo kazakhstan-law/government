@@ -202,17 +202,24 @@ versions:
   cause:
     code: '71223'
     key: P1500000939
+- date: 2016-11-07
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '107430'
+    key: P1600000675
 version_date:
-  kaz: 2015-11-24
-  rus: 2015-11-24
+  kaz: 2016-11-07
+  rus: 2016-11-07
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/28958/kaz/24.11.2015
-  rus: https://zan.gov.kz/client/#!/doc/28958/rus/24.11.2015
+  kaz: https://zan.gov.kz/client/#!/doc/28958/kaz/07.11.2016
+  rus: https://zan.gov.kz/client/#!/doc/28958/rus/07.11.2016
 caused_by:
-  code: '71223'
-  key: P1500000939
-  requisite: Постановление Правительства Республики Казахстан от 24 ноября 2015 года № 939
+  code: '107430'
+  key: P1600000675
+  requisite: Постановление Правительства Республики Казахстан от 7 ноября 2016 года № 675
   title:
     rus: О некоторых вопросах республиканской собственности
-    kaz: Республикалық меншіктің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/71223/rus
+    kaz: Республикалық меншіктің кейбiр мәселелерi туралы
+  link: https://zan.gov.kz/client/#!/doc/107430/rus
