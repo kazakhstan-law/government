@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/03.11.2016
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/08.11.2016
 ---
 
 ## Қазақстан Республикасы Iшкi iстер министрлiгi туралы ереже
