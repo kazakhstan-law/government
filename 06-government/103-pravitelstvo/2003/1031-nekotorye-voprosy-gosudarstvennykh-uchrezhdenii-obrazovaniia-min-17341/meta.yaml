@@ -10,8 +10,15 @@ approved_on: 2003-10-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2003-10-31
-  rus: 2003-10-31
+  kaz: 2016-12-02
+  rus: 2016-12-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/17341/kaz/31.10.2003
-  rus: https://zan.gov.kz/client/#!/doc/17341/rus/31.10.2003
+  kaz: https://zan.gov.kz/client/#!/doc/17341/kaz/02.12.2016
+  rus: https://zan.gov.kz/client/#!/doc/17341/rus/02.12.2016
+caused_by:
+  code: '107903'
+  requisite: Постановление Правительства Республики Казахстан от 2 декабря 2016 года № 755
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/107903/rus
