@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
+source: https://zan.gov.kz/client/#!/doc/98330/rus/09.12.2016
 ---
 
 # Об утверждении перечня рыбохозяйственных водоемов и участков местного значения
@@ -24,6 +24,8 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 > *№ А-12/572*
 
 # Перечень рыбохозяйственных водоемов и участков местного значения
+
+> *Сноска. Перечень с изменениями, внесенными постановлением акимата Акмолинской области от 09.12.2016 № А-13/571 (вводиться в действие со дня официального опубликования).*
 
 <table>
 <tr>
@@ -220,10 +222,15 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>400</td>
 </tr>
 <tr>
+<td>38</td>
+<td colspan="4">Озеро Жарсор</td>
+<td>300</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 37</td>
+<td colspan="4">Итого: 38</td>
 <td>
-6185,5 гектаров
+6485,5 гектаров
 15 километров
 </td>
 </tr>
@@ -466,10 +473,15 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>3 километра</td>
 </tr>
 <tr>
+<td>48</td>
+<td colspan="4">Озеро Актастинка</td>
+<td>10</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 47</td>
+<td colspan="4">Итого: 48</td>
 <td>
-12995 гектаров
+13005 гектаров
 4,2 километра
 </td>
 </tr>
@@ -522,9 +534,14 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>40</td>
 </tr>
 <tr>
+<td>10</td>
+<td colspan="4">Старица Балтахонка</td>
+<td>300</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 9</td>
-<td>2610 гектаров</td>
+<td colspan="4">Итого: 10</td>
+<td>2910 гектаров</td>
 </tr>
 <tr>
 <td colspan="6">Атбасарский район</td>
@@ -660,9 +677,29 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>5</td>
 </tr>
 <tr>
+<td>27</td>
+<td colspan="4">Озеро Рогозянное</td>
+<td>50</td>
+</tr>
+<tr>
+<td>28</td>
+<td colspan="4">Озеро Колоколь</td>
+<td>240</td>
+</tr>
+<tr>
+<td>29</td>
+<td colspan="4">Озеро Узынколь</td>
+<td>300</td>
+</tr>
+<tr>
+<td>30</td>
+<td colspan="4">Озеро Ащиколь</td>
+<td>125</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 26</td>
-<td>3113 гектаров</td>
+<td colspan="4">Итого: 30</td>
+<td>3828 гектаров</td>
 </tr>
 <tr>
 <td colspan="6">Буландынский район</td>
@@ -1011,10 +1048,30 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>8</td>
 </tr>
 <tr>
+<td>41</td>
+<td colspan="4">Пруд Улге-Алган</td>
+<td>2</td>
+</tr>
+<tr>
+<td>42</td>
+<td colspan="4">Озеро Малдыбай</td>
+<td>210</td>
+</tr>
+<tr>
+<td>43</td>
+<td colspan="4">Плотина Сотникова</td>
+<td>27</td>
+</tr>
+<tr>
+<td>44</td>
+<td colspan="4">Озеро Саганколь</td>
+<td>15</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 40</td>
+<td colspan="4">Итого: 44</td>
 <td>
-5851 гектаров
+6105 гектаров
 73 километров
 </td>
 </tr>
@@ -1120,10 +1177,15 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td colspan="3">15 километров</td>
 </tr>
 <tr>
+<td>11</td>
+<td colspan="2">Старица район КБИ</td>
+<td colspan="3">0,9</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="2">Итого: 10</td>
+<td colspan="2">Итого: 11</td>
 <td colspan="3">
-635 гектаров
+635,9 гектаров
 205 километров
 </td>
 </tr>
@@ -1557,9 +1619,19 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>50</td>
 </tr>
 <tr>
+<td>33</td>
+<td colspan="4">Пруд Белагаш</td>
+<td>200</td>
+</tr>
+<tr>
+<td>34</td>
+<td colspan="4">Пруд Тоган</td>
+<td>2</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 32</td>
-<td>8414 гектаров</td>
+<td colspan="4">Итого: 34</td>
+<td>8616 гектаров</td>
 </tr>
 <tr>
 <td colspan="6">Жаркаинский район</td>
@@ -1902,9 +1974,19 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>250</td>
 </tr>
 <tr>
+<td>31</td>
+<td colspan="4">Озеро Арыкбалык</td>
+<td>60</td>
+</tr>
+<tr>
+<td>32</td>
+<td colspan="4">Озеро Баратай</td>
+<td>238</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 30</td>
-<td>7199 гектаров</td>
+<td colspan="4">Итого: 32</td>
+<td>7497 гектаров</td>
 </tr>
 <tr>
 <td colspan="6">Коргалжынский район</td>
@@ -2055,10 +2137,20 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td colspan="2">80</td>
 </tr>
 <tr>
+<td>30</td>
+<td colspan="3">Озеро Бытыгай</td>
+<td colspan="2">40</td>
+</tr>
+<tr>
+<td>31</td>
+<td colspan="3">Плотина Дан-Амир</td>
+<td colspan="2">10</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="3">Итого: 29</td>
+<td colspan="3">Итого: 31</td>
 <td colspan="2">
-20172 гектаров
+20222 гектаров
 146 километров
 </td>
 </tr>
@@ -2136,10 +2228,25 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td colspan="2">80</td>
 </tr>
 <tr>
+<td>15</td>
+<td colspan="3">Пруд Баракуль (Хлебное)</td>
+<td colspan="2">4</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">Пруд Рыбный</td>
+<td colspan="2">8</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">Плотина Костина</td>
+<td colspan="2">2</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="3">Итого: 14</td>
+<td colspan="3">Итого: 17</td>
 <td colspan="2">
-1638 гектаров
+1652 гектаров
 140 километров
 </td>
 </tr>
@@ -2402,10 +2509,25 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td>36</td>
 </tr>
 <tr>
+<td>52</td>
+<td colspan="4">Пруд Апан</td>
+<td>8</td>
+</tr>
+<tr>
+<td>53</td>
+<td colspan="4">Пруд Журавлиный</td>
+<td>7</td>
+</tr>
+<tr>
+<td>54</td>
+<td colspan="4">Пруд Далаколь</td>
+<td>45</td>
+</tr>
+<tr>
 <td></td>
-<td colspan="4">Итого: 51</td>
+<td colspan="4">Итого: 54</td>
 <td>
-8678 гектаров
+8738 гектаров
 32 километра
 </td>
 </tr>
@@ -2593,10 +2715,15 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td colspan="4">120</td>
 </tr>
 <tr>
+<td>37</td>
+<td>Плотина Донец</td>
+<td colspan="4">32</td>
+</tr>
+<tr>
 <td></td>
-<td>Итого: 36</td>
+<td>Итого: 37</td>
 <td colspan="4">
-3846 гектаров
+3878 гектаров
 25 километров
 </td>
 </tr>
@@ -2629,10 +2756,23 @@ source: https://zan.gov.kz/client/#!/doc/98330/rus/14.12.2015
 <td colspan="4">164 гектаров</td>
 </tr>
 <tr>
+<td colspan="6">город Кокшетау</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Пруд Бармашино</td>
+<td colspan="4">1,3</td>
+</tr>
+<tr>
 <td></td>
-<td>Всего: 484</td>
+<td>Итого:</td>
+<td colspan="4">1,3 гектара</td>
+</tr>
+<tr>
+<td></td>
+<td>Всего: 510</td>
 <td colspan="4">
-105903 гектаров
+108140,2 гектаров
 764,2 километров
 </td>
 </tr>
