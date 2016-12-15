@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/74418/kaz/31.12.2015
+source: https://zan.gov.kz/client/#!/doc/74418/kaz/15.12.2016
 ---
 
 ## Қазақстан Республикасы Үкіметінің күші жойылған кейбір шешімдерінің тізбесі
