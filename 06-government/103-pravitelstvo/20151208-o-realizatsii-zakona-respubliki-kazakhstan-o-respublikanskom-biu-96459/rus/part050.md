@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/96459/rus/15.12.2016
+source: https://zan.gov.kz/client/#!/doc/96459/rus/20.12.2016
 ---
 
 ## Перечень государственных заданий на 2016 год
