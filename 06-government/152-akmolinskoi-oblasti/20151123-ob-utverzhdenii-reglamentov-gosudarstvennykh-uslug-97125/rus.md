@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97125/rus/21.04.2016
+source: https://zan.gov.kz/client/#!/doc/97125/rus/26.12.2016
 ---
 
 # Об утверждении регламентов государственных услуг
