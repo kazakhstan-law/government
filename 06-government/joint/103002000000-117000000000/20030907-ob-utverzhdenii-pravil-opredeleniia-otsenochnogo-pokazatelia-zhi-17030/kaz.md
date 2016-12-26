@@ -20,6 +20,11 @@ caused_by:
   title: Бағалау көрсеткішін айқындау қағидаларын бекіту туралы
   link: https://zan.gov.kz/client/#!/doc/109572/kaz
 source: https://zan.gov.kz/client/#!/doc/17030/kaz
+repealed_on: 2016-12-29
+repealed_by:
+  code: '109572'
+  title: Бағалау көрсеткішін айқындау қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/109572/kaz
 ---
 
 # Қазақстан Республикасындағы тұрғын үй құрылысы жинақ банктерi бағалау көрсеткiштерiн анықтаудың ережелерiн бекiту туралы
