@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83353/kaz/05.12.2016
+source: https://zan.gov.kz/client/#!/doc/83353/kaz/01.01.2017
 ---
 
 # Қазақстан Республикасы Ұлттық экономика министрлігінің мәселелері
@@ -91,6 +91,12 @@ source: https://zan.gov.kz/client/#!/doc/83353/kaz/05.12.2016
 <tr>
 <td></td>
 <td>бекітілген</td>
+</tr>
+</table>
+<table>
+<tr>
+<td></td>
+<td></td>
 </tr>
 </table>
 </td>
