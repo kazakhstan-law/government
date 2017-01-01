@@ -89,6 +89,12 @@
 <td>бекітілген</td>
 </tr>
 </table>
+<table>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
