@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97724/kaz/15.04.2016
+source: https://zan.gov.kz/client/#!/doc/97724/kaz/06.01.2017
 ---
 
 > *Батыс Қазақстан облысы әкімдігінің*  
