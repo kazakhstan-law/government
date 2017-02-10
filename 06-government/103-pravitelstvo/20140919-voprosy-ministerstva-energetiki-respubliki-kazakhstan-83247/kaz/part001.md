@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/83247/kaz/07.11.2016
+source: https://zan.gov.kz/client/#!/doc/83247/kaz/10.02.2017
 ---
 
 ## Қазақстан Республикасы Энергетика министрлігі туралы ереже
