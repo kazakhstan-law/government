@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83247/rus/10.02.2017
+source: https://zan.gov.kz/client/#!/doc/83247/rus/14.02.2017
 ---
 
 # Вопросы Министерства энергетики Республики Казахстан
@@ -41,25 +41,20 @@ source: https://zan.gov.kz/client/#!/doc/83247/rus/10.02.2017
 <table>
 <tr>
 <td>Премьер-Министр</td>
-<td colspan="2"></td>
-<td></td>
 </tr>
 <tr>
 <td>Республики Казахстан</td>
-<td colspan="2">К. Масимов</td>
-<td></td>
+<td>К. Масимов</td>
 </tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2">
+</table>
+
 <table>
 <tr>
 <td></td>
-<td>Утверждено</td>
-</tr>
-<tr>
-<td></td>
-<td>постановлением Правительства</td>
+<td>
+Утверждено
+постановлением Правительства
+</td>
 </tr>
 <tr>
 <td></td>
@@ -68,9 +63,6 @@ source: https://zan.gov.kz/client/#!/doc/83247/rus/10.02.2017
 <tr>
 <td></td>
 <td>от 19 сентября 2014 года № 994</td>
-</tr>
-</table>
-</td>
 </tr>
 </table>
 
