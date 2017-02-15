@@ -24,76 +24,37 @@
 
 # Ырғыз ауданы бойынша аудандық маңызы бар жалпы пайдаланымдағы автомобиль жолдарының тізбесі
 
+> *Ескерту. Қосымша жаңа редакцияда – Ақтөбе облысы Ырғыз аудандық әкімдігінің 15.02.2017 № 23 (алғашқы ресми жарияланған күнінен бастап күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<th rowspan="3">№ рет саны</th>
-<th rowspan="3">Автомобиль жолдарының индексі</th>
-<th rowspan="3">Автомобиль жолдарының атауы</th>
-<th rowspan="3">Жалпы ұзындығы, шақырым</th>
-<th colspan="5">Санаттар бойынша, шақырым</th>
-</tr>
-<tr>
-<td rowspan="2">I</td>
-<td rowspan="2">II</td>
-<td rowspan="2">III</td>
-<td rowspan="2">IV</td>
-<td rowspan="2">V</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
+<td>№</td>
+<td>Автомобиль жолдары индексі</td>
+<td>Автомобиль жолдарының атауы</td>
+<td>Жалпы ұзындығы, шақырым</td>
 </tr>
 <tr>
 <td>1</td>
 <td>KD-IR-154</td>
 <td>Ырғыз-Нұра</td>
 <td>87,970</td>
-<td></td>
-<td></td>
-<td></td>
-<td>87,970</td>
-<td></td>
 </tr>
 <tr>
 <td>2</td>
 <td>KD-IR-155</td>
-<td>Ырғыз-Құйлыс</td>
-<td>87,555</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Ырғыз-Құйылыс</td>
 <td>87,555</td>
 </tr>
 <tr>
 <td>3</td>
-<td>KD-IR-156</td>
-<td>Нұра-Қостанай облысының шекарасы</td>
-<td>33,400</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>33,400</td>
+<td>KD-IR-161</td>
+<td>Құйлыс-Жайсаңбай</td>
+<td>60,000</td>
 </tr>
 <tr>
 <td>4</td>
 <td>KD-IR-157</td>
 <td>Құмтоғай ауылына кіре беріс</td>
-<td>25,290</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>25,290</td>
 </tr>
 <tr>
@@ -101,223 +62,27 @@
 <td>KD-IR-158</td>
 <td>Құтикөл ауылына кіре беріс</td>
 <td>23,000</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>23,000</td>
 </tr>
 <tr>
 <td>6</td>
 <td>KD-IR-159</td>
 <td>Құрылыс ауылына кіре беріс</td>
 <td>6,875</td>
-<td></td>
-<td></td>
-<td></td>
-<td>6,875</td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>KD-IR-160</td>
 <td>Ырғыз ауылына кіре беріс</td>
 <td>11,400</td>
-<td></td>
-<td></td>
-<td></td>
-<td>11,400</td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2">Барлығы</td>
-<td>275,49</td>
-<td></td>
-<td></td>
-<td></td>
-<td>106,245</td>
-<td>169,245</td>
-</tr>
-</table>
-
-Кестенің жалғасы
-
-<table>
-<tr>
-<th colspan="6">Оның ішінде жамылғы түрі бойынша, шақырым</th>
-</tr>
-<tr>
-<td rowspan="2">Асфальт бетон</td>
-<td colspan="3">Қара</td>
-<td rowspan="2">Қиыршық/топырақ</td>
-<td rowspan="2">топырақ</td>
-</tr>
-<tr>
-<td>Малта тас</td>
-<td>Қиыршық тас</td>
-<td>Малта тас/қиыршық тас</td>
-</tr>
-<tr>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-</tr>
-<tr>
-<td>0,709</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>87,261</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>87,555</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>8</td>
+<td>KD-IR-156</td>
+<td>Нұра-Қостанай облысының шекарасы</td>
 <td>33,400</td>
 </tr>
 <tr>
-<td>0,040</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>25,250</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>10,120</td>
-<td></td>
-<td>12,880</td>
-</tr>
-<tr>
-<td>0,080</td>
-<td></td>
-<td></td>
-<td></td>
-<td>6,795</td>
-<td></td>
-</tr>
-<tr>
-<td>11,300</td>
-<td></td>
-<td></td>
-<td>0,100</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12,129</td>
-<td></td>
-<td></td>
-<td>10,220</td>
-<td>6,975</td>
-<td>246,346</td>
-</tr>
-</table>
-
-Кестенің жалғасы
-
-<table>
-<tr>
-<th colspan="2">Көпірлер</th>
-<th colspan="2">Құбырлар</th>
-<th colspan="2">Жасыл желектер</th>
-</tr>
-<tr>
-<td>дана</td>
-<td>Қума шақырым</td>
-<td>Дана</td>
-<td>Қума шақырым</td>
-<td>Барлығы, шақырым</td>
-<td>Қардан қорғау</td>
-</tr>
-<tr>
-<td>16</td>
-<td>17</td>
-<td>18</td>
-<td>19</td>
-<td>20</td>
-<td>21</td>
-</tr>
-<tr>
-<td>2</td>
-<td>115,35</td>
-<td>6</td>
-<td>69,2</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>5</td>
-<td>49,9</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>13,0</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>12,5</td>
-<td>5</td>
-<td>63,2</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td>10,3</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>8</td>
-<td>106,6</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>127,85</td>
-<td>26</td>
-<td>312,2</td>
-<td></td>
-<td></td>
+<td colspan="3">Барлығы</td>
+<td>335,49</td>
 </tr>
 </table>
