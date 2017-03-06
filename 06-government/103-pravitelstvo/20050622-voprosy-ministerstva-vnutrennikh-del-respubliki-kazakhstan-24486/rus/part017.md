@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/24486/rus/18.02.2017
+source: https://zan.gov.kz/client/#!/doc/24486/rus/06.03.2017
 ---
 
 ## 1. Министерство внутренних дел Республики Казахстан
