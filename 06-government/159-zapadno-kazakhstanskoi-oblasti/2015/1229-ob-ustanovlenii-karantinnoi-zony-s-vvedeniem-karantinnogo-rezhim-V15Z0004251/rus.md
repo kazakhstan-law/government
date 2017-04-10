@@ -27,9 +27,13 @@
 **Н.Ногаев**
 
 > *Приложение*  
-> *к постановлению акимата Западно-Казахстанской области от «29» декабря 2015 года №373*
+> *к постановлению акимата*  
+> *Западно-Казахстанской области*  
+> *от «29» декабря 2015 года №373*
 
 # Карантинная зона с введением карантинного режима на территориях Акжаикского, Бурлинского, Жанибекского, Зеленовского, Казталовского, Сырымского, Таскалинского, Теректинского, Чингирлауского районов и города Уральска
+
+> *Сноска. Приложение - в редакции постановления акимата Западно-Казахстанской области от 10.04.2017 № 92 (вводится в действие со дня первого официального опубликования).*
 
 <table>
 <tr>
@@ -114,7 +118,7 @@
 <td>Бударинский</td>
 <td>Чапаевское государственное учреждение по охране лесов и животного мира «Бударинское лесничество»</td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>93</td>
+<td>95,2</td>
 </tr>
 <tr>
 <td></td>
@@ -128,7 +132,7 @@
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>210</td>
+<td>212,2</td>
 </tr>
 <tr>
 <td></td>
@@ -147,7 +151,7 @@
 <tr>
 <td>Бурлинский</td>
 <td>Акбулакский</td>
-<td>ТОО «Миргород»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>250</td>
 </tr>
@@ -168,9 +172,9 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Арай»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>2220</td>
+<td>2210</td>
 </tr>
 <tr>
 <td></td>
@@ -212,7 +216,14 @@
 <td>Канайский</td>
 <td>ТОО «Шұғла»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1045</td>
+<td>651</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>394</td>
 </tr>
 <tr>
 <td></td>
@@ -240,14 +251,14 @@
 <td>Приуральный</td>
 <td>Бурлинское государственное учреждение по охране лесов и животного мира «Приуральное лесничество»</td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>250</td>
+<td>280</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>250</td>
+<td>280</td>
 </tr>
 <tr>
 <td></td>
@@ -336,7 +347,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Матевосян А.С.»</td>
+<td>КХ «Алтын бидай»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>2400</td>
 </tr>
@@ -553,7 +564,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Тулпар»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>252</td>
 </tr>
@@ -616,7 +627,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>ТОО «Лесное»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>573</td>
 </tr>
@@ -658,7 +669,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Матевосян А.С.»</td>
+<td>КХ «Рипсиме»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>1040</td>
 </tr>
@@ -735,9 +746,9 @@
 <tr>
 <td></td>
 <td></td>
-<td>ТОО «Каркула В.Н.»</td>
+<td>КХ «Агро Люкс»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>834</td>
+<td>780</td>
 </tr>
 <tr>
 <td></td>
@@ -814,7 +825,7 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>36132</td>
+<td>36078</td>
 </tr>
 <tr>
 <td></td>
@@ -862,22 +873,29 @@
 <td></td>
 <td>Кушумский</td>
 <td>КХ «Урожай»</td>
-<td>Myiopardalis pardalina Big</td>
+<td>Myiopardalis pardalina (Bigot)</td>
 <td>3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>КХ «Лим»</td>
-<td>Myiopardalis pardalina Big</td>
+<td>Myiopardalis pardalina (Bigot)</td>
 <td>0,2</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Губайдолла»</td>
+<td>Myiopardalis pardalina (Bigot)</td>
+<td>3</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
-<td>Myiopardalis pardalina Big</td>
-<td>3,2</td>
+<td>Myiopardalis pardalina (Bigot)</td>
+<td>6,2</td>
 </tr>
 <tr>
 <td></td>
@@ -943,11 +961,18 @@
 <td>47</td>
 </tr>
 <tr>
+<td></td>
+<td>Карасуский</td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>300</td>
+</tr>
+<tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>97</td>
+<td>397</td>
 </tr>
 <tr>
 <td>Сырымский</td>
@@ -966,7 +991,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Наурызғали»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>240</td>
 </tr>
@@ -987,7 +1012,7 @@
 <tr>
 <td></td>
 <td>Жосалинский</td>
-<td>КХ «Кеңащы»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>470</td>
 </tr>
@@ -1008,7 +1033,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>ТОО «Тінәлі»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>4410</td>
 </tr>
@@ -1050,9 +1075,9 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Қарағанды»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>903</td>
+<td>1355</td>
 </tr>
 <tr>
 <td></td>
@@ -1066,26 +1091,26 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>17771</td>
+<td>18223</td>
 </tr>
 <tr>
 <td>Таскалинский</td>
 <td>Актауский</td>
 <td>КХ «Арай»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>750</td>
+<td>1290</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Ак-булак»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>540</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Береке»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>400</td>
 </tr>
@@ -1199,7 +1224,7 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>9812</td>
+<td>10352</td>
 </tr>
 <tr>
 <td>Теректинский</td>
@@ -1221,6 +1246,13 @@
 <td>КХ «Орда»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>2569</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,6 +1347,13 @@
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>400</td>
+</tr>
+<tr>
+<td></td>
 <td>Долинский</td>
 <td>КХ «Акколь»</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -1323,7 +1362,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Долина»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>483</td>
 </tr>
@@ -1375,6 +1414,13 @@
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>738</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>770</td>
 </tr>
 <tr>
 <td></td>
@@ -1442,7 +1488,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>ТОО «10 лет РК»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>467</td>
 </tr>
@@ -1452,6 +1498,13 @@
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1439</td>
 </tr>
 <tr>
 <td></td>
@@ -1487,6 +1540,13 @@
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Аксуат»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>130</td>
 </tr>
 <tr>
 <td></td>
@@ -1545,32 +1605,39 @@
 <td>925</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>327</td>
+</tr>
+<tr>
+<td></td>
+<td>Приреченский</td>
+<td>КХ «Танас»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>650</td>
+</tr>
+<tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>49501,4</td>
+<td>53517,4</td>
 </tr>
 <tr>
 <td></td>
 <td>Долинский</td>
 <td>Теректинское государственное учреждение по охране лесов и животного мира «Долинское лесничество»</td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>200</td>
+<td>215</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>200</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>215</td>
 </tr>
 <tr>
 <td>Чингирлауский</td>
@@ -1608,11 +1675,18 @@
 <td>265,6</td>
 </tr>
 <tr>
+<td></td>
+<td>Алмазненский</td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>593</td>
+</tr>
+<tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>2509</td>
+<td>3102</td>
 </tr>
 <tr>
 <td></td>
@@ -1682,7 +1756,14 @@
 <td></td>
 <td>ТОО Агрофирма «ЯИК»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1101</td>
+<td>241</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>860</td>
 </tr>
 <tr>
 <td></td>
@@ -1752,7 +1833,7 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>152252,8</td>
+<td>158089,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1773,14 +1854,14 @@
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>1269,1</td>
+<td>1316,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>Myiopardalis pardalina Big</td>
-<td>3,2</td>
+<td>Myiopardalis pardalina (Bigot)</td>
+<td>6,2</td>
 </tr>
 </table>
 
@@ -1788,13 +1869,13 @@
 
 Acroptilon repens (D.C.) – горчак ползучий
 
-Ambrosia psilostachya (D.C.) - амброзия многолетняя
+Ambrosia psilostachya (D.C.) – амброзия многолетняя
 
 Cuscuta sp.sp – Повилика
 
-Lymantria dispar L. (asian race) - непарный шелкопряд
+Lymantria dispar L. (asian race) – непарный шелкопряд
 
-Myiopardalis pardalina Big – дынная муха
+Myiopardalis pardalina (Bigot) – дынная муха
 
 Расшифровка аббревиатур:
 
