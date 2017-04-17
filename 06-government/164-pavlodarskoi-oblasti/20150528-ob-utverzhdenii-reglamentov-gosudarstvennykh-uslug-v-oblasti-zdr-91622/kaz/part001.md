@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/91622/kaz/14.02.2017
+source: https://zan.gov.kz/client/#!/doc/91622/kaz/17.04.2017
 ---
 
 > *Павлодар облысы әкімдігінің*  
