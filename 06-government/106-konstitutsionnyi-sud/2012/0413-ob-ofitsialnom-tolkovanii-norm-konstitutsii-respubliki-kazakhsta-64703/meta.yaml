@@ -10,8 +10,15 @@ approved_on: 2012-04-13
 approved_by:
 - '106000000000'
 version_date:
-  kaz: 2012-04-13
-  rus: 2012-04-13
+  kaz: 2017-04-17
+  rus: 2017-04-17
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/64703/kaz/13.04.2012
-  rus: https://zan.gov.kz/client/#!/doc/64703/rus/13.04.2012
+  kaz: https://zan.gov.kz/client/#!/doc/64703/kaz/17.04.2017
+  rus: https://zan.gov.kz/client/#!/doc/64703/rus/17.04.2017
+caused_by:
+  code: '111480'
+  requisite: Нормативное постановление Конституционного Совета Республики Казахстан от 17 апреля 2017 года № 2
+  title:
+    rus: О пересмотре некоторых нормативных постановлений Конституционного Совета Республики Казахстан
+    kaz: Қазақстан Республикасы Конституциялық Кеңесінің кейбір нормативтік қаулыларын қайта қарау туралы
+  link: https://zan.gov.kz/client/#!/doc/111480/rus
