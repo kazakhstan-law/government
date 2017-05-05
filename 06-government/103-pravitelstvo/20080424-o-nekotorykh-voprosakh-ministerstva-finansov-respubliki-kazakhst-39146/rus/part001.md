@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39146/rus/04.04.2017
+source: https://zan.gov.kz/client/#!/doc/39146/rus/05.05.2017
 ---
 
 ## ПОЛОЖЕНИЕ о Министерстве финансов Республики Казахстан
