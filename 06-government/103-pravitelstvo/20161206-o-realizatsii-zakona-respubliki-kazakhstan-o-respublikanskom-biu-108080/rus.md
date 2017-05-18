@@ -1,5 +1,5 @@
 ---
-version_id: '108080_185629'
+version_id: '108080_185722'
 act_code: '108080'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2017 – 2019 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2016-12-06
-version_date: 2017-05-17
+version_date: 2017-05-18
 registry_number: '108080'
 caused_by:
-  code: '112165'
+  code: '112205'
   title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 6 декабря 2016 года № 775 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2017 – 2019 годы»
-  link: https://zan.gov.kz/client/#!/doc/112165/rus
-source: https://zan.gov.kz/client/#!/doc/108080/rus/17.05.2017
+  link: https://zan.gov.kz/client/#!/doc/112205/rus
+source: https://zan.gov.kz/client/#!/doc/108080/rus/18.05.2017
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2017 – 2019 годы»
@@ -8176,7 +8176,40 @@ source: https://zan.gov.kz/client/#!/doc/108080/rus/17.05.2017
 <td></td>
 <td></td>
 <td>Акмолинская область</td>
-<td>276 985</td>
+<td>624 978</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Алматинская область</td>
+<td>1 462 612</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Восточно-Казахстанская область</td>
+<td>1 239 933</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылская область</td>
+<td>848 098</td>
 <td></td>
 <td></td>
 </tr>
@@ -8187,7 +8220,7 @@ source: https://zan.gov.kz/client/#!/doc/108080/rus/17.05.2017
 <td></td>
 <td></td>
 <td>Костанайская область</td>
-<td>1 031 884</td>
+<td>1 253 248</td>
 <td></td>
 <td></td>
 </tr>
@@ -8197,8 +8230,52 @@ source: https://zan.gov.kz/client/#!/doc/108080/rus/17.05.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Прочие</td>
-<td>8 691 131</td>
+<td>Павлодарская область</td>
+<td>2 115 551</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Северо-Казахстанская область</td>
+<td>928 567</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Южно-Казахстанская область</td>
+<td>292 538</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>город Алматы</td>
+<td>89 627</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>прочие</td>
+<td>1 144 848</td>
 <td></td>
 <td></td>
 </tr>
