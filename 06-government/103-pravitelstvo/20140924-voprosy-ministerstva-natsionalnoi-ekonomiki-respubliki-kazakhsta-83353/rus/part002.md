@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/83353/rus/18.02.2017
+source: https://zan.gov.kz/client/#!/doc/83353/rus/26.05.2017
 ---
 
 ## 3. Организация деятельности государственного органа
