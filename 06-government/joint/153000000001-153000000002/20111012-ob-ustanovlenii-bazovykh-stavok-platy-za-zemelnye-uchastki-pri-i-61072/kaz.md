@@ -1,5 +1,5 @@
 ---
-version_id: AI61072_0
+version_id: '61072_201148'
 act_code: '61072'
 language: kaz
 title: Ақтөбе облысы бойынша жер учаскелері жеке меншікке берілген кезде олар үшін төлемақының базалық ставкаларын белгілеу туралы
@@ -12,9 +12,13 @@ approved_by:
 - '153000000002'
 - '153000000001'
 approval_date: 2011-10-12
-version_date: 2011-10-12
+version_date: 2017-05-30
 registry_number: '61072'
-source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
+caused_by:
+  code: '113055'
+  title: Ақтөбе облысы әкімдігінің және мәслихатының 2011 жылғы 12 қазандағы № 328/415 «Ақтөбе облысы бойынша жер учаскелері жеке меншікке берілген кезде олар үшін төлемақының базалық ставкаларын белгілеу туралы» қаулысына және шешіміне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/113055/kaz
+source: https://zan.gov.kz/client/#!/doc/61072/kaz/30.05.2017
 ---
 
 # Ақтөбе облысы бойынша жер учаскелері жеке меншікке берілген кезде олар үшін төлемақының базалық ставкаларын белгілеу туралы
@@ -54,6 +58,8 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 
 > *Ескерту. Бірлескен шешім және қаулы қосымшамен толықтырылды - Бірлескен Ақтөбе облыстық мәслихатының 05.06.2013 № 123 шешімімен және Ақтөбе облыстық әкімдігінің 05.06.2013 № 173 қаулысымен (алғаш ресми жарияланғаннан кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
 
+> *Ескерту. Қосымшасында бүкіл мәтін бойынша "селолық", "кенттік" сөздері "ауылдық" сөзімен ауыстырылды – Ақтөбе облысының әкімдігінің 30.05.2017 № 186 қаулысымен және Ақтөбе облыстық мәслихатының 30.05.2017 № 159 шешімімен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <th>№</th>
@@ -67,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Благодар селолық округі</td>
+<td>Благодар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -127,7 +133,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарғалы селолық округі</td>
+<td>Қарғалы ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -137,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қурайлы селолық округі</td>
+<td>Қурайлы ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -157,7 +163,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Новый селолық округі</td>
+<td>Новый ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -167,7 +173,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Сазды селолық округі</td>
+<td>Сазды ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -186,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бесқоспа селолық округі</td>
+<td>Бесқоспа ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -201,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бестамақ селолық округі</td>
+<td>Бестамақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -236,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақай селолық округі</td>
+<td>Ақай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -251,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Үшқұдық селолық округі</td>
+<td>Үшқұдық ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -271,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарағаш селолық округі</td>
+<td>Қарағаш ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -286,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарабұлақ селолық округі</td>
+<td>Қарабұлақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -301,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарахобда селолық округі</td>
+<td>Қарахобда ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -321,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Маржанбұлақ селолық округі</td>
+<td>Маржанбұлақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -356,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тамды селолық округі</td>
+<td>Тамды ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -376,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тоқмансай селолық округі</td>
+<td>Тоқмансай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -405,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Комсомол селолық округі</td>
+<td>Комсомол ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -430,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақкөл селолық округі</td>
+<td>Ақкөл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -440,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақтасты селолық округі</td>
+<td>Ақтасты ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -455,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Аралтоғай селолық округі</td>
+<td>Аралтоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -480,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қызылжұлдыз селолық округі</td>
+<td>Қызылжұлдыз ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -490,7 +496,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Әйке селолық округі</td>
+<td>Әйке ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -510,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Басқұдық селолық округі</td>
+<td>Басқұдық ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -525,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жабасақ селолық округі</td>
+<td>Жабасақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -550,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жамбыл селолық округі</td>
+<td>Жамбыл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -560,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қайрақты селолық округі</td>
+<td>Қайрақты ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -570,7 +576,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарабұтақ селолық округі</td>
+<td>Қарабұтақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -595,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құмқұдық селолық округі</td>
+<td>Құмқұдық ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -605,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Сарат селолық округі</td>
+<td>Сарат ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -620,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Сұлукөл селолық округі</td>
+<td>Сұлукөл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -630,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ұшқатты селолық округі</td>
+<td>Ұшқатты ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -644,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарауылкелдi селолық округі</td>
+<td>Қарауылкелдi ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -669,7 +675,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ащы селолық округі</td>
+<td>Ащы ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -679,7 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жаңажол селолық округі</td>
+<td>Жаңажол ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -689,7 +695,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жарқамыс селолық округі</td>
+<td>Жарқамыс ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -709,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Көлтабан селолық округі</td>
+<td>Көлтабан ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -729,7 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қопа селолық округі</td>
+<td>Қопа ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -754,7 +760,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қызылбұлақ селолық округі</td>
+<td>Қызылбұлақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -774,7 +780,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Сарытоғай селолық округі</td>
+<td>Сарытоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -818,7 +824,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ырғыз селолық округі</td>
+<td>Ырғыз ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -843,7 +849,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Аманкөл селолық округі</td>
+<td>Аманкөл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -863,7 +869,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құмтоғай селолық округі</td>
+<td>Құмтоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -883,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қызылжар селолық округі</td>
+<td>Қызылжар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -903,7 +909,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Нұра селолық округі</td>
+<td>Нұра ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -928,7 +934,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тәуiп селолық округі</td>
+<td>Тәуiп ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -943,7 +949,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жайсаңбай селолық округі</td>
+<td>Жайсаңбай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -957,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бадамша селолық округі</td>
+<td>Бадамша ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -967,7 +973,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ащылысай селолық округі</td>
+<td>Ащылысай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -992,7 +998,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Әлiмбет селолық округі</td>
+<td>Әлiмбет ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1017,7 +1023,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Велихов селолық округі</td>
+<td>Велихов ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1032,7 +1038,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Желтау селолық округі</td>
+<td>Желтау ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1047,7 +1053,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Кемпiрсай селолық округі</td>
+<td>Кемпiрсай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1067,7 +1073,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қос-Истек селолық округі</td>
+<td>Қос-Истек ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1082,7 +1088,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Степной селолық округі</td>
+<td>Степной ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1365,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Мәртөк селолық округі</td>
+<td>Мәртөк ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1385,7 +1391,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Байторысай селолық округі</td>
+<td>Байторысай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1410,7 +1416,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Хазірет селолық округі</td>
+<td>Хазірет ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1425,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жайсаң селолық округі</td>
+<td>Жайсаң ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1445,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қаратоғай селолық округі</td>
+<td>Қаратоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1455,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қарашай селолық округі</td>
+<td>Қарашай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1470,7 +1476,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қызылжар селолық округі</td>
+<td>Қызылжар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1505,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Байнассай селолық округі</td>
+<td>Байнассай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1525,7 +1531,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Аққүдық селолық округі</td>
+<td>Аққұдық ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1555,7 +1561,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Родников селолық округі</td>
+<td>Родников ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1565,7 +1571,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құрмансай селолық округі</td>
+<td>Құрмансай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1590,7 +1596,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Хлебодар селолық округі</td>
+<td>Хлебодар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1619,7 +1625,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақкемер селолық округі</td>
+<td>Ақкемер ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1649,7 +1655,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ащысай селолық округі</td>
+<td>Ащысай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1674,7 +1680,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бетпақкөл селолық округі</td>
+<td>Бетпақкөл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1699,7 +1705,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Егiндiбұлақ селолық округі</td>
+<td>Егiндiбұлақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1714,7 +1720,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Еңбек селолық округі</td>
+<td>Еңбек ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1739,7 +1745,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құдайберген Жұбанов атын селолық округі</td>
+<td>Құдайберген Жұбанов атын ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1759,7 +1765,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жұрын селолық округі</td>
+<td>Жұрын ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1784,7 +1790,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td>245</td>
-<td>53жол айрығы</td>
+<td>53 жол айрығы</td>
 <td>80</td>
 </tr>
 <tr>
@@ -1794,7 +1800,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қайыңды селолық округі</td>
+<td>Қайыңды ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1809,7 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құмжарған селолық округі</td>
+<td>Құмжарған ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1834,7 +1840,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құмсай селолық округі</td>
+<td>Құмсай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1859,7 +1865,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Мұғалжар селолық округі</td>
+<td>Мұғалжар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1874,7 +1880,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Талдысай селолық округі</td>
+<td>Талдысай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1893,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ойыл селолық округі</td>
+<td>Ойыл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1918,7 +1924,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қайыңды селолық округі</td>
+<td>Қайыңды ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1933,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қараой селолық округі</td>
+<td>Қараой ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1948,7 +1954,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ш.Берсиев атындағы селолық округі</td>
+<td>Ш. Берсиев атындағы ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1968,7 +1974,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Көптоғай селолық округі</td>
+<td>Көптоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -1993,7 +1999,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Саралжын селолық округі</td>
+<td>Саралжын ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2023,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Сарыбие селолық округі</td>
+<td>Сарыбие ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2042,7 +2048,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Темiр селолық округі</td>
+<td>Темiр ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2177,7 +2183,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Саркөл селолық округі</td>
+<td>Саркөл ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2212,7 +2218,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Шұбарши кенттік округі</td>
+<td>Шұбарши ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2271,7 +2277,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бөгетсай селолық округі</td>
+<td>Бөгетсай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2296,7 +2302,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Дөң селолық округі</td>
+<td>Дөң ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2311,7 +2317,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Көктөбе селолық округі</td>
+<td>Көктөбе ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2326,7 +2332,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Аққұдық селолық округі</td>
+<td>Аққұдық ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2341,7 +2347,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Көктау селолық округі</td>
+<td>Көктау ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2356,7 +2362,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қопа селолық округі</td>
+<td>Қопа ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2371,7 +2377,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Құдықсай селолық округі</td>
+<td>Құдықсай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2386,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қызылсу селолық округі</td>
+<td>Қызылсу ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2401,7 +2407,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақжар селолық округі</td>
+<td>Ақжар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2416,7 +2422,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Никельтау селолық округі</td>
+<td>Никельтау ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2426,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Табантал селолық округі</td>
+<td>Табантал ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2451,7 +2457,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тассай селолық округі</td>
+<td>Тассай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2466,7 +2472,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тасөткел селолық округі</td>
+<td>Тасөткел ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2495,7 +2501,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Айшуақ селолық округі</td>
+<td>Айшуақ ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2510,7 +2516,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Ақтоғай селолық округі</td>
+<td>Ақтоғай ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2530,7 +2536,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бозой селолық округі</td>
+<td>Бозой ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2550,7 +2556,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Бiршоғыр селолық округі</td>
+<td>Бiршоғыр ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2575,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Есет Көтiбарұлы селолық округі</td>
+<td>Есет Көтiбарұлы ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2590,7 +2596,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Жаңақоныс селолық округі</td>
+<td>Жаңақоныс ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2605,7 +2611,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Кiшiқұм селолық округі</td>
+<td>Кiшiқұм ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2640,7 +2646,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Қауылжыр селолық округі</td>
+<td>Қауылжыр ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2670,7 +2676,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Мөңке би селолық округі</td>
+<td>Мөңке би ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2680,7 +2686,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Тоғыз селолық округі</td>
+<td>Тоғыз ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2725,7 +2731,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Шалқар селолық округі</td>
+<td>Шалқар ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
@@ -2740,7 +2746,7 @@ source: https://zan.gov.kz/client/#!/doc/61072/kaz/12.10.2011
 </tr>
 <tr>
 <td></td>
-<td>Шетырғыз селолық округі</td>
+<td>Шетырғыз ауылдық округі</td>
 <td></td>
 </tr>
 <tr>
