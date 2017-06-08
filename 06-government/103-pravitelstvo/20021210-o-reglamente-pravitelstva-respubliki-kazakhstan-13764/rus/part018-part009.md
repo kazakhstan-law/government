@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/13764/rus/29.12.2016
+source: https://zan.gov.kz/client/#!/doc/13764/rus/08.06.2017
 ---
 
 ## 6.7. Порядок прохождения законопроектов в Парламенте

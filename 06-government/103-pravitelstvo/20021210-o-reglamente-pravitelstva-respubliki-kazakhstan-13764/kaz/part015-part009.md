@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/29.12.2016
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/08.06.2017
 ---
 
 ## 6.7. Заң жобаларының Парламентте өту тәртібі
