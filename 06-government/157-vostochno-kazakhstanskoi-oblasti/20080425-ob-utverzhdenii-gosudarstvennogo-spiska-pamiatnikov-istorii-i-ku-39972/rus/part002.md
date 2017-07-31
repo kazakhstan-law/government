@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/39972/rus/16.10.2015
+source: https://zan.gov.kz/client/#!/doc/39972/rus/31.07.2017
 ---
 
 > *Приложение к постановлению*  
