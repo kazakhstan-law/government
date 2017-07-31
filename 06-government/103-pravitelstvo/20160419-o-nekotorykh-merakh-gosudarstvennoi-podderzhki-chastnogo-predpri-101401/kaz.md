@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/101401/kaz/15.06.2017
+source: https://zan.gov.kz/client/#!/doc/101401/kaz/31.07.2017
 ---
 
 # Жеке кәсіпкерлікті мемлекеттік қолдаудың кейбір шаралары туралы
