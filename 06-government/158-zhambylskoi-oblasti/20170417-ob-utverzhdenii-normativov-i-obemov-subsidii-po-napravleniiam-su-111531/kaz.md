@@ -1,5 +1,5 @@
 ---
-version_id: '111531_175943'
+version_id: '111531_209586'
 act_code: '111531'
 language: kaz
 title: 2017 жылға асыл тұқымды мал  шаруашылығын дамытуды, мал шаруашылығының өнімділігін және өнім сапасын арттыруды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдерін бекіту туралы
@@ -11,9 +11,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2017-04-17
-version_date: 2017-04-17
+version_date: 2017-07-31
 registry_number: '111531'
-source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
+caused_by:
+  code: '113917'
+  title: «2017 жылға асыл тұқымды мал шаруашылығын дамытуды, мал шаруашылығының өнімділігін және өнім сапасын арттыруды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдерін бекіту туралы» Жамбыл облысы әкімдігінің 2017 жылғы 17 сәуірдегі № 68 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/113917/kaz
+source: https://zan.gov.kz/client/#!/doc/111531/kaz/31.07.2017
 ---
 
 # 2017 жылға асыл тұқымды мал шаруашылығын дамытуды, мал шаруашылығының өнімділігін және өнім сапасын арттыруды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдерін бекіту туралы
@@ -49,7 +53,9 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 > *№ 68 қаулысына*  
 > *1-қосымша*
 
-## Асыл тұқымды мал шаруашылығын дамытуды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдері
+## 2017 жылға асыл тұқымды мал шаруашылығын дамытуды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдері
+
+> *Ескерту. 1 қосымша жаңа редакцияда - Жамбыл облысы әкімдігінің 31.07.2017 № 167 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік 10 күн өткен соң қолданыска енгізіледі).*
 
 <table>
 <tr>
@@ -58,7 +64,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>Өлшем бірлігі</td>
 <td>1 бірлікке арналған субсидиялар нормативтері, теңге</td>
 <td>Субсидияланатын көлем</td>
-<td>Субсидия соммасы, мың теңге</td>
+<td>Субсидия соммасы, теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -78,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>666760</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -86,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>10 000</td>
 <td>46 076</td>
-<td>460760</td>
+<td>460760000</td>
 </tr>
 <tr>
 <td rowspan="3">2)</td>
@@ -101,14 +107,14 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>8 000</td>
 <td>16000</td>
-<td>128000</td>
+<td>128000000</td>
 </tr>
 <tr>
 <td>60%-дан бастап (қоса алғанда) төл беру шығымы</td>
 <td>бас</td>
 <td>6 000</td>
 <td>13000</td>
-<td>78000</td>
+<td>78000000</td>
 </tr>
 <tr>
 <td>1.2.</td>
@@ -116,7 +122,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>290500</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -124,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>10 000</td>
 <td>10 700</td>
-<td>107000</td>
+<td>107000000</td>
 </tr>
 <tr>
 <td rowspan="3">2)</td>
@@ -139,22 +145,22 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>20 000</td>
 <td>5200</td>
-<td>104000</td>
+<td>104000000</td>
 </tr>
 <tr>
 <td>70%-дан бастап (қоса алғанда) төл беру шығымы</td>
 <td>бас</td>
 <td>15 000</td>
 <td>5300</td>
-<td>79500</td>
+<td>79500000</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Асыл тұқымды ірі қара мал сатып алуға кеткен шығындарды арзандату</td>
 <td>бас</td>
 <td>150 000</td>
-<td>500</td>
-<td>75000</td>
+<td>1166</td>
+<td>174900000</td>
 </tr>
 <tr>
 <td></td>
@@ -162,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>1032260</td>
+<td>1132160000</td>
 </tr>
 <tr>
 <td></td>
@@ -182,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>155000</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -190,7 +196,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>10 000</td>
 <td>5 500</td>
-<td>55000</td>
+<td>55000000</td>
 </tr>
 <tr>
 <td rowspan="3">2)</td>
@@ -205,14 +211,14 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>20 000</td>
 <td>3500</td>
-<td>70000</td>
+<td>70000000</td>
 </tr>
 <tr>
 <td>70%-дан бастап (қоса алғанда) төл беру шығымы</td>
 <td>бас</td>
 <td>15 000</td>
 <td>2000</td>
-<td>30000</td>
+<td>30000000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -220,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>215000</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -228,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>170 000</td>
 <td>1000</td>
-<td>170000</td>
+<td>170000000</td>
 </tr>
 <tr>
 <td rowspan="2">2)</td>
@@ -243,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>150 000</td>
 <td>300</td>
-<td>45000</td>
+<td>45000000</td>
 </tr>
 <tr>
 <td></td>
@@ -251,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>370000</td>
+<td>370000000</td>
 </tr>
 <tr>
 <td></td>
@@ -259,11 +265,11 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 </tr>
 <tr>
 <td>1.</td>
-<td>Жеке қосалқы шаруашылықтарда және ауыл шаруашылығы кооперативтерінде ірі қара малдың аналық басын қолдан ұрықтандыруды ұйымдастыру шығындарын өтеу</td>
+<td>Жеке қосалқы шаруашылықтарда ірі қара малдың аналық басын қолдан ұрықтандыруды ұйымдастыру шығындарын өтеу</td>
 <td>бас</td>
 <td>2816,56</td>
 <td>23000</td>
-<td>64780,88</td>
+<td>64780880</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -271,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>100 000</td>
 <td>50</td>
-<td>5000</td>
+<td>5000000</td>
 </tr>
 <tr>
 <td></td>
@@ -279,27 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>69780,88</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="5">Жұмыртқалы құс шаруашылығы</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Отандық және шетелдік асыл тұқымды репродукторлардан ата-енелік/ата-тектік нысандағы жұмыртқа бағытындағы асыл тұқымды тәуліктік балапан сатып алуға кеткен шығындарды арзандату</td>
-<td>бас</td>
-<td>400</td>
-<td>60000</td>
-<td>24000</td>
-</tr>
-<tr>
-<td></td>
-<td>Барлығы:</td>
-<td></td>
-<td></td>
-<td></td>
-<td>24000</td>
+<td>69780880</td>
 </tr>
 <tr>
 <td></td>
@@ -311,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>723710</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -319,7 +305,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>2 500</td>
 <td>170000</td>
-<td>425000</td>
+<td>425000000</td>
 </tr>
 <tr>
 <td>2)</td>
@@ -327,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>1 500</td>
 <td>199140</td>
-<td>298710</td>
+<td>298710000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -335,7 +321,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>148000</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -343,15 +329,15 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>8 000</td>
 <td>13500</td>
-<td>108000</td>
+<td>108000000</td>
 </tr>
 <tr>
 <td>2)</td>
 <td>тұқымдық қошқарлар</td>
 <td>бас</td>
 <td>20 000</td>
-<td>2000</td>
-<td>40000</td>
+<td>2703</td>
+<td>54060000</td>
 </tr>
 <tr>
 <td></td>
@@ -359,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>871710</td>
+<td>885770000</td>
 </tr>
 <tr>
 <td></td>
@@ -371,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>100 000</td>
 <td>40</td>
-<td>4000</td>
+<td>4000000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -379,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>40 000</td>
 <td>150</td>
-<td>6000</td>
+<td>6000000</td>
 </tr>
 <tr>
 <td></td>
@@ -387,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>10000</td>
+<td>10000000</td>
 </tr>
 <tr>
 <td></td>
@@ -399,7 +385,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бал ара ұясы</td>
 <td>1300</td>
 <td>2340</td>
-<td>3042</td>
+<td>3042000</td>
 </tr>
 <tr>
 <td></td>
@@ -407,7 +393,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>3042</td>
+<td>3042000</td>
 </tr>
 <tr>
 <td></td>
@@ -415,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>2380792,88</td>
+<td>2470752880</td>
 </tr>
 </table>
 
@@ -424,7 +410,9 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 > *№ 68 қаулысына*  
 > *2-қосымша*
 
-## Мал шаруашылығы өнімінің өнімділігі мен өнім сапасын арттыруды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдері
+## 2017 жылға мал шаруашылығы өнімінің өнімділігі мен өнім сапасын арттыруды субсидиялау бағыттары бойынша субсидиялар нормативтері мен көлемдері
+
+> *Ескерту. 2 қосымша жаңа редакцияда - Жамбыл облысы әкімдігінің 31.07.2017 № 167 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік 10 күн өткен соң қолданыска енгізіледі).*
 
 <table>
 <tr>
@@ -433,7 +421,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>Өлшем бірлігі</td>
 <td>1 бірлікке арналған субсидиялар нормативтері, теңге</td>
 <td>Субсидияланатын көлем</td>
-<td>Субсидия соммасы мың теңге</td>
+<td>Субсидия соммасы теңге</td>
 </tr>
 <tr>
 <td></td>
@@ -452,8 +440,8 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>нақты бордақыланғаны 3000 бастан бастап</td>
 <td>бас</td>
 <td>45 000</td>
-<td>4000</td>
-<td>180000</td>
+<td>7112</td>
+<td>320040000</td>
 </tr>
 <tr>
 <td>2)</td>
@@ -461,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>25 000</td>
 <td>260</td>
-<td>6500</td>
+<td>6500000</td>
 </tr>
 <tr>
 <td>3)</td>
@@ -469,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>20 000</td>
 <td>400</td>
-<td>8000</td>
+<td>8000000</td>
 </tr>
 <tr>
 <td>4)</td>
@@ -477,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>20 000</td>
 <td>300</td>
-<td>6000</td>
+<td>6000000</td>
 </tr>
 <tr>
 <td></td>
@@ -485,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>200500</td>
+<td>340540000</td>
 </tr>
 <tr>
 <td></td>
@@ -505,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>25</td>
 <td>2 000 000</td>
-<td>50000</td>
+<td>50000000</td>
 </tr>
 <tr>
 <td>2)</td>
@@ -513,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>15</td>
 <td>3 000 000</td>
-<td>45000</td>
+<td>45000000</td>
 </tr>
 <tr>
 <td>3)</td>
@@ -521,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>10</td>
 <td>200000</td>
-<td>2000</td>
+<td>2000000</td>
 </tr>
 <tr>
 <td></td>
@@ -529,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>97000</td>
+<td>97000000</td>
 </tr>
 <tr>
 <td></td>
@@ -549,7 +537,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>50</td>
 <td>3000000</td>
-<td>150000</td>
+<td>150000000</td>
 </tr>
 <tr>
 <td></td>
@@ -557,7 +545,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>150000</td>
+<td>150000000</td>
 </tr>
 <tr>
 <td></td>
@@ -577,7 +565,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>дана</td>
 <td>2</td>
 <td>25002060</td>
-<td>50004,12</td>
+<td>50004120</td>
 </tr>
 <tr>
 <td></td>
@@ -585,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>50004,12</td>
+<td>50004120</td>
 </tr>
 <tr>
 <td></td>
@@ -605,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>100</td>
 <td>3500000</td>
-<td>350000</td>
+<td>350000000</td>
 </tr>
 <tr>
 <td></td>
@@ -613,7 +601,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>350000</td>
+<td>350000000</td>
 </tr>
 <tr>
 <td></td>
@@ -625,7 +613,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>бас</td>
 <td>1 500</td>
 <td>10000</td>
-<td>15000</td>
+<td>15000000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -633,7 +621,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>30503</td>
+<td></td>
 </tr>
 <tr>
 <td>1)</td>
@@ -641,7 +629,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>150</td>
 <td>200 000</td>
-<td>30000</td>
+<td>30000000</td>
 </tr>
 <tr>
 <td>2)</td>
@@ -649,7 +637,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>100</td>
 <td>5030</td>
-<td>503</td>
+<td>503000</td>
 </tr>
 <tr>
 <td></td>
@@ -657,7 +645,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>45503</td>
+<td>45503000</td>
 </tr>
 <tr>
 <td></td>
@@ -669,7 +657,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>80</td>
 <td>15000</td>
-<td>1200</td>
+<td>1200000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -677,7 +665,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>килограмм</td>
 <td>100</td>
 <td>50000</td>
-<td>5000</td>
+<td>5000000</td>
 </tr>
 <tr>
 <td></td>
@@ -685,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>6200</td>
+<td>6200000</td>
 </tr>
 <tr>
 <td></td>
@@ -697,7 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td>тонна</td>
 <td>20000</td>
 <td>1000</td>
-<td>20000</td>
+<td>20000000</td>
 </tr>
 <tr>
 <td></td>
@@ -705,7 +693,7 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>20000</td>
+<td>20000000</td>
 </tr>
 <tr>
 <td></td>
@@ -713,6 +701,6 @@ source: https://zan.gov.kz/client/#!/doc/111531/kaz/17.04.2017
 <td></td>
 <td></td>
 <td></td>
-<td>919207,120</td>
+<td>1059247120</td>
 </tr>
 </table>
