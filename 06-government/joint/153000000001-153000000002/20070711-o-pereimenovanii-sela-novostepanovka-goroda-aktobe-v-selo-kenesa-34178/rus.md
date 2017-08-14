@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/34178/rus/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/34178/rus/14.08.2017
 ---
 
 # О переименовании села Новостепановка города Актобе в село Кенеса Нокина

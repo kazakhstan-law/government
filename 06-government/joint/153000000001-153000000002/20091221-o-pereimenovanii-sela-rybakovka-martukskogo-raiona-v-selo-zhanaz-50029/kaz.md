@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50029/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50029/kaz/14.08.2017
 ---
 
 # Мәртөк ауданының Рыбаковка селосын Жаңажол ауылы деп қайта атау туралы

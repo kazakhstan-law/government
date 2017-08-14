@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50131/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50131/kaz/14.08.2017
 ---
 
 # Мәртөк ауданының Чайда селосын Шаңды ауылы деп қайта атау туралы

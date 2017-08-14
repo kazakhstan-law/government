@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50023/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50023/kaz/14.08.2017
 ---
 
 # Алға ауданының Ивановка селосын Тікқайың ауылы деп қайта атау туралы

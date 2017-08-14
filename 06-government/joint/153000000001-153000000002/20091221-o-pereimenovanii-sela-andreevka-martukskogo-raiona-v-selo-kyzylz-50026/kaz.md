@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50026/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50026/kaz/14.08.2017
 ---
 
 # Мәртөк ауданының Андреевка селосын Қызылжар ауылы деп қайта атау туралы

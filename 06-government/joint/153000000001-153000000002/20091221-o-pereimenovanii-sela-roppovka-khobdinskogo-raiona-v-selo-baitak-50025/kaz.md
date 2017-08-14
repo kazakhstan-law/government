@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50025/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50025/kaz/14.08.2017
 ---
 
 # Қобда ауданының Ропповка селосын Байтақ ауылы деп қайта атау туралы

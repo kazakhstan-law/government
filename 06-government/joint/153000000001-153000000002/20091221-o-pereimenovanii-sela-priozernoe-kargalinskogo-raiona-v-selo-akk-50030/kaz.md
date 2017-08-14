@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50030/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50030/kaz/14.08.2017
 ---
 
 # Қарғалы ауданының Приозерное селосын Ақкөл ауылы деп қайта атау туралы

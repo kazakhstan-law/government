@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50030/rus/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50030/rus/14.08.2017
 ---
 
 # О переименовании села Приозерное Каргалинского района в село Акколь

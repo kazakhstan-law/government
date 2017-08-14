@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49925/rus/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/49925/rus/14.08.2017
 ---
 
 # О переименовании села Херсон Каргалинского района в село Акжайык

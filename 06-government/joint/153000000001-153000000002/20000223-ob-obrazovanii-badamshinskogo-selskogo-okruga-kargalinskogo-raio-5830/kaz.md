@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5830/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5830/kaz/14.08.2017
 ---
 
 # Қарғалы ауданының Бадамша ауылдық округін құру туралы

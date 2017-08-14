@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/38775/kaz/26.03.2008
+source: https://zan.gov.kz/client/#!/doc/38775/kaz/14.08.2017
 ---
 
 # Ырғыз ауданының әкімшілік-аумақтық құрылысындағы өзгерістер туралы

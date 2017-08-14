@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50022/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50022/kaz/14.08.2017
 ---
 
 # Алға ауданының Голубиновка селосын Көктоғай ауылы деп қайта атау туралы

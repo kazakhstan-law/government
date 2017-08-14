@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50028/rus/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50028/rus/14.08.2017
 ---
 
 # О переименовании села Целинное Мартукского района в село Кокпекти

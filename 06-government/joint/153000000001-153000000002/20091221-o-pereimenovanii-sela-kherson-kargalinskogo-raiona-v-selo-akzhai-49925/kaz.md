@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/49925/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/49925/kaz/14.08.2017
 ---
 
 # Қарғалы ауданының Херсон селосын Ақжайық ауылы деп қайта атау туралы

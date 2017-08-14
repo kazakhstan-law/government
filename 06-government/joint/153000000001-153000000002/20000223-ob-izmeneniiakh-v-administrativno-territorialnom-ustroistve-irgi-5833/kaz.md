@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/5833/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/5833/kaz/14.08.2017
 ---
 
 # Ырғыз ауданының әкiмшiлiк-аумақтық құрылымындағы өзгерiстер туралы

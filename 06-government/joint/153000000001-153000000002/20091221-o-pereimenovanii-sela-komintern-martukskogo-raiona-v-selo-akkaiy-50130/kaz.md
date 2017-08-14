@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/50130/kaz/11.12.2015
+source: https://zan.gov.kz/client/#!/doc/50130/kaz/14.08.2017
 ---
 
 # Мәртөк ауданының Коминтерн селосын Аққайың ауылы деп қайта атау туралы
