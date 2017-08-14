@@ -1,5 +1,5 @@
 ---
-version_id: '38775_139813'
+version_id: '38775_269078'
 act_code: '38775'
 language: kaz
 title: Ырғыз ауданының әкімшілік-аумақтық құрылысындағы өзгерістер туралы
@@ -12,9 +12,13 @@ approved_by:
 - '153000000001'
 - '153000000002'
 approval_date: 2008-03-26
-version_date: 2008-03-26
+version_date: 2017-08-14
 registry_number: '38775'
-source: https://zan.gov.kz/client/#!/doc/38775/kaz/26.03.2008
+caused_by:
+  code: '114347'
+  title: Ақтөбе облысының әкімшілік-аумақтық құрылысы мәселелері бойынша кейбір нормативтік құқықтық актілерге өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/114347/kaz
+source: https://zan.gov.kz/client/#!/doc/38775/kaz
 ---
 
 # Ырғыз ауданының әкімшілік-аумақтық құрылысындағы өзгерістер туралы
