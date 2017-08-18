@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
+source: https://zan.gov.kz/client/#!/doc/113130/rus/18.08.2017
 ---
 
 # Об определении квот по каждому виду семян, подлежащих субсидированию, на 2017 год
@@ -93,9 +93,11 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 > *Приложение 2*  
 > *к постановлению*  
 > *Восточно-Казахстанского областного акимата*  
-> *от «26» мая 2017 года № 130*
+> *от 26 мая 2017 года № 130*
 
-## Квоты по элитным семенам - для каждой административно - территориальной единицы на 2017 год
+## Квоты по элитным семенам - для каждой административно-территориальной единицы на 2017 год
+
+> *Сноска. Приложение 2 - в редакции постановления Восточно-Казахстанского областного акимата от 18.08.2017 № 209 (вводится в действие со дня его первого официального опубликования).*
 
 > *тонна*
 
@@ -110,6 +112,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>Зернобобовые</td>
 <td>Просо</td>
 <td>Тритикале</td>
+<td>Рапс</td>
 </tr>
 <tr>
 <td>Аягозский</td>
@@ -121,12 +124,14 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>Бескарагайский</td>
 <td>50</td>
 <td>30</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,6 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>2</td>
 <td></td>
 <td></td>
+<td>5</td>
 </tr>
 <tr>
 <td>Глубоковский</td>
@@ -154,6 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td>12</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Жарминский</td>
@@ -162,6 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>50</td>
 <td></td>
 <td>40</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -176,6 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td>0,5</td>
 <td>10</td>
+<td></td>
 </tr>
 <tr>
 <td>Зыряновский</td>
@@ -187,26 +196,29 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>30</td>
 <td></td>
 <td></td>
+<td>40</td>
 </tr>
 <tr>
 <td>Катон-Карагайский</td>
 <td>421</td>
-<td>9</td>
-<td>6</td>
+<td>29,3</td>
+<td>12</td>
 <td></td>
-<td></td>
+<td>16</td>
 <td>20</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Кокпектинский</td>
-<td>50</td>
-<td>20</td>
+<td>147</td>
+<td>35</td>
+<td>15</td>
 <td></td>
+<td>32</td>
 <td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -215,6 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>199</td>
 <td>302</td>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -231,10 +244,11 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Уланский</td>
-<td>350</td>
+<td>810</td>
 <td>150</td>
 <td>150</td>
 <td>20</td>
@@ -242,11 +256,13 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>20</td>
 <td></td>
 <td></td>
+<td>10</td>
 </tr>
 <tr>
 <td>Урджарский</td>
-<td>200</td>
+<td>218</td>
 <td>80</td>
+<td>20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -256,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 </tr>
 <tr>
 <td>Шемонаихинский</td>
-<td>400</td>
+<td>629</td>
 <td>300</td>
 <td>30</td>
 <td></td>
@@ -264,6 +280,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td></td>
 <td>50</td>
+<td></td>
 </tr>
 <tr>
 <td>г. Семей</td>
@@ -275,28 +292,26 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
-продолжение таблицы
+продолжение таблицы:
 
 <table>
 <tr>
-<td>Рапс</td>
+<td>Наименование городов/районов</td>
 <td>Подсолнечник</td>
 <td>Соя</td>
 <td>Лен</td>
 <td>Сафлор</td>
-<td>
-Горчица, прочие
-масличные
-</td>
+<td>Горчица, прочие масличные</td>
 <td>Многолетние травы</td>
 <td>Однолетние травы</td>
 <td>Картофель</td>
 </tr>
 <tr>
-<td>2</td>
+<td>Аягозский</td>
 <td>15</td>
 <td>3</td>
 <td></td>
@@ -307,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td>Бескарагайский</td>
 <td>21</td>
 <td></td>
 <td></td>
@@ -318,18 +333,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>200</td>
 </tr>
 <tr>
-<td>5</td>
+<td>Бородулихинский</td>
 <td>50</td>
 <td>0,1</td>
 <td>0,1</td>
 <td></td>
 <td></td>
 <td>5</td>
-<td>10</td>
+<td>15</td>
 <td>500</td>
 </tr>
 <tr>
-<td></td>
+<td>Глубоковский</td>
 <td>828,2</td>
 <td></td>
 <td></td>
@@ -340,20 +355,20 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>109</td>
 </tr>
 <tr>
-<td></td>
+<td>Жарминский</td>
 <td>40</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>2</td>
-<td>20</td>
+<td>5,5</td>
+<td>34,5</td>
 <td>50</td>
 </tr>
 <tr>
-<td></td>
+<td>Зайсанский</td>
 <td>5</td>
-<td></td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -362,18 +377,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>Зыряновский</td>
 <td>30</td>
 <td></td>
 <td>30</td>
 <td></td>
 <td></td>
-<td></td>
+<td>8</td>
 <td></td>
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td>Катон-Карагайский</td>
 <td>10</td>
 <td></td>
 <td></td>
@@ -384,18 +399,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Кокпектинский</td>
 <td>25</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>3</td>
-<td></td>
+<td>10</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Курчумский</td>
 <td>41</td>
 <td></td>
 <td></td>
@@ -406,9 +421,9 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Тарбагатайский</td>
 <td>8</td>
-<td>84</td>
+<td>168</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -417,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>50</td>
 </tr>
 <tr>
-<td>10</td>
+<td>Уланский</td>
 <td>60</td>
 <td>10</td>
 <td>20</td>
@@ -428,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td>Урджарский</td>
 <td>150</td>
 <td></td>
 <td></td>
@@ -439,8 +454,8 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Шемонаихинский</td>
+<td>0,6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,6 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td>300</td>
 </tr>
 <tr>
+<td>г. Семей</td>
 <td></td>
 <td></td>
 <td></td>
@@ -457,7 +473,6 @@ source: https://zan.gov.kz/client/#!/doc/113130/rus/26.05.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>140</td>
+<td>200</td>
 </tr>
 </table>

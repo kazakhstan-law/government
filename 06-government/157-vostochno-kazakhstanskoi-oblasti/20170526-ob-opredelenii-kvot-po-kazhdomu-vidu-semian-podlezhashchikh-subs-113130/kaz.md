@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
+source: https://zan.gov.kz/client/#!/doc/113130/kaz/18.08.2017
 ---
 
 # Субсидиялауға жататын тұқымдардың әрбір түрі бойынша 2017 жылға квоталарды айқындау туралы
@@ -90,10 +90,14 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 </table>
 
 > *Шығыс Қазақстан облысы әкімдігінің*  
-> *2017 жылғы «26» мамырдағы*  
+> *2017 жылғы 26 мамырдағы*  
 > *№ 130 қаулысына 2 қосымша*
 
 ## Элиталық тұқымдар бойынша – әрбір әкімшілік-аумақтық бірлік үшін 2017 жылға квоталар
+
+> *Ескерту. 2-қосымша жаңа редакцияда - Шығыс Қазақстан облысы әкімдігінің 18.08.2017 № 209 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
+
+> *тонна*
 
 <table>
 <tr>
@@ -106,6 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>Дәнді бұршақты дақылдар</td>
 <td>Тары</td>
 <td>Тритикале</td>
+<td>Рапс</td>
 </tr>
 <tr>
 <td>Аягөз</td>
@@ -117,12 +122,14 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td>2</td>
 </tr>
 <tr>
 <td>Бесқарағай</td>
 <td>50</td>
 <td>30</td>
 <td>10</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -139,6 +146,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>2</td>
 <td></td>
 <td></td>
+<td>5</td>
 </tr>
 <tr>
 <td>Глубокое</td>
@@ -150,6 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td>12</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Жарма</td>
@@ -158,6 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>50</td>
 <td></td>
 <td>40</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,6 +182,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td>0,5</td>
 <td>10</td>
+<td></td>
 </tr>
 <tr>
 <td>Зырян</td>
@@ -183,26 +194,29 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>30</td>
 <td></td>
 <td></td>
+<td>40</td>
 </tr>
 <tr>
 <td>Катонқарағай</td>
 <td>421</td>
-<td>9</td>
-<td>6</td>
+<td>29,3</td>
+<td>12</td>
 <td></td>
-<td></td>
+<td>16</td>
 <td>20</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Көкпекті</td>
-<td>50</td>
-<td>20</td>
+<td>147</td>
+<td>35</td>
+<td>15</td>
 <td></td>
+<td>32</td>
 <td></td>
-<td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
@@ -211,6 +225,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>199</td>
 <td>302</td>
 <td>11</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -227,10 +242,11 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Ұлан</td>
-<td>350</td>
+<td>810</td>
 <td>150</td>
 <td>150</td>
 <td>20</td>
@@ -238,11 +254,13 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>20</td>
 <td></td>
 <td></td>
+<td>10</td>
 </tr>
 <tr>
 <td>Үржар</td>
-<td>200</td>
+<td>218</td>
 <td>80</td>
+<td>20</td>
 <td></td>
 <td></td>
 <td></td>
@@ -252,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 </tr>
 <tr>
 <td>Шемонаиха</td>
-<td>400</td>
+<td>629</td>
 <td>300</td>
 <td>30</td>
 <td></td>
@@ -260,6 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td></td>
 <td>50</td>
+<td></td>
 </tr>
 <tr>
 <td>Семей қ.</td>
@@ -271,25 +290,32 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 </table>
 
-кестенің жалғасы
+кестенің жалғасы:
 
 <table>
 <tr>
-<td>Рапс</td>
+<td>
+Қала/аудан
+атаулары
+</td>
 <td>Күнбағыс</td>
 <td>Қытайбұршақ</td>
 <td>Зығыр</td>
 <td>Сафлор</td>
-<td>Қыша, өзге майлы дақылдар</td>
+<td>
+Қыша, өзге майлы
+дақылдар
+</td>
 <td>Көпжылдық шөптер</td>
 <td>Біржылдық шөптер</td>
 <td>Картоп</td>
 </tr>
 <tr>
-<td>2</td>
+<td>Аягөз</td>
 <td>15</td>
 <td>3</td>
 <td></td>
@@ -300,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td>Бесқарағай</td>
 <td>21</td>
 <td></td>
 <td></td>
@@ -311,18 +337,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>200</td>
 </tr>
 <tr>
-<td>5</td>
+<td>Бородулиха</td>
 <td>50</td>
 <td>0,1</td>
 <td>0,1</td>
 <td></td>
 <td></td>
 <td>5</td>
-<td>10</td>
+<td>15</td>
 <td>500</td>
 </tr>
 <tr>
-<td></td>
+<td>Глубокое</td>
 <td>828,2</td>
 <td></td>
 <td></td>
@@ -333,20 +359,20 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>109</td>
 </tr>
 <tr>
-<td></td>
+<td>Жарма</td>
 <td>40</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>2</td>
-<td>20</td>
+<td>5,5</td>
+<td>34,5</td>
 <td>50</td>
 </tr>
 <tr>
-<td></td>
+<td>Зайсан</td>
 <td>5</td>
-<td></td>
+<td>16</td>
 <td></td>
 <td></td>
 <td></td>
@@ -355,18 +381,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>Зырян</td>
 <td>30</td>
 <td></td>
 <td>30</td>
 <td></td>
 <td></td>
-<td></td>
+<td>8</td>
 <td></td>
 <td>20</td>
 </tr>
 <tr>
-<td></td>
+<td>Катонқарағай</td>
 <td>10</td>
 <td></td>
 <td></td>
@@ -377,18 +403,18 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Көкпекті</td>
 <td>25</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>3</td>
-<td></td>
+<td>10</td>
+<td>1</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Күршім</td>
 <td>41</td>
 <td></td>
 <td></td>
@@ -399,9 +425,9 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>Тарбағатай</td>
 <td>8</td>
-<td>84</td>
+<td>168</td>
 <td></td>
 <td>3</td>
 <td></td>
@@ -410,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>50</td>
 </tr>
 <tr>
-<td>10</td>
+<td>Ұлан</td>
 <td>60</td>
 <td>10</td>
 <td>20</td>
@@ -421,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>10</td>
 </tr>
 <tr>
-<td></td>
+<td>Үржар</td>
 <td>150</td>
 <td></td>
 <td></td>
@@ -432,8 +458,8 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Шемонаиха</td>
+<td>0,6</td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,6 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td>300</td>
 </tr>
 <tr>
+<td>Семей қ.</td>
 <td></td>
 <td></td>
 <td></td>
@@ -450,7 +477,6 @@ source: https://zan.gov.kz/client/#!/doc/113130/kaz/26.05.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>140</td>
+<td>200</td>
 </tr>
 </table>
