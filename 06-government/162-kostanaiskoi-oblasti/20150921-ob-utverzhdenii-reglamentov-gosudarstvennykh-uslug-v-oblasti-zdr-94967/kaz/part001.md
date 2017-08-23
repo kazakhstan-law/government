@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94967/kaz/03.05.2016
+source: https://zan.gov.kz/client/#!/doc/94967/kaz/23.08.2017
 ---
 
 > *Әкімдіктің*  
