@@ -1,5 +1,5 @@
 ---
-version_id: '113132_199021'
+version_id: '113132_234601'
 act_code: '113132'
 language: rus
 title: Об установлении квот субсидий на развитие семеноводства
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '154000000001'
 approval_date: 2017-05-19
-version_date: 2017-05-19
+version_date: 2017-08-29
 registry_number: '113132'
-source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
+caused_by:
+  code: '114878'
+  title: О внесении изменений в постановление акимата Алматинской области от 19 мая 2017 года № 214 "Об установлении квот субсидий на развитие семеноводства
+  link: https://zan.gov.kz/client/#!/doc/114878/rus
+source: https://zan.gov.kz/client/#!/doc/113132/rus/29.08.2017
 ---
 
 # Об установлении квот субсидий на развитие семеноводства
@@ -32,6 +36,8 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 **А. Баталов**
 
 > *Приложение 1 к постановлению акимата Алматинской области от « 19 » мая 2017 года № 214 «Об установлении квот субсидий на развитие семеноводства»*
+
+> *Сноска. Приложение 1 в редакции постановления акимата Алматинской области от 29.08.2017 № 343 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 # Квоты по оригинальным семенам - для каждого аттестованного субъекта в области семеноводства
 
@@ -64,13 +70,13 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td>1</td>
 <td>Товарищество с ограниченной ответственностью «Казахский научно-иследовательский институт земледелия и растениеводства»</td>
-<td>30</td>
-<td>25</td>
+<td>130</td>
+<td>32</td>
 <td>1</td>
 <td></td>
-<td>2</td>
-<td>10</td>
-<td>1</td>
+<td>14,2</td>
+<td>25</td>
+<td>2,5</td>
 </tr>
 <tr>
 <td>2</td>
@@ -80,17 +86,6 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Товарищество с ограниченной ответственностью «БУДАН»</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>35</td>
 <td></td>
 <td></td>
 </tr>
@@ -106,6 +101,17 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <th>9</th>
 </tr>
 <tr>
+<td>3</td>
+<td>Товарищество с ограниченной ответственностью «БУДАН»</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>35</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>4</td>
 <td>Крестьянское хозяйство «Оркен»</td>
 <td></td>
@@ -118,11 +124,11 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 </tr>
 <tr>
 <td>5</td>
-<td>Производственный сельскохозяйственный кооператив «Опытное»</td>
+<td>Производственный сельскохозяйствен ный кооператив «Опытное»</td>
 <td></td>
 <td></td>
 <td></td>
-<td>35</td>
+<td>55</td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,20 +158,13 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td></td>
 <td></td>
-<td>0,4</td>
+<td>0,8</td>
 <td></td>
-<td></td>
+<td>7,3</td>
 </tr>
 <tr>
 <td></td>
 <td>150</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -176,6 +175,13 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <th>12</th>
 <th>13</th>
 <th>14</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -195,13 +201,18 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 
 > *Приложение 2 к постановлению акимата Алматинской области от « 19 » мая 2017 года № 214 «Об установлении квот субсидий на развитие семеноводства»*
 
+> *Сноска. Приложение 2 в редакции постановления акимата Алматинской области от 29.08.2017 № 343 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 # Квоты по элитным семенам - для каждой административно-территориальной единицы
 
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Наименование района/города</td>
-<td colspan="8">Наименование сельскохозяйственных культур, тонн/тысяч штук</td>
+<td colspan="8">
+Наименование сельскохозяйственных культур, тонн/тысяч
+штук
+</td>
 </tr>
 <tr>
 <td>пшеница</td>
@@ -229,33 +240,33 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td>1</td>
 <td>Аксуский</td>
 <td></td>
-<td>57,0</td>
+<td>57</td>
 <td></td>
 <td></td>
-<td>3,0</td>
-<td>20,0</td>
-<td>0,5</td>
+<td>3</td>
+<td>60</td>
+<td>15</td>
 <td>0,48</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Алакольский</td>
 <td></td>
-<td>107,0</td>
+<td>107</td>
 <td>0,2</td>
 <td></td>
-<td>0,8</td>
-<td>39,0</td>
+<td>3</td>
+<td>39</td>
 <td>1,2</td>
-<td>2,0</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Балхашский</td>
 <td></td>
-<td>12,0</td>
+<td>12</td>
 <td></td>
-<td>75,0</td>
+<td>75</td>
 <td></td>
 <td></td>
 <td>0,2</td>
@@ -265,58 +276,58 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td>4</td>
 <td>Енбекшиказахский</td>
 <td>8,3</td>
-<td>7,0</td>
+<td>7</td>
 <td>0,2</td>
 <td></td>
-<td>550,0</td>
-<td>18,0</td>
+<td>550</td>
+<td>18</td>
 <td>0,1</td>
 <td>0,6</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Ескельдинский</td>
-<td>26,0</td>
-<td>88,0</td>
+<td>26</td>
+<td>88</td>
 <td>0,2</td>
 <td></td>
-<td>4,3</td>
-<td>26,0</td>
+<td>6,325</td>
+<td>26</td>
 <td>0,08</td>
 <td>0,05</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Жамбылский</td>
-<td>62,0</td>
-<td>133,0</td>
+<td>64,5</td>
+<td>242,3</td>
 <td></td>
 <td></td>
-<td>3,0</td>
+<td>35</td>
 <td>2,6</td>
-<td>0,7</td>
+<td>8</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
 <td>Илийский</td>
-<td>20,0</td>
-<td>48,0</td>
+<td>20</td>
+<td>48</td>
 <td></td>
 <td></td>
-<td>32,5</td>
-<td>4,2</td>
+<td>50</td>
+<td>42</td>
 <td>2,8</td>
 <td>0,08</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Карасайский</td>
-<td>27,0</td>
-<td>25,0</td>
+<td>27</td>
+<td>25</td>
 <td>0,2</td>
 <td></td>
-<td>5,0</td>
+<td>5</td>
 <td>1,5</td>
 <td>0,14</td>
 <td></td>
@@ -325,9 +336,9 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td>9</td>
 <td>Каратальский</td>
 <td></td>
-<td>9,0</td>
+<td>9</td>
 <td></td>
-<td>28,0</td>
+<td>57,8</td>
 <td>6,3</td>
 <td>4,5</td>
 <td>0,2</td>
@@ -336,8 +347,8 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td>10</td>
 <td>Кербулакский</td>
-<td>97,0</td>
-<td>246,0</td>
+<td>97</td>
+<td>246</td>
 <td>0,3</td>
 <td></td>
 <td>1,5</td>
@@ -348,11 +359,11 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td>11</td>
 <td>Коксуский</td>
-<td>13,0</td>
-<td>25,0</td>
+<td>13</td>
+<td>25</td>
 <td></td>
 <td></td>
-<td>4,3</td>
+<td>5</td>
 <td>21,5</td>
 <td>0,09</td>
 <td>0,6</td>
@@ -360,11 +371,11 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td>12</td>
 <td>Панфиловский</td>
-<td>1,2</td>
-<td>2,0</td>
+<td>30</td>
+<td>8</td>
 <td></td>
 <td></td>
-<td>640,0</td>
+<td>950</td>
 <td></td>
 <td></td>
 <td>0,1</td>
@@ -372,61 +383,37 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td>13</td>
 <td>Райымбекский</td>
-<td>29,0</td>
-<td>42,0</td>
+<td>50</td>
+<td>100</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>20</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>14</td>
 <td>Саркандский</td>
-<td>72,0</td>
-<td>114,0</td>
-<td>1,0</td>
+<td>72</td>
+<td>220</td>
+<td>1</td>
 <td></td>
 <td>1,5</td>
-<td>37,0</td>
+<td>97,8</td>
 <td>2,5</td>
-<td>1,7</td>
+<td>4,5</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Талгарский</td>
-<td>21,0</td>
-<td>9,0</td>
+<td>30</td>
+<td>45</td>
 <td>0,7</td>
 <td></td>
-<td>24,5</td>
-<td>6,0</td>
+<td>80</td>
+<td>20</td>
 <td>0,3</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Уйгурский</td>
-<td>1,8</td>
-<td>9,0</td>
-<td></td>
-<td></td>
-<td>274,3</td>
-<td></td>
-<td></td>
-<td>0,1</td>
-</tr>
-<tr>
-<td>17</td>
-<td>город Капчагай</td>
-<td>3,0</td>
-<td>15,0</td>
-<td></td>
-<td></td>
-<td>12,3</td>
-<td>1,9</td>
-<td>0,5</td>
 <td></td>
 </tr>
 <tr>
@@ -442,14 +429,38 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <th>10</th>
 </tr>
 <tr>
+<td>16</td>
+<td>Уйгурский</td>
+<td>1,8</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td>274,3</td>
+<td></td>
+<td></td>
+<td>0,1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>город Капчагай</td>
+<td>3</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>12,3</td>
+<td>25</td>
+<td>0,5</td>
+<td></td>
+</tr>
+<tr>
 <td>18</td>
 <td>город Талдыкорган</td>
 <td>0,04</td>
-<td>3,0</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>0,2</td>
-<td>4,6</td>
+<td>8</td>
 <td></td>
 <td></td>
 </tr>
@@ -457,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td>19</td>
 <td>город Текели</td>
 <td></td>
-<td>2,0</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td></td>
@@ -468,14 +479,14 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <tr>
 <td></td>
 <td>итого:</td>
-<td>381,0</td>
-<td>953,0</td>
+<td>442,6</td>
+<td>1268,3</td>
 <td>2,8</td>
-<td>103,0</td>
-<td>1563,5</td>
-<td>186,9</td>
-<td>11,51</td>
-<td>5,2</td>
+<td>132,8</td>
+<td>1983,425</td>
+<td>386</td>
+<td>33,31</td>
+<td>8,554</td>
 </tr>
 </table>
 
@@ -486,10 +497,10 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td colspan="5"></td>
 </tr>
 <tr>
-<td>карто фель</td>
-<td>сахар ная свекла</td>
-<td>однолет ние тра вы</td>
-<td>многолет ние травы</td>
+<td>картофель</td>
+<td>сахарная свекла</td>
+<td>однолетние травы</td>
+<td>многолетние травы</td>
 <td>саженцы плодово-ягодных культур и винограда</td>
 </tr>
 <tr>
@@ -500,14 +511,14 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <th>15</th>
 </tr>
 <tr>
-<td>48,0</td>
+<td>48</td>
 <td>4,017</td>
 <td></td>
 <td>0,5</td>
-<td>10,0</td>
+<td>10</td>
 </tr>
 <tr>
-<td>47,0</td>
+<td>47</td>
 <td>1,014</td>
 <td>0,4</td>
 <td>0,2</td>
@@ -521,102 +532,88 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <td></td>
 </tr>
 <tr>
-<td>150,0</td>
+<td>150</td>
 <td></td>
 <td>0,4</td>
 <td>0,2</td>
-<td>170,0</td>
+<td>500</td>
 </tr>
 <tr>
-<td>90,0</td>
+<td>280</td>
 <td>6,943</td>
 <td>0,09</td>
 <td></td>
+<td>22,38</td>
+</tr>
+<tr>
+<td>54</td>
+<td></td>
+<td></td>
+<td></td>
+<td>54</td>
+</tr>
+<tr>
+<td>53</td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>45,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1,0</td>
-</tr>
-<tr>
-<td>53,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>137,0</td>
+<td>137</td>
 <td></td>
 <td>0,5</td>
-<td>1,0</td>
-<td>20,0</td>
+<td>1</td>
+<td>20</td>
 </tr>
 <tr>
-<td>32,0</td>
-<td>2,334</td>
+<td>32</td>
+<td>3</td>
 <td>0,06</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>97,0</td>
+<td>97</td>
 <td></td>
 <td>0,9</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>28,5</td>
+<td>120</td>
 <td>5,538</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>41,0</td>
-<td>6,000</td>
+<td>41</td>
+<td>6</td>
 <td></td>
-<td>1,0</td>
-<td>30,0</td>
+<td>1,05</td>
+<td>30</td>
 </tr>
 <tr>
-<td>324,0</td>
+<td>500</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>27,0</td>
+<td>27</td>
 <td>5,608</td>
 <td>0,05</td>
 <td></td>
-<td>2,3</td>
+<td>3</td>
 </tr>
 <tr>
-<td>123,0</td>
+<td>123</td>
 <td></td>
 <td>0,04</td>
 <td></td>
-<td>20,0</td>
-</tr>
-<tr>
-<td>10,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td>16,5</td>
-</tr>
-<tr>
-<td>12,0</td>
-<td>1,778</td>
-<td>0,02</td>
-<td></td>
-<td></td>
+<td>206,45</td>
 </tr>
 <tr>
 <th>11</th>
@@ -626,24 +623,38 @@ source: https://zan.gov.kz/client/#!/doc/113132/rus/19.05.2017
 <th>15</th>
 </tr>
 <tr>
-<td>20,0</td>
-<td>0,321</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>350</td>
+</tr>
+<tr>
+<td>12</td>
+<td>1,967</td>
+<td>0,02</td>
+<td>0,5</td>
+<td>10</td>
+</tr>
+<tr>
+<td>20</td>
+<td>0,356</td>
 <td></td>
 <td></td>
 <td>0,3</td>
 </tr>
 <tr>
-<td>5,0</td>
+<td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1289,5</td>
-<td>33,553</td>
-<td>2,64</td>
-<td>2,9</td>
-<td>270,1</td>
+<td>1756</td>
+<td>34,443</td>
+<td>2,46</td>
+<td>3,45</td>
+<td>1206,13</td>
 </tr>
 </table>
