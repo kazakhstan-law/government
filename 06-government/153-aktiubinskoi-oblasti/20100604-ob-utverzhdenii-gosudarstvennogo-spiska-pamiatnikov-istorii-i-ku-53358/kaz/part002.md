@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/53358/kaz/04.06.2010
+source: https://zan.gov.kz/client/#!/doc/53358/kaz/07.09.2017
 ---
 
 > *Облыс әкімінің*  
