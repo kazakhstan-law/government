@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92284/kaz/16.05.2017
+source: https://zan.gov.kz/client/#!/doc/92284/kaz/22.09.2017
 ---
 
 > *2015 жылғы 30 маусымдағы №153 Батыс Қазақстан облысы әкімдігінің қаулысымен бекітілген*
