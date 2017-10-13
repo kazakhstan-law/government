@@ -1,5 +1,5 @@
 ---
-version_id: '114381_220122'
+version_id: '114381_248359'
 act_code: '114381'
 language: rus
 title: Об утверждении государственного образовательного заказа на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2017-08-21
-version_date: 2017-08-21
+version_date: 2017-10-13
 registry_number: '114381'
-source: https://zan.gov.kz/client/#!/doc/114381/rus/21.08.2017
+caused_by:
+  code: '115686'
+  title: О внесении изменений и дополнения в постановление Восточно-Казахстанского областного акимата от 21 августа 2017 года  № 211 «Об утверждении государственного образовательного заказа на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год»
+  link: https://zan.gov.kz/client/#!/doc/115686/rus
+source: https://zan.gov.kz/client/#!/doc/114381/rus
 ---
 
 # Об утверждении государственного образовательного заказа на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год
@@ -28,28 +32,30 @@ source: https://zan.gov.kz/client/#!/doc/114381/rus/21.08.2017
 **Д. Ахметов**
 
 > *Приложение 1*  
-> *к постановлению акимата*  
-> *Восточно-Казахстанской*  
-> *области от «21» августа 2017 года*  
-> *№ 211*
+> *к постановлению*  
+> *Восточно-Казахстанского*  
+> *областного акимата*  
+> *от «21» августа 2017 года № 211*
 
 ## Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год (по рабочим квалификациям)
+
+> *Сноска. Приложение 1 - в редакции постановления Восточно-Казахстанского областного акимата от 13.10.2017 № 267 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td rowspan="4">№</td>
-<td colspan="3" rowspan="4">Наименование учреждения</td>
-<td colspan="3" rowspan="4">Код</td>
-<td colspan="4" rowspan="4">Наименование специальности</td>
-<td colspan="4" rowspan="4">Код</td>
-<td colspan="7" rowspan="4">Квалификация</td>
-<td colspan="4" rowspan="4">Кол-во мест</td>
-<td colspan="4" rowspan="4">В том числе с казахским языком обучения</td>
-<td colspan="2" rowspan="4">
+<td rowspan="4">Наименование учреждения</td>
+<td colspan="2" rowspan="4">Код</td>
+<td rowspan="4">Наименование специальности</td>
+<td colspan="2" rowspan="4">Код</td>
+<td rowspan="4">Квалификация</td>
+<td rowspan="4">Кол-во мест</td>
+<td rowspan="4">В том числе с казахским языком обучения</td>
+<td rowspan="4">
 На базе
 9 класса
 </td>
-<td colspan="3" rowspan="4">
+<td rowspan="4">
 На базе
 11 класса
 </td>
@@ -61,2108 +67,2128 @@ source: https://zan.gov.kz/client/#!/doc/114381/rus/21.08.2017
 <tr>
 </tr>
 <tr>
-<td rowspan="4">1</td>
-<td colspan="3" rowspan="4">Коммунальное государственное учреждение «Зыряновский технологический колледж»</td>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140301 2</td>
-<td colspan="7">Слесарь-сантехник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">1</td>
+<td rowspan="3">Коммунальное государственное учреждение «Зыряновский технологический колледж»</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140301 2</td>
+<td>Слесарь-сантехник</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">65</td>
-<td colspan="4">0</td>
-<td colspan="2">65</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td rowspan="3">2</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Индустриально-технологический колледж»</td>
-<td colspan="3" rowspan="2">1402000</td>
-<td colspan="4" rowspan="2">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td colspan="4">140216 2</td>
-<td colspan="7">Машинист крана автомобильного</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="4">140210 2</td>
-<td colspan="7">Машинист экскаватора одноковшового</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td></td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">45</td>
-<td colspan="4">30</td>
-<td colspan="2">45</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>65</td>
+<td>0</td>
+<td>65</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td rowspan="4">Коммунальное государственное учреждение «Индустриально-технологический колледж»</td>
+<td colspan="2" rowspan="2">1402000</td>
+<td rowspan="2">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140216 2</td>
+<td>Машинист крана автомобильного</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">140210 2</td>
+<td>Машинист экскаватора одноковшового</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">1201072</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>65</td>
+<td>30</td>
+<td>65</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">3</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Серебрянский технологический колледж»</td>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное учреждение «Серебрянский технологический колледж»</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1115000</td>
-<td colspan="4">Электромеханическое оборудование в промышленности (по видам)</td>
-<td colspan="4">111504 2</td>
-<td colspan="7">Электромонтер по ремонту и обслуживанию электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1115000</td>
+<td>Электромеханическое оборудование в промышленности (по видам)</td>
+<td colspan="2">111504 2</td>
+<td>Электромонтер по ремонту и обслуживанию электрооборудования</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">50</td>
-<td colspan="4">0</td>
-<td colspan="2">50</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td>50</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">4</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорскийколледж строительства»</td>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120106 2</td>
-<td colspan="7">Электрик по ремонту автомобильного электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж строительства»</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120106 2</td>
+<td>Электрик по ремонту автомобильного электрооборудования</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td>18</td>
 </tr>
 <tr>
-<td colspan="3">1402000</td>
-<td colspan="4">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td colspan="4">140210 2</td>
-<td colspan="7">Машинист экскаватора одноковшового</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140210 2</td>
+<td>Машинист экскаватора одноковшового</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1120000</td>
-<td colspan="4">Техническое обслуживание технологических машин и оборудования (по видам)</td>
-<td colspan="4">112002 2</td>
-<td colspan="7">Наладчик сварочного и газоплазморезательного оборудования</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">1120000</td>
+<td>Техническое обслуживание технологических машин и оборудования (по видам)</td>
+<td colspan="2">112002 2</td>
+<td>Наладчик сварочного и газоплазмореза-тельного оборудования</td>
+<td>21</td>
+<td></td>
+<td>21</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">55</td>
-<td colspan="4">20</td>
-<td colspan="2">40</td>
-<td colspan="3">15</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>54</td>
+<td>15</td>
+<td>36</td>
+<td>18</td>
 </tr>
 <tr>
 <td rowspan="6">5</td>
-<td colspan="3" rowspan="6">Коммунальное государственное учреждение «Усть-Каменогорский многопрофильный технологический колледж»</td>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140104 2</td>
-<td colspan="7">Штукатур</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="6">Коммунальное государственное учреждение «Усть-Каменогорский многопрофильный технологический колледж»</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140104 2</td>
+<td>Штукатур</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1115000</td>
-<td colspan="4">Электромеханическое оборудование в промышленности (по видам)</td>
-<td colspan="4">111504 2</td>
-<td colspan="7">Электромонтер по ремонту и обслуживанию электрооборудования</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">1115000</td>
+<td>Электромеханическое оборудование в промышленности (по видам)</td>
+<td colspan="2">111504 2</td>
+<td>Электромонтер по ремонту и обслуживанию электрооборудования</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>18</td>
+<td>18</td>
+<td>18</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1013000</td>
-<td colspan="4">
+<td colspan="2">1013000</td>
+<td>
 Механообработка, контрольно-измерительные приборы и автоматика в
 промышленности
 </td>
-<td colspan="4">101306 2</td>
-<td colspan="7">Слесарь по контрольно-измерительным приборам и автоматике</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">101306 2</td>
+<td>Слесарь по контрольно-измерительным приборам и автоматике</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1112000</td>
-<td colspan="4">Эксплуатация машин и оборудования промышленности</td>
-<td colspan="4">111202 2</td>
-<td colspan="7">
+<td colspan="2">1112000</td>
+<td>Эксплуатация машин и оборудования промышленности</td>
+<td colspan="2">111202 2</td>
+<td>
 Слесарь механосборочных
 работ
 </td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">140</td>
-<td colspan="4">90</td>
-<td colspan="2">140</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>133</td>
+<td>83</td>
+<td>133</td>
+<td>0</td>
 </tr>
 <tr>
-<td rowspan="4">6</td>
-<td colspan="3" rowspan="5">Коммунальное государственное учреждение «Усть-Каменогорский колледж cферы обслуживания»</td>
-<td colspan="3">0506000</td>
-<td colspan="4">Парикмахерское искусство и декоративная косметика</td>
-<td colspan="4">050601 2</td>
-<td colspan="7">Парикмахер-модельер</td>
-<td colspan="4">30</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3">10</td>
+<td rowspan="5">6</td>
+<td rowspan="5">Коммунальное государственное учреждение «Усть-Каменогорский колледж cферы обслуживания»</td>
+<td colspan="2">0506000</td>
+<td>Парикмахерское искусство и декоративная косметика</td>
+<td colspan="2">050601 2</td>
+<td>Парикмахер-модельер</td>
+<td>30</td>
+<td></td>
+<td>20</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">1414000</td>
-<td colspan="4">Мебельное производство (по видам)</td>
-<td colspan="4">141407 2</td>
-<td colspan="7">Мастер столярного и мебельного производства</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1414000</td>
+<td>Мебельное производство (по видам)</td>
+<td colspan="2">141407 2</td>
+<td>Мастер столярного и мебельного производства</td>
+<td>18</td>
+<td></td>
+<td>18</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1304000</td>
-<td colspan="4">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="4">130401 2</td>
-<td colspan="7">Оператор электронно-вычислительных машин</td>
-<td colspan="4">12</td>
-<td colspan="4"></td>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td colspan="2">1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>11</td>
+<td></td>
+<td>11</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121106 2</td>
-<td colspan="7">Портной</td>
-<td colspan="4">12</td>
-<td colspan="4"></td>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>8</td>
+<td></td>
+<td>8</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110901 2</td>
-<td colspan="7">Токарь</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
-</tr>
-<tr>
+<td>Итого</td>
+<td colspan="2"></td>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">94</td>
-<td colspan="4">0</td>
-<td colspan="2">84</td>
-<td colspan="3">10</td>
+<td colspan="2"></td>
+<td></td>
+<td>92</td>
+<td>0</td>
+<td>82</td>
+<td>10</td>
 </tr>
 <tr>
 <td rowspan="3">7</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Риддерский многопрофильный колледж»</td>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140101 2</td>
-<td colspan="7">Каменщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное учреждение «Риддерский многопрофильный колледж»</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110901 2</td>
-<td colspan="7">Токарь</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">65</td>
-<td colspan="4">0</td>
-<td colspan="2">65</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>65</td>
+<td>0</td>
+<td>65</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">8</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Глубоковский аграрный колледж»</td>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Глубоковский аграрный колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150404 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150404 2</td>
+<td>Повар</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">35</td>
-<td colspan="4">0</td>
-<td colspan="2">35</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>30</td>
+<td>0</td>
+<td>30</td>
+<td>0</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="3">Коммунальное государственное учреждение «Бескарагайский колледж»</td>
-<td colspan="3">1508000</td>
-<td colspan="4">Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
-<td colspan="4">150805 2</td>
-<td colspan="7">Лесник</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">25</td>
+<td>Коммунальное государственное учреждение «Бескарагайский колледж»</td>
+<td colspan="2">1508000</td>
+<td>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
+<td colspan="2">150805 2</td>
+<td>Лесник</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">25</td>
-<td colspan="4">0</td>
-<td colspan="2">0</td>
-<td colspan="3">25</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>0</td>
+<td>0</td>
+<td>25</td>
 </tr>
 <tr>
 <td rowspan="2">10</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Абайский колледж»</td>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Абайский колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111401 2</td>
-<td colspan="7">Сварщик (всех наименований)</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111401 2</td>
+<td>Сварщик (всех наименований)</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">30</td>
-<td colspan="2">30</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>30</td>
+<td>30</td>
+<td>30</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">11</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Самарский аграрно-технический колледж»</td>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120109 2</td>
-<td colspan="7">Мастер по ремонту транспорта</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Самарский аграрно-технический колледж»</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120109 2</td>
+<td>Мастер по ремонту транспорта</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0506000</td>
-<td colspan="4">Парикмахерское искусство и декоративная косметика</td>
-<td colspan="4">050601 2</td>
-<td colspan="7">Парикмахер-модельер</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0506000</td>
+<td>Парикмахерское искусство и декоративная косметика</td>
+<td colspan="2">050601 2</td>
+<td>Парикмахер-модельер</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">0</td>
-<td colspan="2">30</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>30</td>
+<td>0</td>
+<td>30</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">12</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Жарминский технологический колледж»</td>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150404 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Жарминский технологический колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150404 2</td>
+<td>Повар</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">30</td>
-<td colspan="2">30</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>27</td>
+<td>27</td>
+<td>27</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">13</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Шемонаихинскийколледж»</td>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Шемонаихинский колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150405 2</td>
-<td colspan="7">Продавец</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150405 2</td>
+<td>Продавец</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">45</td>
-<td colspan="4">0</td>
-<td colspan="2">45</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>45</td>
+<td>0</td>
+<td>45</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">14</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Зайсанский технологический колледж»</td>
-<td colspan="3" rowspan="2">1504000</td>
-<td colspan="4" rowspan="2">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">40</td>
-<td colspan="4">40</td>
-<td colspan="2">40</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное учреждение «Зайсанский технологический колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">150409 2</td>
-<td colspan="7">Электромонтер по обслуживанию электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150409 2</td>
+<td>Электромонтер по обслуживанию электрооборудования</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>14</td>
+<td>14</td>
+<td>14</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">70</td>
-<td colspan="4">70</td>
-<td colspan="2">55</td>
-<td colspan="3">15</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>49</td>
+<td>49</td>
+<td>34</td>
+<td>15</td>
 </tr>
 <tr>
 <td rowspan="3">15</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Урджарский колледж»</td>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное учреждение «Урджарский колледж»</td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1513000</td>
-<td colspan="4">Ветеринария</td>
-<td colspan="4">151301 2</td>
-<td colspan="7">Оператор по ветеринарной обработке животных</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151301 2</td>
+<td>Оператор по ветеринарной обработке животных</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">50</td>
-<td colspan="4">50</td>
-<td colspan="2">35</td>
-<td colspan="3">15</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>50</td>
+<td>35</td>
+<td>15</td>
 </tr>
 <tr>
 <td rowspan="2">16</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Зыряновский сельскохозяйственный колледж»</td>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Зыряновский сельскохозяйственный колледж»</td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1501000</td>
-<td colspan="4">Техническое обслуживание и ремонт сельскохозяйственной техники</td>
-<td colspan="4">150101 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1501000</td>
+<td>Техническое обслуживание и ремонт сельскохозяйственной техники</td>
+<td colspan="2">150101 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">0</td>
-<td colspan="2">30</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">17</td>
-<td colspan="3" rowspan="2">Коммунальное государственное учреждение «Тарбагатайский колледж»</td>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150406 2</td>
-<td colspan="7">Тракторист-машинист сельскохозяйственного производства</td>
-<td colspan="4">40</td>
-<td colspan="4">40</td>
-<td colspan="2">40</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное учреждение «Тарбагатайский колледж»</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйствен-ного производства</td>
+<td>36</td>
+<td>36</td>
+<td>36</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1513000</td>
-<td colspan="4">Ветеринария</td>
-<td colspan="4">151303 2</td>
-<td colspan="7">Санитар ветеринарный</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151303 2</td>
+<td>Санитар ветеринарный</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">55</td>
-<td colspan="4">55</td>
-<td colspan="2">40</td>
-<td colspan="3">15</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>51</td>
+<td>51</td>
+<td>36</td>
+<td>15</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="3">Коммунальное государственное учреждение «Бородулихинский колледж»</td>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td>Коммунальное государственное учреждение «Бородулихинский колледж»</td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">20</td>
-<td colspan="4">0</td>
-<td colspan="2">20</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td rowspan="4">19</td>
-<td colspan="3" rowspan="4">Коммунальное государственное учреждение «Курчумский колледж»</td>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121106 2</td>
-<td colspan="7">Портной</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
-<td colspan="4">150409 2</td>
-<td colspan="7">Электромонтер по обслуживанию электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
+<td>Итого</td>
 <td colspan="2"></td>
-<td colspan="3">15</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">1513000</td>
-<td colspan="4">Ветеринария</td>
-<td colspan="4">151303 2</td>
-<td colspan="7">Санитар ветеринарный</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="3">19</td>
+<td rowspan="3">Коммунальное государственное учреждение «Курчумский колледж»</td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0513000</td>
-<td colspan="4">Маркетинг (по отраслям)</td>
-<td colspan="4">051301 2</td>
-<td colspan="7">Продавец продовольственных товаров</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150409 2</td>
+<td>Электромонтер по обслуживанию электрооборудования</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151303 2</td>
+<td>Санитар ветеринарный</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">60</td>
-<td colspan="4">60</td>
-<td colspan="2">15</td>
-<td colspan="3">45</td>
+<td></td>
+<td colspan="2">0513000</td>
+<td>Маркетинг (по отраслям)</td>
+<td colspan="2">051301 2</td>
+<td>Продавец продовольственных товаров</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>60</td>
+<td>60</td>
+<td>15</td>
+<td>45</td>
 </tr>
 <tr>
 <td rowspan="4">20</td>
-<td colspan="3" rowspan="4">Коммунальное государственное учреждение «Глубоковский технический колледж»</td>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="4">Коммунальное государственное учреждение «Глубоковский технический колледж»</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1115000</td>
-<td colspan="4">Электромеханическое оборудование в промышленности (по видам)</td>
-<td colspan="4">111504 2</td>
-<td colspan="7">Электромонтер по ремонту и обслуживанию электрооборудования</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">1115000</td>
+<td>Электромеханическое оборудование в промышленности (по видам)</td>
+<td colspan="2">111504 2</td>
+<td>Электромонтер по ремонту и обслуживанию электрооборудования</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140104 2</td>
-<td colspan="7">Штукатур</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140104 2</td>
+<td>Штукатур</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140101 2</td>
-<td colspan="7">Каменщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">70</td>
-<td colspan="4">15</td>
-<td colspan="2">70</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>64</td>
+<td>12</td>
+<td>64</td>
+<td>0</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="3">Всего</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">1064</td>
-<td colspan="4">450</td>
-<td colspan="2">924</td>
-<td colspan="3">140</td>
+<td>Всего</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>1030</td>
+<td>407</td>
+<td>887</td>
+<td>143</td>
 </tr>
 <tr>
-<td rowspan="3">1</td>
-<td colspan="3" rowspan="3">Коммунальное государственное казенное предприятие «Восточно-Казахстанский технологический колледж»</td>
-<td colspan="3">0902000</td>
-<td colspan="4">Электроснабжение (по отраслям)</td>
-<td colspan="4">090201 2</td>
-<td colspan="7">Электромонтажник по распределительным устройствам</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">1</td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Восточно-Казахстанский технологический колледж»</td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1304000</td>
-<td colspan="4">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="4">130401 2</td>
-<td colspan="7">Оператор электронно-вычислительных машин</td>
-<td colspan="4">12</td>
-<td colspan="4"></td>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td colspan="2">1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">47</td>
-<td colspan="4">15</td>
-<td colspan="2">47</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>32</td>
+<td>0</td>
+<td>32</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">2</td>
-<td colspan="3" rowspan="2">Коммунальное государственное казенное предприятие «Политехнический колледж г. Аягоз»</td>
-<td colspan="3">0503000</td>
-<td colspan="4">Слесарное дело</td>
-<td colspan="4">050301 2</td>
-<td colspan="7">Слесарь-электрик по ремонту электрооборудования</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Политехнический колледж города Аягоз»</td>
+<td colspan="2">0503000</td>
+<td>Слесарное дело</td>
+<td colspan="2">050301 2</td>
+<td>Слесарь-электрик по ремонту электрооборудования</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1414000</td>
-<td colspan="4">Мебельное производство (по видам)</td>
-<td colspan="4">141407 2</td>
-<td colspan="7">Мастер столярного и мебельного производства</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td colspan="2">1414000</td>
+<td>Мебельное производство (по видам)</td>
+<td colspan="2">141407 2</td>
+<td>Мастер столярного и мебельного производства</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">45</td>
-<td colspan="4">45</td>
-<td colspan="2">45</td>
-<td colspan="3">0</td>
+<td></td>
+<td colspan="2">1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>57</td>
+<td>57</td>
+<td>57</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="2">3</td>
-<td colspan="3" rowspan="2">Коммунальное государственное казенное предприятие «Электротехнический колледж»</td>
-<td colspan="3" rowspan="2">1403000</td>
-<td colspan="4" rowspan="2">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140307 2</td>
-<td colspan="7">Электромонтажник-наладчик</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Электротехнический колледж»</td>
+<td colspan="2" rowspan="2">1403000</td>
+<td rowspan="2">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140307 2</td>
+<td>Электромонтажник-наладчик</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">140308 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">140308 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">40</td>
-<td colspan="4">20</td>
-<td colspan="2">40</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>40</td>
+<td>25</td>
+<td>40</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">4</td>
-<td colspan="3" rowspan="3">Коммунальное государственное казенное предприятие «Коледж строительства»</td>
-<td colspan="3" rowspan="2">1401000</td>
-<td colspan="4" rowspan="2">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140103 2</td>
-<td colspan="7">Столяр строительный</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Коледж строительства»</td>
+<td colspan="2" rowspan="2">1401000</td>
+<td rowspan="2">Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140103 2</td>
+<td>Столяр строительный</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">140126 2</td>
-<td colspan="7">Мастер общестроительных работ</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">140126 2</td>
+<td>Мастер общестроительных работ</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1402000</td>
-<td colspan="4">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td colspan="4">140216 2</td>
-<td colspan="7">Машинист крана автомобильного</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140216 2</td>
+<td>Машинист крана автомобильного</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">50</td>
-<td colspan="4">15</td>
-<td colspan="2">50</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>15</td>
+<td>50</td>
+<td>0</td>
 </tr>
 <tr>
-<td rowspan="3">5</td>
-<td colspan="3" rowspan="3">Коммунальное государственное казенное предприятие «Колледж радиотехники и связи»</td>
-<td colspan="3">1121000</td>
-<td colspan="4">Монтаж, техническое обслуживание и ремонт медицинской техники</td>
-<td colspan="4">112101 2</td>
-<td colspan="7">
+<td>5</td>
+<td>Коммунальное государственное казенное предприятие «Колледж радиотехники и связи»</td>
+<td colspan="2">1121000</td>
+<td>Монтаж, техническое обслуживание и ремонт медицинской техники</td>
+<td colspan="2">112101 2</td>
+<td>
 Электромеханик по ремонту
 и обслуживанию
 медицинского оборудования
 </td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="3">0502000</td>
-<td colspan="4">Обслуживание и ремонт телекоммуникационного оборудования и бытовой техники (по отраслям)</td>
-<td colspan="4">050201 2</td>
-<td colspan="7">Радиомеханик по ремонту и обслуживанию радиоэлектронного оборудования (радио-,теле-, аудио-видео )</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1306000</td>
-<td colspan="4">Радиоэлектроника и связь (по видам)</td>
-<td colspan="4">130601 2</td>
-<td colspan="7">Электромонтер по телекоммуникационным сетям и системам</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td>25</td>
+<td></td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">75</td>
-<td colspan="4">25</td>
-<td colspan="2">50</td>
-<td colspan="3">25</td>
+<td></td>
+<td colspan="2">0502000</td>
+<td>Обслуживание и ремонт телекоммуникационного оборудования и бытовой техники (по отраслям)</td>
+<td colspan="2">050201 2</td>
+<td>Радиомеханик по ремонту и обслуживанию радиоэлектронного оборудования (радио-,теле-, аудио-видео )</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">1306000</td>
+<td>Радиоэлектроника и связь (по видам)</td>
+<td colspan="2">130601 2</td>
+<td>Электромонтер по телекоммуникационным сетям и системам</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>75</td>
+<td>25</td>
+<td>50</td>
+<td>25</td>
 </tr>
 <tr>
 <td rowspan="3">6</td>
-<td colspan="3" rowspan="3">Коммунальное государственное казенное предприятие «Колледж бизнеса и сервиса»</td>
-<td colspan="3" rowspan="2">0508000</td>
-<td colspan="4" rowspan="2">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Колледж бизнеса и сервиса»</td>
+<td colspan="2" rowspan="2">0508000</td>
+<td rowspan="2">Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">050802 2</td>
-<td colspan="7">Кондитер</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td colspan="2">050802 2</td>
+<td>Кондитер</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0516000</td>
-<td colspan="4">Финансы (по отраслям)</td>
-<td colspan="4">051601 2</td>
-<td colspan="7">Агент страховой</td>
-<td colspan="4">10</td>
-<td colspan="4"></td>
-<td colspan="2">10</td>
-<td colspan="3"></td>
+<td colspan="2">0516000</td>
+<td>Финансы (по отраслям)</td>
+<td colspan="2">051601 2</td>
+<td>Агент страховой</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">50</td>
-<td colspan="4">40</td>
-<td colspan="2">50</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>40</td>
+<td>50</td>
+<td>0</td>
 </tr>
 <tr>
-<td rowspan="4">7</td>
-<td colspan="3" rowspan="4">Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
-<td colspan="3">0901000</td>
-<td colspan="4">Электрооборудование электрических станций и сетей (по видам)</td>
-<td colspan="4">090101 2</td>
-<td colspan="7">Электромонтер (всех наименований)</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td rowspan="3">7</td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
+<td colspan="2">0901000</td>
+<td>Электрооборудование электрических станций и сетей (по видам)</td>
+<td colspan="2">090101 2</td>
+<td>Электромонтер (всех наименований)</td>
+<td>49</td>
+<td>24</td>
+<td>25</td>
+<td>24</td>
 </tr>
 <tr>
-<td colspan="3">0901000</td>
-<td colspan="4">Электрооборудование электрических станций и сетей (по видам)</td>
-<td colspan="4">090103 2</td>
-<td colspan="7">Электромонтажник по силовым сетям и электрооборудованию</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0901000</td>
+<td>Электрооборудование электрических станций и сетей (по видам)</td>
+<td colspan="2">090103 2</td>
+<td>Электромонтажник по силовым сетям и электрооборудова-нию</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1302000</td>
-<td colspan="4">Автоматизация и управление (по профилю)</td>
-<td colspan="4">130201 2</td>
-<td colspan="7">Слесарь по контрольно-измерительным приборам и автоматике</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120106 2</td>
-<td colspan="7">Электрик по ремонту автомобильного электрооборудования</td>
-<td colspan="4">40</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3">20</td>
+<td colspan="2">1302000</td>
+<td>Автоматизация и управление (по профилю)</td>
+<td colspan="2">130201 2</td>
+<td>Слесарь по контрольно-измерительным приборам и автоматике</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">105</td>
-<td colspan="4">45</td>
-<td colspan="2">85</td>
-<td colspan="3">20</td>
+<td></td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120106 2</td>
+<td>Электрик по ремонту автомобильного электрооборудования</td>
+<td>40</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>129</td>
+<td>69</td>
+<td>85</td>
+<td>44</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="3">Всего</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">412</td>
-<td colspan="4">205</td>
-<td colspan="2">367</td>
-<td colspan="3">45</td>
+<td>Всего</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>433</td>
+<td>231</td>
+<td>364</td>
+<td>69</td>
 </tr>
 <tr>
 <td rowspan="4">1</td>
-<td colspan="3" rowspan="4">Коммунальное государственное учреждение «Шемонаихинский колледж № 1»</td>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140103 2</td>
-<td colspan="7">Столяр строительный</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="4">Коммунальное государственное учреждение «Шемонаихинский колледж № 1»</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140103 2</td>
+<td>Столяр строительный</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110901 2</td>
-<td colspan="7">Токарь</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140101 2</td>
-<td colspan="7">Каменщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">60</td>
-<td colspan="4">0</td>
-<td colspan="2">0</td>
-<td colspan="3">60</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>60</td>
+<td>0</td>
+<td>0</td>
+<td>60</td>
 </tr>
 <tr>
 <td rowspan="3">2</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Семейский колледж № 2»</td>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="3">Коммунальное государственное учреждение «Семейский колледж № 2»</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140308 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140308 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140301 2</td>
-<td colspan="7">Слесарь-сантехник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140301 2</td>
+<td>Слесарь-сантехник</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">45</td>
-<td colspan="4">0</td>
-<td colspan="2">0</td>
-<td colspan="3">45</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>55</td>
+<td>0</td>
+<td>0</td>
+<td>55</td>
 </tr>
 <tr>
 <td rowspan="4">3</td>
-<td colspan="3" rowspan="4">Коммунальное государственное учреждение «Семейский колледж № 1»</td>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140301 2</td>
-<td colspan="7">Слесарь-сантехник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="4">Коммунальное государственное учреждение «Семейский колледж № 1»</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140301 2</td>
+<td>Слесарь-сантехник</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140103 2</td>
-<td colspan="7">Столяр строительный</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140103 2</td>
+<td>Столяр строительный</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140101 2</td>
-<td colspan="7">Каменщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121106 2</td>
-<td colspan="7">Портной</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">60</td>
-<td colspan="4">15</td>
-<td colspan="2">0</td>
-<td colspan="3">60</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>60</td>
+<td>15</td>
+<td>0</td>
+<td>60</td>
 </tr>
 <tr>
-<td rowspan="3">4</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж № 3»</td>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111401 2</td>
-<td colspan="7">Сварщик (всех наименований)</td>
-<td colspan="4">30</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">30</td>
+<td rowspan="6">4</td>
+<td rowspan="6">Коммунальное государственное учреждение «Усть-Каменогорский колледж № 3»</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111401 2</td>
+<td>Сварщик (всех наименований)</td>
+<td>30</td>
+<td>15</td>
+<td></td>
+<td>30</td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140301 2</td>
-<td colspan="7">Слесарь-сантехник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140301 2</td>
+<td>Слесарь-сантехник</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3" rowspan="3"></td>
-<td colspan="3">1112000</td>
-<td colspan="4">Эксплуатация машин и оборудования промышленности</td>
-<td colspan="4">111203 2</td>
-<td colspan="7">Слесарь-ремонтник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1112000</td>
+<td>Эксплуатация машин и оборудования промышленности</td>
+<td colspan="2">111203 2</td>
+<td>Слесарь-ремонтник</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140101 2</td>
-<td colspan="7">Каменщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110901 2</td>
-<td colspan="7">Токарь</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">105</td>
-<td colspan="4">30</td>
-<td colspan="2">0</td>
-<td colspan="3">105</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>105</td>
+<td>30</td>
+<td>0</td>
+<td>105</td>
 </tr>
 <tr>
 <td rowspan="5">5</td>
-<td colspan="3" rowspan="5">Коммунальное государственное учреждение «Жарминский колледж № 1»</td>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="5">Коммунальное государственное учреждение «Жарминский колледж № 1»</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140104 2</td>
-<td colspan="7">Штукатур</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140104 2</td>
+<td>Штукатур</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1219000</td>
-<td colspan="4">Хлебопекарное, макаронное и кондитерское производство</td>
-<td colspan="4">121914 2</td>
-<td colspan="7">Пекарь</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1219000</td>
+<td>Хлебопекарное, макаронное и кондитерское производство</td>
+<td colspan="2">121914 2</td>
+<td>Пекарь</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121106 2</td>
-<td colspan="7">Портной</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">75</td>
-<td colspan="4">15</td>
-<td colspan="2">0</td>
-<td colspan="3">75</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>75</td>
+<td>15</td>
+<td>0</td>
+<td>75</td>
 </tr>
 <tr>
-<td rowspan="3">6</td>
-<td colspan="3" rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж № 2»</td>
-<td colspan="3">1114000</td>
-<td colspan="4">Сварочное дело (по видам)</td>
-<td colspan="4">111404 2</td>
-<td colspan="7">Электрогазосварщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="6">6</td>
+<td rowspan="6">Коммунальное государственное учреждение «Усть-Каменогорский колледж № 2»</td>
+<td colspan="2">1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1402000</td>
-<td colspan="4">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td colspan="4">140217 2</td>
-<td colspan="7">Машинист крана (крановщик)</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140217 2</td>
+<td>Машинист крана (крановщик)</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110901 2</td>
-<td colspan="7">Токарь</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="3" rowspan="3"></td>
-<td colspan="3">1109000</td>
-<td colspan="4">Токарное дело и металлообработка (по видам)</td>
-<td colspan="4">110906 2</td>
-<td colspan="7">Фрезеровщик</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110906 2</td>
+<td>Фрезеровщик</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1403000</td>
-<td colspan="4">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам</td>
-<td colspan="4">140301 2</td>
-<td colspan="7">Слесарь-сантехник</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1403000</td>
+<td>Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
+<td colspan="2">140301 2</td>
+<td>Слесарь-сантехник</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140103 2</td>
-<td colspan="7">Столяр строительный</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140103 2</td>
+<td>Столяр строительный</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">90</td>
-<td colspan="4">0</td>
-<td colspan="2">0</td>
-<td colspan="3">90</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>90</td>
+<td>0</td>
+<td>0</td>
+<td>90</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж № 1»</td>
-<td colspan="3">1401000</td>
-<td colspan="4">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140104 2</td>
-<td colspan="7">Штукатур</td>
-<td colspan="4">30</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">30</td>
+<td>Коммунальное государственное учреждение «Усть-Каменогорский колледж № 1»</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140104 2</td>
+<td>Штукатур</td>
+<td>30</td>
+<td>15</td>
+<td></td>
+<td>30</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">15</td>
-<td colspan="2">0</td>
-<td colspan="3">30</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>30</td>
+<td>15</td>
+<td>0</td>
+<td>30</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="3">Всего</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">465</td>
-<td colspan="4">75</td>
-<td colspan="2">0</td>
-<td colspan="3">465</td>
+<td>Всего</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>475</td>
+<td>75</td>
+<td>0</td>
+<td>475</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3">Учреждение «Гуманитарно-технический колледж»</td>
-<td colspan="3">0711000</td>
-<td colspan="4">Маркшейдерское дело</td>
-<td colspan="4">071102 2</td>
-<td colspan="7">Горнорабочий на маркшейдерских работах</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td>Учреждение «Гуманитарно-технический колледж»</td>
+<td colspan="2">0711000</td>
+<td>Маркшейдерское дело</td>
+<td colspan="2">071102 2</td>
+<td>Горнорабочий на маркшейдерских работах</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">15</td>
-<td colspan="4">0</td>
-<td colspan="2">0</td>
-<td colspan="3">15</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>15</td>
+<td>0</td>
+<td>0</td>
+<td>15</td>
 </tr>
 <tr>
 <td rowspan="2">2</td>
-<td colspan="3" rowspan="2">Учреждение «Колледж «Жастар»</td>
-<td colspan="3" rowspan="2">0508000</td>
-<td colspan="4" rowspan="2">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="2">Учреждение «Колледж «Жастар»</td>
+<td colspan="2" rowspan="2">0508000</td>
+<td rowspan="2">Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>8</td>
+<td></td>
+<td>8</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">050802 2</td>
-<td colspan="7">Кондитер</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">050802 2</td>
+<td>Кондитер</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">30</td>
-<td colspan="4">15</td>
-<td colspan="2">30</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>21</td>
+<td>13</td>
+<td>21</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="4">3</td>
-<td colspan="3" rowspan="4">Учреждение «Технологический колледж города Семей»</td>
-<td colspan="3" rowspan="2">0508000</td>
-<td colspan="4" rowspan="2">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="4">Учреждение «Технологический колледж города Семей»</td>
+<td colspan="2" rowspan="2">0508000</td>
+<td rowspan="2">Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">050802 2</td>
-<td colspan="7">Кондитер</td>
-<td colspan="4">12</td>
-<td colspan="4"></td>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td colspan="2">050802 2</td>
+<td>Кондитер</td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0506000</td>
-<td colspan="4">Парикмахерское искусство и декоративная косметика</td>
-<td colspan="4">050601 2</td>
-<td colspan="7">Парикмахер-модельер</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0506000</td>
+<td>Парикмахерское искусство и декоративная косметика</td>
+<td colspan="2">050601 2</td>
+<td>Парикмахер-модельер</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1304000</td>
-<td colspan="4">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="4">130401 2</td>
-<td colspan="7">Оператор электронно-вычислительных машин</td>
-<td colspan="4">10</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="3"></td>
+<td colspan="2">1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">52</td>
-<td colspan="4">10</td>
-<td colspan="2">52</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>52</td>
+<td>10</td>
+<td>52</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">4</td>
-<td colspan="3" rowspan="3">Учреждение «Колледж сферы обслуживания»</td>
-<td colspan="3">1115000</td>
-<td colspan="4">Электромеханическое оборудование в промышленности (по видам)</td>
-<td colspan="4">111504 2</td>
-<td colspan="7">Электромонтер по ремонту и обслуживанию электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Учреждение «Колледж сферы обслуживания»</td>
+<td colspan="2">1115000</td>
+<td>Электромеханическое оборудование в промышленности (по видам)</td>
+<td colspan="2">111504 2</td>
+<td>Электромонтер по ремонту и обслуживанию электрооборудования</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0402000</td>
-<td colspan="4">Дизайн (по профилю)</td>
-<td colspan="4">040202 2</td>
-<td colspan="7">Исполнитель художественно-оформительских работ</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0402000</td>
+<td>Дизайн (по профилю)</td>
+<td colspan="2">040202 2</td>
+<td>Исполнитель художественно-оформительских работ</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121106 2</td>
-<td colspan="7">Портной</td>
-<td colspan="4">10</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-<td colspan="3">10</td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">40</td>
-<td colspan="4">15</td>
-<td colspan="2">30</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td rowspan="4">5</td>
-<td colspan="3" rowspan="4">Учреждение «Колледж имени Кумаша Нургалиева»</td>
-<td colspan="3">0506000</td>
-<td colspan="4">Парикмахерское искусство и декоративная косметика</td>
-<td colspan="4">050601 2</td>
-<td colspan="7">Парикмахер-модельер</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">40</td>
-<td colspan="4">15</td>
-<td colspan="2">30</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="4">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1219000</td>
-<td colspan="4">Хлебопекарное, макаронное и кондитерское производство</td>
-<td colspan="4">121913 2</td>
-<td colspan="7">Пекарь-мастер</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
+<td>Итого</td>
 <td colspan="2"></td>
-<td colspan="3">15</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>40</td>
+<td>15</td>
+<td>30</td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="3">5</td>
+<td rowspan="3">Учреждение «Колледж имени Кумаша Нургалиева»</td>
+<td colspan="2">0506000</td>
+<td>Парикмахерское искусство и декоративная косметика</td>
+<td colspan="2">050601 2</td>
+<td>Парикмахер-модельер</td>
+<td>19</td>
+<td></td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>41</td>
+<td>16</td>
+<td>31</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">90</td>
-<td colspan="4">15</td>
-<td colspan="2">65</td>
-<td colspan="3">25</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>75</td>
+<td>16</td>
+<td>65</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="3">Частное учреждение «Электронный колледж имени ЖакииЧайжунусова»</td>
-<td colspan="3">0518000</td>
-<td colspan="4">Учет и аудит (по отраслям)</td>
-<td colspan="4">051801 2</td>
-<td colspan="7">Бухгалтер</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td>Частное учреждение «Электронный колледж имени ЖакииЧайжунусова»</td>
+<td colspan="2">0518000</td>
+<td>Учет и аудит (по отраслям)</td>
+<td colspan="2">051801 2</td>
+<td>Бухгалтер</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
 </tr>
 <tr>
 <td rowspan="2">7</td>
-<td colspan="3" rowspan="2">Учреждение «Казахстанско - Корейский колледж «Квансон»</td>
-<td colspan="3">0508000</td>
-<td colspan="4">Организация питания</td>
-<td colspan="4">050801 2</td>
-<td colspan="7">Повар</td>
-<td colspan="4">20</td>
-<td colspan="4"></td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
+<td rowspan="2">Учреждение «КАЗАХСТАНСКО - КОРЕЙСКИЙ КОЛЛЕДЖ «КВАНСОН»</td>
+<td colspan="2">0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1219000</td>
-<td colspan="4">Хлебопекарное, макаронное и кондитерское производство</td>
-<td colspan="4">121909 2</td>
-<td colspan="7">Кондитер</td>
-<td colspan="4">12</td>
-<td colspan="4"></td>
-<td colspan="2">12</td>
-<td colspan="3"></td>
+<td colspan="2">1219000</td>
+<td>Хлебопекарное, макаронное и кондитерское производство</td>
+<td colspan="2">121909 2</td>
+<td>Кондитер</td>
+<td>12</td>
+<td></td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">32</td>
-<td colspan="4">0</td>
-<td colspan="2">32</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td rowspan="4">8</td>
-<td colspan="3" rowspan="4">Учреждение «Восточный техническо -гуманитарный колледж»</td>
-<td colspan="3" rowspan="2">1015000</td>
-<td colspan="4" rowspan="2">Монтаж в машиностроении и испытание автомобиля</td>
-<td colspan="4">101505 2</td>
-<td colspan="7">Рихтовщик кузовов</td>
-<td colspan="4">40</td>
-<td colspan="4">20</td>
-<td colspan="2">40</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="4">101503 2</td>
-<td colspan="7">Наладчик оборудования металлопокрытия и окраски</td>
-<td colspan="4">25</td>
-<td colspan="4"></td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">1201000</td>
-<td colspan="4" rowspan="2">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="4">120106 2</td>
-<td colspan="7">Электрик по ремонту автомобильного электрооборудования</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
+<td>Итого</td>
 <td colspan="2"></td>
-<td colspan="3">15</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>32</td>
+<td>0</td>
+<td>32</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="4">120107 2</td>
-<td colspan="7">Слесарь по ремонту автомобилей</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="3">15</td>
+<td rowspan="3">8</td>
+<td rowspan="3">Учреждение «Восточный техническо-гуманитарный колледж»</td>
+<td colspan="2">1015000</td>
+<td>Монтаж в машиностроении и испытание автомобиля</td>
+<td colspan="2">101505 2</td>
+<td>Рихтовщик кузовов</td>
+<td>33</td>
+<td></td>
+<td>33</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">1201000</td>
+<td rowspan="2">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120106 2</td>
+<td>Электрик по ремонту автомобильного электрооборудования</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">95</td>
-<td colspan="4">50</td>
-<td colspan="2">65</td>
-<td colspan="3">30</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>63</td>
+<td>30</td>
+<td>33</td>
+<td>30</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="3">Учреждение «Семейский гуманитарно-юридический колледж»</td>
-<td colspan="3">1206000</td>
-<td colspan="4">Организация дорожного движения</td>
-<td colspan="4">120601 2</td>
-<td colspan="7">Инспектор дорожный</td>
-<td colspan="4">12</td>
-<td colspan="4">12</td>
-<td colspan="2"></td>
-<td colspan="3">12</td>
+<td>Учреждение «Семейский гуманитарно-юридический колледж»</td>
+<td colspan="2">1206000</td>
+<td>Организация дорожного движения</td>
+<td colspan="2">120601 2</td>
+<td>Инспектор дорожный</td>
+<td>12</td>
+<td>12</td>
+<td></td>
+<td>12</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">12</td>
-<td colspan="4">12</td>
-<td colspan="2">0</td>
-<td colspan="3">12</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>12</td>
+<td>12</td>
+<td>0</td>
+<td>12</td>
 </tr>
 <tr>
 <td rowspan="3">10</td>
-<td colspan="3" rowspan="3">Учреждение «Колледж права и бизнеса»</td>
-<td colspan="3">0516000</td>
-<td colspan="4">Финансы (по отраслям)</td>
-<td colspan="4">051601 2</td>
-<td colspan="7">Агент страховой</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Учреждение «Колледж права и бизнеса»</td>
+<td colspan="2">0516000</td>
+<td>Финансы (по отраслям)</td>
+<td colspan="2">051601 2</td>
+<td>Агент страховой</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0518000</td>
-<td colspan="4">Учет и аудит (по отраслям)</td>
-<td colspan="4">051801 2</td>
-<td colspan="7">Бухгалтер</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">0518000</td>
+<td>Учет и аудит (по отраслям)</td>
+<td colspan="2">051801 2</td>
+<td>Бухгалтер</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1304000</td>
-<td colspan="4">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="4">130401 2</td>
-<td colspan="7">Оператор электронно-вычислительных машин</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">45</td>
-<td colspan="4">30</td>
-<td colspan="2">45</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>45</td>
+<td>30</td>
+<td>45</td>
+<td>0</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="3">Товарищество с ограниченной ответственностью «Колледж «Кайнар»</td>
-<td colspan="3">1206000</td>
-<td colspan="4">Организация дорожного движения</td>
-<td colspan="4">120601 2</td>
-<td colspan="7">Инспектор дорожный</td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3"></td>
+<td>Товарищество с ограниченной ответственностью «Колледж «Кайнар»</td>
+<td colspan="2">1206000</td>
+<td>Организация дорожного движения</td>
+<td colspan="2">120601 2</td>
+<td>Инспектор дорожный</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">25</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
 </tr>
 <tr>
-<td rowspan="2">12</td>
-<td colspan="3" rowspan="2">Учреждение «Колледж агробизнеса и экономики Казпотребсоюза»</td>
-<td colspan="3" rowspan="2">1513000</td>
-<td colspan="4" rowspan="2">Ветеринария</td>
-<td colspan="4">151303 2</td>
-<td colspan="7">Санитар ветеринарный</td>
-<td colspan="4">20</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="4">151302 2</td>
-<td colspan="7">Оператор по искуственному осеменению животных и птиц</td>
-<td colspan="4">15</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td>12</td>
+<td>Учреждение «Колледж агробизнеса и экономики Казпотребсоюза»</td>
+<td colspan="2">1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151303 2</td>
+<td>Санитар ветеринарный</td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">35</td>
-<td colspan="4">35</td>
-<td colspan="2">35</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>35</td>
+<td>35</td>
+<td>35</td>
+<td>0</td>
 </tr>
 <tr>
 <td rowspan="3">13</td>
-<td colspan="3" rowspan="3">Учреждение «Усть-Каменогорский многопрофильный колледж»</td>
-<td colspan="3" rowspan="2">1401000</td>
-<td colspan="4" rowspan="2">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="4">140103 2</td>
-<td colspan="7">Столяр строительный</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td rowspan="3">Учреждение «Усть-Каменогорский многопрофильный колледж»</td>
+<td colspan="2" rowspan="2">1401000</td>
+<td rowspan="2">Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140103 2</td>
+<td>Столяр строительный</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">140104 2</td>
-<td colspan="7">Штукатур</td>
-<td colspan="4">17</td>
-<td colspan="4"></td>
-<td colspan="2">17</td>
-<td colspan="3"></td>
+<td colspan="2">140104 2</td>
+<td>Штукатур</td>
+<td>14</td>
+<td></td>
+<td>14</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1211000</td>
-<td colspan="4">Швейное производство и моделирование одежды</td>
-<td colspan="4">121103 2</td>
-<td colspan="7">Швея</td>
-<td colspan="4">15</td>
-<td colspan="4"></td>
-<td colspan="2">15</td>
-<td colspan="3"></td>
+<td colspan="2">1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121103 2</td>
+<td>Швея</td>
+<td>13</td>
+<td></td>
+<td>13</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Итого</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">47</td>
-<td colspan="4">0</td>
-<td colspan="2">47</td>
-<td colspan="3">0</td>
+<td>Итого</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>42</td>
+<td>0</td>
+<td>42</td>
+<td>0</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="3">Всего</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">538</td>
-<td colspan="4">227</td>
-<td colspan="2">446</td>
-<td colspan="3">92</td>
+<td>Всего</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>477</td>
+<td>206</td>
+<td>380</td>
+<td>97</td>
 </tr>
 <tr>
 <td>47</td>
-<td colspan="3">Всего по колледжам</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="7"></td>
-<td colspan="4">2479</td>
-<td colspan="4">957</td>
-<td colspan="2">1737</td>
-<td colspan="3">742</td>
+<td>Всего по колледжам</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>2415</td>
+<td>919</td>
+<td>1631</td>
+<td>784</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
-> *Приложение 2 к постановлению акимата Восточно-Казахстанской области от «21» августа 2017 года*  
-> *№ 211*
+> *Приложение 2 к постановлению Восточно-Казахстанского*  
+> *областного акимата*  
+> *от «21» августа 2017 года № 211*
 
 ## Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год (по квалификациям среднего звена)
 
+> *Сноска. Приложение 2 - в редакции постановления Восточно-Казахстанского областного акимата от 13.10.2017 № 267 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
-<td colspan="2" rowspan="2">№</td>
-<td colspan="4" rowspan="2">Наименование учреждения</td>
-<td colspan="3" rowspan="2">Код</td>
-<td colspan="3" rowspan="2">Наименование специальности</td>
-<td colspan="5" rowspan="2">Код</td>
-<td colspan="6" rowspan="2">Квалификация</td>
-<td colspan="4" rowspan="2">Кол-во мест</td>
-<td colspan="2" rowspan="2">В том числе с казахским языком обучения</td>
-<td colspan="4" rowspan="2">
+<td rowspan="2">№</td>
+<td rowspan="2">Наименование учреждения</td>
+<td rowspan="2">Код</td>
+<td rowspan="2">Наименование специальности</td>
+<td colspan="2" rowspan="2">Код</td>
+<td rowspan="2">Квалификация</td>
+<td rowspan="2">Кол-во мест</td>
+<td rowspan="2">В том числе с казахским языком обучения</td>
+<td rowspan="2">
 На базе
 9 класса
 </td>
-<td colspan="3" rowspan="2">
+<td rowspan="2">
 На базе
 11 класса
 </td>
@@ -2170,1713 +2196,1692 @@ source: https://zan.gov.kz/client/#!/doc/114381/rus/21.08.2017
 <tr>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">1</td>
-<td colspan="4" rowspan="6">Коммунальное государственное казенное предприятие «Риддерский аграрно-технический колледж»</td>
-<td colspan="3">0709000</td>
-<td colspan="3">Обогащение полезных ископаемых (рудообогащение)</td>
-<td colspan="5">070918 3</td>
-<td colspan="6">Техник-технолог</td>
-<td colspan="4">20</td>
+<td rowspan="4">1</td>
+<td rowspan="4">Коммунальное государственное казенное предприятие «Риддерский аграрно-технический колледж»</td>
+<td>0709000</td>
+<td>Обогащение полезных ископаемых (рудообогащение)</td>
+<td colspan="2">070918 3</td>
+<td>Техник-технолог</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>0705000</td>
+<td>Подземная разработка месторождений полезных ископаемых</td>
+<td colspan="2">070511 3</td>
+<td>Техник-технолог</td>
+<td>22</td>
+<td></td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td>0707000</td>
+<td>Техническое обслуживание и ремонт горного электромеханического оборудования</td>
+<td colspan="2">070719 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1508000</td>
+<td>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
+<td colspan="2">150804 3</td>
+<td>Мастер леса</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>0911000</td>
+<td>Техническая эксплуатация, обслуживание и ремонт электрического и электромеханического оборудования (по видам)</td>
+<td colspan="2">091101 3</td>
+<td>Электромеханик</td>
+<td>22</td>
+<td></td>
+<td>22</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1003000</td>
+<td>Металлургия цветных металлов</td>
+<td colspan="2">100315 3</td>
+<td>Техник-металлург</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td></td>
+<td>119</td>
+<td>15</td>
+<td>104</td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">0705000</td>
-<td colspan="3">Подземная разработка месторождений полезных ископаемых</td>
-<td colspan="5">070511 3</td>
-<td colspan="6">Техник-технолог</td>
-<td colspan="4">22</td>
+<td rowspan="2">2</td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Колледж геодезии и картографии»</td>
+<td>0713000</td>
+<td>Геодезия и картография</td>
+<td colspan="2">071301 3</td>
+<td>Техник-геодезист</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td>25</td>
+</tr>
+<tr>
+<td>0713000</td>
+<td>Геодезия и картография</td>
+<td colspan="2">071303 3</td>
+<td>Техник-аэрофотогеодезист</td>
+<td>50</td>
+<td>25</td>
+<td></td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">22</td>
-<td colspan="3"></td>
+<td></td>
+<td>75</td>
+<td>25</td>
+<td>0</td>
+<td>75</td>
 </tr>
 <tr>
-<td colspan="3">0707000</td>
-<td colspan="3">Техническое обслуживание и ремонт горного электромеханического оборудования</td>
-<td colspan="5">070719 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">20</td>
+<td rowspan="7">3</td>
+<td rowspan="7">Коммунальное государственное казенное предприятие «Колледж транспорта»</td>
+<td>1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140220 3</td>
+<td>Техник-механик</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник-механик</td>
+<td>65</td>
+<td>45</td>
+<td>45</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120113 3</td>
+<td>Мехатроник</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>1202000</td>
+<td>Организация перевозок и управление движением на транспорте (по отраслям)</td>
+<td colspan="2">120206 3</td>
+<td>Техник</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>1103000</td>
+<td>Судостроение и техническое обслуживание судовых машин и механизмов</td>
+<td colspan="2">110316 3</td>
+<td>Механик по судовым системам</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1204000</td>
+<td>Эксплуатация водного транспорта (по профилю)</td>
+<td colspan="2">120410 3</td>
+<td>Техник-судоводитель</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>1204000</td>
+<td>Эксплуатация водного транспорта (по профилю)</td>
+<td colspan="2">120411 3</td>
+<td>Техник</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td></td>
+<td>175</td>
+<td>80</td>
+<td>120</td>
+<td>55</td>
 </tr>
 <tr>
-<td colspan="3">1508000</td>
-<td colspan="3">Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
-<td colspan="5">150804 3</td>
-<td colspan="6">Мастер леса</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
+<td rowspan="2">4</td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Электротехнический колледж»</td>
+<td>0902000</td>
+<td>Электроснабжение (по отраслям)</td>
+<td colspan="2">090203 3</td>
+<td>Техник-электрик</td>
+<td>50</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">0911000</td>
-<td colspan="3">Техническая эксплуатация, обслуживание и ремонт электрического и электромеханического оборудования (по видам)</td>
-<td colspan="5">091101 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">22</td>
+<td>1302000</td>
+<td>Автоматизация и управление (по профилю)</td>
+<td colspan="2">130202 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">22</td>
-<td colspan="3"></td>
+<td></td>
+<td>70</td>
+<td>25</td>
+<td>25</td>
+<td>45</td>
 </tr>
 <tr>
-<td colspan="3">1003000</td>
-<td colspan="3">Металлургия цветных металлов</td>
-<td colspan="5">100315 3</td>
-<td colspan="6">Техник-металлург</td>
-<td colspan="4">20</td>
+<td rowspan="5">5</td>
+<td rowspan="5">Коммунальное государственное казенное предприятие «Геологоразведочный колледж»</td>
+<td>0701000</td>
+<td>Геологическая съемка, поиск и разведка месторождений полезных ископаемых (по видам)</td>
+<td colspan="2">070107 3</td>
+<td>Техник-геолог</td>
+<td>40</td>
+<td>20</td>
+<td>40</td>
+<td></td>
+</tr>
+<tr>
+<td>0702000</td>
+<td>Технология и техника разведки месторождений полезных ископаемых</td>
+<td colspan="2">070207 3</td>
+<td>Техник</td>
+<td>35</td>
+<td>20</td>
+<td>35</td>
+<td></td>
+</tr>
+<tr>
+<td>0703000</td>
+<td>Гидрогеология и инженерная геология</td>
+<td colspan="2">070303 3</td>
+<td>Техник-гидрогеолог</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>0704000</td>
+<td>Геофизические методы поиска и разведки месторождений полезных ископаемых</td>
+<td colspan="2">070406 3</td>
+<td>Техник-геофизик</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1514000</td>
+<td>Экология и рациональное использование природных ресурсов (по отраслям)</td>
+<td colspan="2">151409 3</td>
+<td>Эколог</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td></td>
+<td>125</td>
+<td>70</td>
+<td>125</td>
+<td>0</td>
 </tr>
 <tr>
+<td>6</td>
+<td>Коммунальное государственное казенное предприятие «Колледж строительства»</td>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140121 3</td>
+<td>Техник-строитель</td>
+<td>34</td>
+<td>18</td>
+<td></td>
+<td>34</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">119</td>
-<td colspan="2">15</td>
-<td colspan="4">104</td>
-<td colspan="3">15</td>
+<td></td>
+<td>34</td>
+<td>18</td>
+<td>0</td>
+<td>34</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">2</td>
-<td colspan="4" rowspan="2">Коммунальное государственное казенное предприятие «Колледж геодезии и картографии»</td>
-<td colspan="3">0713000</td>
-<td colspan="3">Геодезия и картография</td>
-<td colspan="5">071301 3</td>
-<td colspan="6">Техник - геодезист</td>
-<td colspan="4">25</td>
+<td rowspan="3">7</td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Колледж радиотехники и связи»</td>
+<td>1306000</td>
+<td>Радиоэлектроника и связь (по видам)</td>
+<td colspan="2">130609 3</td>
+<td>Техник по связи</td>
+<td>19</td>
+<td>19</td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">1304000</td>
+<td rowspan="2">Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130406 3</td>
+<td>Техник по обслуживанию компьютерных устройств</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">130404 3</td>
+<td>Техник-программист</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">25</td>
+<td></td>
+<td>44</td>
+<td>34</td>
+<td>44</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">0713000</td>
-<td colspan="3">Геодезия и картография</td>
-<td colspan="5">071303 3</td>
-<td colspan="6">Техник - аэрофотогеодезист</td>
-<td colspan="4">50</td>
-<td colspan="2">25</td>
-<td colspan="4"></td>
-<td colspan="3">50</td>
+<td rowspan="3">8</td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Восточно-Казахстанский сельскохозяйственный колледж»</td>
+<td>1510000</td>
+<td>Механизация сельского хозяйства</td>
+<td colspan="2">151004 3</td>
+<td>Техник-механик</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
+<td>1502000</td>
+<td>Агрономия</td>
+<td colspan="2">150203 3</td>
+<td>Агроном</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151306 3</td>
+<td>Ветеринарный техник</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">75</td>
-<td colspan="2">25</td>
-<td colspan="4">0</td>
-<td colspan="3">75</td>
+<td></td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="7">3</td>
-<td colspan="4" rowspan="7">Коммунальное государственное казенное предприятие «Колледж транспорта»</td>
-<td colspan="3">1402000</td>
-<td colspan="3">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td colspan="5">140220 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td rowspan="6">9</td>
+<td rowspan="4">Коммунальное государственное казенное предприятие «Колледж бизнеса и сервиса»</td>
+<td>0507000</td>
+<td>Организация обслуживания гостиничных хозяйств</td>
+<td colspan="2">050705 3</td>
+<td>Администратор</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">65</td>
-<td colspan="2">45</td>
-<td colspan="4">45</td>
-<td colspan="3">20</td>
+<td>0510000</td>
+<td>Делопроизводство и архивоведение (по отраслям и областям применения)</td>
+<td colspan="2">051002 3</td>
+<td>Делопроизводитель</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120113 3</td>
-<td colspan="6">Мехатроник</td>
-<td colspan="4">20</td>
+<td>0511000</td>
+<td>Туризм (по отраслям)</td>
+<td colspan="2">051104 3</td>
+<td>Менеджер</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>0515000</td>
+<td>Менеджмент (по отраслям и областям применения)</td>
+<td colspan="2">051501 3</td>
+<td>Менеджер</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>0518000</td>
+<td>Учет и аудит (по отраслям)</td>
+<td colspan="2">051802 3</td>
+<td>Бухгалтер-ревизор (аудитор)</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>1213000</td>
+<td>Технология производств меховых и овчинно-шубных изделий</td>
+<td colspan="2">121306 3</td>
+<td>Техник-технолог</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
+<td></td>
+<td>90</td>
+<td>60</td>
+<td>75</td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">1202000</td>
-<td colspan="3">Организация перевозок и управление движением на транспорте (по отраслям)</td>
-<td colspan="5">120206 3</td>
-<td colspan="6">Техник</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
+<td rowspan="8">10</td>
+<td rowspan="8">Коммунальное государственное казенное предприятие «Педагогический колледж им. М. Ауэзова»</td>
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010501 3</td>
+<td>Учитель начального образования</td>
+<td>65</td>
+<td>40</td>
+<td>40</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">1103000</td>
-<td colspan="3">Судостроение и техническое обслуживание судовых машин и механизмов</td>
-<td colspan="5">110316 3</td>
-<td colspan="6">Механик по судовым системам</td>
-<td colspan="4">20</td>
-<td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1204000</td>
-<td colspan="3">Эксплуатация водного транспорта (по профилю)</td>
-<td colspan="5">120410 3</td>
-<td colspan="6">Техник-судоводитель</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="3">1204000</td>
-<td colspan="3">Эксплуатация водного транспорта (по профилю)</td>
-<td colspan="5">120411 3</td>
-<td colspan="6">Техник</td>
-<td colspan="4">20</td>
-<td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">175</td>
-<td colspan="2">80</td>
-<td colspan="4">120</td>
-<td colspan="3">55</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">4</td>
-<td colspan="4" rowspan="2">Коммунальное государственное казенное предприятие «Восточно-Казахстанский технологический колледж»</td>
-<td colspan="3">1224000</td>
-<td colspan="3">Производство молочной продукции</td>
-<td colspan="5">122407 3</td>
-<td colspan="6">Техник- технолог</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
-</tr>
-<tr>
-<td colspan="3">1219000</td>
-<td colspan="3">Хлебопекарное, макаронное и кондитерское производство</td>
-<td colspan="5">121924 3</td>
-<td colspan="6">Техник- технолог</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">40</td>
-<td colspan="2">40</td>
-<td colspan="4">20</td>
-<td colspan="3">20</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">5</td>
-<td colspan="4" rowspan="2">Коммунальное государственное казенное предприятие «Электротехнический колледж»</td>
-<td colspan="3">0902000</td>
-<td colspan="3">Электроснабжение (по отраслям)</td>
-<td colspan="5">090203 3</td>
-<td colspan="6">Техник-электрик</td>
-<td colspan="4">50</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="3">1302000</td>
-<td colspan="3">Автоматизация и управление (по профилю)</td>
-<td colspan="5">130202 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">20</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">70</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3">45</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="5">6</td>
-<td colspan="4" rowspan="5">Коммунальное государственное казенное предприятие «Геологоразведочный колледж»</td>
-<td colspan="3">0701000</td>
-<td colspan="3">Геологическая съемка, поиск и разведка месторождений полезных ископаемых (по видам)</td>
-<td colspan="5">070107 3</td>
-<td colspan="6">Техник-геолог</td>
-<td colspan="4">30</td>
-<td colspan="2">15</td>
-<td colspan="4">30</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0702000</td>
-<td colspan="3">Технология и техника разведки месторождений полезных ископаемых</td>
-<td colspan="5">070207 3</td>
-<td colspan="6">Техник</td>
-<td colspan="4">30</td>
-<td colspan="2">15</td>
-<td colspan="4">30</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0703000</td>
-<td colspan="3">Гидрогеология и инженерная геология</td>
-<td colspan="5">070303 3</td>
-<td colspan="6">Техник-гидрогеолог</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0704000</td>
-<td colspan="3">Геофизические методы поиска и разведки месторождений полезных ископаемых</td>
-<td colspan="5">070406 3</td>
-<td colspan="6">Техник-геофизик</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1514000</td>
-<td colspan="3">Экология и рациональное использование природных ресурсов (по отраслям)</td>
-<td colspan="5">151409 3</td>
-<td colspan="6">Эколог</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">100</td>
-<td colspan="2">55</td>
-<td colspan="4">100</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="4">Коммунальное государственное казенное предприятие «Колледж строительства»</td>
-<td colspan="3">1401000</td>
-<td colspan="3">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="5">140121 3</td>
-<td colspan="6">Техник-строитель</td>
-<td colspan="4">30</td>
-<td colspan="2">15</td>
-<td colspan="4"></td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">30</td>
-<td colspan="2">15</td>
-<td colspan="4">0</td>
-<td colspan="3">30</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">8</td>
-<td colspan="4" rowspan="3">Коммунальное государственное казенное предприятие «Колледж радиотехники и связи»</td>
-<td colspan="3">1306000</td>
-<td colspan="3">Радиоэлектроника и связь (по видам)</td>
-<td colspan="5">130609 3</td>
-<td colspan="6">Техник по связи</td>
-<td colspan="4">19</td>
-<td colspan="2">19</td>
-<td colspan="4">19</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3" rowspan="2">1304000</td>
-<td colspan="3" rowspan="2">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="5">130406 3</td>
-<td colspan="6">Техник по обслуживанию компьютерных устройств</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="5">130404 3</td>
-<td colspan="6">Техник-программист</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">44</td>
-<td colspan="2">34</td>
-<td colspan="4">44</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">9</td>
-<td colspan="4" rowspan="3">Коммунальное государственное казенное предприятие «Восточно-Казахстанский сельскохозяйственный колледж»</td>
-<td colspan="3">1510000</td>
-<td colspan="3">Механизация сельского хозяйства</td>
-<td colspan="5">151004 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1502000</td>
-<td colspan="3">Агрономия</td>
-<td colspan="5">150203 3</td>
-<td colspan="6">Агроном</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1513000</td>
-<td colspan="3">Ветеринария</td>
-<td colspan="5">151306 3</td>
-<td colspan="6">Ветеринарный техник</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">45</td>
-<td colspan="2">45</td>
-<td colspan="4">45</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="6">10</td>
-<td colspan="4" rowspan="6">Коммунальное государственное казенное предприятие «Колледж бизнеса и сервиса»</td>
-<td colspan="3">0507000</td>
-<td colspan="3">Организация обслуживания гостиничных хозяйств</td>
-<td colspan="5">050705 3</td>
-<td colspan="6">Администратор</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0510000</td>
-<td colspan="3">Делопроизводство и архивоведение (по отраслям и областям применения)</td>
-<td colspan="5">051002 3</td>
-<td colspan="6">Делопроизводитель</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0511000</td>
-<td colspan="3">Туризм (по отраслям)</td>
-<td colspan="5">051104 3</td>
-<td colspan="6">Менеджер</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0515000</td>
-<td colspan="3">Менеджмент (по отраслям и областям применения)</td>
-<td colspan="5">051501 3</td>
-<td colspan="6">Менеджер</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0518000</td>
-<td colspan="3">Учет и аудит (по отраслям)</td>
-<td colspan="5">051802 3</td>
-<td colspan="6">Бухгалтер-ревизор (аудитор)</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1213000</td>
-<td colspan="3">Технология производств меховых и овчинно-шубных изделий</td>
-<td colspan="5">121306 3</td>
-<td colspan="6">Техник-технолог</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">90</td>
-<td colspan="2">60</td>
-<td colspan="4">75</td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">11</td>
-<td colspan="4" rowspan="4">Коммунальное государственное казенное предприятие «Педагогический колледж им. М. Ауэзова»</td>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010501 3</td>
-<td colspan="6">Учитель начального образования</td>
-<td colspan="4">50</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010503 3</td>
-<td colspan="6">
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010503 3</td>
+<td>
 Учитель иностранного языка
 начального образования
 </td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">40</td>
-<td colspan="2">40</td>
-<td colspan="4">15</td>
-<td colspan="3">25</td>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>40</td>
+<td>40</td>
+<td>15</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011108 3</td>
-<td colspan="6">Учитель иностранного языка</td>
-<td colspan="4">50</td>
-<td colspan="2">50</td>
-<td colspan="4">25</td>
-<td colspan="3">25</td>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011108 3</td>
+<td>Учитель иностранного языка</td>
+<td>61</td>
+<td>61</td>
+<td>36</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="4"></td>
-<td colspan="4" rowspan="4"></td>
-<td colspan="3">0103000</td>
-<td colspan="3">Физическая культура и спорт</td>
-<td colspan="5">010302 3</td>
-<td colspan="6">Учитель физической культуры и спорта</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
+<td>0103000</td>
+<td>Физическая культура и спорт</td>
+<td colspan="2">010302 3</td>
+<td>Учитель физической культуры и спорта</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011109 3</td>
-<td colspan="6">Учитель информатики</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011109 3</td>
+<td>Учитель информатики</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0108000</td>
-<td colspan="3">Музыкальное образование</td>
-<td colspan="5">010801 3</td>
-<td colspan="6">Учитель музыки в организациях дошкольного и основного среднего образования</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3"></td>
+<td>0108000</td>
+<td>Музыкальное образование</td>
+<td colspan="2">010801 3</td>
+<td>Учитель музыки в организациях дошкольного и основного среднего образования</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0107000</td>
-<td colspan="3">Технология</td>
-<td colspan="5">010701 3</td>
-<td colspan="6">Учитель технологии основного среднего образования</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td>0107000</td>
+<td>Технология</td>
+<td colspan="2">010701 3</td>
+<td>Учитель технологии основного среднего образования</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">215</td>
-<td colspan="2">190</td>
-<td colspan="4">120</td>
-<td colspan="3">95</td>
+<td></td>
+<td>246</td>
+<td>221</td>
+<td>151</td>
+<td>95</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="7">12</td>
-<td colspan="4" rowspan="7">Коммунальное государственное казенное предприятие «Восточно-Казахстанский гуманитарный колледж»</td>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011101 3</td>
-<td colspan="6">Учитель казахского языка и литературы</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td rowspan="10">11</td>
+<td rowspan="10">Коммунальное государственное казенное предприятие «Восточно-Казахстанский гуманитарный колледж»</td>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011101 3</td>
+<td>Учитель казахского языка и литературы</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">40</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3">15</td>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>50</td>
+<td>35</td>
+<td>35</td>
+<td>15</td>
 </tr>
 <tr>
-<td colspan="3">0103000</td>
-<td colspan="3">Физическая культура и спорт</td>
-<td colspan="5">010303 3</td>
-<td colspan="6">Тренер-преподаватель по спорту</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td>0103000</td>
+<td>Физическая культура и спорт</td>
+<td colspan="2">010303 3</td>
+<td>Тренер-преподаватель по спорту</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010501 3</td>
-<td colspan="6">Учитель начального образования</td>
-<td colspan="4">40</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3">20</td>
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010501 3</td>
+<td>Учитель начального образования</td>
+<td>45</td>
+<td>25</td>
+<td>20</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011102 3</td>
-<td colspan="6">Учитель русского языка и литературы</td>
-<td colspan="4">20</td>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011102 3</td>
+<td>Учитель русского языка и литературы</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011106 3</td>
+<td>Учитель математики</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011107 3</td>
+<td>Учитель физики</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011108 3</td>
+<td>Учитель иностранного языка</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011109 3</td>
+<td>Учитель информатики</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>0112000</td>
+<td>Исламоведение</td>
+<td colspan="2">011202 3</td>
+<td>Учитель основ Ислама</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
+<td></td>
+<td>250</td>
+<td>195</td>
+<td>135</td>
+<td>115</td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011106 3</td>
-<td colspan="6">Учитель математики</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
+<td rowspan="3">12</td>
+<td rowspan="3">Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
+<td>0901000</td>
+<td>Электрооборудование электрических станций и сетей (по видам)</td>
+<td colspan="2">090104 3</td>
+<td>Техник-электрик</td>
+<td>13</td>
+<td>13</td>
+<td>13</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011107 3</td>
-<td colspan="6">Учитель физики</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
+<td>1302000</td>
+<td>Автоматизация и управление (по профилю)</td>
+<td colspan="2">130202 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td>10</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3"></td>
-<td colspan="4" rowspan="3"></td>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011108 3</td>
-<td colspan="6">Учитель иностранного языка</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td>0906000</td>
+<td>Теплоэнергетические установки тепловых электрических станций</td>
+<td colspan="2">090603 3</td>
+<td>Техник-энергетик</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011109 3</td>
-<td colspan="6">Учитель информатики</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0112000</td>
-<td colspan="3">Исламоведение</td>
-<td colspan="5">011202 3</td>
-<td colspan="6">Учитель основ Ислама</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">215</td>
-<td colspan="2">160</td>
-<td colspan="4">105</td>
-<td colspan="3">110</td>
+<td></td>
+<td>48</td>
+<td>38</td>
+<td>28</td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">13</td>
-<td colspan="4" rowspan="3">Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
-<td colspan="3">0901000</td>
-<td colspan="3">Электрооборудование электрических станций и сетей (по видам)</td>
-<td colspan="5">090104 3</td>
-<td colspan="6">Техник-электрик</td>
-<td colspan="4">13</td>
-<td colspan="2">13</td>
-<td colspan="4">13</td>
-<td colspan="3"></td>
+<td rowspan="4">13</td>
+<td rowspan="4">Коммунальное государственное казенное предприятие «Музыкальное училище имени Мукана Тулебаева»</td>
+<td>0403000</td>
+<td>Социально-культурная деятельность и народное художественное творчество (по профилю)</td>
+<td colspan="2">040301 3</td>
+<td>Педагог-организатор</td>
+<td>11</td>
+<td>9</td>
+<td>5</td>
+<td>6</td>
 </tr>
 <tr>
-<td colspan="3">1302000</td>
-<td colspan="3">Автоматизация и управление (по профилю)</td>
-<td colspan="5">130202 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">20</td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040401 3</td>
+<td>Преподаватель детской музыкальной школы, концертмейстер</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0906000</td>
-<td colspan="3">Теплоэнергетические установки тепловых электрических станций</td>
-<td colspan="5">090603 3</td>
-<td colspan="6">Техник-энергетик</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040402 3</td>
+<td>Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040402 3</td>
+<td>Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
+<td>9</td>
+<td>7</td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5"></td>
+<td rowspan="5"></td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040403 3</td>
+<td>Преподаватель детской музыкальной школы, артист (руководитель) оркестра народных инструментов</td>
+<td>19</td>
+<td>17</td>
+<td>19</td>
+<td></td>
+</tr>
+<tr>
+<td>0405000</td>
+<td>Хоровое дирижирование</td>
+<td colspan="2">040501 3</td>
+<td>Преподаватель, хормейстер</td>
+<td>10</td>
+<td>8</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0406000</td>
+<td>Теория музыки</td>
+<td colspan="2">040601 3</td>
+<td>Преподаватель детской музыкальной школы</td>
+<td>4</td>
+<td>2</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>0407000</td>
+<td>Пение</td>
+<td colspan="2">040701 3</td>
+<td>Преподаватель детской музыкальной школы, артист академического пения, солист ансамбля</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>0407000</td>
+<td>Пение</td>
+<td colspan="2">040702 3</td>
+<td>Преподаватель детской музыкальной школы, артист народного пения с домброй</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">48</td>
-<td colspan="2">38</td>
-<td colspan="4">28</td>
-<td colspan="3">20</td>
+<td></td>
+<td>61</td>
+<td>50</td>
+<td>55</td>
+<td>6</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="3">14</td>
-<td colspan="4" rowspan="3">Коммунальное государственное казенное предприятие «Музыкальное училище имени Мукана Тулебаева»</td>
-<td colspan="3">0403000</td>
-<td colspan="3">Социально-культурная деятельность и народное художественное творчество (по профилю)</td>
-<td colspan="5">040301 3</td>
-<td colspan="6">Педагог-организатор</td>
-<td colspan="4">10</td>
-<td colspan="2">8</td>
-<td colspan="4">5</td>
-<td colspan="3">5</td>
+<td rowspan="6">14</td>
+<td rowspan="6">Коммунальное государственное казенное предприятие «Восточно-Казахстанское училище искусств имени народных артистов братьев Абдуллиных»</td>
+<td>0403000</td>
+<td>Социально-культурная деятельность и народное художественное творчество (по профилю)</td>
+<td colspan="2">040301 3</td>
+<td>Педагог-организатор</td>
+<td>15</td>
+<td>6</td>
+<td>13</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040401 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, концертмейстер</td>
-<td colspan="4">2</td>
-<td colspan="2">2</td>
-<td colspan="4">2</td>
-<td colspan="3"></td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040401 3</td>
+<td>Преподаватель детской музыкальной школы, концертмейстер</td>
+<td>5</td>
+<td>1</td>
+<td>5</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040402 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
-<td colspan="4">4</td>
-<td colspan="2">3</td>
-<td colspan="4">4</td>
-<td colspan="3"></td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040402 3</td>
+<td>Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
+<td>10</td>
+<td>5</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6"></td>
-<td colspan="4" rowspan="6"></td>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040402 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
-<td colspan="4">9</td>
-<td colspan="2">7</td>
-<td colspan="4">9</td>
-<td colspan="3"></td>
+<td>0404000</td>
+<td>Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
+<td colspan="2">040403 3</td>
+<td>Преподаватель детской музыкальной школы, артист (руководитель) оркестра народных инструментов</td>
+<td>12</td>
+<td>9</td>
+<td>11</td>
+<td>1</td>
 </tr>
 <tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040403 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист (руководитель) оркестра народных инструментов</td>
-<td colspan="4">19</td>
-<td colspan="2">17</td>
-<td colspan="4">19</td>
-<td colspan="3"></td>
+<td>0405000</td>
+<td>Хоровое дирижирование</td>
+<td colspan="2">040501 3</td>
+<td>Преподаватель, хормейстер</td>
+<td>12</td>
+<td>8</td>
+<td>12</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0405000</td>
-<td colspan="3">Хоровое дирижирование</td>
-<td colspan="5">040501 3</td>
-<td colspan="6">Преподаватель, хормейстер</td>
-<td colspan="4">10</td>
-<td colspan="2">8</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td>0406000</td>
+<td>Теория музыки</td>
+<td colspan="2">040601 3</td>
+<td>Преподаватель детской музыкальной школы</td>
+<td>4</td>
+<td>1</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0406000</td>
-<td colspan="3">Теория музыки</td>
-<td colspan="5">040601 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы</td>
-<td colspan="4">4</td>
-<td colspan="2">2</td>
-<td colspan="4">4</td>
-<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>0407000</td>
+<td>Пение</td>
+<td colspan="2">040701 3</td>
+<td>Преподаватель детской музыкальной школы, артист академического пения, солист ансамбля</td>
+<td>4</td>
+<td>3</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0407000</td>
-<td colspan="3">Пение</td>
-<td colspan="5">040701 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист академического пения, солист ансамбля</td>
-<td colspan="4">2</td>
-<td colspan="2">2</td>
-<td colspan="4">2</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0407000</td>
-<td colspan="3">Пение</td>
-<td colspan="5">040702 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист народного пения с домброй</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="4">1</td>
-<td colspan="3"></td>
-</tr>
-<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">61</td>
-<td colspan="2">50</td>
-<td colspan="4">56</td>
-<td colspan="3">5</td>
+<td></td>
+<td>62</td>
+<td>33</td>
+<td>59</td>
+<td>3</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">15</td>
-<td colspan="4" rowspan="6">Коммунальное государственное казенное предприятие «Восточно-Казахстанское училище искусств имени народных артистов братьев Абдуллиных»</td>
-<td colspan="3">0403000</td>
-<td colspan="3">Социально-культурная деятельность и народное художественное творчество (по профилю)</td>
-<td colspan="5">040301 3</td>
-<td colspan="6">Педагог-организатор</td>
-<td colspan="4">15</td>
-<td colspan="2">5</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
+<td>15</td>
+<td>Коммунальное государственное учреждение «Глубоковский аграрный колледж»</td>
+<td>1510000</td>
+<td>Механизация сельского хозяйства</td>
+<td colspan="2">151004 3</td>
+<td>Техник-механик</td>
+<td>16</td>
+<td></td>
+<td>16</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040401 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, концертмейстер</td>
-<td colspan="4">2</td>
-<td colspan="2">2</td>
-<td colspan="4">2</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040402 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист (руководитель) оркестра, ансамбля</td>
-<td colspan="4">10</td>
-<td colspan="2">4</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0404000</td>
-<td colspan="3">Инструментальное исполнительство и музыкальное искусство эстрады (по видам)</td>
-<td colspan="5">040403 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист (руководитель) оркестра народных инструментов</td>
-<td colspan="4">15</td>
-<td colspan="2">11</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0405000</td>
-<td colspan="3">Хоровое дирижирование</td>
-<td colspan="5">040501 3</td>
-<td colspan="6">Преподаватель, хормейстер</td>
-<td colspan="4">12</td>
-<td colspan="2">7</td>
-<td colspan="4">12</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0406000</td>
-<td colspan="3">Теория музыки</td>
-<td colspan="5">040601 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы</td>
-<td colspan="4">4</td>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">4</td>
-<td colspan="3"></td>
+<td></td>
+<td>16</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="4" rowspan="2"></td>
-<td colspan="3">0407000</td>
-<td colspan="3">Пение</td>
-<td colspan="5">040701 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист академического пения, солист ансамбля</td>
-<td colspan="4">3</td>
-<td colspan="2">1</td>
-<td colspan="4">3</td>
-<td colspan="3"></td>
+<td>16</td>
+<td>Коммунальное государственное учреждение «Катон-Карагайский аграрно-технический колледж»</td>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151306 3</td>
+<td>Ветеринарный техник</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0407000</td>
-<td colspan="3">Пение</td>
-<td colspan="5">040702 3</td>
-<td colspan="6">Преподаватель детской музыкальной школы, артист народного пения с домброй</td>
-<td colspan="4">1</td>
-<td colspan="2">1</td>
-<td colspan="4">1</td>
-<td colspan="3"></td>
-</tr>
-<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">62</td>
-<td colspan="2">31</td>
-<td colspan="4">62</td>
-<td colspan="3">0</td>
+<td></td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="4">Коммунальное государственное казенное предприятие «Глубоковский аграрный колледж»</td>
-<td colspan="3">1510000</td>
-<td colspan="3">Механизация сельского хозяйства</td>
-<td colspan="5">151004 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td>17</td>
+<td>Коммунальное государственное учреждение «Усть -Каменогорский колледж строительства»</td>
+<td>1112000</td>
+<td>Эксплуатация машин и оборудования промышленности</td>
+<td colspan="2">111205 3</td>
+<td>Промышленный механик</td>
+<td>18</td>
+<td></td>
+<td></td>
+<td>18</td>
 </tr>
 <tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">20</td>
-<td colspan="3">0</td>
+<td></td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
 </tr>
 <tr>
-<td colspan="2">17</td>
-<td colspan="4">Коммунальное государственное казенное предприятие «Катон-Карагайский аграрно-технический колледж»</td>
-<td colspan="3">1513000</td>
-<td colspan="3">Ветеринария</td>
-<td colspan="5">151306 3</td>
-<td colspan="6">Ветеринарный техник</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="4">Коммунальное государственное казенное предприятие «Усть -Каменогорский колледж строительства»</td>
-<td colspan="3">1112000</td>
-<td colspan="3">Эксплуатация машин и оборудования промышленности</td>
-<td colspan="5">111205 3</td>
-<td colspan="6">Промышленный механик</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">15</td>
-<td colspan="2">0</td>
-<td colspan="4">0</td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «Колледж «Кайнар»</td>
-<td colspan="3">0512000</td>
-<td colspan="3">
+<td>18</td>
+<td>Товарищество с ограниченной ответственностью «Колледж «Кайнар»</td>
+<td>0512000</td>
+<td>
 Переводческое дело
 (по видам)
 </td>
-<td colspan="5">051201 3</td>
-<td colspan="6">Переводчик</td>
-<td colspan="4">20</td>
+<td colspan="2">051201 3</td>
+<td>Переводчик</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
+<td></td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
 </tr>
 <tr>
+<td rowspan="2">19</td>
+<td rowspan="2">Учреждение «Восточно-Казахстанский технико-экономический колледж»</td>
+<td>0515000</td>
+<td>Менеджмент (по отраслям и областям применения)</td>
+<td colspan="2">051501 3</td>
+<td>Менеджер</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>1305000</td>
+<td>Информационные системы (по областям применения)</td>
+<td colspan="2">130502 3</td>
+<td>Техник-программист</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">20</td>
-<td colspan="2">0</td>
-<td colspan="4">20</td>
-<td colspan="3">0</td>
+<td></td>
+<td>20</td>
+<td>10</td>
+<td>20</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">20</td>
-<td colspan="4" rowspan="2">Учреждение «Восточно-Казахстанский технико-экономический колледж»</td>
-<td colspan="3">0515000</td>
-<td colspan="3">Менеджмент (по отраслям и областям применения)</td>
-<td colspan="5">051501 3</td>
-<td colspan="6">Менеджер</td>
-<td colspan="4">10</td>
+<td rowspan="6">20</td>
+<td rowspan="6">Учреждение «Гуманитарно-технический колледж»</td>
+<td>0402000</td>
+<td>Дизайн (по профилю)</td>
+<td colspan="2">040201 3</td>
+<td>Дизайнер</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140121 3</td>
+<td>Техник-строитель</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0707000</td>
+<td>Техническое обслуживание и ремонт горного электромеханического оборудования</td>
+<td colspan="2">070719 3</td>
+<td>Электромеханик</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0709000</td>
+<td>Обогащение полезных ископаемых (рудообогащение)</td>
+<td colspan="2">070918 3</td>
+<td>Техник-технолог</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник-механик</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>60</td>
+<td>0</td>
+<td>50</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">1305000</td>
-<td colspan="3">Информационные системы (по областям применения)</td>
-<td colspan="5">130502 3</td>
-<td colspan="6">Техник-программист</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td>21</td>
+<td>Учреждение образования «АВИЦЕННА» медицинский колледж</td>
+<td>0302000</td>
+<td>Сестринское дело</td>
+<td colspan="2">030203 3</td>
+<td>Медицинская сестра общей практики</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">20</td>
-<td colspan="3">0</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="6">21</td>
-<td colspan="4" rowspan="6">Учреждение «Гуманитарно-технический колледж»</td>
-<td colspan="3">0402000</td>
-<td colspan="3">Дизайн (по профилю)</td>
-<td colspan="5">040201 3</td>
-<td colspan="6">Дизайнер</td>
-<td colspan="4">10</td>
+<td rowspan="4">22</td>
+<td rowspan="4">Товарищество с ограниченной ответственностью «Усть-Каменогорский колледж экономики и финансов»</td>
+<td>0518000</td>
+<td>Учет и аудит (по отраслям)</td>
+<td colspan="2">051803 3</td>
+<td>Экономист-бухгалтер</td>
+<td>20</td>
+<td>10</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1304000</td>
+<td>Вычислительная техника и программное обеспечение (по видам)</td>
+<td colspan="2">130404 3</td>
+<td>Техник-программист</td>
+<td>21</td>
+<td></td>
+<td>21</td>
+<td></td>
+</tr>
+<tr>
+<td>0516000</td>
+<td>Финансы (по отраслям)</td>
+<td colspan="2">051605 3</td>
+<td>Экономист по финансовой работе</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник-механик</td>
+<td>20</td>
+<td>10</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>81</td>
+<td>40</td>
+<td>81</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">1401000</td>
-<td colspan="3">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="5">140121 3</td>
-<td colspan="6">Техник-строитель</td>
-<td colspan="4">10</td>
+<td rowspan="3">23</td>
+<td rowspan="3">Частное учреждение «Электронный колледж имени ЖакииЧайжунусова»</td>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010501 3</td>
+<td>Учитель начального образования</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0516000</td>
+<td>Финансы (по отраслям)</td>
+<td colspan="2">051605 3</td>
+<td>Экономист по финансовой работе</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>40</td>
+<td>30</td>
+<td>40</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="3">0707000</td>
-<td colspan="3">Техническое обслуживание и ремонт горного электромеханического оборудования</td>
-<td colspan="5">070719 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">10</td>
+<td rowspan="2">24</td>
+<td rowspan="2">Учреждение «Колледж сферы обслуживания»</td>
+<td>0514000</td>
+<td>Оценка</td>
+<td colspan="2">051401 3</td>
+<td>Техник-оценщик</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>20</td>
+<td>0</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0709000</td>
-<td colspan="3">Обогащение полезных ископаемых (рудообогащение)</td>
-<td colspan="5">070918 3</td>
-<td colspan="6">Техник-технолог</td>
-<td colspan="4">10</td>
+<td rowspan="4">25</td>
+<td rowspan="4">Учреждение «Колледж права и бизнеса»</td>
+<td>0501000</td>
+<td>Социальная работа</td>
+<td colspan="2">050101 3</td>
+<td>Специалист по социальной работе</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>1516000</td>
+<td>Пожарная безопасность</td>
+<td colspan="2">151601 3</td>
+<td>Инспектор пожарный</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0516000</td>
+<td>Финансы (по отраслям)</td>
+<td colspan="2">051605 3</td>
+<td>Экономист по финансовой работе</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник-механик</td>
+<td>20</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>55</td>
+<td>35</td>
+<td>45</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник - механик</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">60</td>
-<td colspan="2">0</td>
-<td colspan="4">50</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="4">Учреждение «Медицинский колледж «Авиценна»</td>
-<td colspan="3">0302000</td>
-<td colspan="3">Сестринское дело</td>
-<td colspan="5">030203 3</td>
-<td colspan="6">Медицинская сестра общей практики</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="4">25</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">23</td>
-<td colspan="4" rowspan="4">Товарищество с ограниченной ответственностью «Усть-Каменогорский колледж экономики и финансов»</td>
-<td colspan="3">0518000</td>
-<td colspan="3">Учет и аудит (по отраслям)</td>
-<td colspan="5">051803 3</td>
-<td colspan="6">Экономист-бухгалтер</td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1304000</td>
-<td colspan="3">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="5">130404 3</td>
-<td colspan="6">Техник-программист</td>
-<td colspan="4">20</td>
-<td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0516000</td>
-<td colspan="3">Финансы (по отраслям)</td>
-<td colspan="5">051605 3</td>
-<td colspan="6">Экономист по финансовой работе</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">80</td>
-<td colspan="2">50</td>
-<td colspan="4">80</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="3">24</td>
-<td colspan="4" rowspan="3">Частное учреждение «Электронный колледж имени ЖакииЧайжунусова»</td>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010501 3</td>
-<td colspan="6">Учитель начального образования</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0516000</td>
-<td colspan="3">Финансы (по отраслям)</td>
-<td colspan="5">051605 3</td>
-<td colspan="6">Экономист по финансовой работе</td>
-<td colspan="4">20</td>
-<td colspan="2">20</td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">40</td>
-<td colspan="2">30</td>
-<td colspan="4">40</td>
-<td colspan="3">0</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">25</td>
-<td colspan="4" rowspan="2">Учреждение «Колледж сферы обслуживания»</td>
-<td colspan="3">0514000</td>
-<td colspan="3">Оценка</td>
-<td colspan="5">051401 3</td>
-<td colspan="6">Техник -оценщик</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">20</td>
-<td colspan="2">0</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="4">26</td>
-<td colspan="4" rowspan="4">Учреждение «Колледж права и бизнеса»</td>
-<td colspan="3">0501000</td>
-<td colspan="3">Социальная работа</td>
-<td colspan="5">050101 3</td>
-<td colspan="6">Специалист по социальной работе</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1516000</td>
-<td colspan="3">Пожарная безопасность</td>
-<td colspan="5">151601 3</td>
-<td colspan="6">Инспектор пожарный</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0516000</td>
-<td colspan="3">Финансы (по отраслям)</td>
-<td colspan="5">051605 3</td>
-<td colspan="6">Экономист по финансовой работе</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">55</td>
-<td colspan="2">35</td>
-<td colspan="4">45</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="5">27</td>
-<td colspan="4" rowspan="5">Товарищество с ограниченной ответственностью «Колледж Казахстанско Американского Свободного Университета»</td>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010503 3</td>
-<td colspan="6">
+<td rowspan="6">26</td>
+<td rowspan="6">Товарищество с ограниченной ответственностью «Колледж Казахстанско Американского Свободного Университета»</td>
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010503 3</td>
+<td>
 Учитель иностранного языка
 начального образования
 </td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011106 3</td>
-<td colspan="6">Учитель математики</td>
-<td colspan="4">15</td>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011106 3</td>
+<td>Учитель математики</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011102 3</td>
+<td>Учитель русского языка и литературы</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>0501000</td>
+<td>Социальная работа</td>
+<td colspan="2">050101 3</td>
+<td>Специалист по социальной работе</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td>0511000</td>
+<td>Туризм (по отраслям)</td>
+<td colspan="2">051104 3</td>
+<td>Менеджер</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td>0512000</td>
+<td>
+Переводческое дело
+(по видам)
+</td>
+<td colspan="2">051201 3</td>
+<td>Переводчик</td>
+<td>9</td>
+<td>9</td>
+<td>9</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
+<td></td>
+<td>74</td>
+<td>44</td>
+<td>34</td>
+<td>40</td>
 </tr>
 <tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011102 3</td>
-<td colspan="6">Учитель русского языка и литературы</td>
-<td colspan="4">15</td>
+<td rowspan="2">27</td>
+<td rowspan="2">Учреждение «Техническо-экономический колледж»</td>
+<td>1306000</td>
+<td>Радиоэлектроника и связь (по видам)</td>
+<td colspan="2">130609 3</td>
+<td>Техник по связи</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0510000</td>
+<td>Делопроизводство и архивоведение (по отраслям и областям применения)</td>
+<td colspan="2">051002 3</td>
+<td>Делопроизводитель</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
+<td></td>
+<td>20</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0501000</td>
-<td colspan="3">Социальная работа</td>
-<td colspan="5">050101 3</td>
-<td colspan="6">Специалист по социальной работе</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
+<td rowspan="4">28</td>
+<td rowspan="4">Учреждение «Восточный техническо-гуманитарный колледж»</td>
+<td>1305000</td>
+<td>Информационные системы (по областям применения)</td>
+<td colspan="2">130502 3</td>
+<td>Техник-программист</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0511000</td>
-<td colspan="3">Туризм (по отраслям)</td>
-<td colspan="5">051104 3</td>
-<td colspan="6">Менеджер</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник-механик</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+<td></td>
 </tr>
 <tr>
+<td>1003000</td>
+<td>Металлургия цветных металлов</td>
+<td colspan="2">100315 3</td>
+<td>Техник-металлург</td>
+<td>15</td>
+<td></td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140121 3</td>
+<td>Техник-строитель</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">65</td>
-<td colspan="2">35</td>
-<td colspan="4">25</td>
-<td colspan="3">40</td>
+<td></td>
+<td>50</td>
+<td>15</td>
+<td>25</td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">28</td>
-<td colspan="4" rowspan="2">Учреждение «Техническо-экономический колледж»</td>
-<td colspan="3">1306000</td>
-<td colspan="3">Радиоэлектроника и связь (по видам)</td>
-<td colspan="5">130609 3</td>
-<td colspan="6">Техник по связи</td>
-<td colspan="4">10</td>
+<td>29</td>
+<td>Учреждение «Колледж строительства и транспорта»</td>
+<td>0707000</td>
+<td>Техническое обслуживание и ремонт горного электромеханического оборудования</td>
+<td colspan="2">070719 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120112 3</td>
+<td>Техник - механик</td>
+<td>10</td>
+<td></td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
+<td></td>
+<td>30</td>
+<td>0</td>
+<td>20</td>
+<td>10</td>
 </tr>
 <tr>
-<td colspan="3">0510000</td>
-<td colspan="3">Делопроизводство и архивоведение (по отраслям и областям применения)</td>
-<td colspan="5">051002 3</td>
-<td colspan="6">Делопроизводитель</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
+<td rowspan="2">30</td>
+<td rowspan="2">Учреждение «Семейский многопрофильный колледж»</td>
+<td>0101000</td>
+<td>Дошкольное воспитание и обучение</td>
+<td colspan="2">010101 3</td>
+<td>Воспитатель дошкольных организаций</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
 </tr>
 <tr>
+<td>0103000</td>
+<td>Физическая культура и спорт</td>
+<td colspan="2">010302 3</td>
+<td>Учитель физической культуры и спорта</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
+<td>0105000</td>
+<td>Начальное образование</td>
+<td colspan="2">010501 3</td>
+<td>Учитель начального образования</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>10</td>
+</tr>
+<tr>
+<td>0111000</td>
+<td>Основное среднее образование</td>
+<td colspan="2">011101 3</td>
+<td>Учитель казахского языка и литературы</td>
+<td>15</td>
+<td>15</td>
+<td></td>
+<td>15</td>
+</tr>
+<tr>
+<td>0401000</td>
+<td>Библиотечное дело</td>
+<td colspan="2">040101 3</td>
+<td>Библиотекарь</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>0112000</td>
+<td>Исламоведение</td>
+<td colspan="2">011201 3</td>
+<td>Имам хатиб</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">20</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3">10</td>
+<td></td>
+<td>80</td>
+<td>80</td>
+<td>10</td>
+<td>70</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">29</td>
-<td colspan="4" rowspan="2">Учреждение «Восточный техническо-гуманитарный колледж»</td>
-<td colspan="3">1305000</td>
-<td colspan="3">Информационные системы (по областям применения)</td>
-<td colspan="5">130502 3</td>
-<td colspan="6">Техник-программист</td>
-<td colspan="4">10</td>
+<td>31</td>
+<td>Учреждение «Колледж имени Кумаша Нургалиева»</td>
+<td>0507000</td>
+<td>Организация обслуживания гостиничных хозяйств</td>
+<td colspan="2">050706 3</td>
+<td>Менеджер по сервису</td>
+<td>22</td>
+<td></td>
+<td>11</td>
+<td>11</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
+<td></td>
+<td>22</td>
+<td>0</td>
+<td>11</td>
+<td>11</td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник-механик</td>
-<td colspan="4">10</td>
+<td></td>
+<td>Всего по колледжам</td>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2"></td>
-<td colspan="4" rowspan="2"></td>
-<td colspan="3">1003000</td>
-<td colspan="3">Металлургия цветных металлов</td>
-<td colspan="5">100315 3</td>
-<td colspan="6">Техник-металлург</td>
-<td colspan="4">15</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="3">1401000</td>
-<td colspan="3">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="5">140121 3</td>
-<td colspan="6">Техник-строитель</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4">15</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">50</td>
-<td colspan="2">15</td>
-<td colspan="4">25</td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">30</td>
-<td colspan="4" rowspan="2">Учреждение «Колледж строительства и транспорта»</td>
-<td colspan="3">0707000</td>
-<td colspan="3">Техническое обслуживание и ремонт горного электромеханического оборудования</td>
-<td colspan="5">070719 3</td>
-<td colspan="6">Электромеханик</td>
-<td colspan="4">20</td>
-<td colspan="2"></td>
-<td colspan="4">20</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">1201000</td>
-<td colspan="3">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="5">120112 3</td>
-<td colspan="6">Техник - механик</td>
-<td colspan="4">10</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">30</td>
-<td colspan="2">0</td>
-<td colspan="4">20</td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="6">31</td>
-<td colspan="4" rowspan="6">Учреждение «Семейский многопрофильный колледж»</td>
-<td colspan="3">0101000</td>
-<td colspan="3">Дошкольное воспитание и обучение</td>
-<td colspan="5">010101 3</td>
-<td colspan="6">Воспитатель дошкольных организаций</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">0103000</td>
-<td colspan="3">Физическая культура и спорт</td>
-<td colspan="5">010302 3</td>
-<td colspan="6">Учитель физической культуры и спорта</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">0105000</td>
-<td colspan="3">Начальное образование</td>
-<td colspan="5">010501 3</td>
-<td colspan="6">Учитель начального образования</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4"></td>
-<td colspan="3">10</td>
-</tr>
-<tr>
-<td colspan="3">0111000</td>
-<td colspan="3">Основное среднее образование</td>
-<td colspan="5">011101 3</td>
-<td colspan="6">Учитель казахского языка и литературы</td>
-<td colspan="4">15</td>
-<td colspan="2">15</td>
-<td colspan="4"></td>
-<td colspan="3">15</td>
-</tr>
-<tr>
-<td colspan="3">0401000</td>
-<td colspan="3">Библиотечное дело</td>
-<td colspan="5">040101 3</td>
-<td colspan="6">Библиотекарь</td>
-<td colspan="4">10</td>
-<td colspan="2">10</td>
-<td colspan="4">10</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="3">0112000</td>
-<td colspan="3">Исламоведение</td>
-<td colspan="5">011201 3</td>
-<td colspan="6">Имам хатиб</td>
-<td colspan="4">25</td>
-<td colspan="2">25</td>
-<td colspan="4"></td>
-<td colspan="3">25</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">80</td>
-<td colspan="2">80</td>
-<td colspan="4">10</td>
-<td colspan="3">70</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td colspan="4">Учреждение «Колледж имени Кумаша Нургалиева»</td>
-<td colspan="3">0507000</td>
-<td colspan="3">Организация обслуживания гостиничных хозяйств</td>
-<td colspan="5">050706 3</td>
-<td colspan="6">Менеджер по сервису</td>
-<td colspan="4">22</td>
-<td colspan="2"></td>
-<td colspan="4">11</td>
-<td colspan="3">11</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Итого</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">22</td>
-<td colspan="2">0</td>
-<td colspan="4">11</td>
-<td colspan="3">11</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="4">Всего по колледжам</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="6"></td>
-<td colspan="4">2021</td>
-<td colspan="2">1173</td>
-<td colspan="4">1325</td>
-<td colspan="3">696</td>
+<td></td>
+<td>2085</td>
+<td>1208</td>
+<td>1393</td>
+<td>692</td>
 </tr>
 </table>
 
-> *Приложение 3 к постановлению акимата Восточно-Казахстанской области от «21» августа 2017 года № 211*
+> *Приложение 3*  
+> *к постановлению*  
+> *Восточно-Казахстанского*  
+> *областного акимата*  
+> *от «21» августа 2017 года № 211*
 
-## Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год по программе «Мәңгілік ел жастары-индустрияға!»- «Серпін-2050» (из республиканского бюджета)
+## Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год по программе «Мәңгілік ел жастары-индустрияға!» - «Серпін-2050» (из республиканского бюджета)
+
+> *Сноска. Приложение 3 - в редакции постановления Восточно-Казахстанского областного акимата от 13.10.2017 № 267 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td colspan="3" rowspan="3">№</td>
+<td rowspan="3">№</td>
 <td colspan="2" rowspan="3">Наименование учреждения</td>
-<td colspan="3" rowspan="3">Код</td>
-<td colspan="2" rowspan="3">Наименование специальности</td>
-<td colspan="6" rowspan="3">Код</td>
-<td colspan="4" rowspan="3">Квалификация</td>
-<td colspan="5" rowspan="3">Кол-во мест</td>
-<td colspan="3" rowspan="3">В том числе с казахским языком обучения</td>
-<td colspan="3" rowspan="3">
+<td colspan="2" rowspan="3">Код</td>
+<td rowspan="3">Наименование специальности</td>
+<td rowspan="3">Код</td>
+<td rowspan="3">Квалификация</td>
+<td rowspan="3">Кол-во мест</td>
+<td rowspan="3">В том числе с казахским языком обучения</td>
+<td rowspan="3">
 На базе
 9 класса
 </td>
-<td colspan="5" rowspan="3">
+<td rowspan="3">
 На базе
 11 класса
 </td>
@@ -3886,185 +3891,1396 @@ source: https://zan.gov.kz/client/#!/doc/114381/rus/21.08.2017
 <tr>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">1</td>
+<td rowspan="2">1</td>
 <td colspan="2" rowspan="2">Коммунальное государственное казенное предприятие «Колледж транспорта»</td>
-<td colspan="3">1202000</td>
-<td colspan="2">Организация перевозок и управление движением на транспорте (по отраслям)</td>
-<td colspan="6">120206 3</td>
-<td colspan="4">Техник</td>
-<td colspan="5">20</td>
-<td colspan="3">20</td>
-<td colspan="3"></td>
-<td colspan="5">20</td>
+<td colspan="2">1202000</td>
+<td>Организация перевозок и управление движением на транспорте (по отраслям)</td>
+<td>120206 3</td>
+<td>Техник</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3">1201000</td>
-<td colspan="2">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="6">120111 3</td>
-<td colspan="4">Электромеханик</td>
-<td colspan="5">20</td>
-<td colspan="3">20</td>
-<td colspan="3"></td>
-<td colspan="5">20</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td>120111 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">40</td>
-<td colspan="3">40</td>
-<td colspan="3"></td>
-<td colspan="5">40</td>
+<td></td>
+<td></td>
+<td></td>
+<td>40</td>
+<td>40</td>
+<td></td>
+<td>40</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
+<td>2</td>
 <td colspan="2">Коммунальное государственное казенное предприятие «Восточно-Казахстанский сельскохозяйственный колледж»</td>
-<td colspan="3">1513000</td>
-<td colspan="2">Ветеринария</td>
-<td colspan="6">151306 3</td>
-<td colspan="4">Ветеринарный техник</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">1513000</td>
+<td>Ветеринария</td>
+<td>151306 3</td>
+<td>Ветеринарный техник</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">3</td>
+<td rowspan="2">3</td>
 <td colspan="2" rowspan="2">Учреждение «Колледж права и бизнеса»</td>
-<td colspan="3">1206000</td>
-<td colspan="2">Организация дорожного движения</td>
-<td colspan="6">120602 3</td>
-<td colspan="4">Техник</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">1206000</td>
+<td>Организация дорожного движения</td>
+<td>120602 3</td>
+<td>Техник</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">1516000</td>
-<td colspan="2">Пожарная безопасность</td>
-<td colspan="6">151601 3</td>
-<td colspan="4">Инспектор пожарный</td>
-<td colspan="5">20</td>
-<td colspan="3">20</td>
-<td colspan="3"></td>
-<td colspan="5">20</td>
+<td colspan="2">1516000</td>
+<td>Пожарная безопасность</td>
+<td>151601 3</td>
+<td>Инспектор пожарный</td>
+<td>30</td>
+<td>30</td>
+<td></td>
+<td>30</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">45</td>
-<td colspan="3">45</td>
-<td colspan="3"></td>
-<td colspan="5">45</td>
+<td></td>
+<td></td>
+<td></td>
+<td>55</td>
+<td>55</td>
+<td></td>
+<td>55</td>
 </tr>
 <tr>
-<td colspan="3">4</td>
+<td>4</td>
 <td colspan="2">Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
-<td colspan="3">1201000</td>
-<td colspan="2">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td colspan="6">120111 3</td>
-<td colspan="4">Электромеханик</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td>120111 3</td>
+<td>Электромеханик</td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td></td>
+<td>20</td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2">5</td>
+<td rowspan="2">5</td>
 <td colspan="2" rowspan="2">Коммунальное государственное казенное предприятие «Колледж геодезии и картографии»</td>
-<td colspan="3">0713000</td>
-<td colspan="2">Геодезия и картография</td>
-<td colspan="6">071303 3</td>
-<td colspan="4">Техник- аэрофотогеодезист</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">0713000</td>
+<td>Геодезия и картография</td>
+<td>071303 3</td>
+<td>Техник-аэрофотогеодезист</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3">0713000</td>
-<td colspan="2">Геодезия и картография</td>
-<td colspan="6">071304 3</td>
-<td colspan="4">Техник-картограф</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">0713000</td>
+<td>Геодезия и картография</td>
+<td>071304 3</td>
+<td>Техник-картограф</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">50</td>
-<td colspan="3">50</td>
-<td colspan="3"></td>
-<td colspan="5">50</td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+<td>50</td>
+<td></td>
+<td>50</td>
 </tr>
 <tr>
-<td colspan="3">6</td>
+<td>6</td>
 <td colspan="2">Коммунальное государственное казенное предприятие «Колледж строительства»</td>
-<td colspan="3">1401000</td>
-<td colspan="2">Строительство и эксплуатация зданий и сооружений</td>
-<td colspan="6">140121 3</td>
-<td colspan="4">Техник-строитель</td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td colspan="2">1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td>140121 3</td>
+<td>Техник-строитель</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="3"></td>
+<td></td>
 <td colspan="2">Итого</td>
-<td colspan="3"></td>
 <td colspan="2"></td>
-<td colspan="6"></td>
-<td colspan="4"></td>
-<td colspan="5">25</td>
-<td colspan="3">25</td>
-<td colspan="3"></td>
-<td colspan="5">25</td>
+<td></td>
+<td></td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td>25</td>
 </tr>
 <tr>
-<td colspan="20">Всего</td>
-<td colspan="5">210</td>
-<td colspan="3">210</td>
-<td colspan="3"></td>
-<td colspan="5">210</td>
+<td colspan="8">Всего</td>
+<td>210</td>
+<td>210</td>
+<td></td>
+<td>210</td>
+</tr>
+</table>
+
+> *Приложение 4*  
+> *к постановлению*  
+> *Восточно-Казахстанского*  
+> *областного акимата*  
+> *от «13» октября 2017 года № 267*
+
+## Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год по «Программе развития продуктивной занятости и массового предпринимательства на 2017-2021 годы» (из республиканского бюджета)
+
+> *Сноска. Постановление дополнено приложением 4 в соответствии с постановлением Восточно-Казахстанского областного акимата от 13.10.2017 № 267 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<td rowspan="4">№</td>
+<td rowspan="4">Наименование учреждения</td>
+<td rowspan="4">Код</td>
+<td rowspan="4">Наименование специальности</td>
+<td colspan="2" rowspan="4">Код</td>
+<td rowspan="4">Квалификация</td>
+<td rowspan="4">Кол-во мест</td>
+<td rowspan="4">В том числе с казахским языком обучения</td>
+<td rowspan="4">
+На базе
+9 класса
+</td>
+<td rowspan="4">
+На базе
+11 класса
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td rowspan="3">1</td>
+<td rowspan="3">Учреждение «Колледж имени Кумаша Нургалиева»</td>
+<td>0402000</td>
+<td>Дизайн (по профилю)</td>
+<td colspan="2">040202 2</td>
+<td>Исполнитель художественно-оформительских работ</td>
+<td>35</td>
+<td>0</td>
+<td>15</td>
+<td>20</td>
+</tr>
+<tr>
+<td>0511000</td>
+<td>Туризм (по отраслям)</td>
+<td colspan="2">051102 2</td>
+<td>Экскурсовод</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1219000</td>
+<td>Хлебопекарное, макаронное и кондитерское производство</td>
+<td colspan="2">121909 2</td>
+<td>Кондитер</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>75</td>
+<td>20</td>
+<td>35</td>
+<td>40</td>
+</tr>
+<tr>
+<td rowspan="3">2</td>
+<td rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский многопрофильный технологический колледж»</td>
+<td>0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050802 2</td>
+<td>Кондитер</td>
+<td>42</td>
+<td>0</td>
+<td>42</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1011000</td>
+<td>Автоматические линии и агрегатные станки</td>
+<td colspan="2">101103 2</td>
+<td>Аппаратчик-гидрометаллург</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110901 2</td>
+<td>Токарь</td>
+<td>23</td>
+<td>23</td>
+<td>0</td>
+<td>23</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>77</td>
+<td>23</td>
+<td>42</td>
+<td>35</td>
+</tr>
+<tr>
+<td rowspan="3">3</td>
+<td rowspan="3">Коммунальное государственное учреждение «Зыряновский технологический колледж»</td>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050801 2</td>
+<td>Повар</td>
+<td>15</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0510000</td>
+<td>Делопроизводство и архивоведение (по отраслям и областям применения)</td>
+<td colspan="2">051001 2</td>
+<td>Секретарь-референт</td>
+<td>15</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td>50</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Коммунальное государственное казенное предприятие «Колледж бизнеса и сервиса»</td>
+<td>0508000</td>
+<td>Организация питания</td>
+<td colspan="2">050804 2</td>
+<td>Официант</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td rowspan="2">Коммунальное государственное учреждение «Риддерский многопрофильный колледж»</td>
+<td>0706000</td>
+<td>Открытая разработка месторождений полезных ископаемых</td>
+<td colspan="2">070619 2</td>
+<td>Машинист бульдозера</td>
+<td>26</td>
+<td>0</td>
+<td>26</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>26</td>
+<td>0</td>
+<td>26</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>52</td>
+<td>0</td>
+<td>52</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">6</td>
+<td rowspan="3">Коммунальное государственное учреждение «Самарский аграрно-технический колледж»</td>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150404 2</td>
+<td>Повар</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+</tr>
+<tr>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1501000</td>
+<td>Техническое обслуживание и ремонт сельскохозяйственной техники</td>
+<td colspan="2">150101 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>12</td>
+<td>0</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>55</td>
+<td>25</td>
+<td>12</td>
+<td>43</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2">Учреждение «Гуманитарно-технический колледж»</td>
+<td>0705000</td>
+<td>Подземная разработка месторождений полезных ископаемых</td>
+<td colspan="2">070513 1</td>
+<td>Водитель погрузчика</td>
+<td>50</td>
+<td>0</td>
+<td>35</td>
+<td>15</td>
+</tr>
+<tr>
+<td>1304000</td>
+<td>Вычеслительная техника и програмное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>16</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>66</td>
+<td>0</td>
+<td>51</td>
+<td>15</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Коммунальное государственное казенное предприятие «Коледж строительства»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="2">9</td>
+<td rowspan="2">Коммунальное государственное казенное предприятие «Политехнический колледж города Аягоз»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140126 2</td>
+<td>Мастер общестроительных работ</td>
+<td>27</td>
+<td>27</td>
+<td>0</td>
+<td>27</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>52</td>
+<td>52</td>
+<td>25</td>
+<td>27</td>
+</tr>
+<tr>
+<td rowspan="4">10</td>
+<td rowspan="4">Коммунальное государственное казенное предприятие «Электротехнический колледж»</td>
+<td>0910000</td>
+<td>Электрическое и электромеханическое оборудование (по видам)</td>
+<td colspan="2">091002 2</td>
+<td>Электромонтажник по силовым сетям и электрооборудованию</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1013000</td>
+<td>Механообработка, контрольно-измерительные приборы и автоматика в промышленности</td>
+<td colspan="2">101305 2</td>
+<td>Наладчик контрольно-измерительных приборов и автоматики</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1302000</td>
+<td>Автоматизация и управление (по профилю)</td>
+<td colspan="2">130201 2</td>
+<td>Слесарь по контрольно-измерительным приборам и автоматике</td>
+<td>20</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0902000</td>
+<td>Электроснабжение (по отраслям)</td>
+<td colspan="2">090201 2</td>
+<td>Электромонтажник по распределительным устройствам</td>
+<td>50</td>
+<td>35</td>
+<td>0</td>
+<td>50</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>115</td>
+<td>80</td>
+<td>65</td>
+<td>50</td>
+</tr>
+<tr>
+<td rowspan="2">11</td>
+<td rowspan="2">Товарищество с ограниченной ответственностью «Колледж «Кайнар»</td>
+<td>1304000</td>
+<td>Вычеслительная техника и програмное обеспечение (по видам)</td>
+<td colspan="2">130401 2</td>
+<td>Оператор электронно-вычислительных машин</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1206000</td>
+<td>Организация дорожного движения</td>
+<td colspan="2">120601 2</td>
+<td>Инспектор дорожный</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>32</td>
+<td>32</td>
+<td>12</td>
+<td>20</td>
+</tr>
+<tr>
+<td rowspan="3">12</td>
+<td rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж строительства»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111401 2</td>
+<td>Сварщик (всех наименований)</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>50</td>
+<td>0</td>
+<td>50</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140125 2</td>
+<td>Мастер отделочных строительных работ</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>100</td>
+<td>0</td>
+<td>100</td>
+<td>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Коммунальное государственное казенное предприятие «Усть-Каменогорский политехнический колледж»</td>
+<td>0911000</td>
+<td>Техническая эксплуатация, обслуживание и ремонт электрического и электромеханического оборудования (по видам)</td>
+<td colspan="2">091103 2</td>
+<td>Электромонтер по ремонту и обслуживанию электрооборудования</td>
+<td>59</td>
+<td>31</td>
+<td>59</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>59</td>
+<td>31</td>
+<td>59</td>
+<td>0</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Учреждение «Восточный техническо-гуманитарный колледж»</td>
+<td>1014000</td>
+<td>Технология машиностроения (по видам)</td>
+<td colspan="2">101403 2</td>
+<td>Слесарь-ремонтник</td>
+<td>45</td>
+<td>25</td>
+<td>45</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>45</td>
+<td>25</td>
+<td>45</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="4">15</td>
+<td rowspan="4">Коммунальное государственное казенное предприятие «Восточно-Казахстанский технологический колледж»</td>
+<td>1109000</td>
+<td>Токарное дело и металлообработка (по видам)</td>
+<td colspan="2">110910 2</td>
+<td>Станочник широкого профиля</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121106 2</td>
+<td>Портной</td>
+<td>50</td>
+<td>25</td>
+<td>50</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140216 2</td>
+<td>Машинист крана автомобильного</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>115</td>
+<td>65</td>
+<td>115</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="2">16</td>
+<td rowspan="2">Коммунальное государственное учреждение «Глубоковский технический колледж»</td>
+<td>1112000</td>
+<td>Эксплуатация машин и оборудования промышленности</td>
+<td colspan="2">111203 2</td>
+<td>Слесарь-ремонтник</td>
+<td>24</td>
+<td>0</td>
+<td>24</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>27</td>
+<td>27</td>
+<td>27</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>51</td>
+<td>27</td>
+<td>51</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="2">17</td>
+<td rowspan="2">Коммунальное государственное учреждение «Бородулихинский колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>21</td>
+<td>0</td>
+<td>21</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>19</td>
+<td>0</td>
+<td>19</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>40</td>
+<td>0</td>
+<td>40</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">18</td>
+<td rowspan="3">Коммунальное государственное учреждение «Глубоковский аграрный колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>11</td>
+<td>0</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1501000</td>
+<td>Техническое обслуживание и ремонт сельскохозяйственной техники</td>
+<td colspan="2">150102 2</td>
+<td>Мастер по эксплуатации и ремонту машин и механизмов</td>
+<td>16</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150404 2</td>
+<td>Повар</td>
+<td>13</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>40</td>
+<td>0</td>
+<td>40</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">19</td>
+<td rowspan="3">Коммунальное государственное учреждение «Жарминский технологический колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>24</td>
+<td>24</td>
+<td>0</td>
+<td>24</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>17</td>
+<td>17</td>
+<td>17</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151302 2</td>
+<td>Оператор по искусственному осеменению животных и птиц</td>
+<td>24</td>
+<td>24</td>
+<td>24</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>65</td>
+<td>65</td>
+<td>41</td>
+<td>24</td>
+</tr>
+<tr>
+<td rowspan="4">20</td>
+<td rowspan="4">Коммунальное государственное учреждение «Зайсанский технологический колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>17</td>
+<td>17</td>
+<td>17</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150409 2</td>
+<td>Электромонтер по обслуживанию электроборудования</td>
+<td>22</td>
+<td>22</td>
+<td>0</td>
+<td>22</td>
+</tr>
+<tr>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151303 2</td>
+<td>Санитар ветеринарный</td>
+<td>15</td>
+<td>15</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>79</td>
+<td>79</td>
+<td>32</td>
+<td>47</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Коммунальное государственное учреждение «Зыряновский сельскохозяйственный колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111401 2</td>
+<td>Сварщик (всех наименований)</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td rowspan="2">22</td>
+<td rowspan="2">Коммунальное государственное учреждение «Катон-Карагайский аграрно-технический колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>15</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>25</td>
+<td>12</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>40</td>
+<td>12</td>
+<td>40</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="3">23</td>
+<td rowspan="3">Коммунальное государственное учреждение «Шемонаихинский колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>27</td>
+<td>0</td>
+<td>27</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1201000</td>
+<td>Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
+<td colspan="2">120107 2</td>
+<td>Слесарь по ремонту автомобилей</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+</tr>
+<tr>
+<td>1401000</td>
+<td>Строительство и эксплуатация зданий и сооружений</td>
+<td colspan="2">140101 2</td>
+<td>Каменщик</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>68</td>
+<td>0</td>
+<td>52</td>
+<td>16</td>
+</tr>
+<tr>
+<td rowspan="2">24</td>
+<td rowspan="2">Коммунальное государственное учреждение «Урджарский колледж»</td>
+<td>1114000</td>
+<td>Сварочное дело (по видам)</td>
+<td colspan="2">111404 2</td>
+<td>Электрогазосварщик</td>
+<td>20</td>
+<td>20</td>
+<td>0</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>45</td>
+<td>45</td>
+<td>25</td>
+<td>20</td>
+</tr>
+<tr>
+<td rowspan="2">25</td>
+<td rowspan="2">Коммунальное государственное учреждение «Индустриально-технологический колледж»</td>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150408 2</td>
+<td>Водитель автомобиля</td>
+<td>25</td>
+<td>0</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td>1402000</td>
+<td>Техническая эксплуатация дорожно-строительных машин (по видам)</td>
+<td colspan="2">140202 2</td>
+<td>Машинист бульдозера</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>25</td>
+<td>0</td>
+<td>50</td>
+</tr>
+<tr>
+<td rowspan="3">26</td>
+<td rowspan="3">Коммунальное государственное учреждение «Усть-Каменогорский колледж cферы обслуживания»</td>
+<td>1211000</td>
+<td>Швейное производство и моделирование одежды</td>
+<td colspan="2">121107 2</td>
+<td>Модельер-закройщик</td>
+<td>47</td>
+<td>22</td>
+<td>25</td>
+<td>22</td>
+</tr>
+<tr>
+<td>0506000</td>
+<td>Парикмахерское искусство и декоративная косметика</td>
+<td colspan="2">050601 2</td>
+<td>Парикмахер-модельер</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0511000</td>
+<td>Туризм (по отраслям)</td>
+<td colspan="2">051103 2</td>
+<td>Туристический агент</td>
+<td>17</td>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>89</td>
+<td>22</td>
+<td>50</td>
+<td>39</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Коммунальное государственное казенное предприятие «Колледж радиотехники и связи»</td>
+<td>1306000</td>
+<td>Радиоэлектроника и связь (по видам)</td>
+<td colspan="2">130601 2</td>
+<td>Электромонтер по телекоммуникационным сетям и системам</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Коммунальное государственное казенное предприятие «Восточно-Казахстанский сельскохозяйственный колледж»</td>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151304 2</td>
+<td>Лаборант</td>
+<td>32</td>
+<td>32</td>
+<td>17</td>
+<td>15</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>32</td>
+<td>32</td>
+<td>17</td>
+<td>15</td>
+</tr>
+<tr>
+<td rowspan="2">29</td>
+<td rowspan="2">Коммунальное государственное учреждение «Бескарагайский колледж»</td>
+<td>1508000</td>
+<td>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
+<td colspan="2">150805 2</td>
+<td>Лесник</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1501000</td>
+<td>Техническое обслуживание и ремонт сельскохозяйственной техники</td>
+<td colspan="2">150101 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>25</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>50</td>
+<td>25</td>
+<td>50</td>
+<td>0</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Коммунальное государственное учреждение «Курчумский колледж»</td>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150406 2</td>
+<td>Тракторист-машинист сельскохозяйственного производства</td>
+<td>25</td>
+<td>25</td>
+<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>13</td>
+<td>12</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Учреждение «Колледж агробизнеса и экономики Казпотребсоюза»</td>
+<td>1508000</td>
+<td>Лесное хозяйство, садово-парковое и ландшафтное строительство (по видам)</td>
+<td colspan="2">150803 2</td>
+<td>Озеленитель по ландшафтному дизайну</td>
+<td>26</td>
+<td>15</td>
+<td>26</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>26</td>
+<td>15</td>
+<td>26</td>
+<td>0</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Коммунальное государственное учреждение «Абайский колледж»</td>
+<td>1513000</td>
+<td>Ветеринария</td>
+<td colspan="2">151301 2</td>
+<td>Оператор по ветеринарной обработке животных</td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Коммунальное государственное учреждение «Тарбагатайский колледж»</td>
+<td>1504000</td>
+<td>Фермерское хозяйство (по профилю)</td>
+<td colspan="2">150404 2</td>
+<td>Повар</td>
+<td>27</td>
+<td>27</td>
+<td>0</td>
+<td>27</td>
+</tr>
+<tr>
+<td></td>
+<td>Итого</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>27</td>
+<td>27</td>
+<td>0</td>
+<td>27</td>
+</tr>
+<tr>
+<td></td>
+<td>Всего по колледжам</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>1730</td>
+<td>842</td>
+<td>1185</td>
+<td>545</td>
 </tr>
 </table>
 
