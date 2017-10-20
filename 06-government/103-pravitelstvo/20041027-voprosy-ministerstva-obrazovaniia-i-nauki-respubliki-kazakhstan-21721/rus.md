@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21721/rus/22.08.2017
+source: https://zan.gov.kz/client/#!/doc/21721/rus/20.10.2017
 ---
 
 # Вопросы Министерства образования и науки Республики Казахстан
