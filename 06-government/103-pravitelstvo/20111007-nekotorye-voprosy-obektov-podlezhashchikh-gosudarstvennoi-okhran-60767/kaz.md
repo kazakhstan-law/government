@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60767/kaz/29.12.2016
+source: https://zan.gov.kz/client/#!/doc/60767/kaz/09.11.2017
 ---
 
 # Мемлекеттік күзетілуі тиіс объектілердің кейбір мәселелері
