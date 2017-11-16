@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/103865/kaz/29.06.2017
+source: https://zan.gov.kz/client/#!/doc/103865/kaz/16.11.2017
 ---
 
 > *Қарағанды облысы әкімдігінің*  
