@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93346/kaz/04.11.2016
+source: https://zan.gov.kz/client/#!/doc/93346/kaz/29.11.2017
 ---
 
 > *2015 жылғы «21» шілдедегі № 187*  
