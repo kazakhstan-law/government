@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
+source: https://zan.gov.kz/client/#!/doc/111373/rus/13.12.2017
 ---
 
 # Об утверждении нормативов и объемов субсидий по направлениям субсидирования развития племенного животноводства, повышения продуктивности и качества продукции животноводства на 2017 год
@@ -74,17 +74,16 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 > *от 28 марта 2017 года*  
 > *№ 152*
 
-# Объемы субсидий по направлениям субсидирования развития племенного животноводства, повышения продуктивности и качества продукции животноводства на 2017 год
+## Объемы субсидий по направлениям субсидирования развития племенного животноводства, повышения продуктивности и качества продукции животноводства на 2017 год
+
+> *Сноска. Приложение 2 - в редакции постановления акимата Костанайской области от 13.12.2017 № 630 (вводится в действие после дня его первого официального опубликования и распространяется на отношения, возникшие с 01.06.2017).*
 
 <table>
 <tr>
 <td>№</td>
 <td>Направление субсидирования</td>
-<td colspan="2">
-Единица
-измерения
-</td>
-<td colspan="2">Субсидируемый объем</td>
+<td colspan="2">Единица измерения</td>
+<td colspan="3">Субсидируемый объем</td>
 <td colspan="2">Сумма субсидий, тенге</td>
 </tr>
 <tr>
@@ -95,23 +94,22 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <td>5</td>
 </tr>
 <tr>
-<td colspan="8">Мясное скотоводство</td>
+<td colspan="9">Мясное скотоводство</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="7">Ведение селекционной и племенной работы</td>
+<td>1.</td>
+<td colspan="8">Ведение селекционной и племенной работы</td>
 </tr>
 <tr>
 <td>1.1</td>
-<td colspan="5">Товарное маточное поголовье</td>
-<td colspan="2"></td>
+<td colspan="8">Товарное маточное поголовье</td>
 </tr>
 <tr>
 <td>1)</td>
 <td>Базовый норматив</td>
 <td colspan="2">голова</td>
-<td colspan="2">48 600</td>
-<td colspan="2">486 000 000</td>
+<td colspan="2">52 370</td>
+<td colspan="2">523 700 000</td>
 </tr>
 <tr>
 <td rowspan="3">2)</td>
@@ -123,28 +121,26 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <tr>
 <td>выход приплода от 80% включительно</td>
 <td colspan="2">голова</td>
-<td colspan="2">19 400</td>
-<td colspan="2">155 200 000</td>
+<td colspan="2">14 260</td>
+<td colspan="2">114 080 000</td>
 </tr>
 <tr>
 <td>выход приплода от 60% включительно</td>
 <td colspan="2">голова</td>
-<td colspan="2">29 200</td>
-<td colspan="2">175 200 000</td>
+<td colspan="2">4 945</td>
+<td colspan="2">29 670 000</td>
 </tr>
 <tr>
 <td>1.2</td>
-<td>Племенное маточное поголовье</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="5">Племенное маточное поголовье</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td>1)</td>
 <td>Базовый норматив</td>
 <td colspan="2">голова</td>
-<td colspan="2">20 146</td>
-<td colspan="2">201 460 000</td>
+<td colspan="2">19 275</td>
+<td colspan="2">192 750 000</td>
 </tr>
 <tr>
 <td rowspan="3">2)</td>
@@ -156,84 +152,25 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <tr>
 <td>выход приплода от 80% включительно</td>
 <td colspan="2">голова</td>
-<td colspan="2">8 116</td>
-<td colspan="2">162 320 000</td>
+<td colspan="2">7 587</td>
+<td colspan="2">151 740 000</td>
 </tr>
 <tr>
 <td>выход приплода от 70% включительно</td>
 <td colspan="2">голова</td>
-<td colspan="2">12 030</td>
-<td colspan="2">180 450 000</td>
+<td colspan="2">2 215</td>
+<td colspan="2">33 225 000</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Приобретение племенного крупного рогатого скота</td>
 <td colspan="2">голова</td>
-<td colspan="2">3 700</td>
-<td colspan="2">555 000 000</td>
+<td colspan="2">2 525</td>
+<td colspan="2">356 207 536</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Удешевление затрат откорма бычков</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>1)</td>
-<td>от 3000 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">1 200</td>
-<td colspan="2">54 000 000</td>
-</tr>
-<tr>
-<td>2)</td>
-<td>от 2500 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">1 000</td>
-<td colspan="2">40 000 000</td>
-</tr>
-<tr>
-<td>3)</td>
-<td>от 2000 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">1 050</td>
-<td colspan="2">36 750 000</td>
-</tr>
-<tr>
-<td>4)</td>
-<td>от 1500 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">1 100</td>
-<td colspan="2">33 000 000</td>
-</tr>
-<tr>
-<td>5)</td>
-<td>от 1000 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">1 100</td>
-<td colspan="2">27 500 000</td>
-</tr>
-<tr>
-<td>6)</td>
-<td>от 100 голов фактического откорма</td>
-<td colspan="2">голова</td>
-<td colspan="2">8 100</td>
-<td colspan="2">162 000 000</td>
-</tr>
-<tr>
-<td>7)</td>
-<td>сельскохозяйственные кооперативы</td>
-<td colspan="2">голова</td>
-<td colspan="2">5 000</td>
-<td colspan="2">100 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">2 368 880 000</td>
+<td colspan="6">Всего</td>
+<td colspan="2">1 401 372 536</td>
 </tr>
 <tr>
 <td colspan="8">Молочное и молочно-мясное скотоводство</td>
@@ -250,229 +187,202 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <td>1)</td>
 <td>Базовый норматив</td>
 <td colspan="2">голова</td>
-<td colspan="2">15 780</td>
-<td colspan="2">157 800 000</td>
+<td colspan="2">14 881</td>
+<td colspan="2">148 810 000</td>
 </tr>
 <tr>
-<td rowspan="3">2)</td>
+<td rowspan="2">2)</td>
 <td>Дополнительный норматив:</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>выход приплода от 80% включительно</td>
-<td colspan="2">голова</td>
-<td colspan="2">7 300</td>
-<td colspan="2">146 000 000</td>
-</tr>
-<tr>
 <td>выход приплода от 70% включительно</td>
 <td colspan="2">голова</td>
-<td colspan="2">8 480</td>
-<td colspan="2">127 200 000</td>
+<td colspan="2">5 369</td>
+<td colspan="2">107 380 000</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Приобретение племенного крупного рогатого скота</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="7">Приобретение племенного крупного рогатого скота</td>
 </tr>
 <tr>
 <td>1)</td>
 <td>племенной крупный рогатый скот отечественных хозяйств</td>
 <td colspan="2">голова</td>
-<td colspan="2">215</td>
-<td colspan="2">36 550 000</td>
-</tr>
-<tr>
-<td rowspan="3">2)</td>
-<td>импортированный племенной крупный рогатый скот</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>из стран Австралии, США, Канады</td>
-<td colspan="2">голова</td>
-<td colspan="2">10</td>
-<td colspan="2">2 250 000</td>
-</tr>
-<tr>
-<td>из стран Европы и СНГ</td>
-<td colspan="2">голова</td>
-<td colspan="2">104</td>
-<td colspan="2">15 600 000</td>
+<td colspan="2">101</td>
+<td colspan="2">16 419 000</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Удешевление стоимости производства молока:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="7">Удешевление стоимости производства и заготовки молока:</td>
 </tr>
 <tr>
 <td>1)</td>
 <td>хозяйства с фуражным поголовьем от 400 голов</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">18 499 930</td>
-<td colspan="2">462 498 250</td>
+<td colspan="2">39 397 983</td>
+<td colspan="2">984 949 575</td>
 </tr>
 <tr>
 <td>2)</td>
 <td>хозяйства с фуражным поголовьем от 50 голов</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">25 520 560</td>
-<td colspan="2">382 808 400</td>
+<td colspan="2">15 893 780</td>
+<td colspan="2">240 583 130</td>
 </tr>
 <tr>
 <td>3)</td>
-<td>сельскохозяйственные кооперативы</td>
+<td>сельскохозяйственный кооператив</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">6 000 000</td>
-<td colspan="2">60 000 000</td>
+<td colspan="2">10 734 727</td>
+<td colspan="2">107 347 270</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1 390 706 650</td>
+<td colspan="6">Всего</td>
+<td colspan="2">1 605 488 975</td>
 </tr>
 <tr>
 <td colspan="8">Скотоводство</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Организация искусственного осеменения маточного поголовья крупного рогатого скота в личных подсобных хозяйствах и сельскохозяйственных кооперативах</td>
+<td colspan="7">Удешевление затрат откорма бычков</td>
+</tr>
+<tr>
+<td>1)</td>
+<td>от 3000 голов фактического откорма</td>
 <td colspan="2">голова</td>
-<td colspan="2">7 300</td>
-<td colspan="2">45 931 600</td>
+<td colspan="2">2 511</td>
+<td colspan="2">112 995 000</td>
+</tr>
+<tr>
+<td>2)</td>
+<td>от 2000 голов фактического откорма</td>
+<td colspan="2">голова</td>
+<td colspan="2">896</td>
+<td colspan="2">31 347 023</td>
+</tr>
+<tr>
+<td>3)</td>
+<td>от 1500 голов фактического откорма</td>
+<td colspan="2">голова</td>
+<td colspan="2">596</td>
+<td colspan="2">17 880 000</td>
+</tr>
+<tr>
+<td>4)</td>
+<td>от 100 голов фактического откорма</td>
+<td colspan="2">голова</td>
+<td colspan="2">3 078</td>
+<td colspan="2">61 558 000</td>
+</tr>
+<tr>
+<td>5)</td>
+<td>для сельскохозяйственных кооперативов</td>
+<td colspan="2">голова</td>
+<td colspan="2">10</td>
+<td colspan="2">200 000</td>
 </tr>
 <tr>
 <td>2.</td>
+<td>Организация искусственного осеменения маточного поголовья крупного рогатого скота в личных подсобных хозяйствах и сельскохозяйственных кооперативах, а также в крестьянских (фермерских) хозяйствах, занимающихся разведением каракульских пород овец</td>
+<td colspan="2">голова</td>
+<td colspan="2">6 197</td>
+<td colspan="2">38 991 524</td>
+</tr>
+<tr>
+<td>3.</td>
 <td>Содержание племенных быков-производителей мясных, молочных и молочно-мясных пород в общественных и товарных стадах</td>
 <td colspan="2">голова</td>
-<td colspan="2">373</td>
-<td colspan="2">37 300 000</td>
+<td colspan="2">467</td>
+<td colspan="2">46 700 000</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">83 231 600</td>
+<td colspan="6">Всего</td>
+<td colspan="2">309 671 547</td>
 </tr>
 <tr>
-<td colspan="8">Мясное птицеводство</td>
+<td colspan="9">Мясное птицеводство</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Удешевление стоимости производства мяса птицы (бройлер):</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="7">Удешевление стоимости производства мяса птицы (бройлер):</td>
 </tr>
 <tr>
 <td>1)</td>
 <td>фактическое производство от 1000 тонн</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">2 802 900</td>
-<td colspan="2">140 145 000</td>
+<td colspan="2">3 414 062</td>
+<td colspan="2">170 703 100</td>
 </tr>
 <tr>
-<td colspan="8">Яичное птицеводство</td>
+<td colspan="9">Яичное птицеводство</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Удешевление стоимости производства пищевого яйца:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="7">Удешевление стоимости производства пищевого яйца</td>
 </tr>
 <tr>
 <td>1)</td>
-<td>фактическое производство от 200 млн. штук</td>
+<td>фактическое производство от 200 миллион штук</td>
 <td colspan="2">штук</td>
-<td colspan="2">202 000 500</td>
-<td colspan="2">600 001 500</td>
+<td colspan="2">256 320 418</td>
+<td colspan="2">768 961 254</td>
 </tr>
 <tr>
 <td>2)</td>
-<td>фактическое производство от 100 млн. штук</td>
+<td>фактическое производство от 100 миллион штук</td>
 <td colspan="2">штук</td>
-<td colspan="2">100 000 100</td>
-<td colspan="2">250 000 250</td>
+<td colspan="2">75 872 104</td>
+<td colspan="2">189 680 260</td>
 </tr>
 <tr>
 <td>3)</td>
-<td>фактическое производство от 50 млн. штук</td>
+<td>фактическое производство от 50 миллион штук</td>
 <td colspan="2">штук</td>
-<td colspan="2">50 500 000</td>
-<td colspan="2">111 100 000</td>
+<td colspan="2">59 063 307</td>
+<td colspan="2">129 939 275</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">961 101 750</td>
+<td colspan="6">Всего</td>
+<td colspan="2">1 088 580 789</td>
 </tr>
 <tr>
-<td colspan="8">Свиноводство</td>
+<td colspan="9">Свиноводство</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Приобретение импортных племенных свиней</td>
+<td>Приобретение племенных свиней</td>
 <td colspan="2">голова</td>
-<td colspan="2">10</td>
-<td colspan="2">750 000</td>
+<td colspan="2">20</td>
+<td colspan="2">1 020 720</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Удешевление стоимости производства свинины:</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="7">Удешевление стоимости производства свинины</td>
 </tr>
 <tr>
 <td>1)</td>
 <td>фактический откорм от 3000 голов</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">800 000</td>
-<td colspan="2">80 000 000</td>
+<td colspan="2">391 972</td>
+<td colspan="2">39 197 200</td>
 </tr>
 <tr>
 <td>2)</td>
 <td>фактический откорм от 2000 голов</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">5 000</td>
-<td colspan="2">425 000</td>
+<td colspan="2">146 061</td>
+<td colspan="2">12 415 185</td>
 </tr>
 <tr>
-<td>3)</td>
-<td>фактический откорм от 1000 голов</td>
-<td colspan="2">килограмм</td>
-<td colspan="2">15 000</td>
-<td colspan="2">1 050 000</td>
+<td colspan="6">Всего</td>
+<td colspan="2">52 633 105</td>
 </tr>
 <tr>
-<td>4)</td>
-<td>фактический откорм от 500 голов</td>
-<td colspan="2">килограмм</td>
-<td colspan="2">10 000</td>
-<td colspan="2">550 000</td>
-</tr>
-<tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">82 775 000</td>
-</tr>
-<tr>
-<td colspan="8">Овцеводство</td>
+<td colspan="9">Овцеводство</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -482,15 +392,15 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <td>1)</td>
 <td>маточное поголовье племенных овец</td>
 <td colspan="2">голова</td>
-<td colspan="2">3 000</td>
-<td colspan="2">7 500 000</td>
+<td colspan="2">374</td>
+<td colspan="2">935 000</td>
 </tr>
 <tr>
 <td>2)</td>
 <td>маточное поголовье товарных овец</td>
 <td colspan="2">голова</td>
-<td colspan="2">8 400</td>
-<td colspan="2">12 600 000</td>
+<td colspan="2">4 390</td>
+<td colspan="2">6 585 000</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -500,83 +410,57 @@ source: https://zan.gov.kz/client/#!/doc/111373/rus/28.03.2017
 <td>1)</td>
 <td>ярки</td>
 <td colspan="2">голова</td>
-<td colspan="2">150</td>
-<td colspan="2">1 200 000</td>
+<td colspan="2">47</td>
+<td colspan="2">376 000</td>
 </tr>
 <tr>
 <td>2)</td>
-<td>бараны-производители</td>
+<td>бараны производители</td>
 <td colspan="2">голова</td>
-<td colspan="2">50</td>
-<td colspan="2">1 000 000</td>
+<td colspan="2">302</td>
+<td colspan="2">3 726 250</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Удешевление стоимости производства ягнятины</td>
-<td colspan="2">голова</td>
-<td colspan="2">100</td>
-<td colspan="2">150 000</td>
+<td colspan="6">Всего</td>
+<td colspan="2">11 622 250</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">22 450 000</td>
-</tr>
-<tr>
-<td colspan="8">Коневодство</td>
+<td colspan="9">Коневодство</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Приобретение племенных жеребцов</td>
 <td colspan="2">голова</td>
-<td colspan="2">30</td>
-<td colspan="2">3 000 000</td>
+<td colspan="2">58</td>
+<td colspan="2">5 800 000</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Приобретение племенного маточного поголовья</td>
 <td colspan="2">голова</td>
-<td colspan="2">20</td>
-<td colspan="2">800 000</td>
+<td colspan="2">48</td>
+<td colspan="2">1 920 000</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Удешевление стоимости производства и переработки кобыльего молока</td>
+<td>Удешевление стоимости производства и переработки кобыльего молока, в том числе для сельскохозяйственных кооперативов</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">22 000</td>
-<td colspan="2">4 202 000</td>
+<td colspan="2">10 232</td>
+<td colspan="2">1 954 312</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Удешевление стоимости производства конины</td>
 <td colspan="2">килограмм</td>
-<td colspan="2">38 000</td>
-<td colspan="2">12 236 000</td>
+<td colspan="2">22 148</td>
+<td colspan="2">7 131 656</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">20 238 000</td>
+<td colspan="6">Всего</td>
+<td colspan="2">16 805 968</td>
 </tr>
 <tr>
-<td colspan="8">Кормопроизводство</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Удешевление стоимости комбикормов, реализованных комбикормовыми заводами для сельскохозяйственных кооперативов, занимающихся производством животноводческой продукции</td>
-<td colspan="2">тонна</td>
-<td colspan="2">1 957</td>
-<td colspan="2">39 140 000</td>
-</tr>
-<tr>
-<td></td>
-<td>Итого</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">5 108 668 000</td>
+<td colspan="6">Итого</td>
+<td colspan="2">4 656 878 270</td>
 </tr>
 </table>
