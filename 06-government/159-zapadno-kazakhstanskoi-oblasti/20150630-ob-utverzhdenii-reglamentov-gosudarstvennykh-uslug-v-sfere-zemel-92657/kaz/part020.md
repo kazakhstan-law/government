@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92657/kaz/10.11.2016
+source: https://zan.gov.kz/client/#!/doc/92657/kaz/29.12.2017
 ---
 
 > *Батыс Қазақстан облысы әкімдігінің 2015 жылғы 30 маусымдағы №160 қаулысымен*  
