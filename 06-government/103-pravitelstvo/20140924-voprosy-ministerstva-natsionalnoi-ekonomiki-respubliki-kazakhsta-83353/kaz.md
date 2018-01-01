@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83353/kaz/26.12.2017
+source: https://zan.gov.kz/client/#!/doc/83353/kaz/01.01.2018
 ---
 
 # Қазақстан Республикасы Ұлттық экономика министрлігінің мәселелері
