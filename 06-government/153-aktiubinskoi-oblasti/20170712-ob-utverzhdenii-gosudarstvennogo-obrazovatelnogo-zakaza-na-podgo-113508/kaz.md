@@ -1,5 +1,5 @@
 ---
-version_id: '113508_204570'
+version_id: '113508_289723'
 act_code: '113508'
 language: kaz
 title: 2017-2018 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды даярлауға арналған мемлекеттік білім беру тапсырысын бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153000000001'
 approval_date: 2017-07-12
-version_date: 2017-07-12
+version_date: 2018-01-18
 registry_number: '113508'
-source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
+caused_by:
+  code: '118573'
+  title: Ақтөбе облысы әкімдігінің 2017 жылғы 12 шілдедегі № 234 «2017-2018 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды даярлауға арналған мемлекеттік білім беру тапсырысын бекіту туралы» қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/118573/kaz
+source: https://zan.gov.kz/client/#!/doc/113508/kaz
 ---
 
 # 2017-2018 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды даярлауға арналған мемлекеттік білім беру тапсырысын бекіту туралы
@@ -36,11 +40,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 **Б. Сапарбаев**
 
 > *Ақтөбе облысы әкімдігінің*  
-> *2017 жылғы «12» шілдедегі*  
+> *2017 жылғы 12 шілдедегі*  
 > *№ 234 қаулысына*  
 > *қосымша*
 
-# 2017 - 2018 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды даярлауға облыстық бюджет қаржысы есебінен мемлекеттік білім беру та псырысы
+# 2017-2018 оқу жылына техникалық және кәсіптік, орта білімнен кейінгі білімі бар мамандарды даярлауға облыстық бюджет қаржысы есебінен мемлекеттік білім беру тапсырысы
+
+> *Ескерту. Қосымша жаңа редакцияда – Ақтөбе облысының әкімдігінің 18.01.2018 № 21 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -56,27 +62,25 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>11 сынып</td>
 </tr>
 <tr>
-<th colspan="7">Ақтөбе қаласы</th>
+<td colspan="7">Ақтөбе қаласы</td>
 </tr>
 <tr>
-<th colspan="7">0100000 – Білім беру</th>
+<td colspan="7">0100000 – Білім беру</td>
 </tr>
 <tr>
-<td>1</td>
-<td>0101000</td>
+<td rowspan="2">1</td>
+<td rowspan="2">0101000</td>
 <td rowspan="2">Мектепке дейінгі тәрбие және оқыту</td>
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>2</td>
@@ -85,7 +89,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>3</td>
@@ -94,7 +98,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td rowspan="2">4</td>
@@ -103,13 +107,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>50</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>5</td>
@@ -118,7 +122,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>6</td>
@@ -127,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>7</td>
@@ -136,7 +140,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>8</td>
@@ -145,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>9</td>
@@ -154,19 +158,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>450</th>
-<th></th>
-<th>300</th>
-<th>150</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>450</td>
+<td></td>
+<td>300</td>
+<td>150</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0300000 – Медицина, фармацевтика</th>
+<td colspan="7">0300000 – Медицина, фармацевтика</td>
 </tr>
 <tr>
 <td>10</td>
@@ -175,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>11</td>
@@ -184,34 +188,31 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<td>12</td>
+<td>18</td>
 <td>0302000</td>
 <td>Медбикелік іс</td>
 <td>орысша</td>
 <td></td>
 <td>10</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<td>13</td>
-<td>0302000</td>
-<td>Медбикелік іс</td>
+<td rowspan="2">13</td>
+<td rowspan="2">0302000</td>
+<td rowspan="2">Медбикелік іс</td>
 <td>қазақша</td>
 <td>75</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>14</td>
@@ -220,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>15</td>
@@ -229,19 +230,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>260</th>
-<th></th>
-<th>100</th>
-<th>160</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>260</td>
+<td></td>
+<td>100</td>
+<td>160</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0400000 – Өнер және мәдениет</th>
+<td colspan="7">0400000 – Өнер және мәдениет</td>
 </tr>
 <tr>
 <td>16</td>
@@ -250,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>17</td>
@@ -259,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>18</td>
@@ -268,7 +269,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>20</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>19</td>
@@ -277,23 +278,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>7</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
-<td>20</td>
+<td rowspan="2">20</td>
 <td rowspan="2">0404000</td>
 <td rowspan="2">Аспаптық орындау және музыкалық өнер эстрадасы (түрлері бойынша)</td>
 <td>қазақша</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
-<td></td>
 <td>орысша</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>21</td>
@@ -302,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>2</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>22</td>
@@ -311,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>20</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td rowspan="2">23</td>
@@ -320,13 +320,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>2</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>қазақша</td>
 <td>5</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>24</td>
@@ -335,25 +335,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
-<td>25</td>
-<td>0407000</td>
-<td>Ән салу</td>
+<td rowspan="2">25</td>
+<td rowspan="2">0407000</td>
+<td rowspan="2">Ән салу</td>
 <td>қазақша</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>26</td>
@@ -362,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>4</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>27</td>
@@ -371,19 +368,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>175</th>
-<th></th>
-<th>125</th>
-<th>50</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>175</td>
+<td></td>
+<td>125</td>
+<td>50</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>28</td>
@@ -392,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>29</td>
@@ -401,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>30</td>
@@ -410,16 +407,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>75</th>
-<th></th>
-<th>75</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>75</td>
+<td></td>
+<td>75</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="7">0600000 – Метрология, стандарттау және сертификаттау</td>
@@ -427,23 +424,20 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <tr>
 <td>31</td>
 <td>0601000</td>
-<td>
-Метрология, стандарттау және сертификаттау
-(салалар бойынша)
-</td>
+<td>Метрология, стандарттау және сертификаттау (салалар бойынша)</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28442</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td colspan="7">0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды шығару</td>
@@ -455,20 +449,20 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="6">0800000 - Мұнай газ және химия өндірісі</th>
+<td></td>
+<td colspan="6">0800000 - Мұнай газ және химия өндірісі</td>
 </tr>
 <tr>
 <td>33</td>
@@ -477,7 +471,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>34</td>
@@ -486,19 +480,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0900000 - Энергетика</th>
+<td colspan="7">0900000 - Энергетика</td>
 </tr>
 <tr>
 <td>35</td>
@@ -507,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
 <td>36</td>
@@ -516,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>50</td>
 <td>50</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>37</td>
@@ -525,7 +519,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>17800</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>38</td>
@@ -534,23 +528,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
-<td>39</td>
+<td rowspan="2">39</td>
 <td rowspan="2">0910000</td>
 <td rowspan="2">Электр және электр механикалық жабдықтар (түрлері бойынша)</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
 <td>40</td>
@@ -559,19 +552,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>275</th>
-<th></th>
-<th>150</th>
-<th>125</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>275</td>
+<td></td>
+<td>150</td>
+<td>125</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия және машина жасау</th>
+<td colspan="7">1000000 - Металлургия және машина жасау</td>
 </tr>
 <tr>
 <td>41</td>
@@ -580,7 +573,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
 <td rowspan="2">42</td>
@@ -589,13 +582,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>43</td>
@@ -604,19 +597,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>100</th>
-<th></th>
-<th>100</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>100</td>
+<td></td>
+<td>100</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>44</td>
@@ -625,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>17800</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>45</td>
@@ -634,24 +627,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
-<td>46</td>
-<td>1108000</td>
+<td rowspan="2">46</td>
+<td rowspan="2">1108000</td>
 <td rowspan="2">Темір жол жылжымалы құрамдарын пайдалану, жөндеу және техникалық қызмет көрсету (түрлері бойынша)</td>
 <td>қазақша</td>
 <td>75</td>
 <td>75</td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>47</td>
@@ -660,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>48</td>
@@ -669,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>49</td>
@@ -678,35 +669,34 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>300</th>
-<th></th>
-<th>200</th>
-<th>100</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>300</td>
+<td></td>
+<td>200</td>
+<td>100</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</th>
+<td colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</td>
 </tr>
 <tr>
-<td>50</td>
+<td rowspan="2">50</td>
 <td rowspan="2">1201000</td>
 <td rowspan="2">Автомобиль көлігіне қызмет көрсету, жөндеу және пайдалану</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>51</td>
@@ -715,58 +705,52 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
-<td>52</td>
-<td>1201000</td>
+<td rowspan="2">52</td>
+<td rowspan="2">1201000</td>
 <td rowspan="2">Автомобиль көлігіне қызмет көрсету, жөндеу және пайдалану</td>
 <td>орысша</td>
 <td>50</td>
 <td>50</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>қазақша</td>
 <td>100</td>
 <td>75</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td>53</td>
-<td>1203000</td>
+<td rowspan="2">53</td>
+<td rowspan="2">1203000</td>
 <td rowspan="2">Теміржол көлігінде тасымалдауды ұйымдастыру және қозғалысты басқару</td>
 <td>қазақша</td>
 <td>50</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td>54</td>
+<td rowspan="2">54</td>
 <td rowspan="2">1211000</td>
-<td>Тігін өндірісі және киімдерді үлгілеу</td>
+<td rowspan="2">Тігін өндірісі және киімдерді үлгілеу</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>55</td>
@@ -775,7 +759,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>56</td>
@@ -784,23 +768,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td>57</td>
+<td rowspan="2">57</td>
 <td rowspan="2">1226000</td>
 <td rowspan="2">Тамақтандыру кәсіпорындарының өнім өндіру технологиясы және оны ұйымдастыруы</td>
 <td>қазақша</td>
 <td>50</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>58</td>
@@ -809,7 +792,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>59</td>
@@ -818,19 +801,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>675</th>
-<th></th>
-<th>475</th>
-<th>200</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>675</td>
+<td></td>
+<td>475</td>
+<td>200</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1300000 - Байланыс, телекоммуникация және ақпараттық технологиялар</th>
+<td colspan="7">1300000 - Байланыс, телекоммуникация және ақпараттық технологиялар</td>
 </tr>
 <tr>
 <td rowspan="2">60</td>
@@ -839,13 +822,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>75</td>
 <td>50</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>орысша</td>
 <td>50</td>
 <td>25</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td rowspan="2">61</td>
@@ -854,13 +837,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>50</td>
 <td>25</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>62</td>
@@ -869,24 +852,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>50</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
-<td>63</td>
+<td rowspan="2">63</td>
 <td rowspan="2">1305000</td>
-<td>Ақпараттық жүйелер</td>
+<td rowspan="2">Ақпараттық жүйелер (қолдану саласы бойынша)</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
-<td></td>
-<td>(қолдану саласы бойынша)</td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>64</td>
@@ -895,7 +876,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td>65</td>
@@ -904,23 +885,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
-<td>66</td>
+<td rowspan="2">66</td>
 <td rowspan="2">1309000</td>
 <td rowspan="2">Оптикалық және электрондық құрал-жабдықтар (түрлері бойынша)</td>
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
-<td></td>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td rowspan="2">67</td>
@@ -929,25 +909,25 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>25345</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>600</th>
-<th></th>
-<th>425</th>
-<th>175</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>600</td>
+<td></td>
+<td>425</td>
+<td>175</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>68</td>
@@ -956,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>69</td>
@@ -965,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>15</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>70</td>
@@ -974,7 +954,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>71</td>
@@ -983,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>72</td>
@@ -992,7 +972,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>17800</td>
+<td>36690</td>
 </tr>
 <tr>
 <td>73</td>
@@ -1001,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>36690</td>
 </tr>
 <tr>
 <td>74</td>
@@ -1010,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>75</td>
@@ -1019,7 +999,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>76</td>
@@ -1028,7 +1008,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>77</td>
@@ -1037,19 +1017,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>290</th>
-<th></th>
-<th>165</th>
-<th>125</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>290</td>
+<td></td>
+<td>165</td>
+<td>125</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>78</td>
@@ -1058,7 +1038,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>79</td>
@@ -1067,7 +1047,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>80</td>
@@ -1076,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>81</td>
@@ -1085,7 +1065,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>82</td>
@@ -1094,7 +1074,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>83</td>
@@ -1103,31 +1083,31 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>175</th>
-<th></th>
-<th>100</th>
-<th>75</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>175</td>
+<td></td>
+<td>100</td>
+<td>75</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы Ақтөбе қаласы бойынша: 3475</th>
-<th></th>
-<th>2290</th>
-<th>1185</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы Ақтөбе қаласы бойынша: 3475</td>
+<td></td>
+<td>2290</td>
+<td>1185</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Мұғалжар ауданы</th>
+<td colspan="7">Мұғалжар ауданы</td>
 </tr>
 <tr>
-<td colspan="7">1200000 - Өндіру, монтаждау, пайдалану және қызмет көрсету</td>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>84</td>
@@ -1139,7 +1119,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия және машина жасау</th>
+<td colspan="7">1000000 - Металлургия және машина жасау</td>
 </tr>
 <tr>
 <td>85</td>
@@ -1151,7 +1131,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>86</td>
@@ -1163,7 +1143,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">0100000 - Білім</th>
+<td colspan="7">0100000 - Білім</td>
 </tr>
 <tr>
 <td>87</td>
@@ -1172,22 +1152,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>100</th>
-<th></th>
-<th>75</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>100</td>
+<td></td>
+<td>75</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Қаргалы ауданы</th>
+<td colspan="7">Қаргалы ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>88</td>
@@ -1196,22 +1176,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td></td>
 <td>25</td>
-<td>45611</td>
+<td>115585</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>25</th>
-<th></th>
-<th>0</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>25</td>
+<td></td>
+<td>0</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Алға ауданы</th>
+<td colspan="7">Алға ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>89</td>
@@ -1220,10 +1200,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>30926</td>
+<td>35198</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>90</td>
@@ -1232,10 +1212,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>30926</td>
+<td>35198</td>
 </tr>
 <tr>
-<th colspan="7">0100000 - Білім</th>
+<td colspan="7">0100000 - Білім</td>
 </tr>
 <tr>
 <td>91</td>
@@ -1244,22 +1224,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>75</th>
-<th></th>
-<th>25</th>
-<th>50</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>75</td>
+<td></td>
+<td>25</td>
+<td>50</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Әйтеке би ауданы</th>
+<td colspan="7">Әйтеке би ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>92</td>
@@ -1271,7 +1251,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>48208</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>93</td>
@@ -1283,19 +1263,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>48208</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Байғанин ауданы</th>
+<td colspan="7">Байғанин ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</th>
+<td colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</td>
 </tr>
 <tr>
 <td>94</td>
@@ -1304,22 +1284,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>49566</td>
+<td>87940</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Қобда ауданы</th>
+<td colspan="7">Қобда ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>95</td>
@@ -1331,7 +1311,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>46496</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>96</td>
@@ -1343,19 +1323,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>46496</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Ойыл ауданы</th>
+<td colspan="7">Ойыл ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>97</td>
@@ -1364,7 +1344,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>49797</td>
+<td>78975</td>
 </tr>
 <tr>
 <td>98</td>
@@ -1373,22 +1353,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>49797</td>
+<td>78975</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Хромтау ауданы</th>
+<td colspan="7">Хромтау ауданы</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>99</td>
@@ -1397,10 +1377,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>қазақша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th colspan="7">0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру</th>
+<td colspan="7">0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру</td>
 </tr>
 <tr>
 <td>100</td>
@@ -1409,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>101</td>
@@ -1418,7 +1398,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>102</td>
@@ -1427,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>103</td>
@@ -1436,22 +1416,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>орысша</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>125</th>
-<th></th>
-<th>100</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>125</td>
+<td></td>
+<td>100</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Шалқар ауданы</th>
+<td colspan="7">Шалқар ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Өндіру, монтаждау, пайдалану және жөндеу (салалар бойынша)</th>
+<td colspan="7">1200000 - Өндіру, монтаждау, пайдалану және жөндеу (салалар бойынша)</td>
 </tr>
 <tr>
 <td>104</td>
@@ -1463,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>52467</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>105</td>
@@ -1475,35 +1455,35 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>52467</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы аудандар бойынша: 550</th>
-<th></th>
-<th>350</th>
-<th>200</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы аудандар бойынша: 550</td>
+<td></td>
+<td>350</td>
+<td>200</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы облыс бойынша: 4025</th>
-<th></th>
-<th>2640</th>
-<th>1385</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы облыс бойынша: 4025</td>
+<td></td>
+<td>2640</td>
+<td>1385</td>
+<td></td>
 </tr>
 </table>
 
-## 2017 - 2018 оқу жылындағы "Нәтежелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту" бағдарламасының мемлекеттік білім беру тапсырысы
+## 2017-2018 оқу жылындағы "Нәтежелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту" бағдарламасының мемлекеттік білім беру тапсырысы
 
 <table>
 <tr>
@@ -1519,10 +1499,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>11 сынып</td>
 </tr>
 <tr>
-<th colspan="7">Ақтөбе қаласы</th>
+<td colspan="7">Ақтөбе қаласы</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td rowspan="2">1</td>
@@ -1594,16 +1574,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>225</th>
-<th></th>
-<th>200</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>225</td>
+<td></td>
+<td>200</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия және машина жасау</th>
+<td colspan="7">1000000 - Металлургия және машина жасау</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1615,16 +1595,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1660,16 +1640,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>125</th>
-<th></th>
-<th>125</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>125</td>
+<td></td>
+<td>125</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</th>
+<td colspan="7">1200000 - Өндіру, құрастыру, пайдалану және жөндеу (салалары бойынша)</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1690,16 +1670,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1729,16 +1709,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>85</th>
-<th></th>
-<th>60</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>85</td>
+<td></td>
+<td>60</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1750,28 +1730,28 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>24 048</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>25</th>
-<th></th>
-<th>0</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>25</td>
+<td></td>
+<td>0</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы Ақтөбе қаласы бойынша: 535</th>
-<th></th>
-<th>460</th>
-<th>75</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы Ақтөбе қаласы бойынша: 535</td>
+<td></td>
+<td>460</td>
+<td>75</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Мұғалжар ауданы</th>
+<td colspan="7">Мұғалжар ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1801,7 +1781,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40 188</td>
 </tr>
 <tr>
-<th colspan="7">1300000 - Байланыс, телекоммуникация және ақпараттық технологиялар</th>
+<td colspan="7">1300000 - Байланыс, телекоммуникация және ақпараттық технологиялар</td>
 </tr>
 <tr>
 <td>19</td>
@@ -1813,7 +1793,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40 188</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1825,20 +1805,20 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>40 188</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>125</th>
-<th></th>
-<th>100</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>125</td>
+<td></td>
+<td>100</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="6">Каргалиский район</th>
+<td></td>
+<td colspan="6">Қарғалы ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>21</td>
@@ -1859,19 +1839,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>45 611</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Алға ауданы</th>
+<td colspan="7">Алға ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>23</td>
@@ -1883,7 +1863,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>30 926</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>24</td>
@@ -1904,20 +1884,20 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>30 926</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>75</th>
-<th></th>
-<th>50</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>75</td>
+<td></td>
+<td>50</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th colspan="6">Әйтеке би ауданы</th>
+<td></td>
+<td colspan="6">Әйтеке би ауданы</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>26</td>
@@ -1929,7 +1909,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>48 208</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>27</td>
@@ -1941,19 +1921,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>48 208</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Байғанин ауданы</th>
+<td colspan="7">Байғанин ауданы</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Көлік (салалары бойынша)</th>
+<td colspan="7">1100000 - Көлік (салалары бойынша)</td>
 </tr>
 <tr>
 <td>28</td>
@@ -1965,7 +1945,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>49 566</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>29</td>
@@ -1977,21 +1957,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>49 566</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Қобда ауданы</th>
+<td colspan="7">Қобда ауданы</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="5">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>30</td>
@@ -2003,9 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>46 421</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="5">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>31</td>
@@ -2017,19 +1993,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>46 421</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th colspan="4">1500000 - Ауыл шаруашылығы, ветеринария және экология</th>
-<th></th>
+<td colspan="7">Ойыл ауданы</td>
+</tr>
+<tr>
+<td colspan="7">1500000 - Ауыл шаруашылығы, ветеринария және экология</td>
 </tr>
 <tr>
 <td>32</td>
@@ -2041,19 +2017,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>49 797</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>25</th>
-<th></th>
-<th>0</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы</td>
+<td>25</td>
+<td></td>
+<td>0</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Хромтау ауданы</th>
+<td colspan="7">Хромтау ауданы</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Қызмет көрсету, экономика және басқару</th>
+<td colspan="7">0500000 - Қызмет көрсету, экономика және басқару</td>
 </tr>
 <tr>
 <td>33</td>
@@ -2065,8 +2041,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 519</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="6">0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру</th>
+<td colspan="7">0700000 - Геология, тау кен өндірісі және пайдалы қазбаларды өндіру</td>
 </tr>
 <tr>
 <td>34</td>
@@ -2087,16 +2062,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>29 519</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>75</th>
-<th></th>
-<th>75</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>75</td>
+<td></td>
+<td>75</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</th>
+<td colspan="7">Шалқар ауданы</td>
+</tr>
+<tr>
+<td colspan="7">1400000 - Құрылыс және коммуналдық шаруашылық</td>
 </tr>
 <tr>
 <td>36</td>
@@ -2117,30 +2095,30 @@ source: https://zan.gov.kz/client/#!/doc/113508/kaz/12.07.2017
 <td>52 467</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Барлығы:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы аудандар бойынша: 550</th>
-<th></th>
-<th>400</th>
-<th>150</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы аудандар бойынша: 550</td>
+<td></td>
+<td>400</td>
+<td>150</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Барлығы облыс бойынша: 1085</th>
-<th></th>
-<th>860</th>
-<th>225</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Барлығы облыс бойынша: 1085</td>
+<td></td>
+<td>860</td>
+<td>225</td>
+<td></td>
 </tr>
 </table>
