@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
+source: https://zan.gov.kz/client/#!/doc/113508/rus/18.01.2018
 ---
 
 # Об утверждении государственного образовательного заказа на подготовку специалистов с техническим и профессиональным, послесредним образованием на 2017-2018 учебный год
@@ -25,10 +25,11 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 > *Приложение*  
 > *к постановлению акимата*  
 > *Актюбинской области*  
-> *от «12» июля 2017 года*  
-> *№ 234*
+> *от 12 июля 2017 года № 234*
 
-# Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным образованием за счет средств областного бюджета на 2017- 2018 учебный год
+# Государственный образовательный заказ на подготовку специалистов с техническим и профессиональным образованием за счет средств областного бюджета на 2017-2018 учебный год
+
+> *Сноска. Приложение – в редакции постановления акимата Актюбинской области от 18.01.2018 № 21 (вводится в действие со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -44,10 +45,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>11 класс</td>
 </tr>
 <tr>
-<th colspan="7">город Актобе</th>
+<td colspan="7">город Актобе</td>
 </tr>
 <tr>
-<th colspan="7">0100000 – Образование</th>
+<td colspan="7">0100000 – Образование</td>
 </tr>
 <tr>
 <td rowspan="2">1</td>
@@ -56,13 +57,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>2</td>
@@ -71,7 +72,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>3</td>
@@ -80,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td rowspan="2">4</td>
@@ -89,13 +90,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>5</td>
@@ -104,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>6</td>
@@ -113,7 +114,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>7</td>
@@ -122,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>8</td>
@@ -131,7 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>9</td>
@@ -140,19 +141,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>450</th>
-<th></th>
-<th>300</th>
-<th>150</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>450</td>
+<td></td>
+<td>300</td>
+<td>150</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0300000 – Медицина, фармацевтика</th>
+<td colspan="7">0300000 – Медицина, фармацевтика</td>
 </tr>
 <tr>
 <td>10</td>
@@ -161,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>11</td>
@@ -170,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>12</td>
@@ -179,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td></td>
 <td>10</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td rowspan="2">13</td>
@@ -188,13 +189,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>75</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>14</td>
@@ -203,7 +204,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>15</td>
@@ -212,19 +213,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>260</th>
-<th></th>
-<th>100</th>
-<th>160</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>260</td>
+<td></td>
+<td>100</td>
+<td>160</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0400000 – Искусство и культура</th>
+<td colspan="7">0400000 – Искусство и культура</td>
 </tr>
 <tr>
 <td>16</td>
@@ -233,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>17</td>
@@ -242,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>18</td>
@@ -251,7 +252,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>20</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
 <td>19</td>
@@ -260,7 +261,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>7</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td rowspan="2">20</td>
@@ -269,13 +270,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>21</td>
@@ -284,7 +285,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>2</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>22</td>
@@ -293,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>20</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td rowspan="2">23</td>
@@ -302,13 +303,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>2</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>казахский</td>
 <td>5</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>24</td>
@@ -317,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td rowspan="2">25</td>
@@ -326,13 +327,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>3</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>26</td>
@@ -341,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>4</td>
 <td></td>
-<td>80603</td>
+<td>107466</td>
 </tr>
 <tr>
 <td>27</td>
@@ -350,19 +351,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>175</th>
-<th></th>
-<th>125</th>
-<th>50</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>175</td>
+<td></td>
+<td>125</td>
+<td>50</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Сервис, экономика и управление</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td>28</td>
@@ -371,7 +372,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>29</td>
@@ -380,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>30</td>
@@ -389,19 +390,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>75</th>
-<th></th>
-<th>75</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>75</td>
+<td></td>
+<td>75</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0600000 – Метрология, стандартизация и сертификация</th>
+<td colspan="7">0600000 – Метрология, стандартизация и сертификация</td>
 </tr>
 <tr>
 <td>31</td>
@@ -410,19 +411,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28442</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0700000 – Геология, горнодобывающая промышленность и добыча полезных ископаемых</th>
+<td colspan="7">0700000 – Геология, горнодобывающая промышленность и добыча полезных ископаемых</td>
 </tr>
 <tr>
 <td>32</td>
@@ -431,19 +432,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0800000 - Нефтегазовое химическое производство</th>
+<td colspan="7">0800000 - Нефтегазовое химическое производство</td>
 </tr>
 <tr>
 <td>33</td>
@@ -452,7 +453,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>34</td>
@@ -461,19 +462,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">0900000 - Энергетика</th>
+<td colspan="7">0900000 - Энергетика</td>
 </tr>
 <tr>
 <td>35</td>
@@ -482,7 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>38442</td>
 </tr>
 <tr>
 <td>36</td>
@@ -491,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td>50</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>37</td>
@@ -500,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>17800</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>38</td>
@@ -509,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
 <td rowspan="2">39</td>
@@ -518,13 +519,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
 <td>40</td>
@@ -533,19 +534,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28442</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>275</th>
-<th></th>
-<th>150</th>
-<th>125</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>275</td>
+<td></td>
+<td>150</td>
+<td>125</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия и машиностроение</th>
+<td colspan="7">1000000 - Металлургия и машиностроение</td>
 </tr>
 <tr>
 <td>41</td>
@@ -554,7 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
 <td rowspan="2">42</td>
@@ -563,13 +564,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>43</td>
@@ -578,19 +579,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>100</th>
-<th></th>
-<th>100</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>100</td>
+<td></td>
+<td>100</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>44</td>
@@ -599,7 +600,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>17800</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>45</td>
@@ -608,7 +609,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
 <td rowspan="2">46</td>
@@ -617,13 +618,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>75</td>
 <td>75</td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>47</td>
@@ -632,7 +633,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>38690</td>
 </tr>
 <tr>
 <td>48</td>
@@ -641,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>49</td>
@@ -650,19 +651,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>300</th>
-<th></th>
-<th>200</th>
-<th>100</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>300</td>
+<td></td>
+<td>200</td>
+<td>100</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</th>
+<td colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</td>
 </tr>
 <tr>
 <td rowspan="2">50</td>
@@ -671,13 +672,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>51</td>
@@ -686,7 +687,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td rowspan="2">52</td>
@@ -695,13 +696,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>50</td>
 <td>50</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>казахский</td>
 <td>100</td>
 <td>75</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td rowspan="2">53</td>
@@ -710,13 +711,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td rowspan="2">54</td>
@@ -725,13 +726,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>55</td>
@@ -740,7 +741,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>56</td>
@@ -749,7 +750,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td rowspan="2">57</td>
@@ -758,13 +759,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>58</td>
@@ -773,7 +774,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>59</td>
@@ -782,19 +783,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>675</th>
-<th></th>
-<th>475</th>
-<th>200</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>675</td>
+<td></td>
+<td>475</td>
+<td>200</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1300000 - Связь, телекоммуникации и информационные технологии</th>
+<td colspan="7">1300000 - Связь, телекоммуникации и информационные технологии</td>
 </tr>
 <tr>
 <td rowspan="2">60</td>
@@ -803,13 +804,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>75</td>
 <td>50</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>50</td>
 <td>25</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td rowspan="2">61</td>
@@ -818,13 +819,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td>25</td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>17800</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>62</td>
@@ -833,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>50</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
 <td rowspan="2">63</td>
@@ -842,13 +843,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>64</td>
@@ -857,7 +858,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td>65</td>
@@ -866,7 +867,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td rowspan="2">66</td>
@@ -875,13 +876,13 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>28542</td>
 </tr>
 <tr>
 <td rowspan="2">67</td>
@@ -890,25 +891,25 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>24048</td>
+<td>25345</td>
 </tr>
 <tr>
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>25345</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>600</th>
-<th></th>
-<th>425</th>
-<th>175</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>600</td>
+<td></td>
+<td>425</td>
+<td>175</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>68</td>
@@ -917,7 +918,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>69</td>
@@ -926,7 +927,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>15</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>70</td>
@@ -935,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>71</td>
@@ -944,7 +945,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>72</td>
@@ -953,7 +954,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>17800</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>73</td>
@@ -962,7 +963,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>27408</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>74</td>
@@ -971,7 +972,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>18507</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>75</td>
@@ -980,7 +981,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>76</td>
@@ -989,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>77</td>
@@ -998,19 +999,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>290</th>
-<th></th>
-<th>165</th>
-<th>125</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>290</td>
+<td></td>
+<td>165</td>
+<td>125</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>78</td>
@@ -1019,7 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>79</td>
@@ -1028,7 +1029,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>80</td>
@@ -1037,7 +1038,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>81</td>
@@ -1046,7 +1047,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>82</td>
@@ -1055,7 +1056,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
 <td>83</td>
@@ -1064,32 +1065,31 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td>25</td>
-<td>16761</td>
+<td>28869</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>175</th>
-<th></th>
-<th>100</th>
-<th>75</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>175</td>
+<td></td>
+<td>100</td>
+<td>75</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по городу Актобе: 3475</th>
-<th></th>
-<th>2290</th>
-<th>1185</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по городу Актобе: 3475</td>
+<td></td>
+<td>2290</td>
+<td>1185</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="6">Мугалжарский район</th>
-<th></th>
+<td colspan="7">Мугалжарский район</td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td>84</td>
@@ -1101,7 +1101,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия и машиностроение</th>
+<td colspan="7">1000000 - Металлургия и машиностроение</td>
 </tr>
 <tr>
 <td>85</td>
@@ -1113,7 +1113,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>86</td>
@@ -1125,7 +1125,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>40188</td>
 </tr>
 <tr>
-<th colspan="7">0100000 – Образование</th>
+<td colspan="7">0100000 – Образование</td>
 </tr>
 <tr>
 <td>87</td>
@@ -1134,22 +1134,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>100</th>
-<th></th>
-<th>75</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>100</td>
+<td></td>
+<td>75</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Каргалинский район</th>
+<td colspan="7">Каргалинский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>88</td>
@@ -1158,22 +1158,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td></td>
 <td>25</td>
-<td>45611</td>
+<td>115585</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>25</th>
-<th></th>
-<th>0</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>25</td>
+<td></td>
+<td>0</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Алгинский район</th>
+<td colspan="7">Алгинский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>89</td>
@@ -1182,10 +1182,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>30926</td>
+<td>35198</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>90</td>
@@ -1194,10 +1194,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>0</td>
 <td>25</td>
-<td>30926</td>
+<td>35198</td>
 </tr>
 <tr>
-<th colspan="7">0100000 – Образование</th>
+<td colspan="7">0100000 – Образование</td>
 </tr>
 <tr>
 <td>91</td>
@@ -1206,22 +1206,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>75</th>
-<th></th>
-<th>25</th>
-<th>50</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>75</td>
+<td></td>
+<td>25</td>
+<td>50</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Айтекебийский район</th>
+<td colspan="7">Айтекебийский район</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>92</td>
@@ -1233,7 +1233,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>48208</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>93</td>
@@ -1254,10 +1254,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<th colspan="7">Байганинский район</th>
+<td colspan="7">Байганинский район</td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</th>
+<td colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</td>
 </tr>
 <tr>
 <td>94</td>
@@ -1266,7 +1266,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>49566</td>
+<td>87940</td>
 </tr>
 <tr>
 <td></td>
@@ -1278,10 +1278,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<th colspan="7">Кобдинский район</th>
+<td colspan="7">Кобдинский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>95</td>
@@ -1293,7 +1293,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>46496</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>96</td>
@@ -1305,19 +1305,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>46496</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Уилский район</th>
+<td colspan="7">Уилский район</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>97</td>
@@ -1326,7 +1326,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>49797</td>
+<td>78975</td>
 </tr>
 <tr>
 <td>98</td>
@@ -1335,22 +1335,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>49797</td>
+<td>78975</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Хромтауский район</th>
+<td colspan="7">Хромтауский район</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Сервис, экономика и управление</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td>99</td>
@@ -1359,10 +1359,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>казахский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>24824</td>
 </tr>
 <tr>
-<th colspan="7">0700000 - Геология, горнодобывающая промышленность и добыча полезных ископаемых</th>
+<td colspan="7">0700000 - Геология, горнодобывающая промышленность и добыча полезных ископаемых</td>
 </tr>
 <tr>
 <td>100</td>
@@ -1371,7 +1371,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>101</td>
@@ -1380,7 +1380,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>102</td>
@@ -1389,7 +1389,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td>25</td>
 <td></td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
 <td>103</td>
@@ -1398,22 +1398,22 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td></td>
 <td>25</td>
-<td>24048</td>
+<td>27690</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>125</th>
-<th></th>
-<th>100</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>125</td>
+<td></td>
+<td>100</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Шалкарский район</th>
+<td colspan="7">Шалкарский район</td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</th>
+<td colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</td>
 </tr>
 <tr>
 <td>104</td>
@@ -1425,7 +1425,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>52467</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>105</td>
@@ -1437,35 +1437,35 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>52467</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по районам: 550</th>
-<th></th>
-<th>350</th>
-<th>200</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по районам: 550</td>
+<td></td>
+<td>350</td>
+<td>200</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по области: 4025</th>
-<th></th>
-<th>2640</th>
-<th>1385</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по области: 4025</td>
+<td></td>
+<td>2640</td>
+<td>1385</td>
+<td></td>
 </tr>
 </table>
 
-## Государственный образовательный заказ по "Программе развития продуктивной занятости и массового предпринимательства" на 2017- 2018 учебный год
+## Государственный образовательный заказ по "Программе развития продуктивной занятости и массового предпринимательства" на 2017-2018 учебный год
 
 <table>
 <tr>
@@ -1481,10 +1481,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>11 класс</td>
 </tr>
 <tr>
-<th colspan="7">город Актобе</th>
+<td colspan="7">город Актобе</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Сервис, экономика и управление</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td rowspan="2">1</td>
@@ -1553,40 +1553,40 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>русский</td>
 <td></td>
 <td>25</td>
-<td>29521</td>
+<td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>225</th>
-<th></th>
-<th>200</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>225</td>
+<td></td>
+<td>200</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1000000 - Металлургия и машиностроение</th>
+<td colspan="7">1000000 - Металлургия и машиностроение</td>
 </tr>
 <tr>
 <td>6</td>
 <td>1012000</td>
 <td>Гибкие автоматические линии</td>
-<td>Казахский</td>
+<td>казахский</td>
 <td>25</td>
 <td></td>
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>25</th>
-<th></th>
-<th>25</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>25</td>
+<td></td>
+<td>25</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1622,16 +1622,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>125</th>
-<th></th>
-<th>125</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>125</td>
+<td></td>
+<td>125</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</th>
+<td colspan="7">1200000 - Производство, монтаж, эксплуатация и ремонт (по отраслям)</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1652,16 +1652,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th>0</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td>0</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1691,16 +1691,16 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>29 521</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>85</th>
-<th></th>
-<th>60</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>85</td>
+<td></td>
+<td>60</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1712,28 +1712,28 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>24 048</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>25</th>
-<th></th>
-<th></th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по городу Актобе: 535</th>
-<th></th>
-<th>460</th>
-<th>75</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по городу Актобе: 535</td>
+<td></td>
+<td>460</td>
+<td>75</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Мугалжарский район</th>
+<td colspan="7">Мугалжарский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1763,7 +1763,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>40 188</td>
 </tr>
 <tr>
-<th colspan="7">1300000 - Связь, телекоммуникации и информационные технологии</th>
+<td colspan="7">1300000 - Связь, телекоммуникации и информационные технологии</td>
 </tr>
 <tr>
 <td>19</td>
@@ -1775,7 +1775,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>40 188</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Сервис, экономика и управление</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1796,19 +1796,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7">Каргалинский район</td>
 </tr>
 <tr>
-<th colspan="7">Каргалинский район</th>
-</tr>
-<tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>21</td>
@@ -1829,19 +1820,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>45 611</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>50</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>50</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Алгинский район</th>
+<td colspan="7">Алгинский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>23</td>
@@ -1853,7 +1844,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>30 926</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>24</td>
@@ -1874,19 +1865,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>30 926</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>75</th>
-<th></th>
-<th>50</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>75</td>
+<td></td>
+<td>50</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Айтекебийский район</th>
+<td colspan="7">Айтекебийский район</td>
 </tr>
 <tr>
-<th colspan="7">0500000 - Сервис, экономика и управление</th>
+<td colspan="7">0500000 - Сервис, экономика и управление</td>
 </tr>
 <tr>
 <td>26</td>
@@ -1898,7 +1889,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>48 208</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>27</td>
@@ -1919,10 +1910,10 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<th colspan="7">Байганинский район</th>
+<td colspan="7">Байганинский район</td>
 </tr>
 <tr>
-<th colspan="7">1100000 - Транспорт (по отраслям)</th>
+<td colspan="7">1100000 - Транспорт (по отраслям)</td>
 </tr>
 <tr>
 <td>28</td>
@@ -1934,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>49 566</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>29</td>
@@ -1946,19 +1937,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>49 566</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Кобдинский район</th>
+<td colspan="7">Кобдинский район</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>30</td>
@@ -1970,7 +1961,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>46 421</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1982,19 +1973,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>46 421</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Уилский район</th>
+<td colspan="7">Уилский район</td>
 </tr>
 <tr>
-<th colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</th>
+<td colspan="7">1500000 - Сельское хозяйство, ветеринария и экология</td>
 </tr>
 <tr>
 <td>32</td>
@@ -2015,15 +2006,6 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td colspan="7">Хромтауский район</td>
 </tr>
 <tr>
@@ -2039,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>29 519</td>
 </tr>
 <tr>
-<th colspan="7">0700000 - Геология, горнодобывающая промышленность и добыча полезных ископаемых</th>
+<td colspan="7">0700000 - Геология, горнодобывающая промышленность и добыча полезных ископаемых</td>
 </tr>
 <tr>
 <td>34</td>
@@ -2060,19 +2042,19 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>29 519</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>75</th>
-<th></th>
-<th>75</th>
-<th></th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>75</td>
+<td></td>
+<td>75</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<th colspan="7">Шалкарский район</th>
+<td colspan="7">Шалкарский район</td>
 </tr>
 <tr>
-<th colspan="7">1400000 - Строительство и коммунальное хозяйство</th>
+<td colspan="7">1400000 - Строительство и коммунальное хозяйство</td>
 </tr>
 <tr>
 <td>36</td>
@@ -2093,30 +2075,30 @@ source: https://zan.gov.kz/client/#!/doc/113508/rus/12.07.2017
 <td>52 467</td>
 </tr>
 <tr>
-<th></th>
-<th>Итого:</th>
-<th>50</th>
-<th></th>
-<th>25</th>
-<th>25</th>
-<th></th>
+<td></td>
+<td>Итого:</td>
+<td>50</td>
+<td></td>
+<td>25</td>
+<td>25</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по районам: 550</th>
-<th></th>
-<th>400</th>
-<th>150</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по районам: 550</td>
+<td></td>
+<td>400</td>
+<td>150</td>
+<td></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Итого по области: 1085</th>
-<th></th>
-<th>860</th>
-<th>225</th>
-<th></th>
+<td></td>
+<td></td>
+<td>Итого по области: 1085</td>
+<td></td>
+<td>860</td>
+<td>225</td>
+<td></td>
 </tr>
 </table>
