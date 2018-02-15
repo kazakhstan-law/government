@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/12.01.2018
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/15.02.2018
 ---
 
 # Қазақстан Республикасы Iшкi iстер министрлiгiнiң мәселелерi
