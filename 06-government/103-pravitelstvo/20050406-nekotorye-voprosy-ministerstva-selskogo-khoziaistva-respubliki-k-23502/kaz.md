@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/29.12.2017
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/04.04.2018
 ---
 
 # Қазақстан Республикасы Ауыл шаруашылығы министрлігінiң кейбiр мәселелерi
