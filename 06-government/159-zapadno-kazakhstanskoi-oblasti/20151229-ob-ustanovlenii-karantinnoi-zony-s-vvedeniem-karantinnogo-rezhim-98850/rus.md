@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
+source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 ---
 
 # Об установлении карантинной зоны с введением карантинного режима
@@ -23,11 +23,11 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 > *Приложение*  
 > *к постановлению акимата*  
 > *Западно-Казахстанской области*  
-> *от «29» декабря 2015 года №373*
+> *от 29 декабря 2015 года №373*
 
-# Карантинная зона с введением карантинного режима на территориях Акжаикского, Бурлинского, Жанибекского, Зеленовского, Казталовского, Сырымского, Таскалинского, Теректинского, Чингирлауского районов и города Уральска
+## Карантинная зона с введением карантинного режима на территориях Акжаикского, Бурлинского, Жанибекского, Зеленовского, Казталовского, Сырымского, Таскалинского, Теректинского, Чингирлауского районов и города Уральска
 
-> *Сноска. Приложение - в редакции постановления акимата Западно-Казахстанской области от 10.04.2017 № 92 (вводится в действие со дня первого официального опубликования).*
+> *Сноска. Приложение - в редакции постановления акимата Западно-Казахстанской области от 04.05.2018 № 96 (вводится в действие со дня первого официального опубликования).*
 
 <table>
 <tr>
@@ -40,9 +40,16 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td>Акжаикский</td>
 <td>Алгабасский</td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>184</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>КХ «Султанмурат»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>845</td>
+<td>661</td>
 </tr>
 <tr>
 <td></td>
@@ -61,7 +68,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Жанабулакский</td>
-<td>КХ «Дархан»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>800</td>
 </tr>
@@ -75,7 +82,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Кабыршактинский</td>
-<td>КХ «МТВ-Ноғай»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>2000</td>
 </tr>
@@ -208,7 +215,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Канайский</td>
-<td>ТОО «Шұғла»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>651</td>
 </tr>
@@ -228,17 +235,24 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 </tr>
 <tr>
 <td></td>
-<td>город Аксай</td>
-<td>ТОО «Аксайский комбинат хлебопродуктов»</td>
+<td></td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>614</td>
+</tr>
+<tr>
+<td></td>
+<td>город Аксай</td>
+<td>Станция Казахстан филиал АО «КТЖ-Грузовые перевозки»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>7992</td>
+<td>7983</td>
 </tr>
 <tr>
 <td></td>
@@ -248,11 +262,18 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>280</td>
 </tr>
 <tr>
+<td></td>
+<td>Бурлинский</td>
+<td>Бурлинское государственное учреждение по охране лесов и животного мира «Бурлинское лесничество»</td>
+<td>Lymantria dispar L. (asian race)</td>
+<td>150</td>
+</tr>
+<tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>280</td>
+<td>430</td>
 </tr>
 <tr>
 <td></td>
@@ -269,16 +290,30 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>30</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>Станция Казахстан филиал АО «КТЖ-Грузовые перевозки»</td>
+<td>Cuscuta sp.sp</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Карачаганак Петролиум Оперейтинг Б. В.»</td>
+<td>Cuscuta sp.sp</td>
+<td>20,3</td>
+</tr>
+<tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Cuscuta sp.sp</td>
-<td>80</td>
+<td>101,3</td>
 </tr>
 <tr>
 <td>Жанибекский</td>
 <td>Тауский</td>
-<td>ТОО «Қайрат»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>540</td>
 </tr>
@@ -294,7 +329,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>Таловский</td>
 <td>КХ «Сабанов»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>6660</td>
+<td>4285</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>2375</td>
 </tr>
 <tr>
 <td></td>
@@ -372,6 +414,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>КХ «Абат»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>420</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>ТОО «Акназар-Жайык»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>5,5</td>
 </tr>
 <tr>
 <td></td>
@@ -558,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Курбан»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>252</td>
 </tr>
@@ -600,7 +649,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Зорюшка»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>4</td>
 </tr>
@@ -623,7 +672,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>573</td>
+<td>329</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Дүйсен»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>244</td>
 </tr>
 <tr>
 <td></td>
@@ -684,7 +740,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Махамбетский</td>
-<td>КХ «Умаров Ф.А.»</td>
+<td>КХ «Мусрепов Ильяс Санатуллаевич»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>331</td>
 </tr>
@@ -750,6 +806,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>КХ «Милешкин М.Н.»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>415</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Зеленовский сортоиспытательный участок»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>236</td>
 </tr>
 <tr>
 <td></td>
@@ -819,7 +882,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>36078</td>
+<td>36319,5</td>
 </tr>
 <tr>
 <td></td>
@@ -833,21 +896,21 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td>село Дарьинск (пастбищный)</td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td></td>
 <td>Трекинский</td>
 <td>село Трекино (сенокосный)</td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>20</td>
+<td>30</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>55</td>
+<td>66</td>
 </tr>
 <tr>
 <td></td>
@@ -1043,7 +1106,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td>КХ «Нұр-С»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>484</td>
+<td>128</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Государственный земельный фонд</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>356</td>
 </tr>
 <tr>
 <td></td>
@@ -1139,7 +1209,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Амангелдинский</td>
-<td>ТОО «Чижа-1»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>425</td>
 </tr>
@@ -1153,9 +1223,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Галиев»</td>
+<td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>200</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -1218,7 +1288,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>10352</td>
+<td>10252</td>
 </tr>
 <tr>
 <td>Теректинский</td>
@@ -1247,6 +1317,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Виктория»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1356,7 +1433,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Шолан»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>483</td>
 </tr>
@@ -1407,12 +1484,19 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>738</td>
+<td>63</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Райымбек»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>675</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Ганиев Г.Г.»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>770</td>
 </tr>
@@ -1428,7 +1512,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>5859</td>
+<td>4908</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Тайбурыл»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>951</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,7 +1566,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Ахметов»</td>
+<td>КХ «Арлан»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>746</td>
 </tr>
@@ -1510,7 +1601,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Жаксимбетов Ибрагим Абилович»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>1766</td>
 </tr>
@@ -1617,12 +1708,12 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>53517,4</td>
+<td>53522,4</td>
 </tr>
 <tr>
 <td></td>
 <td>Долинский</td>
-<td>Теректинское государственное учреждение по охране лесов и животного мира «Долинское лесничество»</td>
+<td>Бурлинское государственное учреждение по охране лесов и животного мира «Долинское лесничество»</td>
 <td>Lymantria dispar L. (asian race)</td>
 <td>215</td>
 </tr>
@@ -1657,7 +1748,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Чингирлауский</td>
-<td>Чингирлауское государственное учреждение по охране лесов и животного мира «Шиелинское лесничество»</td>
+<td>Чингирлауское государственное учреждение по охране лесов и животного мира «Чиликское лесничество»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>146,4</td>
 </tr>
@@ -1685,7 +1776,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <tr>
 <td></td>
 <td>Чингирлауский</td>
-<td>Чингирлауское государственное учреждение по охране лесов и животного мира «Шиелинское лесничество»</td>
+<td>Чингирлауское государственное учреждение по охране лесов и животного мира «Чиликское лесничество»</td>
 <td>Lymantria dispar L. (asian race)</td>
 <td>29,6</td>
 </tr>
@@ -1827,28 +1918,28 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/10.04.2017
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>158089,8</td>
+<td>158237,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>55</td>
+<td>66</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Cuscuta sp.sp</td>
-<td>200,3</td>
+<td>221,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>1316,3</td>
+<td>1466,3</td>
 </tr>
 <tr>
 <td></td>
