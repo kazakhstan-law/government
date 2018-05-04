@@ -26,13 +26,14 @@
 
 **Н.Ноғаев**
 
-> *2015 жылғы «29» желтоқсандағы №373*  
-> *Батыс Қазақстан облысы әкімдігінің*  
-> *қаулысына қосымша*
+> *2015 жылғы 29 желтоқсандағы*  
+> *№373 Батыс Қазақстан облысы*  
+> *әкімдігінің қаулысына*  
+> *қосымша*
 
-# Ақжайық, Бөрлі, Жәнібек, Зеленов, Казталов, Сырым, Тасқала, Теректі, Шыңғырлау аудандарының және Орал қаласының аумақтарында карантиндік режим енгізілетін карантинді аймақ
+## Ақжайық, Бөрлі, Жәнібек, Зеленов, Казталов, Сырым, Тасқала, Теректі, Шыңғырлау аудандарының және Орал қаласының аумақтарында карантиндік режим енгізілетін карантинді аймақ
 
-> *Ескерту. Қосымша жаңа редакцияда - Батыс Қазақстан облысы әкімдігінің 10.04.2017 № 92 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
+> *Ескерту. Қосымша жаңа редакцияда -Батыс Қазақстан облысы әкімдігінің 04.05.2018 № 96 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -45,9 +46,16 @@
 <tr>
 <td>Ақжайық</td>
 <td>Алғабас</td>
+<td>Мемлекеттік жер қоры</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>184</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>«Сұлтанмұрат» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>845</td>
+<td>661</td>
 </tr>
 <tr>
 <td></td>
@@ -66,7 +74,7 @@
 <tr>
 <td></td>
 <td>Жаңабұлақ</td>
-<td>«Дархан» ШҚ</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>800</td>
 </tr>
@@ -80,7 +88,7 @@
 <tr>
 <td></td>
 <td>Қабыршақты</td>
-<td>«МТВ-Ноғай» ШҚ</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>2000</td>
 </tr>
@@ -213,7 +221,7 @@
 <tr>
 <td></td>
 <td>Қанай</td>
-<td>«Шұғла» ЖШС</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>651</td>
 </tr>
@@ -233,17 +241,24 @@
 </tr>
 <tr>
 <td></td>
-<td>Ақсай қаласы</td>
-<td>«Ақсай астық өнімдері комбинаты» ЖШС</td>
+<td></td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>614</td>
+</tr>
+<tr>
+<td></td>
+<td>Ақсай қаласы</td>
+<td>«ҚТЖ – жүк тасымалдау» АҚ филиалы Қазақстан бекеті</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1</td>
 </tr>
 <tr>
 <td>Жиынтығы:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>7982</td>
+<td>7983</td>
 </tr>
 <tr>
 <td></td>
@@ -253,11 +268,18 @@
 <td>280</td>
 </tr>
 <tr>
+<td></td>
+<td>Бөрлі</td>
+<td>Бөрлі орман және жануарлар дүниесін қорғау жөніндегі мемлекеттік мекемесі «Бөрлі орманшылығы»</td>
+<td>Lymantria dispar L. (asian race)</td>
+<td>150</td>
+</tr>
+<tr>
 <td>Жиынтығы:</td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>280</td>
+<td>430</td>
 </tr>
 <tr>
 <td></td>
@@ -274,16 +296,30 @@
 <td>30</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>«ҚТЖ – жүк тасымалдау» АҚ филиалы Қазақстан бекеті</td>
+<td>Cuscuta sp.sp</td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Қарашығанақ Петролиум Оперейтинг Б.В.»</td>
+<td>Cuscuta sp.sp</td>
+<td>20,3</td>
+</tr>
+<tr>
 <td>Жиынтығы:</td>
 <td></td>
 <td></td>
 <td>Cuscuta sp.sp</td>
-<td>80</td>
+<td>101,3</td>
 </tr>
 <tr>
 <td>Жәнібек</td>
 <td>Тау</td>
-<td>«Қайрат» ЖШС</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>540</td>
 </tr>
@@ -299,7 +335,14 @@
 <td>Талов</td>
 <td>«Сабанов» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>6660</td>
+<td>4285</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Мемлекеттік жер қоры</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>2375</td>
 </tr>
 <tr>
 <td></td>
@@ -377,6 +420,13 @@
 <td>«Абат» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>420</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Ақназар-Жайық» ЖШС</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>5,5</td>
 </tr>
 <tr>
 <td></td>
@@ -563,7 +613,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Курбан» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>252</td>
 </tr>
@@ -605,7 +655,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Зорюшка» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>4</td>
 </tr>
@@ -628,7 +678,14 @@
 <td></td>
 <td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>573</td>
+<td>329</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Дүйсен» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>244</td>
 </tr>
 <tr>
 <td></td>
@@ -689,7 +746,7 @@
 <tr>
 <td></td>
 <td>Махамбет</td>
-<td>«Умаров Ф.А.» ШҚ</td>
+<td>«Мүсрепов Ильяс Санатуллаевич» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>331</td>
 </tr>
@@ -755,6 +812,13 @@
 <td>«Милешкин М.Н.» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>415</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Зеленов мемлекеттік сорт сынау учаскесі»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>236</td>
 </tr>
 <tr>
 <td></td>
@@ -824,7 +888,7 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>36078</td>
+<td>36319,5</td>
 </tr>
 <tr>
 <td></td>
@@ -838,21 +902,21 @@
 <td></td>
 <td>Дариян ауылы (жайылымдық)</td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>15</td>
+<td>16</td>
 </tr>
 <tr>
 <td></td>
 <td>Трекин</td>
 <td>Трекин ауылы (шабындық)</td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>20</td>
+<td>30</td>
 </tr>
 <tr>
 <td>Жиынтығы:</td>
 <td></td>
 <td></td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>55</td>
+<td>66</td>
 </tr>
 <tr>
 <td></td>
@@ -1048,7 +1112,14 @@
 <td></td>
 <td>«Нұр-С» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>484</td>
+<td>128</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Мемлекеттік жер қоры</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>356</td>
 </tr>
 <tr>
 <td></td>
@@ -1144,7 +1215,7 @@
 <tr>
 <td></td>
 <td>Амангелді</td>
-<td>«Шежін-1» ЖШС</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>425</td>
 </tr>
@@ -1158,9 +1229,9 @@
 <tr>
 <td></td>
 <td></td>
-<td>«Галиев» ШҚ</td>
+<td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>200</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
@@ -1223,7 +1294,7 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>10352</td>
+<td>10252</td>
 </tr>
 <tr>
 <td>Теректі</td>
@@ -1252,6 +1323,13 @@
 <td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Виктория» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1361,7 +1439,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Шолан» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>483</td>
 </tr>
@@ -1412,12 +1490,19 @@
 <td></td>
 <td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>738</td>
+<td>63</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Райымбек» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>675</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Ганиев Г.Г.» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>770</td>
 </tr>
@@ -1433,7 +1518,14 @@
 <td></td>
 <td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>5859</td>
+<td>4908</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Тайбурыл» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>951</td>
 </tr>
 <tr>
 <td></td>
@@ -1480,7 +1572,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>«Ахметов» ШҚ</td>
+<td>«Арлан» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>746</td>
 </tr>
@@ -1515,7 +1607,7 @@
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Жаксимбетов Ибрагим Абилович» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>1766</td>
 </tr>
@@ -1592,7 +1684,7 @@
 <tr>
 <td></td>
 <td>Новопавловка</td>
-<td>«Мадиев С.А.» ШҚ</td>
+<td>«Алтын дала» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>1012</td>
 </tr>
@@ -1622,12 +1714,12 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>53517,4</td>
+<td>53522,4</td>
 </tr>
 <tr>
 <td></td>
 <td>Долинное</td>
-<td>Теректі орман және жануарлар дүниесін қорғау жөніндегі мемлекеттік мекемесі «Долин орманшылығы»</td>
+<td>Бөрлі орман және жануарлар дүниесін қорғау жөніндегі мемлекеттік мекемесі «Долин орманшылығы»</td>
 <td>Lymantria dispar L. (asian race)</td>
 <td>215</td>
 </tr>
@@ -1832,28 +1924,28 @@
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>158089,8</td>
+<td>158237,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Ambrosia psilostachya (D.C.)</td>
-<td>55</td>
+<td>66</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Cuscuta sp.sp</td>
-<td>200,3</td>
+<td>221,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Lymantria dispar L. (asian race)</td>
-<td>1316,3</td>
+<td>1466,3</td>
 </tr>
 <tr>
 <td></td>
