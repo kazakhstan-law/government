@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/37584/kaz/28.12.2015
+source: https://zan.gov.kz/client/#!/doc/37584/kaz/14.05.2018
 ---
 
 ## 7-Санат Навигациялық жабдық және авиациялық электроника
