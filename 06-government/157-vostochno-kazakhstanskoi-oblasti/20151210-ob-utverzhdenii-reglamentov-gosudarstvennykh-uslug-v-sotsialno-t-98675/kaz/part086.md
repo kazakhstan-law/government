@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/98675/kaz/23.02.2018
+source: https://zan.gov.kz/client/#!/doc/98675/kaz/21.05.2018
 ---
 
 > *Шығыс Қазақстан облысы әкімдігінің 2015 жылғы «10» желтоқсандағы № 336 қаулысымен бекітілген*
