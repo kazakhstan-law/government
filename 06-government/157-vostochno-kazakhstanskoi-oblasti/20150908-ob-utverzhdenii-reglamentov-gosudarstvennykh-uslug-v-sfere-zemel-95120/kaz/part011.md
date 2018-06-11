@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/95120/kaz/16.01.2017
+source: https://zan.gov.kz/client/#!/doc/95120/kaz/11.06.2018
 ---
 
 > *Шығыс Қазақстан облысыәкімдігінің*  
