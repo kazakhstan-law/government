@@ -25,12 +25,19 @@ versions:
   cause:
     code: '119387'
     key: V1800016498
+- date: 2018-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '119387'
+    key: V1800016498
 version_date:
-  kaz: 2018-01-29
-  rus: 2018-01-29
+  kaz: 2018-07-01
+  rus: 2018-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/99833/kaz/29.01.2018
-  rus: https://zan.gov.kz/client/#!/doc/99833/rus/29.01.2018
+  kaz: https://zan.gov.kz/client/#!/doc/99833/kaz/01.07.2018
+  rus: https://zan.gov.kz/client/#!/doc/99833/rus/01.07.2018
 caused_by:
   code: '119387'
   key: V1800016498
