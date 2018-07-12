@@ -1,0 +1,24 @@
+key: P1800000422
+akn: /akn/kz/act/2018-07-12/P1800000422
+act_code: '123743'
+requisite: Постановление Правительства Республики Казахстан от 12 июля 2018 года № 422
+title:
+  rus: О некоторых вопросах Министерства финансов Республики Казахстан
+  kaz: Қазақстан Республикасы Қаржы министрлігінің кейбір мәселелері туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2018-07-12
+approved_by:
+- '103000000000'
+versions:
+- date: 2018-07-12
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2018-07-12
+  rus: 2018-07-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/123743/kaz/12.07.2018
+  rus: https://zan.gov.kz/client/#!/doc/123743/rus/12.07.2018
