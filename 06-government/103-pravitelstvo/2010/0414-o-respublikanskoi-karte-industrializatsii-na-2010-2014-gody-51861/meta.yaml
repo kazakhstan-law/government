@@ -10,10 +10,15 @@ approved_on: 2010-04-14
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2014-02-24
-  rus: 2014-02-24
+  kaz: 2018-08-11
+  rus: 2018-08-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/51861/kaz/24.02.2014
-  rus: https://zan.gov.kz/client/#!/doc/51861/rus/24.02.2014
+  kaz: https://zan.gov.kz/client/#!/doc/51861/kaz/11.08.2018
+  rus: https://zan.gov.kz/client/#!/doc/51861/rus/11.08.2018
 caused_by:
-  code: P1400000126
+  code: '124100'
+  requisite: Постановление Правительства Республики Казахстан от 11 августа 2018 года № 502
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/124100/rus
