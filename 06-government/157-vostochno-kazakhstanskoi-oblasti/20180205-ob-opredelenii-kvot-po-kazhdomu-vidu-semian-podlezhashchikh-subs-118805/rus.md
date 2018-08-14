@@ -1,5 +1,5 @@
 ---
-version_id: '118805_293982'
+version_id: '118805_345979'
 act_code: '118805'
 language: rus
 title: Об определении квот по каждому виду семян, подлежащих субсидированию, на 2018 год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2018-02-05
-version_date: 2018-02-05
+version_date: 2018-08-14
 registry_number: '118805'
-source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
+caused_by:
+  code: '124208'
+  title: О внесении изменения в постановление Восточно-Казахстанского областного акимата от 5 февраля 2018 года № 19 «Об определении квот по каждому виду семян, подлежащих субсидированию, на 2018 год»
+  link: https://zan.gov.kz/client/#!/doc/124208/rus
+source: https://zan.gov.kz/client/#!/doc/118805/rus
 ---
 
 # Об определении квот по каждому виду семян, подлежащих субсидированию, на 2018 год
@@ -114,12 +118,14 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 </table>
 
-> *Приложение 2 к постановлению*  
-> *Восточно-Казахстанского областного*  
-> *акимата от «5» февраля 2018 года*  
-> *№ 19*
+> *Приложение 2*  
+> *к постановлению*  
+> *Восточно-Казахстанского областного акимата*  
+> *от 5 февраля 2018 года № 19*
 
 ## Квоты по элитным семенам - для каждой административно-территориальной единицы на 2018 год
+
+> *Сноска. Приложение 2 в редакции постановления Восточно-Казахстанского областного акимата от 14.08.2018 № 241 (вводится в действие со дня его первого официального опубликования).*
 
 > *тонна*
 
@@ -133,11 +139,13 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td>Гречиха</td>
 <td>Зернобобовые</td>
 <td>Просо</td>
+<td>Тритикале</td>
 </tr>
 <tr>
 <td>Аягозский</td>
-<td>50</td>
-<td>60</td>
+<td>110</td>
+<td>80</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -146,9 +154,10 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Бескарагайский</td>
-<td>55</td>
+<td>70</td>
 <td>35</td>
 <td>15</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -163,16 +172,18 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td>50</td>
 <td>5</td>
 <td></td>
+<td>10</td>
 </tr>
 <tr>
 <td>Глубоковский</td>
-<td>6179,5</td>
+<td>6679,5</td>
 <td>236,4</td>
 <td>57</td>
 <td></td>
 <td>581,7</td>
-<td></td>
+<td>200</td>
 <td>22</td>
+<td></td>
 </tr>
 <tr>
 <td>Жарминский</td>
@@ -180,9 +191,10 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td>211</td>
 <td></td>
 <td></td>
+<td>5</td>
 <td></td>
 <td></td>
-<td></td>
+<td>90</td>
 </tr>
 <tr>
 <td>Зайсанский</td>
@@ -193,6 +205,7 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td></td>
 <td></td>
 <td>10</td>
+<td></td>
 </tr>
 <tr>
 <td>Зыряновский</td>
@@ -203,32 +216,36 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td>25</td>
 <td>30</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Катон-Карагайский</td>
 <td>250</td>
 <td>50</td>
-<td>30</td>
+<td>60</td>
 <td></td>
 <td>25</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Кокпектинский</td>
-<td>154</td>
+<td>500</td>
 <td>40</td>
 <td>10</td>
 <td></td>
 <td>15</td>
 <td></td>
 <td>1,5</td>
+<td></td>
 </tr>
 <tr>
 <td>Курчумский</td>
 <td>10</td>
 <td>10</td>
 <td>5</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -243,6 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Уланский</td>
@@ -252,6 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td></td>
 <td>30</td>
 <td>20</td>
+<td>15</td>
 <td></td>
 </tr>
 <tr>
@@ -263,14 +282,16 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>Шемонаихинский</td>
 <td>550</td>
-<td>50</td>
-<td>30</td>
+<td>65</td>
+<td>45</td>
 <td></td>
 <td>25</td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,11 +299,12 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td>город Семей</td>
 <td></td>
 <td>51,6</td>
-<td>34,2</td>
+<td>41</td>
 <td></td>
 <td></td>
 <td></td>
 <td>3,5</td>
+<td></td>
 </tr>
 </table>
 
@@ -291,7 +313,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <table>
 <tr>
 <td>Наименование городов/районов</td>
-<td>Тритикале</td>
 <td>Рапс</td>
 <td>Подсолнечник</td>
 <td>Соя</td>
@@ -307,7 +328,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>20</td>
 <td></td>
 <td></td>
@@ -315,7 +335,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Бескарагайский</td>
-<td></td>
 <td></td>
 <td>35</td>
 <td></td>
@@ -327,7 +346,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Бородулихинский</td>
-<td>10</td>
 <td>5</td>
 <td>200</td>
 <td>0,5</td>
@@ -339,31 +357,28 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Глубоковский</td>
-<td></td>
-<td></td>
+<td>100</td>
 <td>696,25</td>
+<td>50</td>
+<td>50</td>
 <td></td>
-<td></td>
-<td></td>
-<td>16,8</td>
 <td>54</td>
-<td></td>
+<td>50</td>
+<td>100</td>
 </tr>
 <tr>
 <td>Жарминский</td>
-<td>90</td>
 <td></td>
 <td>46</td>
 <td>8</td>
 <td></td>
 <td></td>
 <td>32</td>
-<td>15</td>
+<td>22</td>
 <td>50</td>
 </tr>
 <tr>
 <td>Зайсанский</td>
-<td></td>
 <td></td>
 <td>5</td>
 <td>110</td>
@@ -375,7 +390,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Зыряновский</td>
-<td></td>
 <td>50</td>
 <td>50</td>
 <td></td>
@@ -388,30 +402,27 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <tr>
 <td>Катон-Карагайский</td>
 <td></td>
-<td></td>
 <td>20</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>Кокпектинский</td>
 <td></td>
-<td></td>
 <td>30</td>
 <td>4</td>
 <td></td>
 <td></td>
 <td>4</td>
-<td>1,2</td>
+<td>5</td>
 <td></td>
 </tr>
 <tr>
 <td>Курчумский</td>
-<td></td>
 <td></td>
 <td>5</td>
 <td>3</td>
@@ -424,7 +435,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <tr>
 <td>Тарбагатайский</td>
 <td></td>
-<td></td>
 <td>25</td>
 <td>200</td>
 <td></td>
@@ -435,7 +445,6 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 </tr>
 <tr>
 <td>Уланский</td>
-<td></td>
 <td>20</td>
 <td>300</td>
 <td>30</td>
@@ -448,37 +457,34 @@ source: https://zan.gov.kz/client/#!/doc/118805/rus/05.02.2018
 <tr>
 <td>Урджарский</td>
 <td></td>
-<td></td>
 <td>250</td>
 <td>100</td>
 <td></td>
 <td>70</td>
 <td>40</td>
 <td>10</td>
-<td></td>
+<td>250</td>
 </tr>
 <tr>
 <td>Шемонаихинский</td>
-<td></td>
-<td>8</td>
-<td>6</td>
+<td>12</td>
+<td>18</td>
 <td>5</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>60</td>
+<td>80</td>
 </tr>
 <tr>
 <td>город Семей</td>
-<td></td>
 <td></td>
 <td>2</td>
 <td>7,4</td>
 <td></td>
 <td></td>
-<td>25,7</td>
-<td>22,8</td>
+<td>30</td>
+<td>25</td>
 <td>232</td>
 </tr>
 </table>
