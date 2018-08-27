@@ -14,6 +14,11 @@ approval_date: 2016-11-28
 version_date: 2016-11-28
 registry_number: '109107'
 source: https://zan.gov.kz/client/#!/doc/109107/rus/28.11.2016
+repealed_on: 2019-01-01
+repealed_by:
+  code: '124879'
+  title: Об утверждении Правил формирования Государственного реестра эмиссионных ценных бумаг
+  link: https://zan.gov.kz/client/#!/doc/124879/rus
 ---
 
 # Об утверждении Правил ведения Государственного реестра эмиссионных ценных бумаг

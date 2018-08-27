@@ -14,6 +14,11 @@ approval_date: 2016-11-28
 version_date: 2016-11-28
 registry_number: '109107'
 source: https://zan.gov.kz/client/#!/doc/109107/kaz/28.11.2016
+repealed_on: 2019-01-01
+repealed_by:
+  code: '124879'
+  title: Эмиссиялық бағалы қағаздардың мемлекеттiк тiзiлiмiн қалыптастыру қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/124879/kaz
 ---
 
 # Эмиссиялық бағалы қағаздардың мемлекеттiк тiзiлiмiн жүргізу қағидаларын бекіту туралы
