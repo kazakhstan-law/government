@@ -27,7 +27,8 @@
 | [`part001-t006`](rus/part001-t006.md) | таблица 6 |
 | [`part001-t007`](rus/part001-t007.md) | таблица 7 |
 | [`part001-part008`](rus/part001-part008.md) | part001-part008 |
-| [`part001-part010`](rus/part001-part010.md) | part001-part010 |
+| [`part001-t009`](rus/part001-t009.md) | таблица 9 |
+| [`part001-part011`](rus/part001-part011.md) | part001-part011 |
 | [`part001-t010`](rus/part001-t010.md) | таблица 10 |
 | [`part001-t011`](rus/part001-t011.md) | таблица 11 |
 | [`part001-part015`](rus/part001-part015.md) | part001-part015 |
