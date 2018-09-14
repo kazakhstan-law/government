@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/43811/rus/07.12.2017
+source: https://zan.gov.kz/client/#!/doc/43811/rus/14.09.2018
 ---
 
 <table>
@@ -210,5 +210,45 @@ source: https://zan.gov.kz/client/#!/doc/43811/rus/07.12.2017
 <td>Озеро без названия</td>
 <td>5,0</td>
 <td>Федоровский</td>
+</tr>
+<tr>
+<td>962.</td>
+<td>урочище Октябрьское</td>
+<td>50</td>
+<td>Костанайский</td>
+</tr>
+<tr>
+<td>963.</td>
+<td>пруд Безымянный</td>
+<td>0,3</td>
+<td>город Костанай</td>
+</tr>
+<tr>
+<td>964.</td>
+<td>болото Рыспай</td>
+<td>10</td>
+<td>Алтынсаринский</td>
+</tr>
+<tr>
+<td>965.</td>
+<td>озеро Карасор</td>
+<td>5000</td>
+<td rowspan="2">Тарановский</td>
+</tr>
+<tr>
+<td>966.</td>
+<td>озеро Аласор</td>
+<td>1700</td>
+</tr>
+<tr>
+<td>967.</td>
+<td>озеро Тузколь</td>
+<td>131</td>
+<td rowspan="2">Мендыкаринский</td>
+</tr>
+<tr>
+<td>968.</td>
+<td>урочище Карасор</td>
+<td>530</td>
 </tr>
 </table>
