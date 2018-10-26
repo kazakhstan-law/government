@@ -11,15 +11,15 @@ approved_on: 1996-03-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2018-02-19
-  rus: 2018-02-19
+  kaz: 2018-10-26
+  rus: 2018-10-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/106093/kaz/19.02.2018
-  rus: https://zan.gov.kz/client/#!/doc/106093/rus/19.02.2018
+  kaz: https://zan.gov.kz/client/#!/doc/106093/kaz/26.10.2018
+  rus: https://zan.gov.kz/client/#!/doc/106093/rus/26.10.2018
 caused_by:
-  code: '118821'
-  requisite: Постановление Правительства Республики Казахстан от 19 февраля 2018 года № 66
+  code: '125417'
+  requisite: Постановление Правительства Республики Казахстан от 26 октября 2018 года № 690
   title:
     rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/118821/rus
+  link: https://zan.gov.kz/client/#!/doc/125417/rus
