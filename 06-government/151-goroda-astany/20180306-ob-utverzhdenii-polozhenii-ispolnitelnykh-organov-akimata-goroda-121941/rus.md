@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/121941/rus/06.03.2018
+source: https://zan.gov.kz/client/#!/doc/121941/rus/30.10.2018
 ---
 
 # Об утверждении положений исполнительных органов акимата города Астаны
