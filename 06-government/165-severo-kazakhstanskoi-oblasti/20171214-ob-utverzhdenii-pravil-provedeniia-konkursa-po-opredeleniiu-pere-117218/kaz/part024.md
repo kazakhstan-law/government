@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/117218/kaz/14.12.2017
+source: https://zan.gov.kz/client/#!/doc/117218/kaz/01.11.2018
 ---
 
 > *Шығыстары облыстық бюджет есебінен субсидиялауға жататын Солтүстік*  
