@@ -1,5 +1,5 @@
 ---
-version_id: '120468_308891'
+version_id: '120468_373924'
 act_code: '120468'
 language: kaz
 title: Тұқым шаруашылығын дамыту субсидияларының квоталарын белгілеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '154000000001'
 approval_date: 2018-04-04
-version_date: 2018-04-04
+version_date: 2018-11-20
 registry_number: '120468'
-source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
+caused_by:
+  code: '126397'
+  title: Алматы облысы әкімдігінің 2018 жылғы 4 сәуірдегі «Тұқым шаруашылығын дамыту субсидияларының квоталарын белгілеу туралы» № 151 қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/126397/kaz
+source: https://zan.gov.kz/client/#!/doc/120468/kaz/20.11.2018
 ---
 
 # Тұқым шаруашылығын дамыту субсидияларының квоталарын белгілеу туралы
@@ -41,16 +45,19 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 
 **А. Баталов**
 
-> *Алматы облысы әкімдігінің 2018 жылғы «04» сәуір «Тұқым шаруашылығын дамыту субсидияларының квоталарын белгілеу туралы» № 151 қаулысына*  
-> *1-қосымша*
+> *Алматы облысы әкімдігінің*  
+> *2018 жылғы «4» cәуірдегі*  
+> *№ 151 қаулысына 1-қосымша*
 
 # Бірегей тұқымдар бойынша квоталар – тұқым шаруашылығы саласында аттестатталған әрбір субъект үшін
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Алматы облысы әкімдігінің 20.11.2018 № 552 (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
 <td rowspan="2">№</td>
 <td rowspan="2">Аттестатталған бірегей тұқым өндірушілердің атауы</td>
-<td colspan="6">Ауыл шаруашылық дақылдарының атауы, тонна</td>
+<td colspan="5">Ауыл шаруашылық дақылдарының атауы, тонна</td>
 </tr>
 <tr>
 <td>бидай</td>
@@ -58,7 +65,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>сұлы</td>
 <td>күріш</td>
 <td>жүгері</td>
-<td>қытай бұршақ</td>
 </tr>
 <tr>
 <th>1</th>
@@ -68,17 +74,15 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
 </tr>
 <tr>
 <td>1</td>
 <td>«Қазақ егіншілік және өсімдік шаруашылығы ғылыми-зерттеу институты» жауапкершілігі шектеулі серіктестігі</td>
-<td>1</td>
+<td>20</td>
 <td>8</td>
-<td></td>
+<td>1</td>
 <td></td>
 <td>2,8</td>
-<td>5</td>
 </tr>
 <tr>
 <td>2</td>
@@ -88,16 +92,14 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
-<td>«БУДАН» жауапкершілігі шектеулі серіктестігі</td>
+<td>«Оркен» шаруа қожалығы</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>32</td>
 <td></td>
 </tr>
 <tr>
@@ -108,17 +110,15 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
 </tr>
 <tr>
 <td>4</td>
-<td>«Оркен» шаруа қожалығы</td>
+<td>«БУДАН» жауапкершілігі шектеулі серіктестігі</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>32</td>
 </tr>
 <tr>
 <td>5</td>
@@ -128,7 +128,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>30</td>
 <td></td>
-<td></td>
 </tr>
 </table>
 
@@ -136,9 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 
 <table>
 <tr>
-<td colspan="6"></td>
-</tr>
-<tr>
+<td>қытай бұршақ</td>
 <td>мақсары</td>
 <td>күнбағыс</td>
 <td>картоп</td>
@@ -147,6 +144,7 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>көпжылдық шөптер</td>
 </tr>
 <tr>
+<th>8</th>
 <th>9</th>
 <th>10</th>
 <th>11</th>
@@ -155,6 +153,7 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>14</th>
 </tr>
 <tr>
+<td>5</td>
 <td>0,5</td>
 <td></td>
 <td></td>
@@ -163,6 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>0,7</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>73</td>
@@ -174,11 +174,13 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td></td>
 <td></td>
+<td>160</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<th>8</th>
 <th>9</th>
 <th>10</th>
 <th>11</th>
@@ -186,47 +188,29 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>13</th>
 <th>14</th>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td>160</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 
-> *Облыс әкімдігінің 2018 жылғы « 04 » сәуір «Тұқым шаруашылығын дамыту субсидияларының квоталарын белгілеу туралы» № 151 қаулысына*  
-> *2-қосымша*
+> *Алматы облысы әкімдігінің*  
+> *2018 жылғы «4» cәуірдегі*  
+> *№ 151 қаулысына 2-қосымша*
 
-# Әрбір әкімшілік-аумақтық бірлік үшін субсидия квоталары
+# Элиталық тұқымдар бойынша квоталар – әрбір әкімшілік-аумақтық бірлік үшін
+
+> *Ескерту. 2-қосымша жаңа редакцияда - Алматы облысы әкімдігінің 20.11.2018 № 552 (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
 <td rowspan="2">№</td>
-<td rowspan="2">
-Аудан/қала
-атауы
-</td>
-<td colspan="8">Ауыл шаруашылық дақылдарының атауы, тонна/мың дана</td>
+<td rowspan="2">Аудан/қала атауы</td>
+<td colspan="6">Ауыл шаруашылық дақылдарының атауы, тонна/мың дана</td>
 </tr>
 <tr>
 <td>бидай</td>
 <td>арпа</td>
-<td>сұ лы</td>
+<td>сұлы</td>
 <td>күріш</td>
 <td>жүгері</td>
 <td>қытай бұр шақ</td>
-<td>мақса ры</td>
-<td>күнбағыс</td>
 </tr>
 <tr>
 <th>1</th>
@@ -237,8 +221,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>6</th>
 <th>7</th>
 <th>8</th>
-<th>9</th>
-<th>10</th>
 </tr>
 <tr>
 <td>1</td>
@@ -249,8 +231,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>7</td>
 <td>18</td>
-<td>0,6</td>
-<td>0,1</td>
 </tr>
 <tr>
 <td>2</td>
@@ -259,10 +239,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>42</td>
 <td>0,02</td>
 <td></td>
-<td>6</td>
+<td>30</td>
 <td>43</td>
-<td>0,5</td>
-<td>0,7</td>
 </tr>
 <tr>
 <td>3</td>
@@ -273,8 +251,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>10</td>
 <td></td>
 <td></td>
-<td>0,2</td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -283,10 +259,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>19</td>
 <td>0,01</td>
 <td></td>
-<td>320</td>
+<td>370</td>
 <td>19</td>
-<td>0,1</td>
-<td>0,2</td>
 </tr>
 <tr>
 <td>5</td>
@@ -297,8 +271,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>20</td>
 <td>25</td>
-<td>0,06</td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>6</td>
@@ -309,8 +281,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>30</td>
 <td>3</td>
-<td>0,8</td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>7</td>
@@ -321,8 +291,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>50</td>
 <td>4</td>
-<td>3,6</td>
-<td>0,02</td>
 </tr>
 <tr>
 <td>8</td>
@@ -333,8 +301,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>7</td>
 <td>2</td>
-<td>0,2</td>
-<td></td>
 </tr>
 <tr>
 <td>9</td>
@@ -345,20 +311,16 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>51</td>
 <td>29</td>
 <td>4</td>
-<td>0,2</td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Кербұлақ</td>
 <td>40</td>
-<td>119</td>
-<td>1,85</td>
+<td>243</td>
+<td>12</td>
 <td></td>
 <td>4</td>
-<td></td>
-<td>2</td>
-<td>0,01</td>
+<td>7</td>
 </tr>
 <tr>
 <td>11</td>
@@ -367,10 +329,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>12</td>
 <td></td>
 <td></td>
-<td>5</td>
+<td>7,5</td>
 <td>21</td>
-<td>0,1</td>
-<td>0,02</td>
 </tr>
 <tr>
 <td>12</td>
@@ -379,10 +339,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>1</td>
 <td></td>
 <td></td>
-<td>730</td>
+<td>1050</td>
 <td></td>
-<td></td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>13</td>
@@ -390,8 +348,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>20</td>
 <td>16</td>
 <td>0,03</td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -403,22 +359,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>46</td>
 <td>0,02</td>
 <td></td>
-<td>4</td>
+<td>5</td>
 <td>36</td>
-<td>2,4</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td>15</td>
-<td>Талғар</td>
-<td>14</td>
-<td>10</td>
-<td>0,02</td>
-<td></td>
-<td>100</td>
-<td>7</td>
-<td>0,3</td>
-<td>0,01</td>
 </tr>
 <tr>
 <th>1</th>
@@ -429,8 +371,16 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>6</th>
 <th>7</th>
 <th>8</th>
-<th>9</th>
-<th>10</th>
+</tr>
+<tr>
+<td>15</td>
+<td>Талғар</td>
+<td>14</td>
+<td>10</td>
+<td>0,02</td>
+<td></td>
+<td>100</td>
+<td>7</td>
 </tr>
 <tr>
 <td>16</td>
@@ -441,8 +391,6 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td>160</td>
 <td></td>
-<td></td>
-<td>0,4</td>
 </tr>
 <tr>
 <td>17</td>
@@ -451,25 +399,18 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>7</td>
 <td></td>
 <td></td>
-<td>4</td>
+<td>12,8</td>
 <td>2</td>
-<td>0,5</td>
-<td></td>
 </tr>
 <tr>
 <td>18</td>
-<td>
-Талдықорған
-қаласы
-</td>
+<td>Талдықорған қаласы</td>
 <td>1</td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>1</td>
 <td>5</td>
-<td></td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>19</td>
@@ -480,20 +421,16 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td>барлығы:</td>
 <td>170</td>
-<td>424</td>
-<td>2</td>
+<td>548</td>
+<td>12,15</td>
 <td>61</td>
-<td>1477</td>
-<td>189</td>
-<td>11,56</td>
-<td>2,01</td>
+<td>1883,3</td>
+<td>196</td>
 </tr>
 </table>
 
@@ -501,19 +438,17 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 
 <table>
 <tr>
-<td colspan="5"></td>
-</tr>
-<tr>
+<td>мақсары</td>
+<td>күнбағыс</td>
 <td>картоп</td>
-<td>
-қант
-қызылшасы
-</td>
+<td>қантқызылшасы</td>
 <td>бір жылдық шөптер</td>
 <td>көп жылдық шөптер</td>
-<td>жеміс-жидек дақылдары және жүзімнің көшеті</td>
+<td>жеміс-жидек дақыл дары және жүзімнің көшеті</td>
 </tr>
 <tr>
+<th>9</th>
+<th>10</th>
 <th>11</th>
 <th>12</th>
 <th>13</th>
@@ -521,6 +456,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>15</th>
 </tr>
 <tr>
+<td>0,6</td>
+<td>0,1</td>
 <td>24</td>
 <td>6,4</td>
 <td>0,1</td>
@@ -528,13 +465,17 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>2</td>
 </tr>
 <tr>
+<td>0,5</td>
+<td>0,7</td>
 <td>23</td>
-<td>1,7</td>
+<td>2</td>
 <td>0,06</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>0,2</td>
+<td></td>
 <td></td>
 <td></td>
 <td>0,01</td>
@@ -542,20 +483,26 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 </tr>
 <tr>
+<td>0,1</td>
+<td>0,2</td>
 <td>88</td>
 <td></td>
 <td>0,2</td>
 <td>0,2</td>
-<td>671</td>
+<td>800</td>
 </tr>
 <tr>
+<td>0,06</td>
+<td>0,01</td>
 <td>300</td>
-<td>7,5</td>
+<td>8,5</td>
 <td>0,04</td>
 <td>0,4</td>
 <td>35</td>
 </tr>
 <tr>
+<td>0,8</td>
+<td>0,01</td>
 <td>50</td>
 <td></td>
 <td>0,4</td>
@@ -563,6 +510,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>1083</td>
 </tr>
 <tr>
+<td>3,6</td>
+<td>0,02</td>
 <td>40</td>
 <td></td>
 <td></td>
@@ -570,13 +519,17 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>0,3</td>
 </tr>
 <tr>
+<td>0,2</td>
+<td></td>
 <td>100</td>
 <td></td>
 <td>0,01</td>
 <td></td>
-<td>150</td>
+<td>200</td>
 </tr>
 <tr>
+<td>0,2</td>
+<td>0,01</td>
 <td>16</td>
 <td>3,2</td>
 <td>0,01</td>
@@ -584,34 +537,44 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 </tr>
 <tr>
+<td>2</td>
+<td>1,5</td>
 <td>94</td>
-<td>0,8</td>
+<td>1,5</td>
 <td>0,2</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>0,1</td>
+<td>0,02</td>
 <td>15</td>
-<td>5,8</td>
+<td>7,3</td>
 <td>0,2</td>
 <td>0,1</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td>0,01</td>
 <td>45</td>
-<td>6,0</td>
+<td>7,3</td>
 <td></td>
 <td>0,1</td>
-<td>3</td>
+<td>10</td>
 </tr>
 <tr>
-<td>550</td>
+<td></td>
+<td></td>
+<td>745</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>2,4</td>
+<td>11,1</td>
 <td>14</td>
 <td>5,9</td>
 <td>0,02</td>
@@ -619,13 +582,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>6</td>
 </tr>
 <tr>
-<td>150</td>
-<td></td>
-<td>0,02</td>
-<td>0,1</td>
-<td>115</td>
-</tr>
-<tr>
+<th>9</th>
+<th>10</th>
 <th>11</th>
 <th>12</th>
 <th>13</th>
@@ -633,20 +591,35 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <th>15</th>
 </tr>
 <tr>
+<td>0,3</td>
+<td>0,01</td>
+<td>150</td>
+<td></td>
+<td>0,02</td>
+<td>0,1</td>
+<td>165</td>
+</tr>
+<tr>
+<td></td>
+<td>0,4</td>
 <td>5</td>
 <td></td>
 <td></td>
 <td>0,04</td>
-<td>103</td>
+<td>253</td>
 </tr>
 <tr>
+<td>0,5</td>
+<td></td>
 <td>4</td>
-<td>2,2</td>
+<td>3,4</td>
 <td>0,05</td>
 <td>0,02</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td>0,01</td>
 <td>11</td>
 <td>0,4</td>
 <td></td>
@@ -654,6 +627,8 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td>0,3</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td></td>
@@ -661,10 +636,12 @@ source: https://zan.gov.kz/client/#!/doc/120468/kaz/04.04.2018
 <td></td>
 </tr>
 <tr>
-<td>1532</td>
-<td>39,9</td>
+<td>11,56</td>
+<td>14,1</td>
+<td>1727</td>
+<td>45,9</td>
 <td>1,32</td>
 <td>1,62</td>
-<td>2168,6</td>
+<td>2554,6</td>
 </tr>
 </table>
