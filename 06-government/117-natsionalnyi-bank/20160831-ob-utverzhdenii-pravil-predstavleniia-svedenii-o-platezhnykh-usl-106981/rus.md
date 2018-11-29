@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/106981/rus/27.08.2018
+source: https://zan.gov.kz/client/#!/doc/106981/rus/29.11.2018
 ---
 
 # Об утверждении Правил представления сведений о платежных услугах
