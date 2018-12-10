@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/121941/kaz/30.10.2018
+source: https://zan.gov.kz/client/#!/doc/121941/kaz/10.12.2018
 ---
 
 # Астана қаласы әкімдігі атқарушы органдарының ережелерін бекіту туралы
