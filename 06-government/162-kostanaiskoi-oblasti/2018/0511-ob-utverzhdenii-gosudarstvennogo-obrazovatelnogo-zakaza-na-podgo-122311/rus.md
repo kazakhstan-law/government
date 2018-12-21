@@ -801,290 +801,253 @@
 
 ## Государственный образовательный заказ на подготовку специалистов с высшим и послевузовским образованием на 2018-2019 учебный год, финансируемый из местного бюджета
 
+> *Сноска. Приложение 2 - в редакции постановления акимата Костанайской области от 21.12.2018 № 554 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
-<td rowspan="2">
-№
-п/п
-</td>
-<td colspan="2" rowspan="2">Наименование групп специальностей</td>
-<td colspan="2" rowspan="2">Государственный образовательный заказ</td>
-<td colspan="3">Средние расходы на обучение 1 специалиста за учебный год (в тысячах тенге)</td>
+<td rowspan="2">№№ п/п</td>
+<td rowspan="2">Наименование групп специальностей</td>
+<td rowspan="2">Государственный образовательный заказ</td>
+<td colspan="6">Средние расходы на обучение 1 специалиста за учебный год (в тысячах тенге)</td>
 </tr>
 <tr>
-<td colspan="2">2018 год</td>
-<td>2019 год</td>
+<td colspan="3">2018 год</td>
+<td colspan="3">2019 год</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td>5</td>
+<td>2</td>
+<td>3</td>
+<td colspan="3">4</td>
+<td colspan="3">5</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">5В010100 Дошкольное обучение и воспитание</td>
-<td colspan="2">6</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В010100 Дошкольное обучение и воспитание</td>
+<td>6</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">5В010200 Педагогика и методика начального обучения</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В010200 Педагогика и методика начального обучения</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">5В011000 Физика</td>
-<td colspan="2">10</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В011000 Физика</td>
+<td>10</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">5В011100 Информатика</td>
-<td colspan="2">12</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В011100 Информатика</td>
+<td>12</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">5В011200 Химия</td>
-<td colspan="2">10</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В011200 Химия</td>
+<td>10</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">5В010900 Математика</td>
-<td colspan="2">14</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В010900 Математика</td>
+<td>14</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">5В011300 Биология</td>
-<td colspan="2">7</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В011300 Биология</td>
+<td>7</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">5В011900 Иностранный язык: два иностранных языка</td>
-<td colspan="2">3</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В011900 Иностранный язык: два иностранных языка</td>
+<td>3</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">5В010600 Музыкальное образование</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В010600 Музыкальное образование</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">5B070400 Вычислительная техника и программное обеспечение</td>
-<td colspan="2">4</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B070400 Вычислительная техника и программное обеспечение</td>
+<td>4</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">5B070700 Горное дело</td>
-<td colspan="2">1</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B070700 Горное дело</td>
+<td>1</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">5B071200 Машиностроение</td>
-<td colspan="2">1</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B071200 Машиностроение</td>
+<td>1</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">5B071700 Теплоэнергетика</td>
-<td colspan="2">1</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B071700 Теплоэнергетика</td>
+<td>1</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">5B080600 - Аграрная техника и технология</td>
-<td colspan="2">1</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B080600 - Аграрная техника и технология</td>
+<td>1</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>15</td>
-<td colspan="2">5B090100 - Организация перевозок, движения и эксплуатация транспорта</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5B090100 - Организация перевозок, движения и эксплуатация транспорта</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">5В070200 Автоматизация и управление</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В070200 Автоматизация и управление</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">5В071800 Электроэнергетика</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В071800 Электроэнергетика</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="2">5В070300 Информационные системы</td>
-<td colspan="2">4</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В070300 Информационные системы</td>
+<td>4</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">5В071300 Транспорт, транспортная техника и технологии</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В071300 Транспорт, транспортная техника и технологии</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="2">5В072900 Строительство</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В072900 Строительство</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
 <tr>
 <td>21</td>
-<td colspan="2">5В080100 Агрономия</td>
-<td colspan="2">2</td>
-<td colspan="2">211,9</td>
-<td>423,9</td>
+<td>5В080100 Агрономия</td>
+<td>2</td>
+<td colspan="3">211,9</td>
+<td colspan="3">423,9</td>
 </tr>
-</table>
-
-## Прием в профильную магистратуру
-
-<table>
 <tr>
-<td rowspan="2">
-№
-п/п
-</td>
-<td rowspan="2">Наименование групп специальностей</td>
-<td colspan="2" rowspan="2">Государственный образовательный заказ</td>
-<td colspan="4">Средние расходы на обучение 1 специалиста за учебный год (в тысячах тенге)</td>
+<td colspan="3" rowspan="2"></td>
+<td colspan="3">Национальные высшие учебные заведения</td>
+<td colspan="3">Другие высшие учебные заведения</td>
 </tr>
 <tr>
 <td colspan="2">2018 год</td>
+<td>2019 год</td>
+<td>2018 год</td>
 <td colspan="2">2019 год</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
-</tr>
-<tr>
-<td>1</td>
-<td>6М011300 Биология</td>
-<td colspan="2">1</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-<tr>
-<td>2</td>
-<td>6М011000 Физика</td>
-<td colspan="2">1</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-<tr>
-<td>3</td>
-<td>6М080600 Аграрная техника и технология</td>
-<td colspan="2">1</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-<tr>
-<td>4</td>
-<td>6М070400 Вычислительная техника и программное обеспечение</td>
-<td colspan="2">4</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-<tr>
-<td>5</td>
-<td>6М011100 Информатика</td>
-<td colspan="2">2</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-<tr>
-<td>6</td>
-<td>6М010900 Математика</td>
-<td colspan="2">1</td>
-<td colspan="2">215,4</td>
-<td colspan="2">430,9</td>
-</tr>
-</table>
-
-## Прием в организации образования Министерства здравоохранения Республики Казахстан
-
-<table>
-<tr>
-<td rowspan="3">
-№
-п/п
-</td>
-<td rowspan="3">Наименование групп специальностей</td>
-<td rowspan="3">Государственный образовательный заказ</td>
-<td colspan="4">Средние расходы на обучение 1 специалиста за учебный год (в тысячах тенге)</td>
-</tr>
-<tr>
-<td colspan="2">Национальные ВУЗы</td>
-<td colspan="2">Другие ВУЗы</td>
-</tr>
-<tr>
-<td>2018 год</td>
-<td>2019 год</td>
-<td>2018 год</td>
-<td>2019 год</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-</tr>
-<tr>
-<td>1</td>
+<td>22</td>
 <td>5B130100 Общая медицина</td>
 <td>20</td>
-<td>256,7</td>
+<td colspan="2">256,7</td>
 <td>513,4</td>
 <td>203</td>
-<td>406</td>
+<td colspan="2">406</td>
 </tr>
 <tr>
+<td>23</td>
+<td>6М060700 Биология</td>
+<td>1</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td>24</td>
+<td>6М060400 Физика</td>
+<td>1</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td>25</td>
+<td>6М080600 Аграрная техника и технология</td>
+<td>1</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td>26</td>
+<td>6М070400 Вычислительная техника и программное обеспечение</td>
+<td>4</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td>27</td>
+<td>6М060200 Информатика</td>
 <td>2</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td>28</td>
+<td>6М060100 Математика</td>
+<td>1</td>
+<td colspan="3">215,4</td>
+<td colspan="3">430,9</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2"></td>
+<td colspan="3">Национальные высшие учебные заведения</td>
+<td colspan="3">Другие высшие учебные заведения</td>
+</tr>
+<tr>
+<td>2018 год</td>
+<td colspan="2">2019 год</td>
+<td colspan="2">2018 год</td>
+<td>2019 год</td>
+</tr>
+<tr>
+<td>29</td>
 <td>14.00.00 Медицина</td>
 <td>80</td>
 <td>332,3</td>
-<td>664,5</td>
-<td>271,8</td>
+<td colspan="2">664,5</td>
+<td colspan="2">271,8</td>
 <td>543,7</td>
 </tr>
 </table>
