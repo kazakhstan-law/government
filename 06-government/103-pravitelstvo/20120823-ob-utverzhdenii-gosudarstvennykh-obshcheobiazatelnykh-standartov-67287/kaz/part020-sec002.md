@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/67287/kaz/01.09.2017
+source: https://zan.gov.kz/client/#!/doc/67287/kaz/27.12.2018
 ---
 
 ## 2-бөлім. Докторантура
