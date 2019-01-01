@@ -38,12 +38,19 @@ versions:
   cause:
     code: '124986'
     key: V1800017457
+- date: 2019-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '124986'
+    key: V1800017457
 version_date:
-  kaz: 2018-08-27
-  rus: 2018-08-27
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/107650/kaz/27.08.2018
-  rus: https://zan.gov.kz/client/#!/doc/107650/rus/27.08.2018
+  kaz: https://zan.gov.kz/client/#!/doc/107650/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/107650/rus/01.01.2019
 caused_by:
   code: '124986'
   key: V1800017457
