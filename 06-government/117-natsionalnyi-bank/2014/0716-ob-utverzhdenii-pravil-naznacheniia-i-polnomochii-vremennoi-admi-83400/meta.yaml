@@ -10,11 +10,11 @@ approved_on: 2014-07-16
 approved_by:
 - '117000000000'
 version_date:
-  kaz: 2018-08-27
-  rus: 2018-08-27
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/83400/kaz/27.08.2018
-  rus: https://zan.gov.kz/client/#!/doc/83400/rus/27.08.2018
+  kaz: https://zan.gov.kz/client/#!/doc/83400/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/83400/rus/01.01.2019
 caused_by:
   code: '125124'
   requisite: Постановление Правления Национального Банка Республики Казахстан от 27 августа 2018 года № 204. Зарегистрировано в Министерстве юстиции Республики Казахстан 5 октября 2018 года № 17492
