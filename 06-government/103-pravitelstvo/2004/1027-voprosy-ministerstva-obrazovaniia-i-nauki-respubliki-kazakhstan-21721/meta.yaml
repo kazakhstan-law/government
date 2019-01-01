@@ -12,11 +12,11 @@ approved_on: 2004-10-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2018-12-24
-  rus: 2018-12-24
+  kaz: 2019-01-01
+  rus: 2019-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21721/kaz/24.12.2018
-  rus: https://zan.gov.kz/client/#!/doc/21721/rus/24.12.2018
+  kaz: https://zan.gov.kz/client/#!/doc/21721/kaz/01.01.2019
+  rus: https://zan.gov.kz/client/#!/doc/21721/rus/01.01.2019
 caused_by:
   code: '128943'
   requisite: Постановление Правительства Республики Казахстан от 24 декабря 2018 года № 872. Утратило силу постановлением Правительства Республики Казахстан от 19 августа 2022 года № 581 (вводится в действие со дня его подписания)
