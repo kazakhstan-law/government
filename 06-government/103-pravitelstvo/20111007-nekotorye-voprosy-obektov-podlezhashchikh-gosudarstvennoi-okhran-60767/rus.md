@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60767/rus/09.11.2017
+source: https://zan.gov.kz/client/#!/doc/60767/rus/15.02.2019
 ---
 
 # Некоторые вопросы объектов, подлежащих государственной охране
