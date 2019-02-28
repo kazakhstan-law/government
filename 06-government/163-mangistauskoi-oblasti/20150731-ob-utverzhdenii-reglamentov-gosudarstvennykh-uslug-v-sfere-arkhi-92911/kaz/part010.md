@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/92911/kaz/19.09.2016
+source: https://zan.gov.kz/client/#!/doc/92911/kaz/28.02.2019
 ---
 
 > *Маңғыстау облысы әкімдігінің*  
