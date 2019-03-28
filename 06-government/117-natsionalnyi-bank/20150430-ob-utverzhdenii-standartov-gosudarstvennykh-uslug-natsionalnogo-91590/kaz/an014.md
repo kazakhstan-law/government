@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/91590/kaz/07.02.2019
+source: https://zan.gov.kz/client/#!/doc/91590/kaz/28.03.2019
 ---
 
 > *«Мемлекеттік емес*  
