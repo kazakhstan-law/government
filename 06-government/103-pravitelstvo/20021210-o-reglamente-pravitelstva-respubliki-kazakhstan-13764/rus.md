@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/rus/04.12.2018
+source: https://zan.gov.kz/client/#!/doc/13764/rus/11.04.2019
 ---
 
 # О Регламенте Правительства Республики Казахстан
