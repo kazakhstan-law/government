@@ -29,12 +29,12 @@
 |---|---|
 | [`part001`](rus/part001.md) | Реестр государственных услуг |
 | [`part001-t002`](rus/part001-t002.md) | таблица 2 |
+| [`part001-t003`](rus/part001-t003.md) | таблица 3 |
 | [`part001-t004`](rus/part001-t004.md) | таблица 4 |
 | [`part001-t005`](rus/part001-t005.md) | таблица 5 |
-| [`part001-t006`](rus/part001-t006.md) | таблица 6 |
 | [`part001-part008`](rus/part001-part008.md) | part001-part008 |
 | [`part001-part010`](rus/part001-part010.md) | part001-part010 |
+| [`part001-t008`](rus/part001-t008.md) | таблица 8 |
 | [`part001-t009`](rus/part001-t009.md) | таблица 9 |
-| [`part001-t010`](rus/part001-t010.md) | таблица 10 |
 | [`part001-part014`](rus/part001-part014.md) | part001-part014 |
 | [`part002`](rus/part002.md) | Перечень утративших силу некоторых решений Правительства Республики Казахстан |
