@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/74418/rus/29.12.2018
+source: https://zan.gov.kz/client/#!/doc/74418/rus/22.04.2019
 ---
 
 # Об утверждении реестра государственных услуг
