@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
+source: https://zan.gov.kz/client/#!/doc/98850/rus/29.04.2019
 ---
 
 # Об установлении карантинной зоны с введением карантинного режима
@@ -25,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 > *Западно-Казахстанской области*  
 > *от 29 декабря 2015 года №373*
 
-## Карантинная зона с введением карантинного режима на территориях Акжаикского, Бурлинского, Жанибекского, Зеленовского, Казталовского, Сырымского, Таскалинского, Теректинского, Чингирлауского районов и города Уральска
+## Карантинная зона с введением карантинного режима на территориях Акжаикского, Бурлинского, Жанибекского, Бәйтерек, Казталовского, Сырымского, Таскалинского, Теректинского, Чингирлауского районов и города Уральска
 
-> *Сноска. Приложение - в редакции постановления акимата Западно-Казахстанской области от 04.05.2018 № 96 (вводится в действие со дня первого официального опубликования).*
+> *Сноска. Приложение - в редакции постановления акимата Западно-Казахстанской области от 29.04.2019 № 105 (вводится в действие со дня первого официального опубликования).*
 
 <table>
 <tr>
@@ -179,6 +179,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 </tr>
 <tr>
 <td></td>
+<td>Бумакольский</td>
+<td>КХ «Иргалиев Ж.Г.»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>296</td>
+</tr>
+<tr>
+<td></td>
 <td>Приуральный</td>
 <td>ТОО «Урал»</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -245,14 +252,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td>город Аксай</td>
 <td>Станция Казахстан филиал АО «КТЖ-Грузовые перевозки»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1</td>
+<td>7</td>
 </tr>
 <tr>
 <td>Итого:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>7983</td>
+<td>8285</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td>8884</td>
 </tr>
 <tr>
-<td>Зеленовский</td>
+<td>Бәйтерек</td>
 <td>Егиндыбулакский</td>
 <td>КХ «Аристанов Е.Р.»</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -474,9 +481,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Сизов А.А.»</td>
+<td>СПК «Рубёжинский»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>60</td>
+<td>80</td>
 </tr>
 <tr>
 <td></td>
@@ -817,9 +824,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td>Кушумский</td>
-<td>КХ «Кажман»</td>
+<td>КХ «Сундетов»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>718</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -882,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>36319,5</td>
+<td>36439,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1314,9 +1321,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>ТОО «Болашақ A.S.A.»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>300</td>
+<td>306</td>
 </tr>
 <tr>
 <td></td>
@@ -1324,6 +1331,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td>КХ «Виктория»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>КХ «Балакирев В.А.»</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>138</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>КХ «Махорин Г.В.»</td>
+<td>ТОО «Қаз-АқБас»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>510</td>
 </tr>
@@ -1573,16 +1587,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Кердері»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>467</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Государственный земельный фонд</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>200</td>
+<td>662</td>
 </tr>
 <tr>
 <td></td>
@@ -1678,7 +1685,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td>Новопавловский</td>
-<td>КХ «Мадиев С.А.»</td>
+<td>КХ «Алтын дала»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>1012</td>
 </tr>
@@ -1708,7 +1715,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>53522,4</td>
+<td>53661,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1740,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 </tr>
 <tr>
 <td></td>
-<td>Полтавский</td>
+<td>Ардакский</td>
 <td>Государственный земельный фонд</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>379</td>
@@ -1810,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 </tr>
 <tr>
 <td></td>
-<td>Круглоозернинский</td>
+<td>Круглоозерновский</td>
 <td>ТОО «Ізденіс»</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>368</td>
@@ -1846,9 +1853,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Государственный земельный фонд</td>
+<td>КХ «Аксуат»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>860</td>
+<td>852</td>
 </tr>
 <tr>
 <td></td>
@@ -1897,7 +1904,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>12714,8</td>
+<td>12706,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1918,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>158237,3</td>
+<td>158790,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1952,20 +1959,22 @@ source: https://zan.gov.kz/client/#!/doc/98850/rus/04.05.2018
 
 Перевод наименований карантинных объектов с латинского языка:
 
-Acroptilon repens (D.C.) – горчак ползучий
+Acroptilon repens (D.C.) – горчак ползучий;
 
-Ambrosia psilostachya (D.C.) – амброзия многолетняя
+Ambrosia psilostachya (D.C.) – амброзия многолетняя;
 
-Cuscuta sp.sp – Повилика
+Cuscuta sp.sp – повилика;
 
-Lymantria dispar L. (asian race) – непарный шелкопряд
+Lymantria dispar L. (asian race) – непарный шелкопряд;
 
-Myiopardalis pardalina (Bigot) – дынная муха
+Myiopardalis pardalina (Bigot) – дынная муха.
 
 Расшифровка аббревиатур:
 
 КХ – крестьянское хозяйство;
 
 ПК – производственный кооператив;
+
+СПК – сельскохозяйственный производственный кооператив;
 
 ТОО – товарищество с ограниченной ответственностью.

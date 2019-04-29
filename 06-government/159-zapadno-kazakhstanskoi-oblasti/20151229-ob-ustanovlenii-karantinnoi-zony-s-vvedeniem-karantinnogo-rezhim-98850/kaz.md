@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
+source: https://zan.gov.kz/client/#!/doc/98850/kaz/29.04.2019
 ---
 
 # Карантиндік режимді енгізе отырып карантинді аймақты белгілеу туралы
@@ -25,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 > *әкімдігінің қаулысына*  
 > *қосымша*
 
-## Ақжайық, Бөрлі, Жәнібек, Зеленов, Казталов, Сырым, Тасқала, Теректі, Шыңғырлау аудандарының және Орал қаласының аумақтарында карантиндік режим енгізілетін карантинді аймақ
+## Ақжайық, Бөрлі, Жәнібек, Бәйтерек, Казталов, Сырым, Тасқала, Теректі, Шыңғырлау аудандарының және Орал қаласының аумақтарында карантиндік режим енгізілетін карантинді аймақ
 
-> *Ескерту. Қосымша жаңа редакцияда -Батыс Қазақстан облысы әкімдігінің 04.05.2018 № 96 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
+> *Ескерту. Қосымша жаңа редакцияда - Батыс Қазақстан облысы әкімдігінің 29.04.2019 № 105 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -179,6 +179,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 </tr>
 <tr>
 <td></td>
+<td>Бумакөл</td>
+<td>«Иргалиев Ж.Г.» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>296</td>
+</tr>
+<tr>
+<td></td>
 <td>Приуральный</td>
 <td>«Урал» ЖШС</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -245,14 +252,14 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td>Ақсай қаласы</td>
 <td>«ҚТЖ – жүк тасымалдау» АҚ филиалы Қазақстан бекеті</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1</td>
+<td>7</td>
 </tr>
 <tr>
 <td>Жиынтығы:</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>7983</td>
+<td>8285</td>
 </tr>
 <tr>
 <td></td>
@@ -360,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td>8884</td>
 </tr>
 <tr>
-<td>Зеленов</td>
+<td>Бәйтерек</td>
 <td>Егіндібұлақ</td>
 <td>«Аристанов Е.Р.» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -474,9 +481,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>«Сизов А.А.» ШҚ</td>
+<td>«Рубёжинский» АШӨК</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>60</td>
+<td>80</td>
 </tr>
 <tr>
 <td></td>
@@ -817,9 +824,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td>Көшім</td>
-<td>«Кажман» ШҚ</td>
+<td>«Сундетов» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>718</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
@@ -882,7 +889,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>36319,5</td>
+<td>36439,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1314,9 +1321,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Болашақ A.S.A.» ЖШС</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>300</td>
+<td>306</td>
 </tr>
 <tr>
 <td></td>
@@ -1324,6 +1331,13 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td>«Виктория» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>«Балакирев В.А.» ШҚ</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>138</td>
 </tr>
 <tr>
 <td></td>
@@ -1475,7 +1489,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>«Махорин Г.В.» ШҚ</td>
+<td>«Қаз-АқБас» ЖШС</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>510</td>
 </tr>
@@ -1573,16 +1587,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Кердері» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>467</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Мемлекеттік жер қоры</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>200</td>
+<td>662</td>
 </tr>
 <tr>
 <td></td>
@@ -1708,7 +1715,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>53522,4</td>
+<td>53661,4</td>
 </tr>
 <tr>
 <td></td>
@@ -1740,7 +1747,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 </tr>
 <tr>
 <td></td>
-<td>Полтава</td>
+<td>Ардақ</td>
 <td>Мемлекеттік жер қоры</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>379</td>
@@ -1846,9 +1853,9 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <tr>
 <td></td>
 <td></td>
-<td>Мемлекеттік жер қоры</td>
+<td>«Аксуат» ШҚ</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>860</td>
+<td>852</td>
 </tr>
 <tr>
 <td></td>
@@ -1897,7 +1904,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>12714,8</td>
+<td>12706,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1918,7 +1925,7 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>158237,3</td>
+<td>158790,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1952,20 +1959,22 @@ source: https://zan.gov.kz/client/#!/doc/98850/kaz/04.05.2018
 
 Карантиндік объектілер атауларының латын тілінен аудармасы:
 
-Acroptilon repens (D.C.) – жатаған укекіре
+Acroptilon repens (D.C.) – жатаған укекіре;
 
-Ambrosia psilostachya (D.C.) – көпжылдық ойраншөп
+Ambrosia psilostachya (D.C.) – көпжылдық ойраншөп;
 
-Cuscuta sp.sp – Арам сояу
+Cuscuta sp.sp – арам сояу;
 
-Lymantria dispar L. (asian race) – жұпсыз жібек көбелегі
+Lymantria dispar L. (asian race) – жұпсыз жібек көбелегі;
 
-Myiopardalis pardalina (Bigot) – қауын шыбыны
+Myiopardalis pardalina (Bigot) – қауын шыбыны.
 
 Аббревиатуралардың толық жазылуы:
 
-ШҚ - шаруа қожалығы;
+ШҚ – шаруа қожалығы;
 
-ӨК - өндірістік кооператив;
+ӨК – өндірістік кооператив;
 
-ЖШС - жауапкершілігі шектеулі серіктестік.
+АШӨК – ауыл шаруашылығы өндірістік кооперативі;
+
+ЖШС – жауапкершілігі шектеулі серіктестік.
