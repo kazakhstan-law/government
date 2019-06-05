@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23714/rus/11.04.2019
+source: https://zan.gov.kz/client/#!/doc/23714/rus/05.06.2019
 ---
 
 # Об утверждении некоторых инструкций
