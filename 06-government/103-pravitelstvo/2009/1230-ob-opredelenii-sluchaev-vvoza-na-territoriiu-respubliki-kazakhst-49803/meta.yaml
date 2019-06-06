@@ -10,8 +10,15 @@ approved_on: 2009-12-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2009-12-30
-  rus: 2009-12-30
+  kaz: 2019-06-06
+  rus: 2019-06-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/49803/kaz/30.12.2009
-  rus: https://zan.gov.kz/client/#!/doc/49803/rus/30.12.2009
+  kaz: https://zan.gov.kz/client/#!/doc/49803/kaz/06.06.2019
+  rus: https://zan.gov.kz/client/#!/doc/49803/rus/06.06.2019
+caused_by:
+  code: '132210'
+  requisite: Постановление Правительства Республики Казахстан от 6 июня 2019 года № 380
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/132210/rus
