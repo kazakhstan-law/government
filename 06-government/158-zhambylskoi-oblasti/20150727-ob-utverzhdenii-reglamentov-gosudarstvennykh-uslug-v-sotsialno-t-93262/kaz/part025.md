@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/93262/kaz/01.03.2019
+source: https://zan.gov.kz/client/#!/doc/93262/kaz/06.06.2019
 ---
 
 > *Жамбыл облысы әкімдігінің*  
