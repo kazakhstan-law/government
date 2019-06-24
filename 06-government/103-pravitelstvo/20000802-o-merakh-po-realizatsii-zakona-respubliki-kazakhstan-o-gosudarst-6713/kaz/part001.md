@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/6713/kaz/13.05.2017
+source: https://zan.gov.kz/client/#!/doc/6713/kaz/24.06.2019
 ---
 
 > *Қазақстан Республикасы Үкiметiнiң*  
