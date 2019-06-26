@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
+source: https://zan.gov.kz/client/#!/doc/120525/rus/26.06.2019
 ---
 
 # Об утверждении перечня автомобильных дорог районного значения Катон - Карагайского района
@@ -31,7 +31,9 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 > *Катон-Карагайского района*  
 > *от 29 марта 2018 года № 131*
 
-## Перечень автомобильных дорог районного значения Катон-Карагайского района
+## Перечень автомобильных дорог районного значения Катон - Карагайского района
+
+> *Сноска. Приложение - в редакции постановления акимата Катон-Карагайского района Восточно-Казахстанской области от 26.06.2019 № 283 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -39,22 +41,22 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 №
 п/п
 </td>
-<td rowspan="2">Индекс автодороги</td>
+<td rowspan="2">Индекс автодоро-ги</td>
 <td rowspan="2">Наименование автодороги</td>
-<td rowspan="2">Общая протяженность, км</td>
-<td rowspan="2">Категория</td>
+<td rowspan="2">Общая протяжен-ность, км</td>
+<td rowspan="2">Катего-рия</td>
 <td colspan="3">По типу покрытия, км</td>
 <td>Мосты</td>
 <td>Трубы</td>
 </tr>
 <tr>
-<td>Асфальт /Бетон</td>
+<td>Асфа-льт/ Бетон</td>
 <td>
-Черно-
+Чер но
 гравийное
 </td>
 <td>Гравийно-щебеночное</td>
-<td>шт/п. м</td>
+<td>шт/п.м.</td>
 <td>шт/п.м.</td>
 </tr>
 <tr>
@@ -68,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>24</td>
 <td>
 1/2,6 ж/б,
-1/2,9 мет
+1/2,9 мет.
 </td>
 <td>15/153,8</td>
 </tr>
@@ -110,18 +112,6 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 </tr>
 <tr>
 <td>5.</td>
-<td>KF KT-455</td>
-<td>Подъезд к Аэропорту</td>
-<td>1</td>
-<td>IV</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>1/12</td>
-</tr>
-<tr>
-<td>6.</td>
 <td>KF KT-456</td>
 <td>Подъезд к селу Жулдуз</td>
 <td>4,7</td>
@@ -133,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>6/65,91</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>6.</td>
 <td>KF KT-452</td>
 <td>Подъезд к селу Кокбастау</td>
 <td>2</td>
@@ -145,19 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>3/34,3</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>KF KT-55</td>
-<td>Ново-Поляковка–Ульяновка</td>
-<td>26</td>
-<td>IV</td>
-<td>-</td>
-<td>-</td>
-<td>26</td>
-<td>-</td>
-<td>24/328,49</td>
-</tr>
-<tr>
-<td>9.</td>
+<td>7.</td>
 <td>KF KT-464</td>
 <td>Подъезд к селу Бесюй</td>
 <td>3,3</td>
@@ -169,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>4/40,88</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>8.</td>
 <td>KF KT-459</td>
 <td>Подъезд к селу Сенное</td>
 <td>14,5</td>
@@ -181,7 +159,19 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>14/193,12</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>9.</td>
+<td>KF KT-55</td>
+<td>Ново-Поляковка–Ульяновка</td>
+<td>26</td>
+<td>IV</td>
+<td>-</td>
+<td>-</td>
+<td>26</td>
+<td>-</td>
+<td>24/328,49</td>
+</tr>
+<tr>
+<td>10.</td>
 <td>KF KT-453</td>
 <td>Подъезд к селу Егынды</td>
 <td>5</td>
@@ -193,7 +183,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>1/10,3</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>11.</td>
 <td>KF KT-465</td>
 <td>Подъезд к селу Уштобе</td>
 <td>2,6</td>
@@ -205,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>6/49,05</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>12.</td>
 <td>KF KT-454</td>
 <td>Подъезд к селу Солдатово</td>
 <td>3,8</td>
@@ -217,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>4/37,68</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>13.</td>
 <td>KF KT-467</td>
 <td>Подъезд к селу Белкарагай</td>
 <td>3,4</td>
@@ -229,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>1/15,4</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>14.</td>
 <td>KF KT-466</td>
 <td>Подъезд к селу Орнек</td>
 <td>1,9</td>
@@ -241,12 +231,9 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>-</td>
 </tr>
 <tr>
-<td colspan="10">3</td>
-</tr>
-<tr>
-<td>16.</td>
+<td>15.</td>
 <td>KF KT-57</td>
-<td>Согорное–Барлык–Аксу</td>
+<td>Согорное–Барлық–Аксу</td>
 <td>53,5</td>
 <td>IV</td>
 <td>-</td>
@@ -256,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>56/651,4</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td>KF KT-460</td>
 <td>Подъезд к селу Коробиха</td>
 <td>16,5</td>
@@ -268,7 +255,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>17/174,8</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>17.</td>
 <td>KF KT-173</td>
 <td>Аксу–Акшарбак</td>
 <td>27</td>
@@ -280,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>15/120</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>18.</td>
 <td>KF KT-174</td>
 <td>Аксу–Бекалка</td>
 <td>15,3</td>
@@ -292,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>15/133,6</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>19.</td>
 <td>KF KT-461</td>
 <td>Подъезд к селу Жазаба</td>
 <td>12</td>
@@ -304,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>14/145,36</td>
 </tr>
 <tr>
-<td>21.</td>
+<td>20.</td>
 <td>KF KT-58</td>
 <td>Жана-Ульго–Жамбыл–Берель</td>
 <td>65,3</td>
@@ -315,9 +302,21 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>
 3/274,5 ж/б
 2/13,8 дер.
-1/2,7 комбин
+1/2,7 комбин.
 </td>
 <td>40/451,05</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>KF KT-455</td>
+<td>Подъезд к Аэропорту</td>
+<td>1</td>
+<td>IV</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>1/12</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -370,14 +369,14 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <tr>
 <td>26.</td>
 <td>KF KT-473</td>
-<td>Подъезд к селу Кара-Айрык</td>
-<td>7</td>
+<td>Подъезд к озеру Язевое</td>
+<td>22</td>
 <td>IV</td>
 <td>-</td>
 <td>-</td>
-<td>7</td>
-<td>1/50 дер.</td>
-<td>2/20</td>
+<td>22</td>
+<td>2/116 дер.</td>
+<td>15/120</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -393,8 +392,8 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 </tr>
 <tr>
 <td>28.</td>
-<td>-</td>
-<td>Подъезд к базу отдыха «Нурбулак»</td>
+<td>KF KT-474</td>
+<td>Подъезд к базе отдыха «Нурбулак»</td>
 <td>0,7</td>
 <td>IV</td>
 <td>-</td>
@@ -404,15 +403,25 @@ source: https://zan.gov.kz/client/#!/doc/120525/rus/29.03.2018
 <td>1/10</td>
 </tr>
 <tr>
+<td>29.</td>
+<td>KF KT-475</td>
+<td>Подъезд к базе отдыха «Баян»</td>
+<td>2,0</td>
+<td>IV</td>
+<td>-</td>
 <td></td>
-<td></td>
-<td>Итого:</td>
-<td>340</td>
+<td>2,0</td>
+<td>-</td>
+<td>2/8</td>
+</tr>
+<tr>
+<td colspan="3">Итого:</td>
+<td>357</td>
 <td>-</td>
 <td>3,8</td>
 <td>14,5</td>
-<td>321,7</td>
-<td>22/693,2</td>
-<td>253/2760,25</td>
+<td>338,7</td>
+<td>23/759,2</td>
+<td>268/2868,25</td>
 </tr>
 </table>

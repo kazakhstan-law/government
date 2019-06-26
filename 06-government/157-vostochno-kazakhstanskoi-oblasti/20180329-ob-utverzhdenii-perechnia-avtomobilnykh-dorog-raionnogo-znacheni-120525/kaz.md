@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
+source: https://zan.gov.kz/client/#!/doc/120525/kaz/26.06.2019
 ---
 
 # Катонқарағай ауданының аудандық маңызы бар автомобиль жолдарының тізбесін бекіту туралы
@@ -33,29 +33,34 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 
 ## Катонқарағай ауданының аудандық маңызы бар автомобиль жолдарының тізбесі
 
+> *Ескерту. Қосымша жаңа редакцияда - Шығыс Қазақстан облысы Катонқарағай ауданының әкімдігінің 26.06.2019 № 283 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td rowspan="2">Р/с №</td>
 <td rowspan="2">Автомо-биль жолының индексі</td>
 <td rowspan="2">Автомобиль жолдарының атауы</td>
 <td rowspan="2">
-Бар-лы-ғы,
+Барлығы,
 км
 </td>
-<td rowspan="2">Сана-ты</td>
+<td rowspan="2">Санаты</td>
 <td colspan="3">Төсем жамылғысының түрі бойынша, км</td>
-<td rowspan="2">Көпірлер, дана/қума метр</td>
+<td rowspan="2">
+Көпір-лер, дана/
+қума метр
+</td>
 <td rowspan="2">Құбырлар, дана/қума метр</td>
 </tr>
 <tr>
-<td>Асфальт / Бетон</td>
-<td>Қара жамылғысы қиыршық тасты</td>
+<td>Асфальт/ Бетон</td>
+<td>Қара жамылғы-сы қиыр-шық тас-ты</td>
 <td>Жай төсемді-ұсақ тасты</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>KF KT-56</td>
-<td>Ново-Хайрузовка–Құндызды</td>
+<td>Ново - Хайрузовка–Құндызды</td>
 <td>24</td>
 <td>IV</td>
 <td>-</td>
@@ -102,18 +107,6 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 </tr>
 <tr>
 <td>5.</td>
-<td>KF KT-455</td>
-<td>Әуежайға кіреберіс</td>
-<td>1</td>
-<td>IV</td>
-<td>-</td>
-<td>1</td>
-<td>-</td>
-<td>-</td>
-<td>1/12</td>
-</tr>
-<tr>
-<td>6.</td>
 <td>KF KT-456</td>
 <td>Жұлдыз ауылына кіреберіс</td>
 <td>4,7</td>
@@ -125,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>6/65,91</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>6.</td>
 <td>KF KT-452</td>
 <td>Көкбастау ауылына кіреберіс</td>
 <td>2</td>
@@ -137,19 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>3/34,3</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>KF KT-55</td>
-<td>Ново-Поляковка–Ульяновка</td>
-<td>26</td>
-<td>IV</td>
-<td>-</td>
-<td>-</td>
-<td>26</td>
-<td>-</td>
-<td>24/328,49</td>
-</tr>
-<tr>
-<td>9.</td>
+<td>7.</td>
 <td>KF KT-464</td>
 <td>Бесүй ауылына кіреберіс</td>
 <td>3,3</td>
@@ -161,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>4/40,88</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>8.</td>
 <td>KF KT-459</td>
 <td>Сенное ауылына кіреберіс</td>
 <td>14,5</td>
@@ -173,9 +154,21 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>14/193,12</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>9.</td>
+<td>KF KT-55</td>
+<td>Ново-Поляковка–Ульяновка</td>
+<td>26</td>
+<td>IV</td>
+<td>-</td>
+<td>-</td>
+<td>26</td>
+<td>-</td>
+<td>24/328,49</td>
+</tr>
+<tr>
+<td>10.</td>
 <td>KF KT-453</td>
-<td>Яры ауылына кіреберіс</td>
+<td>Егінді ауылына кіреберіс</td>
 <td>5</td>
 <td>IV</td>
 <td>-</td>
@@ -185,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>1/10,3</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>11.</td>
 <td>KF KT-465</td>
 <td>Үштөбе ауылына кіреберіс</td>
 <td>2,6</td>
@@ -197,7 +190,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>6/49,05</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>12.</td>
 <td>KF KT-454</td>
 <td>Солдатово ауылына кіреберіс</td>
 <td>3,8</td>
@@ -209,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>4/37,68</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>13.</td>
 <td>KF KT-467</td>
 <td>Белқарағай ауылына кіреберіс</td>
 <td>3,4</td>
@@ -221,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>1/15,4</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>14.</td>
 <td>KF KT-466</td>
 <td>Өрнек ауылына кіреберіс</td>
 <td>1,9</td>
@@ -233,10 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>-</td>
 </tr>
 <tr>
-<td colspan="10">3</td>
-</tr>
-<tr>
-<td>16.</td>
+<td>15.</td>
 <td>KF KT-57</td>
 <td>Сөгір–Барлық–Ақсу</td>
 <td>53,5</td>
@@ -248,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>56/651,4</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td>KF KT-460</td>
 <td>Коробиха ауылына кіреберіс</td>
 <td>16,5</td>
@@ -260,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>17/174,8</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>17.</td>
 <td>KF KT-173</td>
 <td>Ақсу-Ақшарбақ</td>
 <td>27</td>
@@ -272,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>15/120</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>18.</td>
 <td>KF KT-174</td>
 <td>Ақсу-Бекалқа</td>
 <td>15,3</td>
@@ -284,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>15/133,6</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>19.</td>
 <td>KF KT-461</td>
 <td>Жазаба ауылына кіреберіс</td>
 <td>12</td>
@@ -296,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>14/145,36</td>
 </tr>
 <tr>
-<td>21.</td>
+<td>20.</td>
 <td>KF KT-58</td>
 <td>Жаңа–Үлгі –Жамбыл–Берел</td>
 <td>65,3</td>
@@ -310,6 +300,18 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 1/2,7 үйес.
 </td>
 <td>40/451,05</td>
+</tr>
+<tr>
+<td>21.</td>
+<td>KF KT-455</td>
+<td>Әуежайға кіреберіс</td>
+<td>1</td>
+<td>IV</td>
+<td>-</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td></td>
 </tr>
 <tr>
 <td>22.</td>
@@ -350,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <tr>
 <td>25.</td>
 <td>KF KT-472</td>
-<td>Шұбарағаш ауылына кіреберіс</td>
+<td>Шұбар - Ағаш ауылына кіреберіс</td>
 <td>5</td>
 <td>IV</td>
 <td>-</td>
@@ -362,14 +364,14 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <tr>
 <td>26.</td>
 <td>KF KT-473</td>
-<td>Қара-Айрық ауылына кіреберіс</td>
-<td>7</td>
+<td>Язевое көліне кіреберіс</td>
+<td>22</td>
 <td>IV</td>
 <td>-</td>
 <td>-</td>
-<td>7</td>
-<td>1/50 ағаш</td>
-<td>2/20</td>
+<td>22</td>
+<td>2/116 ағаш</td>
+<td>15/120</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -385,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 </tr>
 <tr>
 <td>28.</td>
-<td>-</td>
+<td>KF KT-474</td>
 <td>«Нұрбұлақ» демалыс базасына кіреберіс</td>
 <td>0,7</td>
 <td>IV</td>
@@ -396,15 +398,27 @@ source: https://zan.gov.kz/client/#!/doc/120525/kaz/29.03.2018
 <td>1/10</td>
 </tr>
 <tr>
+<td>29.</td>
+<td>KF KT-475</td>
+<td>«Баян» демалыс базасына кіреберіс</td>
+<td>2,0</td>
+<td>IV</td>
+<td>-</td>
+<td>-</td>
+<td>2,0</td>
+<td>-</td>
+<td>2/8</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>Барлығы:</td>
-<td>340</td>
+<td>357</td>
 <td>-</td>
 <td>3,8</td>
 <td>14,5</td>
-<td>321,7</td>
-<td>22/693,2</td>
-<td>253/2760,25</td>
+<td>338,7</td>
+<td>23/759,2</td>
+<td>268/2868,25</td>
 </tr>
 </table>
