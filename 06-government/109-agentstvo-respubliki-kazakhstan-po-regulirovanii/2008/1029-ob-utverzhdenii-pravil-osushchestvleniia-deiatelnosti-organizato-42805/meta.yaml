@@ -11,11 +11,11 @@ approved_on: 2008-10-29
 approved_by:
 - '109000000000'
 version_date:
-  kaz: 2019-01-01
-  rus: 2019-01-01
+  kaz: 2019-07-01
+  rus: 2019-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/42805/kaz/01.01.2019
-  rus: https://zan.gov.kz/client/#!/doc/42805/rus/01.01.2019
+  kaz: https://zan.gov.kz/client/#!/doc/42805/kaz/01.07.2019
+  rus: https://zan.gov.kz/client/#!/doc/42805/rus/01.07.2019
 caused_by:
   code: '124354'
   requisite: Постановление Правления Национального Банка Республики Казахстан от 30 июля 2018 года № 165. Зарегистрировано в Министерстве юстиции Республики Казахстан 20 августа 2018 года № 17337
