@@ -115,12 +115,19 @@ versions:
   cause:
     code: '124354'
     key: V1800017337
+- date: 2019-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '124354'
+    key: V1800017337
 version_date:
-  kaz: 2019-01-01
-  rus: 2019-01-01
+  kaz: 2019-07-01
+  rus: 2019-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/42805/kaz/01.01.2019
-  rus: https://zan.gov.kz/client/#!/doc/42805/rus/01.01.2019
+  kaz: https://zan.gov.kz/client/#!/doc/42805/kaz/01.07.2019
+  rus: https://zan.gov.kz/client/#!/doc/42805/rus/01.07.2019
 caused_by:
   code: '124354'
   key: V1800017337
