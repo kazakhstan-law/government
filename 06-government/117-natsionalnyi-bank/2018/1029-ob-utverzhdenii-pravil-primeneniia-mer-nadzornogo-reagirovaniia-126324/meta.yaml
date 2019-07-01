@@ -11,11 +11,11 @@ approved_on: 2018-10-29
 approved_by:
 - '117000000000'
 version_date:
-  kaz: 2019-01-01
-  rus: 2019-01-01
+  kaz: 2019-07-01
+  rus: 2019-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/126324/kaz/01.01.2019
-  rus: https://zan.gov.kz/client/#!/doc/126324/rus/01.01.2019
+  kaz: https://zan.gov.kz/client/#!/doc/126324/kaz/01.07.2019
+  rus: https://zan.gov.kz/client/#!/doc/126324/rus/01.07.2019
 caused_by:
   code: '126324'
   requisite: Постановление Правления Национального Банка Республики Казахстан от 29 октября 2018 года № 272. Зарегистрировано в Министерстве юстиции Республики Казахстан 26 ноября 2018 года № 17789
