@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/74418/kaz/22.04.2019
+source: https://zan.gov.kz/client/#!/doc/74418/kaz/01.07.2019
 ---
 
 # Мемлекеттік көрсетілетін қызметтер тізілімін бекіту туралы
