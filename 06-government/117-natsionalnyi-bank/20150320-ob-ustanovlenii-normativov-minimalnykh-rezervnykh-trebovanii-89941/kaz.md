@@ -15,6 +15,11 @@ approval_date: 2015-03-20
 version_date: 2015-03-20
 registry_number: '89941'
 source: https://zan.gov.kz/client/#!/doc/89941/kaz/20.03.2015
+repealed_on: 2019-08-13
+repealed_by:
+  code: '133261'
+  title: Ең төмен резервтік талаптардың нормативтерін белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/133261/kaz
 ---
 
 # Ең төменгі резервтік талаптардың нормативтерін белгілеу туралы

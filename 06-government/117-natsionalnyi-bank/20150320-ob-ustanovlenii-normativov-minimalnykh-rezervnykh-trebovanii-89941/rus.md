@@ -15,6 +15,11 @@ approval_date: 2015-03-20
 version_date: 2015-03-20
 registry_number: '89941'
 source: https://zan.gov.kz/client/#!/doc/89941/rus/20.03.2015
+repealed_on: 2019-08-13
+repealed_by:
+  code: '133261'
+  title: Об установлении нормативов минимальных резервных требований
+  link: https://zan.gov.kz/client/#!/doc/133261/rus
 ---
 
 # Об установлении нормативов минимальных резервных требований
