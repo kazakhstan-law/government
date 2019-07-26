@@ -14,6 +14,11 @@ approval_date: 2019-07-26
 version_date: 2019-07-26
 registry_number: '133510'
 source: https://zan.gov.kz/client/#!/doc/133510/kaz/26.07.2019
+repealed_on: 2021-07-27
+repealed_by:
+  code: '133510'
+  title: Ұлттық режимнен алып тастауды бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/133510/kaz
 ---
 
 # Ұлттық режимнен алып тастауды бекіту туралы
