@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/133510/rus/26.07.2019
+repealed_on: 2021-07-27
+repealed_by:
+  code: '133510'
+  title: Об установлении изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/133510/rus
 ---
 
 # Об установлении изъятия из национального режима
