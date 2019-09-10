@@ -1,84 +1,83 @@
 ↑ [Вся редакция](../rus.md)
 
 > *Приложение 8*  
-> *к Нормативным значениям и методикам расчетов*  
-> *пруденциальных нормативов и иных*  
-> *обязательных к соблюдению норм и лимитов*  
-> *размера капитала банка на определенную дату*
+> *к Нормативным значениям и методикам расчетов пруденциальных нормативов и иных обязательных к соблюдению норм и лимитов размера капитала банка на определенную дату*
 
 ## Список организаторов торгов, признаваемых международными фондовыми биржами
 
+> *Сноска. Список в редакции постановления Правления Национального Банка РК от 10.09.2019 № 151 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <a id="p1"></a>
 
-1. Чикагская товарная биржа (Chicago Mercantile Exchange).
+1. Фондовая биржа Австралии (Australian Stock Exchange).
 
 <a id="p2"></a>
 
-2. Чикагская срочная товарная биржа (The Chicago Board of Trade).
+2. Австрийская фондовая биржа (Wiener bourse AG).
 
 <a id="p3"></a>
 
-3. Лондонская международная биржа финансовых фьючерсов (London International Financial Futures and Options Exchange).
+3. Фондовая биржа США (National Association of Securities Dealers Automated Quotation, NASDAQ).
 
 <a id="p4"></a>
 
-4. Французская международная биржа финансовых фьючерсов (French International Financial Futures Exchange MATIF).
+4. Американская фондовая биржа (American Stock Exchange).
 
 <a id="p5"></a>
 
-5. Франкфуртская фондовая биржа (Frankfurt Stock Exchange).
+5. Биржа Международного финансового центра «Астана» (Astana International Exchange, AIX).
 
 <a id="p6"></a>
 
-6. Стокгольмская фондовая биржа (Stockholm Exchange).
+6. Европейская фондовая биржа «Евронекст» в Амстердаме (Euronext Amsterdam).
 
 <a id="p7"></a>
 
-7. Стамбульская фондовая биржа (Istanbul Stock Exchange).
+7. Фондовая биржа Афин (Athens Exchange).
 
 <a id="p8"></a>
 
-8. Шанхайская фондовая биржа (Shanghai Stock Exchange).
+8. Бомбейская фондовая биржа (The Bombay Stock Exchange Limited, BSE).
 
 <a id="p9"></a>
 
-9. Шэньчженьская фондовая биржа (Shenchzhen Stock Exchange).
+9. Бразильская фондовая биржа (Bovespa).
 
 <a id="p10"></a>
 
-10. Американская фондовая биржа (American Stock Exchange).
+10. Европейская фондовая биржа «Евронекст» в Брюсселе (Euronext Brussels).
 
 <a id="p11"></a>
 
-11. Фондовая биржа Афин (Athens Exchange).
+11. Варшавская фондовая биржа (Warsaw Stock Exchange).
 
 <a id="p12"></a>
 
-12. Фондовая биржа Австралии (Australian Stock Exchange).
+12. Гонконгская фондовая биржа (Hong Kong Exchanges and Clearing).
 
 <a id="p13"></a>
 
-13. Объединенная фондовая биржа Испании (ВМЕ Spanish Exchanges).
+13. Фондовая биржа Джакарты (Jakarta Stock Exchange).
 
 <a id="p14"></a>
 
-14. Итальянская фондовая биржа (Borsa Italiana SPA).
+14. Фондовая биржа Новой Зеландии (New Zealand Exchange).
 
 <a id="p15"></a>
 
-15. Фондовая биржа Люксембурга (Bourse de Luxembourg).
+15. Ирландская фондовая биржа (Irish Stock Exchange).
 
 <a id="p16"></a>
 
-16. Фондовая биржа Монреаля (Bourse de Montreal).
+16. Объединенная фондовая биржа Испании (ВМЕ Spanish Exchanges).
 
 <a id="p17"></a>
 
-17. Малазийская фондовая биржа (Bursa Malaysia).
+17. Итальянская фондовая биржа (Borsa Italiana SPA).
 
 <a id="p18"></a>
 
-18. Чикагская биржа опционов (Chicago Board Options Exchange).
+18. Фондовая биржа Йоханнесбурга (Южная Африка) (JSE Securities Exchange South Africa).
 
 <a id="p19"></a>
 
@@ -86,127 +85,131 @@
 
 <a id="p20"></a>
 
-20. Немецкая фондовая биржа (Deutsche bourse AG).
+20. Объединенная фондовая биржа, в состав которой входят биржи Стокгольма, Хельсинки, Таллина и Риги (Hex Integrated Markets Ltd.).
 
 <a id="p21"></a>
 
-21. Европейская фондовая биржа «Евронекст» в Амстердаме (Euronext Amsterdam).
+21. Европейская фондовая биржа «Евронекст» в Лиссабоне (Euronext Lisbon).
 
 <a id="p22"></a>
 
-22. Европейская фондовая биржа «Евронекст» в Брюсселе (Euronext Brussels).
+22. Лондонская фондовая биржа (London Stock Exchange).
 
 <a id="p23"></a>
 
-23. Европейская фондовая биржа «Евронекст» в Лиссабоне (Euronext Lisbon).
+23. Лондонская международная биржа финансовых фьючерсов (London International Financial Futures and Options Exchange).
 
 <a id="p24"></a>
 
-24. Европейская фондовая биржа «Евронекст» в Париже (Euronext Paris).
+24. Фондовая биржа Люксембурга (Bourse de Luxembourg).
 
 <a id="p25"></a>
 
-25. Объединенная фондовая биржа, в состав которой входят биржи Стокгольма, Хельсинки, Таллина и Риги (Hex Integrated Markets Ltd.).
+25. Малазийская фондовая биржа (Bursa Malaysia).
 
 <a id="p26"></a>
 
-26. Гонконгская фондовая биржа (Hong Kong Exchanges and Clearing).
+26. Фондовая биржа Мальты (Malta Stock Exchange).
 
 <a id="p27"></a>
 
-27. Ирландская фондовая биржа (Irish Stock Exchange).
+27. Мексиканская фондовая биржа (Bolsa Mexicana de Valores, BMV).
 
 <a id="p28"></a>
 
-28. Фондовая биржа Джакарты (Jakarta Stock Exchange).
+28. Фондовая биржа Монреаля (Bourse de Montreal).
 
 <a id="p29"></a>
 
-29. Фондовая биржа Йоханнесбурга (Южная Африка) (JSE Securities Exchange South Africa).
+29. Немецкая фондовая биржа (Deutsche bourse AG).
 
 <a id="p30"></a>
 
-30. Южнокорейская фондовая биржа (Korea Stock Exchange).
+30. Нью-Йоркская фондовая биржа (New York Stock Exchange).
 
 <a id="p31"></a>
 
-31. Лондонская фондовая биржа (London Stock Exchange).
+31. Южнокорейская фондовая биржа (Korea Stock Exchange).
 
 <a id="p32"></a>
 
-32. Фондовая биржа Мальты (Malta Stock Exchange).
+32. Фондовая биржа Осаки (Osaka Securities Exchange).
 
 <a id="p33"></a>
 
-33. Национальная фондовая биржа Индии (National Stock Exchange of India Limited).
+33. Фондовая биржа Осло (Oslo bourse).
 
 <a id="p34"></a>
 
-34. Нью-Йоркская фондовая биржа (New York Stock Exchange).
+34. Европейская фондовая биржа «Евронекст» в Париже (Euronext Paris).
 
 <a id="p35"></a>
 
-35. Фондовая биржа Новой Зеландии (New Zealand Exchange).
+35. Фондовая биржа Российской Федерации (ОАО ММВБ-РТС).
 
 <a id="p36"></a>
 
-36. Фондовая биржа Осаки (Osaka Securities Exchange).
+36. Сингапурская фондовая биржа (Singapore Exchange).
 
 <a id="p37"></a>
 
-37. Фондовая биржа Осло (Oslo bourse).
+37. Стамбульская фондовая биржа (Istanbul Stock Exchange).
 
 <a id="p38"></a>
 
-38. Филиппинская фондовая биржа (Philippine Stock Exchange).
+38. Стокгольмская фондовая биржа (Stockholm Exchange).
 
 <a id="p39"></a>
 
-39. Сингапурская фондовая биржа (Singapore Exchange).
+39. Токийская фондовая биржа (Tokyo Stock Exchange).
 
 <a id="p40"></a>
 
-40. Фондовая биржа Швейцарии (SWX Swiss Exchange).
+40. Фондовая биржа Торонто (Toronto Stock Exchange).
 
 <a id="p41"></a>
 
-41. Токийская фондовая биржа (Tokyo Stock Exchange).
+41. Индийская фондовая биржа (Delhi Stock Exchange).
 
 <a id="p42"></a>
 
-42. Австрийская фондовая биржа (Wiener bourse AG).
+42. Национальная фондовая биржа Индии (National Stock Exchange of India Limited).
 
 <a id="p43"></a>
 
-43. Варшавская фондовая биржа (Warsaw Stock Exchange).
+43. Филиппинская фондовая биржа (Philippine Stock Exchange).
 
 <a id="p44"></a>
 
-44. Бомбейская фондовая биржа (The Bombay Stock Exchange Limited, BSE).
+44. Франкфуртская фондовая биржа (Frankfurt Stock Exchange).
 
 <a id="p45"></a>
 
-45. Бразильская фондовая биржа (Bovespa).
+45. Французская международная биржа финансовых фьючерсов (French International Financial Futures Exchange MATIF).
 
 <a id="p46"></a>
 
-46. Индийская фондовая биржа (Delhi Stock Exchange).
+46. Чикагская срочная товарная биржа (The Chicago Board of Trade).
 
 <a id="p47"></a>
 
-47. Мексиканская фондовая биржа (Bolsa Mexicana de Valores, BMV).
+47. Чикагская биржа опционов (Chicago Board Options Exchange).
 
 <a id="p48"></a>
 
-48. Фондовая биржа Российской Федерации (ОАО ММВБ-РТС).
+48. Чикагская товарная биржа (Chicago Mercantile Exchange).
 
 <a id="p49"></a>
 
-49. Фондовая биржа Торонто (Toronto Stock Exchange).
+49. Шанхайская фондовая биржа (Shanghai Stock Exchange).
 
 <a id="p50"></a>
 
-50. Фондовая биржа США (National Association of Securities Dealers Automated Quotation, NASDAQ).
+50. Фондовая биржа Швейцарии (SWX Swiss Exchange).
+
+<a id="p51"></a>
+
+51. Шэньчженьская фондовая биржа (Shenchzhen Stock Exchange).
 
 > *Приложение 9*  
 > *к Нормативным значениям и методикам расчетов*  
