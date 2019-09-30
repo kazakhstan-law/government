@@ -28,7 +28,6 @@
 | [`part001-t005`](rus/part001-t005.md) | таблица 5 |
 | [`part001-part008`](rus/part001-part008.md) | part001-part008 |
 | [`part001-part010`](rus/part001-part010.md) | part001-part010 |
-| [`part001-t008`](rus/part001-t008.md) | таблица 8 |
-| [`part001-t009`](rus/part001-t009.md) | таблица 9 |
+| [`part001-part012`](rus/part001-part012.md) | part001-part012 |
 | [`part001-part014`](rus/part001-part014.md) | part001-part014 |
 | [`part002`](rus/part002.md) | Перечень утративших силу некоторых решений Правительства Республики Казахстан |
