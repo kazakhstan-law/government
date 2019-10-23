@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/94385/kaz/09.08.2019
+source: https://zan.gov.kz/client/#!/doc/94385/kaz/23.10.2019
 ---
 
 > *Алматы қаласы әкімдігінің*  
