@@ -32,7 +32,8 @@
 
 > *Алматы облысы әкімдігінің*  
 > *2018 жылғы «28» желтоқсандағы*  
-> *№ 622 қаулысына қосымша*
+> *№ 622 қаулысына қосымша*  
+> *Ескерту. Қосымша 6, 7, 8, 9 жолдарымен толықтырылды - Алматы облысы әкімдігінің 28.10.2019 № 463 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
@@ -619,5 +620,891 @@
 <td>43</td>
 <td>11</td>
 <td>13,4</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td rowspan="4">Баянкөл учаскесі</td>
+<td rowspan="4">Алматы облысы</td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>80</td>
+<td>11</td>
+<td>24,27</td>
+<td>42</td>
+<td>51</td>
+<td>15</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>11</td>
+<td>19,29</td>
+<td>42</td>
+<td>51</td>
+<td>33,53</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>11</td>
+<td>15,48</td>
+<td>42</td>
+<td>51</td>
+<td>32,48</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>11</td>
+<td>20,57</td>
+<td>42</td>
+<td>51</td>
+<td>20,21</td>
+</tr>
+<tr>
+<td rowspan="4">7</td>
+<td rowspan="4">Нұрлан учаскесі</td>
+<td rowspan="4">Алматы облысы</td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>42</td>
+<td>24</td>
+<td>47</td>
+<td>80</td>
+<td>6</td>
+<td>52</td>
+<td rowspan="4">4</td>
+<td rowspan="4">-</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42</td>
+<td>24</td>
+<td>47</td>
+<td>80</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42</td>
+<td>24</td>
+<td>40</td>
+<td>80</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42</td>
+<td>24</td>
+<td>40</td>
+<td>80</td>
+<td>6</td>
+<td>52</td>
+</tr>
+<tr>
+<td rowspan="76">8</td>
+<td rowspan="76">Безымянное учаскесі</td>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>79</td>
+<td>27</td>
+<td>26,1</td>
+<td>45</td>
+<td>8</td>
+<td>54,7</td>
+<td rowspan="4">2,462</td>
+<td rowspan="76">
+Безымянное
+учаскесі
+</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>27</td>
+<td>26,1</td>
+<td>45</td>
+<td>8</td>
+<td>54,7</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>27</td>
+<td>38,3</td>
+<td>45</td>
+<td>8</td>
+<td>54,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>27</td>
+<td>38,3</td>
+<td>45</td>
+<td>8</td>
+<td>54,7</td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1</td>
+<td>79</td>
+<td>27</td>
+<td>38,3</td>
+<td>45</td>
+<td>8</td>
+<td>57,7</td>
+<td rowspan="4">2,219</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>27</td>
+<td>38,3</td>
+<td>45</td>
+<td>9</td>
+<td>10,9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>27</td>
+<td>40,8</td>
+<td>45</td>
+<td>9</td>
+<td>10,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>27</td>
+<td>40,8</td>
+<td>45</td>
+<td>8</td>
+<td>57,7</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">3</td>
+<td>1</td>
+<td>79</td>
+<td>27</td>
+<td>33,8</td>
+<td>45</td>
+<td>9</td>
+<td>28,1</td>
+<td rowspan="4">4,52</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>27</td>
+<td>33,8</td>
+<td>45</td>
+<td>9</td>
+<td>36,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>27</td>
+<td>41,8</td>
+<td>45</td>
+<td>9</td>
+<td>36,5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>27</td>
+<td>41,8</td>
+<td>45</td>
+<td>9</td>
+<td>28,1</td>
+</tr>
+<tr>
+<td rowspan="4">4</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>10,5</td>
+<td>45</td>
+<td>11</td>
+<td>34,1</td>
+<td rowspan="4">4,648</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>17,7</td>
+<td>45</td>
+<td>11</td>
+<td>34,1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>17,7</td>
+<td>45</td>
+<td>11</td>
+<td>24,5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>10,5</td>
+<td>45</td>
+<td>11</td>
+<td>24,5</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">5</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>10,5</td>
+<td>45</td>
+<td>11</td>
+<td>24,5</td>
+<td rowspan="4">1,351</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>13,5</td>
+<td>45</td>
+<td>11</td>
+<td>24,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>13,5</td>
+<td>45</td>
+<td>11</td>
+<td>17,8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>10,5</td>
+<td>45</td>
+<td>11</td>
+<td>17,8</td>
+</tr>
+<tr>
+<td rowspan="4">5а</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>7,0</td>
+<td>45</td>
+<td>11</td>
+<td>17,8</td>
+<td rowspan="4">1,505</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>11,3</td>
+<td>45</td>
+<td>11</td>
+<td>17,8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>11,3</td>
+<td>45</td>
+<td>11</td>
+<td>12,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>7,0</td>
+<td>45</td>
+<td>11</td>
+<td>12,6</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">6</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>2,7</td>
+<td>45</td>
+<td>11</td>
+<td>12,6</td>
+<td rowspan="4">4,866</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>8,4</td>
+<td>45</td>
+<td>11</td>
+<td>12,6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>8,4</td>
+<td>45</td>
+<td>10</td>
+<td>59,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>2,7</td>
+<td>45</td>
+<td>10</td>
+<td>59,9</td>
+</tr>
+<tr>
+<td rowspan="4">6а</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>57,8</td>
+<td>45</td>
+<td>10</td>
+<td>59,9</td>
+<td rowspan="4">4,563</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>2,9</td>
+<td>45</td>
+<td>10</td>
+<td>59,9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>2,9</td>
+<td>45</td>
+<td>10</td>
+<td>46,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>57,8</td>
+<td>45</td>
+<td>10</td>
+<td>46,6</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">7</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>40,3</td>
+<td>45</td>
+<td>10</td>
+<td>47,5</td>
+<td rowspan="4">4,614</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>48,1</td>
+<td>45</td>
+<td>10</td>
+<td>47,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>48,1</td>
+<td>45</td>
+<td>10</td>
+<td>38,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>40,3</td>
+<td>45</td>
+<td>10</td>
+<td>38,7</td>
+</tr>
+<tr>
+<td rowspan="4">8</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>36,7</td>
+<td>45</td>
+<td>10</td>
+<td>38,7</td>
+<td rowspan="4">3,977</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>44,0</td>
+<td>45</td>
+<td>10</td>
+<td>38,7</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>44,0</td>
+<td>45</td>
+<td>10</td>
+<td>30,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>36,7</td>
+<td>45</td>
+<td>10</td>
+<td>30,6</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">8а</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>31,9</td>
+<td>45</td>
+<td>10</td>
+<td>30,6</td>
+<td rowspan="4">4,662</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>38,9</td>
+<td>45</td>
+<td>10</td>
+<td>30,6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>38,9</td>
+<td>45</td>
+<td>10</td>
+<td>20,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>31,9</td>
+<td>45</td>
+<td>10</td>
+<td>20,7</td>
+</tr>
+<tr>
+<td rowspan="4">9</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>16,8</td>
+<td>45</td>
+<td>8</td>
+<td>13,2</td>
+<td rowspan="4">4,748</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>24,0</td>
+<td>45</td>
+<td>8</td>
+<td>13,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>24,0</td>
+<td>45</td>
+<td>8</td>
+<td>3,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>16,8</td>
+<td>45</td>
+<td>8</td>
+<td>3,4</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">9а</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>23,1</td>
+<td>45</td>
+<td>8</td>
+<td>3,4</td>
+<td rowspan="4">4,739</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>31,1</td>
+<td>45</td>
+<td>8</td>
+<td>3,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>31,1</td>
+<td>45</td>
+<td>7</td>
+<td>54,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>23,1</td>
+<td>45</td>
+<td>7</td>
+<td>54,6</td>
+</tr>
+<tr>
+<td rowspan="4">10</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>44,7</td>
+<td>45</td>
+<td>8</td>
+<td>24,2</td>
+<td rowspan="4">3,938</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>24,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>44,7</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">11</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>24,2</td>
+<td rowspan="4">4,481</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>8</td>
+<td>24,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td rowspan="4">12</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+<td rowspan="4">4,929</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>8</td>
+<td>15,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>8</td>
+<td>5,3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>51,2</td>
+<td>45</td>
+<td>8</td>
+<td>5,3</td>
+</tr>
+<tr>
+<td rowspan="8">Алматы облысы</td>
+<td rowspan="4">13</td>
+<td>1</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>8</td>
+<td>5,3</td>
+<td rowspan="4">4,982</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>6,0</td>
+<td>45</td>
+<td>8</td>
+<td>5,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>6,0</td>
+<td>45</td>
+<td>7</td>
+<td>55,3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>23</td>
+<td>58,6</td>
+<td>45</td>
+<td>7</td>
+<td>55,3</td>
+</tr>
+<tr>
+<td rowspan="4">14</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>6,0</td>
+<td>45</td>
+<td>7</td>
+<td>55,3</td>
+<td rowspan="4">4,859</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>15,5</td>
+<td>45</td>
+<td>7</td>
+<td>55,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>15,5</td>
+<td>45</td>
+<td>7</td>
+<td>47,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>6,0</td>
+<td>45</td>
+<td>7</td>
+<td>47,7</td>
+</tr>
+<tr>
+<td rowspan="4">Алматы облысы</td>
+<td rowspan="4">15</td>
+<td>1</td>
+<td>79</td>
+<td>24</td>
+<td>21,3</td>
+<td>45</td>
+<td>7</td>
+<td>51,8</td>
+<td rowspan="4">4,717</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>24</td>
+<td>41,9</td>
+<td>45</td>
+<td>7</td>
+<td>51,8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>24</td>
+<td>41,9</td>
+<td>45</td>
+<td>7</td>
+<td>48,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>24</td>
+<td>21,3</td>
+<td>45</td>
+<td>7</td>
+<td>48,4</td>
+</tr>
+<tr>
+<td rowspan="4">9</td>
+<td rowspan="4">Санжар учаскесі</td>
+<td rowspan="4">Алматы облысы</td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>42</td>
+<td>26</td>
+<td>00,40</td>
+<td>80</td>
+<td>04</td>
+<td>44,24</td>
+<td rowspan="4">2,1</td>
+<td rowspan="4">-</td>
+<td rowspan="4">Жер қойнауын пайдаланудан босатылды</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42</td>
+<td>26</td>
+<td>00,40</td>
+<td>80</td>
+<td>04</td>
+<td>54,28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42</td>
+<td>26</td>
+<td>03,08</td>
+<td>80</td>
+<td>04</td>
+<td>44,24</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42</td>
+<td>26</td>
+<td>03,13</td>
+<td>80</td>
+<td>04</td>
+<td>54,24</td>
 </tr>
 </table>
