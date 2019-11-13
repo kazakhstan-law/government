@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/101153/rus/03.06.2019
+source: https://zan.gov.kz/client/#!/doc/101153/rus/13.11.2019
 ---
 
 > *Утвержден постановлением*  
