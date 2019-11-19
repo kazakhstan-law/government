@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/27085/rus/28.12.2018
+source: https://zan.gov.kz/client/#!/doc/27085/rus/19.11.2019
 ---
 
 ## Глава 5. Требования к соблюдению ликвидационной комиссией кассовой дисциплины
