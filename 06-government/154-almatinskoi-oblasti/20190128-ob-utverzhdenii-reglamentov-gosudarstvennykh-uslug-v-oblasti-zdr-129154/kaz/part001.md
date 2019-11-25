@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/129154/kaz/08.10.2019
+source: https://zan.gov.kz/client/#!/doc/129154/kaz/25.11.2019
 ---
 
 > *Алматы облысы әкімдігінің*  
