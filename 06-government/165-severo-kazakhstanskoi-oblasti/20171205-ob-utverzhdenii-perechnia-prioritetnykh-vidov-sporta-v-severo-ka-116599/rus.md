@@ -14,6 +14,11 @@ approval_date: 2017-12-05
 version_date: 2017-12-05
 registry_number: '116599'
 source: https://zan.gov.kz/client/#!/doc/116599/rus/05.12.2017
+repealed_on: 2020-01-01
+repealed_by:
+  code: '136815'
+  title: Об утверждении перечня приоритетных видов спорта в Северо-Казахстанской области на 2020-2021 годы
+  link: https://zan.gov.kz/client/#!/doc/136815/rus
 ---
 
 # Об утверждении перечня приоритетных видов спорта в Северо-Казахстанской области
