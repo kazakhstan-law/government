@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
+source: https://zan.gov.kz/client/#!/doc/98192/rus/12.12.2019
 ---
 
 # Об установлении базовых ставок платы за земельные участки при их предоставлении в частную собственность на территории населенных пунктов Северо-Казахстанской области
@@ -26,24 +26,21 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 
 > *Приложение*  
 > *к совместному постановлению акимата*  
-> *Северо-Казахстанской области от*  
-> *14 декабря 2015 года № 485 и решению*  
-> *Северо-Казахстанского областного*  
-> *маслихата от 14 декабря 2015 года № 40/8*
+> *Северо-Казахстанской области*  
+> *от 14 декабря 2015 года № 485*  
+> *и решению Северо-Казахстанского*  
+> *областного маслихата*  
+> *от 14 декабря 2015 года № 40/8*
 
-# Базовые ставки платы за земельные участки при их предоставлении в частную собственность на территории населенных пунктов Северо-Казахстанской области
+## Базовые ставки платы за земельные участки при их предоставлении в частную собственность на территории населенных пунктов Северо-Казахстанской области
+
+> *Сноска. Приложение в редакции совместных постановления акимата Северо-Казахстанской области от 12.12.2019 № 322 и решения Северо-Казахстанского областного маслихата от 11.12.2019 № 39/4 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td>
-<strong>Номер кадастрового квартала</strong>
-</td>
-<td>
-<strong>Наименование населенных пунктов</strong>
-</td>
-<td>
-<strong>Базовая ставка платы в тенге за 1 квадратный метр</strong>
-</td>
+<td>Номер кадастрового квартала</td>
+<td>Наименование населенных пунктов</td>
+<td>Базовая ставка платы в тенге за 1 квадратный метр</td>
 </tr>
 <tr>
 <td>1</td>
@@ -51,20 +48,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>3</td>
 </tr>
 <tr>
-<td>
-<strong>город Петропавловск</strong>
-</td>
-<td>
-<strong>областной центр</strong>
-</td>
-<td>
-<strong>1746,0</strong>
-</td>
+<td>город Петропавловск</td>
+<td>областной центр</td>
+<td>1746,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Айыртауский район</strong>
-</td>
+<td colspan="3">Айыртауский район</td>
 </tr>
 <tr>
 <td>село Саумалколь</td>
@@ -72,9 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>303,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Антоновский сельский округ</strong>
-</td>
+<td colspan="3">Антоновский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-003</td>
@@ -83,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-004</td>
-<td>аул Акан сере</td>
+<td>село Акана сери</td>
 <td>234,4</td>
 </tr>
 <tr>
@@ -112,18 +99,16 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>198,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Арыкбалыкский сельский округ</strong>
-</td>
+<td colspan="3">Арыкбалыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-050</td>
-<td>аул Агынтай батыра</td>
+<td>село Агынтай батыра</td>
 <td>206,4</td>
 </tr>
 <tr>
 <td>15-157-050</td>
-<td>аул Карасай батыра</td>
+<td>село Карасай батыра</td>
 <td>222,6</td>
 </tr>
 <tr>
@@ -138,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-050</td>
-<td>аул Баян</td>
+<td>село Баян</td>
 <td>196,5</td>
 </tr>
 <tr>
@@ -147,9 +132,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Володарский сельский округ</strong>
-</td>
+<td colspan="3">Володарский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-001</td>
@@ -167,11 +150,6 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>217,7</td>
 </tr>
 <tr>
-<td>15-157-001</td>
-<td>село Копа</td>
-<td>206,9</td>
-</tr>
-<tr>
 <td>15-157-011</td>
 <td>село Красногорка</td>
 <td>216,9</td>
@@ -187,9 +165,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>227,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Гусаковский сельский округ</strong>
-</td>
+<td colspan="3">Гусаковский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-054</td>
@@ -208,18 +184,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-056</td>
-<td>село Красный кордон</td>
-<td>163,4</td>
-</tr>
-<tr>
-<td>15-157-056</td>
 <td>село Новосветловка</td>
 <td>178,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Елецкий сельский округ</strong>
-</td>
+<td colspan="3">Елецкий сельский округ</td>
 </tr>
 <tr>
 <td>15-157-010</td>
@@ -238,18 +207,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-010</td>
-<td>село Кругловка</td>
-<td>218,7</td>
-</tr>
-<tr>
-<td>15-157-010</td>
 <td>село Междуозерное</td>
 <td>212,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Имантауский сельский округ</strong>
-</td>
+<td colspan="3">Имантауский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-051</td>
@@ -258,18 +220,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-051</td>
-<td>село Верхний Бурлук</td>
+<td>село Верхний Бурлык</td>
 <td>186,5</td>
 </tr>
 <tr>
-<td>15-157-051</td>
-<td>село Цуриковка</td>
-<td>155,2</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Казанский сельский округ</strong>
-</td>
+<td colspan="3">Казанский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-012</td>
@@ -283,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-013</td>
-<td>аул Бурлык</td>
+<td>село Бурлык</td>
 <td>210,1</td>
 </tr>
 <tr>
@@ -293,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-002</td>
-<td>село Никольско-Бурлукское</td>
+<td>село Николо-Бурлыкское</td>
 <td>189,4</td>
 </tr>
 <tr>
@@ -307,9 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>196,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Камсактинский сельский округ</strong>
-</td>
+<td colspan="3">Камсактинский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-015</td>
@@ -333,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-015</td>
-<td>аул Кумтоккен</td>
+<td>село Кумтоккен</td>
 <td>162,9</td>
 </tr>
 <tr>
@@ -342,9 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>164,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Каратальский сельский округ</strong>
-</td>
+<td colspan="3">Каратальский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-016</td>
@@ -353,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-016</td>
-<td>аул Шукирлик</td>
+<td>село Шукирлик</td>
 <td>211,0</td>
 </tr>
 <tr>
@@ -372,9 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>194,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Константиновский сельский округ</strong>
-</td>
+<td colspan="3">Константиновский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-058</td>
@@ -393,12 +342,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-058</td>
-<td>аул Аканбурлык</td>
+<td>село Аканбурлык</td>
 <td>149,6</td>
 </tr>
 <tr>
 <td>15-157-058</td>
-<td>аул Акшокы</td>
+<td>село Акшокы</td>
 <td>172,3</td>
 </tr>
 <tr>
@@ -407,9 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>170,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Лобановский сельский округ</strong>
-</td>
+<td colspan="3">Лобановский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-052</td>
@@ -418,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-052</td>
-<td>аул Альжан</td>
+<td>село Альжан</td>
 <td>176,9</td>
 </tr>
 <tr>
@@ -432,29 +379,20 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>189,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Нижнебурлукский сельский округ</strong>
-</td>
+<td colspan="3">Нижнебурлыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-059</td>
-<td>село Нижний Бурлук</td>
+<td>село Нижний Бурлык</td>
 <td>175,5</td>
 </tr>
 <tr>
 <td>15-157-059</td>
-<td>село Алтынбулак</td>
-<td>162,2</td>
-</tr>
-<tr>
-<td>15-157-059</td>
-<td>аул Жаксы Жалгызтау</td>
+<td>село Жаксы Жалгызтау</td>
 <td>164,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Сырымбетский сельский округ</strong>
-</td>
+<td colspan="3">Сырымбетский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-019</td>
@@ -478,18 +416,13 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-157-009</td>
-<td>аул Егиндыагаш</td>
+<td>село Егиндыагаш</td>
 <td>184,5</td>
 </tr>
 <tr>
 <td>15-157-009</td>
 <td>село Каракамыс</td>
 <td>176,2</td>
-</tr>
-<tr>
-<td>15-157-019</td>
-<td>село Качиловка</td>
-<td>189,5</td>
 </tr>
 <tr>
 <td>15-157-019</td>
@@ -502,13 +435,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>175,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Украинский сельский округ</strong>
-</td>
+<td colspan="3">Украинский сельский округ</td>
 </tr>
 <tr>
 <td>15-157-011</td>
-<td>аул Бурлык</td>
+<td>село Бурлык</td>
 <td>218,7</td>
 </tr>
 <tr>
@@ -547,25 +478,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Акжарский район</strong>
-</td>
+<td colspan="3">Акжарский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Талшик</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>254,0</strong>
-</td>
+<td>село Талшык</td>
+<td>районный центр</td>
+<td>254,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Айсаринский сельский округ</strong>
-</td>
+<td colspan="3">Айсаринский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-026</td>
@@ -573,9 +494,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Акжаркынский сельский округ</strong>
-</td>
+<td colspan="3">Акжаркынский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-037</td>
@@ -588,9 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>228,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Алкатерекский сельский округ</strong>
-</td>
+<td colspan="3">Алкатерекский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-025</td>
@@ -598,9 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>230,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Восходский сельский округ</strong>
-</td>
+<td colspan="3">Восходский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-027</td>
@@ -613,9 +528,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кенащинский сельский округ</strong>
-</td>
+<td colspan="3">Кенащинский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-030</td>
@@ -624,13 +537,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-167-030</td>
-<td>село Кенащи</td>
+<td>село Кенащы</td>
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кишикаройский сельский округ</strong>
-</td>
+<td colspan="3">Кишикараойский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-029</td>
@@ -643,9 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>154,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кулыкольский сельский округ</strong>
-</td>
+<td colspan="3">Кулыкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-006</td>
@@ -658,9 +567,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>230,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ленинградский сельский округ</strong>
-</td>
+<td colspan="3">Ленинградский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-036</td>
@@ -678,9 +585,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>228,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Майский сельский округ</strong>
-</td>
+<td colspan="3">Майский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-007</td>
@@ -688,9 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Новосельский сельский округ</strong>
-</td>
+<td colspan="3">Новосельский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-003</td>
@@ -703,9 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Талшикский сельский округ</strong>
-</td>
+<td colspan="3">Талшикский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-004</td>
@@ -714,7 +615,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-167-001,002</td>
-<td>село Талшик</td>
+<td>село Талшык</td>
 <td>254,0</td>
 </tr>
 <tr>
@@ -723,9 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>230,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Уялинский сельский округ</strong>
-</td>
+<td colspan="3">Уялинский сельский округ</td>
 </tr>
 <tr>
 <td>15-167-009</td>
@@ -738,25 +637,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Аккайынский район</strong>
-</td>
+<td colspan="3">Аккайынский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Смирново</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>340,0</strong>
-</td>
+<td>село Смирново</td>
+<td>районный центр</td>
+<td>340,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Астраханский сельский округ</strong>
-</td>
+<td colspan="3">Астраханский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-008</td>
@@ -769,9 +658,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>238,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Аралагашский сельский округ</strong>
-</td>
+<td colspan="3">Аралагашский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-036</td>
@@ -789,9 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>198,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>аульный округ Шагалалы</strong>
-</td>
+<td colspan="3">сельский округ Шагалалы</td>
 </tr>
 <tr>
 <td>15-229-047</td>
@@ -800,7 +685,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-229-045</td>
-<td>аул Шагалалы</td>
+<td>село Шагалалы</td>
 <td>195,5</td>
 </tr>
 <tr>
@@ -809,9 +694,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Власовский сельский округ</strong>
-</td>
+<td colspan="3">Власовский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-051</td>
@@ -829,9 +712,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Григорьевский сельский округ</strong>
-</td>
+<td colspan="3">Григорьевский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-018</td>
@@ -840,12 +721,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-229-019</td>
-<td>аул Кенжегалы</td>
+<td>село Кенжегалы</td>
 <td>234,7</td>
 </tr>
 <tr>
 <td>15-229-020</td>
-<td>аул Коктерек</td>
+<td>село Коктерек</td>
 <td>230,5</td>
 </tr>
 <tr>
@@ -854,9 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>247,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ивановский сельский округ</strong>
-</td>
+<td colspan="3">Ивановский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-026</td>
@@ -869,9 +748,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>185,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Киялинский сельский округ</strong>
-</td>
+<td colspan="3">Киялинский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-057</td>
@@ -889,9 +766,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>197,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Лесной сельский округ</strong>
-</td>
+<td colspan="3">Лесной сельский округ</td>
 </tr>
 <tr>
 <td>15-229-030</td>
@@ -900,13 +775,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-229-032</td>
-<td>аул Дайындык</td>
+<td>село Дайындык</td>
 <td>213,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Полтавский сельский округ</strong>
-</td>
+<td colspan="3">Полтавский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-023</td>
@@ -915,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-229-024</td>
-<td>село Лесные Поляны</td>
+<td>село Лесные поляны</td>
 <td>209,6</td>
 </tr>
 <tr>
@@ -924,9 +797,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>211,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Токушинский сельский округ</strong>
-</td>
+<td colspan="3">Токушинский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-004</td>
@@ -944,9 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Черкасский сельский округ</strong>
-</td>
+<td colspan="3">Черкасский сельский округ</td>
 </tr>
 <tr>
 <td>15-229-038</td>
@@ -964,35 +833,20 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>район имени Габита Мусрепова</strong>
-</td>
+<td colspan="3">район имени Габита Мусрепова</td>
 </tr>
 <tr>
-<td>
-<strong>село Новоишимское</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>498,0</strong>
-</td>
+<td>село Новоишимское</td>
+<td>районный центр</td>
+<td>498,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Андреевский сельский округ</strong>
-</td>
+<td colspan="3">Андреевский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-034</td>
 <td>село Андреевка</td>
 <td>193,2</td>
-</tr>
-<tr>
-<td>15-165-034</td>
-<td>село Беспаловка</td>
-<td>177,4</td>
 </tr>
 <tr>
 <td>15-165-034</td>
@@ -1005,9 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>181,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Бирликский сельский округ</strong>
-</td>
+<td colspan="3">Бирликский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-039</td>
@@ -1020,9 +872,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>214,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Возвышенский сельский округ</strong>
-</td>
+<td colspan="3">Возвышенский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-038</td>
@@ -1055,9 +905,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>164,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Дружбинский сельский округ</strong>
-</td>
+<td colspan="3">Дружбинский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-014</td>
@@ -1080,9 +928,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>187,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кокалажарский сельский округ</strong>
-</td>
+<td colspan="3">Кокалажарский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-036</td>
@@ -1091,13 +937,16 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-165-036</td>
+<td>село Сарыбулак</td>
+<td>188,6</td>
+</tr>
+<tr>
+<td>15-165-036</td>
 <td>село Мадениет</td>
 <td>195,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кырымбетский сельский округ</strong>
-</td>
+<td colspan="3">Кырымбетский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-048</td>
@@ -1110,19 +959,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>160,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ломоносовский сельский округ</strong>
-</td>
+<td colspan="3">Ломоносовский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-010</td>
 <td>село Ломоносовка</td>
 <td>212,3</td>
-</tr>
-<tr>
-<td>15-165-010</td>
-<td>село Ломоносовское</td>
-<td>193,2</td>
 </tr>
 <tr>
 <td>15-165-009</td>
@@ -1140,9 +982,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>204,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Нежинский сельский округ</strong>
-</td>
+<td colspan="3">Нежинский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-007</td>
@@ -1170,9 +1010,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>211,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Новосельский сельский округ</strong>
-</td>
+<td colspan="3">Новосельский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-040</td>
@@ -1190,9 +1028,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>215,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Рузаевский сельский округ</strong>
-</td>
+<td colspan="3">Рузаевский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-046</td>
@@ -1216,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-165-046</td>
-<td>село Сарыадыр</td>
+<td>село Сарадыр</td>
 <td>199,5</td>
 </tr>
 <tr>
@@ -1225,9 +1061,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>212,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Салкынкольский сельский округ</strong>
-</td>
+<td colspan="3">Салкынкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-053</td>
@@ -1240,9 +1074,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>157,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тахтабродский сельский округ</strong>
-</td>
+<td colspan="3">Тахтабродский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-051</td>
@@ -1270,9 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>153,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Червонный сельский округ</strong>
-</td>
+<td colspan="3">Червонный сельский округ</td>
 </tr>
 <tr>
 <td>15-165-001</td>
@@ -1290,9 +1120,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>248,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Чистопольский сельский округ</strong>
-</td>
+<td colspan="3">Чистопольский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-055,056,057</td>
@@ -1325,14 +1153,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>175,1</td>
 </tr>
 <tr>
-<td>15-165-047</td>
-<td>село Шакпак</td>
-<td>160,4</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Шоптыкольский сельский округ</strong>
-</td>
+<td colspan="3">Шоптыкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-060</td>
@@ -1360,9 +1181,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>153,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Шукыркольский сельский округ</strong>
-</td>
+<td colspan="3">Шукыркольский сельский округ</td>
 </tr>
 <tr>
 <td>15-165-042</td>
@@ -1380,45 +1199,33 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>200,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Есильский район</strong>
-</td>
+<td colspan="3">Есильский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Явленка</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>320,4</strong>
-</td>
+<td>село Явленка</td>
+<td>районный центр</td>
+<td>320,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Алматинский сельский округ</strong>
-</td>
+<td colspan="3">Алматинский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-012</td>
-<td>аул Орнек</td>
-<td>169,7</td>
+<td>село Орнек</td>
+<td>173,2</td>
 </tr>
 <tr>
 <td>15-224-014</td>
-<td>аул Жаркайын</td>
+<td>село Жаргайын</td>
 <td>190,5</td>
 </tr>
 <tr>
 <td>15-224-013</td>
-<td>аул Мектеп</td>
-<td>145,7</td>
+<td>село Мектеп</td>
+<td>149,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Амангельдинский сельский округ</strong>
-</td>
+<td colspan="3">Амангельдинский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-027</td>
@@ -1427,7 +1234,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-028</td>
-<td>аул Талапкер</td>
+<td>село Талапкер</td>
 <td>192,8</td>
 </tr>
 <tr>
@@ -1441,9 +1248,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Булакский сельский округ</strong>
-</td>
+<td colspan="3">Булакский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-079</td>
@@ -1452,18 +1257,16 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-080</td>
-<td>аул Актас</td>
+<td>село Актас</td>
 <td>157,7</td>
 </tr>
 <tr>
 <td>15-224-081</td>
-<td>аул Карагай</td>
+<td>село Карагай</td>
 <td>156,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Бескудукский сельский округ</strong>
-</td>
+<td colspan="3">Бескудыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-055</td>
@@ -1482,13 +1285,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-057</td>
-<td>аул Алабие</td>
+<td>село Алабие</td>
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Волошинский сельский округ</strong>
-</td>
+<td colspan="3">Волошинский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-075</td>
@@ -1506,9 +1307,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>162,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Заречный сельский округ</strong>
-</td>
+<td colspan="3">Заречный сельский округ</td>
 </tr>
 <tr>
 <td>15-224-032</td>
@@ -1531,24 +1330,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>205,4</td>
 </tr>
 <tr>
-<td>15-224-035</td>
-<td>ауыл Орталык</td>
-<td>186,5</td>
-</tr>
-<tr>
-<td>15-224-036</td>
-<td>ауыл Жаналык</td>
-<td>184,4</td>
-</tr>
-<tr>
 <td>15-224-038</td>
 <td>село Караагаш</td>
 <td>180,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Заградовский сельский округ</strong>
-</td>
+<td colspan="3">Заградовский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-083</td>
@@ -1572,13 +1359,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-088</td>
-<td>село Жамбул</td>
+<td>село Жамбыл</td>
 <td>156,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ильинский сельский округ</strong>
-</td>
+<td colspan="3">Ильинский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-016</td>
@@ -1592,13 +1377,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-017</td>
-<td>аул Амангельды</td>
+<td>село Амангельды</td>
 <td>181,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Корнеевский сельский округ</strong>
-</td>
+<td colspan="3">Корнеевский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-067,068</td>
@@ -1621,9 +1404,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>167,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Николаевский сельский округ</strong>
-</td>
+<td colspan="3">Николаевский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-008,009</td>
@@ -1632,13 +1413,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-010</td>
-<td>аул Каратал</td>
+<td>село Каратал</td>
 <td>192,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Петровский сельский округ</strong>
-</td>
+<td colspan="3">Петровский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-023</td>
@@ -1652,7 +1431,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-024</td>
-<td>аул Мадениет</td>
+<td>село Мадениет</td>
 <td>209,6</td>
 </tr>
 <tr>
@@ -1662,13 +1441,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-006</td>
-<td>аул Жекеколь</td>
+<td>село Жекеколь</td>
 <td>197,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Покровский сельский округ</strong>
-</td>
+<td colspan="3">Покровский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-045,046</td>
@@ -1682,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-048</td>
-<td>аул Енбек</td>
+<td>село Енбек</td>
 <td>203,3</td>
 </tr>
 <tr>
@@ -1691,9 +1468,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>215,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Спасовский сельский округ</strong>
-</td>
+<td colspan="3">Спасовский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-001</td>
@@ -1707,13 +1482,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-224-002</td>
-<td>аул Тауагаш</td>
+<td>село Тауагаш</td>
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Торангульский сельский округ</strong>
-</td>
+<td colspan="3">Торангульский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-059</td>
@@ -1726,19 +1499,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>217,9</td>
 </tr>
 <tr>
-<td>15-224-061</td>
-<td>село Сарыколь</td>
-<td>211,6</td>
-</tr>
-<tr>
-<td>15-224-062</td>
-<td>село Иверск</td>
-<td>186,7</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Ясновский сельский округ</strong>
-</td>
+<td colspan="3">Ясновский сельский округ</td>
 </tr>
 <tr>
 <td>15-224-071</td>
@@ -1751,25 +1512,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>177,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Жамбылский район</strong>
-</td>
+<td colspan="3">Жамбылский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Пресновка</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>407,7</strong>
-</td>
+<td>село Пресновка</td>
+<td>районный центр</td>
+<td>407,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Архангельский сельский округ</strong>
-</td>
+<td colspan="3">Архангельский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-069</td>
@@ -1778,28 +1529,26 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-071</td>
-<td>аул Айтуар</td>
+<td>село Айтуар</td>
 <td>173,4</td>
 </tr>
 <tr>
 <td>15-223-072</td>
-<td>аул Ульго</td>
+<td>село Ульго</td>
 <td>173,4</td>
 </tr>
 <tr>
 <td>15-223-077</td>
-<td>аул Баян</td>
+<td>село Баян</td>
 <td>181,0</td>
 </tr>
 <tr>
 <td>15-223-079</td>
-<td>аул Баймагамбета Изтолина</td>
+<td>село Баймагамбета Изтолина</td>
 <td>163,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Благовещенский сельский округ</strong>
-</td>
+<td colspan="3">Благовещенский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-062,063,064</td>
@@ -1813,18 +1562,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-066</td>
-<td>аул Майбалык</td>
+<td>село Майбалық</td>
 <td>175,3</td>
 </tr>
 <tr>
-<td>15-223-067</td>
-<td>аул Талпын</td>
-<td>192,8</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Жамбылский сельский округ</strong>
-</td>
+<td colspan="3">Жамбылский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-087</td>
@@ -1833,28 +1575,26 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-089</td>
-<td>аул Амангельды</td>
+<td>село Амангельды</td>
 <td>184,8</td>
 </tr>
 <tr>
 <td>15-223-088</td>
-<td>аул Караагаш</td>
+<td>село Караагаш</td>
 <td>194,3</td>
 </tr>
 <tr>
 <td>15-223-092</td>
-<td>аул Есперлы</td>
+<td>село Есперли</td>
 <td>186,9</td>
 </tr>
 <tr>
 <td>15-223-091</td>
-<td>аул Суатколь</td>
+<td>село Суатколь</td>
 <td>180,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Казанский сельский округ</strong>
-</td>
+<td colspan="3">Казанский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-014</td>
@@ -1867,19 +1607,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td>15-223-037</td>
-<td>село Матросовка</td>
-<td>203,3</td>
-</tr>
-<tr>
 <td>15-223-036</td>
 <td>село Светлое</td>
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кайранкольский сельский округ</strong>
-</td>
+<td colspan="3">Кайранкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-081</td>
@@ -1897,9 +1630,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>192,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кладбинский сельский округ</strong>
-</td>
+<td colspan="3">Кладбинский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-032</td>
@@ -1927,14 +1658,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>203,8</td>
 </tr>
 <tr>
-<td>15-223-030</td>
-<td>село Уткино</td>
-<td>192,4</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Майбалыкский сельский округ</strong>
-</td>
+<td colspan="3">Майбалыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-058</td>
@@ -1943,7 +1667,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-059</td>
-<td>аул Сабит</td>
+<td>село Сабит</td>
 <td>186,7</td>
 </tr>
 <tr>
@@ -1953,13 +1677,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-054</td>
-<td>аул Жанажол</td>
+<td>село Жанажол</td>
 <td>192,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Мирный сельский округ</strong>
-</td>
+<td colspan="3">Мирный сельский округ</td>
 </tr>
 <tr>
 <td>15-223-042</td>
@@ -1968,12 +1690,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-040</td>
-<td>аул Айымжан</td>
+<td>село Айымжан</td>
 <td>205,4</td>
 </tr>
 <tr>
 <td>15-223-044</td>
-<td>село Узынколь</td>
+<td>село Узунколь</td>
 <td>201,2</td>
 </tr>
 <tr>
@@ -1987,9 +1709,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>194,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Озерный сельский округ</strong>
-</td>
+<td colspan="3">Озерный сельский округ</td>
 </tr>
 <tr>
 <td>15-223-049</td>
@@ -1997,24 +1717,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>180,0</td>
 </tr>
 <tr>
-<td>15-223-050</td>
-<td>аул Акбалык</td>
-<td>176,6</td>
-</tr>
-<tr>
 <td>15-223-052</td>
-<td>село Бауманское</td>
+<td>село Бауман</td>
 <td>185,2</td>
 </tr>
 <tr>
 <td>15-223-051</td>
-<td>аул Каракамыс</td>
+<td>село Каракамыс</td>
 <td>173,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Первомайский сельский округ</strong>
-</td>
+<td colspan="3">Первомайский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-009</td>
@@ -2037,14 +1750,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>196,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Пресновский сельский округ</strong>
-</td>
-</tr>
-<tr>
-<td>15-223-021</td>
-<td>село Островка</td>
-<td>197,0</td>
+<td colspan="3">Пресновский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-023</td>
@@ -2052,9 +1758,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Пресноредутский сельский округ</strong>
-</td>
+<td colspan="3">Пресноредутский сельский округ</td>
 </tr>
 <tr>
 <td>15-223-006</td>
@@ -2073,13 +1777,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-007</td>
-<td>аул Нурымбет</td>
+<td>село Нурымбет</td>
 <td>186,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Троицкий сельский округ</strong>
-</td>
+<td colspan="3">Троицкий сельский округ</td>
 </tr>
 <tr>
 <td>15-223-074</td>
@@ -2088,29 +1790,19 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-223-075</td>
-<td>аул Орталык</td>
+<td>село Орталық</td>
 <td>175,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кызылжарский район</strong>
-</td>
+<td colspan="3">Кызылжарский район</td>
 </tr>
 <tr>
-<td>
-<strong>аул Бесколь</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>475,0</strong>
-</td>
+<td>село Бесколь</td>
+<td>районный центр</td>
+<td>475,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Архангельский сельский округ</strong>
-</td>
+<td colspan="3">Архангельский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-019</td>
@@ -2123,9 +1815,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Асановский сельский округ</strong>
-</td>
+<td colspan="3">Асановский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-006</td>
@@ -2134,7 +1824,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-220-010</td>
-<td>село Малое Белое</td>
+<td>село Малое белое</td>
 <td>224,2</td>
 </tr>
 <tr>
@@ -2153,9 +1843,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Березовский сельский округ</strong>
-</td>
+<td colspan="3">Березовский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-090</td>
@@ -2165,12 +1853,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <tr>
 <td>15-220-088</td>
 <td>село Большая Малышка</td>
-<td>203,8</td>
+<td>209,6</td>
 </tr>
 <tr>
 <td>15-220-091</td>
 <td>село Ташкентка</td>
-<td>211,5</td>
+<td>209,6</td>
 </tr>
 <tr>
 <td>15-220-089</td>
@@ -2183,14 +1871,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>162,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Бугровский сельский округ</strong>
-</td>
+<td colspan="3">Бугровской сельский округ</td>
 </tr>
 <tr>
 <td>15-220-122</td>
 <td>село Сосновка</td>
-<td>200,0</td>
+<td>180,0</td>
 </tr>
 <tr>
 <td>15-220-111</td>
@@ -2203,19 +1889,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>164,6</td>
 </tr>
 <tr>
-<td>15-220-113</td>
-<td>село Николаевка</td>
-<td>154,3</td>
-</tr>
-<tr>
 <td>15-220-112</td>
 <td>село Новогеоргиевка</td>
 <td>169,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Вагулинский сельский округ</strong>
-</td>
+<td colspan="3">Вагулинский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-093</td>
@@ -2234,7 +1913,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-220-086</td>
-<td>село Красный Яр</td>
+<td>село Красный яр</td>
 <td>161,2</td>
 </tr>
 <tr>
@@ -2243,9 +1922,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>166,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Виноградовский сельский округ</strong>
-</td>
+<td colspan="3">Виноградовский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-077</td>
@@ -2263,9 +1940,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>166,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Куйбышевский сельский округ</strong>
-</td>
+<td colspan="3">Куйбышевский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-043</td>
@@ -2275,7 +1950,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <tr>
 <td>15-220-041,042</td>
 <td>село Боголюбово</td>
-<td>166,3</td>
+<td>217,2</td>
 </tr>
 <tr>
 <td>15-220-044</td>
@@ -2283,13 +1958,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>205,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кызылжарский сельский округ</strong>
-</td>
+<td colspan="3">Кызылжарский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-032</td>
-<td>аул Байтерек</td>
+<td>село Байтерек</td>
 <td>243,1</td>
 </tr>
 <tr>
@@ -2318,9 +1991,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>217,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Лесной сельский округ</strong>
-</td>
+<td colspan="3">Лесной сельский округ</td>
 </tr>
 <tr>
 <td>15-220-100</td>
@@ -2333,9 +2004,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>217,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Налобинский сельский округ</strong>
-</td>
+<td colspan="3">Налобинский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-072</td>
@@ -2348,11 +2017,6 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>161,2</td>
 </tr>
 <tr>
-<td>15-220-075</td>
-<td>село Лебедки</td>
-<td>164,6</td>
-</tr>
-<tr>
 <td>15-220-071</td>
 <td>село Налобино</td>
 <td>188,6</td>
@@ -2363,14 +2027,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>178,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Новоникольский сельский округ</strong>
-</td>
+<td colspan="3">Новоникольский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-056</td>
 <td>село Новоникольское</td>
-<td>210,3</td>
+<td>209,6</td>
 </tr>
 <tr>
 <td>15-220-058</td>
@@ -2380,12 +2042,10 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <tr>
 <td>15-220-057</td>
 <td>село Новоалександровка</td>
-<td>175,5</td>
+<td>174,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Петерфельдский сельский округ</strong>
-</td>
+<td colspan="3">Петерфельдский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-120</td>
@@ -2410,7 +2070,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <tr>
 <td>15-220-002</td>
 <td>село Кривоозерка</td>
-<td>243,1</td>
+<td>236,8</td>
 </tr>
 <tr>
 <td>15-220-001</td>
@@ -2418,9 +2078,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>236,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Прибрежный сельский округ</strong>
-</td>
+<td colspan="3">Прибрежный сельский округ</td>
 </tr>
 <tr>
 <td>15-220-023</td>
@@ -2438,9 +2096,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Рассветский сельский округ</strong>
-</td>
+<td colspan="3">Рассветский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-063</td>
@@ -2455,7 +2111,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <tr>
 <td>15-220-060</td>
 <td>село Рассвет</td>
-<td>200,0</td>
+<td>211,5</td>
 </tr>
 <tr>
 <td>15-220-061</td>
@@ -2463,14 +2119,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Рощинский сельский округ</strong>
-</td>
+<td colspan="3">Рощинский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-017</td>
 <td>село Белое</td>
-<td>232,6</td>
+<td>230,5</td>
 </tr>
 <tr>
 <td>15-220-108</td>
@@ -2483,9 +2137,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>196,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Светлопольский сельский округ</strong>
-</td>
+<td colspan="3">Светлопольский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-016</td>
@@ -2493,8 +2145,8 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>213,4</td>
 </tr>
 <tr>
-<td>15-220-013,016</td>
-<td>село Знаменское, село Янцено</td>
+<td>15-220-013</td>
+<td>село Знаменское</td>
 <td>217,2</td>
 </tr>
 <tr>
@@ -2508,9 +2160,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>201,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Соколовский сельский округ</strong>
-</td>
+<td colspan="3">Соколовский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-096,097,098</td>
@@ -2518,9 +2168,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Якорьский сельский округ</strong>
-</td>
+<td colspan="3">Якорьский сельский округ</td>
 </tr>
 <tr>
 <td>15-220-106</td>
@@ -2543,25 +2191,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>205,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>район Магжана Жумабаева</strong>
-</td>
+<td colspan="3">район Магжана Жумабаева</td>
 </tr>
 <tr>
-<td>
-<strong>город Булаево</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>592,8</strong>
-</td>
+<td>город Булаево</td>
+<td>районный центр</td>
+<td>592,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Авангардский сельский округ</strong>
-</td>
+<td colspan="3">Авангардский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-050</td>
@@ -2570,28 +2208,16 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-221-051</td>
-<td>село Хлеборобное</td>
+<td>село Достық</td>
 <td>241,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Александровский сельский округ</strong>
-</td>
+<td>15-221-056</td>
+<td>село Рощино</td>
+<td>217,9</td>
 </tr>
 <tr>
-<td>15-221-110</td>
-<td>село Александровка</td>
-<td>203,8</td>
-</tr>
-<tr>
-<td>15-221-111</td>
-<td>аул Альва</td>
-<td>185,2</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Бастомарский сельский округ</strong>
-</td>
+<td colspan="3">Бастомарский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-086</td>
@@ -2604,9 +2230,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Булаевский городской округ</strong>
-</td>
+<td>15-221-080</td>
+<td>село Писаревка</td>
+<td>245,2</td>
+</tr>
+<tr>
+<td>15-221-079</td>
+<td>село Веселовка</td>
+<td>217,2</td>
+</tr>
+<tr>
+<td colspan="3">Булаевский городской округ</td>
 </tr>
 <tr>
 <td>15-221-036</td>
@@ -2614,9 +2248,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>232,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Возвышенский сельский округ</strong>
-</td>
+<td colspan="3">Возвышенский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-107,108</td>
@@ -2634,29 +2266,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>207,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Золотонивский сельский округ</strong>
-</td>
+<td>15-221-110</td>
+<td>село Александровка</td>
+<td>203,8</td>
 </tr>
 <tr>
-<td>15-221-115</td>
-<td>село Золотая Нива</td>
-<td>183,5</td>
+<td>15-221-111</td>
+<td>село Алуа</td>
+<td>185,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Карагандинский сельский округ</strong>
-</td>
-</tr>
-<tr>
-<td>15-221-082,083</td>
-<td>село Карагандинское</td>
-<td>205,7</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Каракогинский сельский округ</strong>
-</td>
+<td colspan="3">Каракогинский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-025,026</td>
@@ -2674,24 +2294,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>253,6</td>
 </tr>
 <tr>
-<td>15-221-028</td>
-<td>аул Ногайбай</td>
-<td>243,1</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Конюховский сельский округ</strong>
-</td>
+<td colspan="3">Конюховский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-011</td>
 <td>село Конюхово</td>
 <td>232,6</td>
-</tr>
-<tr>
-<td>15-221-019</td>
-<td>село Барашки</td>
-<td>224,2</td>
 </tr>
 <tr>
 <td>15-221-009</td>
@@ -2704,13 +2312,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Лебяжинский сельский округ</strong>
-</td>
+<td colspan="3">Лебяжинский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-016</td>
-<td>село Лебяжка</td>
+<td>село Лебяжье</td>
 <td>232,6</td>
 </tr>
 <tr>
@@ -2719,29 +2325,20 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>220,0</td>
 </tr>
 <tr>
-<td>15-221-014</td>
-<td>село Круглое</td>
-<td>184,8</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Молодежный сельский округ</strong>
-</td>
+<td colspan="3">сельский округ Мағжан</td>
 </tr>
 <tr>
 <td>15-221-053</td>
-<td>аул Сарытомар</td>
+<td>село Сарытомар</td>
 <td>217,9</td>
 </tr>
 <tr>
 <td>15-221-054</td>
-<td>село Молодежное</td>
+<td>село Жастар</td>
 <td>211,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Молодогвардейский сельский округ</strong>
-</td>
+<td colspan="3">Молодогвардейский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-117</td>
@@ -2749,13 +2346,16 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Надеждинский сельский округ</strong>
-</td>
+<td>15-221-115</td>
+<td>село Золотая Нива</td>
+<td>183,5</td>
+</tr>
+<tr>
+<td colspan="3">сельский округ Ноғайбай би</td>
 </tr>
 <tr>
 <td>15-221-061</td>
-<td>село Беняш</td>
+<td>село Бинаш</td>
 <td>232,6</td>
 </tr>
 <tr>
@@ -2770,13 +2370,21 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-221-063</td>
-<td>аул Дюсеке</td>
+<td>село Дюсеке</td>
 <td>213,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Октябрьский сельский округ</strong>
-</td>
+<td>15-221-028</td>
+<td>село Ногайбай</td>
+<td>243,1</td>
+</tr>
+<tr>
+<td>15-221-082,083</td>
+<td>село Караганды</td>
+<td>205,7</td>
+</tr>
+<tr>
+<td colspan="3">сельский округ Аққайың</td>
 </tr>
 <tr>
 <td>15-221-005</td>
@@ -2809,29 +2417,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>179,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Писаревский сельский округ</strong>
-</td>
-</tr>
-<tr>
-<td>15-221-080</td>
-<td>село Писаревка</td>
-<td>245,2</td>
-</tr>
-<tr>
-<td>15-221-078</td>
-<td>аул Байшилик</td>
-<td>222,1</td>
-</tr>
-<tr>
-<td>15-221-079</td>
-<td>село Веселовка</td>
-<td>217,2</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Полудинский сельский округ</strong>
-</td>
+<td colspan="3">Полудинский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-045,046</td>
@@ -2849,14 +2435,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>238,9</td>
 </tr>
 <tr>
-<td>15-221-048</td>
-<td>село Скворцовка</td>
-<td>236,8</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Советский сельский округ</strong>
-</td>
+<td colspan="3">сельский округ Алтын дән</td>
 </tr>
 <tr>
 <td>15-221-092,093</td>
@@ -2869,14 +2448,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>211,5</td>
 </tr>
 <tr>
-<td>15-221-094</td>
-<td>село Селекты</td>
-<td>188,6</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Таманский сельский округ</strong>
-</td>
+<td colspan="3">Таманский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-088</td>
@@ -2895,17 +2467,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-221-096</td>
-<td>село Сейфулино</td>
+<td>село Сейфолла</td>
 <td>198,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Узункольский сельский округ</strong>
-</td>
+<td colspan="3">Узынкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-102</td>
-<td>село Узунколь</td>
+<td>село Узынколь</td>
 <td>207,6</td>
 </tr>
 <tr>
@@ -2919,19 +2489,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>203,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Успенский сельский округ</strong>
-</td>
+<td colspan="3">Успенский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-057</td>
 <td>село Успенка</td>
 <td>238,9</td>
-</tr>
-<tr>
-<td>15-221-056</td>
-<td>село Рощино</td>
-<td>217,9</td>
 </tr>
 <tr>
 <td>15-221-058</td>
@@ -2949,13 +2512,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>222,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Фурмановский сельский округ</strong>
-</td>
+<td colspan="3">сельский округ Бәйтерек</td>
 </tr>
 <tr>
 <td>15-221-043</td>
-<td>аул Байтерек</td>
+<td>село Байтерек</td>
 <td>247,3</td>
 </tr>
 <tr>
@@ -2970,13 +2531,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-221-042</td>
-<td>село Новый быт</td>
+<td>село Береке</td>
 <td>236,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Чистовский сельский округ</strong>
-</td>
+<td colspan="3">Чистовский сельский округ</td>
 </tr>
 <tr>
 <td>15-221-031</td>
@@ -2985,7 +2544,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-221-032</td>
-<td>село Тищеко</td>
+<td>село Тищенко</td>
 <td>217,9</td>
 </tr>
 <tr>
@@ -3004,30 +2563,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>222,1</td>
 </tr>
 <tr>
-<td>15-221-022</td>
-<td>село Тельманово</td>
-<td>220,0</td>
+<td colspan="3">Мамлютский район</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Мамлютский район</strong>
-</td>
+<td>город Мамлютка</td>
+<td>районный центр</td>
+<td>585,1</td>
 </tr>
 <tr>
-<td>
-<strong>город Мамлютка</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>585,1</strong>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Андреевский сельский округ</strong>
-</td>
+<td colspan="3">Андреевский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-066</td>
@@ -3045,9 +2589,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>185,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Беловский сельский округ</strong>
-</td>
+<td colspan="3">Беловский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-005</td>
@@ -3060,19 +2602,9 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>213,7</td>
 </tr>
 <tr>
-<td>15-225-008</td>
-<td>село Прогресс</td>
-<td>224,2</td>
-</tr>
-<tr>
 <td>15-225-006</td>
 <td>село Щучье</td>
 <td>203,3</td>
-</tr>
-<tr>
-<td>15-225-007</td>
-<td>село Студенное</td>
-<td>213,7</td>
 </tr>
 <tr>
 <td>15-225-001</td>
@@ -3085,9 +2617,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>181,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Воскресеновский сельский округ</strong>
-</td>
+<td colspan="3">Воскресеновский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-026</td>
@@ -3105,9 +2635,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>224,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Дубровинский сельский округ</strong>
-</td>
+<td colspan="3">Дубровинский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-038</td>
@@ -3130,9 +2658,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>198,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Краснознаменский сельский округ</strong>
-</td>
+<td colspan="3">Краснознаменский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-010</td>
@@ -3150,9 +2676,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>243,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кызыласкерский сельский округ</strong>
-</td>
+<td colspan="3">Кызыласкерский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-053</td>
@@ -3170,9 +2694,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>168,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Леденевский сельский округ</strong>
-</td>
+<td colspan="3">Леденевский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-063</td>
@@ -3185,9 +2707,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ленинский сельский округ</strong>
-</td>
+<td colspan="3">Ленинский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-042</td>
@@ -3205,9 +2725,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Новомихайловский сельский округ</strong>
-</td>
+<td colspan="3">Новомихайловский сельский округ</td>
 </tr>
 <tr>
 <td>15-225-049</td>
@@ -3216,7 +2734,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-225-047</td>
-<td>аул Бексеит</td>
+<td>село Бексеит</td>
 <td>207,6</td>
 </tr>
 <tr>
@@ -3231,13 +2749,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-225-046</td>
-<td>село Минкесер</td>
+<td>село Менкесер</td>
 <td>185,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Пригородный сельский округ</strong>
-</td>
+<td colspan="3">Пригородный сельский округ</td>
 </tr>
 <tr>
 <td>15-225-014</td>
@@ -3255,9 +2771,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>220,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Становский сельский округ</strong>
-</td>
+<td colspan="3">Становской сельский округ</td>
 </tr>
 <tr>
 <td>15-225-031</td>
@@ -3275,30 +2789,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>211,6</td>
 </tr>
 <tr>
-<td>15-225</td>
-<td>остановочный пункт Орленок</td>
-<td>190,7</td>
+<td colspan="3">Тайыншинский район</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тайыншинский район</strong>
-</td>
+<td>город Тайынша</td>
+<td>районный центр</td>
+<td>837,4</td>
 </tr>
 <tr>
-<td>
-<strong>город Тайынша</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>837,4</strong>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Абайский сельский округ</strong>
-</td>
+<td colspan="3">Абайский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-046</td>
@@ -3321,24 +2820,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>184,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Алаботинский сельский округ</strong>
-</td>
+<td colspan="3">Алаботинский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-045</td>
-<td>село Аккудук</td>
+<td>село Аккудык</td>
 <td>178,3</td>
 </tr>
 <tr>
 <td>15-164-045</td>
 <td>село Золоторунное</td>
 <td>162,9</td>
-</tr>
-<tr>
-<td>15-164-046</td>
-<td>село Сугирбай</td>
-<td>164,6</td>
 </tr>
 <tr>
 <td>15-164-046</td>
@@ -3351,9 +2843,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>164,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Амандыкский сельский округ</strong>
-</td>
+<td colspan="3">Амандыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-056</td>
@@ -3362,7 +2852,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-164-043</td>
-<td>аул Аймак</td>
+<td>село Аймак</td>
 <td>182,9</td>
 </tr>
 <tr>
@@ -3376,9 +2866,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>168,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Большеизюмовский сельский округ</strong>
-</td>
+<td colspan="3">Большеизюмский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-009</td>
@@ -3401,14 +2889,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>226,3</td>
 </tr>
 <tr>
-<td>15-164-008</td>
-<td>село Терновка</td>
-<td>207,5</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Донецкий сельский округ</strong>
-</td>
+<td colspan="3">Донецкий сельский округ</td>
 </tr>
 <tr>
 <td>15-164-048</td>
@@ -3436,9 +2917,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>196,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Драгомировский сельский округ</strong>
-</td>
+<td colspan="3">Драгомировский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-027</td>
@@ -3452,7 +2931,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-164-028</td>
-<td>село Иван-город</td>
+<td>село Ивангород</td>
 <td>211,5</td>
 </tr>
 <tr>
@@ -3461,9 +2940,20 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>192,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Келлеровский сельский округ</strong>
-</td>
+<td colspan="3">Зеленогайский сельский округ</td>
+</tr>
+<tr>
+<td>15-164-050</td>
+<td>село Зеленый гай</td>
+<td>217,2</td>
+</tr>
+<tr>
+<td>15-164-050</td>
+<td>село Новогречановка</td>
+<td>186,7</td>
+</tr>
+<tr>
+<td colspan="3">Келлеровский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-029,030</td>
@@ -3481,19 +2971,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>205,7</td>
 </tr>
 <tr>
-<td>15-164-032</td>
-<td>село Липовка</td>
-<td>203,8</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Кировский сельский округ</strong>
-</td>
+<td colspan="3">Кировский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-004</td>
 <td>село Кирово</td>
 <td>196,2</td>
+</tr>
+<tr>
+<td>15-164-002</td>
+<td>село Агроном</td>
+<td>166,3</td>
 </tr>
 <tr>
 <td>15-164-004</td>
@@ -3506,14 +2994,17 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
+<td>15-164-002</td>
+<td>село Ильич</td>
+<td>162,9</td>
+</tr>
+<tr>
 <td>15-164-004</td>
 <td>село Мирное</td>
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Краснополянский сельский округ</strong>
-</td>
+<td colspan="3">Краснополянский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-041</td>
@@ -3547,7 +3038,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-164-039</td>
-<td>село Краснодольское</td>
+<td>село Краснодольск</td>
 <td>173,2</td>
 </tr>
 <tr>
@@ -3556,9 +3047,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Летовочный сельский округ</strong>
-</td>
+<td colspan="3">Летовочный сельский округ</td>
 </tr>
 <tr>
 <td>15-164-035</td>
@@ -3591,9 +3080,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>168,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Мироновский сельский округ</strong>
-</td>
+<td colspan="3">Мироновский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-001</td>
@@ -3616,9 +3103,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>217,9</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Рощинский сельский округ</strong>
-</td>
+<td colspan="3">Рощинский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-038</td>
@@ -3627,7 +3112,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-164-038</td>
-<td>село Димитрова</td>
+<td>село Димитровка</td>
 <td>173,4</td>
 </tr>
 <tr>
@@ -3641,23 +3126,31 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,5</td>
 </tr>
 <tr>
+<td>15-164-038</td>
+<td>село Макашевка</td>
+<td>168,0</td>
+</tr>
+<tr>
+<td>15-164-038</td>
+<td>село Октябрьское</td>
+<td>161,2</td>
+</tr>
+<tr>
 <td>15-164-034</td>
 <td>село Сарыбай</td>
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тендыкский сельский округ</strong>
-</td>
+<td colspan="3">Тендыкский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-010</td>
-<td>село Тендык</td>
+<td>село Тендик</td>
 <td>245,2</td>
 </tr>
 <tr>
 <td>15-164-003</td>
-<td>село Кантемировец</td>
+<td>село Кантемировское</td>
 <td>200,0</td>
 </tr>
 <tr>
@@ -3666,9 +3159,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тихоокеанский сельский округ</strong>
-</td>
+<td colspan="3">Тихоокеанский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-047</td>
@@ -3677,7 +3168,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-164-047</td>
-<td>село Шункырколь</td>
+<td>село Шұнкырколь</td>
 <td>162,9</td>
 </tr>
 <tr>
@@ -3686,9 +3177,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>157,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Чермошнянский сельский округ</strong>
-</td>
+<td colspan="3">Чермошнянский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-006</td>
@@ -3726,9 +3215,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>203,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Чкаловский сельский округ</strong>
-</td>
+<td colspan="3">Чкаловский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-052,053</td>
@@ -3746,9 +3233,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Яснополянский сельский округ</strong>
-</td>
+<td colspan="3">Яснополянский сельский округ</td>
 </tr>
 <tr>
 <td>15-164-060</td>
@@ -3771,25 +3256,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тимирязевский район</strong>
-</td>
+<td colspan="3">Тимирязевский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Тимирязево</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>265,0</strong>
-</td>
+<td>село Тимирязево</td>
+<td>районный центр</td>
+<td>265,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Акжанский сельский округ</strong>
-</td>
+<td colspan="3">Акжанский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-021</td>
@@ -3802,9 +3277,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Аксуатский сельский округ</strong>
-</td>
+<td colspan="3">Аксуатский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-034</td>
@@ -3812,9 +3285,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>259,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Белоградовский сельский округ</strong>
-</td>
+<td colspan="3">Белоградовский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-047</td>
@@ -3822,14 +3293,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>229,6</td>
 </tr>
 <tr>
-<td>15-231-046</td>
-<td>село Аксу</td>
-<td>185,6</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Дзержинский сельский округ</strong>
-</td>
+<td colspan="3">Дзержинский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-031</td>
@@ -3837,9 +3301,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>240,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Дмитриевский сельский округ</strong>
-</td>
+<td colspan="3">Дмитриевский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-010</td>
@@ -3853,13 +3315,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-231-011</td>
-<td>село Интымак</td>
+<td>село Ынтымак</td>
 <td>169,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Докучаевский сельский округ</strong>
-</td>
+<td colspan="3">Докучаевский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-004</td>
@@ -3872,24 +3332,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>190,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Есильский сельский округ</strong>
-</td>
+<td colspan="3">Есильский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-036</td>
-<td>аул Есиль</td>
+<td>село Есиль</td>
 <td>221,0</td>
 </tr>
 <tr>
-<td>15-231-037</td>
-<td>село Нарынгуль</td>
-<td>207,2</td>
-</tr>
-<tr>
-<td colspan="3">
-<strong>Интернациональный сельский округ</strong>
-</td>
+<td colspan="3">Интернациональный сельский округ</td>
 </tr>
 <tr>
 <td>15-231-024</td>
@@ -3897,9 +3348,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>211,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Комсомольский сельский округ</strong>
-</td>
+<td colspan="3">Комсомольский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-026</td>
@@ -3907,9 +3356,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>239,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Куртайский сельский округ</strong>
-</td>
+<td colspan="3">Куртайский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-007</td>
@@ -3922,9 +3369,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>197,4</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Ленинский сельский округ</strong>
-</td>
+<td colspan="3">Ленинский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-039</td>
@@ -3932,9 +3377,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>192,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Мичуринский сельский округ</strong>
-</td>
+<td colspan="3">Мичуринский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-043</td>
@@ -3942,9 +3385,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>201,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Москворецкий сельский округ</strong>
-</td>
+<td colspan="3">Москворецкий сельский округ</td>
 </tr>
 <tr>
 <td>15-231-029</td>
@@ -3952,9 +3393,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>230,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тимирязевский сельский округ</strong>
-</td>
+<td colspan="3">Тимирязевский сельский округ</td>
 </tr>
 <tr>
 <td>15-231-019</td>
@@ -3962,9 +3401,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>243,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Хмельницкий сельский округ</strong>
-</td>
+<td colspan="3">Хмельницкий сельский округ</td>
 </tr>
 <tr>
 <td>15-231-014</td>
@@ -3972,9 +3409,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>204,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Целинный сельский округ</strong>
-</td>
+<td colspan="3">Целинный сельский округ</td>
 </tr>
 <tr>
 <td>15-231-001</td>
@@ -3982,25 +3417,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Уалихановский район</strong>
-</td>
+<td colspan="3">Уалихановский район</td>
 </tr>
 <tr>
-<td>
-<strong>село Кишкенеколь</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>250,0</strong>
-</td>
+<td>село Кишкенеколь</td>
+<td>районный центр</td>
+<td>250,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Акбулакский сельский округ</strong>
-</td>
+<td colspan="3">Акбулакский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-015</td>
@@ -4014,17 +3439,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-162-008</td>
-<td>село Молодая Гвардия</td>
+<td>село Жас Улан</td>
 <td>207,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Актуесайский сельский округ</strong>
-</td>
+<td colspan="3">Актуесайский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-007</td>
-<td>село Актуесай</td>
+<td>село Актуйесай</td>
 <td>236,8</td>
 </tr>
 <tr>
@@ -4038,9 +3461,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>209,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Амангельдинский сельский округ</strong>
-</td>
+<td colspan="3">Амангельдинский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-004</td>
@@ -4053,9 +3474,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>171,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Бидайыкский сельский округ</strong>
-</td>
+<td colspan="3">Бидаикский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-005</td>
@@ -4074,13 +3493,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 </tr>
 <tr>
 <td>15-162-012</td>
-<td>село Жумысшы</td>
+<td>село Жумысши</td>
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кайратский сельский округ</strong>
-</td>
+<td colspan="3">Кайратский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-037</td>
@@ -4093,13 +3510,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>145,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Карасуский сельский округ</strong>
-</td>
+<td colspan="3">Карасуский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-041,042</td>
-<td>село Аккудук</td>
+<td>село Аккудык</td>
 <td>192,4</td>
 </tr>
 <tr>
@@ -4108,9 +3523,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>184,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Каратерекский сельский округ</strong>
-</td>
+<td colspan="3">Каратерекский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-013</td>
@@ -4123,9 +3536,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>163,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Коктерекский сельский округ</strong>
-</td>
+<td colspan="3">Коктерекский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-010</td>
@@ -4143,9 +3554,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>169,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кулыкольский сельский округ</strong>
-</td>
+<td colspan="3">Кулыкольский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-039</td>
@@ -4163,9 +3572,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>142,3</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Тельжанский сельский округ</strong>
-</td>
+<td colspan="3">Тельжанский сельский округ</td>
 </tr>
 <tr>
 <td>15-162-016</td>
@@ -4178,30 +3585,15 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>224,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>район Шал акына</strong>
-</td>
+<td colspan="3">район Шал акына</td>
 </tr>
 <tr>
-<td>
-<strong>город Сергеевка</strong>
-</td>
-<td>
-<strong>районный центр</strong>
-</td>
-<td>
-<strong>438,5</strong>
-</td>
+<td>город Сергеевка</td>
+<td>районный центр</td>
+<td>438,5</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Афанасьевский сельский округ</strong>
-</td>
-</tr>
-<tr>
-<td>15-228-074</td>
-<td>село Коргантас</td>
-<td>205,4</td>
+<td colspan="3">Афанасьевский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-056</td>
@@ -4224,9 +3616,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>145,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Аютасский сельский округ</strong>
-</td>
+<td colspan="3">Аютасский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-020</td>
@@ -4249,9 +3639,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>192,8</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Городецкий сельский округ</strong>
-</td>
+<td colspan="3">Городецкий сельский округ</td>
 </tr>
 <tr>
 <td>15-228-018</td>
@@ -4279,9 +3667,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>200,0</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Жанажолский сельский округ</strong>
-</td>
+<td colspan="3">Жанажольский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-013</td>
@@ -4299,13 +3685,11 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>201,2</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Кривощёковский сельский округ</strong>
-</td>
+<td colspan="3">Кривощековский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-028</td>
-<td>село Кривощёково</td>
+<td>село Кривощеково</td>
 <td>222,1</td>
 </tr>
 <tr>
@@ -4319,19 +3703,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>207,4</td>
 </tr>
 <tr>
-<td>15-228-047</td>
-<td>село Соколовка</td>
-<td>169,5</td>
-</tr>
-<tr>
 <td>15-228-029</td>
 <td>село Социал</td>
 <td>167,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Новопокровский сельский округ</strong>
-</td>
+<td colspan="3">Новопокровский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-038</td>
@@ -4359,9 +3736,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>165,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Приишимский сельский округ</strong>
-</td>
+<td colspan="3">Приишимский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-004</td>
@@ -4384,9 +3759,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>188,6</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Семипольский сельский округ</strong>
-</td>
+<td colspan="3">Семипольский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-009</td>
@@ -4409,9 +3782,7 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,7</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Сухорабовский сельский округ</strong>
-</td>
+<td colspan="3">Сухорабовский сельский округ</td>
 </tr>
 <tr>
 <td>15-228-049</td>
@@ -4419,19 +3790,12 @@ source: https://zan.gov.kz/client/#!/doc/98192/rus/14.12.2015
 <td>186,7</td>
 </tr>
 <tr>
-<td>15-228-050</td>
-<td>село Неждановка</td>
-<td>160,0</td>
-</tr>
-<tr>
 <td>15-228-045</td>
 <td>село Ольгинка</td>
 <td>179,1</td>
 </tr>
 <tr>
-<td colspan="3">
-<strong>Юбилейный сельский округа</strong>
-</td>
+<td colspan="3">Юбилейный сельский округ</td>
 </tr>
 <tr>
 <td>15-228-041</td>
