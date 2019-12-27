@@ -1,5 +1,5 @@
 ---
-version_id: '126533_375065'
+version_id: '126533_434643'
 act_code: '126533'
 language: kaz
 title: Солтүстік Қазақстан облысы Жамбыл ауданының елді мекендерінде салық салу объектісінің орналасуын ескеретін аймаққа бөлу коэффициенттерін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '165007000001'
 approval_date: 2018-11-30
-version_date: 2018-11-30
+version_date: 2019-12-27
 registry_number: '126533'
-source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
+caused_by:
+  code: '137593'
+  title: Солтүстік Қазақстан облысы Жамбыл ауданы әкімдігінің 2018 жылғы 30 қарашадағы № 278 «Солтүстік Қазақстан облысы Жамбыл ауданының елді мекендерінде салық салу объектісінің орналасуын ескеретін аймаққа бөлу коэффициенттерін бекіту туралы» қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/137593/kaz
+source: https://zan.gov.kz/client/#!/doc/126533/kaz/27.12.2019
 ---
 
 # Солтүстік Қазақстан облысы Жамбыл ауданының елді мекендерінде салық салу объектісінің орналасуын ескеретін аймаққа бөлу коэффициенттерін бекіту туралы
@@ -55,6 +59,8 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 > *қосымша*
 
 ## Солтүстік Қазақстан облысы Жамбыл ауданының елді мекендерінде салық салу объектісінің орналасуын ескеретін аймаққа бөлу коэффициенттері
+
+> *Ескерту. Қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Жамбыл ауданы әкімдігінің 27.12.2019 № 344 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
@@ -120,35 +126,30 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td>1,55</td>
 </tr>
 <tr>
-<td>11</td>
-<td colspan="3">Талпын ауылы</td>
-<td>1,25</td>
-</tr>
-<tr>
 <td colspan="5">Жамбыл ауылдық округі</td>
 </tr>
 <tr>
-<td>12</td>
+<td>11</td>
 <td colspan="3">Жамбыл ауылы</td>
 <td>1,75</td>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td colspan="3">Амангелді ауылы</td>
 <td>1,2</td>
 </tr>
 <tr>
-<td>14</td>
+<td>13</td>
 <td colspan="3">Есперлі ауылы</td>
 <td>1,55</td>
 </tr>
 <tr>
-<td>15</td>
+<td>14</td>
 <td colspan="3">Қарағаш ауылы</td>
 <td>1,25</td>
 </tr>
 <tr>
-<td>16</td>
+<td>15</td>
 <td colspan="3">Суаткөл ауылы</td>
 <td>1,65</td>
 </tr>
@@ -156,22 +157,17 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Казанка ауылдық округі</td>
 </tr>
 <tr>
-<td>17</td>
+<td>16</td>
 <td colspan="3">Казанка ауылы</td>
 <td>1,9</td>
 </tr>
 <tr>
-<td>18</td>
+<td>17</td>
 <td colspan="3">Екатериновка ауылы</td>
 <td>1,85</td>
 </tr>
 <tr>
-<td>19</td>
-<td colspan="3">Матросовка ауылы</td>
-<td>1,3</td>
-</tr>
-<tr>
-<td>20</td>
+<td>18</td>
 <td colspan="3">Светлое ауылы</td>
 <td>1,6</td>
 </tr>
@@ -179,17 +175,17 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Қайранкөл ауылдық округі</td>
 </tr>
 <tr>
-<td>21</td>
+<td>19</td>
 <td colspan="3">Қайранкөл ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>22</td>
+<td>20</td>
 <td colspan="3">Новое ауылы</td>
 <td>1,3</td>
 </tr>
 <tr>
-<td>23</td>
+<td>21</td>
 <td colspan="3">Украинское ауылы</td>
 <td>1,75</td>
 </tr>
@@ -197,32 +193,27 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Кладбинка ауылдық округі</td>
 </tr>
 <tr>
-<td>24</td>
+<td>22</td>
 <td colspan="3">Кладбинка ауылы</td>
 <td>1,85</td>
 </tr>
 <tr>
-<td>25</td>
+<td>23</td>
 <td colspan="3">Сенжарка ауылы</td>
 <td>1,55</td>
 </tr>
 <tr>
-<td>26</td>
+<td>24</td>
 <td colspan="3">Симаки ауылы</td>
 <td>1,25</td>
 </tr>
 <tr>
-<td>27</td>
-<td colspan="3">Уткино ауылы</td>
-<td>1,15</td>
-</tr>
-<tr>
-<td>28</td>
+<td>25</td>
 <td colspan="3">Новорыбинка ауылы</td>
 <td>1,95</td>
 </tr>
 <tr>
-<td>29</td>
+<td>26</td>
 <td colspan="3">Миролюбово ауылы</td>
 <td>1,85</td>
 </tr>
@@ -230,22 +221,22 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Майбалық ауылдық округі</td>
 </tr>
 <tr>
-<td>30</td>
+<td>27</td>
 <td colspan="3">Святодуховка ауылы</td>
 <td>1,75</td>
 </tr>
 <tr>
-<td>31</td>
+<td>28</td>
 <td colspan="3">Жаңажол ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>32</td>
+<td>29</td>
 <td colspan="3">Ольговка ауылы</td>
 <td>1,25</td>
 </tr>
 <tr>
-<td>33</td>
+<td>30</td>
 <td colspan="3">Сәбит ауылы</td>
 <td>1,75</td>
 </tr>
@@ -253,27 +244,27 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Мирный ауылдық округі</td>
 </tr>
 <tr>
-<td>34</td>
+<td>31</td>
 <td colspan="3">Мирное ауылы</td>
 <td>1,75</td>
 </tr>
 <tr>
-<td>35</td>
+<td>32</td>
 <td colspan="3">Айымжан ауылы</td>
 <td>1,8</td>
 </tr>
 <tr>
-<td>36</td>
+<td>33</td>
 <td colspan="3">Ұзынкөл ауылы</td>
 <td>1,8</td>
 </tr>
 <tr>
-<td>37</td>
+<td>34</td>
 <td colspan="3">Петровка ауылы</td>
 <td>1,85</td>
 </tr>
 <tr>
-<td>38</td>
+<td>35</td>
 <td colspan="3">Рождественка ауылы</td>
 <td>1,4</td>
 </tr>
@@ -281,22 +272,17 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Озерный ауылдық округі</td>
 </tr>
 <tr>
-<td>39</td>
+<td>36</td>
 <td colspan="3">Озерное ауылы</td>
 <td>1,45</td>
 </tr>
 <tr>
-<td>40</td>
-<td colspan="3">Ақбалық ауылы</td>
-<td>1</td>
-</tr>
-<tr>
-<td>41</td>
+<td>37</td>
 <td colspan="3">Бауман ауылы</td>
 <td>1,35</td>
 </tr>
 <tr>
-<td>42</td>
+<td>38</td>
 <td colspan="3">Қарақамыс ауылы</td>
 <td>1,1</td>
 </tr>
@@ -304,22 +290,22 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Первомай ауылдық округі</td>
 </tr>
 <tr>
-<td>43</td>
+<td>39</td>
 <td colspan="3">Буденное ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>44</td>
+<td>40</td>
 <td colspan="3">Калиновка ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>45</td>
+<td>41</td>
 <td colspan="3">Кабань ауылы</td>
 <td>1,3</td>
 </tr>
 <tr>
-<td>46</td>
+<td>42</td>
 <td colspan="3">Чапаевка ауылы</td>
 <td>1,55</td>
 </tr>
@@ -327,33 +313,28 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Преснов ауылдық округі</td>
 </tr>
 <tr>
-<td>47</td>
+<td>43</td>
 <td rowspan="4">Пресновка ауылы</td>
 <td colspan="2">№ І - аймақ</td>
 <td>1,95</td>
 </tr>
 <tr>
-<td>48</td>
+<td>44</td>
 <td colspan="2">№ ІІ - аймақ</td>
 <td>1,85</td>
 </tr>
 <tr>
-<td>49</td>
+<td>45</td>
 <td colspan="2">№ ІІІ - аймақ</td>
 <td>1,7</td>
 </tr>
 <tr>
-<td>50</td>
+<td>46</td>
 <td colspan="2">№ ІV - аймақ</td>
 <td>1,6</td>
 </tr>
 <tr>
-<td>51</td>
-<td colspan="3">Островка ауылы</td>
-<td>1,35</td>
-</tr>
-<tr>
-<td>52</td>
+<td>47</td>
 <td colspan="3">Железное ауылы</td>
 <td>1,85</td>
 </tr>
@@ -361,22 +342,22 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Пресноредуть ауылдық округі</td>
 </tr>
 <tr>
-<td>53</td>
+<td>48</td>
 <td colspan="3">Пресноредуть ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>54</td>
+<td>49</td>
 <td colspan="3">Нұрымбет ауылы</td>
 <td>1,2</td>
 </tr>
 <tr>
-<td>55</td>
+<td>50</td>
 <td colspan="3">Макарьевка ауылы</td>
 <td>1,65</td>
 </tr>
 <tr>
-<td>56</td>
+<td>51</td>
 <td colspan="3">Ястребинка ауылы</td>
 <td>1,05</td>
 </tr>
@@ -384,12 +365,12 @@ source: https://zan.gov.kz/client/#!/doc/126533/kaz/30.11.2018
 <td colspan="5">Троицкий ауылдық округі</td>
 </tr>
 <tr>
-<td>57</td>
+<td>52</td>
 <td colspan="3">Троицкое ауылы</td>
 <td>1,6</td>
 </tr>
 <tr>
-<td>58</td>
+<td>53</td>
 <td colspan="3">Орталық ауылы</td>
 <td>1,25</td>
 </tr>
