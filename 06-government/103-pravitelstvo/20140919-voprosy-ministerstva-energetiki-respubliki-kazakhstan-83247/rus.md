@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83247/rus/04.12.2019
+source: https://zan.gov.kz/client/#!/doc/83247/rus/01.01.2020
 ---
 
 # Вопросы Министерства энергетики Республики Казахстан
