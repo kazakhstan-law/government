@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/133734/kaz/29.07.2019
+source: https://zan.gov.kz/client/#!/doc/133734/kaz/12.02.2020
 ---
 
 > *Солтүстік Қазақстан облысы*  
