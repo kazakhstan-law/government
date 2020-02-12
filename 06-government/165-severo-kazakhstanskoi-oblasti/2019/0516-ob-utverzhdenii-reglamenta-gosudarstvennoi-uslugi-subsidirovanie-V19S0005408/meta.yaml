@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2020-02-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '139516'
+    key: V20S0006002
 version_date:
-  kaz: 2019-05-16
-  rus: 2019-05-16
+  kaz: 2020-02-12
+  rus: 2020-02-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/131642/kaz/16.05.2019
-  rus: https://zan.gov.kz/client/#!/doc/131642/rus/16.05.2019
+  kaz: https://zan.gov.kz/client/#!/doc/131642/kaz/12.02.2020
+  rus: https://zan.gov.kz/client/#!/doc/131642/rus/12.02.2020
+caused_by:
+  code: '139516'
+  key: V20S0006002
+  requisite: Постановление акимата Северо-Казахстанской области от 12 февраля 2020 года № 30. Зарегистрировано Департаментом юстиции Северо-Казахстанской области 12 февраля 2020 года № 6002
+  title:
+    rus: О признании утратившими силу некоторых постановлений акимата Северо-Казахстанской области
+    kaz: Солтүстік Қазақстан облысы әкімдігінің кейбір қаулыларының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/139516/rus
