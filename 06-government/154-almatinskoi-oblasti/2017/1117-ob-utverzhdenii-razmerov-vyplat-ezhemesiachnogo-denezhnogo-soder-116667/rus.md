@@ -32,314 +32,373 @@
 
 **А. Баталов**
 
-> *Приложение к постановлению акимата Алматинской области от от 17 ноября 2017 года № 508*
+> *Приложение к постановлению*  
+> *акимата Алматинской области*  
+> *от «17» ноября 2017 года № 508*
 
 # Размеры выплат ежемесячного денежного содержания спортсменам, входящим в состав сборных команд Республики Казахстан по видам спорта (национальных сборных команд по видам спорта), их тренерам, а также спортсменам, выступающим в составах сборных команд Республики Казахстан (национальных сборных команд) по игровым видам спорта, их тренерам и руководителям клубных команд
 
-> *Сноска. Приложение в редакции постановления акимата Алматинской области от 10.05.2018 № 218 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение в редакции постановления акимата Алматинской области от 05.03.2020 № 88 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="3">№</td>
-<td colspan="2" rowspan="3">Наименование</td>
-<td colspan="25">Размеры выплат (тенге)</td>
+<td rowspan="2">№</td>
+<td rowspan="2">Классификация соревнований по видам спорта, игровым видам спорта</td>
+<td colspan="9">Размеры выплат (тенге)</td>
 </tr>
 <tr>
-<td colspan="8">Спортсмены</td>
-<td colspan="7">Тренеры</td>
-<td colspan="10">Руководители клубных команд</td>
+<td colspan="3">Спортсмены</td>
+<td colspan="3">Тренеры</td>
+<td colspan="3">Руководители клубных команд</td>
 </tr>
 <tr>
-<td colspan="2">1 место</td>
-<td colspan="3">2 место</td>
-<td colspan="3">3 место</td>
-<td colspan="3">1 место</td>
-<td colspan="2">2 место</td>
-<td colspan="2">3 место</td>
-<td colspan="3">1 место</td>
-<td colspan="3">2 место</td>
-<td colspan="4">3 место</td>
+<td></td>
+<td></td>
+<td>1-место</td>
+<td>2-место</td>
+<td>3-место</td>
+<td>1-место</td>
+<td>2-место</td>
+<td>3-место</td>
+<td>1-место</td>
+<td>2-место</td>
+<td>3-место</td>
 </tr>
 <tr>
-<td colspan="28">Олимпийские виды спорта</td>
+<td colspan="11">Олимпийские виды спорта</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">Олимпийские, Паралимпийские и Сурдлимпийские Игры</td>
-<td colspan="2"></td>
-<td colspan="3">400 000</td>
-<td colspan="3">300 000</td>
-<td colspan="3"></td>
-<td colspan="2">40 000</td>
-<td colspan="2">30 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Летние и зимние Олимпийские, Сурдлимпийские и Паралимпийские игры</td>
+<td>500 000</td>
+<td>400 000</td>
+<td>300 000</td>
+<td>50 000</td>
+<td>40 000</td>
+<td>30 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Азиатские, Параазиатские Сурдазиатские Игры</td>
-<td colspan="2">250 000</td>
-<td colspan="3">200 000</td>
-<td colspan="3">150 000</td>
-<td colspan="3">25 000</td>
-<td colspan="2">20 000</td>
-<td colspan="2">15 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Азиатские, ПараАзиатские и СурдоАзиатские игры</td>
+<td>250 000</td>
+<td>200 000</td>
+<td>150 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>15 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">Чемпионат Мира среди взрослых</td>
-<td colspan="2">250 000</td>
-<td colspan="3">200 000</td>
-<td colspan="3">150 000</td>
-<td colspan="3">25 000</td>
-<td colspan="2">20 000</td>
-<td colspan="2">15 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Летняя и зимняя Уневерсиада, Исламские игры</td>
+<td>120 000</td>
+<td>90 000</td>
+<td>70 000</td>
+<td>12 000</td>
+<td>9 000</td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">Чемпионат Азии, Восточные Азиатские Игры, Исламские Игры, Всемирная Универсиада среди взрослых</td>
-<td colspan="2">200 000</td>
-<td colspan="3">150 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">20 000</td>
-<td colspan="2">15 000</td>
-<td colspan="2">10 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Юношеские олимпийские игры</td>
+<td>120 000</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>12 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">Чемпионат Мира среди молодежи, студентов, Азиатские Игры в закрытых помещениях, Центральные Азиатские Игры, Кубок Мира среди взрослых</td>
-<td colspan="2">150 000</td>
-<td colspan="3">120 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">15 000</td>
-<td colspan="2">12 000</td>
-<td colspan="2">10 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Чемпионат Мира среди взрослых</td>
+<td>250 000</td>
+<td>200 000</td>
+<td>150 000</td>
+<td>25 000</td>
+<td>20 000</td>
+<td>15 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">Юношеские олимпийские Игры</td>
-<td colspan="2">120 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="3">12 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Чемпионат Мира среди молодежи</td>
+<td>100 000</td>
+<td>80 000</td>
+<td>50 000</td>
+<td>10 000</td>
+<td>8 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">Чемпионат Мира среди юношей, Чемпионат Азии среди молодежи</td>
-<td colspan="2">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="3">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Чемпионат Мира среди юношей</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">«Дети Азии»</td>
-<td colspan="2">50 000</td>
-<td colspan="3">40 000</td>
-<td colspan="3">30 000</td>
-<td colspan="3">5 000</td>
-<td colspan="2">4 000</td>
-<td colspan="2">3 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
+<td>Чемпионат Азии среди взрослых</td>
+<td>120 000</td>
+<td>90 000</td>
+<td>70 000</td>
+<td>12 000</td>
+<td>9 000</td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">Чемпионат Республики Казахстан, Спартакиада Республики Казахстан среди взрослых</td>
-<td colspan="2">50 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">5 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">5 000</td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="26">Неолимпийские и национальные виды спорта</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>Чемпионат и Кубок Мира, Алем барысы, Евразия барысы среди взрослых, Всемирная универсиада</td>
-<td colspan="3">150 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="2">15 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>Чемпионат Мира среди молодежи, студентов, Кубок Мира, Казакстан барысы, Игры кочевников среди взрослых</td>
-<td colspan="3">120 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="2">12 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>Чемпионат Мира среди юношей</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="3">30 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="2">3 000</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>Чемпионат Азии среди взрослых</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2">5</td>
 <td>Чемпионат Азии среди молодежи</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="3">30 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="2">3 000</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td>Чемпионат Республики Казахстан, Народные, Сельские Игры, Фестиваль по национальным видам спорта</td>
-<td colspan="3">50 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">5 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">5 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
+<td>10</td>
+<td>Чемпионат Республики Казахстан, Спартакиада Республики Казахстан среди взрослых</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="27">Паралимпийские и Сурдлимпийские виды спорта</td>
+<td>11</td>
+<td>Лицензия на Олимпийские игры</td>
+<td>250 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">Чемпионат Мира, Всемирные Игры среди взрослых</td>
-<td colspan="3">150 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="2">15 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td colspan="11">Неолимпийские и национальные виды спорта</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="2">Чемпионат Мира среди молодежи</td>
-<td colspan="3">120 000</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="2">12 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>1</td>
+<td>Чемпионат Мира среди взрослых</td>
+<td>150 000</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>15 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="2">Чемпионат Мира среди юношей</td>
-<td colspan="3">100 000</td>
-<td colspan="3">50 000</td>
-<td colspan="3">30 000</td>
-<td colspan="2">10000</td>
-<td colspan="2">5 000</td>
-<td colspan="2">3 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>2</td>
+<td>Чемпионат Мира среди молодежи</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="2">Чемпионат Азии среди взрослых</td>
-<td colspan="3">120 000</td>
-<td colspan="3">100 000</td>
-<td colspan="3">70 000</td>
-<td colspan="2">12 000</td>
-<td colspan="2">10 000</td>
-<td colspan="2">7 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>3</td>
+<td>Чемпионат Мира среди юношей</td>
+<td>50 000</td>
+<td></td>
+<td></td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="2">Чемпионат Азии среди молодежи, «Дети Азии»</td>
-<td colspan="3">70 000</td>
-<td colspan="3">50 000</td>
-<td colspan="3">30 000</td>
-<td colspan="2">7 000</td>
-<td colspan="2">5 000</td>
-<td colspan="2">3 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>4</td>
+<td>Чемпионат Азии среди взрослых</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="2">Чемпионат Республики Казахстан, Спартакиада Республики Казахстан, Паралимпийские и Сурдлимпийские Игры Республики Казахстан среди взрослых</td>
-<td colspan="3">50 000</td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2">5 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
+<td>5</td>
+<td>Чемпионат Азии среди молодежи</td>
+<td>70 000</td>
+<td></td>
+<td></td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>
+Чемпионат Республики
+Казахстан среди взрослых
+</td>
+<td>50 000</td>
+<td></td>
+<td></td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Турнир «Қазақстан Барысы» Республики Казахстан</td>
+<td>120 000</td>
+<td>90 000</td>
+<td>70 000</td>
+<td>12 000</td>
+<td>9 000</td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="11">Паралимпийские и Сурдлимпийские виды спорта</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Чемпионат Мира среди взрослых</td>
+<td>150 000</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>15 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Чемпионат Мира среди молодежи</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Чемпионат Мира среди юношей</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Чемпионат Азии среди взрослых</td>
+<td>100 000</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>10 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Чемпионат Азии среди молодежи</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Чемпионат Азии среди юношей</td>
+<td>70 000</td>
+<td>50 000</td>
+<td>30 000</td>
+<td>7 000</td>
+<td>5 000</td>
+<td>3 000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Чемпионат Республики Казахстан среди взрослых, Спартакиада Республики Казахстан, Паралимпийские игры Республики Казахстан, Сурдлимпийские игры Республики Казахстан, Спартакиада лиц, имеющих донорские органы после трансплантации</td>
+<td>50 000</td>
+<td></td>
+<td></td>
+<td>5 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
