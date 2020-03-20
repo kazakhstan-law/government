@@ -13,6 +13,11 @@ approval_date: 2020-03-20
 version_date: 2020-03-20
 registry_number: '140536'
 source: https://zan.gov.kz/client/#!/doc/140536/rus/20.03.2020
+repealed_on: 2020-12-31
+repealed_by:
+  code: '140536'
+  title: Об определении специального порядка государственных закупок
+  link: https://zan.gov.kz/client/#!/doc/140536/rus
 ---
 
 # Об определении специального порядка государственных закупок
