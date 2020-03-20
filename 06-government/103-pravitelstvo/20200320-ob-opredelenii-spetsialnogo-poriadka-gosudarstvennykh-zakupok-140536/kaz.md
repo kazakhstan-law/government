@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/140536/kaz/20.03.2020
+repealed_on: 2020-12-31
+repealed_by:
+  code: '140536'
+  title: Мемлекеттік сатып алудың арнайы тәртібін анықтау туралы
+  link: https://zan.gov.kz/client/#!/doc/140536/kaz
 ---
 
 # Мемлекеттік сатып алудың арнайы тәртібін анықтау туралы
