@@ -55,8 +55,11 @@
 
 ## Қостанай облысы бойынша кен іздеушілікке арналған аумақтар
 
+> *Ескерту. Қосымша жаңа редакцияда – Қостанай облысы әкімдігінің 11.05.2020 № 168 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
+<td rowspan="2">№ р/с</td>
 <td rowspan="2">Аумақтардың атауы</td>
 <td rowspan="2">Бұрыштық нүктелер</td>
 <td colspan="2">Бұрыштық нүктелердің координаталары</td>
@@ -68,20 +71,13 @@
 <td>Шығыс бойлық</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-</tr>
-<tr>
+<td rowspan="5">1</td>
 <td rowspan="5">1-учаске</td>
 <td>1</td>
 <td>52º39'27,55&quot;</td>
 <td>60º55'57,95&quot;</td>
-<td rowspan="5">3,03</td>
-<td rowspan="17">Денисов ауданы</td>
+<td rowspan="5">3</td>
+<td rowspan="9">Денисов ауданы</td>
 </tr>
 <tr>
 <td>2</td>
@@ -104,11 +100,12 @@
 <td>60º55'40,90&quot;</td>
 </tr>
 <tr>
+<td rowspan="4">2</td>
 <td rowspan="4">2-учаске</td>
 <td>1</td>
 <td>52º39'05,91&quot;</td>
 <td>60º55'43,52&quot;</td>
-<td rowspan="4">2,81</td>
+<td rowspan="4">3</td>
 </tr>
 <tr>
 <td>2</td>
@@ -117,20 +114,22 @@
 </tr>
 <tr>
 <td>3</td>
-<td>52º38'46,14&quot;</td>
-<td>60º55'26,16&quot;</td>
-</tr>
-<tr>
-<td>4</td>
 <td>52º38'46,45&quot;</td>
 <td>60º55'24,67&quot;</td>
 </tr>
 <tr>
+<td>4</td>
+<td>52º38'46,14&quot;</td>
+<td>60º55'26,16&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">3</td>
 <td rowspan="4">3-учаске</td>
 <td>1</td>
-<td>52º38'44,9&quot;</td>
+<td>52º38'44,90&quot;</td>
 <td>60º55'22,95&quot;</td>
-<td rowspan="4">1,1</td>
+<td rowspan="4">1</td>
+<td rowspan="12"></td>
 </tr>
 <tr>
 <td>2</td>
@@ -139,97 +138,21 @@
 </tr>
 <tr>
 <td>3</td>
-<td>52º38'36,64&quot;</td>
-<td>60º55'07,07&quot;</td>
-</tr>
-<tr>
-<td>4</td>
 <td>52º38'36,25&quot;</td>
 <td>60º55'07,58&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">4-учаске</td>
-<td>1</td>
-<td>52º38'24,04&quot;</td>
-<td>60º53'07,15&quot;</td>
-<td rowspan="4">2,92</td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'26,31&quot;</td>
-<td>60º53'25,73&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'22,42&quot;</td>
-<td>60º53'25,48&quot;</td>
-</tr>
-<tr>
 <td>4</td>
-<td>52º38'22,45&quot;</td>
-<td></td>
+<td>52º38'36,64&quot;</td>
+<td>60º55'07,07&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">5-учаске</td>
-<td>1</td>
-<td>52º38'26,31&quot;</td>
-<td>60º53'25,73&quot;</td>
-<td rowspan="4">4,14</td>
-<td rowspan="18"></td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'24,95&quot;</td>
-<td>60º53'48,97&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'22,72&quot;</td>
-<td>60º53'48,90&quot;</td>
-</tr>
-<tr>
-<td>4</td>
-<td>52º38'22,42&quot;</td>
-<td>60º53'25,48&quot;</td>
-</tr>
-<tr>
-<td rowspan="6">6-учаске</td>
-<td>1</td>
-<td>52º38'24,95&quot;</td>
-<td>60º53'48,97&quot;</td>
-<td rowspan="6">2,69</td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'23,86&quot;</td>
-<td>60º54'12,39&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'24,85&quot;</td>
-<td>60º54'24,17&quot;</td>
-</tr>
-<tr>
-<td>4</td>
-<td>52º38'24,41&quot;</td>
-<td>60º54'24,48&quot;</td>
-</tr>
-<tr>
-<td>5</td>
-<td>52º38'23,04&quot;</td>
-<td>60º54'15,98&quot;</td>
-</tr>
-<tr>
-<td>6</td>
-<td>52º38'22,72&quot;</td>
-<td>60º53'48,90&quot;</td>
-</tr>
-<tr>
-<td rowspan="8">7-учаске</td>
+<td rowspan="8">4</td>
+<td rowspan="8">4-учаске</td>
 <td>1</td>
 <td>52º38'26,48&quot;</td>
 <td>60º54'39,72&quot;</td>
-<td rowspan="8">2,12</td>
+<td rowspan="8">2</td>
 </tr>
 <tr>
 <td>2</td>
@@ -266,12 +189,59 @@
 <td>52º38'23,75&quot;</td>
 <td>60º54'31,01&quot;</td>
 </tr>
+<tr>
+<td rowspan="4">5</td>
+<td rowspan="4">5-учаске</td>
+<td>1</td>
+<td>51º38'41,00&quot;</td>
+<td>61º08'50,00&quot;</td>
+<td rowspan="4">4,5</td>
+<td rowspan="8">Жітіқара ауданы</td>
+</tr>
+<tr>
+<td>2</td>
+<td>51º38'41,00&quot;</td>
+<td>61º08'60,00&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>51º38'33,00&quot;</td>
+<td>61º08'60,00&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>51º38'33,00&quot;</td>
+<td>61º08'50,00&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td rowspan="4">6-учаске</td>
+<td>1</td>
+<td>51º27'56,02&quot;</td>
+<td>61º12'02,46&quot;</td>
+<td rowspan="4">4,84</td>
+</tr>
+<tr>
+<td>2</td>
+<td>51º27'55,97&quot;</td>
+<td>61º12'13,85&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>51º27'48,85&quot;</td>
+<td>61º12'13,76&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>51º27'48,91&quot;</td>
+<td>61º12'02,37&quot;</td>
+</tr>
 </table>
 
 Ескерту:
 
 º– градус;
 
-'– минута;
+'– минут;
 
-"– секунда.
+"– секунд.
