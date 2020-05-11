@@ -62,8 +62,11 @@
 
 ## Территории для старательства по Костанайской области
 
+> *Сноска. Приложение в редакции постановления акимата Костанайской области от 11.05.2020 № 168 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
+<td rowspan="2">№ п/п</td>
 <td rowspan="2">Наименование территории</td>
 <td rowspan="2">Угловые точки</td>
 <td colspan="2">Координаты угловых точек</td>
@@ -75,20 +78,13 @@
 <td>Восточная долгота</td>
 </tr>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-</tr>
-<tr>
+<td rowspan="5">1</td>
 <td rowspan="5">Участок 1</td>
 <td>1</td>
 <td>52º39'27,55&quot;</td>
 <td>60º55'57,95&quot;</td>
-<td rowspan="5">3,03</td>
-<td rowspan="17">Денисовский район</td>
+<td rowspan="5">3</td>
+<td rowspan="21">Денисовский район</td>
 </tr>
 <tr>
 <td>2</td>
@@ -111,11 +107,12 @@
 <td>60º55'40,90&quot;</td>
 </tr>
 <tr>
+<td rowspan="4">2</td>
 <td rowspan="4">Участок 2</td>
 <td>1</td>
 <td>52º39'05,91&quot;</td>
 <td>60º55'43,52&quot;</td>
-<td rowspan="4">2,81</td>
+<td rowspan="4">3</td>
 </tr>
 <tr>
 <td>2</td>
@@ -124,20 +121,21 @@
 </tr>
 <tr>
 <td>3</td>
-<td>52º38'46,14&quot;</td>
-<td>60º55'26,16&quot;</td>
-</tr>
-<tr>
-<td>4</td>
 <td>52º38'46,45&quot;</td>
 <td>60º55'24,67&quot;</td>
 </tr>
 <tr>
+<td>4</td>
+<td>52º38'46,14&quot;</td>
+<td>60º55'26,16&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">3</td>
 <td rowspan="4">Участок 3</td>
 <td>1</td>
-<td>52º38'44,9&quot;</td>
+<td>52º38'44,90&quot;</td>
 <td>60º55'22,95&quot;</td>
-<td rowspan="4">1,1</td>
+<td rowspan="4">1</td>
 </tr>
 <tr>
 <td>2</td>
@@ -146,97 +144,21 @@
 </tr>
 <tr>
 <td>3</td>
-<td>52º38'36,64&quot;</td>
-<td>60º55'07,07&quot;</td>
-</tr>
-<tr>
-<td>4</td>
 <td>52º38'36,25&quot;</td>
 <td>60º55'07,58&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">Участок 4</td>
-<td>1</td>
-<td>52º38'24,04&quot;</td>
-<td>60º53'07,15&quot;</td>
-<td rowspan="4">2,92</td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'26,31&quot;</td>
-<td>60º53'25,73&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'22,42&quot;</td>
-<td>60º53'25,48&quot;</td>
-</tr>
-<tr>
 <td>4</td>
-<td>52º38'22,45&quot;</td>
-<td></td>
+<td>52º38'36,64&quot;</td>
+<td>60º55'07,07&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">Участок 5</td>
-<td>1</td>
-<td>52º38'26,31&quot;</td>
-<td>60º53'25,73&quot;</td>
-<td rowspan="4">4,14</td>
-<td rowspan="18"></td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'24,95&quot;</td>
-<td>60º53'48,97&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'22,72&quot;</td>
-<td>60º53'48,90&quot;</td>
-</tr>
-<tr>
-<td>4</td>
-<td>52º38'22,42&quot;</td>
-<td>60º53'25,48&quot;</td>
-</tr>
-<tr>
-<td rowspan="6">Участок 6</td>
-<td>1</td>
-<td>52º38'24,95&quot;</td>
-<td>60º53'48,97&quot;</td>
-<td rowspan="6">2,69</td>
-</tr>
-<tr>
-<td>2</td>
-<td>52º38'23,86&quot;</td>
-<td>60º54'12,39&quot;</td>
-</tr>
-<tr>
-<td>3</td>
-<td>52º38'24,85&quot;</td>
-<td>60º54'24,17&quot;</td>
-</tr>
-<tr>
-<td>4</td>
-<td>52º38'24,41&quot;</td>
-<td>60º54'24,48&quot;</td>
-</tr>
-<tr>
-<td>5</td>
-<td>52º38'23,04&quot;</td>
-<td>60º54'15,98&quot;</td>
-</tr>
-<tr>
-<td>6</td>
-<td>52º38'22,72&quot;</td>
-<td>60º53'48,90&quot;</td>
-</tr>
-<tr>
-<td rowspan="8">Участок 7</td>
+<td rowspan="8">4</td>
+<td rowspan="8">Участок 4</td>
 <td>1</td>
 <td>52º38'26,48&quot;</td>
 <td>60º54'39,72&quot;</td>
-<td rowspan="8">2,12</td>
+<td rowspan="8">2</td>
 </tr>
 <tr>
 <td>2</td>
@@ -273,12 +195,59 @@
 <td>52º38'23,75&quot;</td>
 <td>60º54'31,01&quot;</td>
 </tr>
+<tr>
+<td rowspan="4">5</td>
+<td rowspan="4">Участок 5</td>
+<td>1</td>
+<td>51º38'41,00&quot;</td>
+<td>61º08'50,00&quot;</td>
+<td rowspan="4">4,5</td>
+<td rowspan="8">Житикаринский район</td>
+</tr>
+<tr>
+<td>2</td>
+<td>51º38'41,00&quot;</td>
+<td>61º08'60,00&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>51º38'33,00&quot;</td>
+<td>61º08'60,00&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>51º38'33,00&quot;</td>
+<td>61º08'50,00&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td rowspan="4">Участок 6</td>
+<td>1</td>
+<td>51º27'56,02&quot;</td>
+<td>61º12'02,46&quot;</td>
+<td rowspan="4">4,84</td>
+</tr>
+<tr>
+<td>2</td>
+<td>51º27'55,97&quot;</td>
+<td>61º12'13,85&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>51º27'48,85&quot;</td>
+<td>61º12'13,76&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>51º27'48,91&quot;</td>
+<td>61º12'02,37&quot;</td>
+</tr>
 </table>
 
 Примечание:
 
-º– градус;
+º – градус;
 
-'– минута;
+' – минута;
 
-"– секунда.
+" – секунда.
