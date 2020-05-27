@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/06.05.2020
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/27.05.2020
 ---
 
 > *Қазақстан Республикасы Үкіметінің*  
