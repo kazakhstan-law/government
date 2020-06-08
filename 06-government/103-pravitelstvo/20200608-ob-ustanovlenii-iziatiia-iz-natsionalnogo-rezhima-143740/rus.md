@@ -13,6 +13,11 @@ approval_date: 2020-06-08
 version_date: 2020-06-08
 registry_number: '143740'
 source: https://zan.gov.kz/client/#!/doc/143740/rus/08.06.2020
+repealed_on: 2022-06-09
+repealed_by:
+  code: '143740'
+  title: Об установлении изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/143740/rus
 ---
 
 # Об установлении изъятия из национального режима
