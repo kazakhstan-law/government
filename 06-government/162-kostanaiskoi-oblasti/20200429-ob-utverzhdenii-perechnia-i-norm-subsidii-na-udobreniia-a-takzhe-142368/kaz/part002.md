@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/142368/kaz/29.04.2020
+source: https://zan.gov.kz/client/#!/doc/142368/kaz/10.07.2020
 ---
 
 > *Әкімдіктің*  
