@@ -1,5 +1,5 @@
 ---
-version_id: '143228_463371'
+version_id: '143228_477242'
 act_code: '143228'
 language: rus
 title: О размещении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2020-2021 учебный год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2020-05-26
-version_date: 2020-05-26
+version_date: 2020-08-14
 registry_number: '143228'
-source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
+caused_by:
+  code: '145520'
+  title: О внесении изменений и дополнений в постановление акимата Жамбылской области от 26 мая 2020 года № 117 «О размещении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2020-2021 учебный год»
+  link: https://zan.gov.kz/client/#!/doc/145520/rus
+source: https://zan.gov.kz/client/#!/doc/143228/rus
 ---
 
 # О размещении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2020-2021 учебный год
@@ -48,6 +52,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 > *от 26 мая 2020 года № 117*
 
 ## Государственный образовательный заказ на подготовку кадров с техническим и профессиональным, послесредним образованием на 2020-2021 учебный год
+
+> *Сноска. Приложение с изменениями, внесенными постановлением акимата Жамбылской области от 14.08.2020 № 181 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -88,7 +94,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="4">село</td>
 </tr>
 <tr>
-<td colspan="33">І. Государственный образовательный заказ, администратором бюджетных программ которых является коммунальное государственное учреждение «Управление образования акимата Жамбылской области»</td>
+<td colspan="33">
+І. Государственный образовательный заказ, администратором бюджетных программ которых является коммунальное государственное учреждение
+«Управление образования акимата Жамбылской области»
+</td>
 </tr>
 <tr>
 <td colspan="33">Коммунальное государственное казенное предприятие «Жамбылский гуманитарный высший колледж имени Абая»</td>
@@ -105,7 +114,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="10">26,6</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="5"></td>
+<td colspan="5">
+
+
+</td>
 </tr>
 <tr>
 <td>2</td>
@@ -164,7 +176,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="10">88,3</td>
 <td colspan="2"></td>
 <td></td>
-<td colspan="5"></td>
+<td colspan="5">
+
+
+</td>
 </tr>
 <tr>
 <td>6</td>
@@ -243,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">1</td>
 <td colspan="2">1115000</td>
 <td colspan="3">Промышленное электромеханическое оборудование</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -257,7 +272,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">2</td>
 <td colspan="2">1112000</td>
 <td colspan="3">Эксплуатация машин и оборудования промышленности</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -274,7 +289,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 Техническая эксплуатация, обслуживание и ремонт электрического и электромеханического оборудования
 (по видам)
 </td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -288,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">4</td>
 <td colspan="2">1402000</td>
 <td colspan="3">Техническая эксплуатация дорожно-строительных машин</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -302,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">5</td>
 <td colspan="2">1304000</td>
 <td colspan="3">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="2">75</td>
+<td colspan="2">50</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -330,7 +345,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">7</td>
 <td colspan="2">1114000</td>
 <td colspan="3">Сварочное дело (по видам)</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -344,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">8</td>
 <td colspan="2">1306000</td>
 <td colspan="3">Радиоэлектроника и связь (по видам)</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -358,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">9</td>
 <td colspan="2">1418000</td>
 <td colspan="3">Архитектура</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -372,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">10</td>
 <td colspan="2">1302000</td>
 <td colspan="3">Автоматизация и управление (по профилю)</td>
-<td colspan="2">50</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -386,7 +401,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">11</td>
 <td colspan="2">0402000</td>
 <td colspan="3">Дизайн</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -400,7 +415,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">12</td>
 <td colspan="2">1013000</td>
 <td colspan="3">Механообработка, контрольно-измерительные приборы и автоматика в промышленности</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -414,7 +429,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">13</td>
 <td colspan="2">0907000</td>
 <td colspan="3">Теплотехническое оборудование и системы теплоснабжения (по видам)</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -428,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">14</td>
 <td colspan="2">1511000</td>
 <td colspan="3">Землеустройство</td>
-<td colspan="2">25</td>
+<td colspan="2">20</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -442,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="2">15</td>
 <td colspan="2">0808000</td>
 <td colspan="3">Техническое обслуживание и ремонт оборудования предприятий нефтегазоперерабатывающей и химической промышленности (по видам)</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -455,8 +470,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="3">Итого</td>
-<td colspan="2">475</td>
+<td colspan="3">Всего</td>
+<td colspan="2">335</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 <td colspan="5"></td>
@@ -473,13 +488,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="3">1211000</td>
 <td colspan="3">Швейное производство и моделирование одежды</td>
-<td colspan="2">25</td>
+<td colspan="2">15</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="2">33,3</td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td></td>
 </tr>
@@ -492,8 +507,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="2">30,7</td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td></td>
 </tr>
@@ -506,8 +521,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="2">30,7</td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td></td>
 </tr>
@@ -515,13 +530,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>4</td>
 <td colspan="3">1504000</td>
 <td colspan="3">Фермерское хозяйство (по профилю)</td>
-<td colspan="2">50</td>
+<td colspan="2">35</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="2">30,7</td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td></td>
 </tr>
@@ -534,16 +549,16 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td colspan="2"></td>
 <td colspan="2">33,3</td>
+<td colspan="2"></td>
 <td colspan="5"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3">Итого</td>
-<td colspan="2">175</td>
+<td colspan="3">Всего</td>
+<td colspan="2">150</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -647,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>2</td>
 <td colspan="3">0512000</td>
 <td colspan="3">Переводческое дело</td>
-<td colspan="2">25</td>
+<td colspan="2">50</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -674,8 +689,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <tr>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3">Итого</td>
-<td colspan="2">75</td>
+<td colspan="3">Всего</td>
+<td colspan="2">100</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -717,24 +732,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 </tr>
 <tr>
-<td>3</td>
-<td colspan="3">0709000</td>
-<td colspan="3">Обогащение полезных ископаемых (рудообогащение)</td>
-<td colspan="2">25</td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">29,8</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td colspan="3"></td>
 <td colspan="3">Итого</td>
-<td colspan="2">125</td>
+<td colspan="2">100</td>
 <td colspan="4"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -908,7 +909,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3">29,8</td>
 <td colspan="2"></td>
 <td colspan="5"></td>
-<td></td>
+<td>
+
+
+</td>
 </tr>
 <tr>
 <td>3</td>
@@ -957,8 +961,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">1504000</td>
-<td colspan="4">Фермерское хозяйство (по профилю)</td>
+<td colspan="2">1513000</td>
+<td colspan="4">Ветеринария</td>
 <td colspan="2">25</td>
 <td colspan="5"></td>
 <td colspan="2"></td>
@@ -986,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="4">Итого</td>
+<td colspan="4">Всего</td>
 <td colspan="2">70</td>
 <td colspan="5"></td>
 <td colspan="2"></td>
@@ -1015,52 +1019,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="2">0105000</td>
-<td colspan="4">Начальное образование</td>
-<td colspan="2">25</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">26,6</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">1304000</td>
-<td colspan="4">Вычислительная техника и программное обеспечение (по видам)</td>
-<td colspan="2">25</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">27,0</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="2">1308000</td>
-<td colspan="4">Эксплуатация автоматизированных систем связи</td>
-<td colspan="2">25</td>
-<td colspan="5"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="3"></td>
-<td colspan="3">27,0</td>
-<td colspan="2"></td>
-<td colspan="5"></td>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Итого</td>
-<td colspan="2">100</td>
+<td colspan="2">25</td>
 <td colspan="5"></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
@@ -1122,7 +1084,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="2">0507000</td>
 <td colspan="5">Организация обслуживания гостиничных хозяйств</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1136,7 +1098,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>2</td>
 <td colspan="2">0508000</td>
 <td colspan="5">Организация питания</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1150,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>3</td>
 <td colspan="2">0511000</td>
 <td colspan="5">Туризм (по отраслям)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1164,7 +1126,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>4</td>
 <td colspan="2">0506000</td>
 <td colspan="5">Парикмахерское искусство и декоративная косметика</td>
-<td>30</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1178,7 +1140,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>105</td>
+<td>80</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1189,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="33">Коммунальное государственное казенное предприятие «Каратауский колледж №2»</td>
+<td colspan="33">«Коммунальное государственное казенное предприятие «Каратауский колледж №2»</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1221,20 +1183,6 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">1401000</td>
-<td colspan="5">Строительство и эксплуатация зданий и сооружений</td>
-<td>20</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td>29,8</td>
-<td colspan="2"></td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>4</td>
 <td colspan="2">0508000</td>
 <td colspan="5">Организация питания</td>
 <td>25</td>
@@ -1250,8 +1198,53 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <tr>
 <td></td>
 <td colspan="2"></td>
-<td colspan="5">Итого</td>
-<td>90</td>
+<td colspan="5">Всего</td>
+<td>70</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="33">Учреждение « Каратауский колледж технологии, образования и бизнеса »</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">0902000</td>
+<td colspan="5">Электроснабжение (по отраслям)</td>
+<td>20</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td>29,8</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">1305000</td>
+<td colspan="5">Информационные системы (по отраслям)</td>
+<td>20</td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td>27,0</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="5">Всего</td>
+<td>40</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1426,34 +1419,6 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2">1304000</td>
-<td colspan="5">Вычислительная техника и программное обеспечение (по видам)</td>
-<td>25</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="2">1305000</td>
-<td colspan="5">Информационные системы (по обтраслям применения)</td>
-<td>25</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
 <td colspan="2">1504000</td>
 <td colspan="5">Фермерское хозяйство (по профилю)</td>
 <td>20</td>
@@ -1461,8 +1426,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
+<td>30,7</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1470,7 +1435,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>70</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1487,13 +1452,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="2">1304000</td>
 <td colspan="5">Вычислительная техника и программное обеспечение (по видам)</td>
-<td>20</td>
+<td>15</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
+<td>43,0</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1506,22 +1471,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
-<td colspan="4"></td>
+<td>43,0</td>
 <td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">1504000</td>
-<td colspan="5">Фермерское хозяйство (по профилю)</td>
-<td>20</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1529,7 +1480,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>60</td>
+<td>35</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1546,13 +1497,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="2">0901000</td>
 <td colspan="5">Электрооборудование электрических станций и сетей (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">33,3</td>
+<td>33,3</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1560,13 +1511,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>2</td>
 <td colspan="2">1109000</td>
 <td colspan="5">Токарное дело и металлообработка (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">33,3</td>
+<td>33,3</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1574,13 +1525,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>3</td>
 <td colspan="2">1305000</td>
 <td colspan="5">Информационные системы (по отраслям применения)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
+<td>30,7</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1588,13 +1539,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>4</td>
 <td colspan="2">1304000</td>
 <td colspan="5">Вычислительная техника и программное обеспечение (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
+<td>30,7</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1602,15 +1553,18 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>5</td>
 <td colspan="2">1504000</td>
 <td colspan="5">Фермерское хозяйство (по профилю)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">30,7</td>
-<td colspan="4"></td>
+<td>30,7</td>
 <td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="2">
+
+
+</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1621,8 +1575,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">33,3</td>
+<td>33,3</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -1630,7 +1584,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>150</td>
+<td>125</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1742,7 +1696,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2">43,0</td>
 <td colspan="4"></td>
-<td colspan="2"></td>
+<td colspan="2">
+
+
+</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1866,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="2">1108000</td>
 <td colspan="5">Эксплуатация, ремонт и техническое обслуживание подвижного состава железных дорог (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1874,13 +1831,16 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>29,8</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
-<td colspan="2"></td>
+<td colspan="2">
+
+
+</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">1414000</td>
 <td colspan="5">Мебельное производство (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1894,7 +1854,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>3</td>
 <td colspan="2">1403000</td>
 <td colspan="5">Монтаж и эксплуатация внутренних санитарно-технических устройств, вентиляции и инженерных систем (по видам)</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1908,7 +1868,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>4</td>
 <td colspan="2">1303000</td>
 <td colspan="5">Автоматика, телемеханика и управление движением на железнодорожном транспорте</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1922,7 +1882,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>5</td>
 <td colspan="2">1203000</td>
 <td colspan="5">Организация перевозок и управление движением на железнодорожном транспорте</td>
-<td>25</td>
+<td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1936,7 +1896,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>125</td>
+<td>100</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -1958,9 +1918,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
+<td>24,5</td>
 <td colspan="2"></td>
-<td colspan="4">24,5</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -1972,9 +1932,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
+<td>24,5</td>
 <td colspan="2"></td>
-<td colspan="4">24,5</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -1986,9 +1946,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
+<td>24,5</td>
 <td colspan="2"></td>
-<td colspan="4">24,5</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -2000,44 +1960,16 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
+<td>24,5</td>
 <td colspan="2"></td>
-<td colspan="4">24,5</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>5</td>
-<td colspan="2">1215000</td>
-<td colspan="5">Организаций легкой промышленности</td>
-<td>25</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
 <td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">24,5</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>6</td>
-<td colspan="2">1402000</td>
-<td colspan="5">Техническая эксплуатация дорожно-строительных машин (по видам)</td>
-<td>25</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="4">24,5</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>150</td>
+<td>100</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -2054,13 +1986,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>1</td>
 <td colspan="2">1114000</td>
 <td colspan="5">Сварочное дело (по видам)</td>
-<td>25</td>
+<td>15</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
+<td>43,0</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -2068,41 +2000,27 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td>2</td>
 <td colspan="2">1504000</td>
 <td colspan="5">Фермерское хозяйство (по профилю)</td>
-<td>25</td>
-<td colspan="5"></td>
-<td colspan="3"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
-<td colspan="4"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="2">1201000</td>
-<td colspan="5">Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
 <td>20</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
+<td>43,0</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>4</td>
+<td>3</td>
 <td colspan="2">1211000</td>
 <td colspan="5">Организация питания</td>
-<td>25</td>
+<td>15</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td></td>
-<td colspan="2">43,0</td>
+<td>43,0</td>
+<td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
 </tr>
@@ -2110,7 +2028,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td></td>
 <td colspan="2"></td>
 <td colspan="5">Итого</td>
-<td>95</td>
+<td>50</td>
 <td colspan="5"></td>
 <td colspan="3"></td>
 <td colspan="4"></td>
@@ -2208,7 +2126,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="3"></td>
 <td colspan="4"></td>
 <td colspan="3"></td>
-<td>24,5</td>
+<td>29,8</td>
 <td colspan="2"></td>
 <td colspan="4"></td>
 <td colspan="2"></td>
@@ -2245,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="33">ІІ. Государственный образовательный заказ, администратором бюджетных программ которой является коммунальное государственное учреждение «Управление здравоохранения акимата Жамбылской области»</td>
 </tr>
 <tr>
-<td colspan="33">Коммунальное государственное казенное предприятие «Жамбылский медицинский высший колледж»</td>
+<td colspan="33">Коммунальное государственное казенное предприятие на праве хозяйственного введения &quot;Жамбылский медицинский высший колледж» Управления здравоохранения акимата Жамбылской области</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2256,7 +2174,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="5"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="3">27,9</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>
@@ -2270,7 +2188,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/rus/26.05.2020
 <td colspan="5"></td>
 <td></td>
 <td colspan="3"></td>
-<td colspan="3"></td>
+<td colspan="3">27,9</td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="3"></td>

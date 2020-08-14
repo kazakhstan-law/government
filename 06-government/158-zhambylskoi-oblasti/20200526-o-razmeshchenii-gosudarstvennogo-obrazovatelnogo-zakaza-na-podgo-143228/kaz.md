@@ -1,5 +1,5 @@
 ---
-version_id: '143228_463372'
+version_id: '143228_477241'
 act_code: '143228'
 language: kaz
 title: Техникалық және кәсіптік, орта білімнен кейінгі білімі бар кадрларды даярлаудың 2020-2021 оқу жылына арналған мемлекеттiк бiлiм беру тапсырысын орналастыру туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2020-05-26
-version_date: 2020-05-26
+version_date: 2020-08-14
 registry_number: '143228'
-source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
+caused_by:
+  code: '145520'
+  title: «Техникалық және кәсіптік, орта білімнен кейінгі білімі бар кадрларды даярлаудың 2020-2021 оқу жылына арналған мемлекеттiк бiлiм беру тапсырысын орналастыру туралы» Жамбыл облысы әкімдігінің 2020 жылғы 26 мамырдағы № 117 қаулысына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/145520/kaz
+source: https://zan.gov.kz/client/#!/doc/143228/kaz
 ---
 
 # Техникалық және кәсіптік, орта білімнен кейінгі білімі бар кадрларды даярлаудың 2020-2021 оқу жылына арналған мемлекеттiк бiлiм беру тапсырысын орналастыру туралы
@@ -46,6 +50,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 > *Жамбыл облысы әкімдігінің 2020 жылғы 26 мамырдағы № 117 қаулысына қосымша*
 
 ## Техникалық және кәсіптік, орта білімнен кейінгі білімі бар кадрларды даярлаудың 2020-2021 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. Қосымшаға өзгерістер енгізілді - Жамбыл облысы әкімдігінің 14.08.2020 № 181 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
@@ -83,7 +89,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="7">ауыл</td>
 </tr>
 <tr>
-<td colspan="110">І. Бюджеттік бағдарлама әкімшісі «Жамбыл облысы әкімдігінің білім басқармасы» коммуналдық мемлекеттік мекемесі болып табылатын мемлекеттік білім беру тапсырысы</td>
+<td colspan="110">
+І. Бюджеттік бағдарлама әкімшісі «Жамбыл облысы әкімдігінің білім басқармасы» коммуналдық мемлекеттік мекемесі болып табылатын
+мемлекеттік білім беру тапсырысы
+</td>
 </tr>
 <tr>
 <td colspan="110">«Абай атындағы Жамбыл гуманитарлық жоғары колледжі» коммуналдық мемлекеттік қазыналық кәсіпорны</td>
@@ -95,7 +104,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="11">25</td>
 <td colspan="14"></td>
 <td colspan="8"></td>
-<td colspan="16"></td>
+<td colspan="16">
+
+
+</td>
 <td colspan="5"></td>
 <td colspan="6">26,6</td>
 <td colspan="10"></td>
@@ -193,7 +205,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="11">10</td>
 <td colspan="14"></td>
 <td colspan="8"></td>
-<td colspan="16"></td>
+<td colspan="16">
+
+
+</td>
 <td colspan="5"></td>
 <td colspan="6">91,5</td>
 <td colspan="10"></td>
@@ -235,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">1</td>
 <td colspan="15">1115000</td>
 <td colspan="4">Өндірістегі электромеханикалық жабдықтар</td>
-<td colspan="12">25</td>
+<td colspan="12">15</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -249,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">2</td>
 <td colspan="15">1112000</td>
 <td colspan="4">Өнеркәсіп машиналары және жабдықтарын пайдалану</td>
-<td colspan="12">25</td>
+<td colspan="12">15</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -263,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">3</td>
 <td colspan="15">0911000</td>
 <td colspan="4">Электр және электрлі механикалық жабдықтарды техникалық пайдалану, қызмет көрсету және жөндеу (түрлері бойынша)</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -277,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">4</td>
 <td colspan="15">1402000</td>
 <td colspan="4">Жол-құрылыс машиналарын техникалық пайдалану</td>
-<td colspan="12">25</td>
+<td colspan="12">15</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -291,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">5</td>
 <td colspan="15">1304000</td>
 <td colspan="4">Есептеу техникасы және бағдарламалық қамтамасыз ету (түрлері бойынша)</td>
-<td colspan="12">75</td>
+<td colspan="12">50</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -319,7 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">7</td>
 <td colspan="15">1114000</td>
 <td colspan="4">Дәнекерлеу ісі (түрлері бойынша)</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -333,7 +348,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">8</td>
 <td colspan="15">1306000</td>
 <td colspan="4">Радиоэлектроника және байланыс (түрлері бойынша)</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -347,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">9</td>
 <td colspan="15">1418000</td>
 <td colspan="4">Сәулет</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -361,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">10</td>
 <td colspan="15">1302000</td>
 <td colspan="4">Автоматтандыру және басқару (бейін бойынша)</td>
-<td colspan="12">50</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -375,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">11</td>
 <td colspan="15">0402000</td>
 <td colspan="4">Дизайн</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -389,7 +404,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">12</td>
 <td colspan="15">1013000</td>
 <td colspan="4">Механикалық өңдеу өлшеу бақылау құралдары және өндірістегі автоматика</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -403,7 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">13</td>
 <td colspan="15">0907000</td>
 <td colspan="4">Жылу техникалық жабдық және жылумен қамтамасыз ету жүйелері (түрлері бойынша)</td>
-<td colspan="12">25</td>
+<td colspan="12">15</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -417,7 +432,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">14</td>
 <td colspan="15">1511000</td>
 <td colspan="4">Жерге орналастыру</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -431,7 +446,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">15</td>
 <td colspan="15">0808000</td>
 <td colspan="4">Мұнай газ өңдеу және химия өнеркәсібінің жабдықтарына техникалық қызмет көрсету және жөндеу (түрлері бойынша)</td>
-<td colspan="12">25</td>
+<td colspan="12">15</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -445,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5"></td>
 <td colspan="15"></td>
 <td colspan="4">Барлығы</td>
-<td colspan="12">475</td>
+<td colspan="12">335</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="8"></td>
@@ -462,27 +477,27 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">1</td>
 <td colspan="15">1211000</td>
 <td colspan="4">Тігін өндірісі және киімдерді үлгілеу</td>
-<td colspan="13">25</td>
+<td colspan="13">15</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
 <td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="10">33,3</td>
+<td colspan="6">33,3</td>
+<td colspan="10"></td>
 <td colspan="9"></td>
 <td colspan="7"></td>
 </tr>
 <tr>
 <td colspan="5">2</td>
 <td colspan="15">1305000</td>
-<td colspan="4">Ақпараттық жүйелер</td>
+<td colspan="4">Ақпараттық жүйелер (қолдану саласы бойынша)</td>
 <td colspan="13">25</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
 <td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="10">30,7</td>
+<td colspan="6">30,7</td>
+<td colspan="10"></td>
 <td colspan="9"></td>
 <td colspan="7"></td>
 </tr>
@@ -495,8 +510,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="11"></td>
 <td colspan="7"></td>
 <td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="10">30,7</td>
+<td colspan="6">30,7</td>
+<td colspan="10"></td>
 <td colspan="9"></td>
 <td colspan="7"></td>
 </tr>
@@ -504,13 +519,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">4</td>
 <td colspan="15">1504000</td>
 <td colspan="4">Фермер шаруашылығы (бейін бойынша)</td>
-<td colspan="13">50</td>
+<td colspan="13">35</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
 <td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="10">30,7</td>
+<td colspan="6">30,7</td>
+<td colspan="10"></td>
 <td colspan="9"></td>
 <td colspan="7"></td>
 </tr>
@@ -523,8 +538,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="11"></td>
 <td colspan="7"></td>
 <td colspan="11"></td>
-<td colspan="6"></td>
-<td colspan="10">33,3</td>
+<td colspan="6">33,3</td>
+<td colspan="10"></td>
 <td colspan="9"></td>
 <td colspan="7"></td>
 </tr>
@@ -532,7 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5"></td>
 <td colspan="15"></td>
 <td colspan="4">Барлығы</td>
-<td colspan="13">175</td>
+<td colspan="13">150</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
@@ -636,7 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5">2</td>
 <td colspan="16">0512000</td>
 <td colspan="3">Аударма ісі</td>
-<td colspan="13">25</td>
+<td colspan="13">50</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
@@ -664,7 +679,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5"></td>
 <td colspan="16"></td>
 <td colspan="3">Барлығы</td>
-<td colspan="13">75</td>
+<td colspan="13">100</td>
 <td colspan="12"></td>
 <td colspan="11"></td>
 <td colspan="7"></td>
@@ -706,24 +721,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="3">3</td>
-<td colspan="18">0709000</td>
-<td colspan="4">Пайдалы қазбаларды байыту (кен байыту)</td>
-<td colspan="15">25</td>
-<td colspan="10"></td>
-<td colspan="11"></td>
-<td colspan="12"></td>
-<td colspan="6"></td>
-<td colspan="10">29,8</td>
-<td colspan="6"></td>
-<td colspan="10"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
 <td colspan="3"></td>
 <td colspan="18"></td>
 <td colspan="4">Барлығы</td>
-<td colspan="15">125</td>
+<td colspan="15">100</td>
 <td colspan="10"></td>
 <td colspan="11"></td>
 <td colspan="12"></td>
@@ -946,8 +947,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 </tr>
 <tr>
 <td colspan="3">2</td>
-<td colspan="11">1504000</td>
-<td colspan="13">Фермер шаруашылығы (бейін бойынша)</td>
+<td colspan="11">1513000</td>
+<td colspan="13">Ветеринария</td>
 <td colspan="9">25</td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1004,52 +1005,10 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="5"></td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="11">0105000</td>
-<td colspan="13">Бастауыш білім беру</td>
-<td colspan="9">25</td>
-<td colspan="14"></td>
-<td colspan="12"></td>
-<td colspan="4"></td>
-<td colspan="13"></td>
-<td colspan="7">26,6</td>
-<td colspan="10"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="3">3</td>
-<td colspan="11">1304000</td>
-<td colspan="13">Есептеу техникасы және бағдарламалық қамтамасыз ету (түрлері бойынша)</td>
-<td colspan="9">25</td>
-<td colspan="14"></td>
-<td colspan="12"></td>
-<td colspan="4"></td>
-<td colspan="13"></td>
-<td colspan="7">27,0</td>
-<td colspan="10"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
-<td colspan="3">4</td>
-<td colspan="11">1308000</td>
-<td colspan="13">Автоматтандырылған байланысы жүйесін пайдалану</td>
-<td colspan="9">25</td>
-<td colspan="14"></td>
-<td colspan="12"></td>
-<td colspan="4"></td>
-<td colspan="13"></td>
-<td colspan="7">27,0</td>
-<td colspan="10"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-</tr>
-<tr>
 <td colspan="3"></td>
 <td colspan="11"></td>
 <td colspan="13">Барлығы</td>
-<td colspan="9">100</td>
+<td colspan="9">25</td>
 <td colspan="14"></td>
 <td colspan="12"></td>
 <td colspan="4"></td>
@@ -1111,7 +1070,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3">1</td>
 <td colspan="11">0507000</td>
 <td colspan="14">Қонақ үй шаруашылығында қызмет көрсету және ұйымдастыру</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="7"></td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1125,7 +1084,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3">2</td>
 <td colspan="11">0508000</td>
 <td colspan="14">Тамақтандыруды ұйымдастыру</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="7"></td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1139,7 +1098,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3">3</td>
 <td colspan="11">0511000</td>
 <td colspan="14">Туризм</td>
-<td colspan="12">25</td>
+<td colspan="12">20</td>
 <td colspan="7"></td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1153,7 +1112,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3">4</td>
 <td colspan="11">0506000</td>
 <td colspan="14">Шаштараз өнері және сәндік косметика</td>
-<td colspan="12">30</td>
+<td colspan="12">20</td>
 <td colspan="7"></td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1167,7 +1126,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3"></td>
 <td colspan="11"></td>
 <td colspan="14">Барлығы</td>
-<td colspan="12">105</td>
+<td colspan="12">80</td>
 <td colspan="7"></td>
 <td colspan="14"></td>
 <td colspan="12"></td>
@@ -1210,20 +1169,6 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 </tr>
 <tr>
 <td colspan="3">3</td>
-<td colspan="11">1401000</td>
-<td colspan="14">Ғимараттар мен құрылымдарды салу және пайдалану</td>
-<td colspan="12">20</td>
-<td colspan="9"></td>
-<td colspan="10"></td>
-<td colspan="16"></td>
-<td colspan="4"></td>
-<td colspan="6">29,8</td>
-<td colspan="10"></td>
-<td colspan="9"></td>
-<td colspan="6"></td>
-</tr>
-<tr>
-<td colspan="3">4</td>
 <td colspan="11">0508000</td>
 <td colspan="14">Тамақтандыруды ұйымдастыру</td>
 <td colspan="12">25</td>
@@ -1240,7 +1185,52 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="3"></td>
 <td colspan="11"></td>
 <td colspan="14">Барлығы</td>
-<td colspan="12">90</td>
+<td colspan="12">70</td>
+<td colspan="9"></td>
+<td colspan="10"></td>
+<td colspan="16"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10"></td>
+<td colspan="9"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="110">«Қаратау технология, білім және бизнес колледжі» мекемесі</td>
+</tr>
+<tr>
+<td colspan="3">1</td>
+<td colspan="11">0902000</td>
+<td colspan="14">&quot;Электрмен қамтамасыз ету&quot; (түрлері бойынша)</td>
+<td colspan="12">20</td>
+<td colspan="9"></td>
+<td colspan="10"></td>
+<td colspan="16"></td>
+<td colspan="4"></td>
+<td colspan="6">29,8</td>
+<td colspan="10"></td>
+<td colspan="9"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">2</td>
+<td colspan="11">1305000</td>
+<td colspan="14">&quot;Ақпараттық жүйелер&quot; (түрлері бойынша)</td>
+<td colspan="12">20</td>
+<td colspan="9"></td>
+<td colspan="10"></td>
+<td colspan="16"></td>
+<td colspan="4"></td>
+<td colspan="6">27,0</td>
+<td colspan="10"></td>
+<td colspan="9"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="11"></td>
+<td colspan="14">Барлығы</td>
+<td colspan="12">40</td>
 <td colspan="9"></td>
 <td colspan="10"></td>
 <td colspan="16"></td>
@@ -1415,34 +1405,6 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td colspan="10">1304000</td>
-<td colspan="18">Есептеу техникасы және бағдарламалық қамтамасыз ету (түрлері бойынша)</td>
-<td colspan="7">25</td>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
-<td colspan="15"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="10">1305000</td>
-<td colspan="18">Ақпараттық жүйелер (қолдану саласы бойынша)</td>
-<td colspan="7">25</td>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
-<td colspan="15"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">3</td>
 <td colspan="10">1504000</td>
 <td colspan="18">Фермер шаруашылығы (бейін бойынша)</td>
 <td colspan="7">20</td>
@@ -1450,8 +1412,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
+<td colspan="5">30,7</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1459,7 +1421,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 <td colspan="10"></td>
 <td colspan="18">Барлығы</td>
-<td colspan="7">70</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
@@ -1476,13 +1438,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">1</td>
 <td colspan="8">1304000</td>
 <td colspan="20">Есептеу техникасы және бағдарламалық қамтамасыз ету (түрлері бойынша)</td>
-<td colspan="7">20</td>
+<td colspan="7">15</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
+<td colspan="5">43,0</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1495,22 +1457,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
-<td colspan="15"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="8">1504000</td>
-<td colspan="20">Ферма шаруашылығы</td>
-<td colspan="7">20</td>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="11"></td>
-<td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
+<td colspan="5">43,0</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1518,7 +1466,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 <td colspan="8"></td>
 <td colspan="20">Барлығы</td>
-<td colspan="7">60</td>
+<td colspan="7">35</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
@@ -1535,13 +1483,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">1</td>
 <td colspan="9">0901000</td>
 <td colspan="19">Электр станциялары мен желілерінің электр жабдықтары (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">33,3</td>
+<td colspan="5">33,3</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1549,13 +1497,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">2</td>
 <td colspan="9">1109000</td>
 <td colspan="19">Токарлық іс және металл өңдеу (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">33,3</td>
+<td colspan="5">33,3</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1563,13 +1511,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">3</td>
 <td colspan="9">1305000</td>
 <td colspan="19">Ақпараттық жүйелер (қолдану саласы бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
+<td colspan="5">30,7</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1577,13 +1525,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">4</td>
 <td colspan="9">1304000</td>
 <td colspan="19">Есептеу техникасы және бағдарламалық қамтамасыз ету (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
+<td colspan="5">30,7</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1591,13 +1539,16 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">5</td>
 <td colspan="9">1504000</td>
 <td colspan="19">Фермер шаруашылығы (бейіндері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="12"></td>
-<td colspan="8"></td>
+<td colspan="8">
+
+
+</td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">30,7</td>
+<td colspan="5">30,7</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1610,8 +1561,8 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="11"></td>
 <td colspan="11"></td>
-<td colspan="5"></td>
-<td colspan="9">33,3</td>
+<td colspan="5">33,3</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -1619,7 +1570,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 <td colspan="9"></td>
 <td colspan="19">Барлығы</td>
-<td colspan="7">150</td>
+<td colspan="7">125</td>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="11"></td>
@@ -1855,9 +1806,12 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">1</td>
 <td colspan="11">1108000</td>
 <td colspan="17">Теміржол жылжымалы құрамдарын пайдалану, жөндеу және техникалық қызмет көрсету (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="13"></td>
-<td colspan="8"></td>
+<td colspan="8">
+
+
+</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="5">29,8</td>
@@ -1869,7 +1823,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">2</td>
 <td colspan="11">1414000</td>
 <td colspan="17">Жиһаз өндірісі (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="12"></td>
@@ -1883,7 +1837,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">3</td>
 <td colspan="11">1403000</td>
 <td colspan="17">Ішкі санитарлық техникалық құрылғыларды, желдеткіштерді және инженерлік жүйелерді монтаждау және пайдалану (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="12"></td>
@@ -1897,7 +1851,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">4</td>
 <td colspan="11">1303000</td>
 <td colspan="17">Темір жол қозғалысында автоматика, телемеханиканы басқару</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="12"></td>
@@ -1911,7 +1865,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">5</td>
 <td colspan="11">1203000</td>
 <td colspan="17">Темір жол көлігінде тасымалдауды ұйымдастыру және қозғалысты басқару</td>
-<td colspan="7">25</td>
+<td colspan="7">20</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="12"></td>
@@ -1925,7 +1879,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 <td colspan="11"></td>
 <td colspan="17">Барлығы</td>
-<td colspan="7">125</td>
+<td colspan="7">100</td>
 <td colspan="13"></td>
 <td colspan="8"></td>
 <td colspan="12"></td>
@@ -1947,9 +1901,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">24,5</td>
 <td colspan="9"></td>
-<td colspan="15">24,5</td>
+<td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -1961,9 +1915,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">24,5</td>
 <td colspan="9"></td>
-<td colspan="15">24,5</td>
+<td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -1975,9 +1929,9 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">24,5</td>
 <td colspan="9"></td>
-<td colspan="15">24,5</td>
+<td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
@@ -1989,44 +1943,16 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">24,5</td>
 <td colspan="9"></td>
-<td colspan="15">24,5</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="12">1215000</td>
-<td colspan="16">Жеңіл өнеркәсіпті ұйымдастыру</td>
-<td colspan="7">25</td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9"></td>
-<td colspan="15">24,5</td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="12">1402000</td>
-<td colspan="16">Жол құрылыс машиналарын техникалық пайдалану</td>
-<td colspan="7">25</td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9"></td>
-<td colspan="15">24,5</td>
+<td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="12"></td>
 <td colspan="16">Барлығы</td>
-<td colspan="7">150</td>
+<td colspan="7">100</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="12"></td>
@@ -2043,13 +1969,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">1</td>
 <td colspan="12">1114000</td>
 <td colspan="16">Дәнекерлеу ісі (түрлері бойынша)</td>
-<td colspan="7">25</td>
+<td colspan="7">15</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
+<td colspan="5">43,0</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -2057,41 +1983,27 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2">2</td>
 <td colspan="12">1504000</td>
 <td colspan="16">Фермер шаруашылығы (бейін бойынша)</td>
-<td colspan="7">25</td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="12"></td>
-<td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
-<td colspan="15"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="12">1201000</td>
-<td colspan="16">Автомобиль көлігіне техникалық қызмет көрсету, жөндеу және пайдалану</td>
 <td colspan="7">20</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
+<td colspan="5">43,0</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td colspan="2">3</td>
 <td colspan="12">1211000</td>
 <td colspan="16">Тамақтандыруды ұйымдастыру</td>
-<td colspan="7">25</td>
+<td colspan="7">15</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
-<td colspan="9">43,0</td>
+<td colspan="5">43,0</td>
+<td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
 </tr>
@@ -2099,7 +2011,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 <td colspan="12"></td>
 <td colspan="16">Барлығы</td>
-<td colspan="7">95</td>
+<td colspan="7">50</td>
 <td colspan="12"></td>
 <td colspan="9"></td>
 <td colspan="12"></td>
@@ -2197,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5">24,5</td>
+<td colspan="5">29,8</td>
 <td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
@@ -2231,10 +2143,13 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="110">ІІ. Бюджеттік бағдарлама әкімшісі «Жамбыл облысы әкімдігінің денсаулық сақтау басқармасы» коммуналдық мемлекеттік мекемесі болып табылатын мемлекеттік білім беру тапсырысы</td>
+<td colspan="110">
+ІІ. Бюджеттік бағдарлама әкімшісі «Жамбыл облысы әкімдігінің денсаулық сақтау басқармасы» коммуналдық мемлекеттік мекемесі болып табылатын
+мемлекеттік білім беру тапсырысы
+</td>
 </tr>
 <tr>
-<td colspan="110">«Жамбыл медициналық жоғары колледжі» коммуналдық мемлекеттік қазыналық кәсіпорны</td>
+<td colspan="110">Жамбыл облысы әкімдігінің денсаулық сақтау басқармасы «Жамбыл жоғары медициналық колледжі» шаруашылық жүргізу құқығындағы коммуналдық мемлекеттік кәсіпорыны</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
@@ -2245,7 +2160,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">27,9</td>
 <td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
@@ -2259,7 +2174,7 @@ source: https://zan.gov.kz/client/#!/doc/143228/kaz/26.05.2020
 <td colspan="8"></td>
 <td colspan="12"></td>
 <td colspan="9"></td>
-<td colspan="5"></td>
+<td colspan="5">27,9</td>
 <td colspan="9"></td>
 <td colspan="15"></td>
 <td colspan="2"></td>
