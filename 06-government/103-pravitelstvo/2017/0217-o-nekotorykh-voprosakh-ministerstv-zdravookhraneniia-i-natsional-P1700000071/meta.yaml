@@ -163,17 +163,24 @@ versions:
   cause:
     code: '146236'
     key: P2000000580
+- date: 2020-09-22
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '146576'
+    key: P2000000596
 version_date:
-  kaz: 2020-09-11
-  rus: 2020-09-11
+  kaz: 2020-09-22
+  rus: 2020-09-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/109803/kaz/11.09.2020
-  rus: https://zan.gov.kz/client/#!/doc/109803/rus/11.09.2020
+  kaz: https://zan.gov.kz/client/#!/doc/109803/kaz/22.09.2020
+  rus: https://zan.gov.kz/client/#!/doc/109803/rus/22.09.2020
 caused_by:
-  code: '146236'
-  key: P2000000580
-  requisite: Постановление Правительства Республики Казахстан от 11 сентября 2020 года № 580
+  code: '146576'
+  key: P2000000596
+  requisite: Постановление Правительства Республики Казахстан от 22 сентября 2020 года № 596
   title:
-    rus: О некоторых вопросах республиканской собственности
-    kaz: Республикалық меншіктің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/146236/rus
+    rus: О некоторых вопросах Министерства здравоохранения Республики Казахстан
+    kaz: Қазақстан Республикасы Денсаулық сақтау министрлiгінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/146576/rus
