@@ -10,15 +10,15 @@ approved_on: 2015-11-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2019-04-10
-  rus: 2019-04-10
+  kaz: 2020-09-22
+  rus: 2020-09-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/95640/kaz/10.04.2019
-  rus: https://zan.gov.kz/client/#!/doc/95640/rus/10.04.2019
+  kaz: https://zan.gov.kz/client/#!/doc/95640/kaz/22.09.2020
+  rus: https://zan.gov.kz/client/#!/doc/95640/rus/22.09.2020
 caused_by:
-  code: '130325'
-  requisite: Постановление Правительства Республики Казахстан от 10 апреля 2019 года № 177
+  code: '146576'
+  requisite: Постановление Правительства Республики Казахстан от 22 сентября 2020 года № 596
   title:
     rus: О некоторых вопросах Министерства здравоохранения Республики Казахстан
-    kaz: Қазақстан Республикасы Денсаулық сақтау министрлiгінің кейбiр мәселелерi туралы
-  link: https://zan.gov.kz/client/#!/doc/130325/rus
+    kaz: Қазақстан Республикасы Денсаулық сақтау министрлiгінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/146576/rus
