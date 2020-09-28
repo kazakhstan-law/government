@@ -1,5 +1,5 @@
 ---
-version_id: '133138_413530'
+version_id: '133138_483355'
 act_code: '133138'
 language: kaz
 title: Қауымдық сервитут белгілеу туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '166018000001'
 approval_date: 2019-07-03
-version_date: 2019-07-03
+version_date: 2020-09-28
 registry_number: '133138'
-source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
+caused_by:
+  code: '146978'
+  title: «Қауымдық сервитут белгілеу туралы» Келес ауданы әкімдігінің 2019 жылғы 03 шілдедегі № 197 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/146978/kaz
+source: https://zan.gov.kz/client/#!/doc/133138/kaz/28.09.2020
 ---
 
 # Қауымдық сервитут белгілеу туралы
@@ -43,35 +47,39 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 > *2019 жылғы 03 шілдедегі*  
 > *№197 қаулысына қосымша*
 
-# «Қазақтелеком» акционерлік қоғамына талшықты оптикалық байланыс желісін орналастыру және пайдалану үшін жер учаскелеріне қауымдық сервитут белгілеу көлемдері
+## «Қазақтелеком» акционерлік қоғамына талшықты оптикалық байланыс желісін орналастыру және пайдалану үшін жер учаскелеріне қауымдық сервитут белгілеу көлемдері
+
+> *Ескерту. Қосымша жаңа редакцияда - Түркістан облысы Келес ауданы әкімдігінің 28.09.2020 № 188 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td rowspan="3">№ қ/с</td>
-<td rowspan="3">Жер пайдаланушылар атауы</td>
-<td rowspan="3">қауымдық сервитут-тың әрекет ету көлемі (гектар)</td>
-<td rowspan="3">ауылшаруашы-лығы мақсатындағы жерлер</td>
-<td colspan="2"></td>
-<td colspan="3">оның ішінде</td>
+<td rowspan="4">№</td>
+<td rowspan="4">Жер пайдаланушылар атауы</td>
+<td rowspan="4">Қауымдық сервитуттың әрекет ету көлемі (гектар)</td>
+<td colspan="5">соның ішінде:</td>
 </tr>
 <tr>
-<td rowspan="2">егістік жер</td>
-<td colspan="2">оның ішінде</td>
+<td rowspan="3">ауыл шаруашылығы мақсатындағы жерлер</td>
+<td colspan="4">оның ішінде</td>
+</tr>
+<tr>
+<td rowspan="2">егістік</td>
+<td>оның ішінде:</td>
 <td rowspan="2">тыңайған жерлер</td>
 <td rowspan="2">жайылым</td>
 </tr>
 <tr>
-<td colspan="2">суармалы егістік</td>
+<td>суармалы егістік</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-<th>7</th>
-<th>8</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
 </tr>
 <tr>
 <td>1</td>
@@ -79,7 +87,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>5,8217</td>
 <td>5,7864</td>
 <td>0,7417</td>
-<td colspan="2">0,2824</td>
+<td>0,2824</td>
 <td>-</td>
 <td>5,0447</td>
 </tr>
@@ -89,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,3829</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -99,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,5520</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -109,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,8745</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -119,7 +127,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,6088</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -129,7 +137,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,5234</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -139,17 +147,17 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>1,0685</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Қызыләскер елді мекені</td>
+<td>Қызыл әскер елді мекені</td>
 <td>1,0327</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -159,7 +167,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,4200</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -169,7 +177,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,8712</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -179,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,5254</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -189,7 +197,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>3,1185</td>
 <td>3,0903</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>3,0903</td>
 </tr>
@@ -199,7 +207,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,8210</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -209,7 +217,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>2,7899</td>
 <td>2,1598</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>2,1598</td>
 </tr>
@@ -219,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>1,8271</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -229,7 +237,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,7640</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -239,7 +247,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,4413</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -249,17 +257,17 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,8063</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>19</td>
-<td>Сарыжылға елді мекені</td>
+<td>Сары жылға елді мекені</td>
 <td>1,0013</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -269,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,5666</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -279,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,6031</td>
 <td>0,5542</td>
 <td>0,176</td>
-<td colspan="2">0,176</td>
+<td>0,176</td>
 <td>-</td>
 <td>0,3782</td>
 </tr>
@@ -289,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,1789</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -299,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,3979</td>
 <td>0,3601</td>
 <td>0,1166</td>
-<td colspan="2">0,1166</td>
+<td>0,1166</td>
 <td>-</td>
 <td>0,2435</td>
 </tr>
@@ -309,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>1,3062</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -319,7 +327,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,6356</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -329,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>10,2388</td>
 <td>10,2388</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>10,2388</td>
 </tr>
@@ -339,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>1,0063</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -349,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,6333</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -359,7 +367,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>4,8579</td>
 <td>2,7765</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>2,7765</td>
 </tr>
@@ -369,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>1,6103</td>
 <td>1,5951</td>
 <td>0,4548</td>
-<td colspan="2">0,4548</td>
+<td>0,4548</td>
 <td>-</td>
 <td>1,1403</td>
 </tr>
@@ -379,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,4308</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -389,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,455</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -399,7 +407,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,3680</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -409,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,5490</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -419,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,6431</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -429,17 +437,17 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <td>0,7458</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
-<td>Келес ауданы бойыншабарлығы</td>
+<td>Барлығы</td>
 <td>49,4771</td>
 <td>26,5612</td>
 <td>1,4891</td>
-<td colspan="2">1,0298</td>
+<td>1,0298</td>
 <td>-</td>
 <td>25,0721</td>
 </tr>
@@ -450,19 +458,19 @@ source: https://zan.gov.kz/client/#!/doc/133138/kaz/03.07.2019
 <table>
 <tr>
 <td>өзге жерлер</td>
-<td>елді мекеннің жерлері</td>
-<td>елді мекеннің мал жайылым жері</td>
+<td>елді мекендердің жерлері</td>
+<td>елді мекеннің мал жайылымжерлері</td>
 <td>ортақ пайдаланудағы жерлер (жолдар, көшелер және алаңдар)</td>
-<td>су қоры астындағы жерлер</td>
-<td>өнеркәсіп, транспорт байланыс және ғарыш саласына қажетті қорғаныс ұлттық қауіпсіздік және басқа да ауылшаруашылығына арналмаған жерлер</td>
+<td>су қоры жерлері</td>
+<td>өнеркәсіп, транспорт байланыс және ғарыш саласына қажетті, қорғаныс, ұлттық қауіпсіздік және басқа да ауыл шаруашылығына арналмаған жерлер</td>
 </tr>
 <tr>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
 </tr>
 <tr>
 <td>-</td>

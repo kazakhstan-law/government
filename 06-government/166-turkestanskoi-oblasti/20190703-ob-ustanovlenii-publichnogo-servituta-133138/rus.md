@@ -1,5 +1,5 @@
 ---
-version_id: '133138_413531'
+version_id: '133138_483356'
 act_code: '133138'
 language: rus
 title: Об установлении публичного сервитута
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '166018000001'
 approval_date: 2019-07-03
-version_date: 2019-07-03
+version_date: 2020-09-28
 registry_number: '133138'
-source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
+caused_by:
+  code: '146978'
+  title: О внесении изменения в постановление акимата Келесского района от 03 июля 2019 года № 197 «Об установлении публичного сервитута»
+  link: https://zan.gov.kz/client/#!/doc/146978/rus
+source: https://zan.gov.kz/client/#!/doc/133138/rus/28.09.2020
 ---
 
 # Об установлении публичного сервитута
@@ -39,48 +43,52 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 
 **А.Есбаев**
 
-> *Приложение*  
-> *к постановлению акимата*  
-> *Келесского района*  
-> *от «03» июля 2019 года№197*
+> *Приложение к постановлению*  
+> *акимата Келесского района*  
+> *от «03» июля 2019 года*  
+> *№197*
 
-# Площади земель для установления публичного сервитута акционерному обществу «Казахтелеком» для прокладки и эксплуатации волоконно-оптической линии связи
+## Площади земель для установления публичного сервитута акционерному обществу «Казахтелеком» для прокладки и эксплуатации волоконно-оптической линии связи
+
+> *Сноска. Приложение в редакции постановления акимата Келесского района Туркестанской области от 28.09.2020 № 188 (вводится в действие со дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="3">№ п/п</td>
-<td rowspan="3">Наименование землепользователей</td>
-<td rowspan="3">площадь под деиствием публичного сервитута (гектар)</td>
+<td rowspan="4">№ п/п</td>
+<td rowspan="4">Наименование землепользователей</td>
+<td rowspan="4">площадь под действием публичного сервитута (гектар)</td>
+<td colspan="5">в том числе:</td>
+</tr>
+<tr>
 <td rowspan="3">земли сельскохозяйственного назначения</td>
-<td colspan="2"></td>
-<td colspan="3">в том числе:</td>
+<td colspan="4">из них:</td>
 </tr>
 <tr>
 <td rowspan="2">пашня</td>
-<td colspan="2">из них:</td>
-<td rowspan="2">залеж</td>
+<td>из них:</td>
+<td rowspan="2">залежь</td>
 <td rowspan="2">пастбища</td>
 </tr>
 <tr>
-<td colspan="2">пашня орошаемая</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th colspan="2">6</th>
-<th>7</th>
-<th>8</th>
+<td>пашня орошаемая</td>
 </tr>
 <tr>
 <td>1</td>
-<td>сельский округ Актобе</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</tr>
+<tr>
+<td>1</td>
+<td>сельский округАктобе</td>
 <td>5,8217</td>
 <td>5,7864</td>
 <td>0,7417</td>
-<td colspan="2">-</td>
+<td>0,2824</td>
 <td>-</td>
 <td>5,0447</td>
 </tr>
@@ -90,7 +98,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,3829</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -100,7 +108,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,5520</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -110,7 +118,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,8745</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -120,7 +128,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,6088</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -130,7 +138,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,5234</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -140,7 +148,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>1,0685</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -150,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>1,0327</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -160,7 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,4200</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -170,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,8712</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -180,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,5254</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -190,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>3,1185</td>
 <td>3,0903</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>3,0903</td>
 </tr>
@@ -200,7 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,8210</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -210,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>2,7899</td>
 <td>2,1598</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>2,1598</td>
 </tr>
@@ -220,7 +228,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>1,8271</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -230,7 +238,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,7640</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -240,7 +248,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,4413</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -250,17 +258,17 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,8063</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>19</td>
-<td>населенный пункт Сарыжылга</td>
+<td>населенный пункт Сары жылга</td>
 <td>1,0013</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -270,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,5666</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -280,7 +288,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,6031</td>
 <td>0,5542</td>
 <td>0,176</td>
-<td colspan="2">0,176</td>
+<td>0,176</td>
 <td>-</td>
 <td>0,3782</td>
 </tr>
@@ -290,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,1789</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -300,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,3979</td>
 <td>0,3601</td>
 <td>0,1166</td>
-<td colspan="2">0,1166</td>
+<td>0,1166</td>
 <td>-</td>
 <td>0,2435</td>
 </tr>
@@ -310,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>1,3062</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -320,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,6356</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -330,27 +338,27 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>10,2388</td>
 <td>10,2388</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>10,2388</td>
 </tr>
 <tr>
 <td>27</td>
-<td>населенный пункт Бекбута</td>
+<td>населенный пункт Бекбота</td>
 <td>1,0063</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>28</td>
-<td>населенный пункт Майдабузай</td>
+<td>населенный пункт Майдабозай</td>
 <td>0,6333</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -360,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>4,8579</td>
 <td>2,7765</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>2,7765</td>
 </tr>
@@ -370,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>1,6103</td>
 <td>1,5951</td>
 <td>0,4548</td>
-<td colspan="2">0,4548</td>
+<td>0,4548</td>
 <td>-</td>
 <td>1,1403</td>
 </tr>
@@ -380,7 +388,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,4308</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -390,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,455</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -400,7 +408,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,3680</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -410,7 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,5490</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -420,27 +428,30 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>0,6431</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>36</td>
-<td>населенный пункт Керегетас</td>
+<td>
+населенный пункт
+Керегетас
+</td>
 <td>0,7458</td>
 <td>-</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td></td>
-<td>Итого по Келесскому району</td>
+<td>Всего</td>
 <td>49,4771</td>
 <td>26,5612</td>
 <td>1,4891</td>
-<td colspan="2">1,0298</td>
+<td>1,0298</td>
 <td>-</td>
 <td>25,0721</td>
 </tr>
@@ -613,7 +624,7 @@ source: https://zan.gov.kz/client/#!/doc/133138/rus/03.07.2019
 <td>-</td>
 <td>1,0013</td>
 <td>-</td>
-<td>--</td>
+<td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
