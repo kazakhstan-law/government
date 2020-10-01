@@ -10,11 +10,11 @@ approved_on: 2020-03-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-08-01
-  rus: 2020-08-01
+  kaz: 2020-10-01
+  rus: 2020-10-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/140536/kaz/01.08.2020
-  rus: https://zan.gov.kz/client/#!/doc/140536/rus/01.08.2020
+  kaz: https://zan.gov.kz/client/#!/doc/140536/kaz/01.10.2020
+  rus: https://zan.gov.kz/client/#!/doc/140536/rus/01.10.2020
 caused_by:
   code: '144898'
   requisite: Постановление Правительства Республики Казахстан от 16 июля 2020 года № 448
