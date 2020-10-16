@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/16.07.2020
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/16.10.2020
 ---
 
 # Қазақстан Республикасы Yкiметiнiң Регламентi туралы

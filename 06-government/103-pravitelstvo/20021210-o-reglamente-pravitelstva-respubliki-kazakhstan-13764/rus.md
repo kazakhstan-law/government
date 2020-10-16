@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/rus/16.07.2020
+source: https://zan.gov.kz/client/#!/doc/13764/rus/16.10.2020
 ---
 
 # О Регламенте Правительства Республики Казахстан
