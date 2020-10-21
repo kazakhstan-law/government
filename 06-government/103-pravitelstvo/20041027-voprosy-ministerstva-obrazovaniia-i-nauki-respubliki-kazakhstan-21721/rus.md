@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21721/rus/23.06.2020
+source: https://zan.gov.kz/client/#!/doc/21721/rus/21.10.2020
 ---
 
 # Вопросы Министерства образования и науки Республики Казахстан
