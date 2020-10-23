@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83353/rus/15.09.2020
+source: https://zan.gov.kz/client/#!/doc/83353/rus/23.10.2020
 ---
 
 # Вопросы Министерства национальной экономики Республики Казахстан
