@@ -170,17 +170,24 @@ versions:
   cause:
     code: '146576'
     key: P2000000596
+- date: 2020-10-30
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '147956'
+    key: P2000000723
 version_date:
-  kaz: 2020-09-22
-  rus: 2020-09-22
+  kaz: 2020-10-30
+  rus: 2020-10-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/109803/kaz/22.09.2020
-  rus: https://zan.gov.kz/client/#!/doc/109803/rus/22.09.2020
+  kaz: https://zan.gov.kz/client/#!/doc/109803/kaz/30.10.2020
+  rus: https://zan.gov.kz/client/#!/doc/109803/rus/30.10.2020
 caused_by:
-  code: '146576'
-  key: P2000000596
-  requisite: Постановление Правительства Республики Казахстан от 22 сентября 2020 года № 596
+  code: '147956'
+  key: P2000000723
+  requisite: Постановление Правительства Республики Казахстан от 30 октября 2020 года № 723
   title:
-    rus: О некоторых вопросах Министерства здравоохранения Республики Казахстан
-    kaz: Қазақстан Республикасы Денсаулық сақтау министрлiгінің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/146576/rus
+    rus: О вопросах создания некоммерческого акционерного общества «Turar Healthcare»
+    kaz: «Turar Healthcare» коммерциялық емес акционерлік қоғамын құру мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/147956/rus
