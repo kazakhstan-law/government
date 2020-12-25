@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
+source: https://zan.gov.kz/client/#!/doc/139922/rus/25.12.2020
 ---
 
 # Об утверждении государственного образовательного заказа на дошкольное воспитание и обучение, размера родительской платы на 2020 год по Глубоковскому району
@@ -31,14 +31,13 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 
 ## Государственный образовательный заказ на дошкольное воспитание и обучение, размер родительской платы по Глубоковскому району на 2020 год
 
+> *Сноска. Приложение в редакции постановления Глубоковского районного акимата Восточно-Казахстанской области от 25.12.2020 № 460 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
 <table>
 <tr>
 <td rowspan="3">№</td>
 <td rowspan="3">Наименование организации</td>
-<td colspan="3">
-Количество воспитанников,
-человек
-</td>
+<td colspan="3">Количество воспитанников, человек</td>
 <td colspan="2">Объем государственного заказа на дошкольное воспитание и обучение на одного воспитанника в месяц, тенге</td>
 <td rowspan="3">Размер родительской платы в месяц, тенге</td>
 </tr>
@@ -59,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>101</td>
 <td>101</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -72,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>40</td>
 <td>40</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -85,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>63</td>
 <td>63</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -98,7 +97,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>19</td>
 <td>19</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -111,7 +110,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>18</td>
 <td>18</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -124,7 +123,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>32</td>
 <td>32</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -137,7 +136,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>40</td>
 <td>40</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -150,7 +149,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>75</td>
 <td>75</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -163,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>75</td>
 <td>75</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -176,7 +175,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>276</td>
 <td>276</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -189,7 +188,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>172</td>
 <td>172</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -202,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>61</td>
 <td>61</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -215,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>75</td>
 <td>75</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -228,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>50</td>
 <td>50</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -241,7 +240,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>75</td>
 <td>75</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -254,7 +253,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>53</td>
 <td>53</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -267,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>70</td>
 <td>70</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -280,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>133</td>
 <td>133</td>
 <td>-</td>
-<td>34833</td>
+<td>35407</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -293,7 +292,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>24</td>
 <td>24</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -307,7 +306,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>-</td>
 <td>23</td>
 <td>-</td>
-<td>8038</td>
+<td>8423</td>
 <td>-</td>
 </tr>
 <tr>
@@ -317,7 +316,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>-</td>
 <td>18</td>
 <td>-</td>
-<td>8038</td>
+<td>8423</td>
 <td>-</td>
 </tr>
 <tr>
@@ -327,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>-</td>
 <td>20</td>
 <td>-</td>
-<td>8038</td>
+<td>8423</td>
 <td>
 до 3 лет – 0
 от 3 до 6 лет - 5500
@@ -339,7 +338,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>24</td>
 <td>24</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -352,7 +351,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>25</td>
 <td>25</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -360,12 +359,12 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 </td>
 </tr>
 <tr>
-<td>25</td>
+<td>24</td>
 <td>Мини-центр при Коммунальном государственном учреждении «Малоубинская средняя школа»</td>
 <td>19</td>
 <td>19</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -378,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>32</td>
 <td>32</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
@@ -391,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/139922/rus/24.02.2020
 <td>15</td>
 <td>15</td>
 <td>-</td>
-<td>21898</td>
+<td>22945</td>
 <td>-</td>
 <td>
 до 3 лет – 11000
