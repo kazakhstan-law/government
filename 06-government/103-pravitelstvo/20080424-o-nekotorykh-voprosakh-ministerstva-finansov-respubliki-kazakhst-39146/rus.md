@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39146/rus/03.12.2020
+source: https://zan.gov.kz/client/#!/doc/39146/rus/30.12.2020
 ---
 
 # О некоторых вопросах Министерства финансов Республики Казахстан
