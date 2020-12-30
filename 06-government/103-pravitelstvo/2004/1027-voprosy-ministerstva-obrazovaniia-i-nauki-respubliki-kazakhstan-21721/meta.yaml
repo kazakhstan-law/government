@@ -12,15 +12,15 @@ approved_on: 2004-10-27
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-12-03
-  rus: 2020-12-03
+  kaz: 2020-12-30
+  rus: 2020-12-30
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/21721/kaz/03.12.2020
-  rus: https://zan.gov.kz/client/#!/doc/21721/rus/03.12.2020
+  kaz: https://zan.gov.kz/client/#!/doc/21721/kaz/30.12.2020
+  rus: https://zan.gov.kz/client/#!/doc/21721/rus/30.12.2020
 caused_by:
-  code: '149292'
-  requisite: Постановление Правительства Республики Казахстан от 3 декабря 2020 года № 821
+  code: '151201'
+  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2020 года № 951
   title:
     rus: О некоторых вопросах Министерства образования и науки Республики Казахстан
     kaz: Қазақстан Республикасы Білім және ғылым министрлігінің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/149292/rus
+  link: https://zan.gov.kz/client/#!/doc/151201/rus
