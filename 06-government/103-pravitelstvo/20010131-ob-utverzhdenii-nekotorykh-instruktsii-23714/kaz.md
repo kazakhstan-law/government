@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23714/kaz/25.03.2020
+source: https://zan.gov.kz/client/#!/doc/23714/kaz/31.12.2020
 ---
 
 # Кейбiр нұсқаулықтарды бекiту туралы

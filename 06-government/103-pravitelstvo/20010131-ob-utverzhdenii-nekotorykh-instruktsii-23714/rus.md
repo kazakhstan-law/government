@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/23714/rus/25.03.2020
+source: https://zan.gov.kz/client/#!/doc/23714/rus/31.12.2020
 ---
 
 # Об утверждении некоторых инструкций
