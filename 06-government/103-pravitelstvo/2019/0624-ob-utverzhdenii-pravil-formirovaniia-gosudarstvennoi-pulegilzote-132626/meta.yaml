@@ -11,8 +11,15 @@ approved_on: 2019-06-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2019-06-24
-  rus: 2019-06-24
+  kaz: 2020-12-31
+  rus: 2020-12-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/132626/kaz/24.06.2019
-  rus: https://zan.gov.kz/client/#!/doc/132626/rus/24.06.2019
+  kaz: https://zan.gov.kz/client/#!/doc/132626/kaz/31.12.2020
+  rus: https://zan.gov.kz/client/#!/doc/132626/rus/31.12.2020
+caused_by:
+  code: '151191'
+  requisite: Постановление Правительства Республики Казахстан от 31 декабря 2020 года № 960
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/151191/rus
