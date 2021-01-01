@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76837/kaz/29.09.2017
+source: https://zan.gov.kz/client/#!/doc/76837/kaz/01.01.2021
 ---
 
 ## 1. Тау-кен жұмыстары
