@@ -11,11 +11,11 @@ approved_on: 2016-10-06
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-11-18
-  rus: 2020-11-18
+  kaz: 2021-01-01
+  rus: 2021-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/106729/kaz/18.11.2020
-  rus: https://zan.gov.kz/client/#!/doc/106729/rus/18.11.2020
+  kaz: https://zan.gov.kz/client/#!/doc/106729/kaz/01.01.2021
+  rus: https://zan.gov.kz/client/#!/doc/106729/rus/01.01.2021
 caused_by:
   code: '148625'
   requisite: Постановление Правительства Республики Казахстан от 18 ноября 2020 года № 770. Действовал до 1 января 2021 года в соответствии с пунктом 4 настоящего постановления
