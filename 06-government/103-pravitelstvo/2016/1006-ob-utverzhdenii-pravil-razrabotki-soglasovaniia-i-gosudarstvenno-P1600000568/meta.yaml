@@ -80,12 +80,19 @@ versions:
   cause:
     code: '148625'
     key: P2000000770
+- date: 2021-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '148625'
+    key: P2000000770
 version_date:
-  kaz: 2020-11-18
-  rus: 2020-11-18
+  kaz: 2021-01-01
+  rus: 2021-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/106729/kaz/18.11.2020
-  rus: https://zan.gov.kz/client/#!/doc/106729/rus/18.11.2020
+  kaz: https://zan.gov.kz/client/#!/doc/106729/kaz/01.01.2021
+  rus: https://zan.gov.kz/client/#!/doc/106729/rus/01.01.2021
 caused_by:
   code: '148625'
   key: P2000000770
