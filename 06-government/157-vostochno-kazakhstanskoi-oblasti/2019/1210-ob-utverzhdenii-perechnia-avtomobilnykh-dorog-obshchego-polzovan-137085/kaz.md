@@ -27,3 +27,134 @@
 > *№ ____ қаулысына қосымша*
 
 ## Алтай ауданының жалпыға ортақ пайдаланылатын аудандық маңызы бар автомобиль жолдарының тізбесі
+
+> *Ескерту. Қосымшаға өзгеріс енгізілді - Шығыс Қазақстан облысы Алтай ауданы әкімдігінің 18.01.2021 № 3 (алғашқы ресми жарияланған күнінен кейін он күнтізбелік күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td rowspan="2">№ р/с</td>
+<td rowspan="2">Автожолының индексі</td>
+<td rowspan="2">Автожолдың атауы</td>
+<td rowspan="2">Жалпы ұзындығы, километр</td>
+<td colspan="5">Санаттары бойынша, километр</td>
+</tr>
+<tr>
+<td>I</td>
+<td>II</td>
+<td>III</td>
+<td>IV</td>
+<td>V</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+</tr>
+<tr>
+<td colspan="9">Аудандық маңызы бар автомобиль жолдары</td>
+</tr>
+<tr>
+<td>26</td>
+<td>KF ZR-405</td>
+<td>«Жаңа Бұқтырма- «Айна» демалыс базасы» автомобиль жолы, 0-1,4 км</td>
+<td>1,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1,4</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>KF ZR-406</td>
+<td>
+«Жаңа Бұқтырма- «Шале ла Бале» демалыс базасы» автомобиль жолы,
+0-3,7 км
+</td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3,7</td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="8">Соның ішінде, жабын типтері бойынша, километр</td>
+<td colspan="3">Көпірлер</td>
+<td colspan="3">Құбырлар</td>
+<td colspan="3">Жасыл желектер</td>
+</tr>
+<tr>
+<td rowspan="2">асфальт-бетон</td>
+<td colspan="4">қара-</td>
+<td colspan="2" rowspan="2">қиыршық-ұсақ тасты</td>
+<td rowspan="2">топырақ</td>
+<td rowspan="2">дана</td>
+<td colspan="2" rowspan="2">метр бойы</td>
+<td colspan="2" rowspan="2">дана</td>
+<td rowspan="2">метр бойы</td>
+<td colspan="2" rowspan="2">барлығы, километр</td>
+<td rowspan="2">Қардан қорғау</td>
+</tr>
+<tr>
+<td>қиыршық тасты</td>
+<td>ұсақ тасты</td>
+<td colspan="2">топырақ</td>
+</tr>
+<tr>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td colspan="2">13</td>
+<td colspan="2">14</td>
+<td>15</td>
+<td>16</td>
+<td colspan="2">17</td>
+<td colspan="2">18</td>
+<td>19</td>
+<td colspan="2">20</td>
+<td>21</td>
+</tr>
+<tr>
+<td colspan="17">Аудандық маңызы бар автомобиль жолдары</td>
+</tr>
+<tr>
+<td></td>
+<td>1,4</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>3,7</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+</table>
