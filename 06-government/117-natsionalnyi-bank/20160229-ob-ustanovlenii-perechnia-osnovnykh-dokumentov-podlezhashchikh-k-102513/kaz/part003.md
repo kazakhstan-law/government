@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/102513/kaz/30.03.2020
+source: https://zan.gov.kz/client/#!/doc/102513/kaz/24.02.2021
 ---
 
 Қысқартылған сөздердің тізімдері:
