@@ -56,7 +56,7 @@
 
 ## Территории для старательства
 
-> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 *[Image]*
 
@@ -385,5 +385,773 @@
 <td>48</td>
 <td>20</td>
 <td>28,25</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="76">10</td>
+<td rowspan="76"></td>
+<td rowspan="76"></td>
+<td rowspan="76"></td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>82</td>
+<td>13</td>
+<td>40</td>
+<td>49</td>
+<td>21</td>
+<td>00</td>
+<td rowspan="4">0,74</td>
+<td rowspan="76"></td>
+<td rowspan="4">Участок Олжа, в Уланском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>13</td>
+<td>40</td>
+<td>49</td>
+<td>21</td>
+<td>01</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>13</td>
+<td>28</td>
+<td>49</td>
+<td>21</td>
+<td>01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>13</td>
+<td>28</td>
+<td>49</td>
+<td>21</td>
+<td>00</td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1</td>
+<td>82</td>
+<td>13</td>
+<td>27,79</td>
+<td>49</td>
+<td>20</td>
+<td>57,21</td>
+<td rowspan="4">2,3</td>
+<td rowspan="4">Участок Олжа 2, в Уланском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>13</td>
+<td>27,73</td>
+<td>49</td>
+<td>20</td>
+<td>54,67</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>13</td>
+<td>42,59</td>
+<td>49</td>
+<td>20</td>
+<td>54,52</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>13</td>
+<td>42,65</td>
+<td>49</td>
+<td>20</td>
+<td>57,05</td>
+</tr>
+<tr>
+<td rowspan="4">3</td>
+<td>1</td>
+<td>85</td>
+<td>26</td>
+<td>31,6</td>
+<td>48</td>
+<td>30</td>
+<td>8,3</td>
+<td rowspan="4">4,9</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>26</td>
+<td>42,4</td>
+<td>48</td>
+<td>30</td>
+<td>8,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>26</td>
+<td>42,4</td>
+<td>48</td>
+<td>30</td>
+<td>1,1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>26</td>
+<td>31,6</td>
+<td>48</td>
+<td>30</td>
+<td>1,1</td>
+</tr>
+<tr>
+<td rowspan="4">4</td>
+<td>1</td>
+<td>85</td>
+<td>23</td>
+<td>28,4</td>
+<td>48</td>
+<td>31</td>
+<td>2,1</td>
+<td rowspan="4">4,9</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>23</td>
+<td>39,2</td>
+<td>48</td>
+<td>31</td>
+<td>2,1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>23</td>
+<td>39,2</td>
+<td>48</td>
+<td>30</td>
+<td>54,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>23</td>
+<td>28,4</td>
+<td>48</td>
+<td>30</td>
+<td>54,9</td>
+</tr>
+<tr>
+<td rowspan="4">5</td>
+<td>1</td>
+<td>85</td>
+<td>19</td>
+<td>00</td>
+<td>48</td>
+<td>28</td>
+<td>44</td>
+<td rowspan="4">4,3</td>
+<td rowspan="4">Участок Шанды-Булак, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>19</td>
+<td>45</td>
+<td>48</td>
+<td>28</td>
+<td>49</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>19</td>
+<td>45</td>
+<td>48</td>
+<td>28</td>
+<td>48</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>19</td>
+<td>00</td>
+<td>48</td>
+<td>28</td>
+<td>42</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td>1</td>
+<td>85</td>
+<td>19</td>
+<td>48</td>
+<td>48</td>
+<td>29</td>
+<td>03</td>
+<td rowspan="4">3,0</td>
+<td rowspan="4">Участок Слияние грозы, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>19</td>
+<td>51</td>
+<td>48</td>
+<td>29</td>
+<td>04</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>20</td>
+<td>00</td>
+<td>48</td>
+<td>28</td>
+<td>51</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>19</td>
+<td>57</td>
+<td>48</td>
+<td>28</td>
+<td>50</td>
+</tr>
+<tr>
+<td rowspan="4">7</td>
+<td>1</td>
+<td>85</td>
+<td>19</td>
+<td>52</td>
+<td>48</td>
+<td>29</td>
+<td>17</td>
+<td rowspan="4">3,0</td>
+<td rowspan="4">Участок Гроза, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>19</td>
+<td>55</td>
+<td>48</td>
+<td>29</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>19</td>
+<td>46</td>
+<td>48</td>
+<td>29</td>
+<td>03</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>19</td>
+<td>43</td>
+<td>48</td>
+<td>29</td>
+<td>04</td>
+</tr>
+<tr>
+<td rowspan="4">8</td>
+<td>1</td>
+<td>84</td>
+<td>47</td>
+<td>23</td>
+<td>48</td>
+<td>39</td>
+<td>59</td>
+<td rowspan="4">2,5</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>47</td>
+<td>28</td>
+<td>48</td>
+<td>39</td>
+<td>59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>47</td>
+<td>28</td>
+<td>48</td>
+<td>39</td>
+<td>51</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>47</td>
+<td>23</td>
+<td>48</td>
+<td>39</td>
+<td>51</td>
+</tr>
+<tr>
+<td rowspan="4">9</td>
+<td>1</td>
+<td>84</td>
+<td>46</td>
+<td>05</td>
+<td>48</td>
+<td>39</td>
+<td>59</td>
+<td rowspan="4">2,3</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>46</td>
+<td>09</td>
+<td>48</td>
+<td>39</td>
+<td>59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>46</td>
+<td>31</td>
+<td>48</td>
+<td>39</td>
+<td>51</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>46</td>
+<td>26</td>
+<td>48</td>
+<td>39</td>
+<td>51</td>
+</tr>
+<tr>
+<td rowspan="4">10</td>
+<td>1</td>
+<td>85</td>
+<td>21</td>
+<td>55,7</td>
+<td>48</td>
+<td>30</td>
+<td>6,9</td>
+<td rowspan="4">4,87</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>22</td>
+<td>6,4</td>
+<td>48</td>
+<td>30</td>
+<td>6,9</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>22</td>
+<td>6,4</td>
+<td>48</td>
+<td>29</td>
+<td>59,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>21</td>
+<td>55,7</td>
+<td>48</td>
+<td>29</td>
+<td>59,7</td>
+</tr>
+<tr>
+<td rowspan="4">11</td>
+<td>1</td>
+<td>85</td>
+<td>19</td>
+<td>44,55</td>
+<td>48</td>
+<td>28</td>
+<td>50,14</td>
+<td rowspan="4">3,2</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>19</td>
+<td>46,50</td>
+<td>48</td>
+<td>28</td>
+<td>45,82</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>19</td>
+<td>57,19</td>
+<td>48</td>
+<td>28</td>
+<td>47,98</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>19</td>
+<td>55,26</td>
+<td>48</td>
+<td>28</td>
+<td>52,31</td>
+</tr>
+<tr>
+<td rowspan="4">12</td>
+<td>1</td>
+<td>81</td>
+<td>15</td>
+<td>49,36</td>
+<td>49</td>
+<td>45</td>
+<td>14,59</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">Участок в Жарминском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>16</td>
+<td>19,05</td>
+<td>49</td>
+<td>45</td>
+<td>11,53</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>16</td>
+<td>18,39</td>
+<td>49</td>
+<td>45</td>
+<td>08,86</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>15</td>
+<td>48,69</td>
+<td>49</td>
+<td>45</td>
+<td>11,93</td>
+</tr>
+<tr>
+<td rowspan="4">13</td>
+<td>1</td>
+<td>81</td>
+<td>02</td>
+<td>43</td>
+<td>48</td>
+<td>20</td>
+<td>23</td>
+<td rowspan="4">1,5</td>
+<td rowspan="4">Участок Кайракты-1, в Аягозском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>02</td>
+<td>49</td>
+<td>48</td>
+<td>20</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>02</td>
+<td>49</td>
+<td>48</td>
+<td>20</td>
+<td>19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>02</td>
+<td>43</td>
+<td>48</td>
+<td>20</td>
+<td>19</td>
+</tr>
+<tr>
+<td rowspan="4">14</td>
+<td>1</td>
+<td>81</td>
+<td>03</td>
+<td>03</td>
+<td>48</td>
+<td>20</td>
+<td>16</td>
+<td rowspan="4">4,12</td>
+<td rowspan="4">Участок Кайракты-2, в Аягозском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>03</td>
+<td>13</td>
+<td>48</td>
+<td>20</td>
+<td>17</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>03</td>
+<td>13</td>
+<td>48</td>
+<td>20</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>03</td>
+<td>03</td>
+<td>48</td>
+<td>20</td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="4">15</td>
+<td>1</td>
+<td>81</td>
+<td>00</td>
+<td>45</td>
+<td>48</td>
+<td>22</td>
+<td>52</td>
+<td rowspan="4">2,8</td>
+<td rowspan="4">Участок Кайракты-4, в Аягозском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>00</td>
+<td>53</td>
+<td>48</td>
+<td>22</td>
+<td>49</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>00</td>
+<td>49</td>
+<td>48</td>
+<td>22</td>
+<td>45</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>00</td>
+<td>41</td>
+<td>48</td>
+<td>22</td>
+<td>48</td>
+</tr>
+<tr>
+<td rowspan="4">16</td>
+<td>1</td>
+<td>85</td>
+<td>13</td>
+<td>07</td>
+<td>48</td>
+<td>28</td>
+<td>58</td>
+<td rowspan="4">4,2</td>
+<td rowspan="4">Участок Карчига, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>13</td>
+<td>20</td>
+<td>48</td>
+<td>29</td>
+<td>03</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>13</td>
+<td>23</td>
+<td>48</td>
+<td>28</td>
+<td>59</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>13</td>
+<td>10</td>
+<td>48</td>
+<td>28</td>
+<td>54</td>
+</tr>
+<tr>
+<td rowspan="4">17</td>
+<td>1</td>
+<td>85</td>
+<td>17</td>
+<td>41</td>
+<td>48</td>
+<td>28</td>
+<td>21</td>
+<td rowspan="4">1,8</td>
+<td rowspan="4">Участок Суык булак, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>17</td>
+<td>42</td>
+<td>48</td>
+<td>28</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>17</td>
+<td>55</td>
+<td>48</td>
+<td>28</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>17</td>
+<td>54</td>
+<td>48</td>
+<td>28</td>
+<td>18</td>
+</tr>
+<tr>
+<td rowspan="4">18</td>
+<td>1</td>
+<td>81</td>
+<td>05</td>
+<td>25</td>
+<td>48</td>
+<td>20</td>
+<td>33</td>
+<td rowspan="4">2,7</td>
+<td rowspan="4">Участок Кайракты-3, в Аягозском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>05</td>
+<td>32</td>
+<td>48</td>
+<td>20</td>
+<td>33</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>05</td>
+<td>32</td>
+<td>48</td>
+<td>20</td>
+<td>27</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>05</td>
+<td>25</td>
+<td>48</td>
+<td>20</td>
+<td>27</td>
+</tr>
+<tr>
+<td rowspan="4">19</td>
+<td>1</td>
+<td>85</td>
+<td>17</td>
+<td>20</td>
+<td>48</td>
+<td>28</td>
+<td>18</td>
+<td rowspan="4">1,3</td>
+<td rowspan="4">Участок Сухой лог, в Курчумском районе</td>
+<td rowspan="4">Свободен от недропользования</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>17</td>
+<td>20</td>
+<td>48</td>
+<td>28</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>17</td>
+<td>30</td>
+<td>48</td>
+<td>28</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>17</td>
+<td>30</td>
+<td>48</td>
+<td>28</td>
+<td>18</td>
 </tr>
 </table>
