@@ -1,5 +1,5 @@
 ---
-version_id: '93862_377424'
+version_id: '93862_515013'
 act_code: '93862'
 language: kaz
 title: Аудандық маңыздағы автомобиль жолдарының тізбесін бекіту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '161006000001'
 approval_date: 2015-08-24
-version_date: 2017-09-14
+version_date: 2021-03-17
 registry_number: '93862'
 caused_by:
-  code: '114997'
-  title: Жалағаш ауданы әкімдігінің кейбір қаулыларына өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/114997/kaz
-source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
+  code: '153967'
+  title: “Аудандық маңыздағы автомобиль жолдарының тізбесін бекіту туралы” Жалағаш ауданы әкімдігінің 2015 жылғы 24 тамыздағы №177 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/153967/kaz
+source: https://zan.gov.kz/client/#!/doc/93862/kaz/17.03.2021
 ---
 
 # Аудандық маңыздағы автомобиль жолдарының тізбесін бекіту туралы
@@ -42,20 +42,17 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 > *“25” тамыз 2015 жыл*
 
 > *Жалағаш ауданы әкімдігінің*  
-> *2015 жылғы 24 тамыздағы*  
-> *№177 қаулысына қосымша*
+> *2015 жылғы 24 тамыздағы № 177*  
+> *қаулысына қосымша*
 
 # Аудандық маңыздағы автомобиль жолдарының ТІЗБЕСІ
 
-> *Ескерту. Қосымшаға өзгерістер енгізілді - Қызылорда облысы Жалағаш ауданы әкімдігінің 14.09.2017 № 191 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+> *Ескерту. Қосымша жаңа редакцияда - Қызылорда облысы Жалағаш ауданы әкімдігінің 17.03.2021 № 58 қаулысымен (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
 <td rowspan="3">№</td>
-<td rowspan="3">
-Автомобиль жолдарының
-индексі
-</td>
+<td rowspan="3">Автомобиль жолдарының индексі</td>
 <td rowspan="3">
 Автомобиль жолдарының
 атауы
@@ -63,6 +60,9 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td rowspan="3">Жалпы ұзындығы, шақырым</td>
 <td colspan="5">Санаты бойынша, шақырым</td>
 <td colspan="6">Оның ішінде, жамылғы түрі бойынша, шақырым</td>
+<td colspan="2">Көпірлер</td>
+<td colspan="2">Құбырлар</td>
+<td colspan="2">Жасыл желектер</td>
 </tr>
 <tr>
 <td rowspan="2">I</td>
@@ -74,6 +74,12 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td colspan="3">Қара</td>
 <td rowspan="2">қиыршық шағыл тасты</td>
 <td rowspan="2">топырақ</td>
+<td rowspan="2">дана</td>
+<td rowspan="2">қума метр</td>
+<td rowspan="2">дана</td>
+<td rowspan="2">қума метр</td>
+<td rowspan="2">барлығы, шақырым</td>
+<td rowspan="2">Қардан қорғау</td>
 </tr>
 <tr>
 <td>қиыршық тас</td>
@@ -96,247 +102,6 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>13</td>
 <td>14</td>
 <td>15</td>
-</tr>
-<tr>
-<td>1</td>
-<td>KND-1</td>
-<td>Р-33 Қызылорда-Жалағаш-Самара-Шымкент-Ақсу</td>
-<td>2,33</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2,33</td>
-<td></td>
-<td></td>
-<td>2,33</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>KND-2</td>
-<td>Р-33 Қызылорда-Жалағаш-Самара-Шымкент-Бұқарбай батыр</td>
-<td>6,328</td>
-<td></td>
-<td></td>
-<td></td>
-<td>6,328</td>
-<td></td>
-<td></td>
-<td>6,328</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>KND-3</td>
-<td>М-32 Самара-Шымкент-Мәдениет-Т.Жүргенов- Жаңаталап-Аққыр</td>
-<td>52,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td>52,59</td>
-<td></td>
-<td></td>
-<td>52,59</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>KND-4</td>
-<td>М-32 Самара-Шымкент-Еңбек-Есет батыр-Жаңадария</td>
-<td>37,396</td>
-<td></td>
-<td></td>
-<td></td>
-<td>37,396</td>
-<td></td>
-<td></td>
-<td>37,396</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>KND-5</td>
-<td>М-32 Самара-Шымкент-Таң</td>
-<td>3,3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3,3</td>
-<td></td>
-<td></td>
-<td>3,3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>KND-6</td>
-<td>
-Жаңақоныс елді мекеніне кіре
-беріс жол
-</td>
-<td>0,997</td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,997</td>
-<td></td>
-<td></td>
-<td>0,997</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>KND-7</td>
-<td>KN-2 Самара-Шымкент-Жосалы-Жалағаш-Қаракеткен</td>
-<td>2,575</td>
-<td></td>
-<td></td>
-<td></td>
-<td>2,575</td>
-<td></td>
-<td></td>
-<td>2,575</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>KND-8</td>
-<td>KN-2 Самара-Шымкент-Жосалы-Жалағаш-М.Шаменов</td>
-<td>1,3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1,3</td>
-<td></td>
-<td></td>
-<td>1,3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>KND-9</td>
-<td>Мырзабай ахун ауылына кіре беріс жол</td>
-<td>4,007</td>
-<td></td>
-<td></td>
-<td></td>
-<td>4,007</td>
-<td></td>
-<td></td>
-<td>4,007</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>KND-10</td>
-<td>Жалағаш кентіне кіре беріс жол</td>
-<td>0,900</td>
-<td></td>
-<td></td>
-<td></td>
-<td>0,900</td>
-<td></td>
-<td></td>
-<td>0,900</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>KND-11</td>
-<td>Жалағаш кентіндегі мия тамырын өндеу зауытына кіре беріс жол</td>
-<td>1,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td>1,0</td>
-<td></td>
-<td></td>
-<td>1,0</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Барлығы</td>
-<td>112,723</td>
-<td></td>
-<td></td>
-<td></td>
-<td>112,723</td>
-<td></td>
-<td></td>
-<td>112,723</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-</table>
-
-Кестенің жалғасы
-
-<table>
-<tr>
-<td rowspan="3">№</td>
-<td rowspan="3">
-Автомобиль жолдарының
-индексі
-</td>
-<td rowspan="3">
-Автомобиль жолдарының
-атауы
-</td>
-<td colspan="2">Көпірлер</td>
-<td colspan="2">Құбырлар</td>
-<td colspan="2">Жасыл желектер</td>
-</tr>
-<tr>
-<td rowspan="2">дана</td>
-<td rowspan="2">қума метр</td>
-<td rowspan="2">дана</td>
-<td rowspan="2">қума метр</td>
-<td rowspan="2">барлығы, шақырым</td>
-<td rowspan="2">Қардан қорғау</td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
 <td>16</td>
 <td>17</td>
 <td>18</td>
@@ -348,6 +113,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>1</td>
 <td>KND-1</td>
 <td>Р-33 Қызылорда-Жалағаш-Самара-Шымкент-Ақсу</td>
+<td>2,33</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2,33</td>
+<td></td>
+<td></td>
+<td>2,33</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>21</td>
 <td></td>
@@ -359,6 +136,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>2</td>
 <td>KND-2</td>
 <td>Р-33 Қызылорда-Жалағаш-Самара-Шымкент-Бұқарбай батыр</td>
+<td>6,328</td>
+<td></td>
+<td></td>
+<td></td>
+<td>6,328</td>
+<td></td>
+<td></td>
+<td>6,328</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>36</td>
 <td>2</td>
@@ -369,7 +158,19 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <tr>
 <td>3</td>
 <td>KND-3</td>
-<td>М-32 Самара-Шымкент-Мәдениет-Мақпалкөл-Жаңаталап-Аққыр</td>
+<td>М-32 Самара-Шымкен-Мәдениет-Т.Жүргенов-Жаңаталап-Аққыр</td>
+<td>52,59</td>
+<td></td>
+<td></td>
+<td></td>
+<td>52,59</td>
+<td></td>
+<td></td>
+<td>52,59</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>9</td>
 <td>222</td>
 <td>22</td>
@@ -380,7 +181,19 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <tr>
 <td>4</td>
 <td>KND-4</td>
-<td>М-32 Самара-Шымкент-Еңбек-Ақарық - Жаңадария</td>
+<td>М-32 Самара-Шымкент-Еңбек-Есет батыр - Жаңадария</td>
+<td>37,396</td>
+<td></td>
+<td></td>
+<td></td>
+<td>37,396</td>
+<td></td>
+<td></td>
+<td>37,396</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>4</td>
 <td>134</td>
 <td>17</td>
@@ -392,6 +205,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>5</td>
 <td>KND-5</td>
 <td>М-32 Самара-Шымкент-Таң</td>
+<td>3,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3,3</td>
+<td></td>
+<td></td>
+<td>3,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>2</td>
 <td>24</td>
 <td></td>
@@ -406,6 +231,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 Жаңақоныс елді мекеніне кіре
 беріс жол
 </td>
+<td>0,997</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,997</td>
+<td></td>
+<td></td>
+<td>0,997</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -417,6 +254,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>7</td>
 <td>KND-7</td>
 <td>KN-2 Самара-Шымкент-Жосалы-Жалағаш-Қаракеткен</td>
+<td>2,575</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2,575</td>
+<td></td>
+<td></td>
+<td>2,575</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -428,6 +277,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>8</td>
 <td>KND-8</td>
 <td>KN-2 Самара-Шымкент-Жосалы-Жалағаш-М.Шаменов</td>
+<td>1,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1,3</td>
+<td></td>
+<td></td>
+<td>1,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -439,6 +300,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>9</td>
 <td>KND-9</td>
 <td>Мырзабай ахун ауылына кіре беріс жол</td>
+<td>4,007</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4,007</td>
+<td></td>
+<td></td>
+<td>4,007</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>22</td>
 <td></td>
@@ -450,6 +323,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td>10</td>
 <td>KND-10</td>
 <td>Жалағаш кентіне кіре беріс жол</td>
+<td>0,900</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,900</td>
+<td></td>
+<td></td>
+<td>0,900</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>22</td>
 <td></td>
@@ -460,7 +345,88 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <tr>
 <td>11</td>
 <td>KND-11</td>
-<td>Жалағаш кентіндегі мия тамырын өндеу зауытына кіре беріс жол</td>
+<td>Жалағаш кентіндегі мия тамырын өңдеу зауытына кіре беріс жол</td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td>1,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>KND-12</td>
+<td>“Беркімбай кәлпе” кесенесіне кіре беріс жол</td>
+<td>2,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2,3</td>
+<td></td>
+<td></td>
+<td>2,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>KND-13</td>
+<td>“Түмен әулие” кесенесіне кіре беріс жол</td>
+<td>5,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>KND-14</td>
+<td>“Мырзабай ахун” мешітіне кіре беріс жол</td>
+<td>0,68</td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,68</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0,68</td>
 <td></td>
 <td></td>
 <td></td>
@@ -472,6 +438,18 @@ source: https://zan.gov.kz/client/#!/doc/93862/kaz/14.09.2017
 <td></td>
 <td></td>
 <td>Барлығы</td>
+<td>120,703</td>
+<td></td>
+<td></td>
+<td></td>
+<td>120,703</td>
+<td></td>
+<td></td>
+<td>115,023</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>5,68</td>
 <td>20</td>
 <td>481</td>
 <td>46</td>
