@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/17.04.2020
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/18.03.2021
 ---
 
 # Қазақстан Республикасы Әділет министрлігінің мәселелерi

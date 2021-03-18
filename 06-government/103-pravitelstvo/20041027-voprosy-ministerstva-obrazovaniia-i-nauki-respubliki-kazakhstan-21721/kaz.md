@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21721/kaz/09.02.2021
+source: https://zan.gov.kz/client/#!/doc/21721/kaz/18.03.2021
 ---
 
 # Қазақстан Республикасы Бiлiм және ғылым министрлігінiң мәселелерi
