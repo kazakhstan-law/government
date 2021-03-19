@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/23502/kaz/18.03.2021
+source: https://zan.gov.kz/client/#!/doc/23502/kaz/19.03.2021
 ---
 
 > *Қазақстан Республикасы Үкiметiнiң*  
