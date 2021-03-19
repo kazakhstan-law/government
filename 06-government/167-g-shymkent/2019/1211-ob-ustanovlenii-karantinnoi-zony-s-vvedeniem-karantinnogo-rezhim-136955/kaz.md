@@ -36,89 +36,202 @@
 
 ## Шымкент қаласының ауыл шаруашылығы алқаптарында карантиндік режим енгізілетін аймақ
 
+> *Ескерту. Қосымша жаңа редакцияда - Шымкент қаласы әкімдігінің 19.03.2021 № 185 (алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td>р/с</td>
-<td>Карантиндік объект атауы</td>
+<td>№</td>
+<td colspan="2">Карантиндік объект атауы</td>
 <td>Аудан атауы</td>
-<td>Көлемі (гектар)</td>
+<td>2020 жылғы көлемі (гектар)</td>
+<td>2021 жылғы көлемі (гектар)</td>
+<td>Жалпы көлемі (гектар)</td>
 </tr>
 <tr>
 <td>1</td>
-<td rowspan="4">Арам сояу</td>
+<td colspan="2" rowspan="4">Арам сояу</td>
 <td>Абай</td>
+<td>3,4</td>
+<td>0</td>
 <td>3,4</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Әл-Фараби</td>
 <td>1,0</td>
+<td>0,003</td>
+<td>1,03</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Еңбекші</td>
 <td>0,03</td>
+<td>4,6</td>
+<td>4,63</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаратау</td>
 <td>0,57</td>
+<td>0,55</td>
+<td>1,12</td>
 </tr>
 <tr>
-<td colspan="2">Барлығы</td>
+<td colspan="3">Барлығы</td>
 <td></td>
-<td>5</td>
+<td>5,0</td>
+<td>5,153</td>
+<td>10,18</td>
 </tr>
 <tr>
 <td>1</td>
-<td rowspan="4">Жатаған у кекіре</td>
+<td colspan="2" rowspan="4">Жатаған у кекіре</td>
 <td>Абай</td>
 <td>2,0</td>
+<td>1,0</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Әл-Фараби</td>
+<td>0,2</td>
+<td>0</td>
 <td>0,2</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Еңбекші</td>
 <td>0,02</td>
+<td>0,5</td>
+<td>0,52</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаратау</td>
 <td>30,4</td>
+<td>3,1</td>
+<td>33,5</td>
 </tr>
 <tr>
-<td colspan="2">Барлығы</td>
+<td colspan="3">Барлығы</td>
 <td></td>
 <td>32,62</td>
+<td>4,6</td>
+<td>37,22</td>
 </tr>
 <tr>
 <td>1</td>
-<td rowspan="4">Шығыстың жеміс жемірі</td>
+<td colspan="2" rowspan="4">Шығыстың жеміс жемірі</td>
 <td>Абай</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Әл-Фараби</td>
 <td>0,03</td>
+<td>0</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Еңбекші</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Қаратау</td>
 <td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">Барлығы</td>
+<td colspan="3">Барлығы</td>
 <td></td>
 <td>0,03</td>
+<td>0</td>
+<td>0,03</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2" rowspan="4">Қызанақ күйесі</td>
+<td>Абай</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Әл-Фараби</td>
+<td>0</td>
+<td>0</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Еңбекші</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Қаратау</td>
+<td>0</td>
+<td>1,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td colspan="3">Барлығы</td>
+<td></td>
+<td>0</td>
+<td>1,0</td>
+<td>1,3</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2" rowspan="4">Жұпсыз жібек көбелегі</td>
+<td>Абай</td>
+<td>0</td>
+<td>1,0</td>
+<td>1,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Әл-Фараби</td>
+<td>0</td>
+<td>0</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Еңбекші</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Қаратау</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="3">Барлығы</td>
+<td></td>
+<td>0</td>
+<td>1,0</td>
+<td>1,3</td>
+</tr>
+<tr>
+<td colspan="3">Жалпы</td>
+<td></td>
+<td>37,65</td>
+<td>11,753</td>
+<td>50,03</td>
 </tr>
 </table>
