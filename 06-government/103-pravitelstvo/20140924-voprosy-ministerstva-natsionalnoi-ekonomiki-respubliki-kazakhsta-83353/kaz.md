@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83353/kaz/18.03.2021
+source: https://zan.gov.kz/client/#!/doc/83353/kaz/30.03.2021
 ---
 
 # Қазақстан Республикасы Ұлттық экономика министрлігінің мәселелері
