@@ -77,12 +77,19 @@ versions:
   cause:
     code: '153233'
     key: V2100022309
+- date: 2021-04-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '153233'
+    key: V2100022309
 version_date:
-  kaz: 2021-02-22
-  rus: 2021-02-22
+  kaz: 2021-04-01
+  rus: 2021-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/90219/kaz/22.02.2021
-  rus: https://zan.gov.kz/client/#!/doc/90219/rus/22.02.2021
+  kaz: https://zan.gov.kz/client/#!/doc/90219/kaz/01.04.2021
+  rus: https://zan.gov.kz/client/#!/doc/90219/rus/01.04.2021
 caused_by:
   code: '153233'
   key: V2100022309
