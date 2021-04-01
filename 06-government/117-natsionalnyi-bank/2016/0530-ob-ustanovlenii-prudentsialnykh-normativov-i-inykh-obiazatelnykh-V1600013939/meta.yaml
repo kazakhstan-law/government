@@ -61,12 +61,19 @@ versions:
   cause:
     code: '148038'
     key: V2000021554
+- date: 2021-04-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '148038'
+    key: V2000021554
 version_date:
-  kaz: 2020-10-30
-  rus: 2020-10-30
+  kaz: 2021-04-01
+  rus: 2021-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/104613/kaz/30.10.2020
-  rus: https://zan.gov.kz/client/#!/doc/104613/rus/30.10.2020
+  kaz: https://zan.gov.kz/client/#!/doc/104613/kaz/01.04.2021
+  rus: https://zan.gov.kz/client/#!/doc/104613/rus/01.04.2021
 caused_by:
   code: '148038'
   key: V2000021554
