@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24486/kaz/31.12.2020
+source: https://zan.gov.kz/client/#!/doc/24486/kaz/21.05.2021
 ---
 
 # Қазақстан Республикасы Iшкi iстер министрлiгiнiң мәселелерi
