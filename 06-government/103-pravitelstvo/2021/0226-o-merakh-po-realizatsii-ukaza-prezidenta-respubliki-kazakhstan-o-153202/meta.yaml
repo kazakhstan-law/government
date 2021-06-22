@@ -10,8 +10,15 @@ approved_on: 2021-02-26
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2021-02-26
-  rus: 2021-02-26
+  kaz: 2021-06-22
+  rus: 2021-06-22
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/153202/kaz/26.02.2021
-  rus: https://zan.gov.kz/client/#!/doc/153202/rus/26.02.2021
+  kaz: https://zan.gov.kz/client/#!/doc/153202/kaz/22.06.2021
+  rus: https://zan.gov.kz/client/#!/doc/153202/rus/22.06.2021
+caused_by:
+  code: '156568'
+  requisite: Постановление Правительства Республики Казахстан от 22 июня 2021 года № 427
+  title:
+    rus: О внесении дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне толықтырулар енгiзу туралы
+  link: https://zan.gov.kz/client/#!/doc/156568/rus
