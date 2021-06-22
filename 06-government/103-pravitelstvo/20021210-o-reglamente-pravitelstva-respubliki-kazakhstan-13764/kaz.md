@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/13764/kaz/08.06.2021
+source: https://zan.gov.kz/client/#!/doc/13764/kaz/22.06.2021
 ---
 
 # Қазақстан Республикасы Yкiметiнiң Регламентi туралы
