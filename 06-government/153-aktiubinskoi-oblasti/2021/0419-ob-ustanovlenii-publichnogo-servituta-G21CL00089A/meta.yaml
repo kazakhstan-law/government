@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2021-07-23
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '208190'
+    key: G21CL00178A
 version_date:
-  kaz: 2021-04-19
-  rus: 2021-04-19
+  kaz: 2021-07-23
+  rus: 2021-07-23
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/208196/kaz/19.04.2021
-  rus: https://zan.gov.kz/client/#!/doc/208196/rus/19.04.2021
+  kaz: https://zan.gov.kz/client/#!/doc/208196/kaz/23.07.2021
+  rus: https://zan.gov.kz/client/#!/doc/208196/rus/23.07.2021
+caused_by:
+  code: '208190'
+  key: G21CL00178A
+  requisite: Постановление акимата Хромтауского района Актюбинской области от 23 июля 2021 года № 178
+  title:
+    rus: О внесении изменений в постановление Акимата Хромтауского района 19 апреля 2021 года № 89 «Об установлении публичного сервитута»
+    kaz: Хромтау ауданы әкімдігінің 2021 жылғы 19 сәуірдегі № 89 «Қауымдық сервитут белгілеу туралы» қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/208190/rus
