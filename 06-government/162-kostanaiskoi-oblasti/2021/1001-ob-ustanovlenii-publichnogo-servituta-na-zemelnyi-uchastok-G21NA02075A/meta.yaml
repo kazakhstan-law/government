@@ -1,0 +1,24 @@
+key: G21NA02075A
+akn: /akn/kz/act/2021-10-01/G21NA02075A
+act_code: '161987'
+requisite: Постановление акимата города Костаная Костанайской области от 1 октября 2021 года № 2075
+title:
+  rus: Об установлении публичного сервитута на земельный участок
+  kaz: Жер учаскесіне қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2021-10-01
+approved_by:
+- '162002000001'
+versions:
+- date: 2021-10-01
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2021-10-01
+  rus: 2021-10-01
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/161987/kaz/01.10.2021
+  rus: https://zan.gov.kz/client/#!/doc/161987/rus/01.10.2021
