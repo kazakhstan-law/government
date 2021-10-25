@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97768/rus/12.01.2021
+source: https://zan.gov.kz/client/#!/doc/97768/rus/25.10.2021
 ---
 
 # О некоторых вопросах реализации государственной поддержки инвестиций
