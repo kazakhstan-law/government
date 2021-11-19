@@ -1,0 +1,25 @@
+key: G21E001440A
+akn: /akn/kz/act/2021-11-19/G21E001440A
+act_code: '160567'
+requisite: Постановление акимата города Шымкент от 19 ноября 2021 года № 1440
+title:
+  rus: Об утверждении Правил предоставления коммунальных услуг в городе Шымкент
+  kaz: Шымкент қаласында коммуналдық көрсетілетін қызметтерді ұсыну қағидаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРАВ
+approved_on: 2021-11-19
+approved_by:
+- '167000000001'
+versions:
+- date: 2021-11-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2021-11-19
+  rus: 2021-11-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/160567/kaz/19.11.2021
+  rus: https://zan.gov.kz/client/#!/doc/160567/rus/19.11.2021
