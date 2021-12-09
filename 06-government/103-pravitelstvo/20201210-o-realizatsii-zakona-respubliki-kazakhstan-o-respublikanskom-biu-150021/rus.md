@@ -1,5 +1,5 @@
 ---
-version_id: '150021_554099'
+version_id: '150021_557287'
 act_code: '150021'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2021 – 2023 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2020-12-10
-version_date: 2021-11-10
+version_date: 2021-12-09
 registry_number: '150021'
 caused_by:
-  code: '160569'
-  title: О корректировке показателей республиканского бюджета на 2021 год и внесении изменений в постановление Правительства Республики Казахстан от 10 декабря 2020 года № 840 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2021 – 2023 годы»
-  link: https://zan.gov.kz/client/#!/doc/160569/rus
-source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
+  code: '161740'
+  title: О корректировке показателей республиканского бюджета на 2021 год и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 10 декабря 2020 года № 840 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2021 – 2023 годы»
+  link: https://zan.gov.kz/client/#!/doc/161740/rus
+source: https://zan.gov.kz/client/#!/doc/150021/rus/09.12.2021
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2021 – 2023 годы»
@@ -25,7 +25,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
 Правительство Республики Казахстан ПОСТАНОВЛЯЕТ:
 
-1. Принять к исполнению республиканский бюджет на 2021 – 2023 годы, в том числе на 2021 год, в следующих объемах:
+1. Принять к исполнению республиканский бюджет на 2021 – 2023 годы, в том числе на 2021 год в следующих объемах:
 
    1) доходы – 12 405 717 446 тысяч тенге, в том числе по:
 
@@ -37,11 +37,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
       поступлениям трансфертов – 5 201 425 304 тысячи тенге;
 
-   2) затраты – 14 913 437 502 тысячи тенге;
+   2) затраты – 14 913 573 621 тысяча тенге;
 
-   3) чистое бюджетное кредитование – 221 718 814 тысяч тенге, в том числе:
+   3) чистое бюджетное кредитование – 221 035 695 тысяч тенге, в том числе:
 
-      бюджетные кредиты – 389 770 212 тысяч тенге;
+      бюджетные кредиты – 389 634 093 тысячи тенге;
 
       погашение бюджетных кредитов – 168 598 398 тысяч тенге;
 
@@ -55,13 +55,13 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
    7) финансирование дефицита бюджета – 2 759 665 200 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции постановлений Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Пункт 1 в редакции постановлений Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 2. Утвердить:
 
    1) перечень приоритетных республиканских бюджетных инвестиций, финансируемых из республиканского бюджета, согласно приложению 1 к настоящему постановлению;
 
-   2) перечень приоритетных республиканских бюджетных инвестиций министерств внутренних дел и обороны Республики Казахстан согласно приложению 2 к настоящему постановлению (для служебного пользования);
+   2) перечень приоритетных республиканских бюджетных инвестиций министерств по чрезвычайным ситуациям, обороны, индустрии и инфраструктурного развития, Управления Делами Президента Республики Казахстан согласно приложению 2 к настоящему постановлению (для служебного пользования);
 
    2-1) распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение должностных окладов сотрудников органов внутренних дел согласно приложению 2-1 к настоящему постановлению;
 
@@ -201,7 +201,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
    51) распределение сумм поступлений трансфертов из областных бюджетов, бюджетов городов республиканского значения, столицы согласно приложению 51 к настоящему постановлению.
 
-> *Сноска. Пункт 2 с изменениями, внесенными постановлениями Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Пункт 2 с изменениями, внесенными постановлениями Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 3. Министерству труда и социальной защиты населения Республики Казахстан выделить из средств, предусмотренных в республиканском бюджете на 2021 год на реализацию мероприятий в рамках Дорожной карты занятости на 2020 – 2021 годы, сумму в размере 77 500 000 тысяч тенге для перечисления целевых трансфертов на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на строительство и (или) реконструкцию объектов в рамках Дорожной карты занятости на 2020 – 2021 годы.
 
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Всего:</td>
-<td colspan="6">1 282 658 944</td>
+<td colspan="6">1 270 029 558</td>
 <td colspan="6">300 419 388</td>
 <td colspan="3">147 539 342</td>
 </tr>
@@ -277,7 +277,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">I. Республиканские бюджетные инвестиционные проекты</td>
-<td colspan="6">340 866 071</td>
+<td colspan="6">332 662 146</td>
 <td colspan="6">142 086 568</td>
 <td colspan="3">96 739 641</td>
 </tr>
@@ -287,7 +287,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Государственные услуги общего характера</td>
-<td colspan="6">56 838 213</td>
+<td colspan="6">56 013 503</td>
 <td colspan="6">21 127 094</td>
 <td colspan="3">1 969 536</td>
 </tr>
@@ -297,7 +297,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Министерство финансов Республики Казахстан</td>
-<td colspan="6">56 390 217</td>
+<td colspan="6">55 611 090</td>
 <td colspan="6">21 127 094</td>
 <td colspan="3">1 969 536</td>
 </tr>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3">030</td>
 <td colspan="5"></td>
 <td colspan="10">Создание и развитие информационных систем Министерства финансов Республики Казахстан</td>
-<td colspan="6">5 630 532</td>
+<td colspan="6">4 935 405</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -317,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5">100</td>
 <td colspan="10">Развитие информационных систем Комитета казначейства</td>
-<td colspan="6">4 572 232</td>
+<td colspan="6">3 877 105</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Прочие</td>
-<td colspan="6">4 572 232</td>
+<td colspan="6">3 877 105</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -347,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Развитие и модернизация информационных систем казначейства</td>
-<td colspan="6">4 572 232</td>
+<td colspan="6">3 877 105</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -445,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3">072</td>
 <td colspan="5"></td>
 <td colspan="10">Реформирование системы налогового администрирования</td>
-<td colspan="6">963 976</td>
+<td colspan="6">879 976</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -498,9 +498,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5">016</td>
-<td></td>
-<td colspan="9">За счет софинансирования внешних займов из республиканского бюджета</td>
-<td colspan="6">551 298</td>
+<td colspan="10">За счет софинансирования внешних займов из республиканского бюджета</td>
+<td colspan="6">467 298</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -509,8 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="10">в том числе инвестиционные проекты:</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="3"></td>
@@ -520,9 +518,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">551 298</td>
+<td colspan="10">Прочие</td>
+<td colspan="6">467 298</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -531,9 +528,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Реформирование систем налогового администрирования</td>
-<td colspan="6">551 298</td>
+<td colspan="10">Реформирование систем налогового администрирования</td>
+<td colspan="6">467 298</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -597,7 +593,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Агентство Республики Казахстан по делам государственной службы</td>
-<td colspan="6">447 996</td>
+<td colspan="6">402 413</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -606,9 +602,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3">017</td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Создание и развитие информационных систем Агентства Республики Казахстан по делам государственной службы</td>
-<td colspan="6">447 996</td>
+<td colspan="10">Создание и развитие информационных систем Агентства Республики Казахстан по делам государственной службы</td>
+<td colspan="6">402 413</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -617,8 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="10">в том числе инвестиционные проекты:</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="3"></td>
@@ -628,9 +622,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">447 996</td>
+<td colspan="10">Прочие</td>
+<td colspan="6">402 413</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -639,9 +632,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Развитие и модернизация интегрированной информационной системы «Е-Қызмет» (Система, ИИС «Е-Қызмет»)</td>
-<td colspan="6">447 996</td>
+<td colspan="10">Развитие и модернизация интегрированной информационной системы «Е-Қызмет» (Система, ИИС «Е-Қызмет»)</td>
+<td colspan="6">402 413</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -650,9 +642,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Оборона</td>
-<td colspan="6">38 828 458</td>
+<td colspan="10">Оборона</td>
+<td colspan="6">40 835 655</td>
 <td colspan="6">32 275 000</td>
 <td colspan="3">21 290 626</td>
 </tr>
@@ -662,7 +653,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Министерство по чрезвычайным ситуациям Республики Казахстан</td>
-<td colspan="6">38 516 968</td>
+<td colspan="6">40 556 060</td>
 <td colspan="6">31 100 000</td>
 <td colspan="3">21 290 626</td>
 </tr>
@@ -672,7 +663,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3">006</td>
 <td colspan="5"></td>
 <td colspan="10">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
-<td colspan="6">38 516 968</td>
+<td colspan="6">40 556 060</td>
 <td colspan="6">31 100 000</td>
 <td colspan="3">21 290 626</td>
 </tr>
@@ -681,9 +672,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5">100</td>
-<td></td>
-<td colspan="9">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
-<td colspan="6">38 516 968</td>
+<td colspan="10">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
+<td colspan="6">40 556 060</td>
 <td colspan="6">31 100 000</td>
 <td colspan="3">21 290 626</td>
 </tr>
@@ -692,8 +682,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="10">в том числе инвестиционные проекты:</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="3"></td>
@@ -703,9 +692,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td></td>
-<td colspan="9">Акмолинская область</td>
-<td colspan="6">18 165 231</td>
+<td colspan="10">Акмолинская область</td>
+<td colspan="6">18 164 472</td>
 <td colspan="6">6 750 000</td>
 <td colspan="3">1 250 000</td>
 </tr>
@@ -738,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Строительство водно-спасательной станции на берегу озера Боровое Бурабайского района Акмолинской области</td>
-<td colspan="6">70 247</td>
+<td colspan="6">69 922</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -748,8 +736,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
-<td colspan="9">Строительство водно-спасательной станций на берегу озера Большое Чебачье Бурабайского района Акмолинской области</td>
-<td colspan="6">93 991</td>
+<td colspan="9">Строительство водно-спасательной станции на берегу озера Большое Чебачье Бурабайского района Акмолинской области</td>
+<td colspan="6">93 557</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -760,7 +748,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Алматинская область</td>
-<td colspan="6">10 100 000</td>
+<td colspan="6">9 033 738</td>
 <td colspan="6">12 600 000</td>
 <td colspan="3">11 080 000</td>
 </tr>
@@ -771,7 +759,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Строительство защитных сооружений на реке Хоргос в районе Международного центра приграничного сотрудничества и зданий таможни «Коргос» (Хоргос-1)</td>
-<td colspan="6">3 600 000</td>
+<td colspan="6">4 600 000</td>
 <td colspan="6">7 000 000</td>
 <td colspan="3">6 080 000</td>
 </tr>
@@ -782,7 +770,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Руслоформирующие и защитные сооружения по реке Хоргос на участках Международного центра приграничного сотрудничества (МЦПС) «Хоргос», Приграничной торгово-экономической зоны (ПТЭЗ) «Хоргос - Восточные ворота», поселков Баскунчи, Хоргос и пограничной заставы в Панфиловском районе Алматинской области»</td>
-<td colspan="6">6 500 000</td>
+<td colspan="6">4 433 738</td>
 <td colspan="6">5 600 000</td>
 <td colspan="3">5 000 000</td>
 </tr>
@@ -870,7 +858,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">город Алматы</td>
-<td colspan="6">8 400 000</td>
+<td colspan="6">11 506 113</td>
 <td colspan="6">11 750 000</td>
 <td colspan="3">8 960 626</td>
 </tr>
@@ -881,7 +869,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Строительство селезадерживающей плотины в бассейне реки Аксай</td>
-<td colspan="6">3 600 000</td>
+<td colspan="6">6 706 113</td>
 <td colspan="6">7 750 000</td>
 <td colspan="3">6 725 266</td>
 </tr>
@@ -901,8 +889,9 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8">208</td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td colspan="10">Министерство обороны Республики Казахстан</td>
-<td colspan="6">311 490</td>
+<td></td>
+<td colspan="9">Министерство обороны Республики Казахстан</td>
+<td colspan="6">279 595</td>
 <td colspan="6">1 175 000</td>
 <td colspan="3"></td>
 </tr>
@@ -913,7 +902,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Обеспечение боевой, мобилизационной готовности Вооруженных Сил Республики Казахстан</td>
-<td colspan="6">311 490</td>
+<td colspan="6">279 595</td>
 <td colspan="6">1 175 000</td>
 <td colspan="3"></td>
 </tr>
@@ -968,7 +957,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5">107</td>
 <td></td>
 <td colspan="9">Создание автоматизированной системы управления Вооруженных Сил</td>
-<td colspan="6">42 466</td>
+<td colspan="6">10 571</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -990,7 +979,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Прочие</td>
-<td colspan="6">42 466</td>
+<td colspan="6">10 571</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -1001,7 +990,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Для служебного пользования</td>
-<td colspan="6">42 466</td>
+<td colspan="6">10 571</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -1010,8 +999,9 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td colspan="10">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
-<td colspan="6">18 615 122</td>
+<td></td>
+<td colspan="9">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
+<td colspan="6">18 487 821</td>
 <td colspan="6">5 912 202</td>
 <td colspan="3">3 364 165</td>
 </tr>
@@ -1549,7 +1539,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Служба государственной охраны Республики Казахстан</td>
-<td colspan="6">1 273 012</td>
+<td colspan="6">1 145 711</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -1560,7 +1550,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Программа развития Службы государственной охраны Республики Казахстан</td>
-<td colspan="6">1 273 012</td>
+<td colspan="6">1 145 711</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -1582,7 +1572,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Прочие</td>
-<td colspan="6">1 273 012</td>
+<td colspan="6">1 145 711</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -1593,7 +1583,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Программа развития Службы государственной охраны Республики Казахстан</td>
-<td colspan="6">1 273 012</td>
+<td colspan="6">1 145 711</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2056,7 +2046,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td colspan="10">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td colspan="6">26 279 423</td>
+<td colspan="6">26 208 543</td>
 <td colspan="6">8 196 635</td>
 <td colspan="3">8 294 287</td>
 </tr>
@@ -2067,7 +2057,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Министерство экологии, геологии и природных ресурсов Республики Казахстан</td>
-<td colspan="6">26 279 423</td>
+<td colspan="6">26 208 543</td>
 <td colspan="6">8 196 635</td>
 <td colspan="3">8 294 287</td>
 </tr>
@@ -2078,7 +2068,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Эффективное управление водными ресурсами</td>
-<td colspan="6">7 742 905</td>
+<td colspan="6">7 672 025</td>
 <td colspan="6">8 196 635</td>
 <td colspan="3">8 294 287</td>
 </tr>
@@ -2089,7 +2079,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5">113</td>
 <td></td>
 <td colspan="9">Строительство и реконструкция систем водоснабжения, гидротехнических сооружений за счет средств республиканского бюджета</td>
-<td colspan="6">7 742 905</td>
+<td colspan="6">7 672 025</td>
 <td colspan="6">8 196 635</td>
 <td colspan="3">8 294 287</td>
 </tr>
@@ -2111,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Акмолинская область</td>
-<td colspan="6">3 143 764</td>
+<td colspan="6">3 123 764</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2155,7 +2145,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Разработка ПСД «Строительство Есильского контррегулятора на реке Есиль в Акмолинской области»</td>
-<td colspan="6">550 582</td>
+<td colspan="6">530 582</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2199,7 +2189,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Алматинская область</td>
-<td colspan="6">213 019</td>
+<td colspan="6">174 039</td>
 <td colspan="6">200 000</td>
 <td colspan="3">1 000 000</td>
 </tr>
@@ -2232,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Разработка проектно-сметной документации «Строительство Каскеленского группового водовода в Карасайском районе Алматинской области. I очередь (2-й и 3-й пусковые комплексы) и II очередь строительства. Корректировка»</td>
-<td colspan="6">213 019</td>
+<td colspan="6">174 039</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2243,7 +2233,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Жамбылская область</td>
-<td colspan="6">10 000</td>
+<td colspan="6">400</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2254,7 +2244,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Разработка ПСД «Реконструкция водохранилища Терс-Ащибулак в Жуалынском районе Жамбылской области»</td>
-<td colspan="6">5 000</td>
+<td colspan="6">200</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2265,7 +2255,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Разработка ПСД «Реконструкция Караконызского водохранилища в Кордайском районе Жамбылской области»</td>
-<td colspan="6">5 000</td>
+<td colspan="6">200</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -2353,7 +2343,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">РП «Строительство ветки подключения Аральск-Токабай-Абай Арало-Сарыбулакского группового водопровода и водоснабжение населенных пунктов Токабай, Абай Аральского района Кызылординской области»</td>
-<td colspan="6">100 000</td>
+<td colspan="6">97 700</td>
 <td colspan="6">500 000</td>
 <td colspan="3">1 050 000</td>
 </tr>
@@ -2643,538 +2633,24 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 </tr>
 <tr>
-<td colspan="12">12</td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="10">Транспорт и коммуникации</td>
-<td colspan="6">144 394 695</td>
-<td colspan="6">48 400 732</td>
-<td colspan="3">61 821 027</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8">223</td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</td>
-<td colspan="6">18 841 046</td>
-<td colspan="6">35 855 974</td>
-<td colspan="3">58 082 236</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3">009</td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Создание и ввод в эксплуатацию космической системы связи «KazSat-2R»</td>
-<td colspan="6">81 000</td>
-<td colspan="6">15 000 000</td>
-<td colspan="3">13 000 000</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">030</td>
-<td></td>
-<td colspan="9">За счет средств республиканского бюджета</td>
-<td colspan="6">81 000</td>
-<td colspan="6">15 000 000</td>
-<td colspan="3">13 000 000</td>
-</tr>
-<tr>
-<td colspan="12"></td>
+<td colspan="12">11</td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
-<td colspan="6"></td>
+<td colspan="9">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
+<td colspan="6">1 040 000</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">81 000</td>
-<td colspan="6">15 000 000</td>
-<td colspan="3">13 000 000</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Cоздание и ввод в эксплуатацию космической системы связи «KazSat-2R»</td>
-<td colspan="6">81 000</td>
-<td colspan="6">15 000 000</td>
-<td colspan="3">13 000 000</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3">011</td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов</td>
-<td colspan="6">18 760 046</td>
-<td colspan="6">20 855 974</td>
-<td colspan="3">45 082 236</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">030</td>
-<td></td>
-<td colspan="9">За счет средств республиканского бюджета</td>
-<td colspan="6">18 760 046</td>
-<td colspan="6">20 855 974</td>
-<td colspan="3">45 082 236</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">18 760 046</td>
-<td colspan="6">20 855 974</td>
-<td colspan="3">45 082 236</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов</td>
-<td colspan="6">18 760 046</td>
-<td colspan="6">20 855 974</td>
-<td colspan="3">45 082 236</td>
 </tr>
 <tr>
 <td colspan="12"></td>
 <td colspan="8">249</td>
 <td colspan="3"></td>
 <td colspan="5"></td>
-<td colspan="10">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
-<td colspan="6">125 553 649</td>
-<td colspan="6">12 544 758</td>
-<td colspan="3">3 738 791</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3">003</td>
-<td colspan="5"></td>
-<td colspan="10">Развитие автомобильных дорог на республиканском уровне</td>
-<td colspan="6">123 576 011</td>
-<td colspan="6">12 544 758</td>
-<td colspan="3">3 738 791</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">004</td>
 <td></td>
-<td colspan="9">За счет внешних займов</td>
-<td colspan="6">60 300 714</td>
-<td colspan="6">7 200 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">60 300 714</td>
-<td colspan="6">7 200 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы международного транзитного коридора «Западная Европа - Западный Китай»</td>
-<td colspan="6">425 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Узынагаш - Отар»</td>
-<td colspan="6">4 675 000</td>
-<td colspan="6">1 700 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Курты - Бурылбайтал»</td>
-<td colspan="6">8 840 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Балхаш - Бурылбайтал»</td>
-<td colspan="6">31 450 000</td>
-<td colspan="6">5 500 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)» участок «Кандыагаш - Макат»</td>
-<td colspan="6">14 910 714</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">005</td>
-<td></td>
-<td colspan="9">За счет внутренних источников</td>
-<td colspan="6">53 476 011</td>
-<td colspan="6">544 758</td>
-<td colspan="3">3 738 791</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">53 476 011</td>
-<td colspan="6">544 758</td>
-<td colspan="3">3 738 791</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Восток «Астана - Павлодар - Калбатау - Усть-Каменогорск»</td>
-<td colspan="6">2 040 892</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Астана - Петропавловск» транзитного коридора «Боровое - Кокшетау - Петропавловск - граница РФ»</td>
-<td colspan="6">2 564 830</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Ушарал - Достык»</td>
-<td colspan="6">17 854 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Карабутак - Комсомольское - Денисовка - Рудный - Костанай»</td>
-<td colspan="6">12 830 220</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Таскескен - Бахты (граница КНР)»</td>
-<td colspan="6">402 996</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Усть-Каменогорск - Зыряновск - Большенарымское -Катон-Карагай - Рахмановские ключи»</td>
-<td colspan="6">444</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)»</td>
-<td colspan="6">7 114 133</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы»</td>
-<td colspan="6">9 572 518</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Кызылорда - Павлодар - Успенка - гр. РФ» участок «Кызылорда-Жезказган» км 12-424, протяженностью 412 км</td>
-<td colspan="6">112 750</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Атырау - Уральск»</td>
-<td colspan="6">565 463</td>
-<td colspan="6">544 758</td>
-<td colspan="3">3 738 791</td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Разработка проектно-сметной документации по проекту «Центр - Запад»</td>
-<td colspan="6">8 654</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги «Уральск - Оренбург» участок «Подстепное - Федоровка - гр РФ. (на Илек)» протяженностью 144 км</td>
-<td colspan="6">9 111</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Караганды - Аягоз - Тарбагатай - Бугаз» участок «Караганды - Аягоз»</td>
-<td colspan="6">100 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги «Актобе - Карабутак - Улгайсын»</td>
-<td colspan="6">100 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Семей - Усть - Каменогорск» протяженностью 195 км»</td>
-<td colspan="6">100 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Кызылорда - Павлодар - Успенка - гр. РФ» участок «Жезказган - Караганды»</td>
-<td colspan="6">100 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">016</td>
-<td></td>
-<td colspan="9">За счет софинансирования внешних займов из республиканского бюджета</td>
-<td colspan="6">9 799 286</td>
-<td colspan="6">4 800 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">в том числе инвестиционные проекты:</td>
-<td colspan="6"></td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Прочие</td>
-<td colspan="6">9 799 286</td>
-<td colspan="6">4 800 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы международного транзитного коридора «Западная Европа - Западный Китай»</td>
-<td colspan="6">75 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Узынагаш - Отар»</td>
-<td colspan="6">825 000</td>
-<td colspan="6">300 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Курты - Бурылбайтал»</td>
-<td colspan="6">1 560 000</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Балхаш - Бурылбайтал»</td>
-<td colspan="6">5 550 000</td>
-<td colspan="6">4 500 000</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)» участок «Кандыагаш - Макат»</td>
-<td colspan="6">1 789 286</td>
+<td colspan="9">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
+<td colspan="6">1 040 000</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
@@ -3183,7 +2659,8 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="8"></td>
 <td colspan="3">024</td>
 <td colspan="5"></td>
-<td colspan="10">Проектирование и строительство пограничных отделений</td>
+<td></td>
+<td colspan="9">Проектирование и строительство пограничных отделений</td>
 <td colspan="6">1 040 000</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
@@ -3255,14 +2732,48 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 </tr>
 <tr>
+<td colspan="12">12</td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Транспорт и коммуникации</td>
+<td colspan="6">134 454 266</td>
+<td colspan="6">48 400 732</td>
+<td colspan="3">61 821 027</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8">223</td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</td>
+<td colspan="6">16 516 891</td>
+<td colspan="6">35 855 974</td>
+<td colspan="3">58 082 236</td>
+</tr>
+<tr>
 <td colspan="12"></td>
 <td colspan="8"></td>
-<td colspan="3">240</td>
+<td colspan="3">009</td>
 <td colspan="5"></td>
-<td colspan="10">Строительство и реконструкция пунктов пропуска через Государственную границу Республики Казахстан</td>
-<td colspan="6">937 638</td>
-<td colspan="6"></td>
+<td></td>
+<td colspan="9">Создание и ввод в эксплуатацию космической системы связи «KazSat-2R»</td>
+<td colspan="6">72 900</td>
+<td colspan="6">15 000 000</td>
+<td colspan="3">13 000 000</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
 <td colspan="3"></td>
+<td colspan="5">030</td>
+<td></td>
+<td colspan="9">За счет средств республиканского бюджета</td>
+<td colspan="6">72 900</td>
+<td colspan="6">15 000 000</td>
+<td colspan="3">13 000 000</td>
 </tr>
 <tr>
 <td colspan="12"></td>
@@ -3282,9 +2793,9 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td></td>
 <td colspan="9">Прочие</td>
-<td colspan="6">937 638</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
+<td colspan="6">72 900</td>
+<td colspan="6">15 000 000</td>
+<td colspan="3">13 000 000</td>
 </tr>
 <tr>
 <td colspan="12"></td>
@@ -3292,117 +2803,32 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
-<td colspan="9">Строительство, расширение и реконструкция пункта пропуска «Кордай» таможни «Кордай» на территории Кордайского сельского округа Кордайского района Жамбылской области</td>
-<td colspan="6">268 139</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
+<td colspan="9">Cоздание и ввод в эксплуатацию космической системы связи «KazSat-2R»</td>
+<td colspan="6">72 900</td>
+<td colspan="6">15 000 000</td>
+<td colspan="3">13 000 000</td>
 </tr>
 <tr>
 <td colspan="12"></td>
 <td colspan="8"></td>
-<td colspan="3"></td>
+<td colspan="3">011</td>
 <td colspan="5"></td>
 <td></td>
-<td colspan="9">Проектно-изыскательские работы и строительство пункта пропуска «Бесагаш» Жамбылской области</td>
-<td colspan="6">585 180</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
+<td colspan="9">Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов</td>
+<td colspan="6">16 443 991</td>
+<td colspan="6">20 855 974</td>
+<td colspan="3">45 082 236</td>
 </tr>
 <tr>
 <td colspan="12"></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
-<td colspan="5"></td>
+<td colspan="5">030</td>
 <td></td>
-<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Таскала» на казахстанско-российской границе</td>
-<td colspan="6">13 337</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Сырым» на казахстанско-российской границе</td>
-<td colspan="6">13 359</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Урлитобе» на казахстанско-российской границе</td>
-<td colspan="6">15 124</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Алимбет» на казахстанско-российской границе</td>
-<td colspan="6">15 890</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Жана Жол» на казахстанско-российской границе</td>
-<td colspan="6">9 983</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td></td>
-<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Косак» на казахстанско-российской границе</td>
-<td colspan="6">16 626</td>
-<td colspan="6"></td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12">13</td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5"></td>
-<td colspan="10">Прочие</td>
-<td colspan="6">38 777 334</td>
-<td colspan="6">26 174 905</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3">694</td>
-<td colspan="5"></td>
-<td colspan="10">Управление Делами Президента Республики Казахстан</td>
-<td colspan="6">38 777 334</td>
-<td colspan="6">26 174 905</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="12"></td>
-<td colspan="8"></td>
-<td colspan="3"></td>
-<td colspan="5">008</td>
-<td colspan="10">Строительство и реконструкция объектов Управления Делами Президента Республики Казахстан</td>
-<td colspan="6">38 777 334</td>
-<td colspan="6">26 174 905</td>
-<td colspan="3"></td>
+<td colspan="9">За счет средств республиканского бюджета</td>
+<td colspan="6">16 443 991</td>
+<td colspan="6">20 855 974</td>
+<td colspan="3">45 082 236</td>
 </tr>
 <tr>
 <td colspan="12"></td>
@@ -3421,38 +2847,701 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
-<td colspan="9">город Нур-Султан</td>
-<td colspan="6">38 777 334</td>
+<td colspan="9">Прочие</td>
+<td colspan="6">16 443 991</td>
+<td colspan="6">20 855 974</td>
+<td colspan="3">45 082 236</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов</td>
+<td colspan="6">16 443 991</td>
+<td colspan="6">20 855 974</td>
+<td colspan="3">45 082 236</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8">249</td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
+<td colspan="6">117 937 375</td>
+<td colspan="6">12 544 758</td>
+<td colspan="3">3 738 791</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3">003</td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Развитие автомобильных дорог на республиканском уровне</td>
+<td colspan="6">117 103 837</td>
+<td colspan="6">12 544 758</td>
+<td colspan="3">3 738 791</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5">004</td>
+<td></td>
+<td></td>
+<td colspan="9">За счет внешних займов</td>
+<td colspan="6">60 300 714</td>
+<td colspan="6">7 200 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Прочие</td>
+<td colspan="6">60 300 714</td>
+<td colspan="6">7 200 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы международного транзитного коридора «Западная Европа - Западный Китай»</td>
+<td colspan="6">4 325 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Узынагаш - Отар»</td>
+<td colspan="6">8 055 000</td>
+<td colspan="6">1 700 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана-Караганда-Балхаш-Курты-Капшагай-Алматы» участок «Курты-Бурылбайтал»</td>
+<td colspan="6">5 170 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Балхаш - Бурылбайтал»</td>
+<td colspan="6">31 450 000</td>
+<td colspan="6">5 500 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)» участок «Кандыагаш - Макат»</td>
+<td colspan="6">11 300 714</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5">005</td>
+<td></td>
+<td colspan="9">За счет внутренних источников</td>
+<td colspan="6">47 003 837</td>
+<td colspan="6">544 758</td>
+<td colspan="3">3 738 791</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Прочие</td>
+<td colspan="6">47 003 837</td>
+<td colspan="6">544 758</td>
+<td colspan="3">3 738 791</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Восток «Астана - Павлодар - Калбатау - Усть-Каменогорск»</td>
+<td colspan="6">2 040 892</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Астана - Петропавловск» транзитного коридора «Боровое - Кокшетау - Петропавловск - граница РФ»</td>
+<td colspan="6">4 730</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Ушарал - Достык»</td>
+<td colspan="6">15 854 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Карабутак - Комсомольское - Денисовка - Рудный - Костанай»</td>
+<td colspan="6">12 830 220</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Таскескен - Бахты (граница КНР)»</td>
+<td colspan="6">402 596</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Усть-Каменогорск - Зыряновск - Большенарымское -Катон-Карагай - Рахмановские ключи»</td>
+<td colspan="6">444</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)»</td>
+<td colspan="6">6 214 133</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы»</td>
+<td colspan="6">9 036 931</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Кызылорда - Павлодар - Успенка - гр. РФ» участок «Кызылорда-Жезказган» км 12-424, протяженностью 412 км</td>
+<td colspan="6">36 663</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Атырау - Уральск»</td>
+<td colspan="6">365 463</td>
+<td colspan="6">544 758</td>
+<td colspan="3">3 738 791</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Разработка проектно-сметной документации по проекту «Центр - Запад»</td>
+<td colspan="6">8 654</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги «Уральск - Оренбург» участок «Подстепное - Федоровка - гр РФ. (на Илек)» протяженностью 144 км</td>
+<td colspan="6">9 111</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Караганды-Аягоз-Тарбагатай-Бугаз» участок «Караганды-Аягоз»</td>
+<td colspan="6">50 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги «Актобе-Карабутак-Улгайсын»</td>
+<td colspan="6">50 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Семей-Усть-Каменогорск» протяженностью 195 км»</td>
+<td colspan="6">50 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Кызылорда-Павлодар-Успенка-гр. РФ» участок «Жезказган-Караганды»</td>
+<td colspan="6">50 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5">016</td>
+<td></td>
+<td></td>
+<td colspan="9">За счет софинансирования внешних займов из республиканского бюджета</td>
+<td colspan="6">9 799 286</td>
+<td colspan="6">4 800 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Прочие</td>
+<td colspan="6">9 799 286</td>
+<td colspan="6">4 800 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы международного транзитного коридора «Западная Европа-Западный Китай»</td>
+<td colspan="6">185 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Узынагаш-Отар»</td>
+<td colspan="6">1 485 000</td>
+<td colspan="6">300 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана-Караганда-Балхаш-Курты-Капшагай-Алматы» участок «Курты-Бурылбайтал»</td>
+<td colspan="6">924 000</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Балхаш - Бурылбайтал»</td>
+<td colspan="6">5 550 000</td>
+<td colspan="6">4 500 000</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск)-Актобе-Атырау-гр. РФ (на Астрахань)» участок «Кандыагаш-Макат»</td>
+<td colspan="6">1 655 286</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="55">Исключены постановлением Правительства РК 09.12.2021 № 873 (вводится в действие с 01.01.2021).</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3">240</td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Строительство и реконструкция пунктов пропуска через Государственную границу Республики Казахстан</td>
+<td colspan="6">833 538</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Прочие</td>
+<td colspan="6">833 538</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Строительство, расширение и реконструкция пункта пропуска «Кордай» таможни «Кордай» на территории Кордайского сельского округа Кордайского района Жамбылской области</td>
+<td colspan="6">268 139</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательские работы и строительство пункта пропуска «Бесагаш» Жамбылской области</td>
+<td colspan="6">481 080</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Таскала» на казахстанско-российской границе</td>
+<td colspan="6">13 337</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Сырым» на казахстанско-российской границе</td>
+<td colspan="6">13 359</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательные работы, реконструкция и модернизация автомобильного пункта пропуска «Урлитобе» на казахстанско-российской границе</td>
+<td colspan="6">15 124</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Алимбет» на казахстанско-российской границе</td>
+<td colspan="6">15 890</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Жана Жол» на казахстанско-российской границе</td>
+<td colspan="6">9 983</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Проектно-изыскательские работы, реконструкция и модернизация автомобильного пункта пропуска «Косак» на казахстанско-российской границе</td>
+<td colspan="6">16 626</td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12">13</td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Прочие</td>
+<td colspan="6">38 489 532</td>
 <td colspan="6">26 174 905</td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
+<td colspan="8">694</td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Управление Делами Президента Республики Казахстан</td>
+<td colspan="6">38 489 532</td>
+<td colspan="6">26 174 905</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3">008</td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">Строительство и реконструкция объектов Управления Делами Президента Республики Казахстан</td>
+<td colspan="6">38 489 532</td>
+<td colspan="6">26 174 905</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">в том числе инвестиционные проекты:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
+<td></td>
+<td colspan="9">город Нур-Султан</td>
+<td colspan="6">38 489 532</td>
+<td colspan="6">26 174 905</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="12"></td>
+<td></td>
+<td colspan="8"></td>
+<td colspan="3"></td>
+<td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Для служебного пользования</td>
-<td colspan="6">9 311 084</td>
+<td colspan="6">9 309 091</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
+<td></td>
 <td colspan="9">Дипломатический городок в городе Астане. Корректировка</td>
-<td colspan="6">5 521 586</td>
+<td colspan="6">5 408 580</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство стационарно-лечебного корпуса на 200 коечных мест для РГП «Больница Медицинского центра Управления Делами Президента Республики Казахстан». Корректировка</td>
 <td colspan="6">13 562 035</td>
@@ -3461,9 +3550,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство административного здания по проспекту Туран в городе Нур-Султане</td>
 <td colspan="6"></td>
@@ -3472,9 +3563,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство здания Конституционного Совета Республики Казахстан в городе Нур-Султане</td>
 <td colspan="6">7 728 215</td>
@@ -3483,9 +3576,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство кабельной линии 10 кВ для присоединения объекта РГП «Больница Медицинского центра Управления Делами Президента РК» к электрическим сетям подстанции 110/10/6 кВ «Насосная»</td>
 <td colspan="6">31 781</td>
@@ -3494,20 +3589,24 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
+<td></td>
 <td colspan="9">Строительство сетей 10 кВ для резервного электроснабжения объектов Правительственного центра (Резиденция Президента РК «Акорда», Сенат Парламента, Мажилис Парламента, Дом Министерств, Дом Правительства и Верховный Суд) в районе Есиль</td>
-<td colspan="6">788 395</td>
+<td colspan="6">750 020</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство сетей резервного электроснабжения объектов, расположенных в жилых массивах Чубары и Караоткель, в районе Есиль</td>
 <td colspan="6">48 802</td>
@@ -3516,9 +3615,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство сетей резервного электроснабжения существующего АБК, расположенного по адресу: район Есиль, жилой массив Караоткель, здание № 30а</td>
 <td colspan="6">130 495</td>
@@ -3527,9 +3628,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Разработка ПСД «Реконструкция детского сада на 160 мест для РГП «Детский сад «Қарлығаш» Медицинского центра Управления Делами Президента Республики Казахстан»</td>
 <td colspan="6">6 358</td>
@@ -3538,20 +3641,27 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
 <td></td>
+<td></td>
 <td colspan="9">Дипломатический городок в городе Нур-Султане. II очередь</td>
-<td colspan="6">1 481 451</td>
+<td colspan="6">1 347 023</td>
 <td colspan="6"></td>
 <td colspan="3"></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
+<td></td>
 <td></td>
 <td colspan="9">Строительство сетей 10 кВ для резервного электроснабжения объекта «Министерство финансов», расположенного по пр. Женис, 11</td>
 <td colspan="6">159 044</td>
@@ -3560,9 +3670,11 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="53">Сноска. Исключен постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).</td>
+<td></td>
 </tr>
 <tr>
 <td colspan="12"></td>
+<td></td>
 <td colspan="8"></td>
 <td colspan="3"></td>
 <td colspan="5"></td>
@@ -3573,11 +3685,13 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="26">Функциональная группа</td>
+<td></td>
 <td colspan="9" rowspan="4">Наименование</td>
 <td colspan="17">Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="17">Администратор</td>
 <td colspan="6" rowspan="3">2021 год</td>
 <td colspan="6" rowspan="3">2022 год</td>
@@ -3585,17 +3699,20 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="13">Программа</td>
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9">Подпрограмма</td>
 </tr>
 <tr>
 <td colspan="4"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3607,6 +3724,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="4">1</td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3618,6 +3736,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="4"></td>
+<td></td>
 <td colspan="4">217</td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3629,6 +3748,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="4"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">006</td>
 <td colspan="9"></td>
@@ -3640,6 +3760,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9">8</td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3650,6 +3771,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4">240</td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3660,6 +3782,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">048</td>
 <td colspan="9"></td>
@@ -3670,6 +3793,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9">030</td>
@@ -3681,6 +3805,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">050</td>
 <td colspan="9"></td>
@@ -3691,6 +3816,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9">10</td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3701,6 +3827,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4">207</td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3711,6 +3838,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">241</td>
 <td colspan="9"></td>
@@ -3721,6 +3849,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9">11</td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3731,6 +3860,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4">211</td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3741,6 +3871,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">245</td>
 <td colspan="9"></td>
@@ -3751,6 +3882,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9">030</td>
@@ -3762,6 +3894,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9">12</td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3772,6 +3905,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4">249</td>
 <td colspan="4"></td>
 <td colspan="9"></td>
@@ -3782,6 +3916,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="9"></td>
+<td></td>
 <td colspan="4"></td>
 <td colspan="4">021</td>
 <td colspan="9"></td>
@@ -3790,13 +3925,18 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td colspan="24">Функциональная группа</td>
+<td></td>
 <td colspan="9" rowspan="4">Наименование</td>
 <td colspan="18">Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="19">Администратор</td>
 <td colspan="6" rowspan="3">2021 год</td>
 <td colspan="6" rowspan="3">2022 год</td>
@@ -3804,100 +3944,108 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="14">Программа</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">Подпрограмма</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">III. Целевые трансферты на развитие</td>
-<td colspan="6">146 301 583</td>
+<td colspan="6">141 910 897</td>
 <td colspan="6">142 349 528</td>
 <td colspan="6">50 668 186</td>
 </tr>
 <tr>
 <td colspan="5">2</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Оборона</td>
-<td colspan="6">5 433 496</td>
+<td colspan="6">4 218 706</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">202</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Министерство по чрезвычайным ситуациям Республики Казахстан</td>
-<td colspan="6">5 433 496</td>
+<td colspan="6">4 218 706</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">006</td>
 <td colspan="10"></td>
 <td colspan="9">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
-<td colspan="6">5 433 496</td>
+<td colspan="6">4 218 706</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">101</td>
 <td colspan="9">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения и столицы на проведение работ по инженерной защите населения, объектов и территорий от природных стихийных бедствий</td>
-<td colspan="6">5 433 496</td>
+<td colspan="6">4 218 706</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
-<td></td>
-<td colspan="8">в том числе по регионам:</td>
+<td colspan="9">в том числе по регионам:</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
-<td></td>
-<td colspan="8">Атырауская область</td>
-<td colspan="6">3 174 344</td>
+<td colspan="9">Атырауская область</td>
+<td colspan="6">2 090 754</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
-<td></td>
-<td colspan="8">Западно-Казахстанская область</td>
-<td colspan="6">1 418 689</td>
+<td colspan="9">Западно-Казахстанская область</td>
+<td colspan="6">1 198 689</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -3909,17 +4057,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">город Нур-Султан</td>
-<td colspan="6">400 000</td>
+<td colspan="6">118 800</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5">4</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -3930,6 +4080,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">225</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -3940,6 +4091,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">204</td>
 <td colspan="10"></td>
@@ -3950,6 +4102,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">123</td>
@@ -3961,6 +4114,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -3972,6 +4126,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -3983,6 +4138,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">232</td>
 <td colspan="10"></td>
@@ -3993,6 +4149,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4004,6 +4161,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4015,6 +4173,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">5</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4026,6 +4185,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">213</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4037,6 +4197,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">058</td>
 <td colspan="10"></td>
@@ -4048,6 +4209,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">106</td>
@@ -4059,6 +4221,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4070,6 +4233,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4081,6 +4245,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4092,6 +4257,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">226</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4102,6 +4268,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">053</td>
 <td colspan="10"></td>
@@ -4112,6 +4279,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">113</td>
@@ -4123,6 +4291,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4134,6 +4303,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4145,6 +4315,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4156,26 +4327,29 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">7</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Жилищно-коммунальное хозяйство</td>
-<td colspan="6">41 997 514</td>
+<td colspan="6">40 605 986</td>
 <td colspan="6">45 025 873</td>
 <td colspan="6">6 405 455</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">249</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
-<td colspan="6">41 997 514</td>
+<td colspan="6">40 605 986</td>
 <td colspan="6">45 025 873</td>
 <td colspan="6">6 405 455</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">007</td>
 <td colspan="10"></td>
@@ -4186,6 +4360,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">030</td>
@@ -4197,6 +4372,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4208,6 +4384,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4219,6 +4396,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">020</td>
 <td colspan="10"></td>
@@ -4229,6 +4407,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4240,6 +4419,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4251,6 +4431,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4262,16 +4443,18 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">228</td>
 <td colspan="10"></td>
 <td colspan="9">Реализация мероприятий в области жилищного строительства в рамках Государственной программы жилищно-коммунального развития «Нұрлы жер» на 2020 – 2025 годы</td>
-<td colspan="6">6 595 503</td>
+<td colspan="6">6 531 337</td>
 <td colspan="6">17 630 175</td>
 <td colspan="6">2 910 261</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">100</td>
@@ -4283,6 +4466,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4294,6 +4478,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4305,6 +4490,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4316,6 +4502,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4327,6 +4514,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4338,6 +4526,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4349,6 +4538,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4360,6 +4550,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4371,6 +4562,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4382,6 +4574,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4393,6 +4586,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4404,6 +4598,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4415,6 +4610,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4426,6 +4622,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4437,6 +4634,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4448,6 +4646,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4459,6 +4658,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4470,17 +4670,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">101</td>
 <td></td>
 <td colspan="8">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td colspan="6">3 795 503</td>
+<td colspan="6">3 731 337</td>
 <td colspan="6">7 562 606</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4492,6 +4694,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4503,6 +4706,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4514,6 +4718,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4525,6 +4730,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4536,6 +4742,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4547,6 +4754,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4558,6 +4766,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4569,6 +4778,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4580,27 +4790,30 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">229</td>
 <td colspan="10"></td>
 <td colspan="9">Реализация мероприятий в области жилищно-коммунального хозяйства в рамках Государственной программы жилищно-коммунального развития «Нұрлы жер» на 2020 – 2025 годы</td>
-<td colspan="6">28 522 584</td>
+<td colspan="6">27 500 957</td>
 <td colspan="6">26 568 094</td>
 <td colspan="6">3 495 194</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">100</td>
 <td></td>
 <td colspan="8">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие системы водоснабжения и водоотведения в городах</td>
-<td colspan="6">5 191 329</td>
+<td colspan="6">4 846 031</td>
 <td colspan="6">17 090 638</td>
 <td colspan="6">2 762 559</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4612,6 +4825,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4623,6 +4837,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4634,6 +4849,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4645,17 +4861,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Карагандинская область</td>
-<td colspan="6">789 045</td>
+<td colspan="6">443 747</td>
 <td colspan="6">1 760 368</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4667,6 +4885,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4678,6 +4897,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4689,6 +4909,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4700,17 +4921,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">101</td>
 <td></td>
 <td colspan="8">Целевые трансферты на развитие областным бюджетам на развитие системы водоснабжения и водоотведения в сельских населенных пунктах</td>
-<td colspan="6">4 009 940</td>
+<td colspan="6">3 333 611</td>
 <td colspan="6">9 477 456</td>
 <td colspan="6">732 635</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4722,6 +4945,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4733,17 +4957,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Актюбинская область</td>
-<td colspan="6">684 531</td>
+<td colspan="6">584 531</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4755,17 +4981,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Восточно-Казахстанская область</td>
-<td colspan="6">1 667 525</td>
+<td colspan="6">1 205 725</td>
 <td colspan="6">2 628 443</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4777,6 +5005,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4788,6 +5017,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4799,6 +5029,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4810,17 +5041,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Павлодарская область</td>
-<td colspan="6">500 000</td>
+<td colspan="6">385 471</td>
 <td colspan="6">2 083 281</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4832,6 +5065,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4843,6 +5077,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">107</td>
@@ -4854,6 +5089,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4865,6 +5101,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4876,16 +5113,18 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">234</td>
 <td colspan="10"></td>
 <td colspan="9">Целевые трансферты на развитие областному бюджету Акмолинской области на строительство и реконструкцию систем водоснабжения и водоотведения Щучинско-Боровской курортной зоны</td>
-<td colspan="6">1 330 367</td>
+<td colspan="6">1 197 330</td>
 <td colspan="6">827 604</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4897,38 +5136,42 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Акмолинская область</td>
-<td colspan="6">1 330 367</td>
+<td colspan="6">1 197 330</td>
 <td colspan="6">827 604</td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">235</td>
 <td colspan="10"></td>
 <td colspan="9">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие систем водоснабжения и водоотведения в рамках Государственной программы развития туристской отрасли Республики Казахстан на 2019 – 2025 годы</td>
-<td colspan="6">1 712 203</td>
+<td colspan="6">1 539 505</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">030</td>
 <td></td>
 <td colspan="8">За счет средств республиканского бюджета</td>
-<td colspan="6">1 712 203</td>
+<td colspan="6">1 539 505</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4940,17 +5183,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Алматинская область</td>
-<td colspan="6">1 712 203</td>
+<td colspan="6">1 539 505</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5">8</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4961,6 +5206,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">240</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -4971,6 +5217,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">033</td>
 <td colspan="10"></td>
@@ -4981,6 +5228,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">132</td>
@@ -4992,6 +5240,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5003,6 +5252,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5014,6 +5264,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5025,6 +5276,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">036</td>
 <td colspan="10"></td>
@@ -5035,6 +5287,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">112</td>
@@ -5046,6 +5299,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5057,6 +5311,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5068,28 +5323,31 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">9</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Топливно-энергетический комплекс и недропользование</td>
-<td colspan="6">24 219 799</td>
+<td colspan="6">23 584 799</td>
 <td colspan="6">31 138 251</td>
 <td colspan="6">19 173 012</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">241</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Министерство энергетики Республики Казахстан</td>
-<td colspan="6">24 219 799</td>
+<td colspan="6">23 584 799</td>
 <td colspan="6">31 138 251</td>
 <td colspan="6">19 173 012</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">003</td>
 <td colspan="10"></td>
@@ -5100,6 +5358,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">030</td>
@@ -5111,6 +5370,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5122,6 +5382,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5133,6 +5394,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5144,6 +5406,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5155,6 +5418,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5166,6 +5430,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5177,6 +5442,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5188,6 +5454,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5199,6 +5466,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5210,27 +5478,30 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">041</td>
 <td colspan="10"></td>
 <td colspan="9">Развитие тепло-, электроэнергетики</td>
-<td colspan="6">12 530 081</td>
+<td colspan="6">11 895 081</td>
 <td colspan="6">5 271 000</td>
 <td colspan="6">4 390 404</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">101</td>
 <td></td>
 <td colspan="8">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие теплоэнергетической системы</td>
-<td colspan="6">12 530 081</td>
+<td colspan="6">11 895 081</td>
 <td colspan="6">5 271 000</td>
 <td colspan="6">4 390 404</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5242,6 +5513,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5253,6 +5525,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5264,6 +5537,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5275,6 +5549,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5286,17 +5561,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Туркестанская область</td>
-<td colspan="6">1 644 652</td>
+<td colspan="6">1 009 652</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5308,6 +5585,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5319,6 +5597,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">10</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5330,6 +5609,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">207</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5341,6 +5621,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">037</td>
 <td colspan="10"></td>
@@ -5351,6 +5632,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">105</td>
@@ -5362,6 +5644,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5373,6 +5656,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5384,6 +5668,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">254</td>
 <td colspan="10"></td>
@@ -5395,6 +5680,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">115</td>
@@ -5406,6 +5692,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5417,6 +5704,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5428,6 +5716,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5439,6 +5728,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5450,6 +5740,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5461,6 +5752,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">11</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5471,6 +5763,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">249</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5481,6 +5774,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">090</td>
 <td colspan="10"></td>
@@ -5491,6 +5785,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">109</td>
@@ -5502,6 +5797,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5513,6 +5809,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5524,36 +5821,40 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">12</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Транспорт и коммуникации</td>
-<td colspan="6">47 314 740</td>
+<td colspan="6">46 165 372</td>
 <td colspan="6">49 047 144</td>
 <td colspan="6">25 089 719</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">249</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td colspan="9">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
-<td colspan="6">47 314 740</td>
+<td colspan="6">46 165 372</td>
 <td colspan="6">49 047 144</td>
 <td colspan="6">25 089 719</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">091</td>
 <td colspan="10"></td>
 <td colspan="9">Ремонт и организация содержания, направленная на улучшение качества автомобильных дорог общего пользования</td>
-<td colspan="6">31 592 964</td>
+<td colspan="6">30 443 596</td>
 <td colspan="6">39 047 144</td>
 <td colspan="6">15 089 719</td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">103</td>
@@ -5565,6 +5866,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5576,6 +5878,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5587,6 +5890,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5598,6 +5902,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5609,6 +5914,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5620,6 +5926,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5631,6 +5938,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5642,6 +5950,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5653,6 +5962,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5664,6 +5974,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5675,17 +5986,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">110</td>
 <td></td>
 <td colspan="8">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие транспортной инфраструктуры за счет средств республиканского бюджета</td>
-<td colspan="6">31 592 964</td>
+<td colspan="6">30 443 596</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5697,28 +6010,31 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Акмолинская область</td>
-<td colspan="6">690 000</td>
+<td colspan="6">672 537</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">Актюбинская область</td>
-<td colspan="6">2 005 619</td>
+<td colspan="6">1 733 714</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5730,6 +6046,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5741,6 +6058,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5752,6 +6070,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5763,6 +6082,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5774,6 +6094,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5785,6 +6106,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5796,6 +6118,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5807,6 +6130,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5818,17 +6142,19 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
 <td></td>
 <td colspan="8">город Алматы</td>
-<td colspan="6">11 631 714</td>
+<td colspan="6">10 771 714</td>
 <td colspan="6"></td>
 <td colspan="6"></td>
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5840,6 +6166,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">093</td>
 <td colspan="10"></td>
@@ -5850,6 +6177,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">104</td>
@@ -5861,6 +6189,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5872,6 +6201,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5883,6 +6213,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">213</td>
 <td colspan="10"></td>
@@ -5893,6 +6224,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">102</td>
@@ -5904,6 +6236,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5915,6 +6248,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5926,6 +6260,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5">13</td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5937,6 +6272,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5">243</td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5948,6 +6284,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">082</td>
 <td colspan="10"></td>
@@ -5959,6 +6296,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">100</td>
@@ -5970,6 +6308,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5981,6 +6320,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -5992,6 +6332,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6003,6 +6344,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6014,6 +6356,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6025,6 +6368,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">102</td>
@@ -6036,6 +6380,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6047,6 +6392,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6058,6 +6404,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6069,6 +6416,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6080,6 +6428,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6091,6 +6440,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">107</td>
@@ -6102,6 +6452,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6113,6 +6464,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6124,6 +6476,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6135,6 +6488,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">108</td>
@@ -6146,6 +6500,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6157,6 +6512,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6168,6 +6524,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6179,6 +6536,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6190,6 +6548,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6201,6 +6560,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6212,6 +6572,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6223,6 +6584,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6234,6 +6596,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6245,6 +6608,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">087</td>
 <td colspan="10"></td>
@@ -6256,6 +6620,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">105</td>
@@ -6267,6 +6632,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6278,6 +6644,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6289,6 +6656,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6300,6 +6668,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6311,6 +6680,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4">160</td>
 <td colspan="10"></td>
@@ -6321,6 +6691,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10">030</td>
@@ -6332,6 +6703,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6343,6 +6715,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6354,6 +6727,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6365,6 +6739,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6376,6 +6751,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 </tr>
 <tr>
 <td colspan="5"></td>
+<td></td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 <td colspan="10"></td>
@@ -6385,9 +6761,6 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="6">2 036 871</td>
 <td colspan="6"></td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="21">Функциональная группа</td>
 <td colspan="11" rowspan="4">Наименование</td>
@@ -6417,7 +6790,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td colspan="10"></td>
 <td colspan="11">IV. Кредиты</td>
-<td colspan="5">63 738 628</td>
+<td colspan="5">63 703 853</td>
 <td colspan="6">12 000 000</td>
 <td colspan="5"></td>
 </tr>
@@ -6427,7 +6800,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td colspan="10"></td>
 <td colspan="11">Жилищно-коммунальное хозяйство</td>
-<td colspan="5">1 038 628</td>
+<td colspan="5">1 003 853</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
@@ -6479,7 +6852,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5"></td>
 <td colspan="10"></td>
 <td colspan="11">Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
-<td colspan="5">1 000 688</td>
+<td colspan="5">965 913</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
@@ -6489,7 +6862,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="5">224</td>
 <td colspan="10"></td>
 <td colspan="11">Кредитование областных бюджетов, бюджетов городов республиканского значения, столицы на реконструкцию и строительство систем тепло-, водоснабжения и водоотведения</td>
-<td colspan="5">1 000 688</td>
+<td colspan="5">965 913</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
@@ -6500,7 +6873,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="10">030</td>
 <td></td>
 <td colspan="10">За счет средств республиканского бюджета</td>
-<td colspan="5">1 000 688</td>
+<td colspan="5">965 913</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
@@ -6522,7 +6895,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td colspan="10"></td>
 <td></td>
 <td colspan="10">Карагандинская область</td>
-<td colspan="5">1 000 688</td>
+<td colspan="5">965 913</td>
 <td colspan="6"></td>
 <td colspan="5"></td>
 </tr>
@@ -10357,7 +10730,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
 ## Перечень приоритетных республиканских бюджетных инвестиций министерств по чрезвычайным ситуациям, обороны, индустрии и инфраструктурного развития, Управления Делами Президента Республики Казахстан
 
-> *Сноска. Приложение 2 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 2 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021);от10.11.2021 № 807 (вводится вдействие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -10382,6 +10755,9 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <td></td>
 <td></td>
 <td>Подпрограмма</td>
+</tr>
+<tr>
+<td colspan="9">__________________________________________________</td>
 </tr>
 </table>
 
@@ -10701,7 +11077,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на передачу функций охраны объектов в конкурентную среду
 
-> *Сноска. Постановление дополнено приложением 2-2 в соответствии с постановлением Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Постановление дополнено приложением 2-2 в соответствии с постановлением Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -10712,7 +11088,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <tr>
 <td></td>
 <td>Всего</td>
-<td>41 627</td>
+<td>42 131</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -10722,7 +11098,7 @@ source: https://zan.gov.kz/client/#!/doc/150021/rus/10.11.2021
 <tr>
 <td>2.</td>
 <td>Восточно-Казахстанская область</td>
-<td>12 627</td>
+<td>13 131</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -10998,7 +11374,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы медицинских работников из числа гражданских служащих органов внутренних дел
 
-> *Сноска. Постановление дополнено приложением 2-7 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Постановление дополнено приложением 2-7 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); в редакции постановлений Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021№ 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11009,7 +11385,7 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>82 779</th>
+<th>75 924</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11024,12 +11400,12 @@ ____________________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>3 276</td>
+<td>3 155</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>3 967</td>
+<td>3 917</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -11039,27 +11415,27 @@ ____________________________________
 <tr>
 <td>6.</td>
 <td>Западно-Казахстанская область</td>
-<td>5 340</td>
+<td>4 940</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Карагандинская область</td>
-<td>15 750</td>
+<td>13 462</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Костанайская область</td>
-<td>2 343</td>
+<td>1 803</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Кызылординская область</td>
-<td>9 385</td>
+<td>8 719</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Мангистауская область</td>
-<td>4 504</td>
+<td>3 939</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -11069,7 +11445,7 @@ ____________________________________
 <tr>
 <td>12.</td>
 <td>Северо-Казахстанская область</td>
-<td>6 431</td>
+<td>5 966</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -11084,16 +11460,22 @@ ____________________________________
 <tr>
 <td>15.</td>
 <td>Город Шымкент</td>
-<td>3 410</td>
+<td>1 650</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
 <td>1 797</td>
 </tr>
+<tr>
+<td colspan="3">__________________________________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
-
-_________________________
 
 > *Приложение 3*  
 > *к постановлению Правительства*  
@@ -11103,7 +11485,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на возмещение части расходов, понесенных субъектом агропромышленного комплекса, при инвестиционных вложениях
 
-> *Сноска. Приложение 3 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменением, внесенным постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 3 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11114,17 +11496,17 @@ _________________________
 <tr>
 <td></td>
 <td colspan="3">Всего</td>
-<td colspan="2">107 361 477</td>
+<td colspan="2">104 436 877</td>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="3">Акмолинская область</td>
-<td colspan="2">14 323 000</td>
+<td colspan="2">14 196 600</td>
 </tr>
 <tr>
 <td>2.</td>
 <td colspan="3">Актюбинская область</td>
-<td colspan="2">3 716 700</td>
+<td colspan="2">3 350 700</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -11134,7 +11516,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td colspan="3">Атырауская область</td>
-<td colspan="2">485 000</td>
+<td colspan="2">275 000</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -11169,12 +11551,12 @@ _________________________
 <tr>
 <td>11.</td>
 <td colspan="3">Мангистауская область</td>
-<td colspan="2">1 068 918</td>
+<td colspan="2">157 247</td>
 </tr>
 <tr>
 <td>12.</td>
 <td colspan="3">Павлодарская область</td>
-<td colspan="2">9 800 000</td>
+<td colspan="2">8 900 000</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -11184,7 +11566,7 @@ _________________________
 <tr>
 <td>14.</td>
 <td colspan="3">Туркестанская область</td>
-<td colspan="2">11 028 285</td>
+<td colspan="2">10 728 285</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -11199,7 +11581,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td colspan="3">Город Шымкент</td>
-<td colspan="2">230 387</td>
+<td colspan="2">119 858</td>
 </tr>
 <tr>
 <td colspan="6">_________________________</td>
@@ -11255,7 +11637,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование процентной ставки по кредитным и лизинговым обязательствам в рамках направления по финансовому оздоровлению субъектов агропромышленного комплекса
 
-> *Сноска. Приложение 5 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменением, внесенным постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 5 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11266,7 +11648,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>690 585</td>
+<td>670 942</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11276,7 +11658,7 @@ _________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>22 632</td>
+<td>10 586</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -11291,7 +11673,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Карагандинская область</td>
-<td>80 574</td>
+<td>73 130</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -11301,7 +11683,7 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Павлодарская область</td>
-<td>502</td>
+<td>349</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -11326,7 +11708,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование ставок вознаграждения при кредитовании, а также лизинге на приобретение сельскохозяйственных животных, техники и технологического оборудования
 
-> *Сноска. Приложение 6 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 6 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11342,8 +11724,8 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>54 437 319</td>
-<td>32 653 578</td>
+<td>52 457 299</td>
+<td>30 673 558</td>
 <td>21 783 741</td>
 </tr>
 <tr>
@@ -11370,15 +11752,15 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>449 229</td>
-<td>206 185</td>
+<td>419 209</td>
+<td>176 165</td>
 <td>243 044</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>5 543 764</td>
-<td>3 689 109</td>
+<td>4 543 764</td>
+<td>2 689 109</td>
 <td>1 854 655</td>
 </tr>
 <tr>
@@ -11391,8 +11773,8 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>2 994 032</td>
-<td>1 864 016</td>
+<td>2 794 032</td>
+<td>1 664 016</td>
 <td>1 130 016</td>
 </tr>
 <tr>
@@ -11412,22 +11794,22 @@ _________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>2 566 474</td>
-<td>1 817 558</td>
+<td>2 366 474</td>
+<td>1 617 558</td>
 <td>748 916</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>260 307</td>
-<td>140 949</td>
+<td>160 307</td>
+<td>40 949</td>
 <td>119 358</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Павлодарская область</td>
-<td>5 285 801</td>
-<td>2 711 962</td>
+<td>4 835 801</td>
+<td>2 261 962</td>
 <td>2 573 839</td>
 </tr>
 <tr>
@@ -11506,7 +11888,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование стоимости пестицидов, биоагентов (энтомофагов), предназначенных для проведения обработки против вредных и особо опасных вредных организмов с численностью выше экономического порога вредоносности и карантинных объектов
 
-> *Сноска. Приложение 8 с изменениями, внесенными постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 8 с изменениями, внесенными постановлениями Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11517,7 +11899,7 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>2 048 920</th>
+<th>2 037 473</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11582,7 +11964,7 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Туркестанская область</td>
-<td>135 203</td>
+<td>123 756</td>
 </tr>
 </table>
 
@@ -11596,28 +11978,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на возмещение физическим и юридическим лицам затрат на закладку и выращивание уничтоженных плодово-ягодных культур, зараженных бактериальным ожогом плодовых
 
-> *Сноска. Приложение 9 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
-
-<table>
-<tr>
-<td>№ п/п</td>
-<td>Наименование области</td>
-<td>Сумма, тыс. тенге</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Всего</td>
-<td>22 969</td>
-</tr>
-<tr>
-<td>1.</td>
-<td>Жамбылская область</td>
-<td>22 969</td>
-</tr>
-<tr>
-<td colspan="3">_________________________</td>
-</tr>
-</table>
+*Сноска. Приложение 9 исключено постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 > *Приложение 9-1*  
 > *к постановлению Правительства*  
@@ -11739,7 +12100,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на выплату государственной адресной социальной помощи
 
-> *Сноска. Приложение 10 в редакции постановлений Правительства РК от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 10 в редакции постановлений Правительства РК от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11755,9 +12116,9 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>78 829 742</th>
-<th>58 242 546</th>
-<th>20 587 196</th>
+<th>77 538 372</th>
+<th>57 550 945</th>
+<th>19 987 427</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11769,44 +12130,44 @@ ____________________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>1 563 904</td>
-<td>1 159 540</td>
-<td>404 364</td>
+<td>1 559 773</td>
+<td>1 158 526</td>
+<td>401 247</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>8 786 016</td>
-<td>6 649 209</td>
-<td>2 136 807</td>
+<td>8 619 641</td>
+<td>6 653 458</td>
+<td>1 966 183</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>612 508</td>
-<td>508 057</td>
-<td>104 451</td>
+<td>536 173</td>
+<td>441 421</td>
+<td>94 752</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>4 592 594</td>
+<td>4 590 354</td>
 <td>3 897 718</td>
-<td>694 876</td>
+<td>692 636</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>4 975 301</td>
-<td>3 068 044</td>
-<td>1 907 257</td>
+<td>4 775 351</td>
+<td>2 914 457</td>
+<td>1 860 894</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>1 474 503</td>
-<td>1 184 389</td>
-<td>290 114</td>
+<td>1 462 690</td>
+<td>1 178 146</td>
+<td>284 544</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -11818,16 +12179,16 @@ ____________________________________
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>1 573 309</td>
+<td>1 564 619</td>
 <td>1 270 570</td>
-<td>302 739</td>
+<td>294 049</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>6 048 255</td>
+<td>5 890 453</td>
 <td>4 462 295</td>
-<td>1 585 960</td>
+<td>1 428 158</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -11846,41 +12207,42 @@ ____________________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>754 555</td>
+<td>753 473</td>
 <td>639 697</td>
-<td>114 858</td>
+<td>113 776</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>19 409 368</td>
+<td>19 335 268</td>
 <td>12 294 689</td>
-<td>7 114 679</td>
+<td>7 040 579</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
 <td>2 048 914</td>
-<td>1 721 509</td>
-<td>327 405</td>
+<td>1 729 325</td>
+<td>319 589</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>2 334 292</td>
-<td>2 045 786</td>
-<td>288 506</td>
+<td>2 253 563</td>
+<td>1 988 857</td>
+<td>264 706</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>18 947 457</td>
-<td>14 545 289</td>
-<td>4 402 168</td>
+<td>18 439 334</td>
+<td>14 126 032</td>
+<td>4 313 302</td>
+</tr>
+<tr>
+<td colspan="5">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Приложение 11*  
 > *к постановлению Правительства*  
@@ -11944,7 +12306,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на размещение государственного социального заказа в неправительственных организациях
 
-> *Сноска. Приложение 12 в редакции постановлений Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 12 в редакции постановлений Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -11955,12 +12317,12 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>1 651 788</th>
+<th>1 645 950</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>194 905</td>
+<td>194 889</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -11970,7 +12332,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>154 532</td>
+<td>153 498</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -11995,12 +12357,12 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Костанайская область</td>
-<td>97 048</td>
+<td>97 036</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Кызылординская область</td>
-<td>87 362</td>
+<td>85 631</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -12020,7 +12382,7 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Туркестанская область</td>
-<td>127 279</td>
+<td>124 234</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -12049,16 +12411,22 @@ _________________________
 > *Республики Казахстан*  
 > *от 10 декабря 2020 года № 840*
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение прав и улучшение качества жизни инвалидов в Республике Казахстан
 
-> *Сноска. Приложение 13 в редакции постановлений Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 13 в редакции постановлений Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
 <td rowspan="2">№ п/п</td>
 <td rowspan="2">Наименование областей и городов</td>
 <td rowspan="2">Сумма, тыс. тенге</td>
-<td colspan="12">в том числе:</td>
+<td colspan="6">в том числе:</td>
 </tr>
 <tr>
 <td>установка дорожных знаков и указателей в местах расположения организаций, ориентированных на обслуживание инвалидов</td>
@@ -12067,148 +12435,94 @@ _________________________
 <td>увеличение норм обеспечения инвалидов обязательными гигиеническими средствами</td>
 <td>оказание услуг специалиста жестового языка</td>
 <td>расширение перечня технических вспомогательных (компенсаторных) средств</td>
-<td>обеспечение катетерами одноразового использования детей инвалидов с диагнозом Spina bifida</td>
-<td>Протезно-ортопедические средства</td>
-<td>Сурдотехнические средства</td>
-<td>Тифлотехнические средства</td>
-<td>Специальные средства передвижения (кресло-коляски)</td>
-<td>Санаторно-курортное лечение</td>
 </tr>
 <tr>
 <th></th>
 <th>Всего</th>
-<th>14 580 286</th>
+<th>14 279 153</th>
 <th>49</th>
 <th>62</th>
-<th>66 791</th>
-<th>4 113 383</th>
-<th>947 298</th>
-<th>2 613 455</th>
-<th>21 820</th>
-<th>586 982</th>
-<th>564 899</th>
-<th>2 603 904</th>
-<th>509 047</th>
-<th>2 552 596</th>
+<th>65 407</th>
+<th>4 069 519</th>
+<th>947 409</th>
+<th>2 555 856</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>478 343</td>
+<td>464 335</td>
 <td>0</td>
 <td>0</td>
-<td>1 384</td>
-<td>167 607</td>
+<td>0</td>
+<td>164 313</td>
 <td>33 606</td>
-<td>64 743</td>
-<td>1 396</td>
-<td>37 792</td>
-<td>7 141</td>
-<td>48 014</td>
-<td>21 578</td>
-<td>95 082</td>
+<td>63 581</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>585 297</td>
+<td>552 072</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>135 816</td>
+<td>125 974</td>
 <td>14 344</td>
-<td>71 282</td>
-<td>1 536</td>
-<td>10 147</td>
-<td>33 284</td>
-<td>195 214</td>
-<td>15 321</td>
-<td>102 400</td>
+<td>70 366</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>1 151 521</td>
+<td>988 741</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
 <td>256 819</td>
 <td>60 244</td>
 <td>200 766</td>
-<td>1 209</td>
-<td>13 989</td>
-<td>78 160</td>
-<td>321 135</td>
-<td>52 274</td>
-<td>160 972</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>134 254</td>
+<td>113 033</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>70 910</td>
+<td>52 850</td>
 <td>18 000</td>
-<td>38 609</td>
-<td>782</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
+<td>35 448</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>949 478</td>
+<td>945 803</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>359 255</td>
+<td>356 610</td>
 <td>55 910</td>
-<td>135 720</td>
-<td>2 095</td>
-<td>36 341</td>
-<td>19 658</td>
-<td>137 721</td>
-<td>45 625</td>
-<td>151 200</td>
+<td>134 530</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>1 021 396</td>
+<td>1 007 499</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>279 495</td>
+<td>276 382</td>
 <td>79 827</td>
-<td>178 434</td>
-<td>177</td>
-<td>39 245</td>
-<td>39 955</td>
-<td>63 628</td>
-<td>22 910</td>
-<td>311 772</td>
+<td>167 650</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>554 000</td>
+<td>540 559</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>154 026</td>
+<td>147 577</td>
 <td>42 285</td>
-<td>87 963</td>
-<td>470</td>
-<td>19 032</td>
-<td>20 494</td>
-<td>102 832</td>
-<td>14 261</td>
-<td>106 684</td>
+<td>80 012</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -12220,63 +12534,39 @@ _________________________
 <td>356 334</td>
 <td>93 585</td>
 <td>204 193</td>
-<td>2 072</td>
-<td>17 086</td>
-<td>8 090</td>
-<td>411 279</td>
-<td>6 347</td>
-<td>100 430</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>571 948</td>
+<td>566 593</td>
 <td>0</td>
 <td>0</td>
 <td>2 498</td>
-<td>167 123</td>
+<td>164 491</td>
 <td>15 594</td>
-<td>127 454</td>
-<td>1 647</td>
-<td>10 271</td>
-<td>60 955</td>
-<td>99 422</td>
-<td>25 258</td>
-<td>61 726</td>
+<td>126 391</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>549 019</td>
+<td>546 646</td>
 <td>49</td>
 <td>62</td>
 <td>5 953</td>
-<td>221 268</td>
+<td>219 422</td>
 <td>49 878</td>
-<td>122 487</td>
-<td>821</td>
-<td>555</td>
-<td>0</td>
-<td>60 873</td>
-<td>13 858</td>
-<td>73 215</td>
+<td>123 061</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>788 305</td>
+<td>780 183</td>
 <td>0</td>
 <td>0</td>
 <td>5 953</td>
-<td>152 326</td>
+<td>149 205</td>
 <td>15 300</td>
-<td>103 767</td>
-<td>1 315</td>
-<td>40 404</td>
-<td>58 603</td>
-<td>279 744</td>
-<td>44 417</td>
-<td>86 476</td>
+<td>102 837</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -12285,49 +12575,31 @@ _________________________
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>238 373</td>
+<td>237 257</td>
 <td>81 478</td>
-<td>167 543</td>
-<td>770</td>
-<td>13 161</td>
-<td>30 668</td>
-<td>175 274</td>
-<td>40 291</td>
-<td>101 202</td>
+<td>167 699</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>628 390</td>
+<td>642 418</td>
 <td>0</td>
 <td>0</td>
 <td>1 731</td>
-<td>147 317</td>
-<td>33 347</td>
-<td>81 337</td>
-<td>1 023</td>
-<td>127 873</td>
-<td>22 507</td>
-<td>97 494</td>
-<td>45 172</td>
-<td>70 589</td>
+<td>151 648</td>
+<td>34 346</td>
+<td>85 695</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>2 298 798</td>
+<td>2 261 735</td>
 <td>0</td>
 <td>0</td>
 <td>4 800</td>
-<td>552 098</td>
-<td>111 586</td>
-<td>429 959</td>
-<td>4 657</td>
-<td>66 884</td>
-<td>82 416</td>
-<td>338 138</td>
-<td>90 518</td>
-<td>617 742</td>
+<td>556 021</td>
+<td>110 698</td>
+<td>395 002</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -12339,12 +12611,6 @@ _________________________
 <td>347 219</td>
 <td>119 532</td>
 <td>206 859</td>
-<td>420</td>
-<td>70 454</td>
-<td>89 675</td>
-<td>115 026</td>
-<td>26 999</td>
-<td>261 072</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -12356,6 +12622,163 @@ _________________________
 <td>213 703</td>
 <td>69 806</td>
 <td>167 483</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Город Шымкент</td>
+<td>890 507</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>293 694</td>
+<td>52 976</td>
+<td>224 283</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td colspan="6">в том числе:</td>
+</tr>
+<tr>
+<td>обеспечение катетерами одноразового использования детей инвалидов с диагнозом Spina bifida</td>
+<td>Протезно-ортопедические средства</td>
+<td>Сурдотехнические средства</td>
+<td>Тифлотехнические средства</td>
+<td>Специальные средства передвижения (кресло-коляски)</td>
+<td>Санаторно-курортное лечение</td>
+</tr>
+<tr>
+<th>21 587</th>
+<th>584 221</th>
+<th>541 298</th>
+<th>2 452 766</th>
+<th>507 970</th>
+<th>2 533 009</th>
+</tr>
+<tr>
+<td>1 396</td>
+<td>37 630</td>
+<td>7 321</td>
+<td>49 091</td>
+<td>20 906</td>
+<td>86 491</td>
+</tr>
+<tr>
+<td>1 152</td>
+<td>10 147</td>
+<td>20 658</td>
+<td>185 655</td>
+<td>15 423</td>
+<td>102 400</td>
+</tr>
+<tr>
+<td>1 209</td>
+<td>13 989</td>
+<td>68 080</td>
+<td>168 435</td>
+<td>52 274</td>
+<td>160 972</td>
+</tr>
+<tr>
+<td>782</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2 255</td>
+<td>36 341</td>
+<td>19 658</td>
+<td>137 721</td>
+<td>45 625</td>
+<td>151 200</td>
+</tr>
+<tr>
+<td>177</td>
+<td>39 245</td>
+<td>39 955</td>
+<td>63 242</td>
+<td>23 296</td>
+<td>311 772</td>
+</tr>
+<tr>
+<td>470</td>
+<td>19 032</td>
+<td>18 678</td>
+<td>110 132</td>
+<td>14 261</td>
+<td>102 159</td>
+</tr>
+<tr>
+<td>2 072</td>
+<td>17 086</td>
+<td>8 090</td>
+<td>411 279</td>
+<td>6 347</td>
+<td>100 430</td>
+</tr>
+<tr>
+<td>1 647</td>
+<td>10 222</td>
+<td>60 385</td>
+<td>99 065</td>
+<td>24 843</td>
+<td>61 457</td>
+</tr>
+<tr>
+<td>821</td>
+<td>555</td>
+<td>0</td>
+<td>60 873</td>
+<td>13 858</td>
+<td>72 114</td>
+</tr>
+<tr>
+<td>1 315</td>
+<td>38 447</td>
+<td>57 902</td>
+<td>278 645</td>
+<td>43 739</td>
+<td>86 840</td>
+</tr>
+<tr>
+<td>770</td>
+<td>12 267</td>
+<td>30 727</td>
+<td>177 316</td>
+<td>40 453</td>
+<td>100 793</td>
+</tr>
+<tr>
+<td>1 014</td>
+<td>128 174</td>
+<td>22 506</td>
+<td>97 643</td>
+<td>44 638</td>
+<td>75 023</td>
+</tr>
+<tr>
+<td>4 657</td>
+<td>66 884</td>
+<td>84 370</td>
+<td>340 533</td>
+<td>90 518</td>
+<td>608 252</td>
+</tr>
+<tr>
+<td>420</td>
+<td>70 454</td>
+<td>89 675</td>
+<td>115 026</td>
+<td>26 999</td>
+<td>261 072</td>
+</tr>
+<tr>
 <td>1 430</td>
 <td>35 065</td>
 <td>7 579</td>
@@ -12364,34 +12787,30 @@ _________________________
 <td>84 128</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Город Шымкент</td>
-<td>890 508</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>293 694</td>
-<td>52 976</td>
-<td>224 856</td>
 <td>0</td>
 <td>48 683</td>
 <td>5 714</td>
 <td>52 461</td>
-<td>44 218</td>
+<td>44 790</td>
 <td>167 906</td>
 </tr>
 </table>
 
-_________________________
-
 > *Приложение 14*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от «10» декабря 2020 года № 840*
+> *от «10» декабря 2020 года*  
+> *№ 840*
+
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на услуги по замене и настройке речевых процессоров к кохлеарным имплантам
 
-> *Сноска. Приложение 14 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 14 в редакции постановлений Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -12402,17 +12821,17 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>299 132</th>
+<th>188 936</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Алматинская область</td>
-<td>149 181</td>
+<td>149 150</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Кызылординская область</td>
-<td>115 115</td>
+<td>Карагандинская область</td>
+<td>4 950</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -12424,9 +12843,12 @@ _________________________
 <td>Город Нур-Султан</td>
 <td>29 886</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
-
-_________________________
 
 > *Приложение 15*  
 > *к постановлению Правительства*  
@@ -12435,6 +12857,8 @@ _________________________
 > *№*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование затрат работодателя на создание специальных рабочих мест для трудоустройства инвалидов
+
+> *Сноска. Приложение 15 с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -12445,7 +12869,7 @@ _________________________
 <tr>
 <th colspan="2"></th>
 <th colspan="3">Всего</th>
-<th colspan="3">142 305</th>
+<th colspan="3">126 071</th>
 </tr>
 <tr>
 <td colspan="2">1.</td>
@@ -12480,7 +12904,7 @@ _________________________
 <tr>
 <td colspan="2">7.</td>
 <td colspan="3">Мангистауская область</td>
-<td colspan="3">16 234</td>
+<td colspan="3">0</td>
 </tr>
 <tr>
 <td colspan="2">8.</td>
@@ -12511,9 +12935,15 @@ _________________________
 > *Республики Казахстан*  
 > *от 10 декабря 2020 года № 840*
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на развитие рынка труда
 
-> *Сноска. Приложение 16 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 16 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -12531,29 +12961,29 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>68 156 693</th>
-<th>11 195 576</th>
-<th>2 510 079</th>
-<th>14 979 945</th>
-<th>39 471 093</th>
+<th>68 022 475</th>
+<th>11 128 860</th>
+<th>2 500 580</th>
+<th>14 962 817</th>
+<th>39 430 218</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>1 108 381</td>
+<td>1 104 383</td>
 <td>251 452</td>
-<td>30 479</td>
+<td>26 481</td>
 <td>419 945</td>
 <td>406 505</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>2 483 707</td>
-<td>723 780</td>
+<td>2 474 225</td>
+<td>716 751</td>
 <td>0</td>
 <td>535 562</td>
-<td>1 224 365</td>
+<td>1 221 912</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -12567,20 +12997,20 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>1 300 383</td>
-<td>358 017</td>
+<td>1 298 938</td>
+<td>354 821</td>
 <td>0</td>
-<td>387 962</td>
+<td>389 713</td>
 <td>554 404</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>2 525 986</td>
-<td>370 747</td>
-<td>203 428</td>
-<td>926 609</td>
-<td>1 025 202</td>
+<td>2 515 137</td>
+<td>362 714</td>
+<td>203 141</td>
+<td>927 193</td>
+<td>1 022 089</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12594,38 +13024,38 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>2 454 253</td>
-<td>665 733</td>
+<td>2 447 402</td>
+<td>659 006</td>
 <td>0</td>
 <td>793 426</td>
-<td>995 094</td>
+<td>994 970</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>2 360 423</td>
-<td>360 597</td>
+<td>2 358 034</td>
+<td>359 039</td>
 <td>0</td>
 <td>700 664</td>
-<td>1 299 162</td>
+<td>1 298 331</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>1 447 392</td>
-<td>318 487</td>
+<td>1 445 494</td>
+<td>317 598</td>
 <td>385 371</td>
-<td>227 526</td>
-<td>516 008</td>
+<td>227 517</td>
+<td>515 008</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>5 786 473</td>
-<td>1 055 628</td>
+<td>5 777 429</td>
+<td>1 053 174</td>
 <td>0</td>
 <td>2 232 674</td>
-<td>2 498 171</td>
+<td>2 491 581</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -12640,28 +13070,28 @@ _________________________
 <td>12.</td>
 <td>Павлодарская область</td>
 <td>3 374 233</td>
-<td>431 357</td>
-<td>1 039 696</td>
-<td>711 735</td>
-<td>1 191 445</td>
+<td>430 024</td>
+<td>1 037 263</td>
+<td>715 818</td>
+<td>1 191 128</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>2 425 632</td>
-<td>215 187</td>
-<td>851 105</td>
-<td>440 063</td>
-<td>919 277</td>
+<td>2 419 567</td>
+<td>213 939</td>
+<td>848 324</td>
+<td>440 445</td>
+<td>916 859</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
 <td>13 093 497</td>
-<td>3 001 083</td>
+<td>2 998 838</td>
 <td>0</td>
-<td>2 314 931</td>
-<td>7 777 483</td>
+<td>2 291 012</td>
+<td>7 803 647</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -12675,8 +13105,8 @@ _________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>1 339 923</td>
-<td>334 051</td>
+<td>1 321 519</td>
+<td>315 647</td>
 <td>0</td>
 <td>285 866</td>
 <td>720 006</td>
@@ -12684,15 +13114,16 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>2 636 579</td>
-<td>856 884</td>
+<td>2 572 786</td>
+<td>843 284</td>
 <td>0</td>
 <td>339 684</td>
-<td>1 440 011</td>
+<td>1 389 818</td>
+</tr>
+<tr>
+<td colspan="7">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Приложение 16-1*  
 > *к постановлению Правительства*  
@@ -12724,6 +13155,12 @@ _________________________
 
 _________________________
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 > *Приложение 17*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
@@ -12731,14 +13168,11 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы работников государственных организаций: медико-социальных учреждений стационарного и полустационарного типов, организаций надомного обслуживания, временного пребывания, центров занятости населения
 
-> *Сноска. Приложение 17 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 17 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
-<td rowspan="2">
-№
-п/п
-</td>
+<td rowspan="2">№ п/п</td>
 <td rowspan="2">Наименование областей и городов</td>
 <td rowspan="2">Сумма, тыс. тенге</td>
 <td colspan="2">в том числе</td>
@@ -12750,15 +13184,15 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>29 199 994</th>
-<th>6 264 153</th>
+<th>29 190 258</th>
+<th>6 254 417</th>
 <th>22 935 841</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>1 398 461</td>
-<td>310 610</td>
+<td>1 421 258</td>
+<td>333 407</td>
 <td>1 087 851</td>
 </tr>
 <tr>
@@ -12771,15 +13205,15 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>2 794 499</td>
-<td>727 116</td>
+<td>2 786 999</td>
+<td>719 616</td>
 <td>2 067 383</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>724 126</td>
-<td>167 125</td>
+<td>715 858</td>
+<td>158 857</td>
 <td>557 001</td>
 </tr>
 <tr>
@@ -12792,8 +13226,8 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>1 350 680</td>
-<td>246 075</td>
+<td>1 349 305</td>
+<td>244 700</td>
 <td>1 104 605</td>
 </tr>
 <tr>
@@ -12813,15 +13247,15 @@ _________________________
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>1 858 734</td>
-<td>471 465</td>
+<td>1 855 607</td>
+<td>468 338</td>
 <td>1 387 269</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>1 708 407</td>
-<td>346 862</td>
+<td>1 696 144</td>
+<td>334 599</td>
 <td>1 361 545</td>
 </tr>
 <tr>
@@ -12873,9 +13307,10 @@ _________________________
 <td>256 358</td>
 <td>736 406</td>
 </tr>
+<tr>
+<td colspan="5">___________________________________</td>
+</tr>
 </table>
-
-_________________________
 
 > *Приложение 18*  
 > *к постановлению Правительства*  
@@ -12884,7 +13319,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов организаций дошкольного образования
 
-> *Сноска. Приложение 18 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 18 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -12900,9 +13335,9 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>63 372 903</th>
-<th>63 039 125</th>
-<th>333778</th>
+<th>63 141 850</th>
+<th>62 808 072</th>
+<th>333 778</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -12928,15 +13363,15 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>2 092 573</td>
-<td>2 092 573</td>
+<td>2 089 300</td>
+<td>2 089 300</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>3 654 622</td>
-<td>3 654 622</td>
+<td>3 574 155</td>
+<td>3 574 155</td>
 <td></td>
 </tr>
 <tr>
@@ -12970,8 +13405,8 @@ _________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>3 975 159</td>
-<td>3 975 159</td>
+<td>3 970 846</td>
+<td>3 970 846</td>
 <td>0</td>
 </tr>
 <tr>
@@ -13005,8 +13440,8 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>3 638 427</td>
-<td>3 638 427</td>
+<td>3 495 427</td>
+<td>3 495 427</td>
 <td></td>
 </tr>
 <tr>
@@ -13146,7 +13581,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций дошкольного образования
 
-> *Сноска. Приложение 20 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 20 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13157,7 +13592,7 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>5 551 843</td>
+<td>5 400 553</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13177,7 +13612,7 @@ ____________________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>421 219</td>
+<td>288 334</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -13207,7 +13642,7 @@ ____________________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>376 515</td>
+<td>369 612</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -13232,7 +13667,7 @@ ____________________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>111 590</td>
+<td>100 088</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -13316,7 +13751,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинским работникам организаций дошкольного образования и возмещение сумм, выплаченных по данному направлению расходов за счет средств местных бюджетов
 
-> *Сноска. Постановление дополнено приложением 20-2 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Постановление дополнено приложением 20-2 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13327,12 +13762,12 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>3 807 158</td>
+<td>3 778 639</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>180 948</td>
+<td>152 429</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -13419,14 +13854,20 @@ ____________________________________
 </tr>
 </table>
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 > *Приложение 21*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от 10 декабря 2020 года № 840*
+> *от «10» декабря 2020 года № 840*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на реализацию подушевого финансирования в государственных организациях среднего образования
 
-> *Сноска. Приложение 21 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 21 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13437,7 +13878,7 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>68 058 718</th>
+<th>73 542 706</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -13467,7 +13908,7 @@ ____________________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>955 726</td>
+<td>1 406 270</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -13492,7 +13933,7 @@ ____________________________________
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>1 221 368</td>
+<td>2 327 668</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -13507,7 +13948,7 @@ ____________________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>4 839 595</td>
+<td>8 766 739</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -13524,18 +13965,25 @@ ____________________________________
 <td>Город Шымкент</td>
 <td>8 213 481</td>
 </tr>
+<tr>
+<td colspan="3">_________________________</td>
+</tr>
 </table>
 
-____________________________________
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
 
 > *Приложение 22*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от «10» декабря 2020 года № 840*
+> *от 10 декабря 2020 года № 840*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций образования, за исключением организаций дополнительного образования для взрослых
 
-> *Сноска. Приложение 22 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 22 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); в редакции постановлений Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13546,12 +13994,12 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>473 504 050</th>
+<th>473 942 505</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>20 335 479</td>
+<td>19 531 417</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -13566,22 +14014,22 @@ ____________________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>13 952 445</td>
+<td>14 253 290</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>31 755 494</td>
+<td>31 276 944</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>34 156 381</td>
+<td>34 477 007</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>16 156 003</td>
+<td>17 375 619</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -13591,12 +14039,12 @@ ____________________________________
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>17 414 587</td>
+<td>17 176 587</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>31 009 859</td>
+<td>30 686 481</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -13606,7 +14054,7 @@ ____________________________________
 <tr>
 <td>12.</td>
 <td>Павлодарская область</td>
-<td>17 678 390</td>
+<td>17 490 234</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -13621,7 +14069,7 @@ ____________________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>26 189 854</td>
+<td>26 776 788</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -13631,11 +14079,12 @@ ____________________________________
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>19 361 413</td>
+<td>19 403 993</td>
+</tr>
+<tr>
+<td colspan="3">________________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Приложение 23*  
 > *к постановлению Правительства*  
@@ -13645,7 +14094,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций образования, за исключением организаций дополнительного образования для взрослых
 
-> *Сноска. Приложение 23 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 23 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13656,7 +14105,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>141 443 402</td>
+<td>159 559 550</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13671,12 +14120,12 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>8 600 610</td>
+<td>16 610 516</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>5 472 078</td>
+<td>6 171 276</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -13686,7 +14135,7 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>7 534 604</td>
+<td>14 272 486</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -13696,7 +14145,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>8 965 682</td>
+<td>8 708 031</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13741,7 +14190,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>7 519 448</td>
+<td>10 446 261</td>
 </tr>
 <tr>
 <td colspan="3">________________________________</td>
@@ -13756,7 +14205,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций среднего образования
 
-> *Сноска. Приложение 24 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 24 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13767,7 +14216,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>6 229 584</td>
+<td>6 181 214</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13787,7 +14236,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>221 387</td>
+<td>210 187</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -13817,7 +14266,7 @@ _________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>400 046</td>
+<td>383 636</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -13842,7 +14291,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>90 778</td>
+<td>70 018</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -13867,7 +14316,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за степень магистра методистам методических центров (кабинетов) государственных организаций среднего образования
 
-> *Сноска. Приложение 25 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 25 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13878,7 +14327,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>84 654</td>
+<td>77 894</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13898,7 +14347,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>3 870</td>
+<td>2 889</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -13952,8 +14401,8 @@ _________________________
 </tr>
 <tr>
 <td>15.</td>
-<td>Город Алматы</td>
-<td>5 779</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>16.</td>
@@ -13978,7 +14427,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинским работникам государственных организаций среднего образования и возмещение сумм, выплаченных по данному направлению расходов за счет средств местных бюджетов
 
-> *Сноска. Постановление дополнено приложением 25-1 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Постановление дополнено приложением 25-1 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -13989,12 +14438,12 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>1 896 585</td>
+<td>1 726 750</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>48 855</td>
+<td>47 355</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -14009,7 +14458,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>96 712</td>
+<td>74 745</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -14069,7 +14518,7 @@ _________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>137 020</td>
+<td>88 659</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -14089,7 +14538,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций технического и профессионального, послесреднего образования
 
-> *Сноска. Приложение 26 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 26 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14100,7 +14549,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>242 303</td>
+<td>199 967</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14170,7 +14619,7 @@ _________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>44 841</td>
+<td>2 505</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -14197,9 +14646,15 @@ _________________________
 > *Республики Казахстан*  
 > *от 10 декабря 2020 года № 840*
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на приобретение оборудования для колледжей в рамках проекта «Жас маман»
 
-> *Сноска. Приложение 27 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 27 в редакции постановлений Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14210,17 +14665,17 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>27 087 118</th>
+<th>25 970 073</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>1 669 168</td>
+<td>1 659 731</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>1 286 892</td>
+<td>1 274 919</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -14230,32 +14685,32 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>1 429 931</td>
+<td>1 323 357</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>1 335 654</td>
+<td>1 281 098</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>1 818 902</td>
+<td>1 736 473</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>1 433 940</td>
+<td>1 389 407</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>2 303 104</td>
+<td>2 052 288</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>1 780 882</td>
+<td>1 678 974</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -14265,17 +14720,17 @@ _________________________
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>1 532 908</td>
+<td>1 527 278</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Павлодарская область</td>
-<td>1 296 989</td>
+<td>1 237 255</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>1 347 137</td>
+<td>1 324 020</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -14285,21 +14740,22 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>2 661 291</td>
+<td>2 377 850</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>1 504 832</td>
+<td>1 466 039</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>1 353 721</td>
+<td>1 309 617</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Приложение 28*  
 > *к постановлению Правительства*  
@@ -14309,7 +14765,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций технического и профессионального, послесреднего образования
 
-> *Сноска. Приложение 28 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 28 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14320,12 +14776,12 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>22 781 182</td>
+<td>21 997 717</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>1 432 319</td>
+<td>1 351 025</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -14340,7 +14796,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>839 573</td>
+<td>776 680</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -14350,7 +14806,7 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>1 214 667</td>
+<td>1 181 136</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -14385,17 +14841,17 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>907 250</td>
+<td>876 250</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>1 660 632</td>
+<td>1 579 645</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>2 034 250</td>
+<td>1 540 490</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -14420,7 +14876,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций технического и профессионального, послесреднего образования
 
-> *Сноска. Приложение 29 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 29 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14431,12 +14887,12 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>3 184 566</td>
+<td>2 715 776</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>141 427</td>
+<td>127 651</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -14451,7 +14907,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>143 486</td>
+<td>109 465</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -14501,7 +14957,7 @@ _________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>464 877</td>
+<td>43 884</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -14526,7 +14982,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинским работникам государственных организаций технического и профессионального, послесреднего образования и возмещение сумм, выплаченных по данному направлению расходов за счет средств местных бюджетов
 
-> *Сноска. Постановление дополнено приложением 29-1 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Постановление дополнено приложением 29-1 в соответствии с постановлением Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14537,7 +14993,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>386 995</td>
+<td>310 020</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14557,7 +15013,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>13 444</td>
+<td>10 948</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -14577,7 +15033,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>106 341</td>
+<td>33 710</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -14612,7 +15068,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>14 719</td>
+<td>12 871</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -14632,7 +15088,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на размещение государственного образовательного заказа на подготовку специалистов с высшим образованием для детей из многодетных и малообеспеченных семей
 
-> *Сноска. Приложение 30 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 30 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14643,7 +15099,7 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>2 693 635</td>
+<td>2 685 551</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14713,7 +15169,7 @@ _________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>1 045 455</td>
+<td>1 050 737</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -14723,12 +15179,12 @@ _________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>36 545</td>
+<td>31 515</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>316 920</td>
+<td>308 584</td>
 </tr>
 <tr>
 <td colspan="3">______________________________</td>
@@ -14742,7 +15198,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на проведение медицинской организацией мероприятий, снижающих половое влечение, осуществляемых на основании решения суда
 
-> *Сноска. Приложение 31 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 31 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14753,7 +15209,7 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>1 990</th>
+<th>1 960</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -14778,7 +15234,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Костанайская область</td>
-<td>544</td>
+<td>514</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -14801,7 +15257,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на материально-техническое оснащение организаций здравоохранения на местном уровне
 
-> *Сноска. Приложение 32 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 32 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14817,8 +15273,8 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>3 583 920</th>
-<th>1 573 920</th>
+<th>3 564 679</th>
+<th>1 554 679</th>
 <th>2 010 000</th>
 </tr>
 <tr>
@@ -14831,8 +15287,8 @@ _________________________
 <tr>
 <td>2.</td>
 <td>Северо-Казахстанская область</td>
-<td>1 573 920</td>
-<td>1 573 920</td>
+<td>1 554 679</td>
+<td>1 554 679</td>
 <td></td>
 </tr>
 </table>
@@ -14844,9 +15300,15 @@ ____________________________________
 > *Республики Казахстан*  
 > *от 10 декабря 2020 года № 840*
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на возмещение лизинговых платежей по санитарному транспорту, приобретенному на условиях финансового лизинга
 
-> *Сноска. Приложение 33 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 33 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -14862,8 +15324,8 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>12 814 264</th>
-<th>7 387 973</th>
+<th>12 225 330</th>
+<th>7 139 193</th>
 <th>5 086 137</th>
 </tr>
 <tr>
@@ -14883,15 +15345,15 @@ ____________________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>1 579 054</td>
-<td>948 216</td>
+<td>1 482 200</td>
+<td>851 362</td>
 <td>630 838</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>656 948</td>
-<td>372 165</td>
+<td>613 000</td>
+<td>328 217</td>
 <td>284 783</td>
 </tr>
 <tr>
@@ -14904,8 +15366,8 @@ ____________________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>641 663</td>
-<td>462 341</td>
+<td>637 700</td>
+<td>458 378</td>
 <td>179 322</td>
 </tr>
 <tr>
@@ -14918,8 +15380,8 @@ ____________________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>606 991</td>
-<td>439 829</td>
+<td>581 327</td>
+<td>414 165</td>
 <td>167 162</td>
 </tr>
 <tr>
@@ -14946,7 +15408,7 @@ ____________________________________
 <tr>
 <td>12.</td>
 <td>Павлодарская область</td>
-<td>1 430 587</td>
+<td>1 342 885</td>
 <td>358 761</td>
 <td>984 124</td>
 </tr>
@@ -14960,15 +15422,15 @@ ____________________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>1 456 658</td>
+<td>1 325 105</td>
 <td>694 267</td>
 <td>630 838</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Город Нур-Султан</td>
-<td>655 487</td>
-<td>144 725</td>
+<td>577 136</td>
+<td>66 374</td>
 <td>510 762</td>
 </tr>
 <tr>
@@ -14978,18 +15440,25 @@ ____________________________________
 <td></td>
 <td>1 421 561</td>
 </tr>
+<tr>
+<td colspan="5">_________________________________</td>
+</tr>
 </table>
-
-____________________________________
 
 > *Приложение 34*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
 > *от «10» декабря 2020 года № 840*
 
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на закуп вакцин и других иммунобиологических препаратов
 
-> *Сноска. Приложение 34 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 34 в редакции постановлений Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15000,7 +15469,7 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>31 890 999</th>
+<th>30 600 853</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15010,52 +15479,52 @@ ____________________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>1 275 440</td>
+<td>1 249 046</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>4 039 029</td>
+<td>3 836 607</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>1 214 329</td>
+<td>1 213 386</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>2 040 737</td>
+<td>1 947 371</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>2 462 968</td>
+<td>2 217 517</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>1 071 529</td>
+<td>1 061 635</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>1 956 463</td>
+<td>1 826 224</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>909 029</td>
+<td>908 446</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>1 556 891</td>
+<td>1 554 154</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>1 573 617</td>
+<td>1 381 104</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -15065,31 +15534,32 @@ ____________________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>635 135</td>
+<td>620 217</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>4 487 485</td>
+<td>4 298 995</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>2 566 471</td>
+<td>2 417 094</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>2 156 313</td>
+<td>2 156 309</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>1 901 888</td>
+<td>1 869 073</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Приложение 35*  
 > *к постановлению Правительства*  
@@ -15098,7 +15568,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на пропаганду здорового образа жизни
 
-> *Сноска. Приложение 35 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 35 в редакции постановления Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15109,7 +15579,7 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>448 190</th>
+<th>391 519</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15119,7 +15589,7 @@ _________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>27 612</td>
+<td>25 612</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -15134,17 +15604,17 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>29 375</td>
+<td>21 875</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>30 602</td>
+<td>23 102</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>9 910</td>
+<td>2 410</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -15164,7 +15634,7 @@ _________________________
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>37 400</td>
+<td>35 000</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -15174,7 +15644,7 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>24 899</td>
+<td>22 899</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -15188,8 +15658,8 @@ _________________________
 </tr>
 <tr>
 <td>16.</td>
-<td>Город Нур-Султан</td>
-<td>27 771</td>
+<td>Исключено постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).</td>
+<td></td>
 </tr>
 </table>
 
@@ -15203,7 +15673,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на реализацию мероприятий по профилактике и борьбе со СПИД
 
-> *Сноска. Приложение 36 с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 36 с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15214,7 +15684,7 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>2 093 466</th>
+<th>2 093 399</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15244,7 +15714,7 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>97 769</td>
+<td>97 702</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -15313,7 +15783,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение размера государственной стипендии обучающимся в организациях технического и профессионального, послесреднего образования
 
-> *Сноска. Приложение 37 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 37 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15329,9 +15799,9 @@ _________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>7 208 408</td>
-<td>525 193</td>
-<td>6 683 215</td>
+<td>6 990 045</td>
+<td>537 829</td>
+<td>6 446 290</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -15357,9 +15827,9 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>212 990</td>
+<td>199 199</td>
 <td>22 477</td>
-<td>190 513</td>
+<td>176 722</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -15371,8 +15841,8 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>281 293</td>
-<td>46 704</td>
+<td>281 226</td>
+<td>46 637</td>
 <td>234 589</td>
 </tr>
 <tr>
@@ -15385,9 +15855,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>706 907</td>
+<td>583 605</td>
 <td>48 355</td>
-<td>658 552</td>
+<td>535 250</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -15427,30 +15897,30 @@ _________________________
 <tr>
 <td>14.</td>
 <td>Туркестанская область</td>
-<td>643 159</td>
-<td>50 804</td>
-<td>592 355</td>
+<td>625 044</td>
+<td>57 265</td>
+<td>567 779</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>750 591</td>
-<td>33 691</td>
-<td>716 900</td>
+<td>758 462</td>
+<td>38 862</td>
+<td>719 600</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>419 768</td>
-<td>25 566</td>
-<td>394 202</td>
+<td>373 185</td>
+<td>26 637</td>
+<td>346 548</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>254 594</td>
+<td>224 292</td>
 <td>17 082</td>
-<td>237 512</td>
+<td>207 210</td>
 </tr>
 <tr>
 <td colspan="5">_________________________</td>
@@ -15460,11 +15930,17 @@ _________________________
 > *Приложение 38*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от 10 декабря 2020 года № 840*
+> *от «10» декабря 2020 года № 840*
+
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы работников организаций в области здравоохранения местных исполнительных органов
 
-> *Сноска. Приложение 38 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 38 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15480,22 +15956,22 @@ _________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>1 979 737</th>
-<th>1 866 610</th>
+<th>1 882 918</th>
+<th>1 769 791</th>
 <th>113 127</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>94 479</td>
-<td>88 847</td>
+<td>83 479</td>
+<td>77 847</td>
 <td>5 632</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>74 916</td>
-<td>71 533</td>
+<td>72 398</td>
+<td>69 015</td>
 <td>3 383</td>
 </tr>
 <tr>
@@ -15508,8 +15984,8 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>78 586</td>
-<td>75 290</td>
+<td>73 616</td>
+<td>70 320</td>
 <td>3 296</td>
 </tr>
 <tr>
@@ -15529,22 +16005,22 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>89 811</td>
-<td>87 066</td>
+<td>57 423</td>
+<td>54 678</td>
 <td>2 745</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>204 272</td>
-<td>190 526</td>
+<td>189 156</td>
+<td>175 410</td>
 <td>13 746</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>110 742</td>
-<td>100 951</td>
+<td>108 604</td>
+<td>98 813</td>
 <td>9 791</td>
 </tr>
 <tr>
@@ -15557,8 +16033,8 @@ _________________________
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>45 797</td>
-<td>43 593</td>
+<td>42 977</td>
+<td>40 773</td>
 <td>2 204</td>
 </tr>
 <tr>
@@ -15571,8 +16047,8 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>71 863</td>
-<td>69 358</td>
+<td>62 318</td>
+<td>59 813</td>
 <td>2 505</td>
 </tr>
 <tr>
@@ -15585,15 +16061,15 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Город Алматы</td>
-<td>131 657</td>
-<td>127 876</td>
+<td>126 486</td>
+<td>122 705</td>
 <td>3 781</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>129 309</td>
-<td>121 018</td>
+<td>118 156</td>
+<td>109 865</td>
 <td>8 291</td>
 </tr>
 <tr>
@@ -15603,9 +16079,10 @@ _________________________
 <td>96 598</td>
 <td>8 640</td>
 </tr>
+<tr>
+<td colspan="5">________________________________</td>
+</tr>
 </table>
-
-____________________________________
 
 > *Приложение 39*  
 > *к постановлению Правительства*  
@@ -15625,7 +16102,7 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>12 341 491</th>
+<th>12 294 073</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -15635,22 +16112,22 @@ ____________________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>635 994</td>
+<td>633 861</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>880 768</td>
+<td>879 844</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>546 934</td>
+<td>542 246</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>1 098 948</td>
+<td>1 080 942</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -15690,7 +16167,7 @@ ____________________________________
 <tr>
 <td>13.</td>
 <td>Северо-Казахстанская область</td>
-<td>613 637</td>
+<td>608 540</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -15705,7 +16182,7 @@ ____________________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>542 404</td>
+<td>525 834</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -15862,7 +16339,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций среднего и дополнительного образования в сфере физической культуры и спорта
 
-> *Сноска. Приложение 40 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 40 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -15878,8 +16355,8 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>12 397 165</td>
-<td>11 305 142</td>
+<td>12 421 903</td>
+<td>11 329 880</td>
 <td>1 092 023</td>
 </tr>
 <tr>
@@ -15913,8 +16390,8 @@ ____________________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>1 019 142</td>
-<td>1 019 142</td>
+<td>1 081 391</td>
+<td>1 081 391</td>
 <td></td>
 </tr>
 <tr>
@@ -15962,8 +16439,8 @@ ____________________________________
 <tr>
 <td>12.</td>
 <td>Павлодарская область</td>
-<td>659 867</td>
-<td>659 867</td>
+<td>639 982</td>
+<td>639 982</td>
 <td></td>
 </tr>
 <tr>
@@ -15990,15 +16467,15 @@ ____________________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>442 465</td>
-<td>379 385</td>
+<td>439 057</td>
+<td>375 977</td>
 <td>63 080</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>859 942</td>
-<td>859 942</td>
+<td>845 724</td>
+<td>845 724</td>
 <td></td>
 </tr>
 <tr>
@@ -16107,7 +16584,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на предоставление государственных грантов молодым предпринимателям для реализации новых бизнес-идей в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса – 2025»
 
-> *Сноска. Приложение 42 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 42 в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -16123,8 +16600,8 @@ ____________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>1 175 000</th>
-<th>600 000</th>
+<th>1 168 009</th>
+<th>593 009</th>
 <th>575 000</th>
 </tr>
 <tr>
@@ -16193,15 +16670,15 @@ ____________________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>250 000</td>
-<td>70 000</td>
+<td>248 700</td>
+<td>68 700</td>
 <td>180 000</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>35 000</td>
-<td>21 000</td>
+<td>34 309</td>
+<td>20 309</td>
 <td>14 000</td>
 </tr>
 <tr>
@@ -16242,8 +16719,8 @@ ____________________________________
 <tr>
 <td>17.</td>
 <td>Город Шымкент</td>
-<td>46 000</td>
-<td>46 000</td>
+<td>41 000</td>
+<td>41 000</td>
 <td></td>
 </tr>
 </table>
@@ -16258,7 +16735,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование ставки вознаграждения и гарантирование по кредитам в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса – 2025» и Механизма кредитования приоритетных проектов
 
-> *Сноска. Приложение 43 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 43 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -16274,8 +16751,8 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>107 175 107</td>
-<td>83 049 214</td>
+<td>106 875 274</td>
+<td>82 749 381</td>
 <td>24 125 893</td>
 </tr>
 <tr>
@@ -16330,8 +16807,8 @@ ____________________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>7 266 066</td>
-<td>4 376 066</td>
+<td>6 967 082</td>
+<td>4 077 082</td>
 <td>2 890 000</td>
 </tr>
 <tr>
@@ -16386,8 +16863,8 @@ ____________________________________
 <tr>
 <td>16.</td>
 <td>Город Нур-Султан</td>
-<td>11 059 399</td>
-<td>7 240 556</td>
+<td>11 058 550</td>
+<td>7 239 707</td>
 <td>3 818 843</td>
 </tr>
 <tr>
@@ -16444,7 +16921,7 @@ ____________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на финансирование приоритетных проектов транспортной инфраструктуры
 
-> *Сноска. Приложение 44 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 44 в редакции постановлений Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -16460,8 +16937,8 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>62 827 766</td>
-<td>19 354 821</td>
+<td>62 818 030</td>
+<td>19 345 085</td>
 <td>43 472 945</td>
 </tr>
 <tr>
@@ -16530,8 +17007,8 @@ ____________________________________
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>1 727 056</td>
-<td>564 485</td>
+<td>1 717 320</td>
+<td>554 749</td>
 <td>1 162 571</td>
 </tr>
 <tr>
@@ -16913,7 +17390,7 @@ ____________________________________
 
 ## Распределение сумм бюджетных кредитов местным исполнительным органам для реализации мер социальной поддержки специалистов
 
-> *Сноска. Приложение 48 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 48 в редакции постановления Правительства РК от 11.10.2021 № 722 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -16924,7 +17401,7 @@ ____________________________________
 <tr>
 <td></td>
 <td>Всего</td>
-<td>18 339 441</td>
+<td>18 337 331</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16969,7 +17446,7 @@ ____________________________________
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>1 173 559</td>
+<td>1 171 449</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -17322,12 +17799,17 @@ ____________________________________
 > *Приложение 50*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от 10 декабря 2020 года*  
-> *№ 840*
+> *от 10 декабря 2020 года № 840*
+
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
 
 ## Распределение сумм резерва Правительства Республики Казахстан
 
-> *Сноска. Приложение 50 в редакции постановлений Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 01.07.2021 № 458 (вводится в действие с 01.01.2021); от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 50 в редакции постановлений Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 27.05.2021 № 353 (вводится в действие с 01.01.2021); от 01.07.2021 № 458 (вводится в действие с 01.01.2021); от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 <table>
 <tr>
@@ -17345,49 +17827,56 @@ ____________________________________
 <td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
-<td>217</td>
-<td></td>
-<td></td>
-<td>Министерство финансов Республики Казахстан</td>
-<td>265 369 314</td>
+<th>217</th>
+<th></th>
+<th></th>
+<th>Министерство финансов Республики Казахстан</th>
+<th>214 684 218</th>
 </tr>
 <tr>
 <td></td>
 <td>010</td>
 <td></td>
 <td>Резерв Правительства Республики Казахстан</td>
-<td>265 369 314</td>
+<td>214 684 218</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>100</td>
 <td>Чрезвычайный резерв Правительства Республики Казахстан для ликвидации чрезвычайных ситуаций природного и техногенного характера на территории Республики Казахстан и других государств</td>
-<td>15 500 000</td>
+<td>8 039 446</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>101</td>
 <td>Резерв Правительства Республики Казахстан на неотложные затраты</td>
-<td>248 919 314</td>
+<td>206 094 231</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>102</td>
 <td>Резерв Правительства Республики Казахстан на исполнение обязательств по решениям судов</td>
-<td>600 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>103</td>
-<td>Резерв Правительства Республики Казахстан для жизнеобеспечения населения при ликвидации чрезвычайных ситуаций природного и техногенного характера</td>
-<td>350 000</td>
+<td>550 541</td>
 </tr>
 <tr>
 <td colspan="5">_________________________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -17851,7 +18340,7 @@ ____________________________________
 
 ## Перечень государственных заданий на 2021 год
 
-> *Сноска. Приложение 53 с изменениями, внесенными постановлениями Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 03.04.2021 № 204 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021).*
+> *Сноска. Приложение 53 с изменениями, внесенными постановлениями Правительства РК от 23.02.2021 № 84 (вводится в действие с 01.01.2021); от 03.04.2021 № 204 (вводится в действие с 01.01.2021); в редакции постановления Правительства РК от 27.05.2021 № 353 (вводится в действие с 01.01.2021); с изменениями, внесенными постановлениями Правительства РК от 17.07.2021 № 499 (вводится в действие с 01.01.2021); от 11.10.2021 № 722 (вводится в действие с 01.01.2021); от 10.11.2021 № 807 (вводится в действие с 01.01.2021); от 09.12.2021 № 873 (вводится в действие с 01.01.2021).*
 
 тыс. тенге
 
@@ -17913,25 +18402,24 @@ ____________________________________
 <tr>
 <td>5</td>
 <td>Организация комплекса исследований актуальных вопросов общественно-политической и социальной повестки, а также аспектов Послания Президента Республики Казахстан народу Казахстана «Рост благосостояния казахстанцев: повышение доходов и качества жизни»</td>
-<td>Организация и проведение 3 социальных опросов населения: 1. Система благотворительности в условиях Республики Казахстан. Результаты опроса позволят определить насколько соответствует система потребностям развития страны и какие меры необходимы для пробуждения социальной ответственности бизнеса. 2. Тема «Процесс Третьей модернизации в Казахстане» включает в себя 4 социологических исследования. Результаты опроса дадут представление о том, как меняется общественное сознание, о синхронности и асинхронности экономических и политических приоритетах, устойчивости занятости в условиях цифровизации, а также продемонстрируют степень восприятия населением казахстанской модели общественного развития. 3. Семейно-демографическая политика. Результаты опроса дадут представление о состоянии семейных ценностей, гендерном равенстве, безопасности детского населения, изучить уровень информированности и участия населения о мерах государственной поддержки семьи.</td>
+<td>Организация и проведение 3 социальных опросов населения: 1. Система благотворительности в условиях Республики Казахстан. Результаты опроса позволят определить насколько соответствует система потребностям развития страны и какие меры необходимы для пробуждения социальной ответственности бизнеса. 2. Тема «Процесс Третьей модернизации в Казахстане» включает в себя 4 социологических исследования. Результаты опроса дадут представление о том, как меняется общественное сознание, о синхронности и асинхронности экономических и политических приоритетов, устойчивости занятости в условиях цифровизации, а также продемонстрируют степень восприятия населением казахстанской модели общественного развития. 3. Семейно-демографическая политика. Результаты опроса дадут представление о состоянии семейных ценностей, гендерном равенстве, безопасности детского населения, позволят изучить уровень участия и информированности населения о мерах государственной поддержки семьи.</td>
 <td>Министерство информации и общественного развития Республики Казахстан</td>
 <td>НАО «Казахстанский институт общественного развития «Рухани жаңғыру»</td>
-<td>
-001«Формирование государственной политики в сфере информации и общественного развития»
-103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
-</td>
-<td>59 751</td>
+<td>001«Формирование государственной политики в сфере информации и общественного развития» 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»</td>
+<td>55 239</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Услуги по научно-методическому обеспечению государственной политики в сфере общественного развития</td>
 <td>
 Модернизация общественного сознания через реализацию следующих проектов:
-1) проект по воспитанию эстетического вкуса у граждан «OzgeEpic». Воспитание эстетического вкуса у граждан через приобщение населения к духовно-культурным ценностям и повсеместное продвижение современного казахстанского искусства;
-2) создание и обеспечение деятельности Центра «Кемел болашақ». Методическое обеспечение и повышение квалификации представителей институтов, действующих в сфере реализации Программы, педагогов и воспитателей системы дошкольного, школьного образования, ТиПО и вузов, а также родителей в контексте ценностей Программы, актуализация современных подходов в работе участников Программы;
-3) проект «Умное поколение». Формирование положительного образа конкурентоспособного молодого поколения на примере реальных моделей успеха;
-4) проект «Арамыздағы батырлар». Формирование ролевой модели героев казахстанского общества;
-5) проект «Школа online». Изменение представления об онлайн-обучении и создании дополнительных возможностей для развития личности.
+1. Проект по воспитанию эстетического вкуса у граждан «OzgeEpic». Воспитание эстетического вкуса у граждан через приобщение населения к духовно-культурным ценностям и повсеместное продвижение современного казахстанского искусства.
+2. Создание и обеспечение деятельности Центра «Кемел болашақ». Методическое обеспечение и повышение квалификации представителей институтов, действующих в сфере реализации Программы, педагогов и воспитателей системы дошкольного, школьного образования, ТиПО и ВУЗов, а также родителей в контексте ценностей Программы, актуализация современных подходов в работе участников Программы.
+3. Проект «Умное поколение». Формирование положительного образа конкурентоспособного молодого поколения на примере реальных моделей успеха.
+4. Проект «Арамыздағы батырлар». Формирование ролевой модели героев казахстанского общества.
+5. Проект «Школа online». Изменение представления об онлайн-обучении и создании дополнительных возможностей для развития личности.
+6. Модернизация общественного сознания.
+7. Развитие семейной политики.
 </td>
 <td>Министерство информации и общественного развития Республики Казахстан</td>
 <td>НАО «Казахстанский институт общественного развития «Рухани жаңғыру»</td>
@@ -17939,7 +18427,7 @@ ____________________________________
 001 «Формирование государственной политики в сфере информации и общественного развития»
 124 «Проведение мероприятий в сфере модернизации общественного сознания за счет республиканского бюджета»
 </td>
-<td>1 102 947</td>
+<td>1 090 049</td>
 </tr>
 <tr>
 <td>7</td>
@@ -17947,11 +18435,8 @@ ____________________________________
 <td>Создание условий для дальнейшего развития волонтерства в стране, популяризация волонтерства, поддержка волонтерских инициатив</td>
 <td>Министерство информации и общественного развития Республики Казахстан</td>
 <td>НАО «Казахстанский институт общественного развития «Рухани жаңғыру»</td>
-<td>
-001 «Формирование государственной политики в сфере информации и общественного развития»
-124 «Проведение мероприятий в сфере модернизации общественного сознания за счет республиканского бюджета»
-</td>
-<td>82 161</td>
+<td>001 «Формирование государственной политики в сфере информации и общественного развития» 124 «Проведение мероприятий в сфере модернизации общественного сознания за счет республиканского бюджета»</td>
+<td>75 550</td>
 </tr>
 <tr>
 <td>8</td>
@@ -17963,7 +18448,7 @@ ____________________________________
 001 «Формирование государственной политики в сфере информации и общественного развития»
 124 «Проведение мероприятий в сфере модернизации общественного сознания за счет республиканского бюджета»
 </td>
-<td>25 108</td>
+<td>23 634</td>
 </tr>
 <tr>
 <td>9</td>
@@ -18017,23 +18502,10 @@ ____________________________________
 <td>Услуги по продвижению Казахстана как одного из международных центров по обеспечению межконфессионального и межцивилизационного диалога</td>
 <td>
 1. Мониторинг и анализ состояния и динамики развития религиозной ситуации в мире.
-2. Обеспечение подготовки и формирования базовых концептуальных документов и материалов VII Съезда лидеров мировых и традиционных религий, XIX Секретариата Съезда, Рабочей группы Секретариата.
-3. Организация и проведение заседаний Съезда лидеров мировых и традиционных религий и его институтов;
+2. Обеспечение подготовки и формирования базовых концептуальных документов и материалов VII Съезда лидеров мировых и традиционных религий, XIX Секретариата Съезда, рабочей группы Секретариата.
+3. Организация и проведение заседаний Съезда лидеров мировых и традиционных религий и его институтов.
 4. Содействие в реализации и продвижении инициатив съездов лидеров мировых и традиционных религий и его институтов.
 5. Взаимодействие с аналогичными международными структурами по вопросам межрелигиозного и межкультурного диалога.
-</td>
-<td>Министерство информации и общественного развития Республики Казахстан</td>
-<td>НАО «Центр Н. Назарбаева по развитию межконфессионального и межцивилизационного диалога»</td>
-<td>
-002 «Реализация государственной политики в сфере общественного согласия»
-102 «Реализация государственной политики по укреплению межконфессионального согласия»
-</td>
-<td>699 018</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>
 6. Заключение меморандумов о сотрудничестве с аналогичными международными структурами по обеспечению и сохранению межкультурного и межцивилизационного диалога.
 7. Проведение мероприятий международных уровней, направленных на духовное сближение культур и религий.
 8. Проведение религиоведческой экспертизы.
@@ -18043,10 +18515,13 @@ ____________________________________
 12. Проведение закрытого (ДСП) социологического исследования на тему: «О состоянии и направлениях совершенствования работ по дерадикализации и реабилитации приверженцев деструктивных религиозных течений и культов».
 13. Проведение закрытого (ДСП) социологического исследования на тему: «Христианство в Казахстане: потенциал религиозных направлений и организаций для устойчивого развития казахстанского общества»
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Министерство информации и общественного развития Республики Казахстан</td>
+<td>НАО «Центр Н. Назарбаева по развитию межконфессионального и межцивилизационного диалога»</td>
+<td>
+002 «Реализация государственной политики в сфере общественного согласия»
+102 «Реализация государственной политики по укреплению межконфессионального согласия»
+</td>
+<td>693 046</td>
 </tr>
 <tr>
 <td>13</td>
@@ -18058,7 +18533,10 @@ ____________________________________
 003 «Проведение государственной информационной политики»
 100 «Размещение государственного информационного заказа за счет средств республиканского бюджета»
 </td>
-<td>17 397 834</td>
+<td>
+18
+560927
+</td>
 </tr>
 <tr>
 <td>14</td>
@@ -18069,9 +18547,12 @@ ____________________________________
 <td>
 003 «Проведение государственной информационной политики»
 100 «Размещение государственного информационного заказа за счет средств республиканского бюджета»
-103 «Размещение государственного информационного заказа за счет целевого трансферта из Национального фонда республики Казахстан»
+103 «Размещение государственного информационного заказа за счет целевого трансферта из Национального фонда Республики Казахстан»
 </td>
-<td>24 934 439</td>
+<td>
+26
+453064
+</td>
 </tr>
 <tr>
 <td>15</td>
@@ -18119,7 +18600,7 @@ ____________________________________
 003 «Проведение государственной информационной политики»
 100 «Размещение государственного информационного заказа за счет средств республиканского бюджета»
 </td>
-<td>3 173 519</td>
+<td>3 044 313</td>
 </tr>
 <tr>
 <td>19</td>
@@ -18135,7 +18616,12 @@ ____________________________________
 </tr>
 <tr>
 <td>20</td>
+<td></td>
+<td></td>
 <td>ДСП</td>
+<td></td>
+<td></td>
+<td>935 951</td>
 </tr>
 <tr>
 <td>21</td>
@@ -18240,7 +18726,7 @@ ____________________________________
 058 «Оказание социальной защиты и помощи населению на республиканском уровне, а также совершенствование системы социальной защиты и развитие инфраструктуры»
 102 «Слухоречевая адаптация детей с нарушением слуха после кохлеарной имплантации»
 </td>
-<td>306 117</td>
+<td>302 930</td>
 </tr>
 <tr>
 <td>30</td>
@@ -18341,7 +18827,7 @@ ____________________________________
 <td>Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</td>
 <td>ТОО «Ghalam»</td>
 <td>009 «Создание и ввод в эксплуатацию космической системы связи «KazSat-2R»</td>
-<td>81 000</td>
+<td>72 900</td>
 </tr>
 <tr>
 <td colspan="7"></td>
@@ -18375,21 +18861,21 @@ ____________________________________
 <td>Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов</td>
 <td>Модернизация действующего космического ракетного комплекса «Зенит – М» для запусков ракет космического назначения среднего класса нового поколения для выполнения беспилотных космических аппаратов</td>
 <td>Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</td>
-<td>АО «Совместное Казахстанско-Российское предприятие «Байтерек»</td>
+<td>Акционерное общество «Совместное Казахстанско-Российское предприятие «Байтерек»</td>
 <td>011 «Создание космического ракетного комплекса «Байтерек» на базе ракеты космического назначения среднего класса нового поколения для запусков беспилотных космических аппаратов»</td>
-<td>18 760 046</td>
+<td>16 443 991</td>
 </tr>
 <tr>
 <td>39</td>
 <td>Развитие стартап экосистемы в области ИКТ</td>
-<td>Акселерация технологическому бизнес-инкубированию участников, проведение маркетинговых и иных мероприятий для участников, проведение консультационных, информационных, аналитических, образовательных мероприятий для стимулирования развития участников международного технологического парка «Астана Хаб», поиск потенциальных инвесторов для реализации проектов участников, предоставление жилья и создание условий для проживания лицам, проходящим акселерацию в международном технологическом парке «Астана Хаб»</td>
+<td>Акселерация технологического бизнес-инкубирования участников, проведение маркетинговых и иных мероприятий для участников, проведение консультационных, информационных, аналитических, образовательных мероприятий для стимулирования развития участников международного технологического парка «Астана Хаб», поиск потенциальных инвесторов для реализации проектов участников, предоставление жилья и создание условий для проживания лицам, проходящим акселерацию в международном технологическом парке «Астана Хаб»</td>
 <td>Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</td>
 <td>КФ «Международный технопарк IТ-стартапов «Astana Hub»</td>
 <td>
 205 «Обеспечение инновационного развития Республики Казахстан»
 103 «Создание инновационной экосистемы на базе Международного технопарка IT-стартапов «Астана Хаб»
 </td>
-<td>2 492 368</td>
+<td>2 406 837</td>
 </tr>
 <tr>
 <td>40</td>
@@ -18413,19 +18899,19 @@ ____________________________________
 001 «Формирование и реализация государственной политики в области образования и науки»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
 </td>
-<td>90 045</td>
+<td>35 518</td>
 </tr>
 <tr>
 <td>42</td>
 <td>Экспертно-аналитическое обеспечение функционирования общественных институтов и диалоговых площадок</td>
-<td>Целью исследования является проведение и расширение диалога между государством и обществом по актуальным вопросам текущего состояния и дальнейшего развития Казахстана для оперативного и эффективного реагирования на все конструктивные запросы граждан в форме подготовки проекта концепции «Слышащего государства»</td>
+<td>Целями исследования являются проведение и расширение диалога между государством и обществом по актуальным вопросам текущего состояния и дальнейшего развития Казахстана для оперативного и эффективного реагирования на все конструктивные запросы граждан в форме подготовки проекта концепции «Слышащее государство»</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>НАО «Евразийский национальный университет имени Л.Н.Гумилева»</td>
 <td>
 001 «Формирование и реализация государственной политики в области образования и науки»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
 </td>
-<td>59 955</td>
+<td>23 682</td>
 </tr>
 <tr>
 <td>43</td>
@@ -18453,7 +18939,7 @@ ____________________________________
 <td>Систематизация и исследование рукописных фондов, материалов фольклорных экспедиций и формирование антологии степного фольклора</td>
 <td>Научная систематизация и отбор фольклорных материалов, сохраненных в рукописных фондах, архивах и НИИ</td>
 <td>Министерство образования и науки Республики Казахстан</td>
-<td>РГКП «Институт литературы и искусства им. М.О. Ауэзова»</td>
+<td>РГП на ПХВ «Институт литературы и искусства им. М.О. Ауэзова»</td>
 <td>
 001 «Формирование и реализация государственной политики в области образования и науки»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
@@ -18463,9 +18949,12 @@ ____________________________________
 <tr>
 <td>45</td>
 <td>Археографические работы в зарубежных архивах и фондах по истории и культуре Великой степи (анализ)</td>
-<td>Анализ исторических материалов, выявленных в зарубежных архивах и фондах группой историков, востоковедов, архивистов. Систематизация, каталогизация, изучение и анализ письменных источников и архивных материалов. Введение в научный оборот новых выявленных материалов при написании научных публикаций</td>
+<td>
+Анализ исторических материалов, выявленных в зарубежных архивах и фондах группой историков, востоковедов, архивистов.
+Систематизация, каталогизация, изучение и анализ письменных источников и архивных материалов. Введение в научный оборот новых выявленных материалов при написании научных публикаций
+</td>
 <td>Министерство образования и науки Республики Казахстан</td>
-<td>РГКП «Институт востоковедения им. Р.Б. Сулейменова»</td>
+<td>РГП на ПХВ «Институт востоковедения им. Р.Б. Сулейменова»</td>
 <td>
 001 «Формирование и реализация государственной политики в области образования и науки»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
@@ -18475,7 +18964,7 @@ ____________________________________
 <tr>
 <td>46</td>
 <td>Современный Казахстан и Абай Кунанбайулы</td>
-<td>Данный проект предполагает проведение социологических исследований по значимости наследия Абая и подготовку на их основе 36 книг, способствующих формированию патриотов, конкурентоспособных, инициативных граждан, призванных создать новое качество казахской нации.</td>
+<td>Данный проект предполагает проведение социологических исследований по значимости наследия Абая и подготовку на их основе 12 книг, способствующих формированию патриотов, конкурентоспособных, инициативных граждан, призванных создать новое качество казахской нации</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>НАО «Евразийский национальный университет имени Л.Н. Гумилева»</td>
 <td>
@@ -18487,7 +18976,7 @@ ____________________________________
 <tr>
 <td>47</td>
 <td>Наследие Абая Кунанбайулы в аспекте общественно-гуманитарных наук</td>
-<td>Данный проект предполагает проведение аналитических исследований наследия Абая в тандеме с идеей создания конкурентоспособного общества нового Казахстана, формирования интеллектуальной нации и подготовку 36 книг, позволяющих сформировать конкурентоспособных граждан, владеющих глубокими знаниями в сфере образования и науки, и знающих в совершенстве несколько языков, и стать интеллектуальной нацией.</td>
+<td>Данный проект предполагает проведение аналитических исследований наследия Абая в тандеме с идеей создания конкурентоспособного общества нового Казахстана, формирования интеллектуальной нации и подготовку 12 книг, позволяющих сформировать конкурентоспособных граждан, владеющих глубокими знаниями в сфере образования и науки, знающих в совершенстве несколько языков, стать интеллектуальной нацией.</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>НАО «Евразийский национальный университет имени Л.Н. Гумилева»</td>
 <td>
@@ -18495,6 +18984,33 @@ ____________________________________
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
 </td>
 <td>165 000</td>
+</tr>
+<tr>
+<td>47-1</td>
+<td>Социологическое сопровождение общественно-политических процессов в контексте политической модернизации</td>
+<td>Целью исследования является выявление поведенческих паттернов и адаптационных стратегий казахстанцев и факторов новой социальной реальности на научной основе в условиях политической модернизации страны и постпандемического экономического кризиса</td>
+<td>Министерство образования и науки Республики Казахстан</td>
+<td>ТОО «Институт Евразийской интеграции»</td>
+<td>
+001 «Формирование и реализация государственной политики в области образования и науки»
+103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
+</td>
+<td>
+54
+527
+</td>
+</tr>
+<tr>
+<td>47-2</td>
+<td>Экспертно-аналитическое обеспечение функционирования общественных институтов и диалоговых площадок</td>
+<td>Целями исследования являются проведение и расширение диалога между государством и обществом по актуальным вопросам текущего состояния и дальнейшего развития Казахстана для оперативного и эффективного реагирования на все конструктивные запросы граждан в форме подготовки проекта концепции «Слышащее государство»</td>
+<td>Министерство образования и науки Республики Казахстан</td>
+<td>ТОО «Институт Евразийской интеграции»</td>
+<td>
+001 «Формирование и реализация государственной политики в области образования и науки»
+103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
+</td>
+<td>36 273</td>
 </tr>
 <tr>
 <td>48</td>
@@ -18536,7 +19052,7 @@ ____________________________________
 098 «Обеспечение доступности дошкольного воспитания и обучения»
 102 «Методологическое обеспечение в сфере дошкольного образования»
 </td>
-<td>23 398</td>
+<td>19 356</td>
 </tr>
 <tr>
 <td>52</td>
@@ -18672,7 +19188,7 @@ ____________________________________
 099 «Обеспечение доступности качественного школьного образования»
 103 «Проведение республиканских школьных олимпиад, конкурсов, внешкольных мероприятий республиканского значения»
 </td>
-<td>54 567</td>
+<td>50 743</td>
 </tr>
 <tr>
 <td>63</td>
@@ -18725,38 +19241,41 @@ ____________________________________
 <tr>
 <td>67</td>
 <td>Участие в международном исследовании качества чтения и понимания текста PIRLS</td>
-<td>Участие РК в PIRLS предусмотрено ГПРОН. Основы навыков чтения закладываются в начальной школе. В 2021 году будут проведены следующие мероприятия по участию в PIRLS: перевод материалов основного исследования с английского языка на казахский и русский языки; тиражирование инструментария и руководств для тест проводящих и школьных координаторов; проведение PIRLS-2021; кодировка и обработка данных; формирование международной базы данных; оплата взноса за участие в PIRLS-2021; участие в обязательных встречах-семинарах; проведение обучающего семинара для участников</td>
+<td>
+Участие РК в PIRLS предусмотрено ГПРОН. Основы навыков чтения закладываются в начальной школе.
+В 2021 году будут проведены следующие мероприятия по участию в PIRLS: перевод материалов основного исследования с английского языка на казахский и русский языки; тиражирование инструментария и руководств для тестпроводящих и школьных координаторов; проведение PIRLS-2021; кодировка и обработка данных; формирование международной базы данных; оплата взноса за участие в PIRLS-2021; участие в обязательных встречах-семинарах; проведение обучающего семинара для участников
+</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>АО «Информационно-аналитический центр»</td>
 <td>
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>69 364</td>
+<td>71 599</td>
 </tr>
 <tr>
 <td>68</td>
 <td>Участие в международном исследовании качества естественно-математического образования TIMSS</td>
-<td>Участие в TIMSS позволяет оценить преемственность начального и основного среднего образования (4-классники TIMSS-2019 - это 8-классники в TIMSS-2023). Участие Казахстана в TIMSS обозначено в ГПРОН. Казахстан принял участие в четырех циклах TIMSS. В 2021 году будут проведены следующие мероприятия по участию в TIMSS: оплата первого странового взноса и ежегодного членского взноса для цикла TIMSS-2023; подготовка и публикация Национального отчета по итогам участия Казахстана в TIMSS-2019; участие в обязательных встречах Национальных координаторов и заседании Генеральной ассамблеи IEA; проведение региональных встреч с педагогической общественностью по итогам участия Казахстана в TIMSS-2019; формирование выборки участников апробации TIMSS-2023; международная верификация и адаптация инструментария апробации; подготовка отчета о проделанной работе за год</td>
+<td>Участие в TIMSS позволяет оценить преемственность начального и основного среднего образования (4-классники TIMSS-2019 - это 8-классники в TIMSS-2023). Участие Казахстана в TIMSS обозначено в ГПРОН. Казахстан принял участие в четырех циклах TIMSS. В 2021 году будут проведены следующие мероприятия по участию в TIMSS: оплата первого странового взноса и ежегодного членского взноса для цикла TIMSS-2023; подготовка и публикация Национального отчета по итогам участия Казахстана в TIMSS-2019; участие в обязательных встречах национальных координаторов и заседании Генеральной ассамблеи IEA; проведение региональных встреч с педагогической общественностью по итогам участия Казахстана в TIMSS-2019; формирование выборки участников апробации TIMSS-2023; международная верификация и адаптация инструментария апробации; подготовка отчета о проделанной работе за год</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>АО «Информационно-аналитический центр»</td>
 <td>
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>134 594</td>
+<td>138 469</td>
 </tr>
 <tr>
 <td>69</td>
 <td>Участие в международном исследовании оценки образовательных достижений обучающихся PISA</td>
-<td>PISA - признанный в мире инструмент оценки функциональной грамотности 15-летних обучающихся. Результаты страны в PISA обозначены как целевой индикатор ГПРОН. В 2021 году будут проведены следующие мероприятия по участию в PISА: организация обучающего семинара для областных координаторов и тест-администраторов; проведение апробационного исследования PISA-2021; оплата взноса за участие в PISA-2022; участие в обязательных заседаниях Руководящего Совета PISA (PGB), в международном обучающем тренинге кодировщиков; тиражирование руководств для тест проводящих и школьных координаторов апробации; кодировка и обработка данных апробации; формирование международной базы данных по итогам апробации</td>
+<td>PISA – признанный в мире инструмент оценки функциональной грамотности 15-летних обучающихся. Результаты страны в PISA обозначены как целевой индикатор ГПРОН. В 2021 году будут проведены следующие мероприятия по участию в PISА: организация обучающего семинара для областных координаторов и тест-администраторов; проведение апробационного исследования PISA-2021; оплата взноса за участие в PISA-2022; участие в обязательных заседаниях Руководящего Совета PISA (PGB), в международном обучающем тренинге кодировщиков; тиражирование руководств для тест проводящих и школьных координаторов апробации; кодировка и обработка данных апробации; формирование международной базы данных по итогам апробации</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>АО «Информационно-аналитический центр»</td>
 <td>
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>69 747</td>
+<td>72 311</td>
 </tr>
 <tr>
 <td>70</td>
@@ -18764,7 +19283,7 @@ ____________________________________
 <td>
 ICILS – это первое исследование компьютерной и информационной грамотности, не имеющее аналогов в мире, которое оценивает уровень сформированности ИКТ-компетенции школьников. Участие Казахстана в основном исследовании ICILS обозначено в ГПРОН на 2016-2019 гг. и имеет высокую значимость для развития ИКТ-образования в стране. В 2021 году будут проведены следующие мероприятия по участию по ICILS:
 1. Оплата ежегодного странового взноса за участие в ICILS-2023.
-2.Подготовка инструментария апробационного исследования ICILS-2023.
+2. Подготовка инструментария апробационного исследования ICILS-2023.
 3. Формирование списка участников апробации ICILS-2023.
 4. Организация и проведение семинара с педагогической общественностью для диссеминации результатов ICILS-2018 «Обзор тестовых заданий и обсуждение уроков прошлого цикла».
 </td>
@@ -18774,43 +19293,43 @@ ICILS – это первое исследование компьютерной 
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>55 322</td>
+<td>57 259</td>
 </tr>
 <tr>
 <td>71</td>
 <td>Участие в международном исследовании PISA для школ</td>
-<td>PISA для школ направлено на проведение внешней оценки на уровне отдельной школы вне цикла основного международного исследования, по итогам которого школа получает отчет об уровне функциональной грамотности обучающихся в сравнении с другими школами РК и более 70 стран мира. Это позволяет школе определить болевые точки и при правильной поддержке повысить результаты PISA. В 2021 году будут проведены следующие мероприятия по участию в PISА для школ: 1. Подписание соглашения с ОЭСР. 2. Подготовка инструментария (адаптация и перевод на казахский и русский языки). 3. Формирование выборки апробационного исследования. 4. Проведение апробационного исследования в организациях образования. 5. Оплата взноса за участие в PISA для школ. 6. Кодировка и обработка данных апробации. 7. Формирование национальной базы данных по итогам апробации.</td>
+<td>
+PISA для школ направлено на проведение внешней оценки на уровне отдельной школы вне цикла основного международного исследования, по итогам которого школа получает отчет об уровне функциональной грамотности обучающихся в сравнении с другими школами РК и более 70 стран мира. Это позволяет школе определить болевые точки и при правильной поддержке повысить результаты PISA. В 2021 году будут проведены следующие мероприятия по участию в PISА для школ:
+1. Подписание соглашения с ОЭСР.
+2. Подготовка инструментария (адаптация и перевод на казахский и русский языки).
+3. Формирование выборки апробационного исследования.
+4. Проведение апробационного исследования в организациях образования.
+5. Оплата взноса за участие в PISA для школ.
+6. Кодировка и обработка данных апробации.
+7. Формирование национальной базы данных по итогам апробации.
+</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>АО «Информационно-аналитический центр»</td>
 <td>
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>213 323</td>
+<td>222 057</td>
 </tr>
 <tr>
 <td>72</td>
 <td>Участие в международном исследовании преподавания и обучения TALIS</td>
-<td>TALIS – это единственное и самое масштабное международное исследование в мире, которое оценивает условия работы педагогов и образовательную среду в школах путем администрирования опросов среди учителей и директоров школ каждые шесть лет. TALIS предоставляет индикаторы по вопросам привлечения учителей в профессию, педагогического образования, поддержки начинающих учителей, непрерывного профессионального развития, педагогических практик, школьного климата и условиям работы. Будет получена объективная независимая и международно сопоставимая база данных по указанным аспектам деятельности учительского корпуса и об условиях труда педагогов, а также будут представлены тренды по сравнению с результатами TALIS-2018. В 2018 году Казахстан впервые принял участие в TALIS. Этот третий цикл прошел с участием более чем 260 тысяч учителей и директоров школ из 48 стран мира в том числе 6 566 учителей и 331 директор школы со всех регионов Казахстана. Результаты показали сильные (высокие показатели охвата и удовлетворенности мероприятиями профессионального развития ) и слабые (чрезмерная загруженность, существенно превышающая среднего по ОЭСР; низкая удовлетворенность учителей в городской местности) стороны по различным аспектам педагогического корпуса</td>
+<td>TALIS – это единственное и самое масштабное международное исследование в мире, которое оценивает условия работы педагогов и образовательную среду в школах путем администрирования опросов среди учителей и директоров школ каждые шесть лет. TALIS предоставляет индикаторы по вопросам привлечения учителей в профессию, педагогического образования, поддержки начинающих учителей, непрерывного профессионального развития, педагогических практик, школьного климата и условий работы. Будет получена объективная независимая и международно сопоставимая база данных по указанным аспектам деятельности учительского корпуса и об условиях труда педагогов, а также будут представлены тренды по сравнению с результатами TALIS-2018. В 2018 году Казахстан впервые принял участие в TALIS. Этот третий цикл прошел с участием более чем 260 тысяч учителей и директоров школ из 48 стран мира, в том числе 6 566 учителей и 331 директор школы со всех регионов Казахстана. Результаты показали сильные (высокие показатели охвата и удовлетворенности мероприятиями профессионального развития) и слабые (чрезмерная загруженность, существенно превышающая среднюю по ОЭСР; низкая удовлетворенность учителей в городской местности) стороны по различным аспектам педагогического корпуса</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>АО «Информационно-аналитический центр»</td>
 <td>
 099 «Обеспечение доступности качественного школьного образования»
 113 «Проведение внешней оценки качества образования»
 </td>
-<td>83 897</td>
+<td>83 981</td>
 </tr>
 <tr>
-<td>73</td>
-<td>Разработка экзаменационных материалов государственного выпускного экзамена с учетом профиля обучения выпускников</td>
-<td>Разработка экзаменационных материалов государственного выпускного экзамена с учетом профиля обучения выпускников, который проводится в форме итоговой аттестации для получения аттестата об общем среднем образовании</td>
-<td>Министерство образования и науки Республики Казахстан</td>
-<td>РГКП «Национальный центр тестирования»</td>
-<td>
-099 «Обеспечение доступности качественного школьного образования»
-113 «Проведение внешней оценки качества образования»
-</td>
-<td>23 771</td>
+<td colspan="7">73 Исключена постановлением Правительства РК от 09.12.2021 № 873 (вводится в действие с 01.01.2021).</td>
 </tr>
 <tr>
 <td>74</td>
@@ -18826,33 +19345,27 @@ ICILS – это первое исследование компьютерной 
 </tr>
 <tr>
 <td>75</td>
-<td>
-Услуги по формированию базы тестовых заданий для национального квалификационного тестирования педагогических работников и приравненных к ним лиц, занимающих должности
-в организациях образования, реализующих образовательные программы технического и профессионального, послесреднего образования
-</td>
-<td>
-Разработка базы тестовых заданий для национального квалификационного тестирования педагогических работников и приравненных к ним лиц, занимающих должности
-в организациях образования, реализующих образовательные программы технического и профессионального, послесреднего образования
-</td>
+<td>Услуги по формированию базы тестовых заданий для национального квалификационного тестирования педагогических работников и приравненных к ним лиц, занимающих должности в организациях образования, реализующих образовательные программы технического и профессионального, послесреднего образования</td>
+<td>Разработка базы тестовых заданий для национального квалификационного тестирования педагогических работников и приравненных к ним лиц, занимающих должности в организациях образования, реализующих образовательные программы технического и профессионального, послесреднего образования</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>РГКП «Национальный центр тестирования»</td>
 <td>
 203 «Обеспечение кадрами с техническим и профессиональным образованием»
 109 «Проведение внешней оценки качества технического и профессионального образования»
 </td>
-<td>276 767</td>
+<td>196 984</td>
 </tr>
 <tr>
 <td>76</td>
 <td>Организация и проведение конкурсов профмастерства на международном уровне с учетом требований организации WorldSkills</td>
-<td>Организация и проведение Национальным оператором Национального чемпионата WorldSkills Kazakhstan для участия членов национальной сборной Казахстана в международных чемпионатах WorldSkills International в г.Шанхай (Китай), оплата ежегодных членских взносов в международные ассоциации WorldSkills International и WorldSkills Europe</td>
+<td>Организация и проведение Национальным оператором Национального чемпионата WorldSkills Kazakhstan для участия членов национальной сборной Казахстана в международных чемпионатах WorldSkills International в г. Шанхай (Китай), оплата ежегодных членских взносов в международные ассоциации WorldSkills International и WorldSkills Europe</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>НАО «Таlap»</td>
 <td>
 203 «Обеспечение кадрами с техническим и профессиональным образованием»
 110 «Услуги по развитию системы технического и профессионального образования на основе международного опыта»
 </td>
-<td>428 875</td>
+<td>236 886</td>
 </tr>
 <tr>
 <td>77</td>
@@ -18865,6 +19378,15 @@ ICILS – это первое исследование компьютерной 
 110 «Услуги по развитию системы технического и профессионального образования на основе международного опыта»
 </td>
 <td>154 162</td>
+</tr>
+<tr>
+<td>77-1</td>
+<td>Услуги по разработке типовых учебных программ и планов по специальностям послесреднего образования с учетом академической самостоятельности организаций образования</td>
+<td>Целью государственного задания является разработка типовых учебных программ и планов по 92 специальностям, в том числе 98 квалификациям, послесреднего образования на основе кредитно-модульной технологии обучения с учетом академической самостоятельности организаций образования на 2-х языках: государственном и русском. Перечень специальностей и квалификаций послесреднего образования для разработки типовых учебных планов и программ составлен на основе анализа классификатора специальностей и квалификаций технического и профессионального, послесреднего образования, утвержденного приказом Министра образования и науки от 27 сентября 2018 года № 500 (с уточнением от 21.01.2021г., приказ МОН РК № 28)</td>
+<td>Министерство образования и науки Республики Казахстан</td>
+<td>НАО «Таlap»</td>
+<td>203 «Обеспечение кадрами с техническим и профессиональным образованием» 110 «Услуги по развитию системы технического и профессионального образования на основе международного опыта»</td>
+<td>44 910</td>
 </tr>
 <tr>
 <td>78</td>
@@ -18947,15 +19469,15 @@ ICILS – это первое исследование компьютерной 
 </tr>
 <tr>
 <td>84</td>
-<td>Оценка уровня знания казахского языка граждан Республики Казахстан (КАЗТЕСТ)</td>
-<td>КАЗТЕСТ - это система оценки уровня владения казахским языком граждан Республики Казахстан и иностранных граждан, осуществляющих различные виды деятельности на территории Республики Казахстан. Для реализации государственной языковой политики начиная с 2006 года ежегодно проводится тестирование по системе КАЗТЕСТ. Диагностическое тестирование государственных служащих и работников бюджетных организаций проводится бесплатно. Для обновления базы проводятся разработка, две экспертизы и две корректировки тестовых заданий. Организовываются и проводятся курсы повышения квалификации разработчиков и экспертов тестовых заданий</td>
+<td>Оценка уровня знания казахского языка граждан Республики Казахстан (Казтест)</td>
+<td>КАЗТЕСТ – это система оценки уровня владения казахским языком граждан Республики Казахстан и иностранных граждан, осуществляющих различные виды деятельности на территории Республики Казахстан. Для реализации государственной языковой политики, начиная с 2006 года, ежегодно проводится тестирование по системе КАЗТЕСТ. Диагностическое тестирование государственных служащих и работников бюджетных организаций проводится бесплатно. Для обновления базы проводятся разработка, две экспертизы и две корректировки тестовых заданий. Организовываются и проводятся курсы повышения квалификации разработчиков и экспертов тестовых заданий</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>РГКП «Национальный центр тестирования»</td>
 <td>
 204 «Обеспечение кадрами с высшим и послевузовским образованием»
 108 «Оценка уровня знания казахского языка граждан Республики Казахстан»
 </td>
-<td>47 555</td>
+<td>41 343</td>
 </tr>
 <tr>
 <td>85</td>
@@ -18972,7 +19494,7 @@ ICILS – это первое исследование компьютерной 
 204 «Обеспечение кадрами с высшим и послевузовским образованием»
 109 «Проведение внешней оценки качества образования»
 </td>
-<td>1 670 902</td>
+<td>1 554 422</td>
 </tr>
 <tr>
 <td>86</td>
@@ -19082,6 +19604,15 @@ ICILS – это первое исследование компьютерной 
 <td>480 955</td>
 </tr>
 <tr>
+<td>94-1</td>
+<td>Организация и проведение курсов повышения квалификации руководителей и педагогов организаций ТиППО по международным требованиям</td>
+<td>Повышение квалификации педагогов и руководителей организаций технического и профессионального, послесреднего образования на основе инновационных подходов формирования педагога новой формации</td>
+<td>Министерство образования и науки Республики Казахстан</td>
+<td>НАО «Таlap»</td>
+<td>223 «Повышение квалификации и переподготовка кадров государственных организаций технического и профессионального образования»</td>
+<td>242 974</td>
+</tr>
+<tr>
 <td>95</td>
 <td>Услуги по организации и проведению мероприятий в области дополнительного образования «Медаль Елбасы»</td>
 <td>Организация и проведение мероприятий в области дополнительного образования «Медаль Елбасы». Нормативное обеспечение системы для мотивации и развития детей и молодежи от 14 до 29 лет. Создание региональной сети системы для мотивации и развития молодежи от 14 до 29 лет. Мониторинг достижений участников</td>
@@ -19114,11 +19645,8 @@ ICILS – это первое исследование компьютерной 
 <td>Проведение мероприятий по реализации Государственной программы по реализации языковой политики в Республике Казахстан на 2020 - 2025 годы</td>
 <td>Министерство образования и науки Республики Казахстан</td>
 <td>НАО «Национальный научно-практический центр «Тіл-Қазына» имени Шайсултана Шаяхметова»</td>
-<td>
-230 «Развитие государственного языка и других языков народа Казахстана», подпрограмма
-100 «Обеспечение развития государственного языка и других языков народа Казахстана»
-</td>
-<td>391 870</td>
+<td>230 «Развитие государственного языка и других языков народа Казахстана», подпрограмма 100 «Обеспечение развития государственного языка и других языков народа Казахстана»</td>
+<td>344 271</td>
 </tr>
 <tr>
 <td>99</td>
@@ -19134,12 +19662,12 @@ ICILS – это первое исследование компьютерной 
 <td>Методологическое сопровождение и мониторинг реализации Государственной программы развития здравоохранения Республики Казахстан на 2020 – 2025 годы и стратегических направлений в области здравоохранения, обозначенных в Стратегии развития «Казахстан – 2050»</td>
 <td>Методологическое сопровождение и мониторинг реализации Государственной программы развития здравоохранения Республики Казахстан на 2020 - 2025 годы</td>
 <td>Министерство здравоохранения Республики Казахстан</td>
-<td>РГП на ПХВ «Республиканский центр развития здравоохранения»</td>
+<td>РГП на ПХВ «Национальный научный центр развития здравоохранения имени Салидат Каирбековой»</td>
 <td>
 001 «Формирование государственной политики в области здравоохранения»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
 </td>
-<td>52 144</td>
+<td>42 776</td>
 </tr>
 <tr>
 <td>101</td>
@@ -19179,18 +19707,15 @@ ICILS – это первое исследование компьютерной 
 </tr>
 <tr>
 <td>104</td>
-<td>Обеспечение деятельности географически удаленного офиса Всемирной организаций здравоохранения по первичной медико-санитарной помощи</td>
-<td>
-Оказание консультативно-технической поддержки и создание условий государствам-членам Европейского региона
-ВОЗ в планировании, систематизации регионального опыта и содействие передаче знаний по первичной медико-санитарной помощи между государствами-членами. Обеспечение поддержки Географически удаленного офиса в выполнении обязательств, принятых на региональном и глобальном уровнях в области предоставления медицинских услуг с соблюдением принципов социальной ответственности и эффективности. Предоставление помещения согласно требованиям Всемирной организации здравоохранения, предоставление оборудования, мебели и техники; создание условий работы Географически удаленного офиса в Казахстане
-</td>
+<td>Обеспечение деятельности географически удаленного офиса Всемирной организации здравоохранения по первичной медико-санитарной помощи</td>
+<td>Оказание консультативно-технической поддержки и создание условий государствам-членам Европейского региона ВОЗ в планировании, систематизации регионального опыта и содействие передаче знаний по первичной медико-санитарной помощи между государствами-членами. Обеспечение поддержки географически удаленного офиса в выполнении обязательств, принятых на региональном и глобальном уровнях в области предоставления медицинских услуг, с соблюдением принципов социальной ответственности и эффективности. Предоставление помещения согласно требованиям Всемирной организации здравоохранения, предоставление оборудования, мебели и техники; создание условий работы Географически удаленного офиса в Казахстане</td>
 <td>Министерство здравоохранения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный центр общественного здравоохранения»</td>
 <td>
 001 «Формирование государственной политики в области здравоохранения»
 103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
 </td>
-<td>23 945</td>
+<td>14 866</td>
 </tr>
 <tr>
 <td>105</td>
@@ -19209,12 +19734,12 @@ ICILS – это первое исследование компьютерной 
 <td>Обеспечение функционирования информационных систем в области здравоохранения</td>
 <td>Описание бизнес-процессов и разработка предложения стандартных бизнес-процессов в условиях первичной медико-санитарной помощи. Разработка предложений по переводу форм, учетной и отчетной документации в области здравоохранения в электронный формат. Разработка предложений для создания методологии работы DICOM PACS системы (picture archiving and communication system)</td>
 <td>Министерство здравоохранения Республики Казахстан</td>
-<td>РГП на ПХВ «Республиканский центр развития здравоохранения»</td>
+<td>РГП на ПХВ «Национальный научный центр развития здравоохранения имени Салидат Каирбековой»</td>
 <td>
 001 «Формирование государственной политики в области здравоохранения»
 104 «Обеспечение функционирования информационных систем и информационно-техническое обеспечение государственного органа»
 </td>
-<td>144 128</td>
+<td>144128</td>
 </tr>
 <tr>
 <td>106</td>
@@ -19226,19 +19751,26 @@ ICILS – это первое исследование компьютерной 
 067 «Обеспечение гарантированного объема бесплатной медицинской помощи»
 102 «Услуги по обеспечению финансирования гарантированного объема бесплатной медицинской помощи»
 </td>
-<td>638 571</td>
+<td>183307</td>
 </tr>
 <tr>
 <td>107</td>
 <td>Организация работы по развитию санитарной авиации Республики Казахстан</td>
-<td>Организация экстренной медицинской помощи населению Республики Казахстан с использованием воздушного транспорта (санитарной авиации). Организация и координация деятельности региональных отделений санитарной авиации. Развитие службы санитарной авиации в Республике Казахстан на основе международных стандартов</td>
+<td>
+Организация экстренной медицинской помощи населению Республики Казахстан с использованием воздушного транспорта (санитарной авиации).
+Организация и координация деятельности региональных отделений санитарной авиации.
+Развитие службы санитарной авиации в Республике Казахстан на основе международных стандартов
+</td>
 <td>Министерство здравоохранения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный координационный центр экстренной медицины»</td>
 <td>
 067 «Обеспечение гарантированного объема бесплатной медицинской помощи»
 107 «Оказание медицинской помощи в форме санитарной авиации за счет средств республиканского бюджета»
 </td>
-<td>6 590 816</td>
+<td>
+7
+388916
+</td>
 </tr>
 <tr>
 <td>108</td>
@@ -19452,19 +19984,19 @@ ICILS – это первое исследование компьютерной 
 033 «Повышение конкурентоспособности сферы культуры и искусства, сохранение, изучение и популяризация казахстанского культурного наследия и повышение эффективности реализации архивного дела»
 104 «Производство национальных фильмов за счет средств республиканского бюджета»
 </td>
-<td>113 153</td>
+<td>134 712</td>
 </tr>
 <tr>
 <td>119</td>
 <td>Мероприятия с участием Главы государства</td>
-<td>Проведение праздничных мероприятий и торжественных концертов, посвященных государственным, национальным, профессиональным и иным праздникам Республики Казахстан, Ассамблее народа Казахстана, организация концертных программ в рамках официальных встреч Первого Президента Республики Казахстан - Елбасы, Главы государства и Премьер-Министра Республики Казахстан с иностранными делегациями, обеспечение участия в мероприятиях Содружества Независимых Государств, Евразийского экономического союза, Шанхайской организации сотрудничества, ТЮРКСОЙ, ЮНЕСКО и ИСЕСКО, обеспечение участия творческих коллективов и исполнителей в Синьцзян-Уйгурском автономном районе (КНР), обеспечение участия казахстанских исполнителей в международных конкурсах и выступлений молодых дарований и ведущих исполнителей в лучших залах мира, республиканского айтыса акынов, а также организация юбилейных мероприятий в рамках 175-летнего юбилея Жамбыла Жабаева и 30-летия Независимости Республики Казахстан, в том числе проведение республиканского конкурса, гала-концерта в рамках торжественной церемонии награждения Национального конкурса «Мерейлі отбасы-2021», общенационального Дня домбры «Нағыз қазақ қазақ емес, нағыз қазақ – домбыра»</td>
+<td>Проведение праздничных мероприятий и торжественных концертов, посвященных государственным, национальным, профессиональным и иным праздникам Республики Казахстан, Ассамблее народа Казахстана, организация концертных программ в рамках официальных встреч Первого Президента Республики Казахстан – Елбасы, Главы государства и Премьер-Министра Республики Казахстан с иностранными делегациями, обеспечение участия в мероприятиях Содружества Независимых Государств, Евразийского экономического союза, Шанхайской организации сотрудничества, ТЮРКСОЙ, ЮНЕСКО и ИСЕСКО, обеспечение участия творческих коллективов и исполнителей в Синьцзян–Уйгурском автономном районе (КНР), обеспечение участия казахстанских исполнителей в международных конкурсах и выступлений молодых дарований и ведущих исполнителей в лучших залах мира, республиканского айтыса акынов, а также организация юбилейных мероприятий в рамках 175-летнего юбилея Жамбыла Жабаева и 30-летия Независимости Республики Казахстан, в том числе проведение республиканского конкурса, гала-концерта в рамках торжественной церемонии награждения Национального конкурса «Мерейлі отбасы-2021», общенационального Дня домбры «Нағыз қазақ қазақ емес, нағыз қазақ – домбыра»</td>
 <td>Министерство культуры и спорта Республики Казахстан</td>
 <td>АО «Қазақ әуендері»</td>
 <td>
 033 «Повышение конкурентоспособности сферы культуры и искусства, сохранение, изучение и популяризация казахстанского культурного наследия и повышение эффективности реализации архивного дела»
 105 «Проведение социально значимых и культурных мероприятий за счет средств республиканского бюджета»
 </td>
-<td>2 405 461</td>
+<td>2 805 461</td>
 </tr>
 <tr>
 <td>120</td>
@@ -19501,7 +20033,7 @@ ICILS – это первое исследование компьютерной 
 036 «Развитие спорта высших достижений»
 100 «Обеспечение развития спорта высших достижений за счет средств республиканского бюджета»
 </td>
-<td>15 579 450</td>
+<td>15 553 757</td>
 </tr>
 <tr>
 <td>123</td>
@@ -19513,7 +20045,7 @@ ICILS – это первое исследование компьютерной 
 036 «Развитие спорта высших достижений»
 100 «Обеспечение развития спорта высших достижений за счет средств республиканского бюджета»
 </td>
-<td>2 723 155</td>
+<td>2 114 948</td>
 </tr>
 <tr>
 <td>124</td>
@@ -19594,11 +20126,8 @@ ICILS – это первое исследование компьютерной 
 <td>Обеспечение радиационной и пожарной безопасности реакторной установки БН-350</td>
 <td>Министерство энергетики Республики Казахстан</td>
 <td>ТОО «МАЭК-Казатомпром»</td>
-<td>
-036 «Развитие атомных и энергетических проектов»
-101 «Обеспечение радиационной безопасности на территории Республики Казахстан»
-</td>
-<td>1 063 107</td>
+<td>036 «Развитие атомных и энергетических проектов» 101 «Обеспечение радиационной безопасности на территории Республики Казахстан»</td>
+<td>1 035 102</td>
 </tr>
 <tr>
 <td>130</td>
@@ -19741,7 +20270,10 @@ ICILS – это первое исследование компьютерной 
 003 «Развитие автомобильных дорог на республиканском уровне»
 005 «За счет внутренних источников»
 </td>
-<td>53 446 011</td>
+<td>
+46
+973837
+</td>
 </tr>
 <tr>
 <td>142</td>
@@ -19851,7 +20383,7 @@ ICILS – это первое исследование компьютерной 
 <td>Министерство индустрии и инфраструктурного развития Республики Казахстан</td>
 <td>АО «Национальная компания «ҚазАвтоЖол»</td>
 <td>240 «Строительство и реконструкция пунктов пропуска через Государственную границу Республики Казахстан»</td>
-<td>937 638</td>
+<td>833538</td>
 </tr>
 <tr>
 <td>151</td>
