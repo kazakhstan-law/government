@@ -1,4 +1,6 @@
-# Об установлении базовых ставок платы за земельные участки при их предоставлении в частную собственность по Южно-Казахстанской области
+# Об установлении базовых ставок платы за земельные участки при их предоставлении в частную собственность по Туркестанской области
+
+> *Сноска. Заголовок совместного постановления и решения в редакции совместного решения Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановления акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 В соответствии с пунктом 1 статьи 10 Земельного кодекса Республики Казахстан от 20 июня 2003 года, подпунктом 13) пункта 1 статьи 6 и подпунктом 8) пункта 1 статьи 27 Закона Республики Казахстан от 23 января 2001 года № 148 "О местном государственном управлении и самоуправлении в Республике Казахстан" Южно-Казахстанский областной маслихат РЕШИЛ и акимат Южно-Казахстанской области ПОСТАНОВИЛ:
 
@@ -54,7 +56,7 @@
 
 # Базовые ставки платы за земельные участки при их предоставлении в частную собственность
 
-> *Сноска. Приложение 1 в редакции решения областного маслихата Южно-Казахстанской области от 30.05.2012 № 4/37-V (вводится в действие по истечении десяти календарных дней после первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции решения областного маслихата Южно-Казахстанской области от 30.05.2012 № 4/37-V (вводится в действие по истечении десяти календарных дней после первого официального опубликования); с изменениями, внесенным совместным решением Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановлением акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -63,9 +65,7 @@
 <td colspan="2">Базовая ставка 1 квадратного метра земли (в тенге)</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td>город Шымкент</td>
-<td colspan="2">1275</td>
+<td colspan="5">1. Исключена совместным решением Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановлением акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).</td>
 </tr>
 <tr>
 <td colspan="5">Арысский район</td>
@@ -81,32 +81,32 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Акдала</td>
+<td>село Акдала</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул им.Акына Жакыпа</td>
+<td>село им.Акына Жакыпа</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул им. Пакентая Арапова</td>
+<td>село им. Пакентая Арапова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Тахыркол</td>
+<td>село Тахыркол</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Тогайлы</td>
+<td>село Тогайлы</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Онтам</td>
+<td>село Онтам</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -115,17 +115,17 @@
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Байыркум</td>
+<td>село Байыркум</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Жосалы</td>
+<td>село Жосалы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Кокжиде</td>
+<td>селоКокжиде</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -134,32 +134,32 @@
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Дермене</td>
+<td>село Дермене</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>аул Саналы</td>
+<td>село Саналы</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Каражантак</td>
+<td>село Каражантак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Шаян</td>
+<td>село Шаян</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Темиржолшы</td>
+<td>село Темиржолшы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Лесхоз</td>
+<td>село Лесхоз</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -173,12 +173,12 @@
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Жидели</td>
+<td>село Жидели</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Аккала</td>
+<td>село Аккала</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -187,12 +187,12 @@
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Сырдария</td>
+<td>село Сырдария</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Шогирли</td>
+<td>село Шогирли</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -201,37 +201,37 @@
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Монтайтас</td>
+<td>село Монтайтас</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Кожатогай</td>
+<td>село Кожатогай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Бакырша</td>
+<td>село Бакырша</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Тогансай</td>
+<td>село Тогансай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Актас</td>
+<td>село Актас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Шагыр</td>
+<td>село Шагыр</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Кабылсай</td>
+<td>село Кабылсай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -244,7 +244,7 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Шаян</td>
+<td>село Шаян</td>
 <td colspan="2">237</td>
 </tr>
 <tr>
@@ -253,22 +253,22 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Актас</td>
+<td>село Актас</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Кошкарата</td>
+<td>село Кошкарата</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Кенсай</td>
+<td>село Кенсай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Шукыршык</td>
+<td>село Шукыршык</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -277,22 +277,22 @@
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Шакпак</td>
+<td>село Шакпак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Усиктас</td>
+<td>село Усиктас</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Танатар</td>
+<td>село Танатар</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Казата</td>
+<td>село Казата</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -301,57 +301,57 @@
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Боралдай</td>
+<td>село Боралдай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Жогаргы Боралдай</td>
+<td>село Жогаргы Боралдай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул им. О.Тайманова</td>
+<td>село им. О.Тайманова</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Жыланды</td>
+<td>село Жыланды</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Амансай</td>
+<td>село Амансай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Сарыбулак</td>
+<td>село Сарыбулак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Талап</td>
+<td>село Талап</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Туйетас</td>
+<td>село Туйетас</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Акжар</td>
+<td>село Акжар</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Каратас</td>
+<td>село Каратас</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Теректы</td>
+<td>село Теректы</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -360,32 +360,32 @@
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Мынбулак</td>
+<td>село Мынбулак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Бестогай</td>
+<td>село Бестогай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Косбулак</td>
+<td>село Косбулак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Кайнарбулак</td>
+<td>село Кайнарбулак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Акбулак</td>
+<td>село Акбулак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Нура</td>
+<td>село Нура</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -394,27 +394,27 @@
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Жамбыл</td>
+<td>село Жамбыл</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Кызылжар</td>
+<td>село Кызылжар</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Таскудык</td>
+<td>село Таскудык</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Шыбыт</td>
+<td>село Шыбыт</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Жузимдик</td>
+<td>село Жузимдик</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -423,17 +423,17 @@
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Кенестобе</td>
+<td>село Кенестобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Бирлик</td>
+<td>село Бирлик</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -442,22 +442,22 @@
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Алмалы</td>
+<td>село Алмалы</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Жарыкбас</td>
+<td>село Жарыкбас</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Байдибек ата</td>
+<td>село Байдибек ата</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Байжансай</td>
+<td>село Байжансай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -466,22 +466,22 @@
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Агыбет</td>
+<td>село Агыбет</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Жулдыз</td>
+<td>село Жулдыз</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -490,22 +490,22 @@
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Акбастау</td>
+<td>село Акбастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Кенес</td>
+<td>село Кенес</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Жолгабас</td>
+<td>село Жолгабас</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Туракты</td>
+<td>село Туракты</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -514,27 +514,27 @@
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Шалдар</td>
+<td>село Шалдар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Саркырама</td>
+<td>село Саркырама</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Екпинди</td>
+<td>село Екпинди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Жиенкум</td>
+<td>село Жиенкум</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Бекбау</td>
+<td>село Бекбау</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -547,17 +547,17 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Байылдыр</td>
+<td>село Байылдыр</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Хантагы</td>
+<td>село Хантагы</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Ащысай</td>
+<td>село Ащысай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -566,32 +566,32 @@
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Карнак</td>
+<td>село Карнак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Кушата</td>
+<td>село Кушата</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Акынтума</td>
+<td>село Акынтума</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Жербаскан</td>
+<td>село Жербаскан</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Бургем</td>
+<td>село Бургем</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Шаштобе</td>
+<td>село Шаштобе</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -599,7 +599,7 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Казыгурт</td>
+<td>село Казыгурт</td>
 <td colspan="2">335</td>
 </tr>
 <tr>
@@ -608,32 +608,32 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Каржан</td>
+<td>село Каржан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Алтынтобе</td>
+<td>село Алтынтобе</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Аккум</td>
+<td>село Аккум</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Карабау</td>
+<td>село Карабау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Косагаш</td>
+<td>село Косагаш</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Лесхоз</td>
+<td>село Лесхоз</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -642,47 +642,47 @@
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Жанабазар</td>
+<td>село Жанабазар</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Жогары Жылыбулак</td>
+<td>село Жогары Жылыбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Кожамберди</td>
+<td>село Кожамберди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Жанажол</td>
+<td>село Жанажол</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Женис</td>
+<td>село Женис</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Карабастау</td>
+<td>село Карабастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Тилектес</td>
+<td>село Тилектес</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Улгили</td>
+<td>село Улгили</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -691,17 +691,17 @@
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Кокибел</td>
+<td>село Кокибел</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Майбулак</td>
+<td>село Майбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Кызыл ата</td>
+<td>село Кызыл ата</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -710,27 +710,27 @@
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Жигерген</td>
+<td>село Жигерген</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Кызыл булак</td>
+<td>село Кызыл булак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Айнатас</td>
+<td>село Айнатас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Тесиктобе</td>
+<td>село Тесиктобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Огем</td>
+<td>село Огем</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -739,32 +739,32 @@
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Шарапхана</td>
+<td>село Шарапхана</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Бахабулак</td>
+<td>село Бахабулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Жинишке</td>
+<td>село Жинишке</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Махамбет</td>
+<td>село Махамбет</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Майлыошак</td>
+<td>село Майлыошак</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Талдыбулак</td>
+<td>село Талдыбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -773,27 +773,27 @@
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Кызылкия</td>
+<td>село Кызылкия</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Араншы</td>
+<td>село Араншы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Айнатас</td>
+<td>село Айнатас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Кызылсенгир</td>
+<td>село Кызылсенгир</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -802,22 +802,22 @@
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Турбат</td>
+<td>село Турбат</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Енбек</td>
+<td>село Енбек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Кызыл дихан</td>
+<td>село Кызыл дихан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Ондирис</td>
+<td>село Ондирис</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -826,37 +826,37 @@
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Рабат</td>
+<td>село Рабат</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Амангельди</td>
+<td>село Амангельди</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Атбулак</td>
+<td>село Атбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Кыдыра Мамбеталиева</td>
+<td>село Кыдыра Мамбеталиева</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Кызыл дала</td>
+<td>село Кызыл дала</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -865,27 +865,27 @@
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Шанак</td>
+<td>село Шанак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Акжар</td>
+<td>село Акжар</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Ески Шанак</td>
+<td>село Ески Шанак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Станция Шанак</td>
+<td>село Станция Шанак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Ызабулак</td>
+<td>село Ызабулак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -894,27 +894,27 @@
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Шарбулак</td>
+<td>село Шарбулак</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Кезен булак</td>
+<td>село Кезен булак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Ащыбулак</td>
+<td>село Ащыбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Акбастау</td>
+<td>село Акбастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Молбулак</td>
+<td>село Молбулак</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -923,22 +923,22 @@
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Карабау</td>
+<td>село Карабау</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Сынтас</td>
+<td>село Сынтас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Жумысшы</td>
+<td>село Жумысшы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Ушбулак</td>
+<td>село Ушбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -947,7 +947,7 @@
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Какпак</td>
+<td>село Какпак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -964,66 +964,66 @@
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">аул Ж.Калшораева</td>
+<td colspan="2">село Ж.Калшораева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">аул Хайдар</td>
+<td colspan="2">село Хайдар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">аул Бескетик</td>
+<td colspan="2">село Бескетик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">аул Достык</td>
+<td colspan="2">село Достык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">аул Гулистан</td>
+<td colspan="2">село Гулистан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">аул Водное</td>
+<td colspan="2">село Водное</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">сельский округ Жанааул</td>
+<td colspan="4">сельский округ Жанасело</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">аул Мырзашол</td>
+<td colspan="2">село Мырзашол</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">аул Атаконыс</td>
+<td colspan="2">село Атаконыс</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">аул Жанааул</td>
+<td colspan="2">село Жанасело</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">аул Карой</td>
+<td colspan="2">село Карой</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">аул Абдихалык</td>
+<td colspan="2">село Абдихалык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">аул Ынтымак</td>
+<td colspan="2">село Ынтымак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1032,42 +1032,42 @@
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">аул Улгили</td>
+<td colspan="2">село Улгили</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>15</td>
-<td colspan="2">аул Абад</td>
+<td colspan="2">село Абад</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">аул Жамбыл</td>
+<td colspan="2">село Жамбыл</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">аул Жана жол</td>
+<td colspan="2">село Жана жол</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="2">аул Атамура</td>
+<td colspan="2">село Атамура</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">аул Туран</td>
+<td colspan="2">село Туран</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="2">аул Тортколь</td>
+<td colspan="2">село Тортколь</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td>21</td>
-<td colspan="2">аул Тортколь-1</td>
+<td colspan="2">село Тортколь-1</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -1076,27 +1076,27 @@
 </tr>
 <tr>
 <td>22</td>
-<td colspan="2">аул Байконыс</td>
+<td colspan="2">село Байконыс</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>23</td>
-<td colspan="2">аул Жылысу</td>
+<td colspan="2">село Жылысу</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>24</td>
-<td colspan="2">аул Бакконыс</td>
+<td colspan="2">село Бакконыс</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="2">аул Мырзашокы</td>
+<td colspan="2">село Мырзашокы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>26</td>
-<td colspan="2">аул Сейфуллин</td>
+<td colspan="2">село Сейфуллин</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -1105,32 +1105,32 @@
 </tr>
 <tr>
 <td>27</td>
-<td colspan="2">аул К.Сатпаев</td>
+<td colspan="2">село К.Сатпаев</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>28</td>
-<td colspan="2">аул Кетебай</td>
+<td colspan="2">село Кетебай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>29</td>
-<td colspan="2">аул Каракай</td>
+<td colspan="2">село Каракай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>30</td>
-<td colspan="2">аул Каракайское</td>
+<td colspan="2">село Каракайское</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>31</td>
-<td colspan="2">аул Караозек</td>
+<td colspan="2">село Караозек</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td>32</td>
-<td colspan="2">аул Енбек</td>
+<td colspan="2">село Енбек</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -1139,37 +1139,37 @@
 </tr>
 <tr>
 <td>33</td>
-<td colspan="2">аул Казыбек би</td>
+<td colspan="2">село Казыбек би</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>34</td>
-<td colspan="2">аул Жамбыл</td>
+<td colspan="2">село Жамбыл</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>35</td>
-<td colspan="2">аул А.Оспанова</td>
+<td colspan="2">село А.Оспанова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>36</td>
-<td colspan="2">аул Алгабас</td>
+<td colspan="2">село Алгабас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>37</td>
-<td colspan="2">аул Курбан ата</td>
+<td colspan="2">село Курбан ата</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>38</td>
-<td colspan="2">аул Абибола</td>
+<td colspan="2">село Абибола</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td>39</td>
-<td colspan="2">аул К.Маркс</td>
+<td colspan="2">село К.Маркс</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1191,67 +1191,67 @@
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Жана дала</td>
+<td>село Жана дала</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Большевик</td>
+<td>село Большевик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Кирпичное</td>
+<td>село Кирпичное</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Жамбыл</td>
+<td>село Жамбыл</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Карисауыл</td>
+<td>село Карисауыл</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Чкалова</td>
+<td>село Чкалова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Ленинабад</td>
+<td>село Ленинабад</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Кызылтан</td>
+<td>село Кызылтан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Бирлик</td>
+<td>село Бирлик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Жданова</td>
+<td>село Жданова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Сайлау</td>
+<td>село Сайлау</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Алпамыс</td>
+<td>село Алпамыс</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1260,32 +1260,32 @@
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Жузимдик</td>
+<td>село Жузимдик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Халыктар достыгы</td>
+<td>село Халыктар достыгы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Алтын кемер</td>
+<td>село Алтын кемер</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Бейбитшилик</td>
+<td>село Бейбитшилик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Отан</td>
+<td>село Отан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Атажурт</td>
+<td>село Атажурт</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1294,62 +1294,62 @@
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Алтынсарин</td>
+<td>село Алтынсарин</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Жибек жолы</td>
+<td>село Жибек жолы</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">62</td>
-<td>аул Алмалы</td>
+<td>село Алмалы</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">63</td>
-<td>аул Жайлаукол</td>
+<td>село Жайлаукол</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">64</td>
-<td>аул Шолпанкудык</td>
+<td>село Шолпанкудык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">65</td>
-<td>аул Макталы</td>
+<td>село Макталы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">66</td>
-<td>аул Чехов</td>
+<td>село Чехов</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">67</td>
-<td>аул Саркырама</td>
+<td>село Саркырама</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">68</td>
-<td>аул Дархан-1</td>
+<td>село Дархан-1</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">69</td>
-<td>аул Дархан-2</td>
+<td>село Дархан-2</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">70</td>
-<td>аул Тындала</td>
+<td>село Тындала</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">71</td>
-<td>аул Темиржол</td>
+<td>село Темиржол</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -1358,77 +1358,77 @@
 </tr>
 <tr>
 <td colspan="2">72</td>
-<td>аул Арай</td>
+<td>село Арай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">73</td>
-<td>аул Жданова</td>
+<td>село Жданова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">74</td>
-<td>аул Жетиказына</td>
+<td>село Жетиказына</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">75</td>
-<td>аул Жетикубыр</td>
+<td>село Жетикубыр</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">76</td>
-<td>аул Жазыксай</td>
+<td>село Жазыксай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">77</td>
-<td>аул Жанадауир</td>
+<td>село Жанадауир</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">78</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">79</td>
-<td>аул Дихан</td>
+<td>село Дихан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">80</td>
-<td>аул Коктобе</td>
+<td>село Коктобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">81</td>
-<td>аул Муратбаева</td>
+<td>село Муратбаева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">82</td>
-<td>аул Жагажай</td>
+<td>село Жагажай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">83</td>
-<td>аул Сейфуллин</td>
+<td>село Сейфуллин</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">84</td>
-<td>аул Ауезов</td>
+<td>село Ауезов</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">85</td>
-<td>аул Утиртобе</td>
+<td>село Утиртобе</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">86</td>
-<td>аул Акжайлау</td>
+<td>село Акжайлау</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1437,47 +1437,47 @@
 </tr>
 <tr>
 <td colspan="2">87</td>
-<td>аул Талапты</td>
+<td>село Талапты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">88</td>
-<td>аул Адената</td>
+<td>село Адената</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">89</td>
-<td>аул Ушкопир</td>
+<td>село Ушкопир</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">90</td>
-<td>аул Нурауыл</td>
+<td>село Нурауыл</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">91</td>
-<td>аул Победа</td>
+<td>село Победа</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">92</td>
-<td>аул Оркенди</td>
+<td>село Оркенди</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">93</td>
-<td>аул Акниет</td>
+<td>село Акниет</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">94</td>
-<td>аул Корикти</td>
+<td>село Корикти</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">95</td>
-<td>аул Агынсай</td>
+<td>село Агынсай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1486,92 +1486,92 @@
 </tr>
 <tr>
 <td colspan="2">96</td>
-<td>аул Карасакал</td>
+<td>село Карасакал</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">97</td>
-<td>аул Киров</td>
+<td>село Киров</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">98</td>
-<td>аул Коскудык</td>
+<td>село Коскудык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">99</td>
-<td>аул Молшылык</td>
+<td>село Молшылык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">100</td>
-<td>аул Кызылту</td>
+<td>село Кызылту</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">101</td>
-<td>аул Жалпаккум</td>
+<td>село Жалпаккум</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">102</td>
-<td>аул Туркебай</td>
+<td>село Туркебай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">103</td>
-<td>аул Гагарино</td>
+<td>село Гагарино</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">104</td>
-<td>аул Кызылкум</td>
+<td>село Кызылкум</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">105</td>
-<td>аул Кобек</td>
+<td>село Кобек</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">106</td>
-<td>аул Датка</td>
+<td>село Датка</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">107</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">108</td>
-<td>аул Макталы</td>
+<td>село Макталы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">109</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">110</td>
-<td>аул Первомайское</td>
+<td>село Первомайское</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">111</td>
-<td>аул Актобе</td>
+<td>село Актобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">112</td>
-<td>аул Костакыр</td>
+<td>село Костакыр</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">113</td>
-<td>аул Первомайское-1</td>
+<td>село Первомайское-1</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -1580,72 +1580,72 @@
 </tr>
 <tr>
 <td colspan="2">114</td>
-<td>аул Когалы</td>
+<td>село Когалы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">115</td>
-<td>аул Когалы-1</td>
+<td>село Когалы-1</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">116</td>
-<td>аул Тындала</td>
+<td>село Тындала</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">117</td>
-<td>аул 40 лет Победы</td>
+<td>село 40 лет Победы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">118</td>
-<td>аул Атамекен</td>
+<td>село Атамекен</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">119</td>
-<td>аул Талапты</td>
+<td>село Талапты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">120</td>
-<td>аул Жемисти</td>
+<td>село Жемисти</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">121</td>
-<td>аул Алимбетова</td>
+<td>село Алимбетова</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">122</td>
-<td>аул Гарышкер</td>
+<td>село Гарышкер</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">123</td>
-<td>аул Габдулино</td>
+<td>село Габдулино</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">124</td>
-<td>аул Макташы</td>
+<td>село Макташы</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">125</td>
-<td>аул Прали</td>
+<td>село Прали</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">126</td>
-<td>аул Калпаксай</td>
+<td>село Калпаксай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">127</td>
-<td>аул Жибекши</td>
+<td>село Жибекши</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -1676,32 +1676,32 @@
 </tr>
 <tr>
 <td colspan="2">130</td>
-<td>аул Кокпарсай</td>
+<td>село Кокпарсай</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">131</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">132</td>
-<td>аул Кенесшил-1</td>
+<td>село Кенесшил-1</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">133</td>
-<td>аул Кенесшил-2</td>
+<td>село Кенесшил-2</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">134</td>
-<td>аул Андреева</td>
+<td>село Андреева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">135</td>
-<td>аул Октябрь</td>
+<td>село Октябрь</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1710,32 +1710,32 @@
 </tr>
 <tr>
 <td colspan="2">136</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">137</td>
-<td>аул Еркинабад</td>
+<td>село Еркинабад</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">138</td>
-<td>аул К.Пернебаева</td>
+<td>село К.Пернебаева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">139</td>
-<td>аул Оркениет</td>
+<td>село Оркениет</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">140</td>
-<td>аул Табысты</td>
+<td>село Табысты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">141</td>
-<td>аул Конырат</td>
+<td>село Конырат</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1744,82 +1744,82 @@
 </tr>
 <tr>
 <td colspan="2">142</td>
-<td>аул Оркениет</td>
+<td>село Оркениет</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">143</td>
-<td>аул Ак алтын</td>
+<td>село Ак алтын</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">144</td>
-<td>аул Шаттык</td>
+<td>село Шаттык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">145</td>
-<td>аул Азаттык</td>
+<td>село Азаттык</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">146</td>
-<td>аул Есентаев</td>
+<td>село Есентаев</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">147</td>
-<td>аул Игилик</td>
+<td>село Игилик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">148</td>
-<td>аул Елкконыс</td>
+<td>село Елкконыс</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">149</td>
-<td>аул 40 лет. Каз. ССР</td>
+<td>село 40 лет. Каз. ССР</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">150</td>
-<td>аул Амангельди</td>
+<td>село Амангельди</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">151</td>
-<td>аул Жулдыз</td>
+<td>село Жулдыз</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">152</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">153</td>
-<td>аул Мадениет</td>
+<td>село Мадениет</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">154</td>
-<td>аул Бахыт</td>
+<td>село Бахыт</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">155</td>
-<td>аул Тулпар</td>
+<td>село Тулпар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">156</td>
-<td>аул Кокарал</td>
+<td>село Кокарал</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">157</td>
-<td>аул Береке</td>
+<td>село Береке</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1828,32 +1828,32 @@
 </tr>
 <tr>
 <td colspan="2">158</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">159</td>
-<td>аул Мырзатобе</td>
+<td>село Мырзатобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">160</td>
-<td>аул Онимкер</td>
+<td>село Онимкер</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">161</td>
-<td>аул Ырысты</td>
+<td>село Ырысты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">162</td>
-<td>аул Каракир</td>
+<td>село Каракир</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">163</td>
-<td>аул Оркен</td>
+<td>село Оркен</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -1862,37 +1862,37 @@
 </tr>
 <tr>
 <td colspan="2">164</td>
-<td>аул Арайлы</td>
+<td>село Арайлы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">165</td>
-<td>аул Ак жол</td>
+<td>село Ак жол</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">166</td>
-<td>аул Оргебас</td>
+<td>село Оргебас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">167</td>
-<td>аул Фирдоуси</td>
+<td>село Фирдоуси</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">168</td>
-<td>аул Нурлы жол</td>
+<td>село Нурлы жол</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">169</td>
-<td>аул Женис</td>
+<td>село Женис</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">170</td>
-<td>аул Женис-1</td>
+<td>село Женис-1</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -1901,47 +1901,47 @@
 </tr>
 <tr>
 <td colspan="2">171</td>
-<td>аул Иржар</td>
+<td>село Иржар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">172</td>
-<td>аул Азат</td>
+<td>село Азат</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">173</td>
-<td>аул С.Рахымова</td>
+<td>село С.Рахымова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">174</td>
-<td>аул Мактажан</td>
+<td>село Мактажан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">175</td>
-<td>аул Алаш</td>
+<td>село Алаш</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">176</td>
-<td>аул Шапагат</td>
+<td>село Шапагат</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">177</td>
-<td>аул Наурыз</td>
+<td>село Наурыз</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">178</td>
-<td>аул Азамат</td>
+<td>село Азамат</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">179</td>
-<td>аул Дихан</td>
+<td>село Дихан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1950,27 +1950,27 @@
 </tr>
 <tr>
 <td colspan="2">180</td>
-<td>аул Т.Жайлибаева</td>
+<td>село Т.Жайлибаева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">181</td>
-<td>аул Нурлы тан</td>
+<td>село Нурлы тан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">182</td>
-<td>аул Шугыла</td>
+<td>село Шугыла</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">183</td>
-<td>аул Жантаксай</td>
+<td>село Жантаксай</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">184</td>
-<td>аул Т.Жайлибаева-1</td>
+<td>село Т.Жайлибаева-1</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -1979,47 +1979,47 @@
 </tr>
 <tr>
 <td colspan="2">185</td>
-<td>аул Жибекши</td>
+<td>село Жибекши</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">186</td>
-<td>аул Калпаксай</td>
+<td>село Калпаксай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">187</td>
-<td>аул Прали</td>
+<td>село Прали</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">189</td>
-<td>аул Тамды</td>
+<td>село Тамды</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">190</td>
-<td>аул Серикбай</td>
+<td>село Серикбай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">191</td>
-<td>аул Батырхан</td>
+<td>село Батырхан</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">192</td>
-<td>аул Жорабек</td>
+<td>село Жорабек</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">193</td>
-<td>аул Орыскудык</td>
+<td>село Орыскудык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">194</td>
-<td>аул Найман Бухарбай</td>
+<td>село Найман Бухарбай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2027,7 +2027,7 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Шаулдер</td>
+<td>село Шселодер</td>
 <td colspan="2">203</td>
 </tr>
 <tr>
@@ -2036,12 +2036,12 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Арыс</td>
+<td>село Арыс</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Шайманов</td>
+<td>село Шайманов</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2050,17 +2050,17 @@
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Маякум</td>
+<td>село Маякум</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Костерек</td>
+<td>село Костерек</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Бестам</td>
+<td>село Бестам</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2069,7 +2069,7 @@
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Аккум</td>
+<td>село Аккум</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2078,17 +2078,17 @@
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Балтаколь</td>
+<td>село Балтаколь</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Акколь</td>
+<td>село Акколь</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Колкудык</td>
+<td>село Колкудык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2097,22 +2097,22 @@
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Кокмардан</td>
+<td>село Кокмардан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Шытты</td>
+<td>село Шытты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Сарыколь</td>
+<td>село Сарыколь</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2121,27 +2121,27 @@
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Коксарай</td>
+<td>село Коксарай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Шенгельды</td>
+<td>село Шенгельды</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Ызакол</td>
+<td>село Ызакол</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Жанкел</td>
+<td>село Жанкел</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Табакбулак</td>
+<td>село Табакбулак</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2150,32 +2150,32 @@
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Ш.Калдакова</td>
+<td>село Ш.Калдакова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Бесторангыл</td>
+<td>село Бесторангыл</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Сырдария</td>
+<td>село Сырдария</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Станция Караконыр</td>
+<td>село Станция Караконыр</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Костуин</td>
+<td>село Костуин</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Арыс</td>
+<td>село Арыс</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2184,7 +2184,7 @@
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Актобе</td>
+<td>село Актобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2193,12 +2193,12 @@
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Жана Шилик</td>
+<td>село Жана Шилик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Ески Шилик</td>
+<td>село Ески Шилик</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2207,12 +2207,12 @@
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Каргалы</td>
+<td>село Каргалы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Отырар</td>
+<td>село Отырар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2221,22 +2221,22 @@
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Темир</td>
+<td>село Темир</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Отрабат</td>
+<td>село Отрабат</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Ак Шокат</td>
+<td>село Ак Шокат</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Узынкудык</td>
+<td>село Узынкудык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2250,17 +2250,17 @@
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Когам</td>
+<td>село Когам</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Талапты</td>
+<td>село Талапты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Мыншукыр</td>
+<td>село Мыншукыр</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2269,22 +2269,22 @@
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Кожатогай</td>
+<td>село Кожатогай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Байтогай</td>
+<td>село Байтогай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Дарбаза</td>
+<td>село Дарбаза</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Булак</td>
+<td>село Булак</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2301,12 +2301,12 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Акжар</td>
+<td>село Акжар</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Каратобе</td>
+<td>село Каратобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2315,17 +2315,17 @@
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Момынай</td>
+<td>село Момынай</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Аккум</td>
+<td>село Аккум</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Жанауюм</td>
+<td>село Жанауюм</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -2334,52 +2334,52 @@
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Алатау</td>
+<td>село Алатау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Косагаш</td>
+<td>село Косагаш</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Екпинди</td>
+<td>село Екпинди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Жанатурмыс</td>
+<td>село Жанатурмыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Корган</td>
+<td>село Корган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Нысанбек</td>
+<td>село Нысанбек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Шубарагаш</td>
+<td>село Шубарагаш</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Бирколик</td>
+<td>село Бирколик</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Кайнар</td>
+<td>село Кайнар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Шатыртобе</td>
+<td>село Шатыртобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2388,12 +2388,12 @@
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Мадани</td>
+<td>село Мадани</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Саркырама</td>
+<td>село Саркырама</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2402,17 +2402,17 @@
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Зертас</td>
+<td>село Зертас</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Жанакуш</td>
+<td>село Жанакуш</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Каракия</td>
+<td>село Каракия</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2421,22 +2421,22 @@
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Киелитас</td>
+<td>село Киелитас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Акайдар</td>
+<td>село Акайдар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Султанрабат</td>
+<td>село Султанрабат</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -2445,27 +2445,27 @@
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Жыланбузган</td>
+<td>село Жыланбузган</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Маятас</td>
+<td>село Маятас</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Елтай</td>
+<td>село Елтай</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Тогыс</td>
+<td>село Тогыс</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Айнатас</td>
+<td>село Айнатас</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -2474,27 +2474,27 @@
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Каратобе</td>
+<td>село Каратобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Балдыберек</td>
+<td>село Балдыберек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Тонкерис</td>
+<td>село Тонкерис</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Костобе</td>
+<td>село Костобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Майбулак</td>
+<td>село Майбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2503,27 +2503,27 @@
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Акбастау</td>
+<td>село Акбастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Ангир-Ата</td>
+<td>село Ангир-Ата</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Текесу</td>
+<td>село Текесу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Уюмшыл</td>
+<td>село Уюмшыл</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2532,22 +2532,22 @@
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Коксайек</td>
+<td>село Коксайек</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Казахстан</td>
+<td>село Казахстан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Жинишке</td>
+<td>село Жинишке</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Алтын бастау</td>
+<td>село Алтын бастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2556,17 +2556,17 @@
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Алшалы</td>
+<td>село Алшалы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Диханколь</td>
+<td>село Диханколь</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Узын арык</td>
+<td>село Узын арык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2575,22 +2575,22 @@
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Каскасу</td>
+<td>село Каскасу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Кенесарык</td>
+<td>село Кенесарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Жогаргы Каскасу</td>
+<td>село Жогаргы Каскасу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Керегетас</td>
+<td>село Керегетас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2599,37 +2599,37 @@
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Биринши мамыр</td>
+<td>село Биринши мамыр</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Бейнеткеш</td>
+<td>село Бейнеткеш</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Камшак</td>
+<td>село Камшак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Жанажол</td>
+<td>село Жанажол</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Тагайна</td>
+<td>село Тагайна</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2638,22 +2638,22 @@
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Жамбыл</td>
+<td>село Жамбыл</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Тасарык</td>
+<td>село Тасарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Ханарык</td>
+<td>село Ханарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">62</td>
-<td>аул Онтустик</td>
+<td>село Онтустик</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2670,32 +2670,32 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул К.Турысбекова</td>
+<td>село К.Турысбекова</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Акберди</td>
+<td>село Акберди</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Бимырза</td>
+<td>село Бимырза</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Куан-кудык</td>
+<td>село Куан-кудык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Пишентобе</td>
+<td>село Пишентобе</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Бозай</td>
+<td>село Бозай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2704,7 +2704,7 @@
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Коссейт</td>
+<td>село Коссейт</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2713,27 +2713,27 @@
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Жаушыкум-1</td>
+<td>село Жаушыкум-1</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Багыскол</td>
+<td>село Багыскол</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Жаушыкум</td>
+<td>село Жаушыкум</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Калгансыр</td>
+<td>село Калгансыр</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Куйган</td>
+<td>село Куйган</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2742,27 +2742,27 @@
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Коксу</td>
+<td>село Коксу</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Айдаркул-кашар</td>
+<td>село Айдаркул-кашар</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Баспанды</td>
+<td>село Баспанды</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Жоласар</td>
+<td>село Жоласар</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Сырдария</td>
+<td>село Сырдария</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2771,7 +2771,7 @@
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Узын ата</td>
+<td>село Узын ата</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2780,12 +2780,12 @@
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Казахстан</td>
+<td>село Казахстан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Целинное</td>
+<td>село Целинное</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2794,7 +2794,7 @@
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Кызылкум</td>
+<td>село Кызылкум</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2803,7 +2803,7 @@
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -2812,12 +2812,12 @@
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Акалтын</td>
+<td>село Акалтын</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул 60 лет Казахстана</td>
+<td>село 60 лет Казахстана</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -2826,12 +2826,12 @@
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Суткент</td>
+<td>село Суткент</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Шабырлы</td>
+<td>село Шабырлы</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -2839,7 +2839,7 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Т.Рыскулова</td>
+<td>село Т.Рыскулова</td>
 <td colspan="2">340</td>
 </tr>
 <tr>
@@ -2848,27 +2848,27 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Машат</td>
+<td>село Машат</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Мынбай</td>
+<td>село Мынбай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Енбек</td>
+<td>село Енбек</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Кызылбастау</td>
+<td>село Кызылбастау</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -2877,22 +2877,22 @@
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Жаскешу</td>
+<td>село Жаскешу</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Рыскул</td>
+<td>село Рыскул</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Жанузак</td>
+<td>село Жанузак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Пистели</td>
+<td>село Пистели</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -2901,17 +2901,17 @@
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Жабагылы</td>
+<td>село Жабагылы</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Абайлы</td>
+<td>село Абайлы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул 115-разъед</td>
+<td>село 115-разъед</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2920,22 +2920,22 @@
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Азаттык</td>
+<td>село Азаттык</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Шукырбулак</td>
+<td>село Шукырбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Тастыбулак</td>
+<td>село Тастыбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -2944,27 +2944,27 @@
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Кумисбастау</td>
+<td>село Кумисбастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Елтай</td>
+<td>село Елтай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Кемербастау</td>
+<td>село Кемербастау</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул М.Жаримбетова</td>
+<td>село М.Жаримбетова</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
@@ -2974,7 +2974,7 @@
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Майлыкент</td>
+<td>село Майлыкент</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -2983,27 +2983,27 @@
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Балыкты</td>
+<td>село Балыкты</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Шарафкент</td>
+<td>село Шарафкент</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Урбулак</td>
+<td>село Урбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Кокбулак</td>
+<td>село Кокбулак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3012,12 +3012,12 @@
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Дауан</td>
+<td>село Дауан</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Бакыбек</td>
+<td>село Бакыбек</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
@@ -3026,17 +3026,17 @@
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Керейит</td>
+<td>село Керейит</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Кайыршыкты</td>
+<td>село Кайыршыкты</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Макталы</td>
+<td>село Макталы</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3045,7 +3045,7 @@
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Шакпак баба</td>
+<td>село Шакпак баба</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3064,12 +3064,12 @@
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Кызылту</td>
+<td>село Кызылту</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -3078,42 +3078,42 @@
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Келтемашат</td>
+<td>село Келтемашат</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Аксай</td>
+<td>село Аксай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Даубаба-1</td>
+<td>село Даубаба-1</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Жиынбай</td>
+<td>село Жиынбай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Кершетас</td>
+<td>село Кершетас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Когалы</td>
+<td>село Когалы</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Даубаба-2</td>
+<td>село Даубаба-2</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Тортколь</td>
+<td>село Тортколь</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -3122,27 +3122,27 @@
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Амангельди</td>
+<td>село Амангельди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Жыланды</td>
+<td>село Жыланды</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Кабанбай</td>
+<td>село Кабанбай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Карабастау</td>
+<td>село Карабастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Тастумсык</td>
+<td>село Тастумсык</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
@@ -3151,22 +3151,22 @@
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Майтобе</td>
+<td>село Майтобе</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Коксагыз</td>
+<td>село Коксагыз</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Таусагыз</td>
+<td>село Таусагыз</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Кожамберды</td>
+<td>село Кожамберды</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3175,17 +3175,17 @@
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Акбиик</td>
+<td>село Акбиик</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Кулан</td>
+<td>село Кулан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Сартор</td>
+<td>село Сартор</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3199,12 +3199,12 @@
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Коктерек</td>
+<td>село Коктерек</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">62</td>
-<td>аул Иирсу</td>
+<td>село Иирсу</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -3212,7 +3212,7 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Темирлан</td>
+<td>село Темирлан</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -3221,42 +3221,42 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Бадам</td>
+<td>село Бадам</td>
 <td colspan="2">240</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Дербес</td>
+<td>село Дербес</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Мамыр</td>
+<td>село Мамыр</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Алтын тобе</td>
+<td>село Алтын тобе</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Акбулак</td>
+<td>село Акбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Кокбулак</td>
+<td>село Кокбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Карабастау</td>
+<td>село Карабастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Ордабасы</td>
+<td>село Ордабасы</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3265,42 +3265,42 @@
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Уялыжар</td>
+<td>село Уялыжар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Ыкыластемир</td>
+<td>село Ыкыластемир</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Жамбыл</td>
+<td>село Жамбыл</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Бирлик</td>
+<td>село Бирлик</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Калаш</td>
+<td>село Калаш</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Теспе</td>
+<td>село Теспе</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Кайнар</td>
+<td>село Кайнар</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -3309,32 +3309,32 @@
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Амангельди</td>
+<td>село Амангельди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Боралдай</td>
+<td>село Боралдай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Коктобе</td>
+<td>село Коктобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Кажымухан</td>
+<td>село Кажымухан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Кызыл сенгир</td>
+<td>село Кызыл сенгир</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3343,72 +3343,72 @@
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Караспан</td>
+<td>село Караспан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Бейсен</td>
+<td>село Бейсен</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Акжол</td>
+<td>село Акжол</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Берген</td>
+<td>село Берген</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Жулдыз</td>
+<td>село Жулдыз</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Торе арык</td>
+<td>село Торе арык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Кольтоган</td>
+<td>село Кольтоган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Акпан</td>
+<td>село Акпан</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Жанатурмыс</td>
+<td>село Жанатурмыс</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Мадениет</td>
+<td>село Мадениет</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Пахташы</td>
+<td>село Пахташы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Сарыарык</td>
+<td>село Сарыарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Батыр ата</td>
+<td>село Батыр ата</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3417,32 +3417,32 @@
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Береке</td>
+<td>село Береке</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Шубар</td>
+<td>село Шубар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Жусансай</td>
+<td>село Жусансай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Токсансай</td>
+<td>село Токсансай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Сарытогай</td>
+<td>село Сарытогай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Аккойлы</td>
+<td>село Аккойлы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3451,7 +3451,7 @@
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Шубарсу</td>
+<td>село Шубарсу</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -3460,12 +3460,12 @@
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Боген</td>
+<td>село Боген</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Кемер</td>
+<td>село Кемер</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -3474,12 +3474,12 @@
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Дихан</td>
+<td>село Дихан</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Женис</td>
+<td>село Женис</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -3488,7 +3488,7 @@
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Каракум</td>
+<td>село Каракум</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -3497,52 +3497,52 @@
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Тортколь</td>
+<td>село Тортколь</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Кызылжар</td>
+<td>село Кызылжар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Елшибек батыр</td>
+<td>село Елшибек батыр</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Кокарал</td>
+<td>село Кокарал</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул К.Спатаева</td>
+<td>село К.Спатаева</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Арыстанды</td>
+<td>село Арыстанды</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Нура</td>
+<td>село Нура</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Жайылма</td>
+<td>село Жайылма</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Аксары</td>
+<td>село Аксары</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -3559,7 +3559,7 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -3577,22 +3577,22 @@
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Б.Амирова</td>
+<td>село Б.Амирова</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул 28 Гвардии</td>
+<td>село 28 Гвардии</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Дихан</td>
+<td>село Дихан</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Берекели</td>
+<td>село Берекели</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3601,22 +3601,22 @@
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул К.Сатпаева</td>
+<td>село К.Сатпаева</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Онтустик</td>
+<td>село Онтустик</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Бирлесу</td>
+<td>село Бирлесу</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Аксу</td>
+<td>село Аксу</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3625,22 +3625,22 @@
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Алимтау</td>
+<td>село Алимтау</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Жайдак кудык</td>
+<td>село Жайдак кудык</td>
 <td colspan="2">133</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Коктал</td>
+<td>село Коктал</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Таскудык</td>
+<td>село Таскудык</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -3649,67 +3649,67 @@
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Бескубыр</td>
+<td>село Бескубыр</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул 1 Мамыр</td>
+<td>село 1 Мамыр</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Шынар</td>
+<td>село Шынар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Кошкарата</td>
+<td>село Кошкарата</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Ушкын</td>
+<td>село Ушкын</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Макташы</td>
+<td>село Макташы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Аманжар</td>
+<td>село Аманжар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Карабура</td>
+<td>село Карабура</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Жана коныс</td>
+<td>село Жана коныс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Бес ауыл</td>
+<td>село Бес ауыл</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Жамбыл</td>
+<td>село Жамбыл</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Байтерек</td>
+<td>село Байтерек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3718,27 +3718,27 @@
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Тонкерис</td>
+<td>село Тонкерис</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Курама</td>
+<td>село Курама</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Бостандык</td>
+<td>село Бостандык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3747,47 +3747,47 @@
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Жибекжолы</td>
+<td>село Жибекжолы</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Социализм</td>
+<td>село Социализм</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Жана турмыс</td>
+<td>село Жана турмыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Карабау</td>
+<td>село Карабау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Жана курылыс</td>
+<td>село Жана курылыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Кожахан</td>
+<td>село Кожахан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Саркырама</td>
+<td>село Саркырама</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Сок-сок</td>
+<td>село Сок-сок</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Тын</td>
+<td>село Тын</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3796,27 +3796,27 @@
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Жылга</td>
+<td>село Жылга</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Шайхана</td>
+<td>село Шайхана</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Каракалпак</td>
+<td>село Каракалпак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Шымырбай</td>
+<td>село Шымырбай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Кызыласу</td>
+<td>село Кызыласу</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3826,17 +3826,17 @@
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Нурауыл</td>
+<td>село Нурауыл</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Шенгельди</td>
+<td>село Шенгельди</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул 3 ферма</td>
+<td>село 3 ферма</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3845,12 +3845,12 @@
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Жемисти</td>
+<td>село Жемисти</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Тын</td>
+<td>село Тын</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3859,12 +3859,12 @@
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Акжар</td>
+<td>село Акжар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Багыс</td>
+<td>село Багыс</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3873,12 +3873,12 @@
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Дербисек</td>
+<td>село Дербисек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Атамекен</td>
+<td>село Атамекен</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3887,12 +3887,12 @@
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Кызылжар</td>
+<td>село Кызылжар</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Жаскешу</td>
+<td>село Жаскешу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3901,12 +3901,12 @@
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Акжол</td>
+<td>село Акжол</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Кауыншы</td>
+<td>село Кауыншы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -3915,67 +3915,67 @@
 </tr>
 <tr>
 <td colspan="2">62</td>
-<td>аул Ошакты</td>
+<td>село Ошакты</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">63</td>
-<td>аул Курбанов</td>
+<td>село Курбанов</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">64</td>
-<td>аул Енбек</td>
+<td>село Енбек</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">65</td>
-<td>аул Береке</td>
+<td>село Береке</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">66</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">67</td>
-<td>аул Санырау</td>
+<td>село Санырау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">68</td>
-<td>аул Коныртобе</td>
+<td>село Коныртобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">69</td>
-<td>аул Сарыжылга</td>
+<td>село Сарыжылга</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">70</td>
-<td>аул Саттаров</td>
+<td>село Саттаров</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">71</td>
-<td>аул Каратал</td>
+<td>село Каратал</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">72</td>
-<td>аул Бакшысай</td>
+<td>село Бакшысай</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">73</td>
-<td>аул Атаконыс</td>
+<td>село Атаконыс</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">74</td>
-<td>аул Жидели</td>
+<td>село Жидели</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -3984,17 +3984,17 @@
 </tr>
 <tr>
 <td colspan="2">75</td>
-<td>аул Таскескен</td>
+<td>село Таскескен</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">76</td>
-<td>аул Мадениет</td>
+<td>село Мадениет</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">77</td>
-<td>аул Тегисшил</td>
+<td>село Тегисшил</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4003,77 +4003,77 @@
 </tr>
 <tr>
 <td colspan="2">78</td>
-<td>аул Ак ниет</td>
+<td>село Ак ниет</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">79</td>
-<td>аул Келес</td>
+<td>село Келес</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">80</td>
-<td>аул Жанаарык</td>
+<td>село Жанаарык</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">81</td>
-<td>аул Енкес</td>
+<td>село Енкес</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">82</td>
-<td>аул Култума</td>
+<td>село Култума</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">83</td>
-<td>аул Дархан</td>
+<td>село Дархан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">84</td>
-<td>аул Нурлы жол</td>
+<td>село Нурлы жол</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">85</td>
-<td>аул Куркелес</td>
+<td>село Куркелес</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">86</td>
-<td>аул Алгабас</td>
+<td>село Алгабас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">87</td>
-<td>аул Ак уй</td>
+<td>село Ак уй</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">88</td>
-<td>аул Жылысу</td>
+<td>село Жылысу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">89</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">90</td>
-<td>аул Дастан</td>
+<td>село Дастан</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">91</td>
-<td>аул Бескудык</td>
+<td>село Бескудык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">92</td>
-<td>аул Береке</td>
+<td>село Береке</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4082,37 +4082,37 @@
 </tr>
 <tr>
 <td colspan="2">93</td>
-<td>аул Бирлик</td>
+<td>село Бирлик</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">94</td>
-<td>аул Тиршилик</td>
+<td>село Тиршилик</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">95</td>
-<td>аул Коммунизм</td>
+<td>село Коммунизм</td>
 <td colspan="2">155</td>
 </tr>
 <tr>
 <td colspan="2">96</td>
-<td>аул Курозек</td>
+<td>село Курозек</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">97</td>
-<td>аул Мадениет</td>
+<td>село Мадениет</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">98</td>
-<td>аул Косоткел</td>
+<td>село Косоткел</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">99</td>
-<td>аул Уш агаш</td>
+<td>село Уш агаш</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -4121,72 +4121,72 @@
 </tr>
 <tr>
 <td colspan="2">100</td>
-<td>аул Жуантобе</td>
+<td>село Жуантобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">101</td>
-<td>аул М.Горький</td>
+<td>село М.Горький</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">102</td>
-<td>аул Жана дауир</td>
+<td>село Жана дауир</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">103</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">104</td>
-<td>аул Когерту</td>
+<td>село Когерту</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">105</td>
-<td>аул Кызыл аскер</td>
+<td>село Кызыл аскер</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">106</td>
-<td>аул Акжар</td>
+<td>село Акжар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">107</td>
-<td>аул Каратобе</td>
+<td>село Каратобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">108</td>
-<td>аул Кокбулак</td>
+<td>село Кокбулак</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">109</td>
-<td>аул Г.Муратбаев</td>
+<td>село Г.Муратбаев</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">110</td>
-<td>аул Кия жол</td>
+<td>село Кия жол</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">111</td>
-<td>аул Куйган</td>
+<td>село Куйган</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">112</td>
-<td>аул Бозсу</td>
+<td>село Бозсу</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">113</td>
-<td>аул Ески корган</td>
+<td>село Ески корган</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -4195,67 +4195,67 @@
 </tr>
 <tr>
 <td colspan="2">114</td>
-<td>аул М.Рахимова</td>
+<td>село М.Рахимова</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">115</td>
-<td>аул Ораз ата</td>
+<td>село Ораз ата</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">116</td>
-<td>аул Енбекши</td>
+<td>село Енбекши</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">117</td>
-<td>аул Жолбасшы</td>
+<td>село Жолбасшы</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">118</td>
-<td>аул Амангельди</td>
+<td>село Амангельди</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">119</td>
-<td>аул Кольтоган</td>
+<td>село Кольтоган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">120</td>
-<td>аул Игилик</td>
+<td>село Игилик</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">121</td>
-<td>аул Шырылдак</td>
+<td>село Шырылдак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">122</td>
-<td>аул Жабайтобе</td>
+<td>село Жабайтобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">123</td>
-<td>аул Курылыс</td>
+<td>село Курылыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">124</td>
-<td>аул Шукырсай</td>
+<td>село Шукырсай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">125</td>
-<td>аул Аккорган</td>
+<td>село Аккорган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">126</td>
-<td>аул Керегетас</td>
+<td>село Керегетас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4264,17 +4264,17 @@
 </tr>
 <tr>
 <td colspan="2">127</td>
-<td>аул Ушкын</td>
+<td>село Ушкын</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">128</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">129</td>
-<td>аул Коралас</td>
+<td>село Коралас</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -4283,22 +4283,22 @@
 </tr>
 <tr>
 <td colspan="2">130</td>
-<td>аул Бозай</td>
+<td>село Бозай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">131</td>
-<td>аул Тентексай</td>
+<td>село Тентексай</td>
 <td colspan="2">155</td>
 </tr>
 <tr>
 <td colspan="2">132</td>
-<td>аул Шопантобе</td>
+<td>село Шопантобе</td>
 <td colspan="2">155</td>
 </tr>
 <tr>
 <td colspan="2">133</td>
-<td>аул Тартогай</td>
+<td>село Тартогай</td>
 <td colspan="2">133</td>
 </tr>
 <tr>
@@ -4307,27 +4307,27 @@
 </tr>
 <tr>
 <td colspan="2">134</td>
-<td>аул Бекбота</td>
+<td>село Бекбота</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">135</td>
-<td>аул Майдабозай</td>
+<td>село Майдабозай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">136</td>
-<td>аул Байгабыл</td>
+<td>село Байгабыл</td>
 <td colspan="2">133</td>
 </tr>
 <tr>
 <td colspan="2">137</td>
-<td>аул Ащыколь</td>
+<td>село Ащыколь</td>
 <td colspan="2">155</td>
 </tr>
 <tr>
 <td colspan="2">138</td>
-<td>аул Калгансыр</td>
+<td>село Калгансыр</td>
 <td colspan="2">133</td>
 </tr>
 <tr>
@@ -4336,12 +4336,12 @@
 </tr>
 <tr>
 <td colspan="2">139</td>
-<td>аул Дарбаза</td>
+<td>село Дарбаза</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">140</td>
-<td>аул Жана ауыл</td>
+<td>село Жана ауыл</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
@@ -4356,22 +4356,22 @@
 </tr>
 <tr>
 <td colspan="2">143</td>
-<td>аул Ердаут</td>
+<td>село Ердаут</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">144</td>
-<td>аул Таскудык</td>
+<td>село Таскудык</td>
 <td colspan="2">200</td>
 </tr>
 <tr>
 <td colspan="2">145</td>
-<td>аул Сарысу</td>
+<td>село Сарысу</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
 <td colspan="2">146</td>
-<td>аул Курысай</td>
+<td>село Курысай</td>
 <td colspan="2">177</td>
 </tr>
 <tr>
@@ -4380,42 +4380,42 @@
 </tr>
 <tr>
 <td colspan="2">147</td>
-<td>аул Кабланбек</td>
+<td>село Кабланбек</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">148</td>
-<td>аул Тынтобе</td>
+<td>село Тынтобе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">149</td>
-<td>аул Ташкулак</td>
+<td>село Ташкулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">150</td>
-<td>аул Зах</td>
+<td>село Зах</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">151</td>
-<td>аул Ак ниет</td>
+<td>село Ак ниет</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">152</td>
-<td>аул Сиргели</td>
+<td>село Сиргели</td>
 <td colspan="2">244</td>
 </tr>
 <tr>
 <td colspan="2">153</td>
-<td>аул Канагат</td>
+<td>село Канагат</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">154</td>
-<td>аул Жонарык</td>
+<td>село Жонарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4427,27 +4427,27 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td>аул Шолаккорган</td>
+<td>село Шолаккорган</td>
 <td colspan="2">250</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Балдысу</td>
+<td>село Балдысу</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Карабулак</td>
+<td>село Карабулак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Жеткиншек</td>
+<td>село Жеткиншек</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
@@ -4456,17 +4456,17 @@
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Каракур</td>
+<td>село Каракур</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Шага</td>
+<td>село Шага</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Кызыл байрак</td>
+<td>село Кызыл байрак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4475,17 +4475,17 @@
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Бакырлы</td>
+<td>село Бакырлы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Аксумбе</td>
+<td>село Аксумбе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Сарыжаз</td>
+<td>село Сарыжаз</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4494,22 +4494,22 @@
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Созак</td>
+<td>село Созак</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Коктобе</td>
+<td>село Коктобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Кокпансор</td>
+<td>село Кокпансор</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4518,12 +4518,12 @@
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Тасты</td>
+<td>село Тасты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Кылты</td>
+<td>село Кылты</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4532,22 +4532,22 @@
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Козмолдак</td>
+<td>село Козмолдак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Басбулак</td>
+<td>село Басбулак</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Сызган</td>
+<td>село Сызган</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Кайнар</td>
+<td>село Кайнар</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4561,7 +4561,7 @@
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Жыныс</td>
+<td>село Жыныс</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
@@ -4570,17 +4570,17 @@
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Кумкент</td>
+<td>село Кумкент</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Кызыл канат</td>
+<td>село Кызыл канат</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Кызыл коль</td>
+<td>село Кызыл коль</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4589,7 +4589,7 @@
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Шу</td>
+<td>село Шу</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4603,7 +4603,7 @@
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Тайконур</td>
+<td>село Тайконур</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
@@ -4612,12 +4612,12 @@
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Жуантобе</td>
+<td>село Жуантобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Коныратарык</td>
+<td>село Коныратарык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4626,22 +4626,22 @@
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Жартытобе</td>
+<td>село Жартытобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Бабата</td>
+<td>село Бабата</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Акколтык</td>
+<td>село Акколтык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Таскомирсай</td>
+<td>село Таскомирсай</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4658,12 +4658,12 @@
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Енбекши дихан</td>
+<td>село Енбекши дихан</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Шойтобе</td>
+<td>село Шойтобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4672,17 +4672,17 @@
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td>аул Жуйнек</td>
+<td>село Жуйнек</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Шипан</td>
+<td>село Шипан</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Шекербулак</td>
+<td>село Шекербулак</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
@@ -4691,17 +4691,17 @@
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Карачик</td>
+<td>село Карачик</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td>аул Кумтиын</td>
+<td>село Кумтиын</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Каратобе</td>
+<td>село Каратобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4710,12 +4710,12 @@
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Старый Икан</td>
+<td>село Старый Икан</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
@@ -4724,17 +4724,17 @@
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Ынталы</td>
+<td>село Ынталы</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Каражон</td>
+<td>село Каражон</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Егизкара</td>
+<td>село Егизкара</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -4743,12 +4743,12 @@
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Ибата</td>
+<td>село Ибата</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Ойык</td>
+<td>село Ойык</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -4757,22 +4757,22 @@
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул 30 лет Казахстана</td>
+<td>село 30 лет Казахстана</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Бершинтобе</td>
+<td>село Бершинтобе</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Шага</td>
+<td>село Шага</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Шоктас</td>
+<td>село Шоктас</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4781,22 +4781,22 @@
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Теке</td>
+<td>село Теке</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Нуртас</td>
+<td>село Нуртас</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул С.Кожанова</td>
+<td>село С.Кожанова</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Жалантос</td>
+<td>село Жалантос</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
@@ -4805,22 +4805,22 @@
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Бабайкорган</td>
+<td>село Бабайкорган</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Абай</td>
+<td>село Абай</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Улгили</td>
+<td>село Улгили</td>
 <td colspan="2">110</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Кумайлыкас</td>
+<td>село Кумайлыкас</td>
 <td colspan="2">100</td>
 </tr>
 <tr>
@@ -4829,17 +4829,17 @@
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Шорнак</td>
+<td>село Шорнак</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Космезгил</td>
+<td>село Космезгил</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Аша</td>
+<td>село Аша</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4853,17 +4853,17 @@
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Орангай</td>
+<td>село Орангай</td>
 <td colspan="2">148</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Коскорган</td>
+<td>село Коскорган</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Бостандык</td>
+<td>село Бостандык</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4872,7 +4872,7 @@
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Сауран</td>
+<td>село Сауран</td>
 <td colspan="2">123</td>
 </tr>
 <tr>
@@ -4889,17 +4889,17 @@
 </tr>
 <tr>
 <td colspan="2">1</td>
-<td colspan="2">аул Аксукент</td>
+<td colspan="2">село Аксукент</td>
 <td>520</td>
 </tr>
 <tr>
 <td colspan="2">2</td>
-<td>аул Чапаев</td>
+<td>село Чапаев</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
-<td>аул Манкент</td>
+<td>село Манкент</td>
 <td colspan="2">315</td>
 </tr>
 <tr>
@@ -4908,17 +4908,17 @@
 </tr>
 <tr>
 <td colspan="2">4</td>
-<td colspan="2">аул Акбулак</td>
+<td colspan="2">село Акбулак</td>
 <td>221</td>
 </tr>
 <tr>
 <td colspan="2">5</td>
-<td>аул Отемис</td>
+<td>село Отемис</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">6</td>
-<td>аул Шапырашты</td>
+<td>село Шапырашты</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4927,12 +4927,12 @@
 </tr>
 <tr>
 <td colspan="2">7</td>
-<td>аул Кожакорган</td>
+<td>село Кожакорган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td colspan="2">аул Нуржанкорган</td>
+<td colspan="2">село Нуржанкорган</td>
 <td>221</td>
 </tr>
 <tr>
@@ -4941,22 +4941,22 @@
 </tr>
 <tr>
 <td colspan="2">9</td>
-<td>аул Бадам</td>
+<td>село Бадам</td>
 <td colspan="2">340</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
-<td>аул Айколь</td>
+<td>село Айколь</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">11</td>
-<td>аул Актас</td>
+<td>село Актас</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
-<td>аул Орманшы</td>
+<td>село Орманшы</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -4965,17 +4965,17 @@
 </tr>
 <tr>
 <td colspan="2">13</td>
-<td>аул Машат</td>
+<td>село Машат</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
-<td>аул Жибек жолинский</td>
+<td>село Жибек жолинский</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">15</td>
-<td>аул Сикым</td>
+<td>село Сикым</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -4984,27 +4984,27 @@
 </tr>
 <tr>
 <td colspan="2">16</td>
-<td>аул Жанаталап</td>
+<td>село Жанаталап</td>
 <td colspan="2">300</td>
 </tr>
 <tr>
 <td colspan="2">17</td>
-<td>аул Игилик</td>
+<td>село Игилик</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">18</td>
-<td>аул Кызылжар</td>
+<td>село Кызылжар</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">19</td>
-<td>аул Карасу</td>
+<td>село Карасу</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">20</td>
-<td>аул Тауелсиздикке 20 жыл</td>
+<td>село Тауелсиздикке 20 жыл</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5013,32 +5013,32 @@
 </tr>
 <tr>
 <td colspan="2">21</td>
-<td>аул Карабастау</td>
+<td>село Карабастау</td>
 <td colspan="2">310</td>
 </tr>
 <tr>
 <td colspan="2">22</td>
-<td>аул Жулдыз</td>
+<td>село Жулдыз</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">23</td>
-<td>аул Актас</td>
+<td>село Актас</td>
 <td colspan="2">220</td>
 </tr>
 <tr>
 <td colspan="2">24</td>
-<td>аул Бадам-2</td>
+<td>село Бадам-2</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">25</td>
-<td>аул Каратобе</td>
+<td>село Каратобе</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">26</td>
-<td>аул Жалын</td>
+<td>село Жалын</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5047,47 +5047,47 @@
 </tr>
 <tr>
 <td colspan="2">27</td>
-<td>аул Карасу</td>
+<td>село Карасу</td>
 <td colspan="2">360</td>
 </tr>
 <tr>
 <td colspan="2">28</td>
-<td>аул Акбай</td>
+<td>село Акбай</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">29</td>
-<td>аул Бескепе</td>
+<td>село Бескепе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">30</td>
-<td>аул Айтеке би</td>
+<td>село Айтеке би</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">31</td>
-<td>аул Акбастау</td>
+<td>село Акбастау</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">32</td>
-<td>аул Мартобе</td>
+<td>село Мартобе</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">33</td>
-<td>аул Ынтымак</td>
+<td>село Ынтымак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">34</td>
-<td>аул Жанатурмыс</td>
+<td>село Жанатурмыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">35</td>
-<td>аул Береке</td>
+<td>село Береке</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -5096,22 +5096,22 @@
 </tr>
 <tr>
 <td colspan="2">36</td>
-<td>аул Абдулабад</td>
+<td>село Абдулабад</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">37</td>
-<td>аул Бадам</td>
+<td>село Бадам</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">38</td>
-<td>аул Базаркакпа</td>
+<td>село Базаркакпа</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">39</td>
-<td>аул Турдыабад</td>
+<td>село Турдыабад</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5120,47 +5120,47 @@
 </tr>
 <tr>
 <td colspan="2">40</td>
-<td>аул Кайнарбулак</td>
+<td>село Кайнарбулак</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">41</td>
-<td>аул Таскешу</td>
+<td>село Таскешу</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">42</td>
-<td>аул Касымбек датка</td>
+<td>село Касымбек датка</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">43</td>
-<td>аул Асыларык</td>
+<td>село Асыларык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">44</td>
-<td>аул Сарыарык</td>
+<td>село Сарыарык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">45</td>
-<td>аул Курлык</td>
+<td>село Курлык</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">46</td>
-<td>аул Ошакты</td>
+<td>село Ошакты</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">47</td>
-<td>аул Тоган</td>
+<td>село Тоган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">48</td>
-<td>аул Ширкин</td>
+<td>село Ширкин</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -5169,42 +5169,42 @@
 </tr>
 <tr>
 <td colspan="2">49</td>
-<td>аул Колкент</td>
+<td>село Колкент</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">50</td>
-<td>аул Жанатурмыс</td>
+<td>село Жанатурмыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">51</td>
-<td>аул Аксуабад</td>
+<td>село Аксуабад</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">52</td>
-<td>аул Молдыбай Оразалиева</td>
+<td>село Молдыбай Оразалиева</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">53</td>
-<td>аул Ханкорган</td>
+<td>село Ханкорган</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">54</td>
-<td>аул Косбулак</td>
+<td>село Косбулак</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">55</td>
-<td>аул Теспе</td>
+<td>село Теспе</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">56</td>
-<td>аул Шапырашты</td>
+<td>село Шапырашты</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -5213,22 +5213,22 @@
 </tr>
 <tr>
 <td colspan="2">57</td>
-<td>аул Кутарыс</td>
+<td>село Кутарыс</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">58</td>
-<td>аул Кызылжар</td>
+<td>село Кызылжар</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">59</td>
-<td>аул Акарыс</td>
+<td>село Акарыс</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
 <td colspan="2">60</td>
-<td>аул Оймауыт</td>
+<td>село Оймауыт</td>
 <td colspan="2">221</td>
 </tr>
 <tr>
@@ -5237,12 +5237,12 @@
 </tr>
 <tr>
 <td colspan="2">61</td>
-<td>аул Карамурт</td>
+<td>село Карамурт</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">62</td>
-<td>аул Низамабад</td>
+<td>село Низамабад</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5251,12 +5251,12 @@
 </tr>
 <tr>
 <td colspan="2">63</td>
-<td>аул Манкент</td>
+<td>село Манкент</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">64</td>
-<td>аул Аккала</td>
+<td>село Аккала</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5265,17 +5265,17 @@
 </tr>
 <tr>
 <td colspan="2">65</td>
-<td>аул Сайрам</td>
+<td>село Сайрам</td>
 <td colspan="2">410</td>
 </tr>
 <tr>
 <td colspan="2">66</td>
-<td>аул Исфиджаб</td>
+<td>село Исфиджаб</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">67</td>
-<td>аул Кызыл су</td>
+<td>село Кызыл су</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5284,27 +5284,27 @@
 </tr>
 <tr>
 <td colspan="2">68</td>
-<td>аул Тассай</td>
+<td>село Тассай</td>
 <td colspan="2">330</td>
 </tr>
 <tr>
 <td colspan="2">69</td>
-<td>аул Достык</td>
+<td>село Достык</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">70</td>
-<td>аул Таскен</td>
+<td>село Таскен</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">71</td>
-<td>аул Кызылсай</td>
+<td>село Кызылсай</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
 <td colspan="2">72</td>
-<td>аул Опытная станция</td>
+<td>село Опытная станция</td>
 <td colspan="2">265</td>
 </tr>
 <tr>
@@ -5313,7 +5313,7 @@
 </tr>
 <tr>
 <td colspan="2">73</td>
-<td>аул Карабулак</td>
+<td>село Карабулак</td>
 <td colspan="2">390</td>
 </tr>
 </table>
