@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63980/kaz/03.04.2015
+source: https://zan.gov.kz/client/#!/doc/63980/kaz/30.12.2021
 ---
 
 # Қарашығанақ жобасының кейбір мәселелері туралы

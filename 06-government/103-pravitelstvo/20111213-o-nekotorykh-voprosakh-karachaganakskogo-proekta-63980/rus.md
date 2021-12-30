@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/63980/rus/03.04.2015
+source: https://zan.gov.kz/client/#!/doc/63980/rus/30.12.2021
 ---
 
 # О некоторых вопросах Карачаганакского проекта
