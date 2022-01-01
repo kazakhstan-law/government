@@ -38,12 +38,19 @@ versions:
   cause:
     code: '158317'
     key: P2100000544
+- date: 2022-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '158317'
+    key: P2100000544
 version_date:
-  kaz: 2021-08-10
-  rus: 2021-08-10
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/105831/kaz/10.08.2021
-  rus: https://zan.gov.kz/client/#!/doc/105831/rus/10.08.2021
+  kaz: https://zan.gov.kz/client/#!/doc/105831/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/105831/rus/01.01.2022
 caused_by:
   code: '158317'
   key: P2100000544
