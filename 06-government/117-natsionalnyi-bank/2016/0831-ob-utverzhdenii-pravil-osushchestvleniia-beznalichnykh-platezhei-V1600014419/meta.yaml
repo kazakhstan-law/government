@@ -94,12 +94,19 @@ versions:
   cause:
     code: '160799'
     key: V2100025437
+- date: 2022-01-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '160799'
+    key: V2100025437
 version_date:
-  kaz: 2021-11-22
-  rus: 2021-11-22
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/107861/kaz/22.11.2021
-  rus: https://zan.gov.kz/client/#!/doc/107861/rus/22.11.2021
+  kaz: https://zan.gov.kz/client/#!/doc/107861/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/107861/rus/01.01.2022
 caused_by:
   code: '160799'
   key: V2100025437
