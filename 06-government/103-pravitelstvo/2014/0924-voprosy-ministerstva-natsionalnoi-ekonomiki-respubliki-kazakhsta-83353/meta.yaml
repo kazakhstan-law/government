@@ -10,11 +10,11 @@ approved_on: 2014-09-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2021-12-24
-  rus: 2021-12-24
+  kaz: 2022-01-01
+  rus: 2022-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/83353/kaz/24.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/83353/rus/24.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/83353/kaz/01.01.2022
+  rus: https://zan.gov.kz/client/#!/doc/83353/rus/01.01.2022
 caused_by:
   code: '162158'
   requisite: Постановление Правительства Республики Казахстан от 24 декабря 2021 года № 928
