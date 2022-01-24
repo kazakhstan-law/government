@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/124114/kaz/19.04.2021
+source: https://zan.gov.kz/client/#!/doc/124114/kaz/24.01.2022
 ---
 
 > *Экономика секторлары бойынша талаптар мен міндеттемелер туралы мәліметтертердің нысанына*  
