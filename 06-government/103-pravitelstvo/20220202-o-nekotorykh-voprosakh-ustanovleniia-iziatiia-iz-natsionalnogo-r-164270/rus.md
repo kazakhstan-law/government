@@ -13,6 +13,11 @@ approval_date: 2022-02-02
 version_date: 2022-02-02
 registry_number: '164270'
 source: https://zan.gov.kz/client/#!/doc/164270/rus/02.02.2022
+repealed_on: 2024-02-16
+repealed_by:
+  code: '164270'
+  title: О некоторых вопросах установления изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/164270/rus
 ---
 
 # О некоторых вопросах установления изъятия из национального режима
