@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/22239/kaz/01.01.2022
+source: https://zan.gov.kz/client/#!/doc/22239/kaz/23.02.2022
 ---
 
 # Жергiлiктi атқарушы органдардың штат санының лимиттерiн бекiтудiң кейбiр мәселелерi туралы
