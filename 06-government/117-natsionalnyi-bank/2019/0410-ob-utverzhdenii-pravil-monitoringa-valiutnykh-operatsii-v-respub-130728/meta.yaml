@@ -11,11 +11,11 @@ approved_on: 2019-04-10
 approved_by:
 - '117000000000'
 version_date:
-  kaz: 2022-02-28
-  rus: 2022-02-28
+  kaz: 2022-04-01
+  rus: 2022-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/130728/kaz/28.02.2022
-  rus: https://zan.gov.kz/client/#!/doc/130728/rus/28.02.2022
+  kaz: https://zan.gov.kz/client/#!/doc/130728/kaz/01.04.2022
+  rus: https://zan.gov.kz/client/#!/doc/130728/rus/01.04.2022
 caused_by:
   code: '165265'
   requisite: Постановление Правления Национального Банка Республики Казахстан от 28 февраля 2022 года № 13. Зарегистрировано в Министерстве юстиции Республики Казахстан 15 марта 2022 года № 27128
