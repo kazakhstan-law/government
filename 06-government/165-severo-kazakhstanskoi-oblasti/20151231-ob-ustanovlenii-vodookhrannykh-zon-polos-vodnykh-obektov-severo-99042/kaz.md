@@ -1,5 +1,5 @@
 ---
-version_id: '99042_524656'
+version_id: '99042_576727'
 act_code: '99042'
 language: kaz
 title: Солтүстік Қазақстан облысы су объектілерінің су қорғау аймақтарын, белдеулерін және оларды шаруашылықта пайдалану режимін белгілеу туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '165000000001'
 approval_date: 2015-12-31
-version_date: 2021-05-13
+version_date: 2022-05-04
 registry_number: '99042'
 caused_by:
-  code: '155929'
+  code: '167630'
   title: «Солтүстік Қазақстан облысы су объектілерінің су қорғау аймақтарын, белдеулерін және оларды шаруашылықта пайдалану режимін белгілеу туралы» Солтүстік Қазақстан облысы әкімдігінің 2015 жылғы 31 желтоқсандағы № 514 қаулысына өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/155929/kaz
-source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
+  link: https://zan.gov.kz/client/#!/doc/167630/kaz
+source: https://zan.gov.kz/client/#!/doc/99042/kaz/04.05.2022
 ---
 
 # Солтүстік Қазақстан облысы су объектілерінің су қорғау аймақтарын, белдеулерін және оларды шаруашылықта пайдалану режимін белгілеу туралы
@@ -62,26 +62,33 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 > *М. Жексембин*  
 > *2015 жылғы «31» желтоқсандағы*
 
-> *Солтүстік Қазақстан облысы әкімдігінің*  
-> *2015 жылғы 31 желтоқсандағы*  
-> *№ 514 қаулысына*  
-> *1-қосымша*
+> *Солтүстік Қазақстан*  
+> *облысы әкімдігінің*  
+> *2015 жылғы 31 желтоқсандағы № 514*  
+> *қаулысына 1-қосымша*
 
-## Солтүстік Қазақстан облысының су қорғау аймақтары, су объектілерінің белдеулері
+## Солтүстік Қазақстан облысы су объектілерінің су қорғау аймақтары, белдеулері
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - Солтүстік Қазақстан облысы әкімдігінің 05.04.2017 № 134 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 13.05.2021 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - Солтүстік Қазақстан облысы әкімдігінің 05.04.2017 № 134 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 13.05.2021 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); жаңа редакцияда - Солтүстік Қазақстан облысы әкімдігінің 04.05.2022 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
-<td>Р/с №</td>
+<td colspan="2">№</td>
 <td>Су айдынының атауы</td>
 <td>Орналасқан жері (ауылдық округ, елді мекен)</td>
 <td>Су айнасының ауданы (гектар)</td>
-<td>Су қорғау аймағының ені (метр)</td>
-<td>Су қорғау белдеуінің ені (метр)</td>
+<td>
+Су қорғау аймағының ені
+(метр)
+</td>
+<td>
+Су қорғау
+белдеуінің ені
+(метр)
+</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -89,31 +96,46 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>6</td>
 </tr>
 <tr>
-<td colspan="6">Өзендер</td>
+<td colspan="7">Өзендер</td>
 </tr>
 <tr>
+<td>1</td>
 <td colspan="4">Есіл өзені</td>
 <td>1000</td>
 <td>100</td>
 </tr>
 <tr>
+<td>2</td>
 <td colspan="4">Ақанбұрлық өзені</td>
 <td>500</td>
 <td>100</td>
 </tr>
 <tr>
+<td>3</td>
 <td colspan="4">Иманбұрлық өзені</td>
 <td>500</td>
 <td>100</td>
 </tr>
 <tr>
-<td colspan="6">Көлдер</td>
+<td>4</td>
+<td colspan="4">Жембарақ өзені</td>
+<td>500</td>
+<td>35-100</td>
 </tr>
 <tr>
-<td colspan="6">Ақжар ауданы</td>
+<td>5</td>
+<td colspan="4">Мұқыр өзені</td>
+<td>500</td>
+<td>35-38</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="7">Көлдер</td>
+</tr>
+<tr>
+<td colspan="7">Ақжар ауданы</td>
+</tr>
+<tr>
+<td colspan="2">6</td>
 <td>Қомбайсор</td>
 <td>Ленинград, Дәуіт</td>
 <td>687</td>
@@ -121,10 +143,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td colspan="6">Аққайың ауданы</td>
+<td colspan="7">Аққайың ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">7</td>
 <td>Кіші Тоқшын</td>
 <td>Тоқшын, Тоқшын</td>
 <td>33</td>
@@ -132,7 +154,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">8</td>
 <td>Шағалалы Теңіз</td>
 <td>Қиялы</td>
 <td>7800</td>
@@ -140,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">9</td>
 <td>Базарал</td>
 <td>Аралағаш, Аралағаш</td>
 <td>577</td>
@@ -148,7 +170,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">10</td>
 <td>Байсал</td>
 <td>Аралағаш, Амангелді</td>
 <td>128</td>
@@ -156,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">11</td>
 <td>Ақсуат</td>
 <td>Аралағаш, Рублевка</td>
 <td>303</td>
@@ -164,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">12</td>
 <td>Круглое</td>
 <td>Аралағаш, Рублевка</td>
 <td>93</td>
@@ -172,7 +194,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">13</td>
 <td>Кіші Балықты</td>
 <td>Смирнов</td>
 <td>235</td>
@@ -180,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">14</td>
 <td>Жалтыр</td>
 <td>Григорьев, Григорьевка</td>
 <td>269</td>
@@ -188,7 +210,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">15</td>
 <td>Құндыкөл</td>
 <td>Полтав, Полтавка</td>
 <td>68</td>
@@ -196,10 +218,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td colspan="6">Есіл ауданы</td>
+<td colspan="7">Есіл ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">16</td>
 <td>Полоустное (Полонское)</td>
 <td>Петров, Покров, Петровка</td>
 <td>33</td>
@@ -207,10 +229,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td colspan="6">Жамбыл ауданы</td>
+<td colspan="7">Жамбыл ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">17</td>
 <td>Екатериновское</td>
 <td>Қазан, Екатериновка</td>
 <td>471</td>
@@ -218,15 +240,15 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">18</td>
 <td>Питное</td>
-<td>Преснов, (Железнин), Богатое</td>
+<td>Преснов, (Железнин)</td>
 <td>108</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">19</td>
 <td>Курганское</td>
 <td>Қазан, Усердное</td>
 <td>162</td>
@@ -234,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">20</td>
 <td>Кабань</td>
 <td>Первомай, Кабань</td>
 <td>79</td>
@@ -242,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">21</td>
 <td>Суаткөл</td>
 <td>Жамбыл, Амангелді</td>
 <td>68</td>
@@ -250,23 +272,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">22</td>
 <td>Мұжық</td>
-<td>Озерный, Ақбалық</td>
+<td>Озерный</td>
 <td>65</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">23</td>
 <td>Жалтырша</td>
-<td>Майбалық, Жалтырша</td>
+<td>Майбалық</td>
 <td>24</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">24</td>
 <td>Далагүл</td>
 <td>Благовещен, Майбалық</td>
 <td>46</td>
@@ -274,7 +296,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">25</td>
 <td>Питное</td>
 <td>Преснов, Островка</td>
 <td>350</td>
@@ -282,7 +304,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">26</td>
 <td>Жекекөл</td>
 <td>Благовещен, Благовещенка</td>
 <td>99</td>
@@ -290,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">27</td>
 <td>Жарағаш</td>
 <td>Благовещен, Благовещенка</td>
 <td>87</td>
@@ -298,23 +320,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">28</td>
 <td>Лапушки</td>
-<td>Преснов, (Железнин), Лопушки</td>
+<td>Преснов, (Железнин)</td>
 <td>22</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">29</td>
 <td>Купальное</td>
-<td>Преснов, (Железнин), Лопушки</td>
+<td>Преснов, (Железнин)</td>
 <td>34</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">30</td>
 <td>Лагерное</td>
 <td>Преснов, Пресновка</td>
 <td>182</td>
@@ -322,23 +344,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">31</td>
 <td>Шырықмай</td>
-<td>Майбалық, Жалтырша</td>
+<td>Майбалық</td>
 <td>31</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>16</td>
+<td colspan="2">32</td>
 <td>Ақбалық</td>
-<td>Озерный, Ақбалық</td>
+<td>Озерный</td>
 <td>77</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>17</td>
+<td colspan="2">33</td>
 <td>Горькое</td>
 <td>Қазан-Мирный, Екатериновка</td>
 <td>526</td>
@@ -346,10 +368,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50-55</td>
 </tr>
 <tr>
-<td colspan="6">Қызылжар ауданы</td>
+<td colspan="7">Қызылжар ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">34</td>
 <td>Логуново</td>
 <td>Соколов, Соколовка</td>
 <td>45</td>
@@ -357,15 +379,15 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">35</td>
 <td>Сергино</td>
-<td>Налобин- Виноградов, Сергино</td>
+<td>Налобин- Виноградов</td>
 <td>135</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">36</td>
 <td>Дубровное</td>
 <td>Налобин, Дубровное</td>
 <td>127</td>
@@ -373,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">37</td>
 <td>Гайдуково</td>
 <td>Налобин, Гайдуково</td>
 <td>149</td>
@@ -381,7 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">38</td>
 <td>Жалтыр</td>
 <td>Рассвет, Рассвет</td>
 <td>176</td>
@@ -389,7 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">39</td>
 <td>Лебеденок</td>
 <td>Налобин</td>
 <td>338</td>
@@ -397,7 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">40</td>
 <td>Сиверга</td>
 <td>Налобин</td>
 <td>291</td>
@@ -405,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">41</td>
 <td>Соленое</td>
 <td>Лесной-Якорь</td>
 <td>287</td>
@@ -413,15 +435,15 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50-75</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Пестрое</td>
+<td colspan="2">42</td>
+<td>Пёстрое</td>
 <td>Петропавл, Прибрежный, Тепличное</td>
 <td>137</td>
 <td>300</td>
 <td>35-50</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">43</td>
 <td>Лебяжье</td>
 <td>Вагулин, Вагулино</td>
 <td>523</td>
@@ -429,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">44</td>
 <td>Бугровое</td>
 <td>Бугров, Бугровое</td>
 <td>68</td>
@@ -437,7 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">45</td>
 <td>Земляное</td>
 <td>Бугров, Бугровое</td>
 <td>47</td>
@@ -445,7 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50-55</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">46</td>
 <td>Курейное</td>
 <td>Налобин, Гайдуково</td>
 <td>150</td>
@@ -453,10 +475,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td colspan="6">Мамлют ауданы</td>
+<td colspan="7">Мамлют ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">47</td>
 <td>Белое</td>
 <td>Белов, Белое</td>
 <td>349</td>
@@ -464,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>100</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">48</td>
 <td>Щучье</td>
 <td>Белов, Щучье</td>
 <td>75</td>
@@ -472,23 +494,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">49</td>
 <td>Студеное</td>
-<td>Белов, Студенное</td>
+<td>Белов</td>
 <td>41</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">50</td>
 <td>Степное</td>
-<td>Белов, Прогресс</td>
+<td>Белов</td>
 <td>23</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">51</td>
 <td>Казачье</td>
 <td>Дубровин, Михайловка</td>
 <td>94</td>
@@ -496,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>6</td>
+<td colspan="2">52</td>
 <td>Пруд</td>
 <td>Краснознамен, Беловка</td>
 <td>51</td>
@@ -504,7 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>7</td>
+<td colspan="2">53</td>
 <td>Кривые</td>
 <td>Дубровин, Дубровное</td>
 <td>111</td>
@@ -512,7 +534,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">54</td>
 <td>Каменное</td>
 <td>Белов, Белое</td>
 <td>235</td>
@@ -520,7 +542,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>100</td>
 </tr>
 <tr>
-<td>9</td>
+<td colspan="2">55</td>
 <td>Чистое</td>
 <td>Белов, Чистое</td>
 <td>138</td>
@@ -528,7 +550,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>10</td>
+<td colspan="2">56</td>
 <td>Меңгесер</td>
 <td>Қызыләскер- Новомихайловка</td>
 <td>3685</td>
@@ -536,7 +558,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>100</td>
 </tr>
 <tr>
-<td>11</td>
+<td colspan="2">57</td>
 <td>Бесқамыс</td>
 <td>Краснознамен, Калугино</td>
 <td>43</td>
@@ -544,7 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">58</td>
 <td>Федосейкино</td>
 <td>Воскресенов, Воскресеновка</td>
 <td>45</td>
@@ -552,7 +574,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50-55</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">59</td>
 <td>Жаргино (Жагрино)</td>
 <td>Белов, Белое</td>
 <td>108</td>
@@ -560,7 +582,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">60</td>
 <td>Каменное</td>
 <td>Белов, Мамлютка</td>
 <td>62</td>
@@ -568,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">61</td>
 <td>Таловое (Талое)</td>
 <td>Пригородный, Покровка</td>
 <td>65</td>
@@ -576,31 +598,31 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>16</td>
-<td>Беленок</td>
+<td colspan="2">62</td>
+<td>Белёнок</td>
 <td>Белов, Белое</td>
 <td>54</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>17</td>
+<td colspan="2">63</td>
 <td>Уделово</td>
-<td>Белов, Прогресс</td>
+<td>Белов</td>
 <td>48</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>18</td>
-<td>Уделенок</td>
-<td>Белов, Прогресс</td>
+<td colspan="2">64</td>
+<td>Уделёнок</td>
+<td>Белов</td>
 <td>44</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>19</td>
+<td colspan="2">65</td>
 <td>Краснознамен</td>
 <td>Краснознамен, Краснознаменка</td>
 <td>43</td>
@@ -608,7 +630,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>20</td>
+<td colspan="2">66</td>
 <td>Прудок</td>
 <td>Краснознамен, Калугино</td>
 <td>40</td>
@@ -616,23 +638,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>21</td>
+<td colspan="2">67</td>
 <td>Тетеркино</td>
-<td>Белов, Студенное</td>
+<td>Белов</td>
 <td>27</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>22</td>
+<td colspan="2">68</td>
 <td>Куропаткино</td>
-<td>Белов, Студенное</td>
+<td>Белов</td>
 <td>23</td>
 <td>300</td>
 <td>50</td>
 </tr>
 <tr>
-<td>23</td>
+<td colspan="2">69</td>
 <td>Үлкен Черок</td>
 <td>Дубровин, Михайловка</td>
 <td>178</td>
@@ -640,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>24</td>
+<td colspan="2">70</td>
 <td>Желтое</td>
 <td>Воскресенов, Становое</td>
 <td>70</td>
@@ -648,10 +670,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50-75</td>
 </tr>
 <tr>
-<td colspan="6">Ғабит Мүсірепов атындағы аудан</td>
+<td colspan="7">Ғабит Мүсірепов атындағы аудан</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">71</td>
 <td>Ұлыкөл</td>
 <td>Бірлік, Рузаевка</td>
 <td>2198</td>
@@ -659,7 +681,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">72</td>
 <td>Шарық су қоймасы</td>
 <td>Андреевка, Көкалажар, Андреевка</td>
 <td>243</td>
@@ -667,10 +689,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>100</td>
 </tr>
 <tr>
-<td colspan="6">Мағжан Жұмабаев ауданы</td>
+<td colspan="7">Мағжан Жұмабаев ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">73</td>
 <td>Бірінші</td>
 <td>Лебяжье, Лебяжье</td>
 <td>23</td>
@@ -678,7 +700,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">74</td>
 <td>Екінші</td>
 <td>Лебяжье, Лебяжье</td>
 <td>20</td>
@@ -686,7 +708,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">75</td>
 <td>Зарослое</td>
 <td>Аққайың (Гаврин), Зарослое</td>
 <td>152</td>
@@ -694,7 +716,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">76</td>
 <td>Рявкино</td>
 <td>Бәйтерек (Фурманов), Рявкино</td>
 <td>281</td>
@@ -702,7 +724,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>5</td>
+<td colspan="2">77</td>
 <td>Питное</td>
 <td>Полудин, Полудино</td>
 <td>872</td>
@@ -710,10 +732,10 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td colspan="6">Тимирязев ауданы</td>
+<td colspan="7">Тимирязев ауданы</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">78</td>
 <td>Ақсуат</td>
 <td>Дзержинск- Москворецк, Москворецкое</td>
 <td>1607</td>
@@ -721,7 +743,7 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">79</td>
 <td>Жарқын</td>
 <td>Дмитриев, Дмитриевка</td>
 <td>467</td>
@@ -729,12 +751,23 @@ source: https://zan.gov.kz/client/#!/doc/99042/kaz/13.05.2021
 <td>50</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">80</td>
 <td>Дмитриевка</td>
 <td>Дмитриев, Дмитриевка</td>
 <td>26</td>
 <td>300</td>
 <td>50</td>
+</tr>
+<tr>
+<td colspan="7">Шал ақын ауданы</td>
+</tr>
+<tr>
+<td colspan="2">81</td>
+<td>Солтүстік ендіктің 53°31'46.09&quot;, шығыс бойлықтың 67°4'12.03&quot; солтүстік ендіктің 53°31'33.39&quot;, шығыс бойлықтың 67°3'46.77&quot; географиялық координаттар тұстамасындағы Шудасай өзенінің учаскесі</td>
+<td>Юбилейный, Ұзынжар</td>
+<td>2,63</td>
+<td>500</td>
+<td>75</td>
 </tr>
 </table>
 
