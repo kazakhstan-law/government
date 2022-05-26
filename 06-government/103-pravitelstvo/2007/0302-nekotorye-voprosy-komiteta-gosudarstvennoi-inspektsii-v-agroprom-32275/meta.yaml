@@ -12,15 +12,15 @@ approved_on: 2007-03-02
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2019-05-29
-  rus: 2019-05-29
+  kaz: 2022-05-26
+  rus: 2022-05-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/32275/kaz/29.05.2019
-  rus: https://zan.gov.kz/client/#!/doc/32275/rus/29.05.2019
+  kaz: https://zan.gov.kz/client/#!/doc/32275/kaz/26.05.2022
+  rus: https://zan.gov.kz/client/#!/doc/32275/rus/26.05.2022
 caused_by:
-  code: '131968'
-  requisite: Постановление Правительства Республики Казахстан от 29 мая 2019 года № 345
+  code: '168147'
+  requisite: Постановление Правительства Республики Казахстан от 26 мая 2022 года № 344
   title:
     rus: О некоторых вопросах Министерства сельского хозяйства Республики Казахстан
     kaz: Қазақстан Республикасы Ауыл шаруашылығы министрлігінiң кейбiр мәселелерi туралы
-  link: https://zan.gov.kz/client/#!/doc/131968/rus
+  link: https://zan.gov.kz/client/#!/doc/168147/rus
