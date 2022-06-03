@@ -10,8 +10,15 @@ approved_on: 2020-12-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-12-30
-  rus: 2020-12-30
+  kaz: 2022-06-03
+  rus: 2022-06-03
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/151201/kaz/30.12.2020
-  rus: https://zan.gov.kz/client/#!/doc/151201/rus/30.12.2020
+  kaz: https://zan.gov.kz/client/#!/doc/151201/kaz/03.06.2022
+  rus: https://zan.gov.kz/client/#!/doc/151201/rus/03.06.2022
+caused_by:
+  code: '168466'
+  requisite: Постановление Правительства Республики Казахстан от 3 июня 2022 года № 361
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/168466/rus
