@@ -10,8 +10,15 @@ approved_on: 2020-01-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-01-31
-  rus: 2020-01-31
+  kaz: 2022-08-19
+  rus: 2022-08-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/139284/kaz/31.01.2020
-  rus: https://zan.gov.kz/client/#!/doc/139284/rus/31.01.2020
+  kaz: https://zan.gov.kz/client/#!/doc/139284/kaz/19.08.2022
+  rus: https://zan.gov.kz/client/#!/doc/139284/rus/19.08.2022
+caused_by:
+  code: '170948'
+  requisite: Постановление Правительства Республики Казахстан от 19 августа 2022 года № 581
+  title:
+    rus: Некоторые вопросы Министерства просвещения Республики Казахстан
+    kaz: Қазақстан Республикасы Оқу-ағарту министрлiгінің кейбiр мәселелерi
+  link: https://zan.gov.kz/client/#!/doc/170948/rus
