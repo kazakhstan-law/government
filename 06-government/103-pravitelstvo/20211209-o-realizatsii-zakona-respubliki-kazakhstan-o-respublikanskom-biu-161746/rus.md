@@ -1,5 +1,5 @@
 ---
-version_id: '161746_576514'
+version_id: '161746_593196'
 act_code: '161746'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2022 – 2024 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2021-12-09
-version_date: 2022-05-13
+version_date: 2022-08-23
 registry_number: '161746'
 caused_by:
-  code: '167875'
-  title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 9 декабря 2021 года № 872 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2022 – 2024 годы»
-  link: https://zan.gov.kz/client/#!/doc/167875/rus
-source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
+  code: '171035'
+  title: О корректировке показателей республиканского бюджета на 2022 год и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 9 декабря 2021 года № 872 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2022 – 2024 годы»
+  link: https://zan.gov.kz/client/#!/doc/171035/rus
+source: https://zan.gov.kz/client/#!/doc/161746/rus/23.08.2022
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2022 – 2024 годы»
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 01.03.2022 № 93 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 01.03.2022 № 93 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); с изменениями, внесенными постановлением Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -4787,15 +4787,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>28 233 187</td>
+<td>22 565 839</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4818,6 +4817,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>7 580 207</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>5 667 348</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4948,15 +4957,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>4 543 090</td>
+<td>2 995 558</td>
 <td>3 132 814</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4979,6 +4987,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>2 000 000</td>
 <td>3 000 000</td>
 <td>6 774 853</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 547 532</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>6</td>
@@ -5044,15 +5062,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>4 296 761</td>
-<td>2 446 062</td>
 <td></td>
+<td>2 446 062</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5075,6 +5092,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>1 000 000</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>4 296 761</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5205,15 +5232,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>4 159 621</td>
+<td>3 412 009</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5227,15 +5253,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>287 491</td>
+<td>46 582</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5267,6 +5292,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>709 197</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>747 612</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>240 909</td>
 <td></td>
 <td></td>
 </tr>
@@ -5490,15 +5535,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>300 000</td>
-<td>420 641</td>
 <td></td>
+<td>420 641</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5510,6 +5554,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>1 300 000</td>
 <td>2 384 333</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>300 000</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5561,31 +5615,9 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Алматинская область</td>
-<td>243 726</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Жамбылская область</td>
 <td>77 918</td>
 <td>326 102</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Карагандинская область</td>
-<td>334 763</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -5607,6 +5639,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Кызылординская область</td>
 <td>361 297</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>243 726</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>334 763</td>
 <td></td>
 <td></td>
 </tr>
@@ -5943,15 +5995,24 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>500 000</td>
+<td>300 000</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>200 000</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6191,15 +6252,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>7 157 465</td>
+<td>5 752 375</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6222,6 +6282,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>2 755 594</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 405 090</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6841,32 +6911,20 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Алматинская область</td>
-<td>1 925 010</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Атырауская область</td>
 <td>10 513 204</td>
 <td>3 158 875</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>3 245 350</td>
+<td>1 445 350</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6899,6 +6957,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>Мангистауская область</td>
 <td>417 746</td>
 <td>1 344 513</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>1 800 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 925 010</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -7033,15 +7111,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>191 688</td>
+<td>59 476</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7097,6 +7174,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>640 912</td>
 <td>303 186</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>132 212</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7598,32 +7685,20 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Восточно-Казахстанская область</td>
-<td>266 488</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Жамбылская область</td>
 <td>777 417</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>811 932</td>
+<td>596 964</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7644,6 +7719,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Кызылординская область</td>
 <td>923 783</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>266 488</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>214 968</td>
 <td></td>
 <td></td>
 </tr>
@@ -7703,15 +7798,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>2 865 318</td>
+<td>1 119 597</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7721,17 +7815,6 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Атырауская область</td>
 <td>161 664</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Восточно-Казахстанская область</td>
-<td>268 800</td>
 <td></td>
 <td></td>
 </tr>
@@ -7754,6 +7837,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Западно-Казахстанская область</td>
 <td>122 267</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>268 800</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 745 721</td>
 <td></td>
 <td></td>
 </tr>
@@ -7857,15 +7960,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>2 364 355</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>2 720 640</td>
+<td>2 317 484</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7879,15 +7981,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>8 333 375</td>
+<td>7 713 692</td>
 <td>3 751 851</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7912,15 +8013,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>3 849 977</td>
+<td>2 855 079</td>
 <td></td>
-<td>71 327</td>
+<td colspan="2">71 327</td>
 </tr>
 <tr>
 <td></td>
@@ -7952,6 +8052,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>6 172 617</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>619 683</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>403 156</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>994 898</td>
 <td></td>
 <td></td>
 </tr>
@@ -8076,15 +8206,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>1 572 747</td>
+<td>602 689</td>
 <td>945 430</td>
-<td>319 159</td>
+<td colspan="2">319 159</td>
 </tr>
 <tr>
 <td></td>
@@ -8109,15 +8238,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>7 222 854</td>
+<td>2 838 837</td>
 <td>2 803 246</td>
-<td>1 247 221</td>
+<td colspan="2">1 247 221</td>
 </tr>
 <tr>
 <td></td>
@@ -8149,6 +8277,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>2 468 583</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>970 058</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>4 384 017</td>
 <td></td>
 <td></td>
 </tr>
@@ -8252,25 +8400,23 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>3 220 752</td>
-<td>705 811</td>
+<td>2 235 618</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>5 226 010</td>
-<td>1 261 973</td>
+<td>1 807 824</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -8336,6 +8482,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>1 004 466</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>3 418 186</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>985 134</td>
 <td></td>
 <td></td>
 </tr>
@@ -8447,15 +8613,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>564 374</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>856 892</td>
+<td>768 209</td>
 <td>500 000</td>
-<td>1 433 659</td>
+<td colspan="2">1 433 659</td>
 </tr>
 <tr>
 <td></td>
@@ -8491,15 +8656,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>9 114 419</td>
+<td>6 114 419</td>
 <td>12 111 292</td>
-<td>4 867 140</td>
+<td colspan="2">4 867 140</td>
 </tr>
 <tr>
 <td></td>
@@ -8532,6 +8696,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>Мангистауская область</td>
 <td>1 597 576</td>
 <td>1 034 115</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>88 683</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>3 000 000</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -8806,15 +8990,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>11 372 962</td>
 <td>8 000 000</td>
-<td>11 000 000</td>
+<td>8 000 000</td>
+<td colspan="2">11 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -8850,15 +9033,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>8 000 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>5 120 862</td>
+<td>4 120 862</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -8890,6 +9072,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>4 578 082</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>3 372 962</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>1 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -9023,15 +9225,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>890 000</td>
-<td>700 000</td>
 <td></td>
+<td>700 000</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9078,15 +9279,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>2 434 955</td>
+<td>1 534 955</td>
 <td>7 577 833</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9119,6 +9319,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>Мангистауская область</td>
 <td>582 291</td>
 <td>383 605</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>890 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>900 000</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -9199,15 +9419,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>9 026 844</td>
+<td>6 909 372</td>
 <td>2 480 829</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9221,15 +9440,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>1 153 014</td>
+<td>259 888</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9254,15 +9472,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>1 027 784</td>
+<td>873 697</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9294,6 +9511,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>3 564 437</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>893 126</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>2 117 472</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>154 087</td>
 <td></td>
 <td></td>
 </tr>
@@ -9591,15 +9838,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>3 788 681</td>
+<td>3 293 966</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9611,6 +9857,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>4 518 186</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>494 715</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9832,15 +10088,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>5 778 566</td>
+<td>4 367 666</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9865,15 +10120,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>1 110 047</td>
+<td>841 900</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9894,6 +10148,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Кызылординская область</td>
 <td>953 888</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 410 900</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>268 147</td>
 <td></td>
 <td></td>
 </tr>
@@ -9994,15 +10268,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>7 918 799</td>
+<td>2 150 169</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10080,6 +10353,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td>1 901 005</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>5 768 630</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10178,15 +10461,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>2 105 092</td>
+<td>500 000</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10200,15 +10482,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>6 000 000</td>
+<td>5 000 000</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10222,15 +10503,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>7 003 489</td>
+<td>6 003 489</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10262,6 +10542,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>2 164 718</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>1 000 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 605 092</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>1 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -10384,15 +10694,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматинская область</td>
-<td>4 555 685</td>
+<td>3 373 579</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10406,15 +10715,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Восточно-Казахстанская область</td>
-<td>1 968 243</td>
+<td>1 445 683</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10439,15 +10747,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Карагандинская область</td>
-<td>1 831 775</td>
+<td>1 351 647</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10479,6 +10786,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/rus/13.05.2022
 <td></td>
 <td>Мангистауская область</td>
 <td>4 838 899</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Абай</td>
+<td>522 560</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Жетісу</td>
+<td>1 182 106</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Область Ұлытау</td>
+<td>480 128</td>
 <td></td>
 <td></td>
 </tr>
@@ -10536,117 +10873,126 @@ __________________________________________________
 > *Приложение 3*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение должностных окладов сотрудников органов внутренних дел
+
+> *Сноска. Приложение 3 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="111">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение должностных окладов сотрудников органов внутренних дел</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="6" rowspan="2">№ п/п</td>
-<td colspan="89" rowspan="2">Наименование областей и городов</td>
-<td colspan="16" rowspan="2">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>18 187 672</td>
 </tr>
 <tr>
-<td colspan="16"></td>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>936 524</td>
 </tr>
 <tr>
-<th colspan="6"></th>
-<th colspan="89">Всего</th>
-<th colspan="16">18 187 672</th>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>831 981</td>
 </tr>
 <tr>
-<td colspan="6">1.</td>
-<td colspan="89">Акмолинская область</td>
-<td colspan="16">936 524</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>1 071 581</td>
 </tr>
 <tr>
-<td colspan="6">2.</td>
-<td colspan="89">Актюбинская область</td>
-<td colspan="16">831 981</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>753 729</td>
 </tr>
 <tr>
-<td colspan="6">3.</td>
-<td colspan="89">Алматинская область</td>
-<td colspan="16">1 334 692</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>1 304 810</td>
 </tr>
 <tr>
-<td colspan="6">4.</td>
-<td colspan="89">Атырауская область</td>
-<td colspan="16">753 729</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>921 969</td>
 </tr>
 <tr>
-<td colspan="6">5.</td>
-<td colspan="89">Восточно-Казахстанская область</td>
-<td colspan="16">1 596 073</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>698 475</td>
 </tr>
 <tr>
-<td colspan="6">6.</td>
-<td colspan="89">Жамбылская область</td>
-<td colspan="16">921 969</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 744 880</td>
 </tr>
 <tr>
-<td colspan="6">7.</td>
-<td colspan="89">Западно-Казахстанская область</td>
-<td colspan="16">698 475</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>1 101 094</td>
 </tr>
 <tr>
-<td colspan="6">8.</td>
-<td colspan="89">Карагандинская область</td>
-<td colspan="16">1 923 949</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>918 165</td>
 </tr>
 <tr>
-<td colspan="6">9.</td>
-<td colspan="89">Костанайская область</td>
-<td colspan="16">1 101 094</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>692 477</td>
 </tr>
 <tr>
-<td colspan="6">10.</td>
-<td colspan="89">Кызылординская область</td>
-<td colspan="16">918 165</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>291 263</td>
 </tr>
 <tr>
-<td colspan="6">11.</td>
-<td colspan="89">Мангистауская область</td>
-<td colspan="16">692 477</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>263 111</td>
 </tr>
 <tr>
-<td colspan="6">12.</td>
-<td colspan="89">Павлодарская область</td>
-<td colspan="16">929 414</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>179 069</td>
 </tr>
 <tr>
-<td colspan="6">13.</td>
-<td colspan="89">Северо-Казахстанская область</td>
-<td colspan="16">882 175</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>929 414</td>
 </tr>
 <tr>
-<td colspan="6">14.</td>
-<td colspan="89">Туркестанская область</td>
-<td colspan="16">1 154 165</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>882 175</td>
 </tr>
 <tr>
-<td colspan="6">15.</td>
-<td colspan="89">Город Алматы</td>
-<td colspan="16">1 583 880</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>1 154 165</td>
 </tr>
 <tr>
-<td colspan="6">16.</td>
-<td colspan="89">Город Нур-Султан</td>
-<td colspan="16">1 108 000</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>1 583 880</td>
 </tr>
 <tr>
-<td colspan="6">17.</td>
-<td colspan="89">Город Шымкент</td>
-<td colspan="16">820 910</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>1 108 000</td>
 </tr>
 <tr>
-<td colspan="111">___________________________________</td>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>820 910</td>
 </tr>
 </table>
+
+___________________________________
 
 > *Приложение 4*  
 > *к постановлению Правительства*  
@@ -10746,7 +11092,7 @@ ___________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на жилищные выплаты сотрудникам специальных учреждений, конвойной службы, дежурных частей и центров оперативного управления, кинологических подразделений и помощникам участковых инспекторов полиции
 
-> *Сноска. Приложение 5 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 5 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -10772,7 +11118,7 @@ ___________________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>322 910</td>
+<td>269 654</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -10782,7 +11128,7 @@ ___________________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>238 273</td>
+<td>184 058</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -10797,7 +11143,7 @@ ___________________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>392 559</td>
+<td>340 343</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -10816,31 +11162,46 @@ ___________________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>54 215</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>53 256</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>52 216</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>127 316</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>169 600</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>587 753</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>690 721</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>568 483</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>253 249</td>
 </tr>
@@ -10851,116 +11212,126 @@ ___________________________________
 > *Приложение 6*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы медицинских работников из числа гражданских служащих органов внутренних дел
 
+> *Сноска. Приложение 6 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
+
 <table>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="66">Наименование областей и городов</td>
-<td colspan="32">Сумма, тыс. тенге</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="66">Всего</th>
-<th colspan="32">235 772</th>
+<td></td>
+<td>Всего</td>
+<td>235 772</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="66">Акмолинская область</td>
-<td colspan="32">15 221</td>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>15 221</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="66">Актюбинская область</td>
-<td colspan="32">12 763</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>12 763</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="66">Алматинская область</td>
-<td colspan="32">20 261</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>15 777</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="66">Атырауская область</td>
-<td colspan="32">9 101</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>9 101</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="66">Восточно-Казахстанская область</td>
-<td colspan="32">21 802</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>17 913</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="66">Жамбылская область</td>
-<td colspan="32">11 226</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>11 226</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="66">Западно-Казахстанская область</td>
-<td colspan="32">18 645</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>18 645</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="66">Карагандинская область</td>
-<td colspan="32">23 951</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>21 359</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="66">Костанайская область</td>
-<td colspan="32">17 198</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>17 198</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="66">Кызылординская область</td>
-<td colspan="32">14 152</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>14 152</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="66">Мангистауская область</td>
-<td colspan="32">6 793</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>6 793</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="66">Павлодарская область</td>
-<td colspan="32">11 406</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>3 889</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="66">Северо-Казахстанская область</td>
-<td colspan="32">13 226</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>4 484</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="66">Туркестанская область</td>
-<td colspan="32">21 416</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>2 592</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="66">Город Алматы</td>
-<td colspan="32">8 788</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>11 406</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="66">Город Нур-Султан</td>
-<td colspan="32">4 682</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>13 226</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="66">Город Шымкент</td>
-<td colspan="32">5 141</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>21 416</td>
 </tr>
 <tr>
-<td colspan="105">___________________________________</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>8 788</td>
 </tr>
 <tr>
-<td colspan="7"></td>
-<td colspan="66"></td>
-<td colspan="32"></td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>4 682</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>5 141</td>
 </tr>
 </table>
+
+___________________________________
 
 > *Приложение 6-1*  
 > *к постановлению Правительства*  
@@ -10969,7 +11340,7 @@ ___________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджету города республиканского значения, столицы на содержание и материально-техническое оснащение дополнительной штатной численности органов внутренних дел
 
-> *Сноска. Постановление дополнено приложением 6-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Постановление дополнено приложением 6-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -10985,7 +11356,7 @@ ___________________________________
 <tr>
 <td>1.</td>
 <td>Алматинская область</td>
-<td>549 005</td>
+<td>276 253</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -10999,11 +11370,16 @@ ___________________________________
 </tr>
 <tr>
 <td>4.</td>
+<td>область Жетісу</td>
+<td>272 752</td>
+</tr>
+<tr>
+<td>5.</td>
 <td>Туркестанская область</td>
 <td>4 580 900</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>6.</td>
 <td>Город Алматы</td>
 <td>379 319</td>
 </tr>
@@ -11970,155 +12346,173 @@ _________________________
 > *Приложение 15*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на выплату государственной адресной социальной помощи
+
+> *Сноска. Приложение 15 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="119">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на выплату государственной адресной социальной помощи</strong>
-</td>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование областей и городов</td>
+<td rowspan="2">Сумма, тыс. тенге</td>
+<td colspan="2">в том числе:</td>
 </tr>
 <tr>
-<td colspan="7" rowspan="2">№ п/п</td>
-<td colspan="41" rowspan="2">Наименование областей и городов</td>
-<td colspan="32" rowspan="2">Сумма, тыс. тенге</td>
-<td colspan="39">в том числе:</td>
+<td>на выплату государственной адресной социальной помощи</td>
+<td>на гарантированный социальный пакет детям</td>
 </tr>
 <tr>
-<td colspan="34">на выплату государственной адресной социальной помощи</td>
-<td colspan="5">на гарантированный социальный пакет детям</td>
+<td></td>
+<td>Всего</td>
+<td>85 092 104</td>
+<td>69 570 006</td>
+<td>15 522 098</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="41">Всего</th>
-<th colspan="32">85 092 104</th>
-<th colspan="34">69 570 006</th>
-<th colspan="5">15 522 098</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>1 042 306</td>
+<td>824 476</td>
+<td>217 830</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="41">Акмолинская область</td>
-<td colspan="32">1 042 306</td>
-<td colspan="34">824 476</td>
-<td colspan="5">217 830</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>2 778 381</td>
+<td>2 107 110</td>
+<td>671 271</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="41">Актюбинская область</td>
-<td colspan="32">2 778 381</td>
-<td colspan="34">2 107 110</td>
-<td colspan="5">671 271</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>6 734 710</td>
+<td>5 652 835</td>
+<td>1 081 875</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="41">Алматинская область</td>
-<td colspan="32">11 214 622</td>
-<td colspan="34">9 481 214</td>
-<td colspan="5">1 733 408</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>1 066 195</td>
+<td>848 684</td>
+<td>217 511</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="41">Атырауская область</td>
-<td colspan="32">1 066 195</td>
-<td colspan="34">848 684</td>
-<td colspan="5">217 511</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>1 940 448</td>
+<td>1 662 483</td>
+<td>277 965</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="41">Восточно-Казахстанская область</td>
-<td colspan="32">5 366 624</td>
-<td colspan="34">4 651 753</td>
-<td colspan="5">714 871</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>5 063 495</td>
+<td>3 916 328</td>
+<td>1 147 167</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="41">Жамбылская область</td>
-<td colspan="32">5 063 495</td>
-<td colspan="34">3 916 328</td>
-<td colspan="5">1 147 167</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>2 363 957</td>
+<td>1 879 673</td>
+<td>484 284</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="41">Западно-Казахстанская область</td>
-<td colspan="32">2 363 957</td>
-<td colspan="34">1 879 673</td>
-<td colspan="5">484 284</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 477 855</td>
+<td>1 127 055</td>
+<td>350 800</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="41">Карагандинская область</td>
-<td colspan="32">1 801 181</td>
-<td colspan="34">1 383 516</td>
-<td colspan="5">417 665</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>2 333 360</td>
+<td>1 893 197</td>
+<td>440 163</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="41">Костанайская область</td>
-<td colspan="32">2 333 360</td>
-<td colspan="34">1 893 197</td>
-<td colspan="5">440 163</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>5 498 280</td>
+<td>4 307 015</td>
+<td>1 191 265</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="41">Кызылординская область</td>
-<td colspan="32">5 498 280</td>
-<td colspan="34">4 307 015</td>
-<td colspan="5">1 191 265</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>2 182 840</td>
+<td>1 678 768</td>
+<td>504 072</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="41">Мангистауская область</td>
-<td colspan="32">2 182 840</td>
-<td colspan="34">1 678 768</td>
-<td colspan="5">504 072</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>3 426 176</td>
+<td>2 989 270</td>
+<td>436 906</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="41">Павлодарская область</td>
-<td colspan="32">1 778 435</td>
-<td colspan="34">1 348 490</td>
-<td colspan="5">429 945</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>4 479 912</td>
+<td>3 828 379</td>
+<td>651 533</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="41">Северо-Казахстанская область</td>
-<td colspan="32">890 484</td>
-<td colspan="34">735 511</td>
-<td colspan="5">154 973</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>323 326</td>
+<td>256 461</td>
+<td>66 865</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="41">Туркестанская область</td>
-<td colspan="32">18 847 308</td>
-<td colspan="34">15 040 597</td>
-<td colspan="5">3 806 711</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>1 778 435</td>
+<td>1 348 490</td>
+<td>429 945</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="41">Город Алматы</td>
-<td colspan="32">3 822 502</td>
-<td colspan="34">3 211 941</td>
-<td colspan="5">610 561</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>890 484</td>
+<td>735 511</td>
+<td>154 973</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="41">Город Нур-Султан</td>
-<td colspan="32">2 249 466</td>
-<td colspan="34">1 987 200</td>
-<td colspan="5">262 266</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>18 847 308</td>
+<td>15 040 597</td>
+<td>3 806 711</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="41">Город Шымкент</td>
-<td colspan="32">16 792 668</td>
-<td colspan="34">14 274 533</td>
-<td colspan="5">2 518 135</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>3 822 502</td>
+<td>3 211 941</td>
+<td>610 561</td>
 </tr>
 <tr>
-<td colspan="119">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>2 249 466</td>
+<td>1 987 200</td>
+<td>262 266</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>16 792 668</td>
+<td>14 274 533</td>
+<td>2 518 135</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 16*  
 > *к постановлению Правительства*  
@@ -12127,7 +12521,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на размещение государственного социального заказа в неправительственных организациях
 
-> *Сноска. Приложение 16 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 16 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12153,12 +12547,12 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>421 655</td>
+<td>293 213</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Восточно-Казахстанская область</td>
-<td>290 515</td>
+<td>221 613</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -12173,7 +12567,7 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Карагандинская область</td>
-<td>89 237</td>
+<td>59 044</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -12192,38 +12586,52 @@ _________________________
 </tr>
 <tr>
 <td>11.</td>
+<td>область Абай</td>
+<td>68 902</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>область Жетісу</td>
+<td>128 442</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Ұлытау</td>
+<td>30 193</td>
+</tr>
+<tr>
+<td>14.</td>
 <td>Павлодарская область</td>
 <td>330 885</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>15.</td>
 <td>Северо-Казахстанская область</td>
 <td>15 689</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Туркестанская область</td>
 <td>173 361</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Город Алматы</td>
 <td>211 551</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Нур-Султан</td>
 <td>14 487</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Шымкент</td>
 <td>228 691</td>
 </tr>
-<tr>
-<td colspan="3">Примечание: Данные расходы направлены на размещение государственного социального заказа в неправительственных организациях на оказание специальных социальных услуг: престарелым и инвалидам в условиях полустационара и в условиях на дому, жертвам торговли людьми.</td>
-</tr>
 </table>
+
+Примечание: Данные расходы направлены на размещение государственного социального заказа в неправительственных организациях на оказание специальных социальных услуг: престарелым и инвалидам в условиях полустационара и в условиях на дому, жертвам торговли людьми.
 
 _________________________
 
@@ -12234,7 +12642,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение прав и улучшение качества жизни инвалидов в Республике Казахстан
 
-> *Сноска. Приложение 17 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 17 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12279,11 +12687,11 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>1 907 256</td>
-<td>1 232 535</td>
-<td>541 527</td>
-<td>90 844</td>
-<td>42 350</td>
+<td>1 128 993</td>
+<td>722 374</td>
+<td>337 346</td>
+<td>47 047</td>
+<td>22 226</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12297,11 +12705,11 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>1 599 195</td>
-<td>738 340</td>
-<td>452 258</td>
-<td>49 801</td>
-<td>358 796</td>
+<td>831 375</td>
+<td>392 679</td>
+<td>257 530</td>
+<td>30 676</td>
+<td>150 490</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12324,11 +12732,11 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>1 497 566</td>
-<td>328 652</td>
-<td>500 427</td>
+<td>1 300 315</td>
+<td>271 979</td>
+<td>435 395</td>
 <td>93 590</td>
-<td>574 897</td>
+<td>499 351</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12359,6 +12767,33 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>767 820</td>
+<td>345 661</td>
+<td>194 728</td>
+<td>19 125</td>
+<td>208 306</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>778 263</td>
+<td>510 161</td>
+<td>204 181</td>
+<td>43 797</td>
+<td>20 124</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>197 251</td>
+<td>56 673</td>
+<td>65 032</td>
+<td></td>
+<td>75 546</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>1 270 854</td>
 <td>547 379</td>
@@ -12367,7 +12802,7 @@ _________________________
 <td>261 287</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>709 583</td>
 <td>381 440</td>
@@ -12376,7 +12811,7 @@ _________________________
 <td>56 552</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>2 284 493</td>
 <td>999 215</td>
@@ -12385,7 +12820,7 @@ _________________________
 <td>467 606</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>1 581 041</td>
 <td>882 362</td>
@@ -12394,7 +12829,7 @@ _________________________
 <td>187 552</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>1 501 555</td>
 <td>599 375</td>
@@ -12403,7 +12838,7 @@ _________________________
 <td>477 430</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>1 702 466</td>
 <td>991 412</td>
@@ -12418,11 +12853,12 @@ ___________________________________
 > *Приложение 18*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от 9 декабря 2021 года № 872*
+> *от 9 декабря 2021 года*  
+> *№ 872*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на услуги по замене и настройке речевых процессоров к кохлеарным имплантам
 
-> *Сноска. Приложение 18 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 18 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12448,7 +12884,7 @@ ___________________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>190 740</td>
+<td>121 500</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12492,31 +12928,36 @@ ___________________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Жетісу</td>
+<td>69 240</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодарская область</td>
 <td>121 380</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>14.</td>
 <td>Северо-Казахстанская область</td>
 <td>100 230</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>15.</td>
 <td>Туркестанская область</td>
 <td>306 340</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td>Город Алматы</td>
 <td>491 300</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td>Город Нур-Султан</td>
 <td>335 240</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>18.</td>
 <td>Город Шымкент</td>
 <td>283 220</td>
 </tr>
@@ -12527,64 +12968,66 @@ _________________________
 > *Приложение 19*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование затрат работодателя на создание специальных рабочих мест для трудоустройства инвалидов
+
+> *Сноска. Приложение 19 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="78">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование затрат работодателя на создание специальных рабочих мест для трудоустройства инвалидов</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и города</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="9">№ п/п</td>
-<td colspan="33">Наименование областей и города</td>
-<td colspan="36">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>59 316</td>
 </tr>
 <tr>
-<th colspan="9"></th>
-<th colspan="33">Всего</th>
-<th colspan="36">59 316</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>558</td>
 </tr>
 <tr>
-<td colspan="9">1.</td>
-<td colspan="33">Акмолинская область</td>
-<td colspan="36">558</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>3 126</td>
 </tr>
 <tr>
-<td colspan="9">2.</td>
-<td colspan="33">Актюбинская область</td>
-<td colspan="36">3 126</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>2 450</td>
 </tr>
 <tr>
-<td colspan="9">3.</td>
-<td colspan="33">Алматинская область</td>
-<td colspan="36">7 169</td>
+<td>4.</td>
+<td>Кызылординская область</td>
+<td>5 937</td>
 </tr>
 <tr>
-<td colspan="9">4.</td>
-<td colspan="33">Кызылординская область</td>
-<td colspan="36">5 937</td>
+<td>5.</td>
+<td>Мангистауская область</td>
+<td>12 182</td>
 </tr>
 <tr>
-<td colspan="9">5.</td>
-<td colspan="33">Мангистауская область</td>
-<td colspan="36">12 182</td>
+<td>6.</td>
+<td>область Жетісу</td>
+<td>4 719</td>
 </tr>
 <tr>
-<td colspan="9">6.</td>
-<td colspan="33">Павлодарская область</td>
-<td colspan="36">21 737</td>
+<td>7.</td>
+<td>Павлодарская область</td>
+<td>21 737</td>
 </tr>
 <tr>
-<td colspan="9">7.</td>
-<td colspan="33">Город Нур-Султан</td>
-<td colspan="36">8 607</td>
-</tr>
-<tr>
-<td colspan="78">_________________________</td>
+<td>8.</td>
+<td>Город Нур-Султан</td>
+<td>8 607</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 20*  
 > *к постановлению Правительства*  
@@ -12593,7 +13036,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на развитие продуктивной занятости
 
-> *Сноска. Приложение 20 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 20 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12630,9 +13073,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>11 869 938</td>
-<td>2 583 780</td>
-<td>9 286 158</td>
+<td>5 605 951</td>
+<td>1 406 903</td>
+<td>4 199 048</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12644,9 +13087,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>5 506 389</td>
-<td>1 794 985</td>
-<td>3 711 404</td>
+<td>2 967 403</td>
+<td>912 173</td>
+<td>2 055 230</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12665,9 +13108,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>3 603 064</td>
-<td>1 244 314</td>
-<td>2 358 750</td>
+<td>2 523 679</td>
+<td>832 280</td>
+<td>1 691 399</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12692,41 +13135,62 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>2 538 986</td>
+<td>882 812</td>
+<td>1 656 174</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>6 263 987</td>
+<td>1 176 877</td>
+<td>5 087 110</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>1 079 385</td>
+<td>412 034</td>
+<td>667 351</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>5 374 758</td>
 <td>2 991 659</td>
 <td>2 383 099</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>3 125 806</td>
 <td>1 846 385</td>
 <td>1 279 421</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>21 165 308</td>
 <td>6 985 316</td>
 <td>14 179 992</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>5 193 695</td>
 <td>1 580 706</td>
 <td>3 612 989</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>2 650 882</td>
 <td>820 153</td>
 <td>1 830 729</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>5 277 078</td>
 <td>1 891 401</td>
@@ -12760,7 +13224,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы работников государственных организаций: медико-социальных учреждений стационарного и полустационарного типов, организаций надомного обслуживания, временного пребывания, центров занятости населения
 
-> *Сноска. Приложение 22 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 22 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12797,9 +13261,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>3 796 503</td>
-<td>1 921 160</td>
-<td>1 875 343</td>
+<td>1 696 683</td>
+<td>844 559</td>
+<td>852 124</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12811,9 +13275,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>5 020 388</td>
-<td>2 548 099</td>
-<td>2 472 289</td>
+<td>2 965 610</td>
+<td>1 450 726</td>
+<td>1 514 884</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12832,9 +13296,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>4 025 150</td>
-<td>2 054 705</td>
-<td>1 970 445</td>
+<td>3 488 974</td>
+<td>1 782 223</td>
+<td>1 706 751</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12859,41 +13323,62 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>2 054 778</td>
+<td>1 097 373</td>
+<td>957 405</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>2 099 820</td>
+<td>1 076 601</td>
+<td>1 023 219</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>536 176</td>
+<td>272 482</td>
+<td>263 694</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>2 321 989</td>
 <td>1 231 216</td>
 <td>1 090 773</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>2 672 817</td>
 <td>1 347 565</td>
 <td>1 325 252</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>3 682 058</td>
 <td>1 958 701</td>
 <td>1 723 357</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>2 321 711</td>
 <td>1 149 364</td>
 <td>1 172 347</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>1 577 042</td>
 <td>1 072 345</td>
 <td>504 697</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>1 359 764</td>
 <td>708 770</td>
@@ -12910,7 +13395,7 @@ ___________________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы отдельных категорий гражданских служащих, работников организаций, содержащихся за счет средств государственного бюджета, работников казенных предприятий
 
-> *Сноска. Приложение 23 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 23 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -12947,9 +13432,9 @@ ___________________________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>9 003 159</td>
-<td>4 038 241</td>
-<td>4 964 918</td>
+<td>4 944 975</td>
+<td>2 232 846</td>
+<td>2 712 129</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12961,9 +13446,9 @@ ___________________________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>9 840 861</td>
-<td>4 277 787</td>
-<td>5 563 074</td>
+<td>6 056 564</td>
+<td>2 683 704</td>
+<td>3 372 860</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12982,9 +13467,9 @@ ___________________________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>9 840 246</td>
-<td>4 251 131</td>
-<td>5 589 115</td>
+<td>8 045 950</td>
+<td>3 493 716</td>
+<td>4 552 234</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13009,41 +13494,62 @@ ___________________________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>3 784 297</td>
+<td>1 594 083</td>
+<td>2 190 214</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>4 058 184</td>
+<td>1 805 395</td>
+<td>2 252 789</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>1 794 296</td>
+<td>757 415</td>
+<td>1 036 881</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>6 610 870</td>
 <td>3 043 937</td>
 <td>3 566 933</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>5 741 225</td>
 <td>2 578 882</td>
 <td>3 162 343</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>13 724 370</td>
 <td>6 271 443</td>
 <td>7 452 927</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>5 175 893</td>
 <td>2 352 554</td>
 <td>2 823 339</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>4 546 060</td>
 <td>1 865 784</td>
 <td>2 680 276</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>3 973 843</td>
 <td>1 776 041</td>
@@ -13056,109 +13562,122 @@ _________________________
 > *Приложение 24*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов организаций дошкольного образования
+
+> *Сноска. Приложение 24 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="59">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов организаций дошкольного образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="15">Наименование областей и городов</td>
-<td colspan="37">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>105 881 627</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="15">Всего</th>
-<th colspan="37">105 881 627</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>3 815 113</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="15">Акмолинская область</td>
-<td colspan="37">3 815 113</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>5 368 228</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="15">Актюбинская область</td>
-<td colspan="37">5 368 228</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>8 774 319</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="15">Алматинская область</td>
-<td colspan="37">11 717 980</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>3 822 560</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="15">Атырауская область</td>
-<td colspan="37">3 822 560</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>4 499 982</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="15">Восточно-Казахстанская область</td>
-<td colspan="37">6 244 225</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>6 578 281</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="15">Жамбылская область</td>
-<td colspan="37">6 578 281</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>3 433 881</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="15">Западно-Казахстанская область</td>
-<td colspan="37">3 433 881</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>5 114 953</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="15">Карагандинская область</td>
-<td colspan="37">6 216 306</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>2 878 580</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="15">Костанайская область</td>
-<td colspan="37">2 878 580</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>6 186 690</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="15">Кызылординская область</td>
-<td colspan="37">6 186 690</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>4 460 451</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="15">Мангистауская область</td>
-<td colspan="37">4 460 451</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>1 744 243</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="15">Павлодарская область</td>
-<td colspan="37">4 098 718</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>2 943 661</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="15">Северо-Казахстанская область</td>
-<td colspan="37">2 234 750</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>1 101 353</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="15">Туркестанская область</td>
-<td colspan="37">19 894 708</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>4 098 718</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="15">Город Алматы</td>
-<td colspan="37">7 014 430</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>2 234 750</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="15">Город Нур-Султан</td>
-<td colspan="37">5 236 872</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>19 894 708</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="15">Город Шымкент</td>
-<td colspan="37">6 679 854</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>7 014 430</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>5 236 872</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>6 679 854</td>
 </tr>
 </table>
 
@@ -13167,450 +13686,488 @@ _________________________
 > *Приложение 25*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций дошкольного образования
+
+> *Сноска. Приложение 25 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="59">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций дошкольного образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="15">Наименование областей и городов</td>
-<td colspan="37">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>606 444</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="15">Всего</th>
-<th colspan="37">606 444</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>23 216</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="15">Акмолинская область</td>
-<td colspan="37">23 216</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>7 818</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="15">Актюбинская область</td>
-<td colspan="37">7 818</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>17 767</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="15">Алматинская область</td>
-<td colspan="37">58 986</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>14 924</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="15">Атырауская область</td>
-<td colspan="37">14 924</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>31 980</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="15">Восточно-Казахстанская область</td>
-<td colspan="37">31 980</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>59 460</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="15">Жамбылская область</td>
-<td colspan="37">59 460</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>21 557</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="15">Западно-Казахстанская область</td>
-<td colspan="37">21 557</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>36 481</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="15">Карагандинская область</td>
-<td colspan="37">43 351</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>22 505</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="15">Костанайская область</td>
-<td colspan="37">22 505</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>63 961</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="15">Кызылординская область</td>
-<td colspan="37">63 961</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>29 848</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="15">Мангистауская область</td>
-<td colspan="37">29 848</td>
+<td>12.</td>
+<td>область Жетісу</td>
+<td>41 219</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="15">Павлодарская область</td>
-<td colspan="37">51 406</td>
+<td>13.</td>
+<td>область Ұлытау</td>
+<td>6 870</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="15">Северо-Казахстанская область</td>
-<td colspan="37">17 056</td>
+<td>14.</td>
+<td>Павлодарская область</td>
+<td>51 406</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="15">Туркестанская область</td>
-<td colspan="37">63 013</td>
+<td>15.</td>
+<td>Северо-Казахстанская область</td>
+<td>17 056</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="15">Город Алматы</td>
-<td colspan="37">27 479</td>
+<td>16.</td>
+<td>Туркестанская область</td>
+<td>63 013</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="15">Город Нур-Султан</td>
-<td colspan="37">47 142</td>
+<td>17.</td>
+<td>Город Алматы</td>
+<td>27 479</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="15">Город Шымкент</td>
-<td colspan="37">22 742</td>
+<td>18.</td>
+<td>Город Нур-Султан</td>
+<td>47 142</td>
 </tr>
 <tr>
-<td colspan="59">_________________________</td>
+<td>19.</td>
+<td>Город Шымкент</td>
+<td>22 742</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 26*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций дошкольного образования
+
+> *Сноска. Приложение 26 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="59">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций дошкольного образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="15">Наименование областей и городов</td>
-<td colspan="37">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>16 089 899</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="15">Всего</th>
-<th colspan="37">16 089 899</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>806 173</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="15">Акмолинская область</td>
-<td colspan="37">806 173</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>1 795 023</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="15">Актюбинская область</td>
-<td colspan="37">1 795 023</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>659 612</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="15">Алматинская область</td>
-<td colspan="37">1 089 482</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>817 499</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="15">Атырауская область</td>
-<td colspan="37">817 499</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>610 085</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="15">Восточно-Казахстанская область</td>
-<td colspan="37">793 663</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>1 114 937</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="15">Жамбылская область</td>
-<td colspan="37">1 114 937</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>566 687</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="15">Западно-Казахстанская область</td>
-<td colspan="37">566 687</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 607 385</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="15">Карагандинская область</td>
-<td colspan="37">1 916 969</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>1 180 794</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="15">Костанайская область</td>
-<td colspan="37">1 180 794</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>1 020 281</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="15">Кызылординская область</td>
-<td colspan="37">1 020 281</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>470 556</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="15">Мангистауская область</td>
-<td colspan="37">470 556</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>183 578</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="15">Павлодарская область</td>
-<td colspan="37">794 695</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>429 870</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="15">Северо-Казахстанская область</td>
-<td colspan="37">874 232</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>309 584</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="15">Туркестанская область</td>
-<td colspan="37">2 069 670</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>794 695</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="15">Город Алматы</td>
-<td colspan="37">226 694</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>874 232</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="15">Город Нур-Султан</td>
-<td colspan="37">114 563</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>2 069 670</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="15">Город Шымкент</td>
-<td colspan="37">437 981</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>226 694</td>
 </tr>
 <tr>
-<td colspan="59">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>114 563</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>437 981</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 27*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение охвата дошкольным воспитанием и обучением детей от трех до шести лет
+
+> *Сноска. Приложение 27 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="71">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение охвата дошкольным воспитанием и обучением детей от трех до шести лет</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="9">№ п/п</td>
-<td colspan="15">Наименование областей и городов</td>
-<td colspan="47">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>16 561 138</td>
 </tr>
 <tr>
-<th colspan="9"></th>
-<th colspan="15">Всего</th>
-<th colspan="47">16 561 138</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>471 636</td>
 </tr>
 <tr>
-<td colspan="9">1.</td>
-<td colspan="15">Акмолинская область</td>
-<td colspan="47">471 636</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>366 828</td>
 </tr>
 <tr>
-<td colspan="9">2.</td>
-<td colspan="15">Актюбинская область</td>
-<td colspan="47">366 828</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>4 142 880</td>
 </tr>
 <tr>
-<td colspan="9">3.</td>
-<td colspan="15">Алматинская область</td>
-<td colspan="47">4 142 880</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>621 432</td>
 </tr>
 <tr>
-<td colspan="9">4.</td>
-<td colspan="15">Атырауская область</td>
-<td colspan="47">621 432</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>538 497</td>
 </tr>
 <tr>
-<td colspan="9">5.</td>
-<td colspan="15">Восточно-Казахстанская область</td>
-<td colspan="47">1 048 080</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>786 060</td>
 </tr>
 <tr>
-<td colspan="9">6.</td>
-<td colspan="15">Жамбылская область</td>
-<td colspan="47">786 060</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>258 930</td>
 </tr>
 <tr>
-<td colspan="9">7.</td>
-<td colspan="15">Западно-Казахстанская область</td>
-<td colspan="47">258 930</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>733 656</td>
 </tr>
 <tr>
-<td colspan="9">8.</td>
-<td colspan="15">Карагандинская область</td>
-<td colspan="47">786 060</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>262 020</td>
 </tr>
 <tr>
-<td colspan="9">9.</td>
-<td colspan="15">Костанайская область</td>
-<td colspan="47">262 020</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>857 702</td>
 </tr>
 <tr>
-<td colspan="9">10.</td>
-<td colspan="15">Кызылординская область</td>
-<td colspan="47">857 702</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>828 576</td>
 </tr>
 <tr>
-<td colspan="9">11.</td>
-<td colspan="15">Мангистауская область</td>
-<td colspan="47">828 576</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>509 583</td>
 </tr>
 <tr>
-<td colspan="9">12.</td>
-<td colspan="15">Павлодарская область</td>
-<td colspan="47">314 424</td>
+<td>13.</td>
+<td>область Ұлытау</td>
+<td>52 404</td>
 </tr>
 <tr>
-<td colspan="9">13.</td>
-<td colspan="15">Северо-Казахстанская область</td>
-<td colspan="47">317 923</td>
+<td>14.</td>
+<td>Павлодарская область</td>
+<td>314 424</td>
 </tr>
 <tr>
-<td colspan="9">14.</td>
-<td colspan="15">Туркестанская область</td>
-<td colspan="47">2 071 440</td>
+<td>15.</td>
+<td>Северо-Казахстанская область</td>
+<td>317 923</td>
 </tr>
 <tr>
-<td colspan="9">15.</td>
-<td colspan="15">Город Алматы</td>
-<td colspan="47">1 812 510</td>
+<td>16.</td>
+<td>Туркестанская область</td>
+<td>2 071 440</td>
 </tr>
 <tr>
-<td colspan="9">16.</td>
-<td colspan="15">Город Нур-Султан</td>
-<td colspan="47">786 060</td>
+<td>17.</td>
+<td>Город Алматы</td>
+<td>1 812 510</td>
 </tr>
 <tr>
-<td colspan="9">17.</td>
-<td colspan="15">Город Шымкент</td>
-<td colspan="47">828 577</td>
+<td>18.</td>
+<td>Город Нур-Султан</td>
+<td>786 060</td>
 </tr>
 <tr>
-<td colspan="71">_________________________</td>
+<td>19.</td>
+<td>Город Шымкент</td>
+<td>828 577</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 28*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников организаций дошкольного образования
+
+> *Сноска. Приложение 28 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="58">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников организаций дошкольного образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="9">№ п/п</td>
-<td colspan="11">Наименование областей и городов</td>
-<td colspan="38">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>5 826 420</td>
 </tr>
 <tr>
-<th colspan="9"></th>
-<th colspan="11">Всего</th>
-<th colspan="38">5 826 420</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>275 555</td>
 </tr>
 <tr>
-<td colspan="9">1.</td>
-<td colspan="11">Акмолинская область</td>
-<td colspan="38">275 555</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>389 226</td>
 </tr>
 <tr>
-<td colspan="9">2.</td>
-<td colspan="11">Актюбинская область</td>
-<td colspan="38">389 226</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>150 436</td>
 </tr>
 <tr>
-<td colspan="9">3.</td>
-<td colspan="11">Алматинская область</td>
-<td colspan="38">278 988</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>252 421</td>
 </tr>
 <tr>
-<td colspan="9">4.</td>
-<td colspan="11">Атырауская область</td>
-<td colspan="38">252 421</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>626 490</td>
 </tr>
 <tr>
-<td colspan="9">5.</td>
-<td colspan="11">Восточно-Казахстанская область</td>
-<td colspan="38">688 169</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>400 629</td>
 </tr>
 <tr>
-<td colspan="9">6.</td>
-<td colspan="11">Жамбылская область</td>
-<td colspan="38">400 629</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>274 010</td>
 </tr>
 <tr>
-<td colspan="9">7.</td>
-<td colspan="11">Западно-Казахстанская область</td>
-<td colspan="38">274 010</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>414 745</td>
 </tr>
 <tr>
-<td colspan="9">8.</td>
-<td colspan="11">Карагандинская область</td>
-<td colspan="38">537 904</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>205 835</td>
 </tr>
 <tr>
-<td colspan="9">9.</td>
-<td colspan="11">Костанайская область</td>
-<td colspan="38">205 835</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>347 107</td>
 </tr>
 <tr>
-<td colspan="9">10.</td>
-<td colspan="11">Кызылординская область</td>
-<td colspan="38">347 107</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>336 424</td>
 </tr>
 <tr>
-<td colspan="9">11.</td>
-<td colspan="11">Мангистауская область</td>
-<td colspan="38">336 424</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>61 679</td>
 </tr>
 <tr>
-<td colspan="9">12.</td>
-<td colspan="11">Павлодарская область</td>
-<td colspan="38">429 597</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>128 552</td>
 </tr>
 <tr>
-<td colspan="9">13.</td>
-<td colspan="11">Северо-Казахстанская область</td>
-<td colspan="38">321 482</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>123 159</td>
 </tr>
 <tr>
-<td colspan="9">14.</td>
-<td colspan="11">Туркестанская область</td>
-<td colspan="38">443 304</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>429 597</td>
 </tr>
 <tr>
-<td colspan="9">15.</td>
-<td colspan="11">Город Алматы</td>
-<td colspan="38">207 769</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>321 482</td>
 </tr>
 <tr>
-<td colspan="9">16.</td>
-<td colspan="11">Город Нур-Султан</td>
-<td colspan="38">273 605</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>443 304</td>
 </tr>
 <tr>
-<td colspan="9">17.</td>
-<td colspan="11">Город Шымкент</td>
-<td colspan="38">164 395</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>207 769</td>
 </tr>
 <tr>
-<td colspan="58">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>273 605</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>164 395</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 29*  
 > *к постановлению Правительства*  
@@ -13619,7 +14176,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на реализацию подушевого финансирования в государственных организациях среднего образования
 
-> *Сноска. Приложение 29 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 29 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -13645,7 +14202,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>5 608 536</td>
+<td>1 838 866</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -13655,7 +14212,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>3 991 279</td>
+<td>1 955 537</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13670,7 +14227,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>4 677 714</td>
+<td>4 060 081</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13689,31 +14246,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>2 035 742</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>3 769 670</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>617 633</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>3 456 051</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>465 055</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>7 740 393</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>5 489 673</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>6 904 453</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>9 038 338</td>
 </tr>
@@ -13728,7 +14300,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций образования, за исключением организаций дополнительного образования для взрослых
 
-> *Сноска. Приложение 30 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 30 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -13754,7 +14326,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>92 557 604</td>
+<td>63 598 602</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -13764,7 +14336,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>37 957 278</td>
+<td>18 169 466</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13779,7 +14351,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>41 399 123</td>
+<td>33 896 233</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13798,31 +14370,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>19 787 812</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>28 959 002</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>7 502 890</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>26 382 483</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>24 199 907</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>126 727 458</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>40 964 251</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>20 506 449</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>29 637 960</td>
 </tr>
@@ -13833,445 +14420,494 @@ _________________________
 > *Приложение 31*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций образования, за исключением организаций дополнительного образования для взрослых
+
+> *Сноска. Приложение 31 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="55">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций образования, за исключением организаций дополнительного образования для взрослых</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="10">Наименование областей и городов</td>
-<td colspan="38">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>239 830 029</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="10">Всего</th>
-<th colspan="38">239 830 029</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>10 681 797</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="10">Акмолинская область</td>
-<td colspan="38">10 681 797</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>11 096 303</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="10">Актюбинская область</td>
-<td colspan="38">11 096 303</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>21 097 607</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="10">Алматинская область</td>
-<td colspan="38">32 022 613</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>8 338 557</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="10">Атырауская область</td>
-<td colspan="38">8 338 557</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>13 281 736</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="10">Восточно-Казахстанская область</td>
-<td colspan="38">23 431 384</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>22 035 565</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="10">Жамбылская область</td>
-<td colspan="38">22 035 565</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>7 766 604</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="10">Западно-Казахстанская область</td>
-<td colspan="38">7 766 604</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>11 129 966</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="10">Карагандинская область</td>
-<td colspan="38">13 319 537</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>15 006 294</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="10">Костанайская область</td>
-<td colspan="38">15 006 294</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>11 137 057</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="10">Кызылординская область</td>
-<td colspan="38">11 137 057</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>4 745 116</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="10">Мангистауская область</td>
-<td colspan="38">4 745 116</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>10 149 648</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="10">Павлодарская область</td>
-<td colspan="38">8 009 790</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>10 925 006</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="10">Северо-Казахстанская область</td>
-<td colspan="38">9 580 888</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>2 189 571</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="10">Туркестанская область</td>
-<td colspan="38">36 000 680</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>8 009 790</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="10">Город Алматы</td>
-<td colspan="38">12 432 153</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>9 580 888</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="10">Город Нур-Султан</td>
-<td colspan="38">7 986 248</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>36 000 680</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="10">Город Шымкент</td>
-<td colspan="38">6 239 443</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>12 432 153</td>
 </tr>
 <tr>
-<td colspan="55">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>7 986 248</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>6 239 443</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 32*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций среднего образования
+
+> *Сноска. Приложение 32 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="60">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций среднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="10">Наименование областей и городов</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>7 281 788</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="10">Всего</th>
-<th colspan="43">7 281 788</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>319 805</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="10">Акмолинская область</td>
-<td colspan="43">319 805</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>393 004</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="10">Актюбинская область</td>
-<td colspan="43">393 004</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>690 778</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="10">Алматинская область</td>
-<td colspan="43">1 067 673</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>240 209</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="10">Атырауская область</td>
-<td colspan="43">240 209</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>290 076</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="10">Восточно-Казахстанская область</td>
-<td colspan="43">537 272</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>563 093</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="10">Жамбылская область</td>
-<td colspan="43">563 093</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>258 687</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="10">Западно-Казахстанская область</td>
-<td colspan="43">258 687</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>367 683</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="10">Карагандинская область</td>
-<td colspan="43">458 150</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>306 302</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="10">Костанайская область</td>
-<td colspan="43">306 302</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>444 839</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="10">Кызылординская область</td>
-<td colspan="43">444 839</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>301 090</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="10">Мангистауская область</td>
-<td colspan="43">301 090</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>247 196</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="10">Павлодарская область</td>
-<td colspan="43">332 597</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>376 895</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="10">Северо-Казахстанская область</td>
-<td colspan="43">243 762</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>90 467</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="10">Туркестанская область</td>
-<td colspan="43">927 433</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>332 597</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="10">Город Алматы</td>
-<td colspan="43">290 430</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>243 762</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="10">Город Нур-Султан</td>
-<td colspan="43">215 335</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>927 433</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="10">Город Шымкент</td>
-<td colspan="43">382 107</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>290 430</td>
 </tr>
 <tr>
-<td colspan="60">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>215 335</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>382 107</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 33*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за степень магистра методистам методических центров (кабинетов) государственных организаций среднего образования
+
+> *Сноска. Приложение 33 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="64">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за степень магистра методистам методических центров (кабинетов) государственных организаций среднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="10">Наименование областей и городов</td>
-<td colspan="47">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>148 151</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="10">Всего</th>
-<th colspan="47">148 151</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>5 327</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="10">Акмолинская область</td>
-<td colspan="47">5 327</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>6 014</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="10">Актюбинская область</td>
-<td colspan="47">6 014</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>3 827</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="10">Алматинская область</td>
-<td colspan="47">6 424</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>5 323</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="10">Атырауская область</td>
-<td colspan="47">5 323</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>4 235</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="10">Восточно-Казахстанская область</td>
-<td colspan="47">9 152</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>9 415</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="10">Жамбылская область</td>
-<td colspan="47">9 415</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>2 043</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="10">Западно-Казахстанская область</td>
-<td colspan="47">2 043</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>2 213</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="10">Карагандинская область</td>
-<td colspan="47">2 623</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>8 742</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="10">Костанайская область</td>
-<td colspan="47">8 742</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>8 328</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="10">Кызылординская область</td>
-<td colspan="47">8 328</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>2 731</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="10">Мангистауская область</td>
-<td colspan="47">2 731</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>4 917</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="10">Павлодарская область</td>
-<td colspan="47">6 147</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>2 597</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="10">Северо-Казахстанская область</td>
-<td colspan="47">8 058</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>410</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="10">Туркестанская область</td>
-<td colspan="47">48 961</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>6 147</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="10">Город Алматы</td>
-<td colspan="47">8 201</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>8 058</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="10">Город Нур-Султан</td>
-<td colspan="47">8 200</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>48 961</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="10">Город Шымкент</td>
-<td colspan="47">2 462</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>8 201</td>
 </tr>
 <tr>
-<td colspan="64">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>8 200</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>2 462</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 34*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников государственных организаций образования, за исключением организаций дополнительного образования для взрослых
+
+> *Сноска. Приложение 34 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="64">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников государственных организаций образования, за исключением организаций дополнительного образования для взрослых</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="10">Наименование областей и городов</td>
-<td colspan="47">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>2 969 302</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="10">Всего</th>
-<th colspan="47">2 969 302</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>75 700</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="10">Акмолинская область</td>
-<td colspan="47">75 700</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>116 535</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="10">Актюбинская область</td>
-<td colspan="47">116 535</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>109 787</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="10">Алматинская область</td>
-<td colspan="47">206 130</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>151 247</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="10">Атырауская область</td>
-<td colspan="47">151 247</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>320 036</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="10">Восточно-Казахстанская область</td>
-<td colspan="47">383 454</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>167 478</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="10">Жамбылская область</td>
-<td colspan="47">167 478</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>64 169</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="10">Западно-Казахстанская область</td>
-<td colspan="47">64 169</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>171 666</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="10">Карагандинская область</td>
-<td colspan="47">184 973</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>198 325</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="10">Костанайская область</td>
-<td colspan="47">198 325</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>132 523</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="10">Кызылординская область</td>
-<td colspan="47">132 523</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>200 598</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="10">Мангистауская область</td>
-<td colspan="47">200 598</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>63 418</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="10">Павлодарская область</td>
-<td colspan="47">159 328</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>96 343</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="10">Северо-Казахстанская область</td>
-<td colspan="47">146 311</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>13 307</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="10">Туркестанская область</td>
-<td colspan="47">375 920</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>159 328</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="10">Город Алматы</td>
-<td colspan="47">91 961</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>146 311</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="10">Город Нур-Султан</td>
-<td colspan="47">213 910</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>375 920</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="10">Город Шымкент</td>
-<td colspan="47">100 740</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>91 961</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>213 910</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>100 740</td>
 </tr>
 </table>
 
@@ -14324,262 +14960,293 @@ _________________________
 > *Приложение 35*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение размера государственной стипендии обучающихся в организациях технического и профессионального, послесреднего образования
+
+> *Сноска. Приложение 35 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="120">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение размера государственной стипендии обучающихся в организациях технического и профессионального, послесреднего образования</strong>
-</td>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование областей и городов</td>
+<td rowspan="2">Сумма, тыс. тенге</td>
+<td colspan="2">в том числе</td>
 </tr>
 <tr>
-<td colspan="12" rowspan="2">№ п/п</td>
-<td colspan="87" rowspan="2">Наименование областей и городов</td>
-<td colspan="11" rowspan="2">Сумма, тыс. тенге</td>
-<td colspan="10">в том числе</td>
+<td>в сфере здравоохранения</td>
+<td>в сфере образования</td>
 </tr>
 <tr>
-<td colspan="7">в сфере здравоохранения</td>
-<td colspan="3">в сфере образования</td>
+<td></td>
+<td>Всего</td>
+<td>8 047 209</td>
+<td>579 667</td>
+<td>7 467 542</td>
 </tr>
 <tr>
-<th colspan="12"></th>
-<th colspan="87">Всего</th>
-<th colspan="11">8 047 209</th>
-<th colspan="7">579 667</th>
-<th colspan="3">7 467 542</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>560 317</td>
+<td>19 225</td>
+<td>541 092</td>
 </tr>
 <tr>
-<td colspan="12">1.</td>
-<td colspan="87">Акмолинская область</td>
-<td colspan="11">560 317</td>
-<td colspan="7">19 225</td>
-<td colspan="3">541 092</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>452 311</td>
+<td>48 427</td>
+<td>403 884</td>
 </tr>
 <tr>
-<td colspan="12">2.</td>
-<td colspan="87">Актюбинская область</td>
-<td colspan="11">452 311</td>
-<td colspan="7">48 427</td>
-<td colspan="3">403 884</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>165 356</td>
+<td>21 603</td>
+<td>143 753</td>
 </tr>
 <tr>
-<td colspan="12">3.</td>
-<td colspan="87">Алматинская область</td>
-<td colspan="11">385 179</td>
-<td colspan="7">49 365</td>
-<td colspan="3">335 814</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>273 212</td>
+<td>31 273</td>
+<td>241 939</td>
 </tr>
 <tr>
-<td colspan="12">4.</td>
-<td colspan="87">Атырауская область</td>
-<td colspan="11">273 212</td>
-<td colspan="7">31 273</td>
-<td colspan="3">241 939</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>554 002</td>
+<td>20 014</td>
+<td>533 988</td>
 </tr>
 <tr>
-<td colspan="12">5.</td>
-<td colspan="87">Восточно-Казахстанская область</td>
-<td colspan="11">898 724</td>
-<td colspan="7">43 527</td>
-<td colspan="3">855 197</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>298 051</td>
+<td>49 857</td>
+<td>248 194</td>
 </tr>
 <tr>
-<td colspan="12">6.</td>
-<td colspan="87">Жамбылская область</td>
-<td colspan="11">298 051</td>
-<td colspan="7">49 857</td>
-<td colspan="3">248 194</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>371 710</td>
+<td>35 667</td>
+<td>336 043</td>
 </tr>
 <tr>
-<td colspan="12">7.</td>
-<td colspan="87">Западно-Казахстанская область</td>
-<td colspan="11">371 710</td>
-<td colspan="7">35 667</td>
-<td colspan="3">336 043</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>349 529</td>
+<td>36 521</td>
+<td>313 008</td>
 </tr>
 <tr>
-<td colspan="12">8.</td>
-<td colspan="87">Карагандинская область</td>
-<td colspan="11">410 164</td>
-<td colspan="7">43 877</td>
-<td colspan="3">366 287</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>378 490</td>
+<td>59 229</td>
+<td>319 261</td>
 </tr>
 <tr>
-<td colspan="12">9.</td>
-<td colspan="87">Костанайская область</td>
-<td colspan="11">378 490</td>
-<td colspan="7">59 229</td>
-<td colspan="3">319 261</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>300 804</td>
+<td>32 334</td>
+<td>268 470</td>
 </tr>
 <tr>
-<td colspan="12">10.</td>
-<td colspan="87">Кызылординская область</td>
-<td colspan="11">300 804</td>
-<td colspan="7">32 334</td>
-<td colspan="3">268 470</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>273 536</td>
+<td>8 248</td>
+<td>265 288</td>
 </tr>
 <tr>
-<td colspan="12">11.</td>
-<td colspan="87">Мангистауская область</td>
-<td colspan="11">273 536</td>
-<td colspan="7">8 248</td>
-<td colspan="3">265 288</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>344 722</td>
+<td>23 513</td>
+<td>321 209</td>
 </tr>
 <tr>
-<td colspan="12">12.</td>
-<td colspan="87">Павлодарская область</td>
-<td colspan="11">585 922</td>
-<td colspan="7"></td>
-<td colspan="3">585 922</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>219 823</td>
+<td>27 762</td>
+<td>192 061</td>
 </tr>
 <tr>
-<td colspan="12">13.</td>
-<td colspan="87">Северо-Казахстанская область</td>
-<td colspan="11">218 654</td>
-<td colspan="7">12 684</td>
-<td colspan="3">205 970</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>60 635</td>
+<td>7 356</td>
+<td>53 279</td>
 </tr>
 <tr>
-<td colspan="12">14.</td>
-<td colspan="87">Туркестанская область</td>
-<td colspan="11">934 496</td>
-<td colspan="7">52 404</td>
-<td colspan="3">882 092</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>585 922</td>
+<td></td>
+<td>585 922</td>
 </tr>
 <tr>
-<td colspan="12">15.</td>
-<td colspan="87">Город Алматы</td>
-<td colspan="11">1 026 812</td>
-<td colspan="7">42 193</td>
-<td colspan="3">984 619</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>218 654</td>
+<td>12 684</td>
+<td>205 970</td>
 </tr>
 <tr>
-<td colspan="12">16.</td>
-<td colspan="87">Город Нур-Султан</td>
-<td colspan="11">412 396</td>
-<td colspan="7">28 842</td>
-<td colspan="3">383 554</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>934 496</td>
+<td>52 404</td>
+<td>882 092</td>
 </tr>
 <tr>
-<td colspan="12">17.</td>
-<td colspan="87">Город Шымкент</td>
-<td colspan="11">266 431</td>
-<td colspan="7">22 515</td>
-<td colspan="3">243 916</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>1 026 812</td>
+<td>42 193</td>
+<td>984 619</td>
 </tr>
 <tr>
-<td colspan="120">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>412 396</td>
+<td>28 842</td>
+<td>383 554</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>266 431</td>
+<td>22 515</td>
+<td>243 916</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 36*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций технического и профессионального, послесреднего образования
+
+> *Сноска. Приложение 36 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="100">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за проведение внеурочных мероприятий педагогам физической культуры государственных организаций технического и профессионального, послесреднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="50">Наименование областей и городов</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>369 788</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="50">Всего</th>
-<th colspan="43">369 788</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>22 268</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="50">Акмолинская область</td>
-<td colspan="43">22 268</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>14 687</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="50">Актюбинская область</td>
-<td colspan="43">14 687</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>19 662</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="50">Алматинская область</td>
-<td colspan="43">46 905</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>9 476</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="50">Атырауская область</td>
-<td colspan="43">9 476</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>15 978</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="50">Восточно-Казахстанская область</td>
-<td colspan="43">27 479</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>17 056</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="50">Жамбылская область</td>
-<td colspan="43">17 056</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>15 161</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="50">Западно-Казахстанская область</td>
-<td colspan="43">15 161</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>19 780</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="50">Карагандинская область</td>
-<td colspan="43">22 742</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>22 031</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="50">Костанайская область</td>
-<td colspan="43">22 031</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>18 241</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="50">Кызылординская область</td>
-<td colspan="43">18 241</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>10 186</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="50">Мангистауская область</td>
-<td colspan="43">10 186</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>11 501</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="50">Павлодарская область</td>
-<td colspan="43">19 662</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>27 243</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="50">Северо-Казахстанская область</td>
-<td colspan="43">10 897</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>2 962</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="50">Туркестанская область</td>
-<td colspan="43">36 718</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>19 662</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="50">Город Алматы</td>
-<td colspan="43">49 747</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>10 897</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="50">Город Нур-Султан</td>
-<td colspan="43">8 765</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>36 718</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="50">Город Шымкент</td>
-<td colspan="43">17 767</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>49 747</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>8 765</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>17 767</td>
 </tr>
 </table>
 
@@ -14592,7 +15259,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение молодежи бесплатным техническим и профессиональным образованием по востребованным специальностям
 
-> *Сноска. Постановление дополнено приложением 36-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Постановление дополнено приложением 36-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -14618,7 +15285,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>592 258</td>
+<td>329 296</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -14628,7 +15295,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>721 028</td>
+<td>389 249</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -14643,7 +15310,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>236 903</td>
+<td>170 570</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -14662,31 +15329,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>331 779</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>262 962</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>66 333</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>244 050</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>24 405</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>2 514 937</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>1 390 790</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>829 162</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>1 421 420</td>
 </tr>
@@ -14697,445 +15379,483 @@ _________________________
 > *Приложение 37*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций технического и профессионального, послесреднего образования
+
+> *Сноска. Приложение 37 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="101">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций технического и профессионального, послесреднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="50">Наименование областей и городов</td>
-<td colspan="44">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>36 654 761</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="50">Всего</th>
-<th colspan="44">36 654 761</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>2 115 333</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="50">Акмолинская область</td>
-<td colspan="44">2 115 333</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>1 990 881</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="50">Актюбинская область</td>
-<td colspan="44">1 990 881</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>1 363 561</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="50">Алматинская область</td>
-<td colspan="44">2 696 992</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>1 239 931</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="50">Атырауская область</td>
-<td colspan="44">1 239 931</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>1 033 041</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="50">Восточно-Казахстанская область</td>
-<td colspan="44">2 136 869</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>1 723 441</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="50">Жамбылская область</td>
-<td colspan="44">1 723 441</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>1 291 830</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="50">Западно-Казахстанская область</td>
-<td colspan="44">1 291 830</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>3 290 448</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="50">Карагандинская область</td>
-<td colspan="44">3 679 369</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>2 142 694</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="50">Костанайская область</td>
-<td colspan="44">2 142 694</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>1 411 163</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="50">Кызылординская область</td>
-<td colspan="44">1 411 163</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>1 660 244</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="50">Мангистауская область</td>
-<td colspan="44">1 660 244</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>1 103 828</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="50">Павлодарская область</td>
-<td colspan="44">1 827 945</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>1 333 431</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="50">Северо-Казахстанская область</td>
-<td colspan="44">1 161 023</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>388 921</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="50">Туркестанская область</td>
-<td colspan="44">3 979 466</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>1 827 945</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="50">Город Алматы</td>
-<td colspan="44">4 481 158</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>1 161 023</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="50">Город Нур-Султан</td>
-<td colspan="44">1 769 338</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>3 979 466</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="50">Город Шымкент</td>
-<td colspan="44">1 347 084</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>4 481 158</td>
 </tr>
 <tr>
-<td colspan="101">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>1 769 338</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>1 347 084</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 38*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций технического и профессионального, послесреднего образования
+
+> *Сноска. Приложение 38 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="99">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на доплату за квалификационную категорию педагогам государственных организаций технического и профессионального, послесреднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="50">Наименование областей и городов</td>
-<td colspan="42">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>11 435 240</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="50">Всего</th>
-<th colspan="42">11 435 240</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>420 619</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="50">Акмолинская область</td>
-<td colspan="42">420 619</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>459 406</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="50">Актюбинская область</td>
-<td colspan="42">459 406</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>537 266</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="50">Алматинская область</td>
-<td colspan="42">1 222 322</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>354 516</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="50">Атырауская область</td>
-<td colspan="42">354 516</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>608 595</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="50">Восточно-Казахстанская область</td>
-<td colspan="42">1 325 103</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>427 537</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="50">Жамбылская область</td>
-<td colspan="42">427 537</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>184 862</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="50">Западно-Казахстанская область</td>
-<td colspan="42">184 862</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 492 025</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="50">Карагандинская область</td>
-<td colspan="42">1 607 988</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>597 334</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="50">Костанайская область</td>
-<td colspan="42">597 334</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>750 793</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="50">Кызылординская область</td>
-<td colspan="42">750 793</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>277 817</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="50">Мангистауская область</td>
-<td colspan="42">277 817</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>716 508</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="50">Павлодарская область</td>
-<td colspan="42">723 480</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>685 056</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="50">Северо-Казахстанская область</td>
-<td colspan="42">849 574</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>115 963</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="50">Туркестанская область</td>
-<td colspan="42">815 650</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>723 480</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="50">Город Алматы</td>
-<td colspan="42">1 143 479</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>849 574</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="50">Город Нур-Султан</td>
-<td colspan="42">119 267</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>815 650</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="50">Город Шымкент</td>
-<td colspan="42">155 493</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>1 143 479</td>
 </tr>
 <tr>
-<td colspan="99">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>119 267</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>155 493</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 39*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников в государственных организациях технического и профессионального, послесреднего образования
+
+> *Сноска. Приложение 39 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="102">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников в государственных организациях технического и профессионального, послесреднего образования</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="50">Наименование областей и городов</td>
-<td colspan="45">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>608 002</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="50">Всего</th>
-<th colspan="45">608 002</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>35 268</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="50">Акмолинская область</td>
-<td colspan="45">35 268</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>22 397</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="50">Актюбинская область</td>
-<td colspan="45">22 397</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>16 469</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="50">Алматинская область</td>
-<td colspan="45">36 466</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>20 445</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="50">Атырауская область</td>
-<td colspan="45">20 445</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>25 579</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="50">Восточно-Казахстанская область</td>
-<td colspan="45">47 737</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>36 075</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="50">Жамбылская область</td>
-<td colspan="45">36 075</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>32 378</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="50">Западно-Казахстанская область</td>
-<td colspan="45">32 378</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>161 735</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="50">Карагандинская область</td>
-<td colspan="45">171 376</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>33 395</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="50">Костанайская область</td>
-<td colspan="45">33 395</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>25 073</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="50">Кызылординская область</td>
-<td colspan="45">25 073</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>26 754</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="50">Мангистауская область</td>
-<td colspan="45">26 754</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>22 158</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="50">Павлодарская область</td>
-<td colspan="45">21 667</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>19 997</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="50">Северо-Казахстанская область</td>
-<td colspan="45">23 041</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>9 641</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="50">Туркестанская область</td>
-<td colspan="45">34 649</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>21 667</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="50">Город Алматы</td>
-<td colspan="45">22 384</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>23 041</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="50">Город Шымкент</td>
-<td colspan="45">18 897</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>34 649</td>
 </tr>
 <tr>
-<td colspan="102">_________________________</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>22 384</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Шымкент</td>
+<td>18 897</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 40*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на размещение государственного образовательного заказа на подготовку специалистов с высшим образованием для детей из многодетных и малообеспеченных семей
+
+> *Сноска. Приложение 40 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="99">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на размещение государственного образовательного заказа на подготовку специалистов с высшим образованием для детей из многодетных и малообеспеченных семей</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="50">Наименование областей и городов</td>
-<td colspan="42">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>3 063 244</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="50">Всего</th>
-<th colspan="42">3 063 244</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>84 653</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="50">Акмолинская область</td>
-<td colspan="42">84 653</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>128 447</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="50">Актюбинская область</td>
-<td colspan="42">128 447</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>163 468</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="50">Алматинская область</td>
-<td colspan="42">334 796</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>62 718</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="50">Атырауская область</td>
-<td colspan="42">62 718</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>134 199</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="50">Восточно-Казахстанская область</td>
-<td colspan="42">134 199</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>125 376</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="50">Жамбылская область</td>
-<td colspan="42">125 376</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>93 974</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="50">Западно-Казахстанская область</td>
-<td colspan="42">93 974</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>51 216</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="50">Карагандинская область</td>
-<td colspan="42">51 216</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>8 369</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="50">Костанайская область</td>
-<td colspan="42">8 369</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>115 689</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="50">Кызылординская область</td>
-<td colspan="42">115 689</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>150 940</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="50">Мангистауская область</td>
-<td colspan="42">150 940</td>
+<td>12.</td>
+<td>область Жетісу</td>
+<td>171 328</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="50">Павлодарская область</td>
-<td colspan="42">39 115</td>
+<td>13.</td>
+<td>Павлодарская область</td>
+<td>39 115</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="50">Северо-Казахстанская область</td>
-<td colspan="42">20 833</td>
+<td>14.</td>
+<td>Северо-Казахстанская область</td>
+<td>20 833</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="50">Туркестанская область</td>
-<td colspan="42">1 212 252</td>
+<td>15.</td>
+<td>Туркестанская область</td>
+<td>1 212 252</td>
 </tr>
 <tr>
-<td colspan="7">15.</td>
-<td colspan="50">Город Алматы</td>
-<td colspan="42">78 552</td>
+<td>16.</td>
+<td>Город Алматы</td>
+<td>78 552</td>
 </tr>
 <tr>
-<td colspan="7">16.</td>
-<td colspan="50">Город Нур-Султан</td>
-<td colspan="42">38 645</td>
+<td>17.</td>
+<td>Город Нур-Султан</td>
+<td>38 645</td>
 </tr>
 <tr>
-<td colspan="7">17.</td>
-<td colspan="50">Город Шымкент</td>
-<td colspan="42">383 470</td>
-</tr>
-<tr>
-<td colspan="99">_________________________</td>
+<td>18.</td>
+<td>Город Шымкент</td>
+<td>383 470</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 41*  
 > *к постановлению Правительства*  
@@ -15355,7 +16075,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на возмещение лизинговых платежей по санитарному транспорту, приобретенному на условиях финансового лизинга
 
-> *Сноска. Приложение 42 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 42 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -15391,7 +16111,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>926 066</td>
+<td>600 650</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -15425,26 +16145,31 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>325 416</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодарская область</td>
 <td>1 131 534</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>14.</td>
 <td>Северо-Казахстанская область</td>
 <td>366 361</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>15.</td>
 <td>Туркестанская область</td>
 <td>1 457 903</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td>Город Алматы</td>
 <td>1 192 077</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td>Город Нур-Султан</td>
 <td>1 231 286</td>
 </tr>
@@ -15459,7 +16184,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на закуп вакцин и других иммунобиологических препаратов
 
-> *Сноска. Приложение 43 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 43 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -15496,9 +16221,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>7 310 729</td>
-<td>4 980 431</td>
-<td>2 330 298</td>
+<td>4 852 541</td>
+<td>3 337 847</td>
+<td>1 514 694</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -15510,8 +16235,8 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>3 931 967</td>
-<td>2 440 817</td>
+<td>2 847 426</td>
+<td>1 356 276</td>
 <td>1 491 150</td>
 </tr>
 <tr>
@@ -15558,41 +16283,55 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>1 084 541</td>
+<td>1 084 541</td>
+<td></td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>2 458 188</td>
+<td>1 642 584</td>
+<td>815 604</td>
+</tr>
+<tr>
+<td>14.</td>
 <td>Павлодарская область</td>
 <td>1 840 124</td>
 <td>1 224 346</td>
 <td>615 778</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>15.</td>
 <td>Северо-Казахстанская область</td>
 <td>1 175 083</td>
 <td>740 416</td>
 <td>434 667</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>16.</td>
 <td>Туркестанская область</td>
 <td>8 235 594</td>
 <td>5 319 703</td>
 <td>2 915 891</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>17.</td>
 <td>Город Алматы</td>
 <td>4 773 351</td>
 <td>2 877 720</td>
 <td>1 895 631</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>18.</td>
 <td>Город Нур-Султан</td>
 <td>3 756 668</td>
 <td>2 573 408</td>
 <td>1 183 260</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>19.</td>
 <td>Город Шымкент</td>
 <td>4 325 335</td>
 <td>2 520 259</td>
@@ -15605,114 +16344,116 @@ _________________________
 > *Приложение 44*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на пропаганду здорового образа жизни
+
+> *Сноска. Приложение 44 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="85">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на пропаганду здорового образа жизни</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="10">№ п/п</td>
-<td colspan="39">Наименование областей и городов</td>
-<td colspan="36">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>512 083</td>
 </tr>
 <tr>
-<th colspan="10"></th>
-<th colspan="39">Всего</th>
-<th colspan="36">512 083</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>29 666</td>
 </tr>
 <tr>
-<td colspan="10">1.</td>
-<td colspan="39">Акмолинская область</td>
-<td colspan="36">29 666</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>22 574</td>
 </tr>
 <tr>
-<td colspan="10">2.</td>
-<td colspan="39">Актюбинская область</td>
-<td colspan="36">22 574</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>17 694</td>
 </tr>
 <tr>
-<td colspan="10">3.</td>
-<td colspan="39">Алматинская область</td>
-<td colspan="36">29 490</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>20 245</td>
 </tr>
 <tr>
-<td colspan="10">4.</td>
-<td colspan="39">Атырауская область</td>
-<td colspan="36">20 245</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>37 315</td>
 </tr>
 <tr>
-<td colspan="10">5.</td>
-<td colspan="39">Восточно-Казахстанская область</td>
-<td colspan="36">37 315</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>26 292</td>
 </tr>
 <tr>
-<td colspan="10">6.</td>
-<td colspan="39">Жамбылская область</td>
-<td colspan="36">26 292</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>19 157</td>
 </tr>
 <tr>
-<td colspan="10">7.</td>
-<td colspan="39">Западно-Казахстанская область</td>
-<td colspan="36">19 157</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>27 004</td>
 </tr>
 <tr>
-<td colspan="10">8.</td>
-<td colspan="39">Карагандинская область</td>
-<td colspan="36">27 004</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>31 253</td>
 </tr>
 <tr>
-<td colspan="10">9.</td>
-<td colspan="39">Костанайская область</td>
-<td colspan="36">31 253</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>39 241</td>
 </tr>
 <tr>
-<td colspan="10">10.</td>
-<td colspan="39">Кызылординская область</td>
-<td colspan="36">39 241</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>37 417</td>
 </tr>
 <tr>
-<td colspan="10">11.</td>
-<td colspan="39">Мангистауская область</td>
-<td colspan="36">37 417</td>
+<td>12.</td>
+<td>область Жетісу</td>
+<td>11 796</td>
 </tr>
 <tr>
-<td colspan="10">12.</td>
-<td colspan="39">Павлодарская область</td>
-<td colspan="36">23 916</td>
+<td>13.</td>
+<td>Павлодарская область</td>
+<td>23 916</td>
 </tr>
 <tr>
-<td colspan="10">13.</td>
-<td colspan="39">Северо-Казахстанская область</td>
-<td colspan="36">25 049</td>
+<td>14.</td>
+<td>Северо-Казахстанская область</td>
+<td>25 049</td>
 </tr>
 <tr>
-<td colspan="10">14.</td>
-<td colspan="39">Туркестанская область</td>
-<td colspan="36">49 319</td>
+<td>15.</td>
+<td>Туркестанская область</td>
+<td>49 319</td>
 </tr>
 <tr>
-<td colspan="10">15.</td>
-<td colspan="39">Город Алматы</td>
-<td colspan="36">25 571</td>
+<td>16.</td>
+<td>Город Алматы</td>
+<td>25 571</td>
 </tr>
 <tr>
-<td colspan="10">16.</td>
-<td colspan="39">Город Нур-Султан</td>
-<td colspan="36">38 392</td>
+<td>17.</td>
+<td>Город Нур-Султан</td>
+<td>38 392</td>
 </tr>
 <tr>
-<td colspan="10">17.</td>
-<td colspan="39">Город Шымкент</td>
-<td colspan="36">30 182</td>
-</tr>
-<tr>
-<td colspan="85">_________________________</td>
+<td>18.</td>
+<td>Город Шымкент</td>
+<td>30 182</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 45*  
 > *к постановлению Правительства*  
@@ -15721,103 +16462,118 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на реализацию мероприятий по профилактике и борьбе со СПИД
 
-> *Сноска. Приложение 45 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 45 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="2">№ п/п</td>
-<td colspan="2">Наименование областей и городов</td>
-<td colspan="2">Сумма, тыс. тенге</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="2">Всего</td>
-<td colspan="2">2 291 536</td>
+<td></td>
+<td>Всего</td>
+<td>2 291 536</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="2">Акмолинская область</td>
-<td colspan="2">129 778</td>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>129 778</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="2">Актюбинская область</td>
-<td colspan="2">82 028</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>82 028</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="2">Алматинская область</td>
-<td colspan="2">178 967</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>125 285</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="2">Атырауская область</td>
-<td colspan="2">126 504</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>126 504</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="2">Восточно-Казахстанская область</td>
-<td colspan="2">140 558</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>80 133</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="2">Жамбылская область</td>
-<td colspan="2">100 279</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>100 279</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="2">Западно-Казахстанская область</td>
-<td colspan="2">99 569</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>99 569</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="2">Карагандинская область</td>
-<td colspan="2">276 106</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>261 374</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="2">Костанайская область</td>
-<td colspan="2">128 517</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>128 517</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="2">Кызылординская область</td>
-<td colspan="2">167 504</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>167 504</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="2">Мангистауская область</td>
-<td colspan="2">182 923</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>182 923</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="2">Павлодарская область</td>
-<td colspan="2">221 113</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>60 425</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="2">Северо-Казахстанская область</td>
-<td colspan="2">90 711</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>53 682</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="2">Туркестанская область</td>
-<td colspan="2">56 313</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>14 732</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="2">Город Алматы</td>
-<td colspan="2">53 764</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>221 113</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="2">Город Нур-Султан</td>
-<td colspan="2">125 953</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>90 711</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="2">Город Шымкент</td>
-<td colspan="2">130 949</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>56 313</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>53 764</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>125 953</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>130 949</td>
 </tr>
 </table>
 
@@ -15830,103 +16586,118 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение заработной платы работников организаций в области здравоохранения местных исполнительных органов
 
-> *Сноска. Приложение 46 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 46 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
 <td>№ п/п</td>
-<td colspan="2">Наименование областей и городов</td>
-<td colspan="2">Сумма, тыс. тенге</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Всего</td>
-<td colspan="2">3 254 807</td>
+<td>Всего</td>
+<td>3 254 807</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="2">Акмолинская область</td>
-<td colspan="2">158 060</td>
+<td>Акмолинская область</td>
+<td>158 060</td>
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="2">Актюбинская область</td>
-<td colspan="2">163 388</td>
+<td>Актюбинская область</td>
+<td>163 388</td>
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="2">Алматинская область</td>
-<td colspan="2">255 381</td>
+<td>Алматинская область</td>
+<td>88 085</td>
 </tr>
 <tr>
 <td>4.</td>
-<td colspan="2">Атырауская область</td>
-<td colspan="2">127 718</td>
+<td>Атырауская область</td>
+<td>127 718</td>
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="2">Восточно-Казахстанская область</td>
-<td colspan="2">314 819</td>
+<td>Восточно-Казахстанская область</td>
+<td>170 812</td>
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="2">Жамбылская область</td>
-<td colspan="2">201 025</td>
+<td>Жамбылская область</td>
+<td>201 025</td>
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="2">Западно-Казахстанская область</td>
-<td colspan="2">116 645</td>
+<td>Западно-Казахстанская область</td>
+<td>116 645</td>
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="2">Карагандинская область</td>
-<td colspan="2">332 368</td>
+<td>Карагандинская область</td>
+<td>278 549</td>
 </tr>
 <tr>
 <td>9.</td>
-<td colspan="2">Костанайская область</td>
-<td colspan="2">209 401</td>
+<td>Костанайская область</td>
+<td>209 401</td>
 </tr>
 <tr>
 <td>10.</td>
-<td colspan="2">Кызылординская область</td>
-<td colspan="2">212 503</td>
+<td>Кызылординская область</td>
+<td>212 503</td>
 </tr>
 <tr>
 <td>11.</td>
-<td colspan="2">Мангистауская область</td>
-<td colspan="2">83 258</td>
+<td>Мангистауская область</td>
+<td>83 258</td>
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="2">Павлодарская область</td>
-<td colspan="2">216 173</td>
+<td>область Абай</td>
+<td>144 007</td>
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="2">Северо-Казахстанская область</td>
-<td colspan="2">93 470</td>
+<td>область Жетісу</td>
+<td>167 296</td>
 </tr>
 <tr>
 <td>14.</td>
-<td colspan="2">Туркестанская область</td>
-<td colspan="2">191 968</td>
+<td>область Ұлытау</td>
+<td>53 819</td>
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="2">Город Алматы</td>
-<td colspan="2">182 928</td>
+<td>Павлодарская область</td>
+<td>216 173</td>
 </tr>
 <tr>
 <td>16.</td>
-<td colspan="2">Город Нур-Султан</td>
-<td colspan="2">208 905</td>
+<td>Северо-Казахстанская область</td>
+<td>93 470</td>
 </tr>
 <tr>
 <td>17.</td>
-<td colspan="2">Город Шымкент</td>
-<td colspan="2">186 797</td>
+<td>Туркестанская область</td>
+<td>191 968</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>182 928</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>208 905</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>186 797</td>
 </tr>
 </table>
 
@@ -15939,7 +16710,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на оказание медицинской помощи лицам, содержащимся в следственных изоляторах и учреждениях уголовно-исполнительной системы
 
-> *Сноска. Приложение 47 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 47 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -15964,48 +16735,48 @@ _________________________
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматинская область</td>
-<td>30 096</td>
-</tr>
-<tr>
-<td>4.</td>
 <td>Атырауская область</td>
 <td>31 037</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>4.</td>
 <td>Восточно-Казахстанская область</td>
 <td>41 124</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>5.</td>
 <td>Жамбылская область</td>
 <td>36 751</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>6.</td>
 <td>Западно-Казахстанская область</td>
 <td>28 845</td>
 </tr>
 <tr>
-<td>8.</td>
+<td>7.</td>
 <td>Карагандинская область</td>
 <td>55 772</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>8.</td>
 <td>Костанайская область</td>
 <td>35 078</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>9.</td>
 <td>Кызылординская область</td>
 <td>39 856</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>10.</td>
 <td>Мангистауская область</td>
 <td>36 474</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>область Жетісу</td>
+<td>30 096</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -16039,114 +16810,126 @@ _________________________
 > *Приложение 48*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на установление доплат к должностному окладу за особые условия труда в организациях культуры и архивных учреждениях управленческому и основному персоналу государственных организаций культуры и архивных учреждений
+
+> *Сноска. Приложение 48 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="73">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на установление доплат к должностному окладу за особые условия труда в организациях культуры и архивных учреждениях управленческому и основному персоналу государственных организаций культуры и архивных учреждений</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="8">№ п/п</td>
-<td colspan="22">Наименование областей и городов</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>13 157 932</td>
 </tr>
 <tr>
-<th colspan="8"></th>
-<th colspan="22">Всего</th>
-<th colspan="43">13 157 932</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>752 741</td>
 </tr>
 <tr>
-<td colspan="8">1.</td>
-<td colspan="22">Акмолинская область</td>
-<td colspan="43">752 741</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>634 952</td>
 </tr>
 <tr>
-<td colspan="8">2.</td>
-<td colspan="22">Актюбинская область</td>
-<td colspan="43">634 952</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>434 279</td>
 </tr>
 <tr>
-<td colspan="8">3.</td>
-<td colspan="22">Алматинская область</td>
-<td colspan="43">933 631</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>594 358</td>
 </tr>
 <tr>
-<td colspan="8">4.</td>
-<td colspan="22">Атырауская область</td>
-<td colspan="43">594 358</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>622 189</td>
 </tr>
 <tr>
-<td colspan="8">5.</td>
-<td colspan="22">Восточно-Казахстанская область</td>
-<td colspan="43">1 154 718</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>770 217</td>
 </tr>
 <tr>
-<td colspan="8">6.</td>
-<td colspan="22">Жамбылская область</td>
-<td colspan="43">770 217</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>1 111 673</td>
 </tr>
 <tr>
-<td colspan="8">7.</td>
-<td colspan="22">Западно-Казахстанская область</td>
-<td colspan="43">1 111 673</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 062 068</td>
 </tr>
 <tr>
-<td colspan="8">8.</td>
-<td colspan="22">Карагандинская область</td>
-<td colspan="43">1 321 423</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>836 151</td>
 </tr>
 <tr>
-<td colspan="8">9.</td>
-<td colspan="22">Костанайская область</td>
-<td colspan="43">836 151</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>747 195</td>
 </tr>
 <tr>
-<td colspan="8">10.</td>
-<td colspan="22">Кызылординская область</td>
-<td colspan="43">747 195</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>486 642</td>
 </tr>
 <tr>
-<td colspan="8">11.</td>
-<td colspan="22">Мангистауская область</td>
-<td colspan="43">486 642</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>532 529</td>
 </tr>
 <tr>
-<td colspan="8">12.</td>
-<td colspan="22">Павлодарская область</td>
-<td colspan="43">729 256</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>499 352</td>
 </tr>
 <tr>
-<td colspan="8">13.</td>
-<td colspan="22">Северо-Казахстанская область</td>
-<td colspan="43">623 525</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>259 355</td>
 </tr>
 <tr>
-<td colspan="8">14.</td>
-<td colspan="22">Туркестанская область</td>
-<td colspan="43">1 064 836</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>729 256</td>
 </tr>
 <tr>
-<td colspan="8">15.</td>
-<td colspan="22">Город Алматы</td>
-<td colspan="43">482 771</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>623 525</td>
 </tr>
 <tr>
-<td colspan="8">16.</td>
-<td colspan="22">Город Нур-Султан</td>
-<td colspan="43">561 930</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>1 064 836</td>
 </tr>
 <tr>
-<td colspan="8">17.</td>
-<td colspan="22">Город Шымкент</td>
-<td colspan="43">351 913</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>482 771</td>
 </tr>
 <tr>
-<td colspan="73">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>561 930</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>351 913</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 48-1*  
 > *к постановлению Правительства*  
@@ -16180,303 +16963,329 @@ _________________________
 > *Приложение 49*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников государственных организаций в сфере физической культуры и спорта
+
+> *Сноска. Приложение 49 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="73">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда медицинских работников государственных организаций в сфере физической культуры и спорта</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="8">№ п/п</td>
-<td colspan="22">Наименование областей и городов</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>1 961 824</td>
 </tr>
 <tr>
-<th colspan="8"></th>
-<th colspan="22">Всего</th>
-<th colspan="43">1 961 824</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>54 473</td>
 </tr>
 <tr>
-<td colspan="8">1.</td>
-<td colspan="22">Акмолинская область</td>
-<td colspan="43">54 473</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>68 477</td>
 </tr>
 <tr>
-<td colspan="8">2.</td>
-<td colspan="22">Актюбинская область</td>
-<td colspan="43">68 477</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>54 811</td>
 </tr>
 <tr>
-<td colspan="8">3.</td>
-<td colspan="22">Алматинская область</td>
-<td colspan="43">137 450</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>42 410</td>
 </tr>
 <tr>
-<td colspan="8">4.</td>
-<td colspan="22">Атырауская область</td>
-<td colspan="43">42 410</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>103 309</td>
 </tr>
 <tr>
-<td colspan="8">5.</td>
-<td colspan="22">Восточно-Казахстанская область</td>
-<td colspan="43">138 266</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>90 734</td>
 </tr>
 <tr>
-<td colspan="8">6.</td>
-<td colspan="22">Жамбылская область</td>
-<td colspan="43">90 734</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>55 891</td>
 </tr>
 <tr>
-<td colspan="8">7.</td>
-<td colspan="22">Западно-Казахстанская область</td>
-<td colspan="43">55 891</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>186 314</td>
 </tr>
 <tr>
-<td colspan="8">8.</td>
-<td colspan="22">Карагандинская область</td>
-<td colspan="43">205 678</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>35 408</td>
 </tr>
 <tr>
-<td colspan="8">9.</td>
-<td colspan="22">Костанайская область</td>
-<td colspan="43">35 408</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>126 906</td>
 </tr>
 <tr>
-<td colspan="8">10.</td>
-<td colspan="22">Кызылординская область</td>
-<td colspan="43">126 906</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>61 055</td>
 </tr>
 <tr>
-<td colspan="8">11.</td>
-<td colspan="22">Мангистауская область</td>
-<td colspan="43">61 055</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>34 957</td>
 </tr>
 <tr>
-<td colspan="8">12.</td>
-<td colspan="22">Павлодарская область</td>
-<td colspan="43">182 245</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>82 639</td>
 </tr>
 <tr>
-<td colspan="8">13.</td>
-<td colspan="22">Северо-Казахстанская область</td>
-<td colspan="43">44 175</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>19 364</td>
 </tr>
 <tr>
-<td colspan="8">14.</td>
-<td colspan="22">Туркестанская область</td>
-<td colspan="43">214 529</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>182 245</td>
 </tr>
 <tr>
-<td colspan="8">15.</td>
-<td colspan="22">Город Алматы</td>
-<td colspan="43">79 613</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>44 175</td>
 </tr>
 <tr>
-<td colspan="8">16.</td>
-<td colspan="22">Город Нур-Султан</td>
-<td colspan="43">190 873</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>214 529</td>
 </tr>
 <tr>
-<td colspan="8">17.</td>
-<td colspan="22">Город Шымкент</td>
-<td colspan="43">233 641</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>79 613</td>
 </tr>
 <tr>
-<td colspan="73">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>190 873</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>233 641</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 50*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций среднего и дополнительного образования в сфере физической культуры и спорта
+
+> *Сноска. Приложение 50 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="73">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение оплаты труда педагогов государственных организаций среднего и дополнительного образования в сфере физической культуры и спорта</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="8">№ п/п</td>
-<td colspan="22">Наименование областей и городов</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>19 365 887</td>
 </tr>
 <tr>
-<th colspan="8"></th>
-<th colspan="22">Всего</th>
-<th colspan="43">19 365 887</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>947 205</td>
 </tr>
 <tr>
-<td colspan="8">1.</td>
-<td colspan="22">Акмолинская область</td>
-<td colspan="43">947 205</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>1 095 356</td>
 </tr>
 <tr>
-<td colspan="8">2.</td>
-<td colspan="22">Актюбинская область</td>
-<td colspan="43">1 095 356</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>801 090</td>
 </tr>
 <tr>
-<td colspan="8">3.</td>
-<td colspan="22">Алматинская область</td>
-<td colspan="43">1 827 792</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>605 806</td>
 </tr>
 <tr>
-<td colspan="8">4.</td>
-<td colspan="22">Атырауская область</td>
-<td colspan="43">605 806</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>1 078 978</td>
 </tr>
 <tr>
-<td colspan="8">5.</td>
-<td colspan="22">Восточно-Казахстанская область</td>
-<td colspan="43">1 744 931</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>463 465</td>
 </tr>
 <tr>
-<td colspan="8">6.</td>
-<td colspan="22">Жамбылская область</td>
-<td colspan="43">463 465</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>900 515</td>
 </tr>
 <tr>
-<td colspan="8">7.</td>
-<td colspan="22">Западно-Казахстанская область</td>
-<td colspan="43">900 515</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 507 408</td>
 </tr>
 <tr>
-<td colspan="8">8.</td>
-<td colspan="22">Карагандинская область</td>
-<td colspan="43">1 697 982</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>627 408</td>
 </tr>
 <tr>
-<td colspan="8">9.</td>
-<td colspan="22">Костанайская область</td>
-<td colspan="43">627 408</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>1 059 707</td>
 </tr>
 <tr>
-<td colspan="8">10.</td>
-<td colspan="22">Кызылординская область</td>
-<td colspan="43">1 059 707</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>982 543</td>
 </tr>
 <tr>
-<td colspan="8">11.</td>
-<td colspan="22">Мангистауская область</td>
-<td colspan="43">982 543</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>665 953</td>
 </tr>
 <tr>
-<td colspan="8">12.</td>
-<td colspan="22">Павлодарская область</td>
-<td colspan="43">1 052 279</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>1 026 702</td>
 </tr>
 <tr>
-<td colspan="8">13.</td>
-<td colspan="22">Северо-Казахстанская область</td>
-<td colspan="43">886 851</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>190 574</td>
 </tr>
 <tr>
-<td colspan="8">14.</td>
-<td colspan="22">Туркестанская область</td>
-<td colspan="43">2 511 101</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>1 052 279</td>
 </tr>
 <tr>
-<td colspan="8">15.</td>
-<td colspan="22">Город Алматы</td>
-<td colspan="43">968 280</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>886 851</td>
 </tr>
 <tr>
-<td colspan="8">16.</td>
-<td colspan="22">Город Нур-Султан</td>
-<td colspan="43">679 009</td>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>2 511 101</td>
 </tr>
 <tr>
-<td colspan="8">17.</td>
-<td colspan="22">Город Шымкент</td>
-<td colspan="43">1 315 657</td>
+<td>18.</td>
+<td>Город Алматы</td>
+<td>968 280</td>
 </tr>
 <tr>
-<td colspan="73">_________________________</td>
+<td>19.</td>
+<td>Город Нур-Султан</td>
+<td>679 009</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Город Шымкент</td>
+<td>1 315 657</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 51*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование части затрат субъектов предпринимательства на содержание санитарно-гигиенических узлов
+
+> *Сноска. Приложение 51 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="73">
-<strong>Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на субсидирование части затрат субъектов предпринимательства на содержание санитарно-гигиенических узлов</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей и города</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="8">№ п/п</td>
-<td colspan="22">Наименование областей и города</td>
-<td colspan="43">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>179 928</td>
 </tr>
 <tr>
-<th colspan="8"></th>
-<th colspan="22">Всего</th>
-<th colspan="43">179 928</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>6 663</td>
 </tr>
 <tr>
-<td colspan="8">1.</td>
-<td colspan="22">Акмолинская область</td>
-<td colspan="43">6 663</td>
+<td>2.</td>
+<td>Восточно-Казахстанская область</td>
+<td>26 864</td>
 </tr>
 <tr>
-<td colspan="8">2.</td>
-<td colspan="22">Восточно-Казахстанская область</td>
-<td colspan="43">53 728</td>
+<td>3.</td>
+<td>Жамбылская область</td>
+<td>37 485</td>
 </tr>
 <tr>
-<td colspan="8">3.</td>
-<td colspan="22">Жамбылская область</td>
-<td colspan="43">37 485</td>
+<td>4.</td>
+<td>Западно-Казахстанская область</td>
+<td>35 403</td>
 </tr>
 <tr>
-<td colspan="8">4.</td>
-<td colspan="22">Западно-Казахстанская область</td>
-<td colspan="43">35 403</td>
+<td>5.</td>
+<td>Карагандинская область</td>
+<td>5 415</td>
 </tr>
 <tr>
-<td colspan="8">5.</td>
-<td colspan="22">Карагандинская область</td>
-<td colspan="43">5 415</td>
+<td>6.</td>
+<td>Костанайская область</td>
+<td>17 910</td>
 </tr>
 <tr>
-<td colspan="8">6.</td>
-<td colspan="22">Костанайская область</td>
-<td colspan="43">17 910</td>
+<td>7.</td>
+<td>Мангистауская область</td>
+<td>8 330</td>
 </tr>
 <tr>
-<td colspan="8">7.</td>
-<td colspan="22">Мангистауская область</td>
-<td colspan="43">8 330</td>
+<td>8.</td>
+<td>область Абай</td>
+<td>26 864</td>
 </tr>
 <tr>
-<td colspan="8">8.</td>
-<td colspan="22">Павлодарская область</td>
-<td colspan="43">4 165</td>
+<td>9.</td>
+<td>Павлодарская область</td>
+<td>4 165</td>
 </tr>
 <tr>
-<td colspan="8">9.</td>
-<td colspan="22">Северо-Казахстанская область</td>
-<td colspan="43">4 998</td>
+<td>10.</td>
+<td>Северо-Казахстанская область</td>
+<td>4 998</td>
 </tr>
 <tr>
-<td colspan="8">10.</td>
-<td colspan="22">Город Шымкент</td>
-<td colspan="43">5 831</td>
-</tr>
-<tr>
-<td colspan="73">_________________________</td>
+<td>11.</td>
+<td>Город Шымкент</td>
+<td>5 831</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 52*  
 > *к постановлению Правительства*  
@@ -16485,7 +17294,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на реализацию мероприятий по социальной и инженерной инфраструктуре в сельских населенных пунктах в рамках проекта «Ауыл-Ел бесігі»
 
-> *Сноска. Приложение 52 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 52 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -16522,9 +17331,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>5 163 811</td>
-<td>1 279 027</td>
-<td>3 884 784</td>
+<td>4 052 020</td>
+<td>1 066 111</td>
+<td>2 985 909</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16536,9 +17345,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>5 663 861</td>
-<td>4 557 340</td>
-<td>1 106 521</td>
+<td>2 518 420</td>
+<td>2 076 088</td>
+<td>442 332</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16577,20 +17386,34 @@ _________________________
 </tr>
 <tr>
 <td>11.</td>
+<td>область Абай</td>
+<td>3 145 441</td>
+<td>2 481 252</td>
+<td>664 189</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>область Жетісу</td>
+<td>1 111 791</td>
+<td>212 916</td>
+<td>898 875</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодарская область</td>
 <td>3 586 210</td>
 <td>2 668 512</td>
 <td>917 698</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>14.</td>
 <td>Северо-Казахстанская область</td>
 <td>4 667 638</td>
 <td>2 553 486</td>
 <td>2 114 152</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>15.</td>
 <td>Туркестанская область</td>
 <td>6 747 614</td>
 <td>2 127 401</td>
@@ -16603,113 +17426,116 @@ _________________________
 > *Приложение 53*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
 
-## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на предоставление государственных грантов молодым предпринимателям для реализации новых бизнес-идей в рамках Национального проекта по развитию предпринимательства на 2021-2025 годы
+## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на предоставление государственных грантов молодым предпринимателям для реализации новых бизнес-идей в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса – 2025»
 
-> *Сноска. Заголовок приложения 53 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 53 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="10">№ п/п</td>
-<td colspan="22">Наименование областей и городов</td>
-<td colspan="38">Сумма, тыс. тенге</td>
+<td>№ п/п</td>
+<td>Наименование областей и городов</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<th colspan="10"></th>
-<th colspan="22">Всего</th>
-<th colspan="38">600 000</th>
+<td></td>
+<td>Всего</td>
+<td>600 000</td>
 </tr>
 <tr>
-<td colspan="10">1.</td>
-<td colspan="22">Акмолинская область</td>
-<td colspan="38">39 000</td>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="10">2.</td>
-<td colspan="22">Актюбинская область</td>
-<td colspan="38">21 000</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="10">3.</td>
-<td colspan="22">Алматинская область</td>
-<td colspan="38">40 000</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>20 000</td>
 </tr>
 <tr>
-<td colspan="10">4.</td>
-<td colspan="22">Атырауская область</td>
-<td colspan="38">27 000</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>27 000</td>
 </tr>
 <tr>
-<td colspan="10">5.</td>
-<td colspan="22">Восточно-Казахстанская область</td>
-<td colspan="38">21 000</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="10">6.</td>
-<td colspan="22">Жамбылская область</td>
-<td colspan="38">21 000</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="10">7.</td>
-<td colspan="22">Западно-Казахстанская область</td>
-<td colspan="38">39 000</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="10">8.</td>
-<td colspan="22">Карагандинская область</td>
-<td colspan="38">27 000</td>
+<td>8.</td>
+<td>Костанайская область</td>
+<td>30 000</td>
 </tr>
 <tr>
-<td colspan="10">9.</td>
-<td colspan="22">Костанайская область</td>
-<td colspan="38">30 000</td>
+<td>9.</td>
+<td>Кызылординская область</td>
+<td>70 000</td>
 </tr>
 <tr>
-<td colspan="10">10.</td>
-<td colspan="22">Кызылординская область</td>
-<td colspan="38">70 000</td>
+<td>10.</td>
+<td>Мангистауская область</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="10">11.</td>
-<td colspan="22">Мангистауская область</td>
-<td colspan="38">21 000</td>
+<td>11.</td>
+<td>область Жетісу</td>
+<td>20 000</td>
 </tr>
 <tr>
-<td colspan="10">12.</td>
-<td colspan="22">Павлодарская область</td>
-<td colspan="38">39 000</td>
+<td>12.</td>
+<td>область Ұлытау</td>
+<td>27 000</td>
 </tr>
 <tr>
-<td colspan="10">13.</td>
-<td colspan="22">Северо-Казахстанская область</td>
-<td colspan="38">21 000</td>
+<td>13.</td>
+<td>Павлодарская область</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="10">14.</td>
-<td colspan="22">Туркестанская область</td>
-<td colspan="38">48 000</td>
+<td>14.</td>
+<td>Северо-Казахстанская область</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="10">15.</td>
-<td colspan="22">Город Алматы</td>
-<td colspan="38">45 000</td>
+<td>15.</td>
+<td>Туркестанская область</td>
+<td>48 000</td>
 </tr>
 <tr>
-<td colspan="10">16.</td>
-<td colspan="22">Город Нур-Султан</td>
-<td colspan="38">45 000</td>
+<td>16.</td>
+<td>Город Алматы</td>
+<td>45 000</td>
 </tr>
 <tr>
-<td colspan="10">17.</td>
-<td colspan="22">Город Шымкент</td>
-<td colspan="38">46 000</td>
+<td>17.</td>
+<td>Город Нур-Султан</td>
+<td>45 000</td>
 </tr>
 <tr>
-<td colspan="70">_________________________</td>
+<td>18.</td>
+<td>Город Шымкент</td>
+<td>46 000</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 53-1*  
 > *к постановлению Правительства*  
@@ -16718,7 +17544,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на повышение эффективности деятельности депутатов маслихатов
 
-> *Сноска. Постановление дополнено приложением 53-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Постановление дополнено приложением 53-1 в соответствии с постановлением Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -16744,7 +17570,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>81 462</td>
+<td>47 785</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16754,7 +17580,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>76 851</td>
+<td>47 110</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16769,7 +17595,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>72 173</td>
+<td>56 866</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -16788,31 +17614,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>29 741</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>33 677</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>15 307</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>53 061</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>50 579</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>72 967</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Город Алматы</td>
 <td>20 066</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Город Нур-Султан</td>
 <td>19 104</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Город Шымкент</td>
 <td>19 206</td>
 </tr>
@@ -16895,7 +17736,7 @@ _______________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на финансирование приоритетных проектов транспортной инфраструктуры
 
-> *Сноска. Приложение 55 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 55 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -16932,9 +17773,9 @@ _______________________
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>6 495 308</td>
+<td>5 217 578</td>
 <td></td>
-<td>6 495 308</td>
+<td>5 217 578</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16946,9 +17787,9 @@ _______________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>3 255 143</td>
+<td>1 707 380</td>
 <td></td>
-<td>3 255 143</td>
+<td>1 707 380</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16967,9 +17808,9 @@ _______________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>5 994 895</td>
+<td>4 795 609</td>
 <td></td>
-<td>5 994 895</td>
+<td>4 795 609</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -16994,20 +17835,41 @@ _______________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>1 547 763</td>
+<td></td>
+<td>1 547 763</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>1 277 730</td>
+<td></td>
+<td>1 277 730</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>1 199 286</td>
+<td></td>
+<td>1 199 286</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>5 618 374</td>
 <td></td>
 <td>5 618 374</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>10 609 437</td>
 <td></td>
 <td>10 609 437</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>14 057 815</td>
 <td></td>
@@ -17066,7 +17928,7 @@ _________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на обеспечение и проведение выборов акимов городов районного значения, сел, поселков, сельских округов
 
-> *Сноска. Приложение 57 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 57 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -17082,17 +17944,17 @@ _________________________
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>316 775</td>
+<td>183 685</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>213 730</td>
+<td>188 730</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>348 311</td>
+<td>399 292</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -17102,22 +17964,22 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>260 807</td>
+<td>100 807</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>210 334</td>
+<td>165 334</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>215 649</td>
+<td>206 649</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>233 383</td>
+<td>211 383</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -17136,16 +17998,31 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>130 000</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>191 109</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>22 000</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодарская область</td>
 <td>206 090</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Северо-Казахстанская область</td>
 <td>288 411</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Туркестанская область</td>
 <td>305 396</td>
 </tr>
@@ -17279,181 +18156,190 @@ _________________________________
 > *Приложение 58*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм бюджетных кредитов местным исполнительным органам для реализации мер социальной поддержки специалистов
+
+> *Сноска. Приложение 58 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="57">
-<strong>Распределение сумм бюджетных кредитов местным исполнительным органам для реализации мер социальной поддержки специалистов</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="11">№ п/п</td>
-<td colspan="13">Наименование областей</td>
-<td colspan="33">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>20 000 000</td>
 </tr>
 <tr>
-<th colspan="11"></th>
-<th colspan="13">Всего</th>
-<th colspan="33">20 000 000</th>
+<td>1.</td>
+<td>Акмолинская область</td>
+<td>1 189 976</td>
 </tr>
 <tr>
-<td colspan="11">1.</td>
-<td colspan="13">Акмолинская область</td>
-<td colspan="33">1 189 976</td>
+<td>2.</td>
+<td>Актюбинская область</td>
+<td>647 825</td>
 </tr>
 <tr>
-<td colspan="11">2.</td>
-<td colspan="13">Актюбинская область</td>
-<td colspan="33">647 825</td>
+<td>3.</td>
+<td>Алматинская область</td>
+<td>1 497 809</td>
 </tr>
 <tr>
-<td colspan="11">3.</td>
-<td colspan="13">Алматинская область</td>
-<td colspan="33">2 554 542</td>
+<td>4.</td>
+<td>Атырауская область</td>
+<td>225 131</td>
 </tr>
 <tr>
-<td colspan="11">4.</td>
-<td colspan="13">Атырауская область</td>
-<td colspan="33">225 131</td>
+<td>5.</td>
+<td>Восточно-Казахстанская область</td>
+<td>882 119</td>
 </tr>
 <tr>
-<td colspan="11">5.</td>
-<td colspan="13">Восточно-Казахстанская область</td>
-<td colspan="33">1 585 103</td>
+<td>6.</td>
+<td>Жамбылская область</td>
+<td>1 332 542</td>
 </tr>
 <tr>
-<td colspan="11">6.</td>
-<td colspan="13">Жамбылская область</td>
-<td colspan="33">1 332 542</td>
+<td>7.</td>
+<td>Западно-Казахстанская область</td>
+<td>1 745 910</td>
 </tr>
 <tr>
-<td colspan="11">7.</td>
-<td colspan="13">Западно-Казахстанская область</td>
-<td colspan="33">1 745 910</td>
+<td>8.</td>
+<td>Карагандинская область</td>
+<td>1 291 054</td>
 </tr>
 <tr>
-<td colspan="11">8.</td>
-<td colspan="13">Карагандинская область</td>
-<td colspan="33">1 552 941</td>
+<td>9.</td>
+<td>Костанайская область</td>
+<td>1 130 247</td>
 </tr>
 <tr>
-<td colspan="11">9.</td>
-<td colspan="13">Костанайская область</td>
-<td colspan="33">1 130 247</td>
+<td>10.</td>
+<td>Кызылординская область</td>
+<td>2 375 357</td>
 </tr>
 <tr>
-<td colspan="11">10.</td>
-<td colspan="13">Кызылординская область</td>
-<td colspan="33">2 375 357</td>
+<td>11.</td>
+<td>Мангистауская область</td>
+<td>960 251</td>
 </tr>
 <tr>
-<td colspan="11">11.</td>
-<td colspan="13">Мангистауская область</td>
-<td colspan="33">960 251</td>
+<td>12.</td>
+<td>область Абай</td>
+<td>702 984</td>
 </tr>
 <tr>
-<td colspan="11">12.</td>
-<td colspan="13">Павлодарская область</td>
-<td colspan="33">1 199 165</td>
+<td>13.</td>
+<td>область Жетісу</td>
+<td>1 056 733</td>
 </tr>
 <tr>
-<td colspan="11">13.</td>
-<td colspan="13">Северо-Казахстанская область</td>
-<td colspan="33">1 392 134</td>
+<td>14.</td>
+<td>область Ұлытау</td>
+<td>261 887</td>
 </tr>
 <tr>
-<td colspan="11">14.</td>
-<td colspan="13">Туркестанская область</td>
-<td colspan="33">2 108 876</td>
+<td>15.</td>
+<td>Павлодарская область</td>
+<td>1 199 165</td>
 </tr>
 <tr>
-<td colspan="57">_________________________</td>
+<td>16.</td>
+<td>Северо-Казахстанская область</td>
+<td>1 392 134</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Туркестанская область</td>
+<td>2 108 876</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 59*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2021 года*  
-> *№*
+> *от 9 декабря 2021 года № 872*
+
+## Распределение сумм кредитования областных бюджетов, бюджетов городов республиканского значения, столицы на проведение капитального ремонта общего имущества объектов кондоминиумов
+
+> *Сноска. Приложение 59 в редакции постановления Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="57">
-<strong>Распределение сумм кредитования областных бюджетов, бюджетов городов республиканского значения, столицы на проведение капитального ремонта общего имущества объектов кондоминиумов</strong>
-</td>
+<td>№ п/п</td>
+<td>Наименование областей</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td colspan="7">№ п/п</td>
-<td colspan="13">Наименование областей</td>
-<td colspan="37">Сумма, тыс. тенге</td>
+<td></td>
+<td>Всего</td>
+<td>11 179 001</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="13">Всего</th>
-<th colspan="37">11 179 001</th>
+<td>1.</td>
+<td>Актюбинская область</td>
+<td>1 415 086</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="13">Актюбинская область</td>
-<td colspan="37">1 415 086</td>
+<td>2.</td>
+<td>Атырауская область</td>
+<td>1 673 670</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="13">Алматинская область</td>
-<td colspan="37">214 117</td>
+<td>3.</td>
+<td>Жамбылская область</td>
+<td>3 223 637</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="13">Атырауская область</td>
-<td colspan="37">1 673 670</td>
+<td>4.</td>
+<td>Западно-Казахстанская область</td>
+<td>279 684</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="13">Жамбылская область</td>
-<td colspan="37">3 223 637</td>
+<td>5.</td>
+<td>Карагандинская область</td>
+<td>190 237</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="13">Западно-Казахстанская область</td>
-<td colspan="37">279 684</td>
+<td>6.</td>
+<td>Кызылординская область</td>
+<td>622 160</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="13">Карагандинская область</td>
-<td colspan="37">190 237</td>
+<td>7.</td>
+<td>Мангистауская область</td>
+<td>1 422 648</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="13">Кызылординская область</td>
-<td colspan="37">622 160</td>
+<td>8.</td>
+<td>область Жетісу</td>
+<td>214 117</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="13">Мангистауская область</td>
-<td colspan="37">1 422 648</td>
+<td>9.</td>
+<td>Павлодарская область</td>
+<td>99 050</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="13">Павлодарская область</td>
-<td colspan="37">99 050</td>
+<td>10.</td>
+<td>Северо-Казахстанская область</td>
+<td>1 083 348</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="13">Северо-Казахстанская область</td>
-<td colspan="37">1 083 348</td>
-</tr>
-<tr>
-<td colspan="7">11.</td>
-<td colspan="13">Туркестанская область</td>
-<td colspan="37">955 364</td>
-</tr>
-<tr>
-<td colspan="57">_________________________</td>
+<td>11.</td>
+<td>Туркестанская область</td>
+<td>955 364</td>
 </tr>
 </table>
+
+_________________________
 
 > *Приложение 60*  
 > *к постановлению Правительства*  
@@ -17462,11 +18348,12 @@ _________________________________
 
 ## Распределение сумм резерва Правительства Республики Казахстан
 
-> *Сноска. Приложение 60 в редакции постановлений Правительства РК от 07.01.2022 № 1 (вводится в действие с 01.01.2022); от 18.03.2022 № 145 (вводится в действие с 01.01.2022); от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 60 в редакции постановлений Правительства РК от 07.01.2022 № 1 (вводится в действие с 01.01.2022); от 18.03.2022 № 145 (вводится в действие с 01.01.2022); от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="3">Администратор</td>
+<td colspan="2">Администратор</td>
+<td></td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тыс. тенге</td>
 </tr>
@@ -17476,8 +18363,7 @@ _________________________________
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Подпрограмма</td>
+<td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
 <td>217</td>
@@ -17498,21 +18384,21 @@ _________________________________
 <td></td>
 <td>100</td>
 <td>Чрезвычайный резерв Правительства Республики Казахстан для ликвидации чрезвычайных ситуаций природного и техногенного характера на территории Республики Казахстан и других государств</td>
-<td>59 527 050</td>
+<td>76 527 050</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>101</td>
 <td>Резерв Правительства Республики Казахстан на неотложные затраты</td>
-<td>419 080 071</td>
+<td>401 680 071</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>102</td>
 <td>Резерв Правительства Республики Казахстан на исполнение обязательств по решениям судов</td>
-<td>600 000</td>
+<td>1 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -17532,7 +18418,7 @@ _________________________
 
 ## Распределение сумм поступлений трансфертов из областных бюджетов, бюджетов городов республиканского значения, столицы
 
-> *Сноска. Приложение 61 в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 61 в редакции постановлений Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
@@ -17601,8 +18487,8 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>17 979 786</td>
-<td>14 600 353</td>
+<td>12 319 289</td>
+<td>8 939 856</td>
 <td>79 049</td>
 <td></td>
 <td></td>
@@ -17631,8 +18517,8 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>20 739 944</td>
-<td>13 999 891</td>
+<td>17 780 820</td>
+<td>11 040 767</td>
 <td>80 154</td>
 <td>51 380</td>
 <td></td>
@@ -17670,6 +18556,26 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>область Абай</td>
+<td>5 660 497</td>
+<td>5 660 497</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>13.</td>
+<td>область Ұлытау</td>
+<td>2 959 124</td>
+<td>2 959 124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.</td>
 <td>Павлодарская область</td>
 <td>67 373 921</td>
 <td>8 488 033</td>
@@ -17679,7 +18585,7 @@ _________________________
 <td>3 335 019</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>15.</td>
 <td>Северо-Казахстанская область</td>
 <td>13 184 627</td>
 <td>7 563 553</td>
@@ -17689,7 +18595,7 @@ _________________________
 <td>5 572 976</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>16.</td>
 <td>Туркестанская область</td>
 <td>20 093 509</td>
 <td>18 834 930</td>
@@ -17699,7 +18605,7 @@ _________________________
 <td>1 181 837</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>17.</td>
 <td>Город Алматы</td>
 <td>26 191 603</td>
 <td>18 836 418</td>
@@ -17709,7 +18615,7 @@ _________________________
 <td>7 270 697</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>18.</td>
 <td>Город Нур-Султан</td>
 <td>23 998 971</td>
 <td>16 471 725</td>
@@ -17719,7 +18625,7 @@ _________________________
 <td>7 457 353</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>19.</td>
 <td>Город Шымкент</td>
 <td>64 425 764</td>
 <td>11 009 000</td>
@@ -17963,7 +18869,7 @@ __________________________________________________
 
 ## Перечень государственных заданий на 2022 год
 
-> *Сноска. Приложение 63 с изменениями, внесенными постановлением Правительства РК от 01.03.2022 № 93 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 63 с изменениями, внесенными постановлением Правительства РК от 01.03.2022 № 93 (вводится в действие с 01.01.2022); в редакции постановления Правительства РК от 13.05.2022 № 308 (вводится в действие с 01.01.2022); с изменениями, внесенными постановлением Правительства РК от 23.08.2022 № 591 (вводится в действие с 01.01.2022).*
 
 тыс. тенге
 
@@ -18147,10 +19053,10 @@ __________________________________________________
 </tr>
 <tr>
 <td>12</td>
-<td>Проведение государственной-информационной политики в сети Интернет через АО «Международное информационное агентство «Казинформ»</td>
+<td>Проведение государственной-информационной политики в сети Интернет через АО «Qazcontent»</td>
 <td>Услуга по проведению государственной информационной политики в сети Интернет</td>
 <td>Министерство информации и общественного развития Республики Казахстан</td>
-<td>АО «Международное информационное агентство «Казинформ»</td>
+<td>АО «Qazcontent»</td>
 <td>
 003 «Проведение государственной информационной политики»
 100 «Размещение государственного информационного заказа»
@@ -18290,6 +19196,18 @@ __________________________________________________
 <td>6 157 828</td>
 </tr>
 <tr>
+<td>23-1</td>
+<td>Сопровождение и системно-техническое обслуживание объектов информатизации социально-трудовой сферы, интеграцию с иными объектами информатизации, а также анализ и обработка данных социально-трудовой сферы</td>
+<td>Сопровождение и системно-техническое обслуживание объектов информатизации социально-трудовой сферы, интеграцию с иными объектами информатизации, а также анализ и обработку данных социально-трудовой сферы</td>
+<td>Министерство труда и социальной защиты населения Республики Казахстан</td>
+<td>АО «Центр развития трудовых ресурсов»</td>
+<td>
+001 «Формирование государственной политики в области труда, занятости, социальной защиты и миграции населения»
+104 «Обеспечение функционирования информационных систем и информационно-техническое обеспечение государственного органа»
+</td>
+<td>1 348 520</td>
+</tr>
+<tr>
 <td>24</td>
 <td>Методологическое обеспечение по оказанию инвалидам протезно-ортопедической помощи, в том числе предоставление протезно-ортопедической помощи</td>
 <td>Протезирование инвалидов с особо сложными и атипичными видами увечья, а также первичное протезирование, внедрение протезно-ортопедических изделий, изготавливаемых по новейшим технологиям, разработка технологических процессов на новые виды протезно-ортопедических изделий</td>
@@ -18312,6 +19230,18 @@ __________________________________________________
 102 «Слухоречевая адаптация детей с нарушением слуха после кохлеарной имплантации»
 </td>
 <td>331 086</td>
+</tr>
+<tr>
+<td>25-1</td>
+<td>Информационно-аналитическое сопровождение рынка труда и методологическая поддержка центров занятости населения в социально-трудовой сфере</td>
+<td>Информационно-аналитическое сопровождение рынка труда и методологическая поддержка центров занятости населения в социально-трудовой сфере</td>
+<td>Министерство труда и социальной защиты населения Республики Казахстан</td>
+<td>АО «Центр развития трудовых ресурсов»</td>
+<td>
+068 «Развитие продуктивной занятости»
+101 «Проведение текущих мероприятий в рамках развития продуктивной занятости»
+</td>
+<td>325 199</td>
 </tr>
 <tr>
 <td>26</td>
@@ -18815,6 +19745,42 @@ ICILS – оценивание компьютерной и информацио�
 <td>279 080</td>
 </tr>
 <tr>
+<td>63-1</td>
+<td>Оказание услуги по обеспечению функциональной и институциональной устойчивости развития электронного здравоохранения</td>
+<td>Выполнение мероприятий, связанных с реформированием электронного здравоохранения, в том числе формированием долгосрочного IT-потенциала и обеспечением функциональной, институциональной устойчивости, в рамках развития «электронного здравоохранения» Республики Казахстан, а также модификация информационных систем Министерства здравоохранения Республики Казахстан с целью предоставления возможности применения инновационных технологий при оказании гарантированного объема бесплатной медицинской помощи и в рамках ОСМС</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>РГП на ПХВ «Республиканский центр электронного здравоохранения»</td>
+<td>
+001 «Формирование государственной политики в области здравоохранения»
+103 «Проведение социологических, аналитических исследований и оказание консалтинговых услуг»
+</td>
+<td>244 361</td>
+</tr>
+<tr>
+<td>63-2</td>
+<td>Услуги по сопровождению некоторых программных комплексов и электронных регистров (информационных систем) в области здравоохранения, обеспечению эксплуатации национальной телемедицинской сети Республики Казахстан</td>
+<td>Сопровождение программных комплексов (информационных систем) в области здравоохранения</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>РГП на ПХВ «Республиканский центр электронного здравоохранения»</td>
+<td>
+001 «Формирование государственной политики в области здравоохранения»
+104 «Обеспечение функционирования информационных систем и информационно-техническое обеспечение государственного органа»
+</td>
+<td>340 085</td>
+</tr>
+<tr>
+<td>63-3</td>
+<td>Услуги по обеспечению финансирования гарантированного объема бесплатной медицинской помощи</td>
+<td>Услуги по обеспечению финансирования гарантированного объема бесплатной медицинской помощи</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>НАО «Фонд социального медицинского страхования»</td>
+<td>
+067 «Обеспечение гарантированного объема бесплатной медицинской помощи»
+102 «Услуги по обеспечению финансирования гарантированного объема бесплатной медицинской помощи»
+</td>
+<td>203 233</td>
+</tr>
+<tr>
 <td>64</td>
 <td>Организация работы по развитию санитарной авиации в Республике Казахстан</td>
 <td>
@@ -18845,14 +19811,14 @@ ICILS – оценивание компьютерной и информацио�
 <tr>
 <td>66</td>
 <td>Обеспечение санитарно-эпидемиологического благополучия населения на территориях особо опасных природных очагов инфекции</td>
-<td>Эпидемиологическое и эпизоотологическое обследование энзоотичных по чуме и другим особо опасным инфекциям территорий, обследование населенных пунктов на энзоотичных по чуме и другим особо опасным инфекциям на территориях, заселенных грызунами, организация выездов в регионы Республики Казахстан специалистов-консультантов ННЦООИ для оказания консультативно-методической помощи в организации и проведения мероприятий по профилактике и мерам реагирования на особо опасные инфекции.</td>
+<td>Эпидемиологическое и эпизоотологическое обследование энзоотичных по чуме и другим особо опасным инфекциям территорий, обследование населенных пунктов на энзоотичных по чуме и другим особо опасным инфекциям на территориях, заселенных грызунами, организация выездов в регионы Республики Казахстан специалистов-консультантов ННЦООИ для оказания консультативно-методической помощи в организации и проведения мероприятий по профилактике и мерам реагирования на особо опасные инфекции</td>
 <td>Министерство здравоохранения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный научный центр особо опасных инфекций имени Масгута Айкимбаева»</td>
 <td>
 070 «Охрана общественного здоровья»
 100 «Обеспечение санитарно-эпидемиологического благополучия населения»
 </td>
-<td>8 037 918</td>
+<td>8 545 193</td>
 </tr>
 <tr>
 <td>67</td>
@@ -18889,6 +19855,8 @@ ICILS – оценивание компьютерной и информацио�
 5. Обеспечение деятельности Оперативного центра по чрезвычайным ситуациям в области общественного здравоохранения.
 6. Промышленная реализация системы сбора данных, оценки и мониторинга программ профилактики инфекций, инфекционного контроля при оказании медицинской помощи.
 7. Повышение кадрового потенциала региональных специалистов Комитета санитарно-эпидемиологического контроля и сотрудничающих министерств (ведомств) методом проведения республиканских семинаров, круглых столов, вебинаров, тренингов и обучения на рабочих местах.
+8. Разработка (пересмотр) санитарных правил с учетом научного обоснования и мирового опыта. Разработка правил и порядка проведения санитарно-эпидемиологической экспертизы, определяющих объемы, перечень и кратность лабораторных исследований.
+9. Оказание организационно-методической, практической помощи, эпидемиологических расследований по вопросам санитарно-эпидемиологического благополучия
 </td>
 <td>Министерство здравоохранения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный центр общественного здравоохранения»</td>
@@ -18896,19 +19864,77 @@ ICILS – оценивание компьютерной и информацио�
 070 «Охрана общественного здоровья»
 100 «Обеспечение санитарно-эпидемиологического благополучия населения»
 </td>
-<td>758 200</td>
+<td>831 539</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>69-1</td>
+<td>Пропаганда здорового образа жизни в области здравоохранения</td>
 <td>
-8. Разработка (пересмотр) санитарных правил с учетом научного обоснования и мирового опыта. Разработка правил и порядка проведения санитарно-эпидемиологической экспертизы, определяющих объемы, перечень и кратность лабораторных исследований.
-9. Оказание организационно-методической, практической помощи, эпидемиологических расследований по вопросам санитарно-эпидемиологического благополучия
+1. Анализ социологического исследования для расчета показателя «Доля граждан Казахстана, ведущих здоровый образ жизни.
+2. Мониторинг и оценка деятельности организаций, реализующих государственный заказ по бюджетной программе 070 «Охрана общественного здоровья» подпрограмме 102 «Целевые текущие трансферты областным бюджетам, бюджетам городов республиканского значения, столицы на пропаганду здорового образа жизни.
+3. Разработка и сбор информации о реализации национальных программ по пропаганде здорового образа жизни.
+4. Сбор аналитического отчета по деятельности молодежных центров здоровья.
+5. Сбор и анализ информации по реализации проекта ВОЗ «Здоровые города и регионы», «Школы, способствующие укреплению здоровья», «Здоровые университеты», «Здоровые рабочие места».
+6. Мониторинг и оценка деятельности проектов ВОЗ, молодежных центров здоровья с выездом в регионы.
+7. Сбор аналитического отчета о мероприятиях по профилактике поведенческих факторов риска (табакокурения, потребления алкоголя, неправильного питания, низкой физической активности).
+8. Сбор информации по исполнению Плана мероприятий по повышению приверженности населения к здоровому образу жизни на 2019-2022 годы, утвержденного приказом Министерства здравоохранения Республики Казахстан от 17.09.2018 года № 541.
+9. Сбор информации по деятельности антитабачных центров и школ здоровья.
+10. Сбор информации о реализации государственных социальных проектов по профилактике заболеваний и пропаганде здорового образа жизни.
+11. Анализ реализации национальной скрининговой программы.
+12. Разработка 20 инфографик по сохранению и укреплению здоровья в едином стиле.
+13. Создание 8 видеороликов, направленных на повышение ответственного поведения в отношении здоровья, на государственном и русском языках.
+14. Информация по организации обучающих семинаров среди специалистов ЗОЖ регионов.
+15. Отчет по усовершенствованию научно-практического медицинского журнала по вопросам общественного здравоохранения и 1 экземпляр выпущенного журнала.
+16. Аналитическая информация о информированности населения по вопросам репродуктивного здоровья.
+17. Создание благоприятной среды без табачного дыма и правдивого мнения населения о вреде табака, кальяна и новых табачных изделий
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>РГП на ПХВ «Национальный центр общественного здравоохранения»</td>
+<td>
+070 «Охрана общественного здоровья»
+104 «Пропаганда здорового образа жизни»
+</td>
+<td>146 987</td>
+</tr>
+<tr>
+<td>69-2</td>
+<td>Реализация мероприятий по профилактике и борьбе со СПИД</td>
+<td>
+1. Эпидемиологический мониторинг за ситуацией по ВИЧ-инфекции в Республике Казахстан, который включает:
+- электронное слежение за случаями ВИЧ-инфекции, эпидемиологическое слежение за распространенностью ВИЧ-инфекции в уязвимых группах, мониторинг и оценку эпидемиологических мероприятий по ВИЧ-инфекции в целях прогнозирования эпидемиологической ситуации и своевременного реагирования на возможные вспышки);
+- мониторинг и анализ эпидемиологической ситуации, скрининг различных групп населения в Республике Казахстан;
+- контроль качества полевого этапа дозорного эпидемиологического надзора за ВИЧ-инфекцией в уязвимых группах в Республике Казахстан.
+2. Клинический мониторинг за диспансерным наблюдением, лечением и его эффективностью в Республике Казахстан, который включает:
+- разработку проектов нормативно-правовых актов, единых стандартов оказания помощи ВИЧ-инфицированным, а также предложений в стратегические документы Министерства здравоохранения Республики Казахстан по вопросам ВИЧ-инфекции;
+- свод и подготовка данных в рамках глобальной отчетности «Национальный доклад о достигнутом прогрессе в осуществлении глобальных мер в ответ на СПИД в Республике Казахстан» в ЮНЭЙДС (г. Женева, Швейцария) по выполнению политической декларации по ВИЧ/СПИД и стратегии ЮНЭЙДС 95/95/95 по реализации политической декларации.
+3. Мониторинг профилактических мероприятий среди населения и ключевых групп в Республике Казахстан, который включает:
+- мониторинг реализации профилактических мероприятий для населения, в том числе среди ключевых групп;
+- организацию и мониторинг информационной работы по профилактике ВИЧ-инфекции в Республике Казахстан (включает ежемесячный сбор и свод данных проводимой информационной работы региональными центрами по Республике Казахстан, организацию информационных кампаний, приуроченных к Всемирному дню борьбы со СПИД, день памяти умерших от СПИД и другие);
+- мониторинг и оценку мероприятий по ВИЧ-инфекции, учет клиентов профилактических программ, а также проведение оценки полноты и качества данных (включает анализ данных реализации профилактических программ в Республике Казахстан за полугодие и год среди ключевых групп с ежеквартальным мониторингом показателей и оказанием консультативной и организационно-методической помощи региональным центрам по профилактике ВИЧ-инфекции по итогам и в процессе работы).
+4. Эпидемиологических, профилактических и клинических мероприятий по ВИЧ-инфекции в Республике Казахстан, которое включает организационно-методическое сопровождение:
+- организационно-методическое руководство и координацию работы региональных центров СПИД по вопросам эпидемиологического надзора;
+- консультативную помощь по вопросам ВИЧ-инфекции центрам СПИД, организацию и проведение семинаров, тренингов, совещаний и научно-практических конференций по вопросам эпидемиологического надзора;
+- организационно-методическое руководство и координацию работы территориальных центров СПИД и других организаций здравоохранения по вопросам обследования населения на ВИЧ, профилактики, диагностики ВИЧ/СПИД и лечения ВИЧ-инфицированных больных СПИД
+</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>РГП на ПХВ «Казахский научный центр дерматологии и инфекционных заболеваний»</td>
+<td>
+070 «Охрана общественного здоровья»
+105 «Реализация мероприятий по профилактике и борьбе со СПИД»
+</td>
+<td>138 538</td>
+</tr>
+<tr>
+<td>69-3</td>
+<td>Обеспечение биологической безопасности в области здравоохранения</td>
+<td>Обеспечение биологической безопасности, устойчивого развития и совершенствования инфраструктуры биофармацевтического рынка, стимулирование развития биофармацевтической науки и промышленности, а также обеспечение потребности государства и общества в биофармацевтической продукции</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>АО «Национальный холдинг «QazBioPharm»</td>
+<td>
+070 «Охрана общественного здоровья»
+114 «Услуги по разработке, апробации и внедрение новых биологических и фармацевтических препаратов на базе АО «Национальный холдинг «QazBioPharm»
+</td>
+<td>380 005</td>
 </tr>
 <tr>
 <td>70</td>

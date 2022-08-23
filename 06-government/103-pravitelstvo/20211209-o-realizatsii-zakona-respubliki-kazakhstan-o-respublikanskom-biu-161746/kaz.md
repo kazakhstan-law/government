@@ -1,5 +1,5 @@
 ---
-version_id: '161746_576513'
+version_id: '161746_593195'
 act_code: '161746'
 language: kaz
 title: «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2021-12-09
-version_date: 2022-05-13
+version_date: 2022-08-23
 registry_number: '161746'
 caused_by:
-  code: '167875'
-  title: «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2021 жылғы 9 желтоқсандағы № 872 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/167875/kaz
-source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
+  code: '171035'
+  title: 2022 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2021 жылғы 9 желтоқсандағы № 872 қаулысына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/171035/kaz
+source: https://zan.gov.kz/client/#!/doc/161746/kaz/23.08.2022
 ---
 
 # «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -241,7 +241,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 
 ## Басым республикалық бюджеттік инвестициялардың тізбесі
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -4787,15 +4787,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>28 233 187</td>
+<td>22 565 839</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4818,6 +4817,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>7 580 207</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>5 667 348</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4948,15 +4957,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>4 543 090</td>
+<td>2 995 558</td>
 <td>3 132 814</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -4979,6 +4987,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>2 000 000</td>
 <td>3 000 000</td>
 <td>6 774 853</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 547 532</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>6</td>
@@ -5044,15 +5062,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>4 296 761</td>
-<td>2 446 062</td>
 <td></td>
+<td>2 446 062</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5075,6 +5092,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>1 000 000</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>4 296 761</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5205,15 +5232,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>4 159 621</td>
+<td>3 412 009</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5227,15 +5253,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>287 491</td>
+<td>46 582</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5267,6 +5292,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>709 197</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>747 612</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>240 909</td>
 <td></td>
 <td></td>
 </tr>
@@ -5490,15 +5535,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>300 000</td>
-<td>420 641</td>
 <td></td>
+<td>420 641</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5510,6 +5554,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>1 300 000</td>
 <td>2 384 333</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>300 000</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -5561,31 +5615,9 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Алматы облысы</td>
-<td>243 726</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Жамбыл облысы</td>
 <td>77 918</td>
 <td>326 102</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>334 763</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -5607,6 +5639,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Қызылорда облысы</td>
 <td>361 297</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>243 726</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>334 763</td>
 <td></td>
 <td></td>
 </tr>
@@ -5943,15 +5995,24 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>500 000</td>
+<td>300 000</td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>200 000</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6191,15 +6252,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>7 157 465</td>
+<td>5 752 375</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6222,6 +6282,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>2 755 594</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 405 090</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6841,32 +6911,20 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Алматы облысы</td>
-<td>1 925 010</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Атырау облысы</td>
 <td>10 513 204</td>
 <td>3 158 875</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>3 245 350</td>
+<td>1 445 350</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -6899,6 +6957,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>Маңғыстау облысы</td>
 <td>417 746</td>
 <td>1 344 513</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>1 800 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 925 010</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -7033,15 +7111,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>191 688</td>
+<td>59 476</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7097,6 +7174,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>640 912</td>
 <td>303 186</td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>132 212</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7598,32 +7685,20 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td></td>
 <td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>266 488</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>Жамбыл облысы</td>
 <td>777 417</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>811 932</td>
+<td>596 964</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7644,6 +7719,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Қызылорда облысы</td>
 <td>923 783</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>266 488</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>214 968</td>
 <td></td>
 <td></td>
 </tr>
@@ -7703,15 +7798,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>2 865 318</td>
+<td>1 119 597</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7721,17 +7815,6 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Атырау облысы</td>
 <td>161 664</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>268 800</td>
 <td></td>
 <td></td>
 </tr>
@@ -7754,6 +7837,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Батыс Қазақстан облысы</td>
 <td>122 267</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>268 800</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 745 721</td>
 <td></td>
 <td></td>
 </tr>
@@ -7857,15 +7960,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>2 364 355</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>2 720 640</td>
+<td>2 317 484</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7879,15 +7981,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>8 333 375</td>
+<td>7 713 692</td>
 <td>3 751 851</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -7912,15 +8013,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>3 849 977</td>
+<td>2 855 079</td>
 <td></td>
-<td>71 327</td>
+<td colspan="2">71 327</td>
 </tr>
 <tr>
 <td></td>
@@ -7952,6 +8052,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>6 172 617</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>619 683</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>403 156</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>994 898</td>
 <td></td>
 <td></td>
 </tr>
@@ -8076,15 +8206,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 572 747</td>
+<td>602 689</td>
 <td>945 430</td>
-<td>319 159</td>
+<td colspan="2">319 159</td>
 </tr>
 <tr>
 <td></td>
@@ -8109,15 +8238,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>7 222 854</td>
+<td>2 838 837</td>
 <td>2 803 246</td>
-<td>1 247 221</td>
+<td colspan="2">1 247 221</td>
 </tr>
 <tr>
 <td></td>
@@ -8149,6 +8277,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>2 468 583</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>970 058</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>4 384 017</td>
 <td></td>
 <td></td>
 </tr>
@@ -8252,25 +8400,23 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>3 220 752</td>
-<td>705 811</td>
+<td>2 235 618</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>5 226 010</td>
-<td>1 261 973</td>
+<td>1 807 824</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -8336,6 +8482,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>1 004 466</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>3 418 186</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>985 134</td>
 <td></td>
 <td></td>
 </tr>
@@ -8447,15 +8613,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>564 374</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>856 892</td>
+<td>768 209</td>
 <td>500 000</td>
-<td>1 433 659</td>
+<td colspan="2">1 433 659</td>
 </tr>
 <tr>
 <td></td>
@@ -8491,15 +8656,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>9 114 419</td>
+<td>6 114 419</td>
 <td>12 111 292</td>
-<td>4 867 140</td>
+<td colspan="2">4 867 140</td>
 </tr>
 <tr>
 <td></td>
@@ -8532,6 +8696,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>Маңғыстау облысы</td>
 <td>1 597 576</td>
 <td>1 034 115</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>88 683</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>3 000 000</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -8806,15 +8990,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>11 372 962</td>
 <td>8 000 000</td>
-<td>11 000 000</td>
+<td>8 000 000</td>
+<td colspan="2">11 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -8850,15 +9033,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>8 000 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>5 120 862</td>
+<td>4 120 862</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -8890,6 +9072,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>4 578 082</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>3 372 962</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>1 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -9023,15 +9225,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>890 000</td>
-<td>700 000</td>
 <td></td>
+<td>700 000</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9078,15 +9279,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>2 434 955</td>
+<td>1 534 955</td>
 <td>7 577 833</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9119,6 +9319,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>Маңғыстау облысы</td>
 <td>582 291</td>
 <td>383 605</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>890 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>900 000</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -9199,15 +9419,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>9 026 844</td>
+<td>6 909 372</td>
 <td>2 480 829</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9221,15 +9440,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 153 014</td>
+<td>259 888</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9254,15 +9472,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>1 027 784</td>
+<td>873 697</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9294,6 +9511,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>3 564 437</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>893 126</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>2 117 472</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>154 087</td>
 <td></td>
 <td></td>
 </tr>
@@ -9591,15 +9838,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>3 788 681</td>
+<td>3 293 966</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9611,6 +9857,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>4 518 186</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>494 715</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9832,15 +10088,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>5 778 566</td>
+<td>4 367 666</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9865,15 +10120,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>1 110 047</td>
+<td>841 900</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -9894,6 +10148,26 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Қызылорда облысы</td>
 <td>953 888</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 410 900</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>268 147</td>
 <td></td>
 <td></td>
 </tr>
@@ -9994,15 +10268,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>7 918 799</td>
+<td>2 150 169</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10080,6 +10353,16 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td>1 901 005</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>5 768 630</td>
+<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10178,15 +10461,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>2 105 092</td>
+<td>500 000</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10200,15 +10482,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>6 000 000</td>
+<td>5 000 000</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10222,15 +10503,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>7 003 489</td>
+<td>6 003 489</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10262,6 +10542,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>2 164 718</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>1 000 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 605 092</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>1 000 000</td>
 <td></td>
 <td></td>
 </tr>
@@ -10384,15 +10694,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Алматы облысы</td>
-<td>4 555 685</td>
+<td>3 373 579</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10406,15 +10715,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 968 243</td>
+<td>1 445 683</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10439,15 +10747,14 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Қарағанды облысы</td>
-<td>1 831 775</td>
+<td>1 351 647</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
@@ -10479,6 +10786,36 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/13.05.2022
 <td></td>
 <td>Маңғыстау облысы</td>
 <td>4 838 899</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай облысы</td>
+<td>522 560</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жетісу облысы</td>
+<td>1 182 106</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ұлытау облысы</td>
+<td>480 128</td>
 <td></td>
 <td></td>
 </tr>
@@ -10535,115 +10872,128 @@ __________________________________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *3-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдары қызметкерлерінің лауазымдық айлықақыларын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 3-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="60">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдары қызметкерлерінің лауазымдық айлықақыларын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">Р/с №</td>
-<td colspan="14">Облыстар мен қалалардың атауы</td>
-<td colspan="41">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>18 187 672</td>
 </tr>
 <tr>
-<th colspan="5"></th>
-<th colspan="14">Барлығы:</th>
-<th colspan="41">18 187 672</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>936 524</td>
 </tr>
 <tr>
-<td colspan="5">1.</td>
-<td colspan="14">Ақмола облысы</td>
-<td colspan="41">936 524</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>831 981</td>
 </tr>
 <tr>
-<td colspan="5">2.</td>
-<td colspan="14">Ақтөбе облысы</td>
-<td colspan="41">831 981</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>1 071 581</td>
 </tr>
 <tr>
-<td colspan="5">3.</td>
-<td colspan="14">Алматы облысы</td>
-<td colspan="41">1 334 692</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>753 729</td>
 </tr>
 <tr>
-<td colspan="5">4.</td>
-<td colspan="14">Атырау облысы</td>
-<td colspan="41">753 729</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>1 304 810</td>
 </tr>
 <tr>
-<td colspan="5">5.</td>
-<td colspan="14">Шығыс Қазақстан облысы</td>
-<td colspan="41">1 596 073</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>921 969</td>
 </tr>
 <tr>
-<td colspan="5">6.</td>
-<td colspan="14">Жамбыл облысы</td>
-<td colspan="41">921 969</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>698 475</td>
 </tr>
 <tr>
-<td colspan="5">7.</td>
-<td colspan="14">Батыс Қазақстан облысы</td>
-<td colspan="41">698 475</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 744 880</td>
 </tr>
 <tr>
-<td colspan="5">8.</td>
-<td colspan="14">Қарағанды облысы</td>
-<td colspan="41">1 923 949</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>1 101 094</td>
 </tr>
 <tr>
-<td colspan="5">9.</td>
-<td colspan="14">Қостанай облысы</td>
-<td colspan="41">1 101 094</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>918 165</td>
 </tr>
 <tr>
-<td colspan="5">10.</td>
-<td colspan="14">Қызылорда облысы</td>
-<td colspan="41">918 165</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>692 477</td>
 </tr>
 <tr>
-<td colspan="5">11.</td>
-<td colspan="14">Маңғыстау облысы</td>
-<td colspan="41">692 477</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>291 263</td>
 </tr>
 <tr>
-<td colspan="5">12.</td>
-<td colspan="14">Павлодар облысы</td>
-<td colspan="41">929 414</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>263 111</td>
 </tr>
 <tr>
-<td colspan="5">13.</td>
-<td colspan="14">Солтүстік Қазақстан облысы</td>
-<td colspan="41">882 175</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>179 069</td>
 </tr>
 <tr>
-<td colspan="5">14.</td>
-<td colspan="14">Түркістан облысы</td>
-<td colspan="41">1 154 165</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>929 414</td>
 </tr>
 <tr>
-<td colspan="5">15.</td>
-<td colspan="14">Алматы қаласы</td>
-<td colspan="41">1 583 880</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>882 175</td>
 </tr>
 <tr>
-<td colspan="5">16.</td>
-<td colspan="14">Нұр-Сұлтан қаласы</td>
-<td colspan="41">1 108 000</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>1 154 165</td>
 </tr>
 <tr>
-<td colspan="5">17.</td>
-<td colspan="14">Шымкент қаласы</td>
-<td colspan="41">820 910</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>1 583 880</td>
 </tr>
 <tr>
-<td colspan="60">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>1 108 000</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>820 910</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -10745,7 +11095,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне арнаулы мекемелердің, айдауыл қызметінің, кезекші бөлімдердің және жедел басқару орталықтарының, кинологиялық бөлімшелердің қызметкерлеріне және учаскелік полиция инспекторларының көмекшілеріне тұрғын үй төлемдеріне берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 5-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 5-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -10771,7 +11121,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>322 910</td>
+<td>269 654</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -10781,7 +11131,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>238 273</td>
+<td>184 058</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -10796,7 +11146,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>392 559</td>
+<td>340 343</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -10815,31 +11165,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>54 215</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>53 256</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>52 216</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>127 316</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>169 600</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>587 753</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>690 721</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>568 483</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>253 249</td>
 </tr>
@@ -10848,110 +11213,125 @@ _________________________
 _________________________
 
 > *Қазақстан Республикасы*  
-> *Үкіметінің 2021 жылғы*  
-> *« » № қаулысына*  
+> *Үкіметінің*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *6-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдарының азаматтық қызметшілері қатарындағы медицина қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 6-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="67">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдарының азаматтық қызметшілері қатарындағы медицина қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="5">Р/с №</td>
-<td colspan="33">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>235 772</td>
 </tr>
 <tr>
-<th colspan="5"></th>
-<th colspan="33">Барлығы:</th>
-<th colspan="29">235 772</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>15 221</td>
 </tr>
 <tr>
-<td colspan="5">1.</td>
-<td colspan="33">Ақмола облысы</td>
-<td colspan="29">15 221</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>12 763</td>
 </tr>
 <tr>
-<td colspan="5">2.</td>
-<td colspan="33">Ақтөбе облысы</td>
-<td colspan="29">12 763</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>15 777</td>
 </tr>
 <tr>
-<td colspan="5">3.</td>
-<td colspan="33">Алматы облысы</td>
-<td colspan="29">20 261</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>9 101</td>
 </tr>
 <tr>
-<td colspan="5">4.</td>
-<td colspan="33">Атырау облысы</td>
-<td colspan="29">9 101</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>17 913</td>
 </tr>
 <tr>
-<td colspan="5">5.</td>
-<td colspan="33">Шығыс Қазақстан облысы</td>
-<td colspan="29">21 802</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>11 226</td>
 </tr>
 <tr>
-<td colspan="5">6.</td>
-<td colspan="33">Жамбыл облысы</td>
-<td colspan="29">11 226</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>18 645</td>
 </tr>
 <tr>
-<td colspan="5">7.</td>
-<td colspan="33">Батыс Қазақстан облысы</td>
-<td colspan="29">18 645</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>21 359</td>
 </tr>
 <tr>
-<td colspan="5">8.</td>
-<td colspan="33">Қарағанды облысы</td>
-<td colspan="29">23 951</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>17 198</td>
 </tr>
 <tr>
-<td colspan="5">9.</td>
-<td colspan="33">Қостанай облысы</td>
-<td colspan="29">17 198</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>14 152</td>
 </tr>
 <tr>
-<td colspan="5">10.</td>
-<td colspan="33">Қызылорда облысы</td>
-<td colspan="29">14 152</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>6 793</td>
 </tr>
 <tr>
-<td colspan="5">11.</td>
-<td colspan="33">Маңғыстау облысы</td>
-<td colspan="29">6 793</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>3 889</td>
 </tr>
 <tr>
-<td colspan="5">12.</td>
-<td colspan="33">Павлодар облысы</td>
-<td colspan="29">11 406</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>4 484</td>
 </tr>
 <tr>
-<td colspan="5">13.</td>
-<td colspan="33">Солтүстік Қазақстан облысы</td>
-<td colspan="29">13 226</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>2 592</td>
 </tr>
 <tr>
-<td colspan="5">14.</td>
-<td colspan="33">Түркістан облысы</td>
-<td colspan="29">21 416</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>11 406</td>
 </tr>
 <tr>
-<td colspan="5">15.</td>
-<td colspan="33">Алматы қаласы</td>
-<td colspan="29">8 788</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>13 226</td>
 </tr>
 <tr>
-<td colspan="5">16.</td>
-<td colspan="33">Нұр-Сұлтан қаласы</td>
-<td colspan="29">4 682</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>21 416</td>
 </tr>
 <tr>
-<td colspan="5">17.</td>
-<td colspan="33">Шымкент қаласы</td>
-<td colspan="29">5 141</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>8 788</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>4 682</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>5 141</td>
 </tr>
 </table>
 
@@ -10965,7 +11345,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қаланың, астананың бюджетіне ішкі істер органдарының қосымша штат санын ұстауға және материалдық-техникалық жарақтандыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 6-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. Қаулы 6-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -10981,7 +11361,7 @@ _________________________
 <tr>
 <td>1.</td>
 <td>Алматы облысы</td>
-<td>549 005</td>
+<td>276 253</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -10995,11 +11375,16 @@ _________________________
 </tr>
 <tr>
 <td>4.</td>
+<td>Жетісу облысы</td>
+<td>272 752</td>
+</tr>
+<tr>
+<td>5.</td>
 <td>Түркістан облысы</td>
 <td>4 580 900</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>6.</td>
 <td>Алматы қаласы</td>
 <td>379 319</td>
 </tr>
@@ -11971,155 +12356,175 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *15-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік атаулы әлеуметтік көмекті төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 15-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="88">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік атаулы әлеуметтік көмекті төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
-</tr>
-<tr>
 <td rowspan="2">Р/с №</td>
-<td colspan="40" rowspan="2">Облыстар мен қалалардың атауы</td>
-<td colspan="23" rowspan="2">Сомасы, мың теңге</td>
-<td colspan="24">оның ішінде:</td>
+<td rowspan="2">Облыстар мен қалалардың атауы</td>
+<td rowspan="2">Сомасы, мың теңге</td>
+<td colspan="2">оның ішінде:</td>
 </tr>
 <tr>
-<td colspan="19">мемлекеттік атаулы әлеуметтік көмекті төлеуге</td>
-<td colspan="5">балаларға кепілдендірілген әлеуметтік пакетке</td>
+<td>мемлекеттік атаулы әлеуметтік көмекті төлеуге</td>
+<td>балаларға кепілдендірілген әлеуметтік пакетке</td>
 </tr>
 <tr>
-<th></th>
-<th colspan="40">Барлығы:</th>
-<th colspan="23">85 092 104</th>
-<th colspan="19">69 570 006</th>
-<th colspan="5">15 522 098</th>
+<td></td>
+<td>Барлығы:</td>
+<td>85 092 104</td>
+<td>69 570 006</td>
+<td>15 522 098</td>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="40">Ақмола облысы</td>
-<td colspan="23">1 042 306</td>
-<td colspan="19">824 476</td>
-<td colspan="5">217 830</td>
+<td>Ақмола облысы</td>
+<td>1 042 306</td>
+<td>824 476</td>
+<td>217 830</td>
 </tr>
 <tr>
 <td>2.</td>
-<td colspan="40">Ақтөбе облысы</td>
-<td colspan="23">2 778 381</td>
-<td colspan="19">2 107 110</td>
-<td colspan="5">671 271</td>
+<td>Ақтөбе облысы</td>
+<td>2 778 381</td>
+<td>2 107 110</td>
+<td>671 271</td>
 </tr>
 <tr>
 <td>3.</td>
-<td colspan="40">Алматы облысы</td>
-<td colspan="23">11 214 622</td>
-<td colspan="19">9 481 214</td>
-<td colspan="5">1 733 408</td>
+<td>Алматы облысы</td>
+<td>6 734 710</td>
+<td>5 652 835</td>
+<td>1 081 875</td>
 </tr>
 <tr>
 <td>4.</td>
-<td colspan="40">Атырау облысы</td>
-<td colspan="23">1 066 195</td>
-<td colspan="19">848 684</td>
-<td colspan="5">217 511</td>
+<td>Атырау облысы</td>
+<td>1 066 195</td>
+<td>848 684</td>
+<td>217 511</td>
 </tr>
 <tr>
 <td>5.</td>
-<td colspan="40">Шығыс Қазақстан облысы</td>
-<td colspan="23">5 366 624</td>
-<td colspan="19">4 651 753</td>
-<td colspan="5">714 871</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>1 940 448</td>
+<td>1 662 483</td>
+<td>277 965</td>
 </tr>
 <tr>
 <td>6.</td>
-<td colspan="40">Жамбыл облысы</td>
-<td colspan="23">5 063 495</td>
-<td colspan="19">3 916 328</td>
-<td colspan="5">1 147 167</td>
+<td>Жамбыл облысы</td>
+<td>5 063 495</td>
+<td>3 916 328</td>
+<td>1 147 167</td>
 </tr>
 <tr>
 <td>7.</td>
-<td colspan="40">Батыс Қазақстан облысы</td>
-<td colspan="23">2 363 957</td>
-<td colspan="19">1 879 673</td>
-<td colspan="5">484 284</td>
+<td>Батыс Қазақстан облысы</td>
+<td>2 363 957</td>
+<td>1 879 673</td>
+<td>484 284</td>
 </tr>
 <tr>
 <td>8.</td>
-<td colspan="40">Қарағанды облысы</td>
-<td colspan="23">1 801 181</td>
-<td colspan="19">1 383 516</td>
-<td colspan="5">417 665</td>
+<td>Қарағанды облысы</td>
+<td>1 477 855</td>
+<td>1 127 055</td>
+<td>350 800</td>
 </tr>
 <tr>
 <td>9.</td>
-<td colspan="40">Қостанай облысы</td>
-<td colspan="23">2 333 360</td>
-<td colspan="19">1 893 197</td>
-<td colspan="5">440 163</td>
+<td>Қостанай облысы</td>
+<td>2 333 360</td>
+<td>1 893 197</td>
+<td>440 163</td>
 </tr>
 <tr>
 <td>10.</td>
-<td colspan="40">Қызылорда облысы</td>
-<td colspan="23">5 498 280</td>
-<td colspan="19">4 307 015</td>
-<td colspan="5">1 191 265</td>
+<td>Қызылорда облысы</td>
+<td>5 498 280</td>
+<td>4 307 015</td>
+<td>1 191 265</td>
 </tr>
 <tr>
 <td>11.</td>
-<td colspan="40">Маңғыстау облысы</td>
-<td colspan="23">2 182 840</td>
-<td colspan="19">1 678 768</td>
-<td colspan="5">504 072</td>
+<td>Маңғыстау облысы</td>
+<td>2 182 840</td>
+<td>1 678 768</td>
+<td>504 072</td>
 </tr>
 <tr>
 <td>12.</td>
-<td colspan="40">Павлодар облысы</td>
-<td colspan="23">1 778 435</td>
-<td colspan="19">1 348 490</td>
-<td colspan="5">429 945</td>
+<td>Абай облысы</td>
+<td>3 426 176</td>
+<td>2 989 270</td>
+<td>436 906</td>
 </tr>
 <tr>
 <td>13.</td>
-<td colspan="40">Солтүстік Қазақстан облысы</td>
-<td colspan="23">890 484</td>
-<td colspan="19">735 511</td>
-<td colspan="5">154 973</td>
+<td>Жетісу облысы</td>
+<td>4 479 912</td>
+<td>3 828 379</td>
+<td>651 533</td>
 </tr>
 <tr>
 <td>14.</td>
-<td colspan="40">Түркістан облысы</td>
-<td colspan="23">18 847 308</td>
-<td colspan="19">15 040 597</td>
-<td colspan="5">3 806 711</td>
+<td>Ұлытау облысы</td>
+<td>323 326</td>
+<td>256 461</td>
+<td>66 865</td>
 </tr>
 <tr>
 <td>15.</td>
-<td colspan="40">Алматы қаласы</td>
-<td colspan="23">3 822 502</td>
-<td colspan="19">3 211 941</td>
-<td colspan="5">610 561</td>
+<td>Павлодар облысы</td>
+<td>1 778 435</td>
+<td>1 348 490</td>
+<td>429 945</td>
 </tr>
 <tr>
 <td>16.</td>
-<td colspan="40">Нұр-Сұлтан қаласы</td>
-<td colspan="23">2 249 466</td>
-<td colspan="19">1 987 200</td>
-<td colspan="5">262 266</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>890 484</td>
+<td>735 511</td>
+<td>154 973</td>
 </tr>
 <tr>
 <td>17.</td>
-<td colspan="40">Шымкент қаласы</td>
-<td colspan="23">16 792 668</td>
-<td colspan="19">14 274 533</td>
-<td colspan="5">2 518 135</td>
+<td>Түркістан облысы</td>
+<td>18 847 308</td>
+<td>15 040 597</td>
+<td>3 806 711</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>3 822 502</td>
+<td>3 211 941</td>
+<td>610 561</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>2 249 466</td>
+<td>1 987 200</td>
+<td>262 266</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>16 792 668</td>
+<td>14 274 533</td>
+<td>2 518 135</td>
 </tr>
 </table>
 
-_____________________________
+____________________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -12129,7 +12534,7 @@ _____________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 16-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12155,12 +12560,12 @@ _____________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>421 655</td>
+<td>293 213</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>290 515</td>
+<td>221 613</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -12175,7 +12580,7 @@ _____________________________
 <tr>
 <td>7.</td>
 <td>Қарағанды облысы</td>
-<td>89 237</td>
+<td>59 044</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -12194,38 +12599,52 @@ _____________________________
 </tr>
 <tr>
 <td>11.</td>
+<td>Абай облысы</td>
+<td>68 902</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Жетісу облысы</td>
+<td>128 442</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Ұлытау облысы</td>
+<td>30 193</td>
+</tr>
+<tr>
+<td>14.</td>
 <td>Павлодар облысы</td>
 <td>330 885</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>15.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>15 689</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Түркістан облысы</td>
 <td>173 361</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Алматы қаласы</td>
 <td>211 551</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>14 487</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Шымкент қаласы</td>
 <td>228 691</td>
 </tr>
-<tr>
-<td colspan="3">Ескертпе: аталған шығыстар үй жағдайында жартылай стационар жағдайында және қарттар мен мүгедектерге, адам саудасы құрбандарына арнаулы әлеуметтік қызметтер көрсету үшін үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға бағытталған.</td>
-</tr>
 </table>
+
+Ескертпе: аталған шығыстар үй жағдайында жартылай стационар жағдайында және қарттар мен мүгедектерге, адам саудасы құрбандарына арнаулы әлеуметтік қызметтер көрсету үшін үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға бағытталған.
 
 _________________________
 
@@ -12237,7 +12656,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз етуге және өмір сүру сапасын жақсартуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 17-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 17-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12282,11 +12701,11 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>1 907 256</td>
-<td>1 232 535</td>
-<td>541 527</td>
-<td>90 844</td>
-<td>42 350</td>
+<td>1 128 993</td>
+<td>722 374</td>
+<td>337 346</td>
+<td>47 047</td>
+<td>22 226</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12295,16 +12714,16 @@ _________________________
 <td>117 238</td>
 <td>158 815</td>
 <td>40 163</td>
-<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 599 195</td>
-<td>738 340</td>
-<td>452 258</td>
-<td>49 801</td>
-<td>358 796</td>
+<td>831 375</td>
+<td>392 679</td>
+<td>257 530</td>
+<td>30 676</td>
+<td>150 490</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12327,11 +12746,11 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>1 497 566</td>
-<td>328 652</td>
-<td>500 427</td>
+<td>1 300 315</td>
+<td>271 979</td>
+<td>435 395</td>
 <td>93 590</td>
-<td>574 897</td>
+<td>499 351</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12362,6 +12781,33 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>767 820</td>
+<td>345 661</td>
+<td>194 728</td>
+<td>19 125</td>
+<td>208 306</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>778 263</td>
+<td>510 161</td>
+<td>204 181</td>
+<td>43 797</td>
+<td>20 124</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>197 251</td>
+<td>56 673</td>
+<td>65 032</td>
+<td></td>
+<td>75 546</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>1 270 854</td>
 <td>547 379</td>
@@ -12370,7 +12816,7 @@ _________________________
 <td>261 287</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>709 583</td>
 <td>381 440</td>
@@ -12379,7 +12825,7 @@ _________________________
 <td>56 552</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>2 284 493</td>
 <td>999 215</td>
@@ -12388,7 +12834,7 @@ _________________________
 <td>467 606</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>1 581 041</td>
 <td>882 362</td>
@@ -12397,7 +12843,7 @@ _________________________
 <td>187 552</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>1 501 555</td>
 <td>599 375</td>
@@ -12406,7 +12852,7 @@ _________________________
 <td>477 430</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>1 702 466</td>
 <td>991 412</td>
@@ -12426,7 +12872,7 @@ ________________________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кохлеарлық импланттарға сөйлеу процессорларын ауыстыру және теңшеу жөніндегі көрсетілетін қызметтерге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 18-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 18-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12452,7 +12898,7 @@ ________________________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>190 740</td>
+<td>121 500</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12496,31 +12942,36 @@ ________________________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Жетісу облысы</td>
+<td>69 240</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодар облысы</td>
 <td>121 380</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>14.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>100 230</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>15.</td>
 <td>Түркістан облысы</td>
 <td>306 340</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td>Алматы қаласы</td>
 <td>491 300</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>335 240</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>18.</td>
 <td>Шымкент қаласы</td>
 <td>283 220</td>
 </tr>
@@ -12530,60 +12981,64 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *19-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мүгедектерді жұмысқа орналастыру үшін арнайы жұмыс орындарын құруға жұмыс берушінің шығындарын субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 19-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="68">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мүгедектерді жұмысқа орналастыру үшін арнайы жұмыс орындарын құруға жұмыс берушінің шығындарын субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қаланың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="35">Облыстар мен қаланың атауы</td>
-<td colspan="31">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>59 316</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="35">Барлығы:</th>
-<th colspan="31">59 316</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>558</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="35">Ақмола облысы</td>
-<td colspan="31">558</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>3 126</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="35">Ақтөбе облысы</td>
-<td colspan="31">3 126</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>2 450</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="35">Алматы облысы</td>
-<td colspan="31">7 169</td>
+<td>4.</td>
+<td>Қызылорда облысы</td>
+<td>5 937</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="35">Қызылорда облысы</td>
-<td colspan="31">5 937</td>
+<td>5.</td>
+<td>Маңғыстау облысы</td>
+<td>12 182</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="35">Маңғыстау облысы</td>
-<td colspan="31">12 182</td>
+<td>6.</td>
+<td>Жетісу облысы</td>
+<td>4 719</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="35">Павлодар облысы</td>
-<td colspan="31">21 737</td>
+<td>7.</td>
+<td>Павлодар облысы</td>
+<td>21 737</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="35">Нұр-Сұлтан қаласы</td>
-<td colspan="31">8 607</td>
+<td>8.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>8 607</td>
 </tr>
 </table>
 
@@ -12597,7 +13052,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нәтижелі жұмыспен қамтуды дамытуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 20-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12634,9 +13089,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>11 869 938</td>
-<td>2 583 780</td>
-<td>9 286 158</td>
+<td>5 605 951</td>
+<td>1 406 903</td>
+<td>4 199 048</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12648,9 +13103,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>5 506 389</td>
-<td>1 794 985</td>
-<td>3 711 404</td>
+<td>2 967 403</td>
+<td>912 173</td>
+<td>2 055 230</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12669,9 +13124,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>3 603 064</td>
-<td>1 244 314</td>
-<td>2 358 750</td>
+<td>2 523 679</td>
+<td>832 280</td>
+<td>1 691 399</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12696,41 +13151,62 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>2 538 986</td>
+<td>882 812</td>
+<td>1 656 174</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>6 263 987</td>
+<td>1 176 877</td>
+<td>5 087 110</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>1 079 385</td>
+<td>412 034</td>
+<td>667 351</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>5 374 758</td>
 <td>2 991 659</td>
 <td>2 383 099</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>3 125 806</td>
 <td>1 846 385</td>
 <td>1 279 421</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>21 165 308</td>
 <td>6 985 316</td>
 <td>14 179 992</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>5 193 695</td>
 <td>1 580 706</td>
 <td>3 612 989</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>2 650 882</td>
 <td>820 153</td>
 <td>1 830 729</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>5 277 078</td>
 <td>1 891 401</td>
@@ -12770,7 +13246,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік ұйымдардың: стационарлық және жартылай стационарлық үлгідегі медициналық-әлеуметтік мекемелер, үйде қызмет көрсету, уақытша болу ұйымдары, халықты жұмыспен қамту орталықтары жұмыскерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 22-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 22-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12807,9 +13283,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>3 796 503</td>
-<td>1 921 160</td>
-<td>1 875 343</td>
+<td>1 696 683</td>
+<td>844 559</td>
+<td>852 124</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12821,9 +13297,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>5 020 388</td>
-<td>2 548 099</td>
-<td>2 472 289</td>
+<td>2 965 610</td>
+<td>1 450 726</td>
+<td>1 514 884</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12842,9 +13318,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>4 025 150</td>
-<td>2 054 705</td>
-<td>1 970 445</td>
+<td>3 488 974</td>
+<td>1 782 223</td>
+<td>1 706 751</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -12869,41 +13345,62 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>2 054 778</td>
+<td>1 097 373</td>
+<td>957 405</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>2 099 820</td>
+<td>1 076 601</td>
+<td>1 023 219</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>536 176</td>
+<td>272 482</td>
+<td>263 694</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>2 321 989</td>
 <td>1 231 216</td>
 <td>1 090 773</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>2 672 817</td>
 <td>1 347 565</td>
 <td>1 325 252</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>3 682 058</td>
 <td>1 958 701</td>
 <td>1 723 357</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>2 321 711</td>
 <td>1 149 364</td>
 <td>1 172 347</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>1 577 042</td>
 <td>1 072 345</td>
 <td>504 697</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>1 359 764</td>
 <td>708 770</td>
@@ -12921,7 +13418,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне азаматтық қызметшілердің жекелеген санаттарының, мемлекеттік бюджет қаражаты есебінен ұсталатын ұйымдар қызметкерлерінің, қазыналық кәсіпорындар қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 23-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 23-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -12958,9 +13455,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>9 003 159</td>
-<td>4 038 241</td>
-<td>4 964 918</td>
+<td>4 944 975</td>
+<td>2 232 846</td>
+<td>2 712 129</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -12972,9 +13469,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>9 840 861</td>
-<td>4 277 787</td>
-<td>5 563 074</td>
+<td>6 056 564</td>
+<td>2 683 704</td>
+<td>3 372 860</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -12993,9 +13490,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>9 840 246</td>
-<td>4 251 131</td>
-<td>5 589 115</td>
+<td>8 045 950</td>
+<td>3 493 716</td>
+<td>4 552 234</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13020,41 +13517,62 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>3 784 297</td>
+<td>1 594 083</td>
+<td>2 190 214</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>4 058 184</td>
+<td>1 805 395</td>
+<td>2 252 789</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>1 794 296</td>
+<td>757 415</td>
+<td>1 036 881</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>6 610 870</td>
 <td>3 043 937</td>
 <td>3 566 933</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>5 741 225</td>
 <td>2 578 882</td>
 <td>3 162 343</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>13 724 370</td>
 <td>6 271 443</td>
 <td>7 452 927</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>5 175 893</td>
 <td>2 352 554</td>
 <td>2 823 339</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>4 546 060</td>
 <td>1 865 784</td>
 <td>2 680 276</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>3 973 843</td>
 <td>1 776 041</td>
@@ -13066,334 +13584,124 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *24-қосымша*
 
-<table>
-<tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
-</tr>
-<tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">105 881 627</th>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">3 815 113</td>
-</tr>
-<tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">5 368 228</td>
-</tr>
-<tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">11 717 980</td>
-</tr>
-<tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">3 822 560</td>
-</tr>
-<tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">6 244 225</td>
-</tr>
-<tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">6 578 281</td>
-</tr>
-<tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">3 433 881</td>
-</tr>
-<tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">6 216 306</td>
-</tr>
-<tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">2 878 580</td>
-</tr>
-<tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">6 186 690</td>
-</tr>
-<tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">4 460 451</td>
-</tr>
-<tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">4 098 718</td>
-</tr>
-<tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">2 234 750</td>
-</tr>
-<tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">19 894 708</td>
-</tr>
-<tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">7 014 430</td>
-</tr>
-<tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">5 236 872</td>
-</tr>
-<tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">6 679 854</td>
-</tr>
-<tr>
-<td colspan="65">_________________________</td>
-</tr>
-</table>
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *25-қосымша*
+> *Ескерту. 24-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>105 881 627</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">606 444</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>3 815 113</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">23 216</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>5 368 228</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">7 818</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>8 774 319</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">58 986</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>3 822 560</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">14 924</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>4 499 982</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">31 980</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>6 578 281</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">59 460</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>3 433 881</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">21 557</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>5 114 953</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">43 351</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>2 878 580</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">22 505</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>6 186 690</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">63 961</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>4 460 451</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">29 848</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>1 744 243</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">51 406</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>2 943 661</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">17 056</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>1 101 353</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">63 013</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>4 098 718</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">27 479</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>2 234 750</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">47 142</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>19 894 708</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">22 742</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>7 014 430</td>
 </tr>
 <tr>
-<td colspan="65">_________________________</td>
-</tr>
-</table>
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *26-қосымша*
-
-<table>
-<tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>5 236 872</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">16 089 899</th>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">806 173</td>
-</tr>
-<tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">1 795 023</td>
-</tr>
-<tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">1 089 482</td>
-</tr>
-<tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">817 499</td>
-</tr>
-<tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">793 663</td>
-</tr>
-<tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">1 114 937</td>
-</tr>
-<tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">566 687</td>
-</tr>
-<tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">1 916 969</td>
-</tr>
-<tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">1 180 794</td>
-</tr>
-<tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">1 020 281</td>
-</tr>
-<tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">470 556</td>
-</tr>
-<tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">794 695</td>
-</tr>
-<tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">874 232</td>
-</tr>
-<tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">2 069 670</td>
-</tr>
-<tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">226 694</td>
-</tr>
-<tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">114 563</td>
-</tr>
-<tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">437 981</td>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>6 679 854</td>
 </tr>
 </table>
 
@@ -13401,222 +13709,489 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *27-қосымша*
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *25-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 25-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="58">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне үш жастан алты жасқа дейінгі балаларды мектепке дейінгі тәрбиемен және оқытумен қамтуды қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="15">Облыстар мен қалалардың атауы</td>
-<td colspan="41">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>606 444</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="15">Барлығы:</th>
-<th colspan="41">16 561 138</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>23 216</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="15">Ақмола облысы</td>
-<td colspan="41">471 636</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>7 818</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="15">Ақтөбе облысы</td>
-<td colspan="41">366 828</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>17 767</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="15">Алматы облысы</td>
-<td colspan="41">4 142 880</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>14 924</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="15">Атырау облысы</td>
-<td colspan="41">621 432</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>31 980</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="15">Шығыс Қазақстан облысы</td>
-<td colspan="41">1 048 080</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>59 460</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="15">Жамбыл облысы</td>
-<td colspan="41">786 060</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>21 557</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="15">Батыс Қазақстан облысы</td>
-<td colspan="41">258 930</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>36 481</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="15">Қарағанды облысы</td>
-<td colspan="41">786 060</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>22 505</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="15">Қостанай облысы</td>
-<td colspan="41">262 020</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>63 961</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="15">Қызылорда облысы</td>
-<td colspan="41">857 702</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>29 848</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="15">Маңғыстау облысы</td>
-<td colspan="41">828 576</td>
+<td>12.</td>
+<td>Жетісу облысы</td>
+<td>41 219</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="15">Павлодар облысы</td>
-<td colspan="41">314 424</td>
+<td>13.</td>
+<td>Ұлытау облысы</td>
+<td>6 870</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="15">Солтүстік Қазақстан облысы</td>
-<td colspan="41">317 923</td>
+<td>14.</td>
+<td>Павлодар облысы</td>
+<td>51 406</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="15">Түркістан облысы</td>
-<td colspan="41">2 071 440</td>
+<td>15.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>17 056</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="15">Алматы қаласы</td>
-<td colspan="41">1 812 510</td>
+<td>16.</td>
+<td>Түркістан облысы</td>
+<td>63 013</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="15">Нұр-Сұлтан қаласы</td>
-<td colspan="41">786 060</td>
+<td>17.</td>
+<td>Алматы қаласы</td>
+<td>27 479</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="15">Шымкент қаласы</td>
-<td colspan="41">828 577</td>
+<td>18.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>47 142</td>
 </tr>
 <tr>
-<td colspan="58">_________________________</td>
+<td>19.</td>
+<td>Шымкент қаласы</td>
+<td>22 742</td>
 </tr>
 </table>
 
+_________________________
+
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *28-қосымша*
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *26-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 26-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="58">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдарының медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="15">Облыстар мен қалалардың атауы</td>
-<td colspan="41">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>16 089 899</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="15">Барлығы:</th>
-<th colspan="41">5 826 420</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>806 173</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="15">Ақмола облысы</td>
-<td colspan="41">275 555</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>1 795 023</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="15">Ақтөбе облысы</td>
-<td colspan="41">389 226</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>659 612</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="15">Алматы облысы</td>
-<td colspan="41">278 988</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>817 499</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="15">Атырау облысы</td>
-<td colspan="41">252 421</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>610 085</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="15">Шығыс Қазақстан облысы</td>
-<td colspan="41">688 169</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>1 114 937</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="15">Жамбыл облысы</td>
-<td colspan="41">400 629</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>566 687</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="15">Батыс Қазақстан облысы</td>
-<td colspan="41">274 010</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 607 385</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="15">Қарағанды облысы</td>
-<td colspan="41">537 904</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>1 180 794</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="15">Қостанай облысы</td>
-<td colspan="41">205 835</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>1 020 281</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="15">Қызылорда облысы</td>
-<td colspan="41">347 107</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>470 556</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="15">Маңғыстау облысы</td>
-<td colspan="41">336 424</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>183 578</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="15">Павлодар облысы</td>
-<td colspan="41">429 597</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>429 870</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="15">Солтүстік Қазақстан облысы</td>
-<td colspan="41">321 482</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>309 584</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="15">Түркістан облысы</td>
-<td colspan="41">443 304</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>794 695</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="15">Алматы қаласы</td>
-<td colspan="41">207 769</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>874 232</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="15">Нұр-Сұлтан қаласы</td>
-<td colspan="41">273 605</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>2 069 670</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="15">Шымкент қаласы</td>
-<td colspan="41">164 395</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>226 694</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>114 563</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>437 981</td>
+</tr>
+</table>
+
+_________________________
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *27-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне үш жастан алты жасқа дейінгі балаларды мектепке дейінгі тәрбиемен және оқытумен қамтуды қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 27-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td>Барлығы:</td>
+<td>16 561 138</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>471 636</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>366 828</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>4 142 880</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>621 432</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>538 497</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>786 060</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>258 930</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>733 656</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>262 020</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>857 702</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>828 576</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>509 583</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Ұлытау облысы</td>
+<td>52 404</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Павлодар облысы</td>
+<td>314 424</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>317 923</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Түркістан облысы</td>
+<td>2 071 440</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Алматы қаласы</td>
+<td>1 812 510</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>786 060</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Шымкент қаласы</td>
+<td>828 577</td>
+</tr>
+</table>
+
+_________________________
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *28-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдарының медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 28-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td>Барлығы:</td>
+<td>5 826 420</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>275 555</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>389 226</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>150 436</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>252 421</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>626 490</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>400 629</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>274 010</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>414 745</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>205 835</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>347 107</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>336 424</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>61 679</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>128 552</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>123 159</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>429 597</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>321 482</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>443 304</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>207 769</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>273 605</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>164 395</td>
 </tr>
 </table>
 
@@ -13630,7 +14205,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдарында жан басына шаққандағы қаржыландыруды іске асыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 29-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 29-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -13656,7 +14231,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>5 608 536</td>
+<td>1 838 866</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -13666,7 +14241,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>3 991 279</td>
+<td>1 955 537</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13681,7 +14256,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>4 677 714</td>
+<td>4 060 081</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13700,31 +14275,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>2 035 742</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>3 769 670</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>617 633</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>3 456 051</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>465 055</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>7 740 393</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>5 489 673</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>6 904 453</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>9 038 338</td>
 </tr>
@@ -13740,7 +14330,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 30-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 30-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -13766,7 +14356,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>92 557 604</td>
+<td>63 598 602</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -13776,7 +14366,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>37 957 278</td>
+<td>18 169 466</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13791,7 +14381,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>41 399 123</td>
+<td>33 896 233</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -13810,31 +14400,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>19 787 812</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>28 959 002</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>7 502 890</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>26 382 483</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>24 199 907</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>126 727 458</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>40 964 251</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>20 506 449</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>29 637 960</td>
 </tr>
@@ -13844,334 +14449,124 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *31-қосымша*
 
-<table>
-<tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
-</tr>
-<tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">239 830 029</th>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">10 681 797</td>
-</tr>
-<tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">11 096 303</td>
-</tr>
-<tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">32 022 613</td>
-</tr>
-<tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">8 338 557</td>
-</tr>
-<tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">23 431 384</td>
-</tr>
-<tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">22 035 565</td>
-</tr>
-<tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">7 766 604</td>
-</tr>
-<tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">13 319 537</td>
-</tr>
-<tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">15 006 294</td>
-</tr>
-<tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">11 137 057</td>
-</tr>
-<tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">4 745 116</td>
-</tr>
-<tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">8 009 790</td>
-</tr>
-<tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">9 580 888</td>
-</tr>
-<tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">36 000 680</td>
-</tr>
-<tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">12 432 153</td>
-</tr>
-<tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">7 986 248</td>
-</tr>
-<tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">6 239 443</td>
-</tr>
-<tr>
-<td colspan="65">_________________________</td>
-</tr>
-</table>
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *32-қосымша*
+> *Ескерту. 31-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>239 830 029</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">7 281 788</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>10 681 797</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">319 805</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>11 096 303</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">393 004</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>21 097 607</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">1 067 673</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>8 338 557</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">240 209</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>13 281 736</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">537 272</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>22 035 565</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">563 093</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>7 766 604</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">258 687</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>11 129 966</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">458 150</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>15 006 294</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">306 302</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>11 137 057</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">444 839</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>4 745 116</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">301 090</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>10 149 648</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">332 597</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>10 925 006</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">243 762</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>2 189 571</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">927 433</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>8 009 790</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">290 430</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>9 580 888</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">215 335</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>36 000 680</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">382 107</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>12 432 153</td>
 </tr>
 <tr>
-<td colspan="65">_________________________</td>
-</tr>
-</table>
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *33-қосымша*
-
-<table>
-<tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдарының әдістемелік орталықтарының (кабинеттерінің) әдіскерлеріне магистр дәрежесі үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>7 986 248</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">148 151</th>
-</tr>
-<tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">5 327</td>
-</tr>
-<tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">6 014</td>
-</tr>
-<tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">6 424</td>
-</tr>
-<tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">5 323</td>
-</tr>
-<tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">9 152</td>
-</tr>
-<tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">9 415</td>
-</tr>
-<tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">2 043</td>
-</tr>
-<tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">2 623</td>
-</tr>
-<tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">8 742</td>
-</tr>
-<tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">8 328</td>
-</tr>
-<tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">2 731</td>
-</tr>
-<tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">6 147</td>
-</tr>
-<tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">8 058</td>
-</tr>
-<tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">48 961</td>
-</tr>
-<tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">8 201</td>
-</tr>
-<tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">8 200</td>
-</tr>
-<tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">2 462</td>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>6 239 443</td>
 </tr>
 </table>
 
@@ -14179,115 +14574,378 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *34-қосымша*
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *32-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 32-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="58">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдарының медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="15">Облыстар мен қалалардың атауы</td>
-<td colspan="41">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>7 281 788</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="15">Барлығы:</th>
-<th colspan="41">2 969 302</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>319 805</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="15">Ақмола облысы</td>
-<td colspan="41">75 700</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>393 004</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="15">Ақтөбе облысы</td>
-<td colspan="41">116 535</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>690 778</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="15">Алматы облысы</td>
-<td colspan="41">206 130</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>240 209</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="15">Атырау облысы</td>
-<td colspan="41">151 247</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>290 076</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="15">Шығыс Қазақстан облысы</td>
-<td colspan="41">383 454</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>563 093</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="15">Жамбыл облысы</td>
-<td colspan="41">167 478</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>258 687</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="15">Батыс Қазақстан облысы</td>
-<td colspan="41">64 169</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>367 683</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="15">Қарағанды облысы</td>
-<td colspan="41">184 973</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>306 302</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="15">Қостанай облысы</td>
-<td colspan="41">198 325</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>444 839</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="15">Қызылорда облысы</td>
-<td colspan="41">132 523</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>301 090</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="15">Маңғыстау облысы</td>
-<td colspan="41">200 598</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>247 196</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="15">Павлодар облысы</td>
-<td colspan="41">159 328</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>376 895</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="15">Солтүстік Қазақстан облысы</td>
-<td colspan="41">146 311</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>90 467</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="15">Түркістан облысы</td>
-<td colspan="41">375 920</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>332 597</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="15">Алматы қаласы</td>
-<td colspan="41">91 961</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>243 762</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="15">Нұр-Сұлтан қаласы</td>
-<td colspan="41">213 910</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>927 433</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="15">Шымкент қаласы</td>
-<td colspan="41">100 740</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>290 430</td>
 </tr>
 <tr>
-<td colspan="58">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>215 335</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>382 107</td>
 </tr>
 </table>
+
+_________________________
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *33-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдарының әдістемелік орталықтарының (кабинеттерінің) әдіскерлеріне магистр дәрежесі үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 33-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td>Барлығы</td>
+<td>148 151</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>5 327</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>6 014</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>3 827</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>5 323</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>4 235</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>9 415</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>2 043</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>2 213</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>8 742</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>8 328</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>2 731</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>4 917</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>2 597</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>410</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>6 147</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>8 058</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>48 961</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>8 201</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>8 200</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>2 462</td>
+</tr>
+</table>
+
+_________________________
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
+> *34-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдарының медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 34-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td>Барлығы:</td>
+<td>2 969 302</td>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>75 700</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>116 535</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>109 787</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>151 247</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>320 036</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>167 478</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>64 169</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>171 666</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>198 325</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>132 523</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>200 598</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>63 418</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>96 343</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>13 307</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>159 328</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>146 311</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>375 920</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>91 961</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>213 910</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>100 740</td>
+</tr>
+</table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -14336,268 +14994,300 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *35-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарындағы білім алушылардың мемлекеттік стипендиясының мөлшерін ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 35-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="74">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарындағы білім алушылардың мемлекеттік стипендиясының мөлшерін ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td rowspan="2">Р/с №</td>
+<td rowspan="2">Облыстар мен қалалардың атауы</td>
+<td rowspan="2">Сомасы, мың теңге</td>
+<td colspan="2">оның ішінде</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">Р/с №</td>
-<td colspan="13" rowspan="2">Облыстар мен қалалардың атауы</td>
-<td colspan="13" rowspan="2">Сомасы, мың теңге</td>
-<td colspan="46">оның ішінде</td>
+<td>денсаулық сақтау саласында</td>
+<td>білім беру саласында</td>
 </tr>
 <tr>
-<td colspan="23">денсаулық сақтау саласында</td>
-<td colspan="23">білім беру саласында</td>
+<td></td>
+<td>Барлығы</td>
+<td>8 047 209</td>
+<td>579 667</td>
+<td>7 467 542</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="13">Барлығы</th>
-<th colspan="13">8 047 209</th>
-<th colspan="23">579 667</th>
-<th colspan="23">7 467 542</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>560 317</td>
+<td>19 225</td>
+<td>541 092</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="13">Ақмола облысы</td>
-<td colspan="13">560 317</td>
-<td colspan="23">19 225</td>
-<td colspan="23">541 092</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>452 311</td>
+<td>48 427</td>
+<td>403 884</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="13">Ақтөбе облысы</td>
-<td colspan="13">452 311</td>
-<td colspan="23">48 427</td>
-<td colspan="23">403 884</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>165 356</td>
+<td>21 603</td>
+<td>143 753</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="13">Алматы облысы</td>
-<td colspan="13">385 179</td>
-<td colspan="23">49 365</td>
-<td colspan="23">335 814</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>273 212</td>
+<td>31 273</td>
+<td>241 939</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="13">Атырау облысы</td>
-<td colspan="13">273 212</td>
-<td colspan="23">31 273</td>
-<td colspan="23">241 939</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>554 002</td>
+<td>20 014</td>
+<td>533 988</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="13">Шығыс Қазақстан облысы</td>
-<td colspan="13">898 724</td>
-<td colspan="23">43 527</td>
-<td colspan="23">855 197</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>298 051</td>
+<td>49 857</td>
+<td>248 194</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="13">Жамбыл облысы</td>
-<td colspan="13">298 051</td>
-<td colspan="23">49 857</td>
-<td colspan="23">248 194</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>371 710</td>
+<td>35 667</td>
+<td>336 043</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="13">Батыс Қазақстан облысы</td>
-<td colspan="13">371 710</td>
-<td colspan="23">35 667</td>
-<td colspan="23">336 043</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>349 529</td>
+<td>36 521</td>
+<td>313 008</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="13">Қарағанды облысы</td>
-<td colspan="13">410 164</td>
-<td colspan="23">43 877</td>
-<td colspan="23">366 287</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>378 490</td>
+<td>59 229</td>
+<td>319 261</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="13">Қостанай облысы</td>
-<td colspan="13">378 490</td>
-<td colspan="23">59 229</td>
-<td colspan="23">319 261</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>300 804</td>
+<td>32 334</td>
+<td>268 470</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="13">Қызылорда облысы</td>
-<td colspan="13">300 804</td>
-<td colspan="23">32 334</td>
-<td colspan="23">268 470</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>273 536</td>
+<td>8 248</td>
+<td>265 288</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="13">Маңғыстау облысы</td>
-<td colspan="13">273 536</td>
-<td colspan="23">8 248</td>
-<td colspan="23">265 288</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>344 722</td>
+<td>23 513</td>
+<td>321 209</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="13">Павлодар облысы</td>
-<td colspan="13">585 922</td>
-<td colspan="23"></td>
-<td colspan="23">585 922</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>219 823</td>
+<td>27 762</td>
+<td>192 061</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="13">Солтүстік Қазақстан облысы</td>
-<td colspan="13">218 654</td>
-<td colspan="23">12 684</td>
-<td colspan="23">205 970</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>60 635</td>
+<td>7 356</td>
+<td>53 279</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="13">Түркістан облысы</td>
-<td colspan="13">934 496</td>
-<td colspan="23">52 404</td>
-<td colspan="23">882 092</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>585 922</td>
+<td></td>
+<td>585 922</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="13">Алматы қаласы</td>
-<td colspan="13">1 026 812</td>
-<td colspan="23">42 193</td>
-<td colspan="23">984 619</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>218 654</td>
+<td>12 684</td>
+<td>205 970</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="13">Нұр-Сұлтан қаласы</td>
-<td colspan="13">412 396</td>
-<td colspan="23">28 842</td>
-<td colspan="23">383 554</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>934 496</td>
+<td>52 404</td>
+<td>882 092</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="13">Шымкент қаласы</td>
-<td colspan="13">266 431</td>
-<td colspan="23">22 515</td>
-<td colspan="23">243 916</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>1 026 812</td>
+<td>42 193</td>
+<td>984 619</td>
 </tr>
 <tr>
-<td colspan="74">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>412 396</td>
+<td>28 842</td>
+<td>383 554</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>266 431</td>
+<td>22 515</td>
+<td>243 916</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *36-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 36-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>369 788</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">369 788</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>22 268</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">22 268</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>14 687</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">14 687</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>19 662</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">46 905</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>9 476</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">9 476</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>15 978</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">27 479</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>17 056</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">17 056</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>15 161</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">15 161</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>19 780</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">22 742</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>22 031</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">22 031</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>18 241</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">18 241</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>10 186</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">10 186</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>11 501</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">19 662</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>27 243</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">10 897</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>2 962</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">36 718</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>19 662</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">49 747</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>10 897</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">8 765</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>36 718</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">17 767</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>49 747</td>
 </tr>
 <tr>
-<td colspan="65">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>8 765</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>17 767</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -14607,7 +15297,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне сұранысқа ие мамандықтар бойынша жастарды тегін техникалық және кәсіптік біліммен қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 36-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. Қаулы 36-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -14633,7 +15323,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>592 258</td>
+<td>329 296</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -14643,7 +15333,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>721 028</td>
+<td>389 249</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -14658,7 +15348,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>236 903</td>
+<td>170 570</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -14677,31 +15367,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>331 779</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>262 962</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>66 333</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>244 050</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>24 405</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>2 514 937</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>1 390 790</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>829 162</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>1 421 420</td>
 </tr>
@@ -14711,441 +15416,484 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *37-қосымша*
 
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 37-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>36 654 761</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">36 654 761</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>2 115 333</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">2 115 333</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>1 990 881</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">1 990 881</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>1 363 561</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">2 696 992</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>1 239 931</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">1 239 931</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>1 033 041</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">2 136 869</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>1 723 441</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">1 723 441</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>1 291 830</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">1 291 830</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>3 290 448</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">3 679 369</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>2 142 694</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">2 142 694</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>1 411 163</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">1 411 163</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>1 660 244</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">1 660 244</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>1 103 828</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">1 827 945</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>1 333 431</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">1 161 023</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>388 921</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">3 979 466</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>1 827 945</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">4 481 158</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>1 161 023</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">1 769 338</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>3 979 466</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">1 347 084</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>4 481 158</td>
 </tr>
 <tr>
-<td colspan="65">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>1 769 338</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>1 347 084</td>
 </tr>
 </table>
 
+_________________________
+
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *38-қосымша*
 
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 38-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>11 435 240</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">11 435 240</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>420 619</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">420 619</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>459 406</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">459 406</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>537 266</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">1 222 322</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>354 516</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">354 516</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>608 595</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">1 325 103</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>427 537</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">427 537</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>184 862</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">184 862</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 492 025</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">1 607 988</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>597 334</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">597 334</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>750 793</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">750 793</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>277 817</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">277 817</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>716 508</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">723 480</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>685 056</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">849 574</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>115 963</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">815 650</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>723 480</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">1 143 479</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>849 574</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">119 267</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>815 650</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">155 493</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>1 143 479</td>
 </tr>
 <tr>
-<td colspan="65">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>119 267</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>155 493</td>
 </tr>
 </table>
 
+_________________________
+
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *39-қосымша*
 
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарындағы медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 39-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="58">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарындағы медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="15">Облыстар мен қалалардың атауы</td>
-<td colspan="41">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>608 002</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="15">Барлығы:</th>
-<th colspan="41">608 002</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>35 268</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="15">Ақмола облысы</td>
-<td colspan="41">35 268</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>22 397</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="15">Ақтөбе облысы</td>
-<td colspan="41">22 397</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>16 469</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="15">Алматы облысы</td>
-<td colspan="41">36 466</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>20 445</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="15">Атырау облысы</td>
-<td colspan="41">20 445</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>25 579</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="15">Шығыс Қазақстан облысы</td>
-<td colspan="41">47 737</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>36 075</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="15">Жамбыл облысы</td>
-<td colspan="41">36 075</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>32 378</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="15">Батыс Қазақстан облысы</td>
-<td colspan="41">32 378</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>161 735</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="15">Қарағанды облысы</td>
-<td colspan="41">171 376</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>33 395</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="15">Қостанай облысы</td>
-<td colspan="41">33 395</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>25 073</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="15">Қызылорда облысы</td>
-<td colspan="41">25 073</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>26 754</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="15">Маңғыстау облысы</td>
-<td colspan="41">26 754</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>22 158</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="15">Павлодар облысы</td>
-<td colspan="41">21 667</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>19 997</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="15">Солтүстік Қазақстан облысы</td>
-<td colspan="41">23 041</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>9 641</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="15">Түркістан облысы</td>
-<td colspan="41">34 649</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>21 667</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="15">Алматы қаласы</td>
-<td colspan="41">22 384</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>23 041</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="15">Шымкент қаласы</td>
-<td colspan="41">18 897</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>34 649</td>
 </tr>
 <tr>
-<td colspan="58">_________________________</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>22 384</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Шымкент қаласы</td>
+<td>18 897</td>
 </tr>
 </table>
 
+_________________________
+
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *40-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көпбалалы және аз қамтылған отбасылардың балалары үшін жоғары білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын орналастыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 40-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="65">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көпбалалы және аз қамтылған отбасылардың балалары үшін жоғары білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын орналастыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="34">Облыстар мен қалалардың атауы</td>
-<td colspan="29">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>3 063 244</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="34">Барлығы</th>
-<th colspan="29">3 063 244</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>84 653</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="34">Ақмола облысы</td>
-<td colspan="29">84 653</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>128 447</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="34">Ақтөбе облысы</td>
-<td colspan="29">128 447</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>163 468</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="34">Алматы облысы</td>
-<td colspan="29">334 796</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>62 718</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="34">Атырау облысы</td>
-<td colspan="29">62 718</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>134 199</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="34">Шығыс Қазақстан облысы</td>
-<td colspan="29">134 199</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>125 376</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="34">Жамбыл облысы</td>
-<td colspan="29">125 376</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>93 974</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="34">Батыс Қазақстан облысы</td>
-<td colspan="29">93 974</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>51 216</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="34">Қарағанды облысы</td>
-<td colspan="29">51 216</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>8 369</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="34">Қостанай облысы</td>
-<td colspan="29">8 369</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>115 689</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="34">Қызылорда облысы</td>
-<td colspan="29">115 689</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>150 940</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="34">Маңғыстау облысы</td>
-<td colspan="29">150 940</td>
+<td>12.</td>
+<td>Жетісу облысы</td>
+<td>171 328</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="34">Павлодар облысы</td>
-<td colspan="29">39 115</td>
+<td>13.</td>
+<td>Павлодар облысы</td>
+<td>39 115</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="34">Солтүстік Қазақстан облысы</td>
-<td colspan="29">20 833</td>
+<td>14.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>20 833</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="34">Түркістан облысы</td>
-<td colspan="29">1 212 252</td>
+<td>15.</td>
+<td>Түркістан облысы</td>
+<td>1 212 252</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="34">Алматы қаласы</td>
-<td colspan="29">78 552</td>
+<td>16.</td>
+<td>Алматы қаласы</td>
+<td>78 552</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="34">Нұр-Сұлтан қаласы</td>
-<td colspan="29">38 645</td>
+<td>17.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>38 645</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="34">Шымкент қаласы</td>
-<td colspan="29">383 470</td>
+<td>18.</td>
+<td>Шымкент қаласы</td>
+<td>383 470</td>
 </tr>
 </table>
 
@@ -15370,7 +16118,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қаржы лизингі шарттарымен сатып алынған санитариялық көлік бойынша лизинг төлемдерін өтеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 42-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 42-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15406,7 +16154,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>926 066</td>
+<td>600 650</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -15440,26 +16188,31 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>325 416</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодар облысы</td>
 <td>1 131 534</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>14.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>366 361</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>15.</td>
 <td>Түркістан облысы</td>
 <td>1 457 903</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td>Алматы қаласы</td>
 <td>1 192 077</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>1 231 286</td>
 </tr>
@@ -15475,7 +16228,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне вакциналарды және басқа да иммундық-биологиялық препараттарды сатып алуға берілетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 43-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 43-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15512,9 +16265,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>7 310 729</td>
-<td>4 980 431</td>
-<td>2 330 298</td>
+<td>4 852 541</td>
+<td>3 337 847</td>
+<td>1 514 694</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -15526,8 +16279,8 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>3 931 967</td>
-<td>2 440 817</td>
+<td>2 847 426</td>
+<td>1 356 276</td>
 <td>1 491 150</td>
 </tr>
 <tr>
@@ -15574,41 +16327,55 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>1 084 541</td>
+<td>1 084 541</td>
+<td></td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>2 458 188</td>
+<td>1 642 584</td>
+<td>815 604</td>
+</tr>
+<tr>
+<td>14.</td>
 <td>Павлодар облысы</td>
 <td>1 840 124</td>
 <td>1 224 346</td>
 <td>615 778</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>15.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>1 175 083</td>
 <td>740 416</td>
 <td>434 667</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>16.</td>
 <td>Түркістан облысы</td>
 <td>8 235 594</td>
 <td>5 319 703</td>
 <td>2 915 891</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>17.</td>
 <td>Алматы қаласы</td>
 <td>4 773 351</td>
 <td>2 877 720</td>
 <td>1 895 631</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>18.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>3 756 668</td>
 <td>2 573 408</td>
 <td>1 183 260</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>19.</td>
 <td>Шымкент қаласы</td>
 <td>4 325 335</td>
 <td>2 520 259</td>
@@ -15620,110 +16387,114 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *44-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне саламатты өмір салтын насихаттауға берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 44-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="57">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне саламатты өмір салтын насихаттауға берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="29">Облыстар мен қалалардың атауы</td>
-<td colspan="26">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>512 083</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="29">Барлығы:</th>
-<th colspan="26">512 083</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>29 666</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="29">Ақмола облысы</td>
-<td colspan="26">29 666</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>22 574</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="29">Ақтөбе облысы</td>
-<td colspan="26">22 574</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>17 694</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="29">Алматы облысы</td>
-<td colspan="26">29 490</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>20 245</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="29">Атырау облысы</td>
-<td colspan="26">20 245</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>37 315</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="29">Шығыс Қазақстан облысы</td>
-<td colspan="26">37 315</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>26 292</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="29">Жамбыл облысы</td>
-<td colspan="26">26 292</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>19 157</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="29">Батыс Қазақстан облысы</td>
-<td colspan="26">19 157</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>27 004</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="29">Қарағанды облысы</td>
-<td colspan="26">27 004</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>31 253</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="29">Қостанай облысы</td>
-<td colspan="26">31 253</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>39 241</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="29">Қызылорда облысы</td>
-<td colspan="26">39 241</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>37 417</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="29">Маңғыстау облысы</td>
-<td colspan="26">37 417</td>
+<td>12.</td>
+<td>Жетісу облысы</td>
+<td>11 796</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="29">Павлодар облысы</td>
-<td colspan="26">23 916</td>
+<td>13.</td>
+<td>Павлодар облысы</td>
+<td>23 916</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="29">Солтүстік Қазақстан облысы</td>
-<td colspan="26">25 049</td>
+<td>14.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>25 049</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="29">Түркістан облысы</td>
-<td colspan="26">49 319</td>
+<td>15.</td>
+<td>Түркістан облысы</td>
+<td>49 319</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="29">Алматы қаласы</td>
-<td colspan="26">25 571</td>
+<td>16.</td>
+<td>Алматы қаласы</td>
+<td>25 571</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="29">Нұр-Сұлтан қаласы</td>
-<td colspan="26">38 392</td>
+<td>17.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>38 392</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="29">Шымкент қаласы</td>
-<td colspan="26">30 182</td>
+<td>18.</td>
+<td>Шымкент қаласы</td>
+<td>30 182</td>
 </tr>
 </table>
 
@@ -15737,7 +16508,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 45-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 45-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15763,7 +16534,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>178 967</td>
+<td>125 285</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -15773,7 +16544,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>140 558</td>
+<td>80 133</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -15788,7 +16559,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>276 106</td>
+<td>261 374</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -15807,31 +16578,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>60 425</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>53 682</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>14 732</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>221 113</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>90 711</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>56 313</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>53 764</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>125 953</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>130 949</td>
 </tr>
@@ -15847,7 +16633,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жергілікті атқарушы органдардың денсаулық сақтау саласындағы ұйымдары қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 46-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 46-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15873,7 +16659,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>255 381</td>
+<td>88 085</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -15883,7 +16669,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>314 819</td>
+<td>170 812</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -15898,7 +16684,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>332 368</td>
+<td>278 549</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -15917,31 +16703,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>144 007</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>167 296</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>53 819</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>216 173</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>93 470</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>191 968</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>182 928</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>208 905</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>186 797</td>
 </tr>
@@ -15957,7 +16758,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне тергеу изоляторларында және қылмыстық-атқару жүйесі мекемелерінде ұсталатын адамдарға медициналық көмек көрсетуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 47-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 47-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15982,48 +16783,48 @@ _________________________
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>30 096</td>
-</tr>
-<tr>
-<td>4.</td>
 <td>Атырау облысы</td>
 <td>31 037</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>4.</td>
 <td>Шығыс Қазақстан облысы</td>
 <td>41 124</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>5.</td>
 <td>Жамбыл облысы</td>
 <td>36 751</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>6.</td>
 <td>Батыс Қазақстан облысы</td>
 <td>28 845</td>
 </tr>
 <tr>
-<td>8.</td>
+<td>7.</td>
 <td>Қарағанды облысы</td>
 <td>55 772</td>
 </tr>
 <tr>
-<td>9.</td>
+<td>8.</td>
 <td>Қостанай облысы</td>
 <td>35 078</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>9.</td>
 <td>Қызылорда облысы</td>
 <td>39 856</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>10.</td>
 <td>Маңғыстау облысы</td>
 <td>36 474</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Жетісу облысы</td>
+<td>30 096</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -16056,115 +16857,128 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *48-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мәдениет ұйымдарының және архив мекемелерінің басқарушы және негізгі персоналына мәдениет ұйымдарындағы және архив мекемелеріндегі ерекше еңбек жағдайлары үшін лауазымдық айлықақысына қосымша ақылар белгілеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 48-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="50">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мәдениет ұйымдарының және архив мекемелерінің басқарушы және негізгі персоналына мәдениет ұйымдарындағы және архив мекемелеріндегі ерекше еңбек жағдайлары үшін лауазымдық айлықақысына қосымша ақылар белгілеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="22">Облыстар мен қалалардың атауы</td>
-<td colspan="26">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>13 157 932</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="22">Барлығы</th>
-<th colspan="26">13 157 932</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>752 741</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="22">Ақмола облысы</td>
-<td colspan="26">752 741</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>634 952</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="22">Ақтөбе облысы</td>
-<td colspan="26">634 952</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>434 279</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="22">Алматы облысы</td>
-<td colspan="26">933 631</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>594 358</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="22">Атырау облысы</td>
-<td colspan="26">594 358</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>622 189</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="22">Шығыс Қазақстан облысы</td>
-<td colspan="26">1 154 718</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>770 217</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="22">Жамбыл облысы</td>
-<td colspan="26">770 217</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>1 111 673</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="22">Батыс Қазақстан облысы</td>
-<td colspan="26">1 111 673</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 062 068</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="22">Қарағанды облысы</td>
-<td colspan="26">1 321 423</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>836 151</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="22">Қостанай облысы</td>
-<td colspan="26">836 151</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>747 195</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="22">Қызылорда облысы</td>
-<td colspan="26">747 195</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>486 642</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="22">Маңғыстау облысы</td>
-<td colspan="26">486 642</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>532 529</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="22">Павлодар облысы</td>
-<td colspan="26">729 256</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>499 352</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="22">Солтүстік Қазақстан облысы</td>
-<td colspan="26">623 525</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>259 355</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="22">Түркістан облысы</td>
-<td colspan="26">1 064 836</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>729 256</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="22">Алматы қаласы</td>
-<td colspan="26">482 771</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>623 525</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="22">Нұр-Сұлтан қаласы</td>
-<td colspan="26">561 930</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>1 064 836</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="22">Шымкент қаласы</td>
-<td colspan="26">351 913</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>482 771</td>
 </tr>
 <tr>
-<td colspan="50">_________________________</td>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>561 930</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>351 913</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -16198,110 +17012,124 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *49-қосымша*
 
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік ұйымдардың медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 49-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="47">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік ұйымдардың медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="14">Облыстар мен қалалардың атауы</td>
-<td colspan="31">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>1 961 824</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="14">Барлығы:</th>
-<th colspan="31">1 961 824</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>54 473</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="14">Ақмола облысы</td>
-<td colspan="31">54 473</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>68 477</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="14">Ақтөбе облысы</td>
-<td colspan="31">68 477</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>54 811</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="14">Алматы облысы</td>
-<td colspan="31">137 450</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>42 410</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="14">Атырау облысы</td>
-<td colspan="31">42 410</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>103 309</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="14">Шығыс Қазақстан облысы</td>
-<td colspan="31">138 266</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>90 734</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="14">Жамбыл облысы</td>
-<td colspan="31">90 734</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>55 891</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="14">Батыс Қазақстан облысы</td>
-<td colspan="31">55 891</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>186 314</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="14">Қарағанды облысы</td>
-<td colspan="31">205 678</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>35 408</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="14">Қостанай облысы</td>
-<td colspan="31">35 408</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>126 906</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="14">Қызылорда облысы</td>
-<td colspan="31">126 906</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>61 055</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="14">Маңғыстау облысы</td>
-<td colspan="31">61 055</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>34 957</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="14">Павлодар облысы</td>
-<td colspan="31">182 245</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>82 639</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="14">Солтүстік Қазақстан облысы</td>
-<td colspan="31">44 175</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>19 364</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="14">Түркістан облысы</td>
-<td colspan="31">214 529</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>182 245</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="14">Алматы қаласы</td>
-<td colspan="31">79 613</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>44 175</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="14">Нұр-Сұлтан қаласы</td>
-<td colspan="31">190 873</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>214 529</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="14">Шымкент қаласы</td>
-<td colspan="31">233 641</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>79 613</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>190 873</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>233 641</td>
 </tr>
 </table>
 
@@ -16309,110 +17137,124 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *50-қосымша*
 
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік орта және қосымша білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 50-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="50">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік орта және қосымша білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="22">Облыстар мен қалалардың атауы</td>
-<td colspan="26">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>19 365 887</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="22">Барлығы</th>
-<th colspan="26">19 365 887</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>947 205</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="22">Ақмола облысы</td>
-<td colspan="26">947 205</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>1 095 356</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="22">Ақтөбе облысы</td>
-<td colspan="26">1 095 356</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>801 090</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="22">Алматы облысы</td>
-<td colspan="26">1 827 792</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>605 806</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="22">Атырау облысы</td>
-<td colspan="26">605 806</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>1 078 978</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="22">Шығыс Қазақстан облысы</td>
-<td colspan="26">1 744 931</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>463 465</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="22">Жамбыл облысы</td>
-<td colspan="26">463 465</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>900 515</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="22">Батыс Қазақстан облысы</td>
-<td colspan="26">900 515</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 507 408</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="22">Қарағанды облысы</td>
-<td colspan="26">1 697 982</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>627 408</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="22">Қостанай облысы</td>
-<td colspan="26">627 408</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>1 059 707</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="22">Қызылорда облысы</td>
-<td colspan="26">1 059 707</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>982 543</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="22">Маңғыстау облысы</td>
-<td colspan="26">982 543</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>665 953</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="22">Павлодар облысы</td>
-<td colspan="26">1 052 279</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>1 026 702</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="22">Солтүстік Қазақстан облысы</td>
-<td colspan="26">886 851</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>190 574</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="22">Түркістан облысы</td>
-<td colspan="26">2 511 101</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>1 052 279</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="22">Алматы қаласы</td>
-<td colspan="26">968 280</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>886 851</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="22">Нұр-Сұлтан қаласы</td>
-<td colspan="26">679 009</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>2 511 101</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="22">Шымкент қаласы</td>
-<td colspan="26">1 315 657</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>968 280</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>679 009</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>1 315 657</td>
 </tr>
 </table>
 
@@ -16420,75 +17262,79 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *51-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кәсіпкерлік субъектілерінің санитариялық-гигиеналық тораптарды күтіп-ұстауға арналған шығындарының бір бөлігін субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 51-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="47">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кәсіпкерлік субъектілерінің санитариялық-гигиеналық тораптарды күтіп-ұстауға арналған шығындарының бір бөлігін субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстар мен қаланың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="14">Облыстар мен қаланың атауы</td>
-<td colspan="31">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>179 928</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="14">Барлығы:</th>
-<th colspan="31">179 928</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>6 663</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="14">Ақмола облысы</td>
-<td colspan="31">6 663</td>
+<td>2.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>26 864</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="14">Шығыс Қазақстан облысы</td>
-<td colspan="31">53 728</td>
+<td>3.</td>
+<td>Жамбыл облысы</td>
+<td>37 485</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="14">Жамбыл облысы</td>
-<td colspan="31">37 485</td>
+<td>4.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>35 403</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="14">Батыс Қазақстан облысы</td>
-<td colspan="31">35 403</td>
+<td>5.</td>
+<td>Қарағанды облысы</td>
+<td>5 415</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="14">Қарағанды облысы</td>
-<td colspan="31">5 415</td>
+<td>6.</td>
+<td>Қостанай облысы</td>
+<td>17 910</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="14">Қостанай облысы</td>
-<td colspan="31">17 910</td>
+<td>7.</td>
+<td>Маңғыстау облысы</td>
+<td>8 330</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="14">Маңғыстау облысы</td>
-<td colspan="31">8 330</td>
+<td>8.</td>
+<td>Абай облысы</td>
+<td>26 864</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="14">Павлодар облысы</td>
-<td colspan="31">4 165</td>
+<td>9.</td>
+<td>Павлодар облысы</td>
+<td>4 165</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="14">Солтүстік Қазақстан облысы</td>
-<td colspan="31">4 998</td>
+<td>10.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>4 998</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="14">Шымкент қаласы</td>
-<td colspan="31">5 831</td>
+<td>11.</td>
+<td>Шымкент қаласы</td>
+<td>5 831</td>
 </tr>
 </table>
 
@@ -16502,7 +17348,7 @@ _________________________
 
 ## Облыстық бюджеттерге «Ауыл – Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылым бойынша іс-шараларды іске асыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 52-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 52-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -16539,9 +17385,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>5 163 811</td>
-<td>1 279 027</td>
-<td>3 884 784</td>
+<td>4 052 020</td>
+<td>1 066 111</td>
+<td>2 985 909</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16553,9 +17399,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>5 663 861</td>
-<td>4 557 340</td>
-<td>1 106 521</td>
+<td>2 518 420</td>
+<td>2 076 088</td>
+<td>442 332</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16594,20 +17440,34 @@ _________________________
 </tr>
 <tr>
 <td>11.</td>
+<td>Абай облысы</td>
+<td>3 145 441</td>
+<td>2 481 252</td>
+<td>664 189</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Жетісу облысы</td>
+<td>1 111 791</td>
+<td>212 916</td>
+<td>898 875</td>
+</tr>
+<tr>
+<td>13.</td>
 <td>Павлодар облысы</td>
 <td>3 586 210</td>
 <td>2 668 512</td>
 <td>917 698</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>14.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>4 667 638</td>
 <td>2 553 486</td>
 <td>2 114 152</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>15.</td>
 <td>Түркістан облысы</td>
 <td>6 747 614</td>
 <td>2 127 401</td>
@@ -16619,109 +17479,114 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *53-қосымша*
 
-## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне 2021 – 2025 жылдарға арналған кәсіпкерлікті дамыту жөніндегі ұлттық жоба шеңберінде жаңа бизнес-идеяларды іске асыру үшін жас кәсіпкерлерге мемлекеттік гранттар беруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне «Бизнестің жол картасы-2025» бизнесті қолдау мен дамытудың мемлекеттік бағдарламасы шеңберінде жаңа бизнес-идеяларды іске асыру үшін жас кәсіпкерлерге мемлекеттік гранттар беруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 53-қосымшаның тақырыбы жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 53-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="2">Р/с №</td>
-<td colspan="24">Облыстар мен қалалардың атауы</td>
-<td colspan="22">Сомасы, мың теңге</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th colspan="2"></th>
-<th colspan="24">Барлығы:</th>
-<th colspan="22">600 000</th>
+<td></td>
+<td>Барлығы:</td>
+<td>600 000</td>
 </tr>
 <tr>
-<td colspan="2">1.</td>
-<td colspan="24">Ақмола облысы</td>
-<td colspan="22">39 000</td>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="2">2.</td>
-<td colspan="24">Ақтөбе облысы</td>
-<td colspan="22">21 000</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="2">3.</td>
-<td colspan="24">Алматы облысы</td>
-<td colspan="22">40 000</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>20 000</td>
 </tr>
 <tr>
-<td colspan="2">4.</td>
-<td colspan="24">Атырау облысы</td>
-<td colspan="22">27 000</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>27 000</td>
 </tr>
 <tr>
-<td colspan="2">5.</td>
-<td colspan="24">Шығыс Қазақстан облысы</td>
-<td colspan="22">21 000</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="2">6.</td>
-<td colspan="24">Жамбыл облысы</td>
-<td colspan="22">21 000</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="2">7.</td>
-<td colspan="24">Батыс Қазақстан облысы</td>
-<td colspan="22">39 000</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="2">8.</td>
-<td colspan="24">Қарағанды облысы</td>
-<td colspan="22">27 000</td>
+<td>8.</td>
+<td>Қостанай облысы</td>
+<td>30 000</td>
 </tr>
 <tr>
-<td colspan="2">9.</td>
-<td colspan="24">Қостанай облысы</td>
-<td colspan="22">30 000</td>
+<td>9.</td>
+<td>Қызылорда облысы</td>
+<td>70 000</td>
 </tr>
 <tr>
-<td colspan="2">10.</td>
-<td colspan="24">Қызылорда облысы</td>
-<td colspan="22">70 000</td>
+<td>10.</td>
+<td>Маңғыстау облысы</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="2">11.</td>
-<td colspan="24">Маңғыстау облысы</td>
-<td colspan="22">21 000</td>
+<td>11.</td>
+<td>Жетісу облысы</td>
+<td>20 000</td>
 </tr>
 <tr>
-<td colspan="2">12.</td>
-<td colspan="24">Павлодар облысы</td>
-<td colspan="22">39 000</td>
+<td>12.</td>
+<td>Ұлытау облысы</td>
+<td>27 000</td>
 </tr>
 <tr>
-<td colspan="2">13.</td>
-<td colspan="24">Солтүстік Қазақстан облысы</td>
-<td colspan="22">21 000</td>
+<td>13.</td>
+<td>Павлодар облысы</td>
+<td>39 000</td>
 </tr>
 <tr>
-<td colspan="2">14.</td>
-<td colspan="24">Түркістан облысы</td>
-<td colspan="22">48 000</td>
+<td>14.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>21 000</td>
 </tr>
 <tr>
-<td colspan="2">15.</td>
-<td colspan="24">Алматы қаласы</td>
-<td colspan="22">45 000</td>
+<td>15.</td>
+<td>Түркістан облысы</td>
+<td>48 000</td>
 </tr>
 <tr>
-<td colspan="2">16.</td>
-<td colspan="24">Нұр-Сұлтан қаласы</td>
-<td colspan="22">45 000</td>
+<td>16.</td>
+<td>Алматы қаласы</td>
+<td>45 000</td>
 </tr>
 <tr>
-<td colspan="2">17.</td>
-<td colspan="24">Шымкент қаласы</td>
-<td colspan="22">46 000</td>
+<td>17.</td>
+<td>Нұр-Сұлтан қаласы</td>
+<td>45 000</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Шымкент қаласы</td>
+<td>46 000</td>
 </tr>
 </table>
 
@@ -16735,7 +17600,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мәслихаттар депутаттары қызметінің тиімділігін арттыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 53-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. Қаулы 53-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -16761,7 +17626,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>81 462</td>
+<td>47 785</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16771,7 +17636,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>76 851</td>
+<td>47 110</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16786,7 +17651,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>72 173</td>
+<td>56 866</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -16805,31 +17670,46 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>29 741</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>33 677</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>15 307</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>53 061</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>50 579</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>72 967</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>20 066</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>19 104</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>19 206</td>
 </tr>
@@ -16915,7 +17795,7 @@ _________________________
 
 ## Облыстық бюджеттерге көлiк инфрақұрылымының басым жобаларын қаржыландыруға берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 55-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 55-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -16952,9 +17832,9 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>6 495 308</td>
+<td>5 217 578</td>
 <td></td>
-<td>6 495 308</td>
+<td>5 217 578</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16966,9 +17846,9 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>3 255 143</td>
+<td>1 707 380</td>
 <td></td>
-<td>3 255 143</td>
+<td>1 707 380</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -16987,9 +17867,9 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>5 994 895</td>
+<td>4 795 609</td>
 <td></td>
-<td>5 994 895</td>
+<td>4 795 609</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -17014,20 +17894,41 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>1 547 763</td>
+<td></td>
+<td>1 547 763</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>1 277 730</td>
+<td></td>
+<td>1 277 730</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>1 199 286</td>
+<td></td>
+<td>1 199 286</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>5 618 374</td>
 <td></td>
 <td>5 618 374</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>10 609 437</td>
 <td></td>
 <td>10 609 437</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>14 057 815</td>
 <td></td>
@@ -17087,7 +17988,7 @@ _________________________
 
 ## Облыстық бюджеттерге аудандық маңызы бар қалалар, ауылдар, кенттер, ауылдық округтер әкімдері сайлауын қамтамасыз етуге және өткізуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 57-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 57-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -17103,17 +18004,17 @@ _________________________
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>316 775</td>
+<td>183 685</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Ақтөбе облысы</td>
-<td>213 730</td>
+<td>188 730</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>348 311</td>
+<td>399 292</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -17123,22 +18024,22 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>260 807</td>
+<td>100 807</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбыл облысы</td>
-<td>210 334</td>
+<td>165 334</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>215 649</td>
+<td>206 649</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>233 383</td>
+<td>211 383</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -17157,16 +18058,31 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>130 000</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>191 109</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>22 000</td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>206 090</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>288 411</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>305 396</td>
 </tr>
@@ -17301,182 +18217,193 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *58-қосымша*
+
+## Мамандарды әлеуметтік қолдау шараларын іске асыру үшін жергілікті атқарушы органдарға берілетін бюджеттік кредиттердің сомаларын бөлу
+
+> *Ескерту. 58-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="59">
-<strong>Мамандарды әлеуметтік қолдау шараларын іске асыру үшін жергілікті атқарушы органдарға берілетін бюджеттік кредиттердің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="7">Р/с №</td>
-<td colspan="32">Облыстардың атауы</td>
-<td colspan="20">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы:</td>
+<td>20 000 000</td>
 </tr>
 <tr>
-<th colspan="7"></th>
-<th colspan="32">Барлығы:</th>
-<th colspan="20">20 000 000</th>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>1 189 976</td>
 </tr>
 <tr>
-<td colspan="7">1.</td>
-<td colspan="32">Ақмола облысы</td>
-<td colspan="20">1 189 976</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>647 825</td>
 </tr>
 <tr>
-<td colspan="7">2.</td>
-<td colspan="32">Ақтөбе облысы</td>
-<td colspan="20">647 825</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>1 497 809</td>
 </tr>
 <tr>
-<td colspan="7">3.</td>
-<td colspan="32">Алматы облысы</td>
-<td colspan="20">2 554 542</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>225 131</td>
 </tr>
 <tr>
-<td colspan="7">4.</td>
-<td colspan="32">Атырау облысы</td>
-<td colspan="20">225 131</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>882 119</td>
 </tr>
 <tr>
-<td colspan="7">5.</td>
-<td colspan="32">Шығыс Қазақстан облысы</td>
-<td colspan="20">1 585 103</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>1 332 542</td>
 </tr>
 <tr>
-<td colspan="7">6.</td>
-<td colspan="32">Жамбыл облысы</td>
-<td colspan="20">1 332 542</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>1 745 910</td>
 </tr>
 <tr>
-<td colspan="7">7.</td>
-<td colspan="32">Батыс Қазақстан облысы</td>
-<td colspan="20">1 745 910</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>1 291 054</td>
 </tr>
 <tr>
-<td colspan="7">8.</td>
-<td colspan="32">Қарағанды облысы</td>
-<td colspan="20">1 552 941</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>1 130 247</td>
 </tr>
 <tr>
-<td colspan="7">9.</td>
-<td colspan="32">Қостанай облысы</td>
-<td colspan="20">1 130 247</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>2 375 357</td>
 </tr>
 <tr>
-<td colspan="7">10.</td>
-<td colspan="32">Қызылорда облысы</td>
-<td colspan="20">2 375 357</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>960 251</td>
 </tr>
 <tr>
-<td colspan="7">11.</td>
-<td colspan="32">Маңғыстау облысы</td>
-<td colspan="20">960 251</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>702 984</td>
 </tr>
 <tr>
-<td colspan="7">12.</td>
-<td colspan="32">Павлодар облысы</td>
-<td colspan="20">1 199 165</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>1 056 733</td>
 </tr>
 <tr>
-<td colspan="7">13.</td>
-<td colspan="32">Солтүстік Қазақстан облысы</td>
-<td colspan="20">1 392 134</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>261 887</td>
 </tr>
 <tr>
-<td colspan="7">14.</td>
-<td colspan="32">Түркістан облысы</td>
-<td colspan="20">2 108 876</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>1 199 165</td>
 </tr>
 <tr>
-<td colspan="59">_________________________</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>1 392 134</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>2 108 876</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
+> *2021 жылғы 9 желтоқсандағы*  
+> *№ 872 қаулысына*  
 > *59-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кондоминиум объектілерінің ортақ мүлкіне күрделі жөндеу жүргізуге кредит берудің сомаларын бөлу
+
+> *Ескерту. 59-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
-<td colspan="59">
-<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кондоминиум объектілерінің ортақ мүлкіне күрделі жөндеу жүргізуге кредит берудің сомаларын бөлу</strong>
-</td>
+<td>Р/с №</td>
+<td>Облыстардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td colspan="6">Р/с №</td>
-<td colspan="26">Облыстардың атауы</td>
-<td colspan="27">Сомасы, мың теңге</td>
+<td></td>
+<td>Барлығы</td>
+<td>11 179 001</td>
 </tr>
 <tr>
-<th colspan="6"></th>
-<th colspan="26">Барлығы</th>
-<th colspan="27">11 179 001</th>
+<td>1.</td>
+<td>Ақтөбе облысы</td>
+<td>1 415 086</td>
 </tr>
 <tr>
-<td colspan="6">1.</td>
-<td colspan="26">Ақтөбе облысы</td>
-<td colspan="27">1 415 086</td>
+<td>2.</td>
+<td>Атырау облысы</td>
+<td>1 673 670</td>
 </tr>
 <tr>
-<td colspan="6">2.</td>
-<td colspan="26">Алматы облысы</td>
-<td colspan="27">214 117</td>
+<td>3.</td>
+<td>Жамбыл облысы</td>
+<td>3 223 637</td>
 </tr>
 <tr>
-<td colspan="6">3.</td>
-<td colspan="26">Атырау облысы</td>
-<td colspan="27">1 673 670</td>
+<td>4.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>279 684</td>
 </tr>
 <tr>
-<td colspan="6">4.</td>
-<td colspan="26">Жамбыл облысы</td>
-<td colspan="27">3 223 637</td>
+<td>5.</td>
+<td>Қарағанды облысы</td>
+<td>190 237</td>
 </tr>
 <tr>
-<td colspan="6">5.</td>
-<td colspan="26">Батыс Қазақстан облысы</td>
-<td colspan="27">279 684</td>
+<td>6.</td>
+<td>Қызылорда облысы</td>
+<td>622 160</td>
 </tr>
 <tr>
-<td colspan="6">6.</td>
-<td colspan="26">Қарағанды облысы</td>
-<td colspan="27">190 237</td>
+<td>7.</td>
+<td>Маңғыстау облысы</td>
+<td>1 422 648</td>
 </tr>
 <tr>
-<td colspan="6">7.</td>
-<td colspan="26">Қызылорда облысы</td>
-<td colspan="27">622 160</td>
+<td>8.</td>
+<td>Жетісу облысы</td>
+<td>214 117</td>
 </tr>
 <tr>
-<td colspan="6">8.</td>
-<td colspan="26">Маңғыстау облысы</td>
-<td colspan="27">1 422 648</td>
+<td>9.</td>
+<td>Павлодар облысы</td>
+<td>99 050</td>
 </tr>
 <tr>
-<td colspan="6">9.</td>
-<td colspan="26">Павлодар облысы</td>
-<td colspan="27">99 050</td>
+<td>10.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>1 083 348</td>
 </tr>
 <tr>
-<td colspan="6">10.</td>
-<td colspan="26">Солтүстік Қазақстан облысы</td>
-<td colspan="27">1 083 348</td>
-</tr>
-<tr>
-<td colspan="6">11.</td>
-<td colspan="26">Түркістан облысы</td>
-<td colspan="27">955 364</td>
-</tr>
-<tr>
-<td colspan="59">_________________________</td>
+<td>11.</td>
+<td>Түркістан облысы</td>
+<td>955 364</td>
 </tr>
 </table>
+
+_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -17486,17 +18413,19 @@ _________________________
 
 ## Қазақстан Республикасының Үкіметі резервінің сомаларын бөлу
 
-> *Ескерту. 60-қосымша жаңа редакцияда – ҚР Үкіметінің 07.01.2022 № 1 (01.01.2022 бастап қолданысқа енгiзiледi); 18.03.2022 № 145 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 60-қосымша жаңа редакцияда – ҚР Үкіметінің 07.01.2022 № 1 (01.01.2022 бастап қолданысқа енгiзiледi); 18.03.2022 № 145 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
-<td colspan="3">Әкімші</td>
+<td colspan="2">Әкімші</td>
+<td></td>
 <td rowspan="3">Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td>Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -17522,21 +18451,21 @@ _________________________
 <td></td>
 <td>100</td>
 <td>Қазақстан Республикасының және басқа мемлекеттердің аумағындағы табиғи және техногендік сипаттағы төтенше жағдайларды жоюға арналған Қазақстан Республикасы Үкіметінің төтенше резерві</td>
-<td>59 527 050</td>
+<td>76 527 050</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>101</td>
 <td>Қазақстан Республикасы Үкіметінің шұғыл шығындарға арналған резерві</td>
-<td>419 080 071</td>
+<td>401 680 071</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>102</td>
 <td>Қазақстан Республикасы Үкіметінің соттар шешімдері бойынша міндеттемелерді орындауға арналған резерві</td>
-<td>600 000</td>
+<td>1 000 000</td>
 </tr>
 <tr>
 <td></td>
@@ -17557,7 +18486,7 @@ _________________________
 
 ## Облыстық бюджеттерден, республикалық маңызы бар қалалардың, астана бюджеттерiнен берілетін трансферттер түсімдерінің сомаларын бөлу
 
-> *Ескерту. 61-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 61-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -17626,8 +18555,8 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>17 979 786</td>
-<td>14 600 353</td>
+<td>12 319 289</td>
+<td>8 939 856</td>
 <td>79 049</td>
 <td></td>
 <td></td>
@@ -17656,8 +18585,8 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>20 739 944</td>
-<td>13 999 891</td>
+<td>17 780 820</td>
+<td>11 040 767</td>
 <td>80 154</td>
 <td>51 380</td>
 <td></td>
@@ -17695,6 +18624,26 @@ _________________________
 </tr>
 <tr>
 <td>12.</td>
+<td>Абай облысы</td>
+<td>5 660 497</td>
+<td>5 660 497</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>2 959 124</td>
+<td>2 959 124</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.</td>
 <td>Павлодар облысы</td>
 <td>67 373 921</td>
 <td>8 488 033</td>
@@ -17704,7 +18653,7 @@ _________________________
 <td>3 335 019</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
 <td>13 184 627</td>
 <td>7 563 553</td>
@@ -17714,7 +18663,7 @@ _________________________
 <td>5 572 976</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>17.</td>
 <td>Түркістан облысы</td>
 <td>20 093 509</td>
 <td>18 834 930</td>
@@ -17724,7 +18673,7 @@ _________________________
 <td>1 181 837</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>18.</td>
 <td>Алматы қаласы</td>
 <td>26 191 603</td>
 <td>18 836 418</td>
@@ -17734,7 +18683,7 @@ _________________________
 <td>7 270 697</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>19.</td>
 <td>Нұр-Сұлтан қаласы</td>
 <td>23 998 971</td>
 <td>16 471 725</td>
@@ -17744,7 +18693,7 @@ _________________________
 <td>7 457 353</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>20.</td>
 <td>Шымкент қаласы</td>
 <td>64 425 764</td>
 <td>11 009 000</td>
@@ -17989,7 +18938,7 @@ __________________________________________________
 
 ## 2022 жылға арналған мемлекеттік тапсырмалардың тізбесі
 
-> *Ескерту. 63-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 63-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 мың теңге
 
@@ -18173,10 +19122,10 @@ __________________________________________________
 </tr>
 <tr>
 <td>12</td>
-<td>«Қазақпарат» халықаралық ақпараттық агенттігі» АҚ арқылы Интернет желісінде мемлекеттік-ақпараттық саясатты жүргізу</td>
+<td>«Qazcontent» АҚ арқылы Интернет желісінде мемлекеттік-ақпараттық саясатты жүргізу</td>
 <td>Интернет желісінде мемлекеттік ақпараттық саясатты жүргізу жөніндегі көрсетілетін қызмет</td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
-<td>«Қазақпарат» халықаралық ақпараттық агенттігі» АҚ</td>
+<td>«Qazcontent» АҚ</td>
 <td>
 003 «Мемлекеттік ақпараттық саясатты жүргізу»
 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
@@ -18316,6 +19265,18 @@ __________________________________________________
 <td>6 157 828</td>
 </tr>
 <tr>
+<td>23-1</td>
+<td>Әлеуметтік-еңбек саласының ақпараттандыру объектілерін сүйемелдеу және оларға жүйелік-техникалық қызмет көрсету, өзге де ақпараттандыру объектілерімен интеграциялау, сондай-ақ әлеуметтік-еңбек саласының деректерін талдау және өңдеу</td>
+<td>Әлеуметтік-еңбек саласының ақпараттандыру объектілерін сүйемелдеу және оларға жүйелік-техникалық қызмет көрсету, өзге де ақпараттандыру объектілерімен интеграциялау, сондай-ақ әлеуметтік-еңбек саласының деректерін талдау және өңдеу</td>
+<td>Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлігі</td>
+<td>«Еңбек ресурстарын дамыту орталығы» АҚ</td>
+<td>
+001 «Еңбек, халықты жұмыспен қамту, әлеуметтік қорғау және көші-қон саласындағы мемлекеттік саясатты қалыптастыру»
+104 «Ақпараттық жүйелердің жұмыс істеуін қамтамасыз ету және мемлекеттік органды ақпараттық-техникалық қамтамасыз ету»
+</td>
+<td>1 348 520</td>
+</tr>
+<tr>
 <td>24</td>
 <td>Мүгедектерге протездік-ортопедиялық көмек көрсету бойынша әдіснамалық қамтамасыз ету, соның ішінде протездік-ортопедиялық көмек көрсету</td>
 <td>Зақымданудың ерекше ауыр және атипиялық түрлері бар мүгедектерді протездеу, сондай-ақ бастапқы протездеу, жаңа технологиялар бойынша дайындалатын протездік-ортопедиялық бұйымдарды енгізу, протездік-ортопедиялық бұйымдардың жаңа түрлеріне технологиялық процестерді әзірлеу</td>
@@ -18338,6 +19299,18 @@ __________________________________________________
 102 «Есту қабілеті бұзылған балалардың кохлеарлық имплантациядан кейін есту-сөйлеуін оңалту»
 </td>
 <td>331 086</td>
+</tr>
+<tr>
+<td>25-1</td>
+<td>Еңбек нарығын ақпараттық-талдамалық сүйемелдеу және әлеуметтік-еңбек саласындағы халықты жұмыспен қамту орталықтарын әдіснамалық қолдау</td>
+<td>Еңбек нарығын ақпараттық-талдамалық сүйемелдеу және әлеуметтік-еңбек саласындағы халықты жұмыспен қамту орталықтарын әдіснамалық қолдау</td>
+<td>Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлігі</td>
+<td>«Еңбек ресурстарын дамыту орталығы» АҚ</td>
+<td>
+068 «Нәтижелі жұмыспен қамтуды дамыту»
+101 «Нәтижелі жұмыспен қамтуды дамыту шеңберінде ағымдағы іс-шараларды өткізу»
+</td>
+<td>325 199</td>
 </tr>
 <tr>
 <td>26</td>
@@ -18840,6 +19813,42 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>279 080</td>
 </tr>
 <tr>
+<td>63-1</td>
+<td>Электрондық денсаулық сақтауды дамытудың функционалдық және институционалдық орнықтылығын қамтамасыз ету жөніндегі қызметті көрсету</td>
+<td>Электрондық денсаулық сақтауды реформалауға, оның ішінде ұзақ мерзімді IT-әлеуетін қалыптастыруға және Қазақстан Республикасының «электрондық денсаулық сақтау» саласын дамыту шеңберінде функционалдық, институционалдық орнықтылықты қамтамасыз етуге байланысты іс-шараларды орындау, сондай-ақ тегін медициналық көмектің кепілдік берілген көлемін көрсету кезінде және МӘМС шеңберінде инновациялық технологияларды қолдану мүмкіндігін беру мақсатында Қазақстан Республикасы Денсаулық сақтау министрлігінің ақпараттық жүйелерін түрлендіру</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Республикалық электрондық денсаулық сақтау орталығы» ШЖҚ РМК</td>
+<td>
+001 «Денсаулық сақтау саласындағы мемлекеттік саясатты қалыптастыру»
+103 «Әлеуметтанушылық, талдамалық зерттеулер жүргізу және консалтингтік қызметтер көрсету»
+</td>
+<td>244 361</td>
+</tr>
+<tr>
+<td>63-2</td>
+<td>Денсаулық сақтау саласындағы кейбір бағдарламалық кешендер мен электрондық тіркелімдерді (ақпараттық жүйелерді) сүйемелдеу, Қазақстан Республикасының ұлттық телемедицина желісін пайдалануды қамтамасыз ету жөніндегі көрсетілетінқызметтер</td>
+<td>Денсаулық сақтау саласындағы бағдарламалық кешендерді (ақпараттық жүйелерді) сүйемелдеу</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Республикалық электрондық денсаулық сақтау орталығы» ШЖҚ РМК</td>
+<td>
+001 «Денсаулық сақтау саласындағы мемлекеттік саясатты қалыптастыру»
+104 «Ақпараттық жүйелердің жұмыс істеуін қамтамасыз ету және мемлекеттік органды ақпараттық-техникалық қамтамасыз ету»
+</td>
+<td>340 085</td>
+</tr>
+<tr>
+<td>63-3</td>
+<td>Тегін медициналық көмектің кепілдік берілген көлемін қаржыландыруды қамтамасыз ету жөніндегі көрсетілетін қызметтер</td>
+<td>Тегін медициналық көмектің кепілдік берілген көлемін қаржыландыруды қамтамасыз ету жөніндегі көрсетілетін қызметтер</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Әлеуметтік медициналық сақтандыру қоры» КеАҚ</td>
+<td>
+067 «Тегін медициналық көмектің кепілдік берілген көлемін қамтамасыз ету»
+102 «Тегін медициналық көмектің кепілдік берілген көлемін қаржыландыруды қамтамасыз ету жөніндегі қызметтер»
+</td>
+<td>203 233</td>
+</tr>
+<tr>
 <td>64</td>
 <td>Қазақстан Республикасында санитариалық авиацияны дамыту бойынша қызметтерді ұйымдастыру</td>
 <td>
@@ -18870,14 +19879,14 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <tr>
 <td>66</td>
 <td>Инфекцияның аса қауіпті табиғи ошақтарының аумақтарында халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету</td>
-<td>Оба және басқа да аса қауіпті инфекциялар бойынша энзоотиялық аумақтарды эпидемиологиялық және эпизоотологиялық зерттеп-қарау, кеміргіштер қоныстанған аумақтарда оба және басқа да аса қауіпті инфекциялар бойынша энзоотиялық елді мекендерді зерттеп-қарау, аса қауіпті инфекциялардың профилактикасы және ден қою шаралары жөніндегі іс-шараларды ұйымдастыруда және жүргізуде консультациялық-әдістемелік көмек көрсету үшін АҚИҰҒО консультант мамандарының Қазақстан Республикасының өңірлеріне шығуын ұйымдастыру</td>
-<td>Қазақстан Республикасының Денсаулық сақтау министрлігі</td>
+<td>Оба және басқа да аса қауіпті инфекциялар бойынша энзоотиялық аумақтарды эпидемиологиялық және эпизоотологиялық зерттеп-қарау, кеміргіштер қоныстанған аумақтарда оба және басқа да аса қауіпті инфекциялар бойынша энзоотиялық елді мекендерді зерттеп-қарау, аса қауіпті инфекциялардың профилактикасы және оларға ден қою шаралары жөніндегі іс-шараларды ұйымдастыруда және жүргізуде консультациялық-әдістемелік көмек көрсету үшін АҚИҰҒО консультант мамандарының Қазақстан Республикасының өңірлеріне шығуын ұйымдастыру</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Масғұт Айқымбаев атындағы аса қауіпті инфекциялар ұлттық ғылыми орталығы» ШЖҚ РМК</td>
 <td>
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>8 037 918</td>
+<td>8 545 193</td>
 </tr>
 <tr>
 <td>67</td>
@@ -18907,33 +19916,93 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>69</td>
 <td>Қоғамдық денсаулықты сақтау</td>
 <td>
-1. Референттік зертханалық зерттеулер мен аспаптық өлшеулер жүргізу.
+1. Референтік зертханалық зерттеулер мен аспаптық өлшеулер жүргізу.
 2. Сапаны сырттай бағалау бағдарламаларын (ССБ) ұйымдастыру және өткізу.
-3. Санитариялық-эпидемиологиялық мониторинг жүргізу, ҚР өңірлерінен ақпарат жинау, Қазақстан Республикасы Денсаулық сақтау министрлігі мен Қазақстан Республикасы халқының санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету жөніндегі санитариялық-эпидемиологиялық бақылау комитеті үшін ұсынымдармен бірге алынған деректерді статистикалық өңдеу, агрегаттау және талдау.
-4. Қазақстан Республикасында Ұлттық шолғыншы эпидемиологиялық қадағалау мен микробқа қарсы резистенттілікті бақылау жүйесін енгізу.
+3. Санитариялық-эпидемиологиялық мониторинг жүргізу, Қазақстан Республикасының өңірлерінен ақпарат жинау, Қазақстан Республикасы Денсаулық сақтау министрлігі мен Қазақстан Республикасы халқының санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету жөніндегі санитариялық-эпидемиологиялық бақылау комитеті үшін ұсынымдары бар бірге алынған деректерді статистикалық өңдеу, агрегаттау және талдау.
+4. Қазақстан Республикасында шолғыншы эпидемиологиялық қадағалау мен микробқа қарсы резистенттілікті бақылаудың ұлттық жүйесін енгізу.
 5. Қоғамдық денсаулық сақтау саласындағы төтенше жағдайлар жөніндегі жедел орталықтың қызметін қамтамасыз ету.
-6. Медициналық көмек көрсету кезінде инфекциялық бақылау инфекцияларының профилактикасы бағдарламаларының деректерін жинау, бағалау және мониторингтеу жүйесін өнеркәсіптік іске асыру.
-7. Республикалық семинарлар, дөңгелек үстелдер, вебинарлар, тренингтер өткізу және жұмыс орындарында оқыту әдісімен Санитариялық-эпидемиологиялық бақылау комитеті мен ынтымақтасушы министрліктердің (ведомстволардың) өңірлік мамандарының кадрлық әлеуетін арттыру.
+6. Медициналық көмек көрсету кезінде инфекциялардың профилактикасы, инфекциялық бақылау бағдарламаларының деректерін жинау, бағалау және мониторингтеу жүйесін өнеркәсіптік іске асыру.
+7. Республикалық семинарлар, дөңгелек үстелдер, вебинарлар, тренингтер өткізу және жұмыс орындарында оқыту әдісімен Санитариялық-эпидемиологиялық бақылау комитеті мен ынтымақтасушы министрліктер (ведомстволар) өңірлік мамандарының кадрлық әлеуетін арттыру.
+8. Ғылыми негіздеме мен әлемдік тәжірибені ескере отырып, санитариялық қағидаларды әзірлеу (қайта қарау). Зертханалық зерттеулердің көлемін, тізбесі мен жиілігін айқындайтын санитариялық-эпидемиологиялық сараптама жүргізу қағидалары мен тәртібін әзірлеу.
+9. Санитарлық-эпидемиологиялық саламаттылық мәселелері бойынша ұйымдастырушылық-әдістемелік, практикалық көмек, эпидемиологиялық тексеру көрсету
 </td>
-<td>Қазақстан Республикасының Денсаулық сақтау министрлігі</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Қоғамдық денсаулық сақтау ұлттық орталығы» ШЖҚ РМК</td>
 <td>
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>758 200</td>
+<td>831 539</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>69-1</td>
+<td>Денсаулық сақтау саласында салауатты өмір салтын насихаттау</td>
 <td>
-8. Ғылыми негіздеме мен әлемдік тәжірибені ескере отырып, санитариялық қағидаларды әзірлеу (қайта қарау). Зертханалық зерттеулердің көлемін, тізбесі мен еселігін айқындайтын санитариялық-эпидемиологиялық сараптама жүргізу қағидалары мен тәртібін әзірлеу.
-9. Санитарлық-эпидемиологиялық салауаттылық мәселелері бойынша ұйымдастырушылық-әдістемелік, практикалық көмек, эпидемиологиялық тексерулер көрсету
+1. «Саламатты өмір салтын ұстанатын Қазақстан азаматтарының үлесі» көрсеткішін есептеу үшін әлеумет танушылық зерттеуді талдау.
+2. 070 «Қоғамдық денсаулықты қорғау» бюджеттік бағдарламасы бойынша 102 «Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне саламатты өмір салтын насихаттауға берілетін ағымдағы нысаналы трансферттер» кіші бағдарламасы бойынша мемлекеттік тапсырысты іске асыратын ұйымдардың қызметін мониторингтеу және бағалау.
+3. Саламатты өмір салтын насихаттау жөніндегі ұлттық бағдарламаларды іске асыру туралы ақпарат әзірлеу және жинау.
+4. Жастар денсаулық орталықтарының қызметі бойынша талдамалық есеп жинау.
+5. ДДҰ-ның «Салауатты қалалар мен өңірлер», «Денсаулықты нығайтуға ықпал ететін мектептер», «Салауатты университеттер», «Салауатты жұмыс орындары» жобасын іске асыру бойынша ақпаратты жинау және талдау.
+6. Жастар денсаулық орталықтары жобаларының қызметін өңірлерге барып мониторингтеу және бағалау.
+7. Мінез-құлықтық қауіп факторларының (темекі шегу, алкоголь тұтыну, дұрыс тамақтанбау, дене белсенділігінің төмендігі) алдын алу жөніндегі іс-шаралар туралы талдамалық есеп жинау.
+8. Қазақстан Республикасы Денсаулық сақтау министрлігінің 17.09.2018 жылғы № 541 бұйрығымен бекітілген Халықтың салауатты өмір салтын ұстануын арттыру жөніндегі 2019-2022 жылдарға арналған іс-шаралар жоспарының орындалуы бойынша ақпарат жинау.
+9. Темекіге қарсы орталықтар мен денсаулық мектептерінің қызметі бойынша ақпарат жинау.
+10. Аурулардың алдын алу және саламатты өмір салтын насихаттау жөніндегі мемлекеттік әлеуметтік жобалардың іске асырылуы туралы ақпарат жинау.
+11. Ұлттық скринингтік бағдарламаның іске асырылуын талдау.
+12. Денсаулықты сақтау және нығайту жөнінде бірыңғай стильде 20 инфографика әзірлеу.
+13. Денсаулыққа қатысты жауапты мінез-құлықты арттыруға бағытталған мемлекеттік және орыс тілдерінде 8 бейнеролик жасау.
+14. Өңірлердің СӨС мамандары арасында оқыту семинарларын ұйымдастыру бойынша ақпарат.
+15. Қоғамдық денсаулық сақтау мәселелері жөніндегі ғылыми-практикалық медициналық журналды жетілдіру жөніндегі есеп және шығарылған журналдың 1 данасы.
+16. Репродуктивтік денсаулық мәселелері бойынша халықтың хабардар болуы туралы талдамалық ақпарат.
+17. Темекі түтінінсіз қолайлы орта құру және халықтың темекінің, қорқордың және жаңа темекі өнімдерінің зияны туралы шынайы пікірін қалыптастыру
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Қоғамдық денсаулық сақтау ұлттық орталығы» ШЖҚ РМК</td>
+<td>
+070 «Қоғамдық денсаулықты сақтау»
+104 «Саламатты өмір салтын насихаттау»
+</td>
+<td>146 987</td>
+</tr>
+<tr>
+<td>69-2</td>
+<td>ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыру</td>
+<td>
+1. Қазақстан Республикасындағы АИТВ-инфекциясы бойынша жағдайға эпидемиологиялық мониторинг, оған мыналар кіреді:
+- АИТВ-инфекциясының жағдайларын электрондық қадағалау, осал топтарда АИТВ-инфекциясының таралуын эпидемиологиялық қадағалау, эпидемиологиялық жағдайды болжау және ықтимал пайда болуына уақтылы ден қою мақсатында АИТВ-инфекциясы бойынша эпидемиологиялық іс-шараларды мониторингтеу және бағалау:
+- эпидемиологиялық ахуалды мониторингтеу және талдау, ҚР-дағы халықтың әртүрлі топтарының скринингі;
+- Қазақстан Республикасында халықтың осал топтардағы АИТВ инфекциясын шолғыншы эпидемиологиялық қадағалау алаңы кезеңінің сапасын бақылау;
+2. Қазақстан Республикасында диспансерлік бақылауға, емдеуге және оның тиімділігіне клиникалық мониторинг, оған мыналар кіреді:
+- нормативтік-құқықтық актілердің жобаларын, АИТВ жұқтырғандарға көмек көрсетудің бірыңғай стандарттарын, сондай-ақ АИТВ-инфекциясы мәселелері бойынша Қазақстан Республикасы Денсаулық сақтау министрлігінің стратегиялық құжаттарына ұсыныстар әзірлеу;
+- -ЮНЭЙДС-те (Женева қ., Швейцария) АИТВ/ЖИТС жөніндегі саяси декларацияны және ЮНЭЙДС 95/95/95 Саяси декларацияны іске асыру жөніндегі Стратегиясын орындау бойынша «Қазақстан Республикасында жұқтырылған қорғаныш тапшылығының белгісіне жауап ретінде жаһандық шараларды жүзеге асыруда қол жеткізілген прогресс туралы ұлттық баяндама» жаһандық есептілігі шеңберінде деректерді жинақтау және дайындау.
+3. Қазақстан Республикасында халық және негізгі топтар арасында профилактикалық іс-шаралардың мониторингі, оған мыналар кіреді:
+- халық үшін, оның ішінде негізгі топтар арасында алдын алу іс-шараларын іске асыру мониторингі;
+- Қазақстан Республикасында АИТВ инфекциясының профилактикасы бойынша ақпараттық жұмысты ұйымдастыру және мониторингтеу (Қазақстан Республикасы бойынша өңірлік орталықтар жүргізетін ақпараттық жұмыстың ай сайынғы деректерін жинау мен жинақтауды, Дүниежүзілік ЖИТС-ке қарсы күрес күніне, ЖИТС-тен қайтыс болғандарды еске алу күніне орайластырылған ақпараттық науқандарды ұйымдастыру және тағы басқалары);
+- АИТВ-инфекциясы бойынша іс-шараларды мониторингтеу және бағалау, алдын алу бағдарламаларының клиенттерін есепке алу, сондай-ақ деректердің толықтығы мен сапасына бағалау жүргізу (Қазақстан Республикасында жарты жыл және бір жыл ішінде негізгі топтар арасында алдын алу бағдарламаларының іске асырылу деректерін талдауды қамтиды, көрсеткіштерге тоқсан сайын мониторинг жүргізу және АИТВ-инфекциясының алдын алу бойынша өңірлік орталықтарға, және қорытындысы бойынша жұмыс барысында консультациялық және ұйымдастырушылық-әдістемелік көмек көрсету).
+4. Қазақстан Республикасында АИТВ-инфекциясы бойынша эпидемиологиялық, профилактикалық және клиникалық іс-шараларды ұйымдастыру-әдістемелік сүйемелдеу, оған мыналар кіреді:
+- ЖИТС өңірлік орталықтарына эпидемиологиялық қадағалау мәселелері бойынша ұйымдастырушылық-әдістемелік басшылық жасау және жұмысын үйлестіру;
+- ЖИТС орталықтарына АИТВ-инфекциясы мәселелері бойынша консультациялық көмек көрсету, эпидемиологиялық қадағалау мәселелері бойынша семинарлар, тренингтер, кеңестер және ғылыми-практикалық конференциялар ұйымдастыру және өткізу;
+- халықты АИТВ-ға зерттеп-қарау, АИТВ/ЖИТС профилактикасы, диагностикасы және ЖИТС-пен ауыратын науқастарды емдеу мәселелері бойынша аумақтық ЖИТС орталықтары мен басқа да денсаулық сақтау ұйымдарының жұмысына ұйымдастырушылық-әдістемелік басшылық жасау және үйлестіру
+</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Қазақ дерматология және инфекциялық аурулар ғылыми орталығы» ШЖҚ РМК</td>
+<td>
+070 «Қоғамдық денсаулықты сақтау»
+105 «ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыру»
+</td>
+<td>138 538</td>
+</tr>
+<tr>
+<td>69-3</td>
+<td>Денсаулық сақтау саласындағы биологиялық қауіпсіздікті қамтамасыз ету</td>
+<td>Биологиялық қауіпсіздікті, биофармацевтикалық нарықтың инфрақұрылымын орнықты дамыту және жетілдіруді қамтамасыз ету, биофармацевтикалық ғылым мен өнеркәсіпті дамытуды ынталандыру, сондай-ақ мемлекет пен қоғамның биофармацевтикалық өнімге қажеттілігін қамтамасыз ету</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«QazBioPharm» ұлттық холдингі» АҚ</td>
+<td>
+070 «Қоғамдық денсаулықты сақтау»
+114 «QazBioPharm» Ұлттық холдингі» АҚ базасында жаңа биологиялық және фармацевтикалық препараттарды әзірлеу, байқаудан өткізу және енгізу жөніндегі қызметтер»
+</td>
+<td>380 005</td>
 </tr>
 <tr>
 <td>70</td>
