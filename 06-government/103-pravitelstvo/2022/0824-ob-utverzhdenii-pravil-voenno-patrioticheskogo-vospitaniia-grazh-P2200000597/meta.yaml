@@ -1,0 +1,25 @@
+key: P2200000597
+akn: /akn/kz/act/2022-08-24/P2200000597
+act_code: '170901'
+requisite: Постановление Правительства Республики Казахстан от 24 августа 2022 года № 597
+title:
+  rus: Об утверждении Правил военно-патриотического воспитания граждан
+  kaz: Азаматтарды әскери-патриоттық тәрбиелеу қағидаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРАВ
+approved_on: 2022-08-24
+approved_by:
+- '103000000000'
+versions:
+- date: 2022-08-24
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2022-08-24
+  rus: 2022-08-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/170901/kaz/24.08.2022
+  rus: https://zan.gov.kz/client/#!/doc/170901/rus/24.08.2022
