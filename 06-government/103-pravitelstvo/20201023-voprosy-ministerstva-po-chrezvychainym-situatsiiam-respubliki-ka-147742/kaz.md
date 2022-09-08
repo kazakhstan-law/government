@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/147742/kaz/03.06.2022
+source: https://zan.gov.kz/client/#!/doc/147742/kaz/08.09.2022
 ---
 
 # Қазақстан Республикасы Төтенше жағдайлар министрлігінің мәселелері
