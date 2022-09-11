@@ -93,12 +93,19 @@ versions:
   cause:
     code: '171352'
     key: P2200000665
+- date: 2022-09-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '171352'
+    key: P2200000665
 version_date:
-  kaz: 2022-09-08
-  rus: 2022-09-08
+  kaz: 2022-09-11
+  rus: 2022-09-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/147742/kaz/08.09.2022
-  rus: https://zan.gov.kz/client/#!/doc/147742/rus/08.09.2022
+  kaz: https://zan.gov.kz/client/#!/doc/147742/kaz/11.09.2022
+  rus: https://zan.gov.kz/client/#!/doc/147742/rus/11.09.2022
 caused_by:
   code: '171352'
   key: P2200000665
