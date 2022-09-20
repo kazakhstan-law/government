@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2022-09-20
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '172074'
+    key: G22UB00553A
 version_date:
-  kaz: 2020-05-20
-  rus: 2020-05-20
+  kaz: 2022-09-20
+  rus: 2022-09-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/143039/kaz/20.05.2020
-  rus: https://zan.gov.kz/client/#!/doc/143039/rus/20.05.2020
+  kaz: https://zan.gov.kz/client/#!/doc/143039/kaz/20.09.2022
+  rus: https://zan.gov.kz/client/#!/doc/143039/rus/20.09.2022
+caused_by:
+  code: '172074'
+  key: G22UB00553A
+  requisite: Постановление акимата города Арыс Туркестанской области от 20 сентября 2022 года № 553
+  title:
+    rus: О внесении изменения в постановление акимата города Арыс от 20 мая 2020 года № 187 «Об установлении публичного сервитута»
+    kaz: Арыс қаласы әкімдігінің 2020 жылғы 20 мамырдағы № 187 «Қауымдық сервитут белгілеу туралы» қаулысына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/172074/rus
