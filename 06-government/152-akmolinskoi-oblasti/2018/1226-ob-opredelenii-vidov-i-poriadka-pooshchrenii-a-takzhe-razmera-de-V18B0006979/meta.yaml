@@ -18,9 +18,25 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2022-09-26
+  portal_date: 2022-09-20
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '172097'
+    key: V22B0029834
 version_date:
-  kaz: 2018-12-26
-  rus: 2018-12-26
+  kaz: 2022-09-20
+  rus: 2022-09-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/127923/kaz/26.12.2018
-  rus: https://zan.gov.kz/client/#!/doc/127923/rus/26.12.2018
+  kaz: https://zan.gov.kz/client/#!/doc/127923/kaz/20.09.2022
+  rus: https://zan.gov.kz/client/#!/doc/127923/rus/20.09.2022
+caused_by:
+  code: '172097'
+  key: V22B0029834
+  requisite: Постановление акимата Акмолинской области от 20 сентября 2022 года № А-9/449. Зарегистрировано в Министерстве юстиции Республики Казахстан 26 сентября 2022 года № 29834
+  title:
+    rus: О внесении изменений в некоторые постановления акимата Акмолинской области
+    kaz: Ақмола облысы әкімдігінің кейбір қаулыларына өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/172097/rus
