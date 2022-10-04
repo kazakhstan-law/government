@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127889/rus/10.03.2021
+source: https://zan.gov.kz/client/#!/doc/127889/rus/04.10.2022
 ---
 
 # Об определении территорий для старательства
@@ -52,7 +52,7 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/10.03.2021
 
 ## Территории для старательства
 
-> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 04.10.2022 № 238 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 *[Image]*
 
@@ -1149,5 +1149,2806 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/10.03.2021
 <td>48</td>
 <td>28</td>
 <td>18</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="3">№</td>
+<td rowspan="3">Наименование площади</td>
+<td rowspan="3">№ точки</td>
+<td colspan="2" rowspan="2">Географические координаты площади</td>
+<td rowspan="3">№ участка</td>
+<td rowspan="3">№ точки</td>
+<td colspan="6">Географические координаты участка</td>
+<td rowspan="3">
+Площадь
+участка (гектар)
+</td>
+<td rowspan="3">Наименование блока 1' на 1'</td>
+<td rowspan="3">Описание</td>
+<td rowspan="3">Примечание</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2">Восточная долгота</td>
+<td colspan="3" rowspan="2">Северная широта</td>
+</tr>
+<tr>
+<td>Восточная долгота</td>
+<td>Северная широта</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="260">11</td>
+<td rowspan="260">_</td>
+<td rowspan="260">_</td>
+<td rowspan="260">_</td>
+<td rowspan="260">_</td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>85</td>
+<td>50</td>
+<td>36</td>
+<td>48</td>
+<td>27</td>
+<td>00</td>
+<td rowspan="4">1,968</td>
+<td rowspan="260"></td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>50</td>
+<td>45</td>
+<td>48</td>
+<td>27</td>
+<td>02</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>50</td>
+<td>47</td>
+<td>48</td>
+<td>26</td>
+<td>59</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>50</td>
+<td>38</td>
+<td>48</td>
+<td>26</td>
+<td>57</td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1</td>
+<td>82</td>
+<td>29</td>
+<td>57,11</td>
+<td>49</td>
+<td>21</td>
+<td>6,36</td>
+<td rowspan="4">1,4</td>
+<td rowspan="4">
+Участок Центр,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>29</td>
+<td>59,25</td>
+<td>49</td>
+<td>21</td>
+<td>4,79</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>29</td>
+<td>52,39</td>
+<td>49</td>
+<td>20</td>
+<td>59,68</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>29</td>
+<td>49,85</td>
+<td>49</td>
+<td>21</td>
+<td>1,22</td>
+</tr>
+<tr>
+<td rowspan="4">3</td>
+<td>1</td>
+<td>85</td>
+<td>50</td>
+<td>21</td>
+<td>48</td>
+<td>28</td>
+<td>09</td>
+<td rowspan="4">4,3</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>50</td>
+<td>26</td>
+<td>48</td>
+<td>28</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>50</td>
+<td>34</td>
+<td>48</td>
+<td>27</td>
+<td>58</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>50</td>
+<td>29</td>
+<td>48</td>
+<td>27</td>
+<td>57</td>
+</tr>
+<tr>
+<td rowspan="4">4</td>
+<td>1</td>
+<td>85</td>
+<td>50</td>
+<td>27</td>
+<td>48</td>
+<td>26</td>
+<td>45</td>
+<td rowspan="4">4,1</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>50</td>
+<td>32</td>
+<td>48</td>
+<td>26</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>50</td>
+<td>32</td>
+<td>48</td>
+<td>26</td>
+<td>32</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>50</td>
+<td>27</td>
+<td>48</td>
+<td>26</td>
+<td>32</td>
+</tr>
+<tr>
+<td rowspan="4">5</td>
+<td>1</td>
+<td>85</td>
+<td>7</td>
+<td>13</td>
+<td>48</td>
+<td>39</td>
+<td>08</td>
+<td rowspan="4">3,039</td>
+<td rowspan="4">Участок Низ-Карагаш, в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>7</td>
+<td>16</td>
+<td>48</td>
+<td>39</td>
+<td>05</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>7</td>
+<td>05</td>
+<td>48</td>
+<td>39</td>
+<td>00</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>7</td>
+<td>02</td>
+<td>48</td>
+<td>39</td>
+<td>03</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td>1</td>
+<td>81</td>
+<td>2</td>
+<td>51,36</td>
+<td>48</td>
+<td>20</td>
+<td>30,65</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 17,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>1,68</td>
+<td>48</td>
+<td>20</td>
+<td>28,37</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>2</td>
+<td>58,25</td>
+<td>48</td>
+<td>20</td>
+<td>21,5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>2</td>
+<td>47,94</td>
+<td>48</td>
+<td>20</td>
+<td>23,78</td>
+</tr>
+<tr>
+<td rowspan="4">7</td>
+<td>1</td>
+<td>81</td>
+<td>2</td>
+<td>46,37</td>
+<td>48</td>
+<td>20</td>
+<td>15,75</td>
+<td rowspan="4">4,8</td>
+<td rowspan="4">
+Участок Шамиль,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>0,05</td>
+<td>48</td>
+<td>20</td>
+<td>16,55</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>2,79</td>
+<td>48</td>
+<td>20</td>
+<td>11,19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>2</td>
+<td>49,3</td>
+<td>48</td>
+<td>20</td>
+<td>10,22</td>
+</tr>
+<tr>
+<td rowspan="4">8</td>
+<td>1</td>
+<td>81</td>
+<td>15</td>
+<td>11,28</td>
+<td>49</td>
+<td>45</td>
+<td>22,22</td>
+<td rowspan="4">4,99</td>
+<td rowspan="4">
+Участок Каратау,
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>15</td>
+<td>20,99</td>
+<td>49</td>
+<td>45</td>
+<td>23,76</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>15</td>
+<td>22,8</td>
+<td>49</td>
+<td>45</td>
+<td>15,75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>15</td>
+<td>13,16</td>
+<td>49</td>
+<td>45</td>
+<td>14,15</td>
+</tr>
+<tr>
+<td rowspan="4">9</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>32,78</td>
+<td>48</td>
+<td>20</td>
+<td>43,6</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 12,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>43,09</td>
+<td>48</td>
+<td>20</td>
+<td>41,32</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>39,66</td>
+<td>48</td>
+<td>20</td>
+<td>34,45</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>29,35</td>
+<td>48</td>
+<td>20</td>
+<td>36,73</td>
+</tr>
+<tr>
+<td rowspan="4">10</td>
+<td>1</td>
+<td>85</td>
+<td>50</td>
+<td>30</td>
+<td>48</td>
+<td>27</td>
+<td>00</td>
+<td rowspan="4">4,2</td>
+<td rowspan="4">
+Участок
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>50</td>
+<td>35</td>
+<td>48</td>
+<td>26</td>
+<td>59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>50</td>
+<td>33</td>
+<td>48</td>
+<td>26</td>
+<td>46</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>50</td>
+<td>28</td>
+<td>48</td>
+<td>26</td>
+<td>47</td>
+</tr>
+<tr>
+<td rowspan="4">11</td>
+<td>1</td>
+<td>81</td>
+<td>57</td>
+<td>40,3</td>
+<td>49</td>
+<td>27</td>
+<td>08</td>
+<td rowspan="4">3,97</td>
+<td rowspan="4">
+Участок
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>57</td>
+<td>41,8</td>
+<td>49</td>
+<td>27</td>
+<td>9,6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>58</td>
+<td>12,7</td>
+<td>49</td>
+<td>26</td>
+<td>58,2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>58</td>
+<td>11,4</td>
+<td>49</td>
+<td>26</td>
+<td>56,7</td>
+</tr>
+<tr>
+<td rowspan="4">12</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>55</td>
+<td>48</td>
+<td>28</td>
+<td>46</td>
+<td rowspan="4">4,819</td>
+<td rowspan="4">
+Участок
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>13</td>
+<td>00</td>
+<td>48</td>
+<td>28</td>
+<td>44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>52</td>
+<td>48</td>
+<td>28</td>
+<td>32</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>47</td>
+<td>48</td>
+<td>28</td>
+<td>34</td>
+</tr>
+<tr>
+<td rowspan="4">13</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>18</td>
+<td>48</td>
+<td>20</td>
+<td>35</td>
+<td rowspan="4">2,545</td>
+<td rowspan="4">Участок Кайракты-Тобе, в Аягозском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>22</td>
+<td>48</td>
+<td>20</td>
+<td>31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>29</td>
+<td>48</td>
+<td>20</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>25</td>
+<td>48</td>
+<td>20</td>
+<td>38</td>
+</tr>
+<tr>
+<td rowspan="4">14</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>32,61</td>
+<td>48</td>
+<td>20</td>
+<td>21,52</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 16,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>42,92</td>
+<td>48</td>
+<td>20</td>
+<td>19,24</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>39,49</td>
+<td>48</td>
+<td>20</td>
+<td>12,37</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>29,18</td>
+<td>48</td>
+<td>20</td>
+<td>14,65</td>
+</tr>
+<tr>
+<td rowspan="4">15</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>57,49</td>
+<td>48</td>
+<td>20</td>
+<td>30,2</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 15,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>4</td>
+<td>7,8</td>
+<td>48</td>
+<td>20</td>
+<td>27,92</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>4</td>
+<td>4,37</td>
+<td>48</td>
+<td>20</td>
+<td>21,05</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>54,06</td>
+<td>48</td>
+<td>20</td>
+<td>23,33</td>
+</tr>
+<tr>
+<td rowspan="4">16</td>
+<td>1</td>
+<td>81</td>
+<td>23</td>
+<td>44</td>
+<td>49</td>
+<td>32</td>
+<td>00</td>
+<td rowspan="4">1,489</td>
+<td rowspan="4">Участок Жайлы, в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>23</td>
+<td>40</td>
+<td>49</td>
+<td>31</td>
+<td>58</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>23</td>
+<td>46</td>
+<td>49</td>
+<td>31</td>
+<td>55</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>23</td>
+<td>50</td>
+<td>49</td>
+<td>31</td>
+<td>57</td>
+</tr>
+<tr>
+<td rowspan="4">17</td>
+<td>1</td>
+<td>82</td>
+<td>1</td>
+<td>39</td>
+<td>49</td>
+<td>7</td>
+<td>33</td>
+<td rowspan="4">3,74</td>
+<td rowspan="4">
+Участок Муравьевский
+ключ 1, в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>09</td>
+<td>49</td>
+<td>7</td>
+<td>37</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>09</td>
+<td>49</td>
+<td>7</td>
+<td>35</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>1</td>
+<td>39</td>
+<td>49</td>
+<td>7</td>
+<td>31</td>
+</tr>
+<tr>
+<td rowspan="4">18</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>51,67</td>
+<td>48</td>
+<td>20</td>
+<td>51,35</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 10,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>4</td>
+<td>1,99</td>
+<td>48</td>
+<td>20</td>
+<td>49,07</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>58,56</td>
+<td>48</td>
+<td>20</td>
+<td>42,2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>48,25</td>
+<td>48</td>
+<td>20</td>
+<td>44,48</td>
+</tr>
+<tr>
+<td rowspan="4">19</td>
+<td>1</td>
+<td>83</td>
+<td>33</td>
+<td>52</td>
+<td>49</td>
+<td>19</td>
+<td>02</td>
+<td rowspan="4">4,0</td>
+<td rowspan="4">
+Участок Кашама,
+в Кокпектинском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>83</td>
+<td>34</td>
+<td>05</td>
+<td>49</td>
+<td>19</td>
+<td>02</td>
+</tr>
+<tr>
+<td>3</td>
+<td>83</td>
+<td>34</td>
+<td>05</td>
+<td>49</td>
+<td>18</td>
+<td>57</td>
+</tr>
+<tr>
+<td>4</td>
+<td>83</td>
+<td>33</td>
+<td>52</td>
+<td>49</td>
+<td>18</td>
+<td>57</td>
+</tr>
+<tr>
+<td rowspan="4">20</td>
+<td>1</td>
+<td>85</td>
+<td>50</td>
+<td>41</td>
+<td>48</td>
+<td>27</td>
+<td>45</td>
+<td rowspan="4">4,2</td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>50</td>
+<td>47</td>
+<td>48</td>
+<td>27</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>50</td>
+<td>47</td>
+<td>48</td>
+<td>27</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>50</td>
+<td>41</td>
+<td>48</td>
+<td>27</td>
+<td>34</td>
+</tr>
+<tr>
+<td rowspan="4">21</td>
+<td>1</td>
+<td>85</td>
+<td>7</td>
+<td>47</td>
+<td>48</td>
+<td>39</td>
+<td>24</td>
+<td rowspan="4">2,277</td>
+<td rowspan="4">
+Участок Кайынды Булак,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>7</td>
+<td>51</td>
+<td>48</td>
+<td>39</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>7</td>
+<td>45</td>
+<td>48</td>
+<td>39</td>
+<td>17</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>7</td>
+<td>41</td>
+<td>48</td>
+<td>39</td>
+<td>21</td>
+</tr>
+<tr>
+<td rowspan="4">22</td>
+<td>1</td>
+<td>81</td>
+<td>2</td>
+<td>18</td>
+<td>48</td>
+<td>20</td>
+<td>41</td>
+<td rowspan="4">4,4</td>
+<td rowspan="4">
+Участок Тобе,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>2</td>
+<td>28</td>
+<td>48</td>
+<td>20</td>
+<td>41</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>2</td>
+<td>28</td>
+<td>48</td>
+<td>20</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>2</td>
+<td>18</td>
+<td>48</td>
+<td>20</td>
+<td>34</td>
+</tr>
+<tr>
+<td rowspan="4">23</td>
+<td>1</td>
+<td>85</td>
+<td>6</td>
+<td>00</td>
+<td>48</td>
+<td>39</td>
+<td>24</td>
+<td rowspan="4">4,428</td>
+<td rowspan="4">Участок Шолак Булак, в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>6</td>
+<td>7</td>
+<td>48</td>
+<td>39</td>
+<td>28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>6</td>
+<td>14</td>
+<td>48</td>
+<td>39</td>
+<td>22</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>6</td>
+<td>07</td>
+<td>48</td>
+<td>39</td>
+<td>18</td>
+</tr>
+<tr>
+<td rowspan="4">24</td>
+<td>1</td>
+<td>81</td>
+<td>57</td>
+<td>19,4</td>
+<td>49</td>
+<td>26</td>
+<td>55,5</td>
+<td rowspan="4">2,3</td>
+<td rowspan="4">Участок в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>57</td>
+<td>21,5</td>
+<td>49</td>
+<td>26</td>
+<td>55,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>57</td>
+<td>22</td>
+<td>49</td>
+<td>26</td>
+<td>37,8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>57</td>
+<td>19,9</td>
+<td>49</td>
+<td>26</td>
+<td>37,8</td>
+</tr>
+<tr>
+<td rowspan="4">25</td>
+<td>1</td>
+<td>81</td>
+<td>3</td>
+<td>3,67</td>
+<td>48</td>
+<td>21</td>
+<td>1,19</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 9,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>3</td>
+<td>13,98</td>
+<td>48</td>
+<td>20</td>
+<td>58,91</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>3</td>
+<td>10,55</td>
+<td>48</td>
+<td>20</td>
+<td>52,04</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>3</td>
+<td>0,24</td>
+<td>48</td>
+<td>20</td>
+<td>54,31</td>
+</tr>
+<tr>
+<td rowspan="4">26</td>
+<td>1</td>
+<td>81</td>
+<td>1</td>
+<td>22</td>
+<td>48</td>
+<td>20</td>
+<td>10</td>
+<td rowspan="4">1,78</td>
+<td rowspan="4">
+Участок Ушбиык,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>1</td>
+<td>28</td>
+<td>48</td>
+<td>20</td>
+<td>14</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>1</td>
+<td>32</td>
+<td>48</td>
+<td>20</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>1</td>
+<td>26</td>
+<td>48</td>
+<td>20</td>
+<td>08</td>
+</tr>
+<tr>
+<td rowspan="4">27</td>
+<td>1</td>
+<td>84</td>
+<td>33</td>
+<td>49,06</td>
+<td>48</td>
+<td>51</td>
+<td>20,53</td>
+<td rowspan="4">4,6</td>
+<td rowspan="4">
+Участок
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>33</td>
+<td>56,63</td>
+<td>48</td>
+<td>51</td>
+<td>20,71</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>33</td>
+<td>52,83</td>
+<td>48</td>
+<td>51</td>
+<td>10,5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>33</td>
+<td>45,47</td>
+<td>48</td>
+<td>51</td>
+<td>11,55</td>
+</tr>
+<tr>
+<td rowspan="4">28</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>46</td>
+<td>48</td>
+<td>28</td>
+<td>30</td>
+<td rowspan="4">4,382</td>
+<td rowspan="4">
+Участок
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>12</td>
+<td>51</td>
+<td>48</td>
+<td>28</td>
+<td>31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>55</td>
+<td>48</td>
+<td>28</td>
+<td>18</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>50</td>
+<td>48</td>
+<td>28</td>
+<td>17</td>
+</tr>
+<tr>
+<td rowspan="4">29</td>
+<td>1</td>
+<td>81</td>
+<td>15</td>
+<td>21,93</td>
+<td>49</td>
+<td>45</td>
+<td>19,86</td>
+<td rowspan="4">4,47</td>
+<td rowspan="4">
+Участок Каратау,
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>15</td>
+<td>30,13</td>
+<td>49</td>
+<td>45</td>
+<td>21,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>15</td>
+<td>33,74</td>
+<td>49</td>
+<td>45</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>15</td>
+<td>25,52</td>
+<td>49</td>
+<td>45</td>
+<td>11,64</td>
+</tr>
+<tr>
+<td rowspan="4">30</td>
+<td>1</td>
+<td>81</td>
+<td>4</td>
+<td>4,69</td>
+<td>48</td>
+<td>21</td>
+<td>18,05</td>
+<td rowspan="4">5,0</td>
+<td rowspan="4">
+Участок 3,
+в Аягозском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>4</td>
+<td>15</td>
+<td>48</td>
+<td>21</td>
+<td>15,77</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>4</td>
+<td>11,57</td>
+<td>48</td>
+<td>21</td>
+<td>8,9</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>4</td>
+<td>1,26</td>
+<td>48</td>
+<td>21</td>
+<td>11,18</td>
+</tr>
+<tr>
+<td rowspan="4">31</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>49</td>
+<td>49</td>
+<td>23</td>
+<td>01</td>
+<td rowspan="4">1,36</td>
+<td rowspan="4">
+Участок Салкын Тобе,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>47</td>
+<td>49</td>
+<td>23</td>
+<td>01</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>43</td>
+<td>49</td>
+<td>23</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>45</td>
+<td>49</td>
+<td>23</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="4">32</td>
+<td>1</td>
+<td>82</td>
+<td>1</td>
+<td>51,88</td>
+<td>49</td>
+<td>33</td>
+<td>25,89</td>
+<td rowspan="4">2,0</td>
+<td rowspan="4">
+Участок Жайлау-8,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>1</td>
+<td>58,92</td>
+<td>49</td>
+<td>33</td>
+<td>25,83</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>1</td>
+<td>58,82</td>
+<td>49</td>
+<td>33</td>
+<td>21,25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>1</td>
+<td>51,78</td>
+<td>49</td>
+<td>33</td>
+<td>21,32</td>
+</tr>
+<tr>
+<td rowspan="4">33</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>54,7</td>
+<td>49</td>
+<td>34</td>
+<td>9,51</td>
+<td rowspan="4">1,0</td>
+<td rowspan="4">
+Участок Жайлау-5,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>59,67</td>
+<td>49</td>
+<td>34</td>
+<td>9,47</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>59,6</td>
+<td>49</td>
+<td>34</td>
+<td>6,23</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>54,63</td>
+<td>49</td>
+<td>34</td>
+<td>6,28</td>
+</tr>
+<tr>
+<td rowspan="4">34</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>50,35</td>
+<td>49</td>
+<td>34</td>
+<td>3,68</td>
+<td rowspan="4">1,5</td>
+<td rowspan="4">
+Участок Жайлау-1,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>56,44</td>
+<td>49</td>
+<td>34</td>
+<td>3,63</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>56,36</td>
+<td>49</td>
+<td>33</td>
+<td>59,66</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>50,26</td>
+<td>49</td>
+<td>33</td>
+<td>59,72</td>
+</tr>
+<tr>
+<td rowspan="4">35</td>
+<td>1</td>
+<td>82</td>
+<td>55</td>
+<td>30</td>
+<td>48</td>
+<td>55</td>
+<td>45</td>
+<td rowspan="4">1,072</td>
+<td rowspan="4">
+Участок
+в Кокпектинском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>55</td>
+<td>30</td>
+<td>48</td>
+<td>55</td>
+<td>44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>55</td>
+<td>13</td>
+<td>48</td>
+<td>55</td>
+<td>45</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>55</td>
+<td>13</td>
+<td>48</td>
+<td>55</td>
+<td>46</td>
+</tr>
+<tr>
+<td rowspan="4">36</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>12,87</td>
+<td>49</td>
+<td>32</td>
+<td>50,87</td>
+<td rowspan="4">2,5</td>
+<td rowspan="4">
+Участок Жайлау-9,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>20,74</td>
+<td>49</td>
+<td>32</td>
+<td>50,8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>20,64</td>
+<td>49</td>
+<td>32</td>
+<td>45,68</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>12,76</td>
+<td>49</td>
+<td>32</td>
+<td>45,75</td>
+</tr>
+<tr>
+<td rowspan="4">37</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>43,35</td>
+<td>49</td>
+<td>34</td>
+<td>1,88</td>
+<td rowspan="4">1,5</td>
+<td rowspan="4">
+Участок Жайлау,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>49,44</td>
+<td>49</td>
+<td>34</td>
+<td>1,83</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>49,36</td>
+<td>49</td>
+<td>33</td>
+<td>57,86</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>43,26</td>
+<td>49</td>
+<td>33</td>
+<td>57,92</td>
+</tr>
+<tr>
+<td rowspan="4">38</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>9,18</td>
+<td>49</td>
+<td>34</td>
+<td>8,99</td>
+<td rowspan="4">2,0</td>
+<td rowspan="4">
+Участок Жайлау-7,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>16,22</td>
+<td>49</td>
+<td>34</td>
+<td>8,93</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>16,12</td>
+<td>49</td>
+<td>34</td>
+<td>4,35</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>9,08</td>
+<td>49</td>
+<td>34</td>
+<td>4,41</td>
+</tr>
+<tr>
+<td rowspan="4">39</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>48,91</td>
+<td>49</td>
+<td>34</td>
+<td>9,44</td>
+<td rowspan="4">1,0</td>
+<td rowspan="4">
+Участок Жайлау-3,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>53,89</td>
+<td>49</td>
+<td>34</td>
+<td>9,39</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>53,82</td>
+<td>49</td>
+<td>34</td>
+<td>6,15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>48,84</td>
+<td>49</td>
+<td>34</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td rowspan="4">40</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>37,81</td>
+<td>49</td>
+<td>22</td>
+<td>59,44</td>
+<td rowspan="4">4,905</td>
+<td rowspan="4">
+Участок
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>49,08</td>
+<td>49</td>
+<td>22</td>
+<td>59,17</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>48,65</td>
+<td>49</td>
+<td>22</td>
+<td>52,21</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>37,39</td>
+<td>49</td>
+<td>22</td>
+<td>52,46</td>
+</tr>
+<tr>
+<td rowspan="4">41</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>16,63</td>
+<td>49</td>
+<td>23</td>
+<td>35,03</td>
+<td rowspan="4">4,99</td>
+<td rowspan="4">
+Участок
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>28,1</td>
+<td>49</td>
+<td>23</td>
+<td>34,76</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>27,69</td>
+<td>49</td>
+<td>23</td>
+<td>27,78</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>16,21</td>
+<td>49</td>
+<td>23</td>
+<td>28,06</td>
+</tr>
+<tr>
+<td rowspan="4">42</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>10,77</td>
+<td>49</td>
+<td>34</td>
+<td>3,77</td>
+<td rowspan="4">2,0</td>
+<td rowspan="4">
+Участок Жайлау-4,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>17,81</td>
+<td>49</td>
+<td>34</td>
+<td>3,71</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>17,71</td>
+<td>49</td>
+<td>33</td>
+<td>59,13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>10,67</td>
+<td>49</td>
+<td>33</td>
+<td>59,19</td>
+</tr>
+<tr>
+<td rowspan="4">43</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>1,54</td>
+<td>49</td>
+<td>34</td>
+<td>11,58</td>
+<td rowspan="4">1,5</td>
+<td rowspan="4">
+Участок Жайлау-6,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>7,64</td>
+<td>49</td>
+<td>34</td>
+<td>11,53</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>7,56</td>
+<td>49</td>
+<td>34</td>
+<td>7,56</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>1,46</td>
+<td>49</td>
+<td>34</td>
+<td>7,62</td>
+</tr>
+<tr>
+<td rowspan="4">44</td>
+<td>1</td>
+<td>81</td>
+<td>38</td>
+<td>21,0624</td>
+<td>49</td>
+<td>41</td>
+<td>45,9564</td>
+<td rowspan="4">4,87</td>
+<td rowspan="4">
+Участок
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>38</td>
+<td>23,1684</td>
+<td>49</td>
+<td>41</td>
+<td>47,3388</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>38</td>
+<td>50,5284</td>
+<td>49</td>
+<td>41</td>
+<td>27,6576</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>38</td>
+<td>48,3504</td>
+<td>49</td>
+<td>41</td>
+<td>26,3616</td>
+</tr>
+<tr>
+<td rowspan="4">45</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>57,4</td>
+<td>49</td>
+<td>34</td>
+<td>2,43</td>
+<td rowspan="4">1,0</td>
+<td rowspan="4">
+Участок Жайлау-2,
+в Уланском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>2,38</td>
+<td>49</td>
+<td>34</td>
+<td>2,38</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>2,31</td>
+<td>49</td>
+<td>33</td>
+<td>59,15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>57,33</td>
+<td>49</td>
+<td>33</td>
+<td>59,19</td>
+</tr>
+<tr>
+<td rowspan="4">46</td>
+<td>1</td>
+<td>81</td>
+<td>44</td>
+<td>37,43</td>
+<td>48</td>
+<td>59</td>
+<td>27,07</td>
+<td rowspan="4">3,5</td>
+<td rowspan="4">
+Участок Бюкуй,
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>44</td>
+<td>42,83</td>
+<td>48</td>
+<td>59</td>
+<td>26,99</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>44</td>
+<td>42,8</td>
+<td>48</td>
+<td>59</td>
+<td>16,79</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>44</td>
+<td>37,37</td>
+<td>48</td>
+<td>59</td>
+<td>16,85</td>
+</tr>
+<tr>
+<td rowspan="4">47</td>
+<td>1</td>
+<td>82</td>
+<td>24</td>
+<td>00</td>
+<td>47</td>
+<td>30</td>
+<td>27</td>
+<td rowspan="4">3,6</td>
+<td rowspan="4">
+Участок Сары Булак,
+в Тарбагатайском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>24</td>
+<td>07</td>
+<td>47</td>
+<td>30</td>
+<td>27</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>24</td>
+<td>07</td>
+<td>47</td>
+<td>30</td>
+<td>17</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>24</td>
+<td>00</td>
+<td>47</td>
+<td>30</td>
+<td>21</td>
+</tr>
+<tr>
+<td rowspan="4">48</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>51,63</td>
+<td>49</td>
+<td>23</td>
+<td>4,85</td>
+<td rowspan="4">4,982</td>
+<td rowspan="4">Участок в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>4</td>
+<td>3,15</td>
+<td>49</td>
+<td>23</td>
+<td>4,57</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>4</td>
+<td>2,72</td>
+<td>49</td>
+<td>22</td>
+<td>57,58</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>51,21</td>
+<td>49</td>
+<td>22</td>
+<td>57,86</td>
+</tr>
+<tr>
+<td rowspan="4">49</td>
+<td>1</td>
+<td>83</td>
+<td>6</td>
+<td>29,55</td>
+<td>49</td>
+<td>3</td>
+<td>19,87</td>
+<td rowspan="4">4,99</td>
+<td rowspan="4">
+Участок
+в Кокпектинском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>83</td>
+<td>6</td>
+<td>36,39</td>
+<td>49</td>
+<td>3</td>
+<td>22,08</td>
+</tr>
+<tr>
+<td>3</td>
+<td>83</td>
+<td>6</td>
+<td>43,88</td>
+<td>49</td>
+<td>3</td>
+<td>12,85</td>
+</tr>
+<tr>
+<td>4</td>
+<td>83</td>
+<td>6</td>
+<td>37,04</td>
+<td>49</td>
+<td>3</td>
+<td>10,64</td>
+</tr>
+<tr>
+<td rowspan="4">50</td>
+<td>1</td>
+<td>85</td>
+<td>13</td>
+<td>15,4399</td>
+<td>48</td>
+<td>27</td>
+<td>59,9611</td>
+<td rowspan="4">4,887</td>
+<td rowspan="4">
+Участок Шандыбулак-5,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>13</td>
+<td>25,9743</td>
+<td>48</td>
+<td>28</td>
+<td>6,6764</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>13</td>
+<td>29,3695</td>
+<td>48</td>
+<td>28</td>
+<td>1,9393</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>13</td>
+<td>18,841</td>
+<td>48</td>
+<td>27</td>
+<td>54,615</td>
+</tr>
+<tr>
+<td rowspan="4">51</td>
+<td>1</td>
+<td>85</td>
+<td>13</td>
+<td>1,6286</td>
+<td>48</td>
+<td>28</td>
+<td>00,5520</td>
+<td rowspan="4">4,326</td>
+<td rowspan="4">
+Участок Шандыбулак-4,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>13</td>
+<td>15,294</td>
+<td>48</td>
+<td>27</td>
+<td>59,5516</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>13</td>
+<td>18,6203</td>
+<td>48</td>
+<td>27</td>
+<td>54,5572</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>13</td>
+<td>3,5507</td>
+<td>48</td>
+<td>27</td>
+<td>55,6769</td>
+</tr>
+<tr>
+<td rowspan="4">52</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>17,5404</td>
+<td>48</td>
+<td>27</td>
+<td>54,9702</td>
+<td rowspan="4">4,66</td>
+<td rowspan="4">
+Участок Калжир-2,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>12</td>
+<td>44,8302</td>
+<td>48</td>
+<td>28</td>
+<td>11,3582</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>47,3505</td>
+<td>48</td>
+<td>28</td>
+<td>9,8778</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>20,3853</td>
+<td>48</td>
+<td>27</td>
+<td>54,2106</td>
+</tr>
+<tr>
+<td rowspan="4">53</td>
+<td>1</td>
+<td>85</td>
+<td>18</td>
+<td>19,6935</td>
+<td>48</td>
+<td>28</td>
+<td>32,9685</td>
+<td rowspan="4">4,937</td>
+<td rowspan="4">
+Участок Шандыбулак-15,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>18</td>
+<td>48,2365</td>
+<td>48</td>
+<td>28</td>
+<td>31,688</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>18</td>
+<td>48,4598</td>
+<td>48</td>
+<td>28</td>
+<td>28,9509</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>18</td>
+<td>19,9711</td>
+<td>48</td>
+<td>28</td>
+<td>30,2148</td>
+</tr>
+<tr>
+<td rowspan="4">54</td>
+<td>1</td>
+<td>85</td>
+<td>14</td>
+<td>57,3049</td>
+<td>48</td>
+<td>28</td>
+<td>24,9832</td>
+<td rowspan="4">4,602</td>
+<td rowspan="4">
+Участок Шандыбулак-9,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>15</td>
+<td>30,3314</td>
+<td>48</td>
+<td>28</td>
+<td>19,9083</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>15</td>
+<td>29,5269</td>
+<td>48</td>
+<td>28</td>
+<td>17,938</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>14</td>
+<td>59,1239</td>
+<td>48</td>
+<td>28</td>
+<td>22,2246</td>
+</tr>
+<tr>
+<td rowspan="4">55</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>34,8759</td>
+<td>48</td>
+<td>27</td>
+<td>55,0929</td>
+<td rowspan="4">2,898</td>
+<td rowspan="4">
+Участок Шандыбулак-2,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>12</td>
+<td>48,9288</td>
+<td>48</td>
+<td>27</td>
+<td>57,5627</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>51,1521</td>
+<td>48</td>
+<td>27</td>
+<td>53,0032</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>35,5704</td>
+<td>48</td>
+<td>27</td>
+<td>53,6652</td>
+</tr>
+<tr>
+<td rowspan="4">56</td>
+<td>1</td>
+<td>85</td>
+<td>16</td>
+<td>26,2927</td>
+<td>48</td>
+<td>28</td>
+<td>23,2726</td>
+<td rowspan="4">4,874</td>
+<td rowspan="4">
+Участок Шандыбулак-12,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>17</td>
+<td>0,2775</td>
+<td>48</td>
+<td>28</td>
+<td>27,4493</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>17</td>
+<td>0,2932</td>
+<td>48</td>
+<td>28</td>
+<td>25,0255</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>16</td>
+<td>27,5783</td>
+<td>48</td>
+<td>28</td>
+<td>21,2299</td>
+</tr>
+<tr>
+<td rowspan="4">57</td>
+<td>1</td>
+<td>85</td>
+<td>14</td>
+<td>17,87</td>
+<td>48</td>
+<td>28</td>
+<td>22,8773</td>
+<td rowspan="4">4,886</td>
+<td rowspan="4">
+Участок Шандыбулак-7,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>14</td>
+<td>45,8408</td>
+<td>48</td>
+<td>28</td>
+<td>16,3556</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>14</td>
+<td>45,9289</td>
+<td>48</td>
+<td>28</td>
+<td>13,3721</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>14</td>
+<td>18,7294</td>
+<td>48</td>
+<td>28</td>
+<td>20,0542</td>
+</tr>
+<tr>
+<td rowspan="4">58</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>3,7885</td>
+<td>48</td>
+<td>27</td>
+<td>37,3906</td>
+<td rowspan="4">4,864</td>
+<td rowspan="4">
+Участок Калжир-7,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>12</td>
+<td>18,3556</td>
+<td>48</td>
+<td>27</td>
+<td>41,3623</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>23,5492</td>
+<td>48</td>
+<td>27</td>
+<td>37,1671</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>7,706</td>
+<td>48</td>
+<td>27</td>
+<td>33,7169</td>
+</tr>
+<tr>
+<td rowspan="4">59</td>
+<td>1</td>
+<td>85</td>
+<td>11</td>
+<td>45,7716</td>
+<td>48</td>
+<td>27</td>
+<td>33,0343</td>
+<td rowspan="4">4,903</td>
+<td rowspan="4">
+Участок Калжир-8,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>11</td>
+<td>57,7328</td>
+<td>48</td>
+<td>27</td>
+<td>38,0561</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>3,9008</td>
+<td>48</td>
+<td>27</td>
+<td>34,9426</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>11</td>
+<td>47,9361</td>
+<td>48</td>
+<td>27</td>
+<td>28,5208</td>
+</tr>
+<tr>
+<td rowspan="4">60</td>
+<td>1</td>
+<td>85</td>
+<td>13</td>
+<td>32,7998</td>
+<td>48</td>
+<td>28</td>
+<td>4,0361</td>
+<td rowspan="4">3,923</td>
+<td rowspan="4">
+Участок Шандыбулак-6,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>14</td>
+<td>16,5254</td>
+<td>48</td>
+<td>28</td>
+<td>20,3391</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>14</td>
+<td>17,4632</td>
+<td>48</td>
+<td>28</td>
+<td>19,4436</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>13</td>
+<td>33,7672</td>
+<td>48</td>
+<td>28</td>
+<td>2,8308</td>
+</tr>
+<tr>
+<td rowspan="4">61</td>
+<td>1</td>
+<td>85</td>
+<td>15</td>
+<td>59,3781</td>
+<td>48</td>
+<td>28</td>
+<td>17,9176</td>
+<td rowspan="4">4,866</td>
+<td rowspan="4">
+Участок Шандыбулак-11,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>16</td>
+<td>24,5952</td>
+<td>48</td>
+<td>28</td>
+<td>24,0537</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>16</td>
+<td>26,1897</td>
+<td>48</td>
+<td>28</td>
+<td>21,3656</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>16</td>
+<td>0,8411</td>
+<td>48</td>
+<td>28</td>
+<td>15,2799</td>
+</tr>
+<tr>
+<td rowspan="4">62</td>
+<td>1</td>
+<td>85</td>
+<td>15</td>
+<td>31,2035</td>
+<td>48</td>
+<td>28</td>
+<td>19,6222</td>
+<td rowspan="4">4,676</td>
+<td rowspan="4">
+Участок Шандыбулак-10,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>15</td>
+<td>58,805</td>
+<td>48</td>
+<td>28</td>
+<td>17,5331</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>15</td>
+<td>58,3337</td>
+<td>48</td>
+<td>28</td>
+<td>14,8343</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>15</td>
+<td>31,0171</td>
+<td>48</td>
+<td>28</td>
+<td>16,9951</td>
+</tr>
+<tr>
+<td rowspan="4">63</td>
+<td>1</td>
+<td>85</td>
+<td>17</td>
+<td>1,6595</td>
+<td>48</td>
+<td>28</td>
+<td>26,623</td>
+<td rowspan="4">4,794</td>
+<td rowspan="4">
+Участок Шандыбулак-13,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>17</td>
+<td>38,5917</td>
+<td>48</td>
+<td>28</td>
+<td>24,5686</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>17</td>
+<td>38,4252</td>
+<td>48</td>
+<td>28</td>
+<td>22,5328</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>17</td>
+<td>1,9249</td>
+<td>48</td>
+<td>28</td>
+<td>24,5407</td>
+</tr>
+<tr>
+<td rowspan="4">64</td>
+<td>1</td>
+<td>85</td>
+<td>12</td>
+<td>15,1799</td>
+<td>48</td>
+<td>27</td>
+<td>54,3275</td>
+<td rowspan="4">3,678</td>
+<td rowspan="4">
+Участок Калжир-1,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>12</td>
+<td>20,3985</td>
+<td>48</td>
+<td>27</td>
+<td>53,9341</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>12</td>
+<td>21,8653</td>
+<td>48</td>
+<td>27</td>
+<td>42,874</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>12</td>
+<td>16,8508</td>
+<td>48</td>
+<td>27</td>
+<td>42,6772</td>
+</tr>
+<tr>
+<td rowspan="4">65</td>
+<td>1</td>
+<td>85</td>
+<td>17</td>
+<td>39,744</td>
+<td>48</td>
+<td>28</td>
+<td>25,0539</td>
+<td rowspan="4">4,893</td>
+<td rowspan="4">
+Участок Шандыбулак-14,
+в Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>18</td>
+<td>17,3764</td>
+<td>48</td>
+<td>28</td>
+<td>31,57</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>18</td>
+<td>17,7033</td>
+<td>48</td>
+<td>28</td>
+<td>29,6454</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>17</td>
+<td>40,419</td>
+<td>48</td>
+<td>28</td>
+<td>23,0362</td>
 </tr>
 </table>
