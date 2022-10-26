@@ -12,8 +12,15 @@ approved_on: 2020-09-08
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-09-08
-  rus: 2020-09-08
+  kaz: 2022-10-26
+  rus: 2022-10-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/146190/kaz/08.09.2020
-  rus: https://zan.gov.kz/client/#!/doc/146190/rus/08.09.2020
+  kaz: https://zan.gov.kz/client/#!/doc/146190/kaz/26.10.2022
+  rus: https://zan.gov.kz/client/#!/doc/146190/rus/26.10.2022
+caused_by:
+  code: '173188'
+  requisite: Постановление Правительства Республики Казахстан от 26 октября 2022 года № 850
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбір шешiмдерiне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/173188/rus
