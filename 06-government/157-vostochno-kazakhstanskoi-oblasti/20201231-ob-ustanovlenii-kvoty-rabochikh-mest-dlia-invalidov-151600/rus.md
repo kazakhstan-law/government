@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/151600/rus/31.12.2020
+repealed_on: 2023-01-01
+repealed_by:
+  code: '174066'
+  title: Об установлении квоты рабочих мест для лиц с инвалидностью на 2023 год
+  link: https://zan.gov.kz/client/#!/doc/174066/rus
 ---
 
 # Об установлении квоты рабочих мест для инвалидов
