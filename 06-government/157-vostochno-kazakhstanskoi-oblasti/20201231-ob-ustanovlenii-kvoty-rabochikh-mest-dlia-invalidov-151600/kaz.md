@@ -13,6 +13,11 @@ approval_date: 2020-12-31
 version_date: 2020-12-31
 registry_number: '151600'
 source: https://zan.gov.kz/client/#!/doc/151600/kaz/31.12.2020
+repealed_on: 2023-01-01
+repealed_by:
+  code: '174066'
+  title: 2023 жылға мүгедектігі бар адамдар үшін жұмыс орындарына квота белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/174066/kaz
 ---
 
 # Мүгедектер үшін жұмыс орындарына квота белгілеу туралы
