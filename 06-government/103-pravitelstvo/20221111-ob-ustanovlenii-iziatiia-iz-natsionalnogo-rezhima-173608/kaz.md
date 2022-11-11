@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/173608/kaz/11.11.2022
+repealed_on: 2024-11-26
+repealed_by:
+  code: '173608'
+  title: Ұлттық режимнен алып тастауды белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/173608/kaz
 ---
 
 # Ұлттық режимнен алып тастауды белгілеу туралы

@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/173608/rus/11.11.2022
+repealed_on: 2024-11-26
+repealed_by:
+  code: '173608'
+  title: Об установлении изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/173608/rus
 ---
 
 # Об установлении изъятия из национального режима
