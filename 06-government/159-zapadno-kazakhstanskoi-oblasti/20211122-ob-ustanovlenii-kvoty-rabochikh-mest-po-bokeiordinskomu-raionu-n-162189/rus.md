@@ -13,6 +13,11 @@ approval_date: 2021-11-22
 version_date: 2021-11-22
 registry_number: '162189'
 source: https://zan.gov.kz/client/#!/doc/162189/rus/22.11.2021
+repealed_on: 2023-01-01
+repealed_by:
+  code: '174599'
+  title: Об установлении квоты рабочих мест по Бокейординскому району на 2023 год
+  link: https://zan.gov.kz/client/#!/doc/174599/rus
 ---
 
 # Об установлении квоты рабочих мест по Бокейординскому району на 2022 год
