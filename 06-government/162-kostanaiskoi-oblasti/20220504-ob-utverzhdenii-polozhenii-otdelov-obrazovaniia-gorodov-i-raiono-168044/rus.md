@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/168044/rus/04.05.2022
+source: https://zan.gov.kz/client/#!/doc/168044/rus/30.11.2022
 ---
 
 # Об утверждении положений отделов образования городов и районов
