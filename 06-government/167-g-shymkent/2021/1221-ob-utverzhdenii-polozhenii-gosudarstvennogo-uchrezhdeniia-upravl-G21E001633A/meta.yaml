@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2022-12-02
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '178503'
+    key: G22E002431A
 version_date:
-  kaz: 2021-12-21
-  rus: 2021-12-21
+  kaz: 2022-12-02
+  rus: 2022-12-02
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/162184/kaz/21.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/162184/rus/21.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/162184/kaz/02.12.2022
+  rus: https://zan.gov.kz/client/#!/doc/162184/rus/02.12.2022
+caused_by:
+  code: '178503'
+  key: G22E002431A
+  requisite: Постановление акимата города Шымкент от 2 декабря 2022 года № 2431
+  title:
+    rus: О внесении изменений и дополнений в некоторые постановления акимата города Шымкент
+    kaz: Шымкент қаласы әкімдігінің кейбір қаулыларына өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/178503/rus
