@@ -1,0 +1,24 @@
+key: G22CL00266A
+akn: /akn/kz/act/2022-12-05/G22CL00266A
+act_code: '208166'
+requisite: Постановление акимата Хромтауского района Актюбинской области от 5 декабря 2022 года № 266
+title:
+  rus: Объявление об установлении сервитута
+  kaz: Жария сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2022-12-05
+approved_by:
+- '153013000001'
+versions:
+- date: 2022-12-05
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2022-12-05
+  rus: 2022-12-05
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/208166/kaz/05.12.2022
+  rus: https://zan.gov.kz/client/#!/doc/208166/rus/05.12.2022
