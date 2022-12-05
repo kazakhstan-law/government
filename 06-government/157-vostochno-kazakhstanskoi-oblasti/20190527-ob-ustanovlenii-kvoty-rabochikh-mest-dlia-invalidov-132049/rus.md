@@ -13,6 +13,11 @@ approval_date: 2019-05-27
 version_date: 2019-05-27
 registry_number: '132049'
 source: https://zan.gov.kz/client/#!/doc/132049/rus/27.05.2019
+repealed_on: 2023-01-01
+repealed_by:
+  code: '175560'
+  title: Об установлений квоты рабочих мест для лиц с инвалидностью по Тарбагатайскому району на 2023 год
+  link: https://zan.gov.kz/client/#!/doc/175560/rus
 ---
 
 # Об установлении квоты рабочих мест для инвалидов
