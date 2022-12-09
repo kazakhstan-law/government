@@ -1,5 +1,5 @@
 ---
-version_id: I127889_9
+version_id: I127889_11
 act_code: '127889'
 language: rus
 title: Об определении территорий для старательства
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2018-12-26
-version_date: 2022-10-04
+version_date: 2022-12-09
 registry_number: '127889'
 caused_by:
-  code: '172738'
+  code: '175199'
   title: О внесении дополнения в постановление Восточно-Казахстанского областного акимата от 26 декабря 2018 года № 392 «Об определении территорий для старательства»
-  link: https://zan.gov.kz/client/#!/doc/172738/rus
-source: https://zan.gov.kz/client/#!/doc/127889/rus/04.10.2022
+  link: https://zan.gov.kz/client/#!/doc/175199/rus
+source: https://zan.gov.kz/client/#!/doc/127889/rus/09.12.2022
 ---
 
 # Об определении территорий для старательства
@@ -69,7 +69,7 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.10.2022
 
 ## Территории для старательства
 
-> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 04.10.2022 № 238 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 04.10.2022 № 238 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 09.12.2022 № 307 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 *[Image]*
 
@@ -3967,5 +3967,1210 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.10.2022
 <td>48</td>
 <td>28</td>
 <td>23,0362</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td rowspan="112">12</td>
+<td rowspan="112"></td>
+<td rowspan="112"></td>
+<td rowspan="112"></td>
+<td rowspan="112"></td>
+<td rowspan="112"></td>
+<td rowspan="4">1</td>
+<td>1</td>
+<td>84</td>
+<td>13</td>
+<td>37</td>
+<td>48</td>
+<td>53</td>
+<td>45</td>
+<td rowspan="4">4,787</td>
+<td rowspan="48"></td>
+<td rowspan="4">Участок в Курчумском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>13</td>
+<td>33</td>
+<td>48</td>
+<td>53</td>
+<td>46</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>13</td>
+<td>45</td>
+<td>48</td>
+<td>54</td>
+<td>01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>13</td>
+<td>49</td>
+<td>48</td>
+<td>53</td>
+<td>59</td>
+</tr>
+<tr>
+<td rowspan="4">2</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>40,85</td>
+<td>49</td>
+<td>22</td>
+<td>47,14</td>
+<td rowspan="4">4,969</td>
+<td rowspan="4">Участок в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>47,47</td>
+<td>49</td>
+<td>22</td>
+<td>48,21</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>52,23</td>
+<td>49</td>
+<td>22</td>
+<td>36,93</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>45,61</td>
+<td>49</td>
+<td>22</td>
+<td>35,87</td>
+</tr>
+<tr>
+<td rowspan="4">3</td>
+<td>1</td>
+<td>82</td>
+<td>3</td>
+<td>46,11</td>
+<td>49</td>
+<td>22</td>
+<td>28,63</td>
+<td rowspan="4">4,959</td>
+<td rowspan="4">Участок в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>3</td>
+<td>52,72</td>
+<td>49</td>
+<td>22</td>
+<td>29,69</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>3</td>
+<td>57,49</td>
+<td>49</td>
+<td>22</td>
+<td>18,42</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>3</td>
+<td>50,87</td>
+<td>49</td>
+<td>22</td>
+<td>17,35</td>
+</tr>
+<tr>
+<td rowspan="4">4</td>
+<td>1</td>
+<td>81</td>
+<td>16</td>
+<td>32</td>
+<td>49</td>
+<td>37</td>
+<td>58</td>
+<td rowspan="4">1,114</td>
+<td rowspan="4">
+Участок в
+Курчумском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>16</td>
+<td>32</td>
+<td>49</td>
+<td>38</td>
+<td>01</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>16</td>
+<td>38</td>
+<td>49</td>
+<td>38</td>
+<td>01</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>16</td>
+<td>38</td>
+<td>49</td>
+<td>37</td>
+<td>58</td>
+</tr>
+<tr>
+<td rowspan="4">5</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>35,6</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+<td rowspan="4">4,95</td>
+<td rowspan="4">
+Участок россыпь Караагаш
+в Аксуатском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>39</td>
+<td>25,9</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>39</td>
+<td>26,16</td>
+<td>48</td>
+<td>12</td>
+<td>32,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>35,6</td>
+<td>48</td>
+<td>12</td>
+<td>32,7</td>
+</tr>
+<tr>
+<td rowspan="4">6</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>54,28</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+<td rowspan="4">4,97</td>
+<td rowspan="4">
+Участок россыпь Караагаш
+в Аксуатском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>39</td>
+<td>44,7</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>39</td>
+<td>44,7</td>
+<td>48</td>
+<td>12</td>
+<td>32,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>54,36</td>
+<td>48</td>
+<td>12</td>
+<td>32,7</td>
+</tr>
+<tr>
+<td rowspan="4">7</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>54,21</td>
+<td>48</td>
+<td>12</td>
+<td>16,7</td>
+<td rowspan="4">4,81</td>
+<td rowspan="4">
+Участок россыпь Караагаш
+в Аксуатском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>39</td>
+<td>44,7</td>
+<td>48</td>
+<td>12</td>
+<td>16,7</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>39</td>
+<td>44,7</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>54,28</td>
+<td>48</td>
+<td>12</td>
+<td>24,6</td>
+</tr>
+<tr>
+<td rowspan="4">8</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>23</td>
+<td>49</td>
+<td>11</td>
+<td>30</td>
+<td rowspan="4">1,534</td>
+<td rowspan="4">
+Участок Мариновка 2
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>27</td>
+<td>49</td>
+<td>11</td>
+<td>30</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>27</td>
+<td>49</td>
+<td>11</td>
+<td>23,86</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>23</td>
+<td>49</td>
+<td>11</td>
+<td>23,86</td>
+</tr>
+<tr>
+<td rowspan="4">9</td>
+<td>1</td>
+<td>82</td>
+<td>01</td>
+<td>32,39</td>
+<td>49</td>
+<td>07</td>
+<td>49,07</td>
+<td rowspan="4">3,399</td>
+<td rowspan="4">
+Участок Кентарлау 2
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>01</td>
+<td>41,36</td>
+<td>49</td>
+<td>07</td>
+<td>49,07</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>01</td>
+<td>41,36</td>
+<td>49</td>
+<td>07</td>
+<td>43,02</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>01</td>
+<td>32,39</td>
+<td>49</td>
+<td>07</td>
+<td>43,02</td>
+</tr>
+<tr>
+<td rowspan="4">10</td>
+<td>1</td>
+<td>82</td>
+<td>03</td>
+<td>40,3199</td>
+<td>49</td>
+<td>24</td>
+<td>47,6667</td>
+<td rowspan="4">4,893</td>
+<td rowspan="4">
+Участок Верхний
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>03</td>
+<td>51,9192</td>
+<td>49</td>
+<td>24</td>
+<td>47,6667</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>03</td>
+<td>51,9192</td>
+<td>49</td>
+<td>24</td>
+<td>40,8888</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>03</td>
+<td>40,3199</td>
+<td>49</td>
+<td>24</td>
+<td>40,8888</td>
+</tr>
+<tr>
+<td rowspan="4">11</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>53,7864</td>
+<td>49</td>
+<td>10</td>
+<td>2,2152</td>
+<td rowspan="4">4,680</td>
+<td rowspan="4">
+Участок Западный
+в районе Самар
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>57</td>
+<td>4,3272</td>
+<td>49</td>
+<td>10</td>
+<td>2,2152</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>57</td>
+<td>4,3272</td>
+<td>49</td>
+<td>09</td>
+<td>55,1268</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>56</td>
+<td>53,7864</td>
+<td>49</td>
+<td>09</td>
+<td>55,1268</td>
+</tr>
+<tr>
+<td rowspan="4">12</td>
+<td>1</td>
+<td>82</td>
+<td>57</td>
+<td>8,1108</td>
+<td>49</td>
+<td>09</td>
+<td>59,5584</td>
+<td rowspan="4">4,68</td>
+<td rowspan="4">
+Участок Вертикальный
+в районе Самар
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>57</td>
+<td>30,816</td>
+<td>49</td>
+<td>09</td>
+<td>59,5584</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>57</td>
+<td>30,816</td>
+<td>49</td>
+<td>09</td>
+<td>56,2608</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>57</td>
+<td>8,1108</td>
+<td>49</td>
+<td>09</td>
+<td>56,2608</td>
+</tr>
+<tr>
+<td rowspan="4">13</td>
+<td>1</td>
+<td>84</td>
+<td>54</td>
+<td>57,3228</td>
+<td>49</td>
+<td>03</td>
+<td>33,8976</td>
+<td rowspan="4">4,773</td>
+<td rowspan="64"></td>
+<td rowspan="4">
+Участок Правый
+в Катон-Карагайском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>55</td>
+<td>20,6832</td>
+<td>49</td>
+<td>03</td>
+<td>33,8976</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>55</td>
+<td>20,6832</td>
+<td>49</td>
+<td>03</td>
+<td>30,6396</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>54</td>
+<td>57,3228</td>
+<td>49</td>
+<td>03</td>
+<td>30,6396</td>
+</tr>
+<tr>
+<td rowspan="4">14</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>52,1981</td>
+<td>49</td>
+<td>23</td>
+<td>00,8598</td>
+<td rowspan="4">4,3</td>
+<td rowspan="4">
+Участок Салкынтобе
+в Жарминском районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>46,3321</td>
+<td>49</td>
+<td>23</td>
+<td>00,8572</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>46,3398</td>
+<td>49</td>
+<td>22</td>
+<td>49,0643</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>52,1575</td>
+<td>49</td>
+<td>22</td>
+<td>49,0643</td>
+</tr>
+<tr>
+<td rowspan="4">15</td>
+<td>1</td>
+<td>84</td>
+<td>50</td>
+<td>41</td>
+<td>50</td>
+<td>01</td>
+<td>00</td>
+<td rowspan="4">4,063</td>
+<td rowspan="4">
+Участок Черновая 1
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>50</td>
+<td>47</td>
+<td>50</td>
+<td>01</td>
+<td>00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>50</td>
+<td>47</td>
+<td>50</td>
+<td>00</td>
+<td>49</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>50</td>
+<td>41</td>
+<td>50</td>
+<td>00</td>
+<td>49</td>
+</tr>
+<tr>
+<td rowspan="4">16</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>46</td>
+<td>49</td>
+<td>58</td>
+<td>13</td>
+<td rowspan="4">2,254</td>
+<td rowspan="4">
+Участок Черновая 2
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>50</td>
+<td>21</td>
+<td>49</td>
+<td>58</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>50</td>
+<td>22</td>
+<td>49</td>
+<td>58</td>
+<td>14</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>46</td>
+<td>49</td>
+<td>58</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="4">17</td>
+<td>1</td>
+<td>84</td>
+<td>51</td>
+<td>34,67</td>
+<td>49</td>
+<td>58</td>
+<td>24,54</td>
+<td rowspan="4">4,179</td>
+<td rowspan="4">
+Участок Черновая 3
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>52</td>
+<td>01,67</td>
+<td>49</td>
+<td>58</td>
+<td>27,16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>52</td>
+<td>02,37</td>
+<td>49</td>
+<td>58</td>
+<td>24,76</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>51</td>
+<td>35,23</td>
+<td>49</td>
+<td>58</td>
+<td>22,05</td>
+</tr>
+<tr>
+<td rowspan="4">18</td>
+<td>1</td>
+<td>84</td>
+<td>57</td>
+<td>22,5</td>
+<td>49</td>
+<td>59</td>
+<td>44,29</td>
+<td rowspan="4">4,859</td>
+<td rowspan="4">
+Участок Черновая 4
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>57</td>
+<td>43,04</td>
+<td>49</td>
+<td>59</td>
+<td>49,82</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>57</td>
+<td>45,24</td>
+<td>49</td>
+<td>59</td>
+<td>46,60</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>57</td>
+<td>24,56</td>
+<td>49</td>
+<td>59</td>
+<td>41</td>
+</tr>
+<tr>
+<td rowspan="4">19</td>
+<td>1</td>
+<td>84</td>
+<td>58</td>
+<td>20,79</td>
+<td>50</td>
+<td>00</td>
+<td>20,13</td>
+<td rowspan="4">4,808</td>
+<td rowspan="4">
+Участок Черновая 5
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>58</td>
+<td>29,69</td>
+<td>50</td>
+<td>00</td>
+<td>18,18</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>58</td>
+<td>25,29</td>
+<td>50</td>
+<td>00</td>
+<td>10,44</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>58</td>
+<td>16,25</td>
+<td>50</td>
+<td>00</td>
+<td>12,44</td>
+</tr>
+<tr>
+<td rowspan="4">20</td>
+<td>1</td>
+<td>84</td>
+<td>58</td>
+<td>32,89</td>
+<td>50</td>
+<td>01</td>
+<td>29,25</td>
+<td rowspan="4">4,54</td>
+<td rowspan="4">
+Участок Черновая 6
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>58</td>
+<td>37,67</td>
+<td>50</td>
+<td>01</td>
+<td>29,12</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>58</td>
+<td>35,89</td>
+<td>50</td>
+<td>01</td>
+<td>13,79</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>58</td>
+<td>31,07</td>
+<td>50</td>
+<td>01</td>
+<td>13,94</td>
+</tr>
+<tr>
+<td rowspan="4">21</td>
+<td>1</td>
+<td>84</td>
+<td>59</td>
+<td>35,62</td>
+<td>50</td>
+<td>01</td>
+<td>51,18</td>
+<td rowspan="4">4,477</td>
+<td rowspan="4">
+Участок Черновая 7
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>84</td>
+<td>59</td>
+<td>43,23</td>
+<td>50</td>
+<td>01</td>
+<td>51,93</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84</td>
+<td>59</td>
+<td>45,18</td>
+<td>50</td>
+<td>01</td>
+<td>42,65</td>
+</tr>
+<tr>
+<td>4</td>
+<td>84</td>
+<td>59</td>
+<td>37,51</td>
+<td>50</td>
+<td>01</td>
+<td>41,83</td>
+</tr>
+<tr>
+<td rowspan="4">22</td>
+<td>1</td>
+<td>85</td>
+<td>00</td>
+<td>19,65</td>
+<td>50</td>
+<td>02</td>
+<td>13,31</td>
+<td rowspan="4">4,001</td>
+<td rowspan="4">
+Участок Черновая 8
+в районе Алтай
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>00</td>
+<td>23,74</td>
+<td>50</td>
+<td>02</td>
+<td>11,84</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>00</td>
+<td>13,29</td>
+<td>50</td>
+<td>01</td>
+<td>59,59</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>00</td>
+<td>09,24</td>
+<td>50</td>
+<td>02</td>
+<td>01,06</td>
+</tr>
+<tr>
+<td rowspan="4">23</td>
+<td>1</td>
+<td>82</td>
+<td>03</td>
+<td>2,8800</td>
+<td>49</td>
+<td>24</td>
+<td>13,5288</td>
+<td rowspan="4">4,918</td>
+<td rowspan="4">
+Участок Сухой лог
+в Жарминском
+районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>03</td>
+<td>14,4755</td>
+<td>49</td>
+<td>24</td>
+<td>13,5288</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>03</td>
+<td>14,4755</td>
+<td>49</td>
+<td>24</td>
+<td>6,7086</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>03</td>
+<td>2,8786</td>
+<td>49</td>
+<td>24</td>
+<td>6,7086</td>
+</tr>
+<tr>
+<td rowspan="4">24</td>
+<td>1</td>
+<td>85</td>
+<td>07</td>
+<td>21,6221</td>
+<td>48</td>
+<td>26</td>
+<td>22,1500</td>
+<td rowspan="4">0,497</td>
+<td rowspan="4">
+Участок
+Мостовой
+в Курчумском
+районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85</td>
+<td>07</td>
+<td>22,5775</td>
+<td>48</td>
+<td>26</td>
+<td>22,1600</td>
+</tr>
+<tr>
+<td>3</td>
+<td>85</td>
+<td>07</td>
+<td>23,9938</td>
+<td>48</td>
+<td>26</td>
+<td>15,3463</td>
+</tr>
+<tr>
+<td>4</td>
+<td>85</td>
+<td>07</td>
+<td>22,6384</td>
+<td>48</td>
+<td>26</td>
+<td>15,3366</td>
+</tr>
+<tr>
+<td rowspan="4">25</td>
+<td>1</td>
+<td>81</td>
+<td>14</td>
+<td>59,1936</td>
+<td>49</td>
+<td>44</td>
+<td>26,0412</td>
+<td rowspan="4">4,876</td>
+<td rowspan="4">
+Участок Каратобе 1
+в Жарминском
+районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>15</td>
+<td>8,0208</td>
+<td>49</td>
+<td>44</td>
+<td>26,0412</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>15</td>
+<td>8,0208</td>
+<td>49</td>
+<td>44</td>
+<td>17,1168</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>14</td>
+<td>59,1936</td>
+<td>49</td>
+<td>44</td>
+<td>17,1168</td>
+</tr>
+<tr>
+<td rowspan="4">26</td>
+<td>1</td>
+<td>81</td>
+<td>18</td>
+<td>44,3916</td>
+<td>49</td>
+<td>45</td>
+<td>32,7780</td>
+<td rowspan="4">4,904</td>
+<td rowspan="4">
+Участок Каратобе 2
+в Жарминском
+районе
+</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>18</td>
+<td>53,2188</td>
+<td>49</td>
+<td>45</td>
+<td>32,7780</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>18</td>
+<td>53,2188</td>
+<td>49</td>
+<td>45</td>
+<td>23,7996</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>18</td>
+<td>44,3916</td>
+<td>49</td>
+<td>45</td>
+<td>23,7996</td>
+</tr>
+<tr>
+<td rowspan="4">27</td>
+<td>1</td>
+<td>81</td>
+<td>13</td>
+<td>55,17</td>
+<td>49</td>
+<td>19</td>
+<td>21,88</td>
+<td rowspan="4">4,919</td>
+<td rowspan="4">Участок № 3 в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>14</td>
+<td>2,93</td>
+<td>49</td>
+<td>19</td>
+<td>21,04</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>14</td>
+<td>1,51</td>
+<td>49</td>
+<td>19</td>
+<td>10,95</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>13</td>
+<td>53,66</td>
+<td>49</td>
+<td>19</td>
+<td>12,15</td>
+</tr>
+<tr>
+<td rowspan="4">28</td>
+<td>1</td>
+<td>81</td>
+<td>13</td>
+<td>46,27</td>
+<td>49</td>
+<td>19</td>
+<td>22,84</td>
+<td rowspan="4">4,827</td>
+<td rowspan="4">Участок № 4 в Жарминском районе</td>
+<td rowspan="4">_</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>13</td>
+<td>54,30</td>
+<td>49</td>
+<td>19</td>
+<td>21,87</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>13</td>
+<td>52,86</td>
+<td>49</td>
+<td>19</td>
+<td>12,28</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>13</td>
+<td>44,99</td>
+<td>49</td>
+<td>19</td>
+<td>13,32</td>
 </tr>
 </table>
