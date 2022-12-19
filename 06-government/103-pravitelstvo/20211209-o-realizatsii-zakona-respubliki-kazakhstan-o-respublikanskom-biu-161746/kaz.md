@@ -1,5 +1,5 @@
 ---
-version_id: '161746_607141'
+version_id: '161746_617437'
 act_code: '161746'
 language: kaz
 title: «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2021-12-09
-version_date: 2022-11-17
+version_date: 2022-12-19
 registry_number: '161746'
 caused_by:
-  code: '173991'
-  title: 2022 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2021 жылғы 9 желтоқсандағы № 872 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/173991/kaz
-source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
+  code: '175585'
+  title: 2022 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2021 жылғы 9 желтоқсандағы № 872 қаулысына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/175585/kaz
+source: https://zan.gov.kz/client/#!/doc/161746/kaz/19.12.2022
 ---
 
 # «2022 – 2024 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -37,11 +37,11 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 
       трансферттер түсімдері бойынша – 5 502 725 340 мың теңге;
 
-   2) шығындар – 18 054 570 930 мың теңге;
+   2) шығындар – 18 049 898 733 мың теңге;
 
-   3) таза бюджеттік кредиттеу – 503 599 870 мың теңге, оның ішінде:
+   3) таза бюджеттік кредиттеу – 508 272 067 мың теңге, оның ішінде:
 
-      бюджеттік кредиттер – 655 415 982 мың теңге;
+      бюджеттік кредиттер – 660 088 179 мың теңге;
 
       бюджеттік кредиттерді өтеу – 151 816 112 мың теңге;
 
@@ -55,7 +55,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 
    7) бюджет тапшылығын қаржыландыру – 2 978 262 832 мың теңге көлемінде атқаруға қабылдансын.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 2. Мыналар:
 
@@ -235,10876 +235,10728 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 
 **А. Мамин**
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы « 9 » желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *1-қосымша*
 
 ## Басым республикалық бюджеттік инвестициялардың тізбесі
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
-</tr>
+<td colspan="22">Функционалдық топ</td>
+<td colspan="5" rowspan="4">Атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="18">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="6" rowspan="3">2024 жыл</td>
+</tr>
 <tr>
-<td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
-</tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="14">Бағдарлама</td>
+</tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">Кіші бағдарлама</td>
+</tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Барлығы:</td>
+<td colspan="6">1 950 004 839</td>
+<td colspan="6">445 486 970</td>
+<td colspan="6">174 452 449</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Барлығы:</th>
-<th>1 979 580 147</th>
-<th>445 486 970</th>
-<th>174 452 449</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">I. Республикалық бюджеттік инвестициялық жобалар</td>
+<td colspan="6">359 670 921</td>
+<td colspan="6">180 567 139</td>
+<td colspan="6">54 870 213</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">I. Республикалық бюджеттік инвестициялық жобалар</th>
-<th>380 189 047</th>
-<th>180 567 139</th>
-<th>54 870 213</th>
+<td colspan="4">1</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
+<td colspan="6">32 833 086</td>
+<td colspan="6">22 548 162</td>
+<td colspan="6">1 247 712</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</th>
-<th>32 983 118</th>
-<th>22 548 162</th>
-<th>1 247 712</th>
+<td colspan="4"></td>
+<td colspan="4">217</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Қаржы министрлiгi</td>
+<td colspan="6">32 555 454</td>
+<td colspan="6">22 548 162</td>
+<td colspan="6">1 247 712</td>
 </tr>
 <tr>
-<th></th>
-<th>217</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Қаржы министрлiгi</th>
-<th>32 666 711</th>
-<th>22 548 162</th>
-<th>1 247 712</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">030</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Қаржы министрлігінің ақпараттық жүйелерін құру және дамыту</td>
+<td colspan="6">704 895</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>030</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Қаржы министрлігінің ақпараттық жүйелерін құру және дамыту</td>
-<td>804 176</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">100</td>
 <td></td>
-<td></td>
+<td colspan="4">Қазынашылық комитетінің ақпараттық жүйелерін дамыту</td>
+<td colspan="6">164 131</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазынашылық комитетінің ақпараттық жүйелерін дамыту</td>
-<td>228 301</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">164 131</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазынашылықтың ақпараттық жүйелерін жаңғырту мен дамыту</td>
+<td colspan="6">164 131</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
+<td colspan="4">«Cалықтық әкімшілендірудің біріктірілген жүйесі» ақпараттық жүйесін құру, енгізу және дамыту</td>
+<td colspan="6">276 580</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">276 580</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Салық әкімшілігі жүйелерін реформалау</td>
+<td colspan="6">276 580</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">103</td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Мемлекеттік жоспарлау ақпараттық жүйесін дамыту</td>
+<td colspan="6">264 184</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">264 184</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Мемлекеттік жоспарлау ақпараттық жүйесін дамыту</td>
+<td colspan="6">264 184</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>228 301</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">072</td>
+<td colspan="9"></td>
+<td colspan="5">Салықтық әкімшілендіру жүйесін реформалау</td>
+<td colspan="6">21 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазынашылықтың ақпараттық жүйелерін жаңғырту мен дамыту</td>
-<td>228 301</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">016</td>
 <td></td>
+<td colspan="4">Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
+<td colspan="6">21 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>«Cалықтық әкімшілендірудің біріктірілген жүйесі» ақпараттық жүйесін құру, енгізу және дамыту</td>
-<td>311 691</td>
-<td></td>
-<td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">21 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Салықтық әкімшілендіру жүйесін реформалау</td>
+<td colspan="6">21 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>311 691</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">205</td>
+<td colspan="9"></td>
+<td colspan="5">Шекарадағы өткізу пункттерін жаңғырту және техникалық жарақтандыру</td>
+<td colspan="6">31 828 959</td>
+<td colspan="6">22 548 162</td>
+<td colspan="6">1 247 712</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">004</td>
 <td></td>
-<td></td>
-<td>Салық әкімшілігі жүйелерін реформалау</td>
-<td>311 691</td>
-<td></td>
-<td></td>
+<td colspan="4">Cыртқы қарыздар есебiнен</td>
+<td colspan="6">31 822 363</td>
+<td colspan="6">22 406 125</td>
+<td colspan="6">1 108 588</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>103</td>
-<td></td>
-<td>Мемлекеттік жоспарлау ақпараттық жүйесін дамыту</td>
-<td>264 184</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">31 822 363</td>
+<td colspan="6">22 406 125</td>
+<td colspan="6">1 108 588</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Еуразиялық экономикалық одақтың кедендік шекарасының қазақстандық учаскесінде орналасқан өткізу пункттерін және Қазақстан Республикасы Қаржы министрлігі Мемлекеттік кірістер комитетінің Бас диспетчерлік басқармасын жаңғырту және техникалық жете жарақтандыру</td>
+<td colspan="6">31 822 363</td>
+<td colspan="6">22 406 125</td>
+<td colspan="6">1 108 588</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">030</td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">6 596</td>
+<td colspan="6">142 037</td>
+<td colspan="6">139 124</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">6 596</td>
+<td colspan="6">142 037</td>
+<td colspan="6">139 124</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Еуразиялық экономикалық одақтың кедендік шекарасының қазақстандық учаскесінде орналасқан өткізу пункттерін және Қазақстан Республикасы Қаржы министрлігі Мемлекеттік кірістер комитетінің Бас диспетчерлік басқармасын жаңғырту және техникалық жете жарақтандыру</td>
+<td colspan="6">6 596</td>
+<td colspan="6">142 037</td>
+<td colspan="6">139 124</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>264 184</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4">608</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Мемлекеттік қызмет істері агенттігі</td>
+<td colspan="6">271 429</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мемлекеттік жоспарлау ақпараттық жүйесін дамыту</td>
-<td>264 184</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">017</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Мемлекеттік қызмет істері агенттігінің ақпараттық жүйелерін құру және дамыту</td>
+<td colspan="6">271 429</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>072</td>
-<td></td>
-<td colspan="2">Салықтық әкімшілендіру жүйесін реформалау</td>
-<td>21 600</td>
-<td></td>
-<td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">271 429</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Е-Қызмет» интеграцияланған ақпараттық жүйесін («Е-Қызмет» жүйесі, ИАЖ) дамыту және жаңғырту</td>
+<td colspan="6">271 429</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4">693</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Материалдық-техникалық қамтамасыз ету басқармасы</td>
+<td colspan="6">6 203</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">001</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Парламентінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="6">6 203</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">101</td>
 <td></td>
-<td>016</td>
+<td colspan="4">Материалдық-техникалық қамтамасыз ету басқармасы ғимараттарын, құрылыстарын салу</td>
+<td colspan="6">6 203</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
-<td>21 600</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">6 203</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Нұр-Сұлтан қаласы Есіл ауданы, Мәңгілік Ел даңғылы, №2 және №4 үйде орналасқан Қазақстан Республикасы Парламентінің (Сенат, Мәжіліс) қолданыстағы әкімшілік ғимараттарына резервтік электрмен жабдықтау желілерін салу» ЖСҚ әзірлеу</td>
+<td colspan="6">6 203</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4">2</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қорғаныс</td>
+<td colspan="6">57 601 134</td>
+<td colspan="6">34 045 874</td>
+<td colspan="6">11 362 824</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4">202</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Төтенше жағдайлар министрлігі</td>
+<td colspan="6">52 704 372</td>
+<td colspan="6">23 156 657</td>
+<td colspan="6">2 020 145</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">006</td>
+<td colspan="9"></td>
+<td colspan="5">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
+<td colspan="6">52 704 372</td>
+<td colspan="6">23 156 657</td>
+<td colspan="6">2 020 145</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">100</td>
 <td></td>
+<td colspan="4">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
+<td colspan="6">52 704 372</td>
+<td colspan="6">23 156 657</td>
+<td colspan="6">2 020 145</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="6">12 757 464</td>
+<td colspan="6">667 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6">12 215 084</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Ақмола облысы Целиноград ауданының Қосшы ауылында геологиялық жағдайлары қалыпты ІІІА және ІВ климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
+<td colspan="6">501 721</td>
+<td colspan="6">667 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Ақмола облысы Аршалы ауданы Жібек жолы ауылында геологиялық жағдайлары қалыпты ІВ, ІІІА климаттық кіші аудандарға арналған V типті 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысына» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
+<td colspan="6">15 038</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Ақмола облысы Целиноград ауданы Талапкер ауылында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандарға арналған V типті 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысына» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
+<td colspan="6">15 140</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақмола облысы Бурабай ауданы Бурабай көлінің жағасында суда құтқару станциясының құрылысы</td>
+<td colspan="6">946</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>21 600</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td></td>
+<td colspan="4">Ақмола облысы Бурабай ауданы Үлкен Шабақты көлінің жағасында суда құтқару станциясының құрылысы</td>
+<td colspan="6">9 535</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="6">20 966 400</td>
+<td colspan="6">17 014 391</td>
+<td colspan="6">2 020 145</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Қорғас» халықаралық шекара маңы ынтымақтастығы орталығы ауданындағы Қорғас өзенінде қорғау құрылыстарын және «Қорғас» (Қорғас-1) кедені ғимараттарын салу</td>
+<td colspan="6">1 938 382</td>
+<td colspan="6">6 933 391</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы Панфилов ауданында «Қорғас» шекара маңы ынтымақтастығы халықаралық орталығы (ШЫХО), «Қорғас-Шығыс қақпасы» шекара маңы сауда-экономикалық аймағы (ШСЭА), Басқыншы, Қорғас кенттері және шекара маңы бекеті учаскелерінде Қорғас өзені бойынша арна қалыптастыру және қорғау құрылыстары</td>
+<td colspan="6">19 028 018</td>
+<td colspan="6">10 081 000</td>
+<td colspan="6">2 020 145</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="6">172 154</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Салықтық әкімшілендіру жүйесін реформалау</td>
-<td>21 600</td>
+<td colspan="4">Жезқазған қаласында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
+<td colspan="6">86 077</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Сәтпаев қаласында геологиялық жағдайлары қалыпты IВ және IIIА климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
+<td colspan="6">86 077</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="6">13 933</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Рудный қаласында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандарға арналған II типті 4 втомобильге арналған өрт сөндіру депосының кешенін салуға» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
+<td colspan="6">13 933</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>205</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="6">17 696</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td colspan="2">Шекарадағы өткізу пункттерін жаңғырту және техникалық жарақтандыру</td>
-<td>31 840 935</td>
-<td>22 548 162</td>
-<td>1 247 712</td>
+<td colspan="4">Қызылорда облысы Арал қаласы өрт сөндіру депосының ғимаратын газбен жабдықтау</td>
+<td colspan="6">17 696</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="6">603 048</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Жобалық геологиялық жағдайлары қалыпты IБ және IIIA климаттық кіші аудандарына арналған жеке жоба бойынша СҚО Қызылжар өңіріндегі Пестрое көлінің жағасында жедел-құтқару жасағы кешенінің құрылысы</td>
+<td colspan="6">303 048</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>004</td>
+<td colspan="4">Солтүстік Қазақстан облысы Петропавл қаласының «Береке» ықшам ауданында 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
+<td colspan="6">300 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Cыртқы қарыздар есебiнен</td>
-<td>31 822 363</td>
-<td>22 406 125</td>
-<td>1 108 588</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">409 339</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан қаласында, Кентау трассасы бойында, 048-орамда «Cейсмикалық белсенділігі 7 балл IVА IVГ климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу»</td>
+<td colspan="6">370 964</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Түркістан облысы Түркістан қаласында Шәуілдір трассасы бойында «геологиялық жағдайлары қалыпты IVA, IVГ климаттық кіші аудандарға арналған II типті 4 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысы» үлгілік жобасын байланыстыру бойынша жобалау-сметалық құжаттама әзірлеу</td>
+<td colspan="6">20 333</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Түркістан облысы Келес ауданы Ақтөбе ауылдық округінің Қызыләскер ауылында сейсмикалық белсенділігі 8 балл болатын V типті ІІІА, ІІІВ, IVГ климаттық кіші аудандардағы 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысы» үлгілік жобасын байланыстыру бойынша жобалау-сметалық құжаттама әзірлеу</td>
+<td colspan="6">18 042</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="6">17 733 393</td>
+<td colspan="6">5 475 266</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Ақсай өзенінің бассейнінде сел ұстайтын бөгетін салу</td>
+<td colspan="6">12 220 970</td>
+<td colspan="6">5 475 266</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Үлкен Алматы өзенінің жоғарғы жағы мен Аюсай өзені сағасынан төмен сел ұстайтын бөгетін салу</td>
+<td colspan="6">5 512 423</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">30 945</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">ӘК (әуе кемелерін) сақтау және техникалық қызмет көрсету үшін ангарлар салуға ЖСҚ әзірлеу</td>
+<td colspan="6">30 945</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>31 822 363</th>
-<th>22 406 125</th>
-<th>1 108 588</th>
+<td colspan="4"></td>
+<td colspan="4">208</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Қорғаныс министрлiгi</td>
+<td colspan="6">4 896 762</td>
+<td colspan="6">10 889 217</td>
+<td colspan="6">9 342 679</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Еуразиялық экономикалық одақтың кедендік шекарасының қазақстандық учаскесінде орналасқан өткізу пункттерін және Қазақстан Республикасы Қаржы министрлігі Мемлекеттік кірістер комитетінің Бас диспетчерлік басқармасын жаңғырту және техникалық жете жарақтандыру</td>
-<td>31 822 363</td>
-<td>22 406 125</td>
-<td>1 108 588</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">047</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Қарулы Күштерінің жауынгерлік, жұмылдыру дайындығын қамтамасыз ету</td>
+<td colspan="6">4 896 762</td>
+<td colspan="6">10 889 217</td>
+<td colspan="6">9 342 679</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">104</td>
 <td></td>
+<td colspan="4">Қарулы Күштердің объектілерін салу</td>
+<td colspan="6">4 139 884</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>030</td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">4 139 884</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>18 572</td>
-<td>142 037</td>
-<td>139 124</td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6">4 139 884</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">107</td>
 <td></td>
+<td colspan="4">Қарулы Күштердің автоматтандырылған басқару жүйесін құру</td>
+<td colspan="6">756 878</td>
+<td colspan="6">10 169 925</td>
+<td colspan="6">9 342 679</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">756 878</td>
+<td colspan="6">10 169 925</td>
+<td colspan="6">9 342 679</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6">756 878</td>
+<td colspan="6">10 169 925</td>
+<td colspan="6">9 342 679</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">112</td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Арнайы мақсаттағы геоақпараттық платформаны құру</td>
+<td colspan="6"></td>
+<td colspan="6">719 292</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6"></td>
+<td colspan="6">719 292</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6"></td>
+<td colspan="6">719 292</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>18 572</th>
-<th>142 037</th>
-<th>139 124</th>
+<td colspan="4">3</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
+<td colspan="6">21 792 809</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Еуразиялық экономикалық одақтың кедендік шекарасының қазақстандық учаскесінде орналасқан өткізу пункттерін және Қазақстан Республикасы Қаржы министрлігі Мемлекеттік кірістер комитетінің Бас диспетчерлік басқармасын жаңғырту және техникалық жете жарақтандыру</td>
-<td>18 572</td>
-<td>142 037</td>
-<td>139 124</td>
+<td colspan="4"></td>
+<td colspan="4">201</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Ішкі істер министрлігі</td>
+<td colspan="6">7 919 003</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th>608</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Мемлекеттік қызмет істері агенттігі</th>
-<th>310 204</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">076</td>
+<td colspan="9"></td>
+<td colspan="5">Қоғамдық тәртіпті сақтау және қоғамдық қауіпсіздікті қамтамасыз ету</td>
+<td colspan="6">7 893 305</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">110</td>
 <td></td>
+<td colspan="4">Қоғамдық тәртіп, қауіпсіздік объектілерін салу, реконструкциялау</td>
+<td colspan="6">3 664 749</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>017</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td colspan="2">Қазақстан Республикасы Мемлекеттік қызмет істері агенттігінің ақпараттық жүйелерін құру және дамыту</td>
-<td>310 204</td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="6">34 069</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Атырау қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">34 069</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="6">34 274</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Орал қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">34 274</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="6">461 371</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Жезқазған қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">461 371</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="6">34 274</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">«Қызылорда қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">34 274</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">461 970</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Түркістан қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">461 970</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="6">823 001</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>310 204</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td></td>
+<td colspan="4">«Алматы қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
+<td colspan="6">823 001</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">1 815 790</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласында Қазақстан Республикасы Ұлттық ұланының 3656 әскери бөлім объектілерін (кешендер) салу және құру (авиациялық база)</td>
+<td colspan="6">1 496 085</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Қабанбай батыр даңғылы мен Хусейн бен Талал көшесінің қиылысындағы Қазақстан Республикасы Ішкі істер министрлігі ғимараттарының әкімшілік кешенінің құрылысы. І-кезек» объектісі бойынша ведомстводан тыс сараптамадан өтумен жобалау-іздестіру жұмыстары</td>
+<td colspan="6">319 705</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">125</td>
 <td></td>
+<td colspan="4">Қазақстан Республикасы Ішкі істер министрлігінің ақпараттық жүйелерін дамыту</td>
+<td colspan="6">4 228 556</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>«Е-Қызмет» интеграцияланған ақпараттық жүйесін («Е-Қызмет» жүйесі, ИАЖ) дамыту және жаңғырту</td>
-<td>310 204</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">4 228 556</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Жеке басты биометриялық сәйкестендіру» автоматтандырылған ақпараттық жүйесі</td>
+<td colspan="6">4 228 556</td>
+<td colspan="6">3 939 417</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th>693</th>
-<th></th>
-<th></th>
-<th colspan="2">Материалдық-техникалық қамтамасыз ету басқармасы</th>
-<th>6 203</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">077</td>
+<td colspan="9"></td>
+<td colspan="5">Қылмыстық-атқару жүйесінің қызметін ұйымдастыру</td>
+<td colspan="6">25 698</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
-<td>001</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Парламентінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>6 203</td>
-<td></td>
-<td></td>
+<td colspan="4">Қылмыстық-атқару жүйесінің объектілерін салу, реконструкциялау</td>
+<td colspan="6">25 698</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>101</td>
-<td></td>
-<td>Материалдық-техникалық қамтамасыз ету басқармасы ғимараттарын, құрылыстарын салу</td>
-<td>6 203</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="6">12 849</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«ҚР ҮЖ 1500 МТМ (ІВ, IIIА) -2.2-2012 геологиялық жағдайлары қалыпты (ІВ, IIIА) климаттық кіші аудандар үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған «ЕЦ 166/25 мекемесі» жалпы толтыру лимиті 184 орынды екі тұрғын блогын салу» үлгілік жобасын жергілікті жерге байланыстыру</td>
+<td colspan="6">12 849</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">12 849</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«ҚР ҮЖ 1500 МТМ (ІВ, IIIА) -2.2-2012 геологиялық жағдайлары қалыпты (IB, IIIA) климаттық кіші аудандар үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған «ЕЦ 166/5 мекемесі» жалпы толтыру лимиті 184 орынды екі тұрғын блогын салу» үлгілік жобасын жергілікті жерге байланыстыру</td>
+<td colspan="6">12 849</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>6 203</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4">410</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Ұлттық қауiпсiздiк комитетi</td>
+<td colspan="6">4 864 165</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">002</td>
+<td colspan="9"></td>
+<td colspan="5">Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</td>
+<td colspan="6">4 864 165</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>«Нұр-Сұлтан қаласы Есіл ауданы, Мәңгілік Ел даңғылы, №2 және №4 үйде орналасқан Қазақстан Республикасы Парламентінің (Сенат, Мәжіліс) қолданыстағы әкімшілік ғимараттарына резервтік электрмен жабдықтау желілерін салу» ЖСҚ әзірлеу</td>
-<td>6 203</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">4 864 165</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</td>
+<td colspan="6">4 864 165</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Қорғаныс</th>
-<th>63 294 296</th>
-<th>34 045 874</th>
-<th>11 362 824</th>
+<td colspan="4"></td>
+<td colspan="4">501</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Жоғарғы Соты</td>
+<td colspan="6">3 315 170</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th>202</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Төтенше жағдайлар министрлігі</th>
-<th>50 106 782</th>
-<th>23 156 657</th>
-<th>2 020 145</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">001</td>
+<td colspan="9"></td>
+<td colspan="5">Сот органдарының азаматтардың және ұйымдардың құқықтарын, бостандықтары мен заңды мүдделерін сотта қорғауды қамтамасыз етуі</td>
+<td colspan="6">3 315 170</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">107</td>
 <td></td>
-<td></td>
-<td>006</td>
-<td></td>
-<td colspan="2">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
-<td>50 106 782</td>
-<td>23 156 657</td>
-<td>2 020 145</td>
+<td colspan="4">«Төрелік 2.0» Қазақстан Республикасы сот органдарының автоматтандырылған ақпараттық-талдау жүйесінің» компоненттерін жаңғырту</td>
+<td colspan="6">274 526</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>100</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
-<td>50 106 782</td>
-<td>23 156 657</td>
-<td>2 020 145</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">274 526</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақмола облысы</th>
-<th>10 800 899</th>
-<th>667 000</th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td></td>
+<td colspan="4">«Төрелік 2.0» Қазақстан Республикасы сот органдарының автоматтандырылған ақпараттық-талдау жүйесінің» компоненттерін жаңғырту</td>
+<td colspan="6">274 526</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">112</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td>10 015 084</td>
-<td></td>
-<td></td>
+<td colspan="4">Сот жүйесі органдарының объектілерін салу</td>
+<td colspan="6">3 040 644</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы Целиноград ауданының Қосшы ауылында геологиялық жағдайлары қалыпты ІІІА және ІВ климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
-<td>550 000</td>
-<td>667 000</td>
-<td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Ақмола облысы Аршалы ауданы Жібек жолы ауылында геологиялық жағдайлары қалыпты ІВ, ІІІА климаттық кіші аудандарға арналған V типті 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысына» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
-<td>15 038</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="6">23 079</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>«Ақмола облысы Целиноград ауданы Талапкер ауылында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандарға арналған V типті 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысына» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
-<td>15 140</td>
-<td></td>
-<td></td>
+<td colspan="4">Алматы облысы Еңбекшіқазақ ауданының Есік қаласында қалалық сот ғимаратының құрылысы (ҚР 5 ЗРС (IB, IIIB, IVГ)-9С-2.2-2011 ТЖ байлау). Түзету</td>
+<td colspan="6">11 303</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Щучинск қаласындағы СПЧ-6 қысымы 0,3 МПа дейін жылу жүйесін сұйық отыннан газға реконструкциялау</td>
-<td>62 004</td>
-<td></td>
-<td></td>
+<td colspan="4">Алматы облысының Қапшағай қаласындағы қалалық соттың құрылысы (ҚР 5 3РС (IB, IIID, IVГ) 7С-2.2-2010 типтік жобасын байланыстыру). Түзету</td>
+<td colspan="6">11 776</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>Щучинск қаласындағы СПЧ-7 қысымы 0,3 МПа дейін жылу жүйесін сұйық отыннан газға реконструкциялау</td>
-<td>64 843</td>
-<td></td>
-<td></td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="6">14 457</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Зеленый Бор ауылындағы СПЧ-9 қысымы 0,3 МПа дейін жылу жүйесін сұйық отыннан газға реконструкциялау</td>
-<td>62 004</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
+<td colspan="4">Шығыс Қазақстан облысы Семей қаласында сот ғимаратының құрылысы</td>
+<td colspan="6">14 457</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>Ақмола облысы Бурабай ауданы Бурабай көлінің жағасында суда құтқару станциясының құрылысы</td>
-<td>2 083</td>
-<td></td>
-<td></td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="6">3 108</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы Бурабай ауданы Үлкен Шабақты көлінің жағасында суда құтқару станциясының құрылысы</td>
-<td>14 703</td>
+<td colspan="4">Солтүстік Қазақстан облысы Ғ.Мүсірепов атындағы ауданның Новоишимск ауылында 3 құрамдық сот ғимаратын салу. Түзету (3 3С-2.2-2013 ҚР ТЖ бойынша)</td>
+<td colspan="6">3 108</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы, Түркістан қаласындағы № 1 әкімшілік ғимаратының құрылысы</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы облысы</th>
-<th>21 266 400</th>
-<th>17 014 391</th>
-<th>2 020 145</th>
+<td colspan="4"></td>
+<td colspan="4">502</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Бас прокуратурасы</td>
+<td colspan="6">3 560 368</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қорғас» халықаралық шекара маңы ынтымақтастығы орталығы ауданындағы Қорғас өзенінде қорғау құрылыстарын және «Қорғас» (Қорғас-1) кедені ғимараттарын салу</td>
-<td>1 938 382</td>
-<td>6 933 391</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">001</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасында заңдардың және заңға тәуелді актілердің дәлме-дәл және бірізді қолданылуына жоғары қадағалауды жүзеге асыру</td>
+<td colspan="6">3 560 368</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
-<td></td>
-<td>Алматы облысы Панфилов ауданында «Қорғас» шекара маңы ынтымақтастығы халықаралық орталығы (ШЫХО), «Қорғас-Шығыс қақпасы» шекара маңы сауда-экономикалық аймағы (ШСЭА), Басқыншы, Қорғас кенттері және шекара маңы бекеті учаскелерінде Қорғас өзені бойынша арна қалыптастыру және қорғау құрылыстары</td>
-<td>19 028 018</td>
-<td>10 081 000</td>
-<td>2 020 145</td>
+<td colspan="4">Прокуратура органдары үшін объектілер салу, реконструкциялау</td>
+<td colspan="6">3 560 368</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>Талдықорған қаласы, Балапанов көшесі 45/4 мекенжайында сейсмикалық белсенділігі 8 балл II, IIIА, IIIВ, IVГ климаттық аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
-<td>300 000</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">3 560 368</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан қаласында Түркістан облысы прокуратурасының қызметкерлерін орналастыруға арналған әкімшілік ғимаратының құрылысы</td>
+<td colspan="6">3 560 368</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарағанды облысы</th>
-<th>600 000</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4">681</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Мемлекеттік күзет қызметі</td>
+<td colspan="6">2 134 103</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жезқазған қаласында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
-<td>300 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">002</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасының Мемлекеттік күзет қызметін дамыту бағдарламасы</td>
+<td colspan="6">2 134 103</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Сәтпаев қаласында геологиялық жағдайлары қалыпты IВ және IIIА климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
-<td>300 000</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">2 134 103</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан Республикасының Мемлекеттік күзет қызметін дамыту бағдарламасы</td>
+<td colspan="6">2 134 103</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қостанай облысы</th>
-<th>16 295</th>
-<th></th>
-<th></th>
+<td colspan="4">4</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Бiлiм беру</td>
+<td colspan="6">974 963</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Рудный қаласында геологиялық жағдайлары қалыпты ІВ және ІІІА климаттық кіші аудандарға арналған II типті 4 втомобильге арналған өрт сөндіру депосының кешенін салуға» үлгілік жобаны байланыстыру бойынша ЖСҚ әзірлеу</td>
-<td>16 295</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">201</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Ішкі істер министрлігі</td>
+<td colspan="6">968 377</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қызылорда облысы</th>
-<th>17 696</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">079</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Ішкі істер министрлігінің кадрларын оқыту, біліктілігін арттыру және қайта даярлау</td>
+<td colspan="6">968 377</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">105</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="4">Білім беру объектілерін салу</td>
+<td colspan="6">968 377</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қызылорда облысы Арал қаласы өрт сөндіру депосының ғимаратын газбен жабдықтау</td>
-<td>17 696</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="6">968 377</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан Республикасы Ұлттық ұланы Әскери институтының ғимараттары мен құрылыстарын салу</td>
+<td colspan="6">968 377</td>
+<td colspan="6">4 723 283</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>642 986</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4">240</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
+<td colspan="6">6 586</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жобалық геологиялық жағдайлары қалыпты IБ және IIIA климаттық кіші аудандарына арналған жеке жоба бойынша СҚО Қызылжар өңіріндегі Пестрое көлінің жағасында жедел-құтқару жасағы кешенінің құрылысы</td>
-<td>342 986</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">006</td>
+<td colspan="9"></td>
+<td colspan="5">Мәдениет пен өнер саласындағы техникалық, кәсіптік, орта білімнен кейінгі білім беру ұйымдарында мамандар даярлау және білім алушыларға әлеуметтік қолдау көрсету</td>
+<td colspan="6">6 586</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="4">Мәдениет және өнер саласында қызметін жүзеге асыратын білім беру объектілерін салу, реконструкциялау</td>
+<td colspan="6">6 586</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Солтүстік Қазақстан облысы Петропавл қаласының «Береке» ықшам ауданында 4 автомобильге арналған өрт сөндіру депосы кешенін салу</td>
-<td>300 000</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="6">6 586</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласы, Масанчи көшесі, 67 орналасқан А. Селезнев атындағы Алматы хореографиялық училищесінің жанындағы аумақты абаттандыру және апатты құрылыстарды бұзу арқылы ғимараттың қасбетін қайта құру бойынша жобалық-сметалық құжаттама әзірлеу</td>
+<td colspan="6">6 586</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>578 637</th>
-<th></th>
-<th></th>
+<td colspan="4">5</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Денсаулық сақтау</td>
+<td colspan="6">38 975 339</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан қаласында, Кентау трассасы бойында, 048-орамда «Cейсмикалық белсенділігі 7 балл IVА IVГ климаттық кіші аудандары үшін ІІ типті 4 автомобильге арналған өрт сөндіру депосы кешенін салу»</td>
-<td>533 967</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">226</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td colspan="6">38 975 339</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Түркістан қаласында Шәуілдір трассасы бойында «геологиялық жағдайлары қалыпты IVA, IVГ климаттық кіші аудандарға арналған II типті 4 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысы» үлгілік жобасын байланыстыру бойынша жобалау-сметалық құжаттама әзірлеу</td>
-<td>23 624</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">053</td>
+<td colspan="9"></td>
+<td colspan="5">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
+<td colspan="6">38 975 339</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">114</td>
 <td></td>
+<td colspan="4">Республикалық деңгейдегі денсаулық сақтау объектілерін салу және реконструкциялау</td>
+<td colspan="6">38 975 339</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="6">64 286</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы қаласында Жахангер көшесі, 14 бойынша GMP талаптарына сәйкес иммунобиологиялық препараттарды шығару жөніндегі кешенді салу (жобалау-сметалық құжаттаманы әзірлеу)</td>
+<td colspan="6">64 286</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">38 911 053</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>«Түркістан облысы Келес ауданы Ақтөбе ауылдық округінің Қызыләскер ауылында сейсмикалық белсенділігі 8 балл болатын V типті ІІІА, ІІІВ, IVГ климаттық кіші аудандардағы 2 автомобильге арналған өрт сөндіру депосы кешенінің» құрылысы» үлгілік жобасын байланыстыру бойынша жобалау-сметалық құжаттама әзірлеу</td>
-<td>21 046</td>
+<td colspan="4">Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салуға жобалау-сметалық құжаттаманы әзірлеу</td>
+<td colspan="6">1 079 678</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салу үшін инжинирингтік қызметтер (техникалық және авторлық қадағалау, жобаны басқару)</td>
+<td colspan="6">169 452</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салу (құрылыс-монтаж жұмыстары)</td>
+<td colspan="6">37 661 923</td>
+<td colspan="6">4 424 566</td>
+<td colspan="6">3 160 865</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы қаласы</th>
-<th>16 152 924</th>
-<th>5 475 266</th>
-<th></th>
+<td colspan="4">8</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td colspan="6">32 405 289</td>
+<td colspan="6">790 886</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">240</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
+<td colspan="6">31 595 303</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">033</td>
+<td colspan="9"></td>
+<td colspan="5">Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру</td>
+<td colspan="6">2 223 037</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
+<td colspan="4">Республикалық бюджет қаражаты есебінен мәдениет объектілерін салу, реконструкциялау</td>
+<td colspan="6">2 223 037</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="6">355 218</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Ақсай өзенінің бассейнінде сел ұстайтын бөгетін салу</td>
-<td>10 520 970</td>
-<td>5 475 266</td>
+<td colspan="4">Алматы облысы Еңбекшіқазақ ауданы Рахат ауылдық округінің Өрікті ауылында «Есік» сапар орталығын салу</td>
+<td colspan="6">355 218</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">1 093 197</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы, Ордабасы ауданы, Ордабасы ауылы, «Ордабасы» сапар орталығының құрылысы (түзету)</td>
+<td colspan="6">481 913</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы, Түркістан қаласы «Әзірет Сұлтан» мемлекеттік тарихи-мәдени музей-қорығының «Гаухар ана» кесенесі аймағында қызметкерлерге арналған жатақханасы бар Сапар орталығының құрылысы</td>
+<td colspan="6">378 957</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан облысы, Кентау қаласы «Әзірет Сұлтан» мемлекеттік тарихи-мәдени қорық-мұражайының «Сауран» қалашығы аймағында қызметкерлерге арналған жатақханасы бар Сапар орталығының құрылысы</td>
+<td colspan="6">232 327</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">629 039</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Үлкен Алматы өзенінің жоғарғы жағы мен Аюсай өзені сағасынан төмен сел ұстайтын бөгетін салу</td>
-<td>5 631 954</td>
+<td colspan="4">Нұр-Сұлтан қаласы «Есіл» ауданы «Ильинка» тұрғын алабының солтүстігіне қарай көне Бозоқ қалашығының археологиялық қазбаларының негізінде ашық аспан астындағы Ұлттық парктің орта ғасыр сәулет стиліндегі қоршауын салу</td>
+<td colspan="6">629 039</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">145 583</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Іргелес аумақты бейімдей отырып, «Фрунзе көшесі бойындағы «Театральный» скверінде Қазақ халқының ақыны Абай ескерткіші» монументалдық өнерінің құрылысы мен орнату (Қырғыз Республикасы Бішкек қаласы)</td>
+<td colspan="6">145 583</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>30 945</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">036</td>
+<td colspan="9"></td>
+<td colspan="5">Жоғары жетістіктер спортын дамыту</td>
+<td colspan="6">29 372 266</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">101</td>
 <td></td>
-<td></td>
+<td colspan="4">Спорт объектілерін салу, реконструкциялау</td>
+<td colspan="6">29 372 266</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="6">19 372 266</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>ӘК (әуе кемелерін) сақтау және техникалық қызмет көрсету үшін ангарлар салуға ЖСҚ әзірлеу</td>
-<td>30 945</td>
+<td colspan="4">Алматы облысында олимпиадалық дайындау республикалық базасы. Түзету</td>
+<td colspan="6">19 372 266</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Астана қаласындағы олимпиадалық дайындық орталығы» көп функционалды спорт кешені» базасында Қазақстан Республикасының Ұлттық спорт университетін салу. І кезек (сыртқы инженерлік желілерсіз)</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th>208</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Қорғаныс министрлiгi</th>
-<th>13 187 514</th>
-<th>10 889 217</th>
-<th>9 342 679</th>
+<td colspan="4"></td>
+<td colspan="4">694</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Президентiнiң Іс Басқармасы</td>
+<td colspan="6">809 986</td>
+<td colspan="6">790 886</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>047</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Қарулы Күштерінің жауынгерлік, жұмылдыру дайындығын қамтамасыз ету</td>
-<td>13 187 514</td>
-<td>10 889 217</td>
-<td>9 342 679</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">015</td>
+<td colspan="9"></td>
+<td colspan="5">Щучинск-Бурабай курорттық аймағының инфрақұрылымын дамыту</td>
+<td colspan="6">809 986</td>
+<td colspan="6">790 886</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>104</td>
-<td></td>
-<td>Қарулы Күштердің объектілерін салу</td>
-<td>12 392 777</td>
-<td></td>
-<td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="6">809 986</td>
+<td colspan="6">790 886</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Мәдениет ауылындағы «Бурабай» МҰТП-ның Золотобор орман шаруашылығын кордонының араналған жаңа ғимараттарын салу</td>
+<td colspan="6">309 582</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Бурабай ауылынан Үлкен шабақты және Текекөл және «Бурабай» МҰТП дейін инженерлік желілердің құрылысы. 2-кезек</td>
+<td colspan="6">500 404</td>
+<td colspan="6">790 886</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>12 392 777</th>
-<th></th>
-<th></th>
+<td colspan="4">10</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td colspan="6">35 512 318</td>
+<td colspan="6">31 294 468</td>
+<td colspan="6">11 794 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td>12 392 777</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">207</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
+<td colspan="6">35 512 318</td>
+<td colspan="6">31 294 468</td>
+<td colspan="6">11 794 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">254</td>
+<td colspan="9"></td>
+<td colspan="5">Су ресурстарын тиімді басқару</td>
+<td colspan="6">8 690 982</td>
+<td colspan="6">10 983 468</td>
+<td colspan="6">11 794 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">113</td>
 <td></td>
+<td colspan="4">Республикалық бюджет қаражаты есебінен сумен жабдықтау жүйелерін, гидротехникалық құрылыстарды салу және реконструкциялау</td>
+<td colspan="6">8 690 982</td>
+<td colspan="6">10 983 468</td>
+<td colspan="6">11 794 000</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="6">229 389</td>
+<td colspan="6">1 144 472</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>107</td>
+<td colspan="4">Астана қаласының қорғаныш бөгетін бұрма каналы бар апаттық су ағызғыш орната отырып реконструкциялау</td>
+<td colspan="6"></td>
+<td colspan="6">1 144 472</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қарулы Күштердің автоматтандырылған басқару жүйесін құру</td>
-<td>794 737</td>
-<td>10 169 925</td>
-<td>9 342 679</td>
+<td colspan="4">«Астана қаласының қорғаныс бөгетін бұрма арнасы бар апаттық су ағызғыш орната отырып реконструкциялау» ЖСҚ түзету</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Ақмола облысының Есіл өзенінде Есіл контрреттегішін салу» ЖСҚ әзірлеу</td>
+<td colspan="6">73 239</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Ақмола облысының ұзындығы 337 км Нұра топтық су құбырын реконструкциялау» ЖСҚ әзірлеу</td>
+<td colspan="6">30 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Астана су қоймасын толықтыруға арналған құрылыстар салу» ЖСҚ әзірлеу</td>
+<td colspan="6">26 150</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="6">1 155 357</td>
+<td colspan="6">1 087 167</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">«Алматы облысы Ақсу ауданының Қызылағаш суару алабын салу» ЖЖ</td>
+<td colspan="6">927 026</td>
+<td colspan="6">1 087 167</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Алматы облысының Қарасай ауданындағы Қаскелен топталған сутартқышының құрылысы. Құрылыстың I кезегі (2 және 3-іске қосу кешендері) және II кезегі. Түзету» ЖСҚ әзірлеу</td>
+<td colspan="6">28 331</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы Қарасай ауданында Қасқелең топтық су таратқышын салу. Құрылыстың I кезегі (2-іске қосу кешені). Түзету</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Алматы облысы Қарасай ауданында Қасқелең топтық су таратқышын салу. Құрылыстың I кезек (3-іске қосу кешені). Түзету</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>794 737</th>
-<th>10 169 925</th>
-<th>9 342 679</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td></td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Атырау облысы Индер ауданының «Ақсай» каналын реконструкциялау</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Атырау облысы Құрманғазы ауданы Қоянды топтық су құбырының 6 ұңғымасын салу</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="6">320 202</td>
+<td colspan="6">2 400 000</td>
+<td colspan="6">5 517 094</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Сарысу ауданының Шабақты өзенінде Ынталы су қоймасының құрылыстарын реконструкциялау және техникалық реконструкциялау» ЖЖ</td>
+<td colspan="6">211 702</td>
+<td colspan="6">400 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td>794 737</td>
-<td>10 169 925</td>
-<td>9 342 679</td>
+<td colspan="4">Жамбыл облысы Қордай ауданында Ырғайты өзенінде Ырғайты су қоймасын салу</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">3 768 298</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Жамбыл облысы Талас және Байзақ аудандарының шекарасында Талас өзенінде Ақмола су қоймасын салу</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">1 748 796</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Жамбыл облысы Қордай ауданында Ырғайты өзенінде Ырғайты су қоймасын салу» ЖСҚ әзірлеу</td>
+<td colspan="6">25 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>112</td>
+<td colspan="4">«Жамбыл облысы Қалғұты өзенінде Қалғұты су қоймасын салу» ЖСҚ әзірлеу</td>
+<td colspan="6">25 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Арнайы мақсаттағы геоақпараттық платформаны құру</td>
+<td colspan="4">«Жамбыл облысы Талас және Байзақ аудандарының шекарасында Талас өзенінде Ақмола су қоймасын салу» ЖСҚ әзірлеу</td>
+<td colspan="6">25 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>719 292</td>
+<td colspan="4">«Жамбыл облысының Жуалы ауданында Теріс-Ащыбұлақ су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
+<td colspan="6">20 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Жамбыл облысының Қордай ауданында Қарақоңыз су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
+<td colspan="6">13 500</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th></th>
-<th>719 292</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td></td>
-<td>719 292</td>
-<td></td>
-</tr>
-<tr>
-<th>3</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</th>
-<th>21 808 190</th>
-<th>3 939 417</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>201</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Ішкі істер министрлігі</th>
-<th>7 923 585</th>
-<th>3 939 417</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>076</td>
-<td></td>
-<td colspan="2">Қоғамдық тәртіпті сақтау және қоғамдық қауіпсіздікті қамтамасыз ету</td>
-<td>7 897 887</td>
-<td>3 939 417</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>110</td>
-<td></td>
-<td>Қоғамдық тәртіп, қауіпсіздік объектілерін салу, реконструкциялау</td>
-<td>3 669 331</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Атырау қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Орал қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>461 833</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жезқазған қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>461 833</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қызылорда қаласында Қазақстан Республикасының Ұлттық ұланы үшін 300 орындық казарма салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>34 274</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>461 970</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>461 970</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>823 001</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Алматы қаласында Қазақстан Республикасының Ұлттық ұланы үшін әскери қалашық салу» объектісі бойынша мемлекеттік сараптама қорытындысын алып, ЖСҚ әзірлеу</td>
-<td>823 001</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>1 819 705</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласында Қазақстан Республикасы Ұлттық ұланының 3656 әскери бөлім объектілерін (кешендер) салу және құру (авиациялық база)</td>
-<td>1 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қабанбай батыр даңғылы мен Хусейн бен Талал көшесінің қиылысындағы Қазақстан Республикасы Ішкі істер министрлігі ғимараттарының әкімшілік кешенінің құрылысы. І-кезек» объектісі бойынша ведомстводан тыс сараптамадан өтумен жобалау-іздестіру жұмыстары</td>
-<td>319 705</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>125</td>
-<td></td>
-<td>Қазақстан Республикасы Ішкі істер министрлігінің ақпараттық жүйелерін дамыту</td>
-<td>4 228 556</td>
-<td>3 939 417</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Өзгелер</td>
-<td>4 228 556</td>
-<td>3 939 417</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жеке басты биометриялық сәйкестендіру» автоматтандырылған ақпараттық жүйесі</td>
-<td>4 228 556</td>
-<td>3 939 417</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>077</td>
-<td></td>
-<td colspan="2">Қылмыстық-атқару жүйесінің қызметін ұйымдастыру</td>
-<td>25 698</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Қылмыстық-атқару жүйесінің объектілерін салу, реконструкциялау</td>
-<td>25 698</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақмола облысы</th>
-<th>12 849</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«ҚР ҮЖ 1500 МТМ (ІВ, IIIА) -2.2-2012 геологиялық жағдайлары қалыпты (ІВ, IIIА) климаттық кіші аудандар үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған «ЕЦ 166/25 мекемесі» жалпы толтыру лимиті 184 орынды екі тұрғын блогын салу» үлгілік жобасын жергілікті жерге байланыстыру</td>
-<td>12 849</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>12 849</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«ҚР ҮЖ 1500 МТМ (ІВ, IIIА) -2.2-2012 геологиялық жағдайлары қалыпты (IB, IIIA) климаттық кіші аудандар үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған «ЕЦ 166/5 мекемесі» жалпы толтыру лимиті 184 орынды екі тұрғын блогын салу» үлгілік жобасын жергілікті жерге байланыстыру</td>
-<td>12 849</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>410</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Ұлттық қауiпсiздiк комитетi</th>
-<th>4 864 165</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>002</td>
-<td></td>
-<td colspan="2">Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</td>
-<td>4 864 165</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>4 864 165</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлттық қауіпсіздік жүйесін дамыту бағдарламасы</td>
-<td>4 864 165</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>501</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Жоғарғы Соты</th>
-<th>3 325 969</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>001</td>
-<td></td>
-<td colspan="2">Сот органдарының азаматтардың және ұйымдардың құқықтарын, бостандықтары мен заңды мүдделерін сотта қорғауды қамтамасыз етуі</td>
-<td>3 325 969</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>107</td>
-<td></td>
-<td>«Төрелік 2.0» Қазақстан Республикасы сот органдарының автоматтандырылған ақпараттық-талдау жүйесінің» компоненттерін жаңғырту</td>
-<td>285 662</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>285 662</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Төрелік 2.0» Қазақстан Республикасы сот органдарының автоматтандырылған ақпараттық-талдау жүйесінің» компоненттерін жаңғырту</td>
-<td>285 662</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>112</td>
-<td></td>
-<td>Сот жүйесі органдарының объектілерін салу</td>
-<td>3 040 307</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы облысы</th>
-<th>21 152</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы Еңбекшіқазақ ауданының Есік қаласында қалалық сот ғимаратының құрылысы (ҚР 5 ЗРС (IB, IIIB, IVГ)-9С-2.2-2011 ТЖ байлау). Түзету</td>
-<td>10 576</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысының Қапшағай қаласындағы қалалық соттың құрылысы (ҚР 5 3РС (IB, IIID, IVГ) 7С-2.2-2010 типтік жобасын байланыстыру). Түзету</td>
-<td>10 576</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Шығыс Қазақстан облысы</th>
-<th>14 003</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы Семей қаласында сот ғимаратының құрылысы</td>
-<td>14 003</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>5 152</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы Ғ.Мүсірепов атындағы ауданның Новоишимск ауылында 3 құрамдық сот ғимаратын салу. Түзету (3 3С-2.2-2013 ҚР ТЖ бойынша)</td>
-<td>5 152</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>3 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы, Түркістан қаласындағы № 1 әкімшілік ғимаратының құрылысы</td>
-<td>3 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>502</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Бас прокуратурасы</th>
-<th>3 560 368</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>001</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасында заңдардың және заңға тәуелді актілердің дәлме-дәл және бірізді қолданылуына жоғары қадағалауды жүзеге асыру</td>
-<td>3 560 368</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Прокуратура органдары үшін объектілер салу, реконструкциялау</td>
-<td>3 560 368</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>3 560 368</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан қаласында Түркістан облысы прокуратурасының қызметкерлерін орналастыруға арналған әкімшілік ғимаратының құрылысы</td>
-<td>3 560 368</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>681</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Мемлекеттік күзет қызметі</th>
-<th>2 134 103</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>002</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасының Мемлекеттік күзет қызметін дамыту бағдарламасы</td>
-<td>2 134 103</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>2 134 103</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазақстан Республикасының Мемлекеттік күзет қызметін дамыту бағдарламасы</td>
-<td>2 134 103</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Бiлiм беру</th>
-<th>974 963</th>
-<th>4 723 283</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>201</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Ішкі істер министрлігі</th>
-<th>968 377</th>
-<th>4 723 283</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>079</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Ішкі істер министрлігінің кадрларын оқыту, біліктілігін арттыру және қайта даярлау</td>
-<td>968 377</td>
-<td>4 723 283</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>105</td>
-<td></td>
-<td>Білім беру объектілерін салу</td>
-<td>968 377</td>
-<td>4 723 283</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>968 377</td>
-<td>4 723 283</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазақстан Республикасы Ұлттық ұланы Әскери институтының ғимараттары мен құрылыстарын салу</td>
-<td>968 377</td>
-<td>4 723 283</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>240</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
-<td>6 586</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>006</td>
-<td></td>
-<td colspan="2">Мәдениет пен өнер саласындағы техникалық, кәсіптік, орта білімнен кейінгі білім беру ұйымдарында мамандар даярлау және білім алушыларға әлеуметтік қолдау көрсету</td>
-<td>6 586</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Мәдениет және өнер саласында қызметін жүзеге асыратын білім беру объектілерін салу, реконструкциялау</td>
-<td>6 586</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>6 586</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы, Масанчи көшесі, 67 орналасқан А. Селезнев атындағы Алматы хореографиялық училищесінің жанындағы аумақты абаттандыру және апатты құрылыстарды бұзу арқылы ғимараттың қасбетін қайта құру бойынша жобалық-сметалық құжаттама әзірлеу</td>
-<td>6 586</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Денсаулық сақтау</td>
-<td>42 230 460</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<td></td>
-<td>226</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
-<td>42 230 460</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>053</td>
-<td></td>
-<td colspan="2">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
-<td>42 230 460</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>114</td>
-<td></td>
-<td>Республикалық деңгейдегі денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>42 230 460</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>140 884</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласында Жахангер көшесі, 14 бойынша GMP талаптарына сәйкес иммунобиологиялық препараттарды шығару жөніндегі кешенді салу (жобалау-сметалық құжаттаманы әзірлеу)</td>
-<td>140 884</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>42 089 576</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салуға жобалау-сметалық құжаттаманы әзірлеу</td>
-<td>1 079 678</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салу үшін инжинирингтік қызметтер (техникалық және авторлық қадағалау, жобаны басқару)</td>
-<td>183 812</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Нұр-Сұлтан қаласында Ұлттық ғылыми онкология орталығын салу (құрылыс-монтаж жұмыстары)</td>
-<td>40 826 086</td>
-<td>4 424 566</td>
-<td>3 160 865</td>
-</tr>
-<tr>
-<th>8</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</th>
-<th>33 706 500</th>
-<th>790 886</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>240</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Мәдениет және спорт министрлігі</th>
-<th>32 893 320</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>033</td>
-<td></td>
-<td colspan="2">Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру</td>
-<td>3 521 054</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен мәдениет объектілерін салу, реконструкциялау</td>
-<td>3 521 054</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы облысы</th>
-<th>1 324 303</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы Еңбекшіқазақ ауданы Рахат ауылдық округінің Өрікті ауылында «Есік» сапар орталығын салу</td>
-<td>1 324 303</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>1 197 129</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы, Ордабасы ауданы, Ордабасы ауылы, «Ордабасы» сапар орталығының құрылысы (түзету)</td>
-<td>585 845</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы, Түркістан қаласы «Әзірет Сұлтан» мемлекеттік тарихи-мәдени музей-қорығының «Гаухар ана» кесенесі аймағында қызметкерлерге арналған жатақханасы бар Сапар орталығының құрылысы</td>
-<td>378 957</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы, Кентау қаласы «Әзірет Сұлтан» мемлекеттік тарихи-мәдени қорық-мұражайының «Сауран» қалашығы аймағында қызметкерлерге арналған жатақханасы бар Сапар орталығының құрылысы</td>
-<td>232 327</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>854 039</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Нұр-Сұлтан қаласы «Есіл» ауданы «Ильинка» тұрғын алабының солтүстігіне қарай көне Бозоқ қалашығының археологиялық қазбаларының негізінде ашық аспан астындағы Ұлттық парктің орта ғасыр сәулет стиліндегі қоршауын салу</td>
-<td>854 039</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>145 583</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Іргелес аумақты бейімдей отырып, «Фрунзе көшесі бойындағы «Театральный» скверінде Қазақ халқының ақыны Абай ескерткіші» монументалдық өнерінің құрылысы мен орнату (Қырғыз Республикасы Бішкек қаласы)</td>
-<td>145 583</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>036</td>
-<td></td>
-<td colspan="2">Жоғары жетістіктер спортын дамыту</td>
-<td>29 372 266</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>101</td>
-<td></td>
-<td>Спорт объектілерін салу, реконструкциялау</td>
-<td>29 372 266</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы облысы</th>
-<th>19 372 266</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысында олимпиадалық дайындау республикалық базасы. Түзету</td>
-<td>19 372 266</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>10 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Астана қаласындағы олимпиадалық дайындық орталығы» көп функционалды спорт кешені» базасында Қазақстан Республикасының Ұлттық спорт университетін салу. І кезек (сыртқы инженерлік желілерсіз)</td>
-<td>10 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>694</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Президентiнiң Іс Басқармасы</th>
-<th>813 180</th>
-<th>790 886</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>015</td>
-<td></td>
-<td colspan="2">Щучинск-Бурабай курорттық аймағының инфрақұрылымын дамыту</td>
-<td>813 180</td>
-<td>790 886</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақмола облысы</th>
-<th>813 180</th>
-<th>790 886</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мәдениет ауылындағы «Бурабай» МҰТП-ның Золотобор орман шаруашылығын кордонының араналған жаңа ғимараттарын салу</td>
-<td>312 776</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Бурабай ауылынан Үлкен шабақты және Текекөл және «Бурабай» МҰТП дейін инженерлік желілердің құрылысы. 2-кезек</td>
-<td>500 404</td>
-<td>790 886</td>
-<td></td>
-</tr>
-<tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</th>
-<th>41 209 807</th>
-<th>31 294 468</th>
-<th>11 794 000</th>
-</tr>
-<tr>
-<th></th>
-<th>207</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</th>
-<th>41 209 807</th>
-<th>31 294 468</th>
-<th>11 794 000</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>254</td>
-<td></td>
-<td colspan="2">Су ресурстарын тиімді басқару</td>
-<td>14 388 471</td>
-<td>10 983 468</td>
-<td>11 794 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>113</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен сумен жабдықтау жүйелерін, гидротехникалық құрылыстарды салу және реконструкциялау</td>
-<td>14 388 471</td>
-<td>10 983 468</td>
-<td>11 794 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақмола облысы</th>
-<th>1 944 620</th>
-<th>1 144 472</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласының қорғаныш бөгетін бұрма каналы бар апаттық су ағызғыш орната отырып реконструкциялау</td>
-<td>1 634 381</td>
-<td>1 144 472</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Астана қаласының қорғаныш бөгетін бұрма арнасы бар апаттық су ағызғыш орната отырып реконструкциялау» ЖСҚ түзету</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Ақмола облысының Есіл өзенінде Есіл контрреттегішін салу» ЖСҚ әзірлеу</td>
-<td>73 239</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Ақмола облысының ұзындығы 337 км Нұра топтық су құбырын реконструкциялау» ЖСҚ әзірлеу</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Астана су қоймасын толықтыруға арналған құрылыстар салу» ЖСҚ әзірлеу</td>
-<td>37 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы облысы</th>
-<th>3 238 981</th>
-<th>1 087 167</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Алматы облысы Ақсу ауданының Қызылағаш суару алабын салу» ЖЖ</td>
-<td>3 000 000</td>
-<td>1 087 167</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Алматы облысының Қарасай ауданындағы Қаскелен топталған сутартқышының құрылысы. Құрылыстың I кезегі (2 және 3-іске қосу кешендері) және II кезегі. Түзету» ЖСҚ әзірлеу</td>
-<td>38 981</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы Қарасай ауданында Қасқелең топтық су таратқышын салу. Құрылыстың I кезегі (2-іске қосу кешені). Түзету</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы Қарасай ауданында Қасқелең топтық су таратқышын салу. Құрылыстың I кезек (3-іске қосу кешені). Түзету</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырау облысы</th>
-<th>300 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы Индер ауданының «Ақсай» каналын реконструкциялау</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы Қызылқоға ауданының «Тайсойған-Миялы» магистральды су құбырын салу</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы Құрманғазы ауданы Қоянды топтық су құбырының 6 ұңғымасын салу</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбыл облысы</th>
-<th>486 592</th>
-<th>2 400 000</th>
-<th>5 517 094</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Сарысу ауданының Шабақты өзенінде Ынталы су қоймасының құрылыстарын реконструкциялау және техникалық реконструкциялау» ЖЖ</td>
-<td>211 702</td>
-<td>400 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы Қордай ауданында Ырғайты өзенінде Ырғайты су қоймасын салу</td>
-<td></td>
-<td>1 000 000</td>
-<td>3 768 298</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы Талас және Байзақ аудандарының шекарасында Талас өзенінде Ақмола су қоймасын салу</td>
-<td></td>
-<td>1 000 000</td>
-<td>1 748 796</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жамбыл облысы Қордай ауданында Ырғайты өзенінде Ырғайты су қоймасын салу» ЖСҚ әзірлеу</td>
-<td>93 090</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жамбыл облысы Қалғұты өзенінде Қалғұты су қоймасын салу» ЖСҚ әзірлеу</td>
-<td>79 200</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жамбыл облысы Талас және Байзақ аудандарының шекарасында Талас өзенінде Ақмола су қоймасын салу» ЖСҚ әзірлеу</td>
-<td>71 100</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жамбыл облысының Жуалы ауданында Теріс-Ащыбұлақ су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
-<td>18 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Жамбыл облысының Қордай ауданында Қарақоңыз су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
-<td>13 500</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Батыс Қазақстан облысы</th>
-<th>2 340 687</th>
-<th>1 915 203</th>
-<th>1 540 490</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы Қазталов ауданы Ақпәтер ауылы ауданында Үлкен өзенінде Жайық-Көшім жүйесінен суды алапаралық бұру үшін Киров-Шежін каналын жаңғырту, IV кезең</td>
-<td>1 507 987</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы Ақжайық ауданының Тоған кентіндегі Киров су қоймасын реконструкциялау</td>
-<td>800 000</td>
-<td>915 203</td>
-<td>708 038</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Батыс Қазақстан облысы Казталов ауданының Жалпақтал кентінен жоғары қарай Үлкен Өзен өзенінде су қоймасын салу» ЖСҚ әзірлеу</td>
-<td>32 700</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы Казталов ауданының Жалпақтал кентінен жоғары қарай Үлкен Өзен өзенінде су қоймасын салу</td>
-<td></td>
-<td>1 000 000</td>
-<td>832 452</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарағанды облысы</th>
-<th>707 697</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қарағанды обылысының Жезқазған қаласын сумен қамтамасыз ете отырып, Есқұла су құбырын салу» (№ 2 түзету)</td>
-<td>537 491</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы Бұқар жырау ауданы Шешенқара ауылдық округінде 314 га жерге суару жүйесінің құрылысы</td>
-<td>170 206</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қызылорда облысы</th>
-<th>3 518 806</th>
-<th>1 675 468</th>
-<th>2 868 500</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы Жаңақорған ауданындағы «Тақыркөл» бас су алғышынан № 1 сорғы станциясына дейін магистральды су өткізгішінің екінші желісін салу</td>
-<td>100 000</td>
-<td>675 468</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қызылорда облысы Қызылорда гидроторабын реконструкциялау 1-кезек» ЖЖ</td>
-<td>1 311 761</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы Шиелі ауданының суларын шоғырландыру үшін Сырдария өзенінің Күміскеткен учаскесінде су қоймасынын ЖСҚ әзірлеу және салу</td>
-<td>56 096</td>
-<td>500 000</td>
-<td>1 457 600</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысында Қараөзек тармағында су жинақтауға арналған су қоймасын салу</td>
-<td></td>
-<td>500 000</td>
-<td>1 410 900</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Арал-Сарыбұлақ топтық су құбырының Қосаман-Ақбастыға қосылатын тармағын салу және Қызылорда облысы Арал ауданының Ақбасты елді мекенін сумен жабдықтау» ЖЖ</td>
-<td>1 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы Қазалы ауданы Байқожа топтық су құбырының сумен жабдықтау жүйелерін реконструкциялау</td>
-<td>50 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Көкарал бөгетін сақтау және Сырдария өзенінің сағасын қалпына келтіру</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Көкарал бөгетін сақтау және Сырдария өзенінің сағасын қалпына келтіру» жобасы бойынша ЖСҚ әзірлеу</td>
-<td>949</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>542 037</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысындағы Булаево топтық су құбырының авариялық учаскелерін реконструкциялау</td>
-<td>291 680</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысындағы Есіл су құбырының авариялық учаскелерін реконструкциялау</td>
-<td>243 870</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Булаев топтық су құбырын реконструкциялау және СҚО Тайынша ауданының ауылдық елді мекендеріне (АЕМ) су тартқыштар мен бұруларды салу, 4-кезек</td>
-<td>1 331</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан обл., Шал ақын ауданы, Мерген а., Куприяновка а., Крещенка а., Белоградовка., Городецкое а., Кривощеково а., Алқаағаш а., Ровное а., Ақанбарақ а., Коноваловка а., Көктерек а. бойынша Есіл топтық су құбырына қосылған ауылдық елді мекендердің құбырларын, бұрғыштарын реконструкциялау</td>
-<td>2 307</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысында Есіл топтық су құбырына қосылған ауылдық елді мекендердің су тартқыштарын, бұрғыштарын және тарату желілерін реконструкциялау</td>
-<td>2 849</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>1 309 051</th>
-<th>2 761 158</th>
-<th>1 867 916</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Оңтүстік Қазақстан облысы Түлкібас ауданының суару жүйесінің бірінші кезектегі магистральды каналдарын қалпына келтіру және реконстукциялау</td>
-<td>134 824</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ОҚО Бәйдібек ауданының Қапшағай су қоймасын реконструкциялау</td>
-<td>199 792</td>
-<td>500 000</td>
-<td>453 266</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Ордабасы ауданындағы «Найман» каналын реконструкциялау» ЖЖ</td>
-<td>500 000</td>
-<td>1 000 000</td>
-<td>1 414 650</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Ордабасы ауданындағы «Р-6» каналын реконструкциялау» ЖЖ</td>
-<td>183 470</td>
-<td>400 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Ордабасы ауданындағы «Қазыналық» каналын реконструкциялау» ЖЖ</td>
-<td>172 532</td>
-<td>400 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Ордабасы ауданындағы «Құртай» каналын реконструкциялау» ЖЖ</td>
-<td></td>
-<td>461 158</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>ОҚО, Мақтарал ауданындағы шаруашылықаралық К-26 каналын гидроқұрылымдарымен қоса қайта құрып суды өлшеу-реттеу тәсілдерін автоматтандыру енгізу (2-кезек). Түзету</td>
-<td>110 248</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Түркістан облысы Сырдария өзеніндегі Көксарай контрреттегіш бөгетінің тұрақтылығын арттыруды реконструкциялау» ЖСҚ әзірлеу</td>
-<td>8 185</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>268</td>
-<td></td>
-<td colspan="2">Ирригациялық және дренаждық жүйелерді жетілдіру</td>
-<td>26 821 336</td>
-<td>20 311 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td></td>
-<td>Cыртқы қарыздар есебiнен</td>
-<td>8 046 401</td>
-<td>6 093 300</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>8 046 401</th>
-<th>6 093 300</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ирригациялық және дренаждық жүйелерді жетілдіру</td>
-<td>8 046 401</td>
-<td>6 093 300</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>016</td>
-<td></td>
-<td>Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
-<td>18 774 935</td>
-<td>14 217 700</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>18 774 935</th>
-<th>14 217 700</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ирригациялық және дренаждық жүйелерді жетілдіру</td>
-<td>18 774 935</td>
-<td>14 217 700</td>
-<td></td>
-</tr>
-<tr>
-<th>12</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Көлiк және коммуникация</th>
-<th>87 944 798</th>
-<th>56 385 556</th>
-<th>7 304 576</th>
-</tr>
-<tr>
-<th></th>
-<th>223</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Цифрлық даму, инновациялар жəне аэроғарыш өнеркəсібі министрлігі</th>
-<th>24 618 258</th>
-<th>52 385 556</th>
-<th>4 304 576</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>007</td>
-<td></td>
-<td colspan="2">Еліміздің мемлекеттік геодезиялық және картографиялық қамтамасыз ету жүйесінің деңгейін арттыру</td>
-<td>5 471 306</td>
-<td>5 699 433</td>
-<td>4 304 576</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
-<td>5 471 306</td>
-<td>5 699 433</td>
-<td>4 304 576</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>5 471 306</th>
-<th>5 699 433</th>
-<th>4 304 576</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
-<td>5 471 306</td>
-<td>5 699 433</td>
-<td>4 304 576</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>011</td>
-<td></td>
-<td colspan="2">Пилотсыз ғарыш аппараттарын ұшыру үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымыранының базасында «Бәйтерек» ғарыштық зымыран кешенін құру</td>
-<td>19 146 952</td>
-<td>46 686 123</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>19 146 952</th>
-<th>46 686 123</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұшқышсыз ғарыш аппараттарын ұшыру үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымыранының базасында «Бәйтерек» ғарыштық зымыран кешенін құру</td>
-<td>19 146 952</td>
-<td>46 686 123</td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>63 326 540</th>
-<th>4 000 000</th>
-<th>3 000 000</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>003</td>
-<td></td>
-<td colspan="2">Республикалық деңгейде автомобиль жолдарын дамыту</td>
-<td>52 999 818</td>
-<td>4 000 000</td>
-<td>3 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>004</td>
-<td></td>
-<td>Сыртқы қарыздар есебінен</td>
-<td>41 074 704</td>
-<td>3 400 000</td>
-<td>2 550 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>41 074 704</th>
-<th>3 400 000</th>
-<th>2 550 000</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
-<td>5 100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстарын</td>
-<td>3 400 000</td>
-<td>1 700 000</td>
-<td>1 700 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстарына «Балқаш - Бурылбайтал» учаскесі</td>
-<td>21 846 429</td>
-<td>1 700 000</td>
-<td>850 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
-<td>6 478 275</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Батыс Еуропа - Батыс Қытай» халықаралық транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>425 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан қаласының Шығыс айналма жолын салу</td>
-<td>3 825 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>005</td>
-<td></td>
-<td>Iшкі көздер есебінен</td>
-<td>2 781 675</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>2 781 675</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Орталық-Шығыс «Астана - Павлодар - Қалбатау - Өскемен» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>929 814</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Орталық-Оңтүстік «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>751 861</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Қарабұтақ - Комсомольское - Денисовка - Рудный - Қостанай» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>1 100 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="6">1 974 332</td>
+<td colspan="6">1 915 203</td>
+<td colspan="6">1 540 490</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>016</td>
-<td></td>
-<td>Республикалық бюджеттен сыртқы қарыздарды қоса қаржыландыру есебінен</td>
-<td>9 143 439</td>
-<td>600 000</td>
-<td>450 000</td>
+<td colspan="4">Батыс Қазақстан облысы Қазталов ауданы Ақпәтер ауылы ауданында Үлкен өзенінде Жайық-Көшім жүйесінен суды алапаралық бұру үшін Киров-Шежін каналын жаңғырту, IV кезең</td>
+<td colspan="6">1 372 588</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>9 143 439</th>
-<th>600 000</th>
-<th>450 000</th>
+<td colspan="4">Батыс Қазақстан облысы Ақжайық ауданының Тоған кентіндегі Киров су қоймасын реконструкциялау</td>
+<td colspan="6">569 044</td>
+<td colspan="6">915 203</td>
+<td colspan="6">708 038</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
-<td>900 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
+<td colspan="4">«Батыс Қазақстан облысы Казталов ауданының Жалпақтал кентінен жоғары қарай Үлкен Өзен өзенінде су қоймасын салу» ЖСҚ әзірлеу</td>
+<td colspan="6">32 700</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстарын</td>
-<td>600 000</td>
-<td>300 000</td>
-<td>300 000</td>
+<td colspan="4">Батыс Қазақстан облысы Казталов ауданының Жалпақтал кентінен жоғары қарай Үлкен Өзен өзенінде су қоймасын салу</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">832 452</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстарына «Балқаш - Бурылбайтал» учаскесі</td>
-<td>3 653 571</td>
-<td>300 000</td>
-<td>150 000</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="6">140 169</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
-<td>910 715</td>
-<td></td>
-<td></td>
+<td colspan="4">«Қарағанды обылысының Жезқазған қаласын сумен қамтамасыз ете отырып, Есқұла су құбырын салу» (№ 2 түзету)</td>
+<td colspan="6">56 769</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Батыс Еуропа - Батыс Қытай» халықаралық транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>2 505 403</td>
-<td></td>
-<td></td>
+<td colspan="4">Қарағанды облысы Бұқар жырау ауданы Шешенқара ауылдық округінде 314 га жерге суару жүйесінің құрылысы</td>
+<td colspan="6">83 400</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>Түркістан қаласының шығыс айналма жолын салу</td>
-<td>573 750</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="6">3 195 387</td>
+<td colspan="6">1 675 468</td>
+<td colspan="6">2 868 500</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>207</td>
-<td></td>
-<td colspan="2">Шекара бөлімшелерін жобалау және салу</td>
-<td>10 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызылорда облысы Жаңақорған ауданындағы «Тақыркөл» бас су алғышынан № 1 сорғы станциясына дейін магистральды су өткізгішінің екінші желісін салу</td>
+<td colspan="6">152 000</td>
+<td colspan="6">675 468</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақтөбе облысы</th>
-<th>1 000 000</th>
-<th></th>
-<th></th>
+<td colspan="4">«Қызылорда облысы Қызылорда гидроторабын реконструкциялау 1-кезек» ЖЖ</td>
+<td colspan="6">999 390</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы бойынша «Жайсан» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызылорда облысы Шиелі ауданының суларын шоғырландыру үшін Сырдария өзенінің Күміскеткен учаскесінде су қоймасынын ЖСҚ әзірлеу және салу</td>
+<td colspan="6">28 048</td>
+<td colspan="6">500 000</td>
+<td colspan="6">1 457 600</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы бойынша «Байтурасай» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызылорда облысында Қараөзек тармағында су жинақтауға арналған су қоймасын салу</td>
+<td colspan="6"></td>
+<td colspan="6">500 000</td>
+<td colspan="6">1 410 900</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қостанай облысы</th>
-<th>2 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы бойынша «Кенерал» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">«Арал-Сарыбұлақ топтық су құбырының Қосаман-Ақбастыға қосылатын тармағын салу және Қызылорда облысы Арал ауданының Ақбасты елді мекенін сумен жабдықтау» ЖЖ</td>
+<td colspan="6">1 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қостанай облысы бойынша «Қайрақ» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызылорда облысы Қазалы ауданы Байқожа топтық су құбырының сумен жабдықтау жүйелерін реконструкциялау</td>
+<td colspan="6">15 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы бойынша «Бірлік» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Көкарал бөгетін сақтау және Сырдария өзенінің сағасын қалпына келтіру</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы бойынша «Ұзынағаш» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Павлодар облысы</th>
-<th>1 000 000</th>
-<th></th>
-<th></th>
+<td colspan="4">«Көкарал бөгетін сақтау және Сырдария өзенінің сағасын қалпына келтіру» жобасы бойынша ЖСҚ әзірлеу</td>
+<td colspan="6">949</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы бойынша «Арлан» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="6">535 550</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы бойынша «Шарбақты» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Солтүстік Қазақстан облысындағы Булаево топтық су құбырының авариялық учаскелерін реконструкциялау</td>
+<td colspan="6">291 680</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>6 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Келтесай» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Солтүстік Қазақстан облысындағы Есіл су құбырының авариялық учаскелерін реконструкциялау</td>
+<td colspan="6">243 870</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Талсай» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="6">940 596</td>
+<td colspan="6">2 761 158</td>
+<td colspan="6">1 867 916</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Қарақұдық» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Оңтүстік Қазақстан облысы Түлкібас ауданының суару жүйесінің бірінші кезектегі магистральды каналдарын қалпына келтіру және реконстукциялау</td>
+<td colspan="6">134 824</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Есіл» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">ОҚО Бәйдібек ауданының Қапшағай су қоймасын реконструкциялау</td>
+<td colspan="6">199 792</td>
+<td colspan="6">500 000</td>
+<td colspan="6">453 266</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Каскад» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">«Түркістан облысы Ордабасы ауданындағы «Найман» каналын реконструкциялау» ЖЖ</td>
+<td colspan="6">243 852</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">1 414 650</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Ақ көл» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">«Түркістан облысы Ордабасы ауданындағы «Р-6» каналын реконструкциялау» ЖЖ</td>
+<td colspan="6">183 470</td>
+<td colspan="6">400 000</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Арал ағаш» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Түркістан облысы Ордабасы ауданындағы «Қазыналық» каналын реконструкциялау» ЖЖ</td>
+<td colspan="6">172 532</td>
+<td colspan="6">400 000</td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Жаңажол» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">«Түркістан облысы Ордабасы ауданындағы «Құртай» каналын реконструкциялау» ЖЖ</td>
+<td colspan="6"></td>
+<td colspan="6">461 158</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Ашикен» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">«Түркістан облысы Сырдария өзеніндегі Көксарай контрреттегіш бөгетінің тұрақтылығын арттыруды реконструкциялау» ЖСҚ әзірлеу</td>
+<td colspan="6">6 126</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Қызыл ту» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">268</td>
+<td colspan="9"></td>
+<td colspan="5">Ирригациялық және дренаждық жүйелерді жетілдіру</td>
+<td colspan="6">26 821 336</td>
+<td colspan="6">20 311 000</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Жамбыл» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">004</td>
 <td></td>
+<td colspan="4">Cыртқы қарыздар есебiнен</td>
+<td colspan="6">8 046 401</td>
+<td colspan="6">6 093 300</td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы бойынша «Баян батыр атындағы» шекара бөлімшесінің құрылысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">8 046 401</td>
+<td colspan="6">6 093 300</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>240</td>
+<td colspan="4">Ирригациялық және дренаждық жүйелерді жетілдіру</td>
+<td colspan="6">8 046 401</td>
+<td colspan="6">6 093 300</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">016</td>
 <td></td>
-<td colspan="2">Қазақстан Республикасының Мемлекеттiк шекарасы арқылы өткізу пункттерін салу және реконструкциялау</td>
-<td>326 722</td>
+<td colspan="4">Республикалық бюджеттен сыртқы қарыздарды бірлесіп қаржыландыру есебінен</td>
+<td colspan="6">18 774 935</td>
+<td colspan="6">14 217 700</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">18 774 935</td>
+<td colspan="6">14 217 700</td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ирригациялық және дренаждық жүйелерді жетілдіру</td>
+<td colspan="6">18 774 935</td>
+<td colspan="6">14 217 700</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4">12</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Көлiк және коммуникация</td>
+<td colspan="6">83 767 692</td>
+<td colspan="6">56 385 556</td>
+<td colspan="6">7 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4">223</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Цифрлық даму, инновациялар жəне аэроғарыш өнеркəсібі министрлігі</td>
+<td colspan="6">22 224 889</td>
+<td colspan="6">52 385 556</td>
+<td colspan="6">4 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">007</td>
+<td colspan="9"></td>
+<td colspan="5">Еліміздің мемлекеттік геодезиялық және картографиялық қамтамасыз ету жүйесінің деңгейін арттыру</td>
+<td colspan="6">5 471 306</td>
+<td colspan="6">5 699 433</td>
+<td colspan="6">4 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">102</td>
 <td></td>
+<td colspan="4">Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
+<td colspan="6">5 471 306</td>
+<td colspan="6">5 699 433</td>
+<td colspan="6">4 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">5 471 306</td>
+<td colspan="6">5 699 433</td>
+<td colspan="6">4 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
+<td colspan="6">5 471 306</td>
+<td colspan="6">5 699 433</td>
+<td colspan="6">4 304 576</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">011</td>
+<td colspan="9"></td>
+<td colspan="5">Пилотсыз ғарыш аппараттарын ұшыру үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымыранының базасында «Бәйтерек» ғарыштық зымыран кешенін құру</td>
+<td colspan="6">16 753 583</td>
+<td colspan="6">46 686 123</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">030</td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">16 753 583</td>
+<td colspan="6">46 686 123</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ұшқышсыз ғарыш аппараттарын ұшыру үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымыранының базасында «Бәйтерек» ғарыштық зымыран кешенін құру</td>
+<td colspan="6">16 753 583</td>
+<td colspan="6">46 686 123</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>326 722</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4">249</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">61 542 803</td>
+<td colspan="6">4 000 000</td>
+<td colspan="6">3 000 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">003</td>
+<td colspan="9"></td>
+<td colspan="5">Республикалық деңгейде автомобиль жолдарын дамыту</td>
+<td colspan="6">52 248 753</td>
+<td colspan="6">4 000 000</td>
+<td colspan="6">3 000 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">004</td>
 <td></td>
+<td colspan="4">Сыртқы қарыздар есебінен</td>
+<td colspan="6">41 074 704</td>
+<td colspan="6">3 400 000</td>
+<td colspan="6">2 550 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">41 074 704</td>
+<td colspan="6">3 400 000</td>
+<td colspan="6">2 550 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Тасқала» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>43 819</td>
+<td colspan="4">Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
+<td colspan="6">5 900 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстарын</td>
+<td colspan="6">3 400 000</td>
+<td colspan="6">1 700 000</td>
+<td colspan="6">1 700 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстарына «Балқаш - Бурылбайтал» учаскесі</td>
+<td colspan="6">22 421 429</td>
+<td colspan="6">1 700 000</td>
+<td colspan="6">850 000</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
+<td colspan="6">6 478 275</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Батыс Еуропа - Батыс Қытай» халықаралық транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">425 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан қаласының Шығыс айналма жолын салу</td>
+<td colspan="6">2 450 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">005</td>
 <td></td>
+<td colspan="4">Iшкі көздер есебінен</td>
+<td colspan="6">2 030 610</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Сырым» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>43 887</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">2 030 610</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Орталық-Шығыс «Астана - Павлодар - Қалбатау - Өскемен» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">929 814</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Орталық-Оңтүстік «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">600 796</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Республикалық маңызы бар «Қарабұтақ - Комсомольское - Денисовка - Рудный - Қостанай» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9">016</td>
 <td></td>
+<td colspan="4">Республикалық бюджеттен сыртқы қарыздарды қоса қаржыландыру есебінен</td>
+<td colspan="6">9 143 439</td>
+<td colspan="6">600 000</td>
+<td colspan="6">450 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Үрлітөбе» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>49 384</td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">9 143 439</td>
+<td colspan="6">600 000</td>
+<td colspan="6">450 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
+<td colspan="6">900 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстарын</td>
+<td colspan="6">600 000</td>
+<td colspan="6">300 000</td>
+<td colspan="6">300 000</td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін реконструкциялау және жобалау-іздестіру жұмыстарына «Балқаш - Бурылбайтал» учаскесі</td>
+<td colspan="6">3 777 321</td>
+<td colspan="6">300 000</td>
+<td colspan="6">150 000</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
+<td colspan="6">910 715</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Батыс Еуропа - Батыс Қытай» халықаралық транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">2 505 403</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Түркістан қаласының шығыс айналма жолын салу</td>
+<td colspan="6">450 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">207</td>
+<td colspan="9"></td>
+<td colspan="5">Шекара бөлімшелерін жобалау және салу</td>
+<td colspan="6">9 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Әлімбет» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>44 153</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="6">985 804</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақтөбе облысы бойынша «Жайсан» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 902</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Ақтөбе облысы бойынша «Байтурасай» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 902</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="6">1 565 372</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қостанай облысы бойынша «Кенерал» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 856</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қостанай облысы бойынша «Қайрақ» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 837</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Жаңа жол» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>37 702</td>
+<td colspan="4">Қостанай облысы бойынша «Бірлік» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">289 839</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қостанай облысы бойынша «Ұзынағаш» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">289 840</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="6">985 630</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Павлодар облысы бойынша «Арлан» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 819</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Павлодар облысы бойынша «Шарбақты» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 811</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="6">5 463 194</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Келтесай» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 770</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Ресей шекарасындағы «Қосақ» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>45 712</td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Талсай» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 775</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Қарақұдық» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 756</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Есіл» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 759</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Каскад» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">292 779</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Ақ көл» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 786</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Арал ағаш» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 771</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Жаңажол» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">367 755</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>Қазақстан-Қырғыз шекарасындағы «Қарасу» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td>62 065</td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Ашикен» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 756</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Қызыл ту» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 784</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Жамбыл» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">367 723</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th>13</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Басқалар</th>
-<th>56 036 915</th>
-<th>22 414 927</th>
-<th>20 000 236</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td></td>
+<td colspan="4">Солтүстік Қазақстан облысы бойынша «Баян батыр атындағы» шекара бөлімшесінің құрылысы</td>
+<td colspan="6">492 780</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th>694</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Президентiнiң Іс Басқармасы</th>
-<th>56 036 915</th>
-<th>22 414 927</th>
-<th>20 000 236</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">240</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасының Мемлекеттiк шекарасы арқылы өткізу пункттерін салу және реконструкциялау</td>
+<td colspan="6">294 050</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>008</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Президенті Іс Басқармасының объектілерін салу және реконструкциялау</td>
-<td>56 036 915</td>
-<td>22 414 927</td>
-<td>20 000 236</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Өзгелер</td>
+<td colspan="6">294 050</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Тасқала» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">40 985</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Сырым» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">41 048</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Үрлітөбе» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">46 170</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Әлімбет» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">41 151</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Жаңа жол» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">23 089</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Ресей шекарасындағы «Қосақ» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">42 605</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қазақстан-Қырғыз шекарасындағы «Қарасу» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
+<td colspan="6">59 002</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы қаласы</th>
-<th>15 422 290</th>
-<th></th>
-<th></th>
+<td colspan="4">13</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Басқалар</td>
+<td colspan="6">55 808 291</td>
+<td colspan="6">22 414 927</td>
+<td colspan="6">20 000 236</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td>15 422 290</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">694</td>
+<td colspan="5"></td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Президентiнiң Іс Басқармасы</td>
+<td colspan="6">55 808 291</td>
+<td colspan="6">22 414 927</td>
+<td colspan="6">20 000 236</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>40 614 625</th>
-<th>22 414 927</th>
-<th>20 000 236</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">008</td>
+<td colspan="9"></td>
+<td colspan="5">Қазақстан Республикасы Президенті Іс Басқармасының объектілерін салу және реконструкциялау</td>
+<td colspan="6">55 808 291</td>
+<td colspan="6">22 414 927</td>
+<td colspan="6">20 000 236</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызмет бабында пайдалану үшін</td>
-<td>40 176 848</td>
-<td>22 414 927</td>
-<td>20 000 236</td>
+<td colspan="4">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«ҚР Президенті Іс Басқармасы Медициналық орталығының ауруханасы» РМК объектісін 110/10/6 кВ «Насосная» қосалқы станциясының электр желілеріне қосу үшін 10 кВ кабель желісін салу</td>
-<td>281 424</td>
-<td></td>
-<td></td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="6">15 422 290</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
-<td>«Нұр-Сұлтан қаласында «Қазақстан Республикасы Президенті Іс Басқармасы Медициналық орталығының ауруханасы» республикалық мемлекеттік кәсіпорны үшін ауысымда 450 адам қабылдайтын жаңа емханалық корпус салу» ЖСҚ әзірлеу</td>
-<td>63 953</td>
-<td></td>
-<td></td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6">15 422 290</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td></td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="6">40 386 001</td>
+<td colspan="6">22 414 927</td>
+<td colspan="6">20 000 236</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">Қызмет бабында пайдалану үшін</td>
+<td colspan="6">39 951 433</td>
+<td colspan="6">22 414 927</td>
+<td colspan="6">20 000 236</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
-<td>«Спорт ғимараттары кешенін құрылысы» ЖСҚ әзірлеу</td>
-<td>92 400</td>
+<td colspan="4">«ҚР Президенті Іс Басқармасы Медициналық орталығының ауруханасы» РМК объектісін 110/10/6 кВ «Насосная» қосалқы станциясының электр желілеріне қосу үшін 10 кВ кабель желісін салу</td>
+<td colspan="6">281 424</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Нұр-Сұлтан қаласында «Қазақстан Республикасы Президенті Іс Басқармасы Медициналық орталығының ауруханасы» республикалық мемлекеттік кәсіпорны үшін ауысымда 450 адам қабылдайтын жаңа емханалық корпус салу» ЖСҚ әзірлеу</td>
+<td colspan="6">61 942</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="9"></td>
 <td></td>
+<td colspan="4">«Спорт ғимараттары кешенін құрылысы» ЖСҚ әзірлеу</td>
+<td colspan="6">91 202</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="20">Функционалдық топ</td>
+<td colspan="8" rowspan="4">Атауы</td>
+<td colspan="17">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
+<td colspan="2"></td>
+<td colspan="18">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="5" rowspan="3">2024 жыл</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="14">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>II. Заңды тұлғалардың жарғылық капиталында мемлекеттің қатысуы арқылы жоспарланатын бюджеттік инвестициялар</th>
-<th>85 073 291</th>
-<th>502 875</th>
-<th>136 154</th>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">II. Заңды тұлғалардың жарғылық капиталында мемлекеттің қатысуы арқылы жоспарланатын бюджеттік инвестициялар</td>
+<td colspan="6">85 073 291</td>
+<td colspan="6">502 875</td>
+<td colspan="5">136 154</td>
 </tr>
 <tr>
-<th>1</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жалпы сипаттағы мемлекеттiк қызметтер</th>
-<th>135 245</th>
-<th>136 154</th>
-<th>136 154</th>
+<td colspan="2">1</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td colspan="6">135 245</td>
+<td colspan="6">136 154</td>
+<td colspan="5">136 154</td>
 </tr>
 <tr>
-<th></th>
-<th>217</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Қаржы министрлiгi</th>
-<th>135 245</th>
-<th>136 154</th>
-<th>136 154</th>
+<td colspan="2"></td>
+<td colspan="4">217</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Қаржы министрлiгi</td>
+<td colspan="6">135 245</td>
+<td colspan="6">136 154</td>
+<td colspan="5">136 154</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>006</td>
-<td></td>
-<td>Халықаралық қаржы ұйымдарының акцияларын сатып алу</td>
-<td>135 245</td>
-<td>136 154</td>
-<td>136 154</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">006</td>
+<td colspan="8"></td>
+<td colspan="8">Халықаралық қаржы ұйымдарының акцияларын сатып алу</td>
+<td colspan="6">135 245</td>
+<td colspan="6">136 154</td>
+<td colspan="5">136 154</td>
 </tr>
 <tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Бiлiм беру</th>
-<th>3 000 000</th>
-<th></th>
-<th></th>
+<td colspan="2">4</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Бiлiм беру</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th></th>
-<th>227</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Ғылым және жоғары білім министрлігі</th>
-<th>3 000 000</th>
-<th></th>
-<th></th>
+<td colspan="2"></td>
+<td colspan="4">227</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Ғылым және жоғары білім министрлігі</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>234</td>
-<td></td>
-<td>«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамының жарғылық капиталын ұлғайту</td>
-<td>3 000 000</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">234</td>
+<td colspan="8"></td>
+<td colspan="8">«Қазақ ұлттық қыздар педагогикалық университеті» коммерциялық емес акционерлік қоғамының жарғылық капиталын ұлғайту</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th>8</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Мәдениет, спорт, туризм және ақпараттық кеңістiк</th>
-<th>2 863 789</th>
-<th>366 721</th>
-<th></th>
+<td colspan="2">8</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td colspan="6">2 863 789</td>
+<td colspan="6">366 721</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th></th>
-<th>240</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Мәдениет және спорт министрлігі</th>
-<th>2 863 789</th>
-<th>366 721</th>
-<th></th>
+<td colspan="2"></td>
+<td colspan="4">240</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
+<td colspan="6">2 863 789</td>
+<td colspan="6">366 721</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>050</td>
-<td></td>
-<td>Шәкен Айманов атындағы «Қазақфильм» АҚ жарғылық капиталын ұлғайту</td>
-<td>2 863 789</td>
-<td>366 721</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">050</td>
+<td colspan="8"></td>
+<td colspan="8">Шәкен Айманов атындағы «Қазақфильм» АҚ жарғылық капиталын ұлғайту</td>
+<td colspan="6">2 863 789</td>
+<td colspan="6">366 721</td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th>10</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</th>
-<th>29 074 257</th>
-<th></th>
-<th></th>
+<td colspan="2">10</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td colspan="6">29 074 257</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th></th>
-<th>207</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</th>
-<th>9 074 257</th>
-<th></th>
-<th></th>
+<td colspan="2"></td>
+<td colspan="4">207</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
+<td colspan="6">9 074 257</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>241</td>
-<td></td>
-<td>«Қазсушар» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорнының жарғылық капиталын ұлғайту</td>
-<td>9 074 257</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">241</td>
+<td colspan="8"></td>
+<td colspan="8">«Қазсушар» шаруашылық жүргізу құқығындағы республикалық мемлекеттік кәсіпорнының жарғылық капиталын ұлғайту</td>
+<td colspan="6">9 074 257</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th></th>
-<th>212</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Ауыл шаруашылығы министрлiгi</th>
-<th>20 000 000</th>
-<th></th>
-<th></th>
+<td colspan="2"></td>
+<td colspan="4">212</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Ауыл шаруашылығы министрлiгi</td>
+<td colspan="6">20 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>005</td>
-<td></td>
-<td>Агроөнеркәсіптік кешенді ынталандыру жөніндегі мемлекеттік саясатты іске асыру үшін «Азық-түлік келісімшарт корпорациясы» ұлттық компаниясы» АҚ жарғылық капиталын ұлғайту</td>
-<td>20 000 000</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">005</td>
+<td colspan="8"></td>
+<td colspan="8">Агроөнеркәсіптік кешенді ынталандыру жөніндегі мемлекеттік саясатты іске асыру үшін «Азық-түлік келісімшарт корпорациясы» ұлттық компаниясы» АҚ жарғылық капиталын ұлғайту</td>
+<td colspan="6">20 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th>11</th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</th>
-<th>50 000 000</th>
-<th></th>
-<th></th>
+<td colspan="2">11</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
+<td colspan="6">50 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>50 000 000</th>
-<th></th>
-<th></th>
+<td colspan="2"></td>
+<td colspan="4">249</td>
+<td colspan="6"></td>
+<td colspan="8"></td>
+<td colspan="8">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">50 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>211</td>
-<td></td>
-<td>Өңдеуші өнеркәсіптік жобаларын қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ арқылы «Өнеркәсіпті дамыту қоры» АҚ жарғылық капиталын кейіннен ұлғайта отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ жарғылық капиталын ұлғайту</td>
-<td>50 000 000</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="6">211</td>
+<td colspan="8"></td>
+<td colspan="8">Өңдеуші өнеркәсіптік жобаларын қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ арқылы «Өнеркәсіпті дамыту қоры» АҚ жарғылық капиталын кейіннен ұлғайта отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ жарғылық капиталын ұлғайту</td>
+<td colspan="6">50 000 000</td>
+<td colspan="6"></td>
+<td colspan="5"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="17">Функционалдық топ</td>
+<td colspan="12" rowspan="4">Атауы</td>
+<td colspan="16">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
+<td colspan="16">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="4" rowspan="3">2024 жыл</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4"></td>
+<td colspan="12">Бағдарлама</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">Кіші бағдарлама</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">III. Нысаналы даму трансферттері</th>
-<th>403 664 104</th>
-<th>36 060 640</th>
-<th>9 390 336</th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">III. Нысаналы даму трансферттері</td>
+<td colspan="6">394 741 075</td>
+<td colspan="6">36 060 640</td>
+<td colspan="4">9 390 336</td>
 </tr>
 <tr>
-<th>2</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Қорғаныс</th>
-<th>9 338 908</th>
-<th></th>
-<th></th>
+<td>2</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қорғаныс</td>
+<td colspan="6">7 206 210</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th>202</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Төтенше жағдайлар министрлігі</th>
-<th>9 338 908</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4">202</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Төтенше жағдайлар министрлігі</td>
+<td colspan="6">7 206 210</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td>006</td>
-<td></td>
-<td colspan="2">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
-<td>9 338 908</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">006</td>
+<td colspan="8"></td>
+<td colspan="12">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
+<td colspan="6">7 206 210</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td>101</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне халықты, объектілер мен аумақтарды табиғи дүлей зілзалалардан инженерлік қорғау жөніндегі жұмыстарды жүргізуге берілетін нысаналы даму трансферттері</td>
-<td>9 338 908</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">101</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне халықты, объектілер мен аумақтарды табиғи дүлей зілзалалардан инженерлік қорғау жөніндегі жұмыстарды жүргізуге берілетін нысаналы даму трансферттері</td>
+<td colspan="6">7 206 210</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>6 470 820</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">4 794 088</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>367 373</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">105 959</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 591 715</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">1 591 715</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>509 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">314 448</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>400 000</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">400 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
-<td>3 417 913</td>
-<td>2 359 883</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
+<td colspan="6">3 417 913</td>
+<td colspan="6">2 359 883</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td>201</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Ішкі істер министрлігі</td>
-<td>1 867 401</td>
-<td>2 359 883</td>
-<td></td>
+<td colspan="4">201</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Ішкі істер министрлігі</td>
+<td colspan="6">1 867 401</td>
+<td colspan="6">2 359 883</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>076</td>
-<td></td>
-<td colspan="2">Қоғамдық тәртіпті сақтау және қоғамдық қауіпсіздікті қамтамасыз ету</td>
-<td>1 867 401</td>
-<td>2 359 883</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">076</td>
+<td colspan="8"></td>
+<td colspan="12">Қоғамдық тәртіпті сақтау және қоғамдық қауіпсіздікті қамтамасыз ету</td>
+<td colspan="6">1 867 401</td>
+<td colspan="6">2 359 883</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>132</td>
-<td></td>
-<td>Жамбыл облысының бюджетіне қоғамдық тәртіп пен қауіпсіздік объектілерін салуға берілетін нысаналы даму трансферттері</td>
-<td>1 867 401</td>
-<td>2 359 883</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">132</td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысының бюджетіне қоғамдық тәртіп пен қауіпсіздік объектілерін салуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 867 401</td>
+<td colspan="6">2 359 883</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбыл облысы</th>
-<th>1 867 401</th>
-<th>2 359 883</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>221</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Әділет министрлігі</th>
-<th>1 550 512</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>066</td>
-<td></td>
-<td colspan="2">Зираттар бар крематорийлер салу үшін республикалық маңызы бар қалалардың, астананың бюджеттеріне берілетін нысаналы даму трансферттері</td>
-<td>1 550 512</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">1 867 401</td>
+<td colspan="6">2 359 883</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>1 550 512</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>4</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Бiлiм беру</th>
-<th>45 108 746</th>
-<th>1 000 000</th>
-<th>1 262 360</th>
-</tr>
-<tr>
-<th></th>
-<th>224</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Оқу-ағарту министрлігі</th>
-<th>39 813 394</th>
-<th></th>
-<th></th>
+<td colspan="4">221</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Әділет министрлігі</td>
+<td colspan="6">1 550 512</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>004</td>
-<td></td>
-<td colspan="2">Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету</td>
-<td>39 813 394</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">066</td>
+<td colspan="8"></td>
+<td colspan="12">Зираттар бар крематорийлер салу үшін республикалық маңызы бар қалалардың, астананың бюджеттеріне берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 550 512</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>118</td>
-<td></td>
-<td>Алматы, Атырау және Маңғыстау облысының облыстық бюджеттеріне орта білім беру объектілерінің құрылысына берілетін нысаналы даму трансферттері</td>
-<td>39 813 394</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">1 550 512</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Бiлiм беру</td>
+<td colspan="6">41 563 944</td>
+<td colspan="6">1 000 000</td>
+<td colspan="4">1 262 360</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>22 565 839</td>
-<td></td>
-<td></td>
+<td colspan="4">224</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Оқу-ағарту министрлігі</td>
+<td colspan="6">36 268 592</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>4 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">004</td>
+<td colspan="8"></td>
+<td colspan="12">Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету</td>
+<td colspan="6">36 268 592</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>7 580 207</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">118</td>
+<td colspan="4"></td>
+<td colspan="8">Алматы, Атырау және Маңғыстау облысының облыстық бюджеттеріне орта білім беру объектілерінің құрылысына берілетін нысаналы даму трансферттері</td>
+<td colspan="6">36 268 592</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>5 667 348</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td>225</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Білім және ғылым министрлігі</td>
-<td></td>
-<td>1 000 000</td>
-<td>1 262 360</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">22 565 839</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>204</td>
-<td></td>
-<td colspan="2">Жоғары және жоғары оқу орнынан кейінгі білімі бар кадрлармен қамтамасыз ету</td>
-<td></td>
-<td>1 000 000</td>
-<td>1 262 360</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">2 342 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>125</td>
-<td></td>
-<td>Солтүстік Қазақстан облысының бюджетіне М.Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университетінің екі студенттік жатақханасын салуға берілетін нысаналы даму трансферттері</td>
-<td></td>
-<td>1 000 000</td>
-<td>1 262 360</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">5 693 405</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th></th>
-<th>1 000 000</th>
-<th>1 262 360</th>
-</tr>
-<tr>
-<th></th>
-<th>227</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Ғылым және жоғары білім министрлігі</th>
-<th>5 295 352</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">5 667 348</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>204</td>
-<td></td>
-<td colspan="2">Жоғары және жоғары оқу орнынан кейінгі білімі бар кадрлармен қамтамасыз ету</td>
-<td>5 295 352</td>
-<td></td>
-<td></td>
+<td colspan="4">225</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Білім және ғылым министрлігі</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="4">1 262 360</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>125</td>
-<td></td>
-<td>Солтүстік Қазақстан облысының бюджетіне М.Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университетінің екі студенттік жатақханасын салуға берілетін нысаналы даму трансферттері</td>
-<td>1 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">204</td>
+<td colspan="8"></td>
+<td colspan="12">Жоғары және жоғары оқу орнынан кейінгі білімі бар кадрлармен қамтамасыз ету</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="4">1 262 360</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>1 000 000</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">125</td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысының бюджетіне М.Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университетінің екі студенттік жатақханасын салуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="4">1 262 360</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>134</td>
-<td></td>
-<td>Солтүстік Қазақстан облысының облыстық бюджетіне М. Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университеті «Kozybaev University Teaching and research center» оқу-зертханалық корпусының құрылысына берілетін нысаналы даму трансферттері</td>
-<td>4 295 352</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>4 295 352</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>5</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Денсаулық сақтау</th>
-<th>8 632 741</th>
-<th>6 132 814</th>
-<th>6 774 853</th>
-</tr>
-<tr>
-<th></th>
-<th>226</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Денсаулық сақтау министрлігі</th>
-<th>8 632 741</th>
-<th>6 132 814</th>
-<th>6 774 853</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6"></td>
+<td colspan="6">1 000 000</td>
+<td colspan="4">1 262 360</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>053</td>
-<td></td>
-<td colspan="2">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
-<td>8 632 741</td>
-<td>6 132 814</td>
-<td>6 774 853</td>
+<td colspan="4">227</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Ғылым және жоғары білім министрлігі</td>
+<td colspan="6">5 295 352</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>113</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне денсаулық сақтау объектілерін салуға және реконструкциялауға және Алматы облысының облыстық бюджетіне, Алматы қаласының бюджетіне денсаулық сақтау объектілерін сейсмикалық күшейтуге, сондай-ақ инфекциялық ауруханаларды орналастыру үшін тез салынатын кешендер құруға берілетін нысаналы даму трансферттерi</td>
-<td>8 632 741</td>
-<td>6 132 814</td>
-<td>6 774 853</td>
+<td colspan="4"></td>
+<td colspan="4">204</td>
+<td colspan="8"></td>
+<td colspan="12">Жоғары және жоғары оқу орнынан кейінгі білімі бар кадрлармен қамтамасыз ету</td>
+<td colspan="6">5 295 352</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">125</td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысының бюджетіне М.Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университетінің екі студенттік жатақханасын салуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>995 558</td>
-<td>3 132 814</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>4 089 651</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>2 000 000</td>
-<td>3 000 000</td>
-<td>6 774 853</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">134</td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысының облыстық бюджетіне М. Қозыбаев атындағы Солтүстік Қазақстан мемлекеттік университеті «Kozybaev University Teaching and research center» оқу-зертханалық корпусының құрылысына берілетін нысаналы даму трансферттері</td>
+<td colspan="6">4 295 352</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">4 295 352</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Денсаулық сақтау</td>
+<td colspan="6">7 788 605</td>
+<td colspan="6">6 132 814</td>
+<td colspan="4">6 774 853</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4">226</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td colspan="6">7 788 605</td>
+<td colspan="6">6 132 814</td>
+<td colspan="4">6 774 853</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4">053</td>
+<td colspan="8"></td>
+<td colspan="12">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
+<td colspan="6">7 788 605</td>
+<td colspan="6">6 132 814</td>
+<td colspan="4">6 774 853</td>
+</tr>
+<tr>
 <td></td>
-<td>Жетісу облысы</td>
-<td>1 547 532</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">113</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне денсаулық сақтау объектілерін салуға және реконструкциялауға және Алматы облысының облыстық бюджетіне, Алматы қаласының бюджетіне денсаулық сақтау объектілерін сейсмикалық күшейтуге, сондай-ақ инфекциялық ауруханаларды орналастыру үшін тез салынатын кешендер құруға берілетін нысаналы даму трансферттерi</td>
+<td colspan="6">7 788 605</td>
+<td colspan="6">6 132 814</td>
+<td colspan="4">6 774 853</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">995 558</td>
+<td colspan="6">3 132 814</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">4 089 651</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">1 155 864</td>
+<td colspan="6">3 000 000</td>
+<td colspan="4">6 774 853</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">1 547 532</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>6</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>11 733 536</td>
-<td>5 798 563</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
+<td colspan="6">11 733 536</td>
+<td colspan="6">5 798 563</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td>213</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлігі</td>
-<td>11 733 536</td>
-<td>5 798 563</td>
-<td></td>
+<td colspan="4">213</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлігі</td>
+<td colspan="6">11 733 536</td>
+<td colspan="6">5 798 563</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>058</td>
-<td></td>
-<td colspan="2">Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту</td>
-<td>11 733 536</td>
-<td>5 798 563</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">058</td>
+<td colspan="8"></td>
+<td colspan="12">Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту</td>
+<td colspan="6">11 733 536</td>
+<td colspan="6">5 798 563</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>106</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне әлеуметтiк қамтамасыз ету объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>11 733 536</td>
-<td>5 798 563</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">106</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне әлеуметтiк қамтамасыз ету объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">11 733 536</td>
+<td colspan="6">5 798 563</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>2 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">2 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td></td>
-<td>2 446 062</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6"></td>
+<td colspan="6">2 446 062</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>2 180 122</td>
-<td>2 180 122</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">2 180 122</td>
+<td colspan="6">2 180 122</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>4 296 761</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">4 296 761</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>2 256 653</td>
-<td>1 172 379</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">2 256 653</td>
+<td colspan="6">1 172 379</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>58 365 987</td>
-<td>3 588 601</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="6">56 218 202</td>
+<td colspan="6">3 588 601</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td>249</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
-<td>58 365 987</td>
-<td>3 588 601</td>
 <td></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">56 218 202</td>
+<td colspan="6">3 588 601</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>007</td>
-<td></td>
-<td colspan="2">Қарағанды облысының бюджетіне жылумен жабдықтау жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>8 472 394</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">007</td>
+<td colspan="8"></td>
+<td colspan="12">Қарағанды облысының бюджетіне жылумен жабдықтау жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">8 472 394</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>030</td>
 <td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>8 472 394</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">030</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">8 472 394</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарағанды облысы</th>
-<th>8 472 394</th>
-<th></th>
-<th></th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>228</td>
-<td></td>
-<td colspan="2">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
-<td>27 680 455</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">8 472 394</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>101</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға берілетін нысаналы даму трансферттері</td>
-<td>22 473 625</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">228</td>
+<td colspan="8"></td>
+<td colspan="12">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">25 659 369</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">101</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">22 473 625</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>903 056</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Ақтөбе облысы</td>
-<td>3 637 927</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">903 056</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>2 946 615</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">3 637 927</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>2 330 656</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">2 946 615</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>46 582</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">2 330 656</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>550 895</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">46 582</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>2 145 594</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">550 895</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>709 197</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">2 145 594</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>747 612</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">709 197</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>230 479</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">747 612</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>711 469</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="6">230 479</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>1 196 288</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">711 469</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>4 084 249</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">1 196 288</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>2 233 006</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">4 084 249</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>118</td>
-<td></td>
-<td>Жаңа схема бойынша пилоттық жобалар шеңберінде Астана қаласы, Жамбыл және Солтүстік Қазақстан облыстарының бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>3 317 086</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">2 233 006</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">118</td>
+<td colspan="4"></td>
+<td colspan="8">Жаңа схема бойынша пилоттық жобалар шеңберінде Астана қаласы, Жамбыл және Солтүстік Қазақстан облыстарының бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 296 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>576 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>720 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">576 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>2 021 086</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">720 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>119</td>
 <td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>1 889 744</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">119</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 889 744</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>әлеуметтік-осал топтар үшін тұрғын үй салуға</td>
-<td>1 793 175</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">әлеуметтік осал топтар үшін тұрғын үй салуға</td>
+<td colspan="6">1 793 175</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Жамбыл облысы</td>
-<td>1 460 956</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">1 460 956</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>332 219</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">332 219</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>аз қамтылған көпбалалы отбасылар үшін тұрғын үй салуға</td>
-<td>96 569</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">аз қамтылған көпбалалы отбасылар үшін тұрғын үй салуға</td>
+<td colspan="6">96 569</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>96 569</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">96 569</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>229</td>
 <td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</td>
-<td>18 141 646</td>
-<td>3 588 601</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">229</td>
+<td colspan="8"></td>
+<td colspan="12">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">18 105 964</td>
+<td colspan="6">3 588 601</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td>100</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалаларда сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>1 600 000</td>
-<td>2 804 974</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">100</td>
+<td colspan="4"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалаларда сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 564 318</td>
+<td colspan="6">2 804 974</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td></td>
-<td>420 641</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6"></td>
+<td colspan="6">420 641</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Жамбыл облысы</td>
-<td>1 300 000</td>
-<td>2 384 333</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">1 264 318</td>
+<td colspan="6">2 384 333</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>300 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">300 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td>101</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендерде сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>3 196 345</td>
-<td>783 627</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">101</td>
+<td colspan="4"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендерде сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">3 196 345</td>
+<td colspan="6">783 627</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Ақмола облысы</td>
-<td>169 615</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">169 615</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>207 918</td>
-<td>401 241</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">207 918</td>
+<td colspan="6">401 241</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>77 918</td>
-<td>326 102</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">77 918</td>
+<td colspan="6">326 102</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>1 136 676</td>
-<td>56 284</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">1 136 676</td>
+<td colspan="6">56 284</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>360 173</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">360 173</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>243 726</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">243 726</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>317 291</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="6">317 291</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>683 028</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">683 028</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>107</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалар мен елді мекендерді абаттандыруға берілетін нысаналы даму трансферттері</td>
-<td>10 000 000</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">107</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалар мен елді мекендерді абаттандыруға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>10 000 000</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>117</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нөсерлік кәріз жүйесін дамытуға республикалық бюджет қаражаты есебінен берілетін нысаналы даму трансферттерi</td>
-<td>3 345 301</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">117</td>
+<td colspan="4"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нөсерлік кәріз жүйесін дамытуға республикалық бюджет қаражаты есебінен берілетін нысаналы даму трансферттерi</td>
+<td colspan="6">3 345 301</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>3 345 301</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">3 345 301</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>234</td>
-<td></td>
-<td colspan="2">Ақмола облысының облыстық бюджетіне Щучинск-Бурабай курорттық аймағының сумен жабдықтау және су бұру жүйелерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>819 162</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">234</td>
+<td colspan="8"></td>
+<td colspan="12">Ақмола облысының облыстық бюджетіне Щучинск-Бурабай курорттық аймағының сумен жабдықтау және су бұру жүйелерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">728 145</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Ақмола облысы</th>
-<th>819 162</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">728 145</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>235</td>
 <td></td>
-<td colspan="2">Жетісу облысының бюджетіне Алакөл көлі туристік аймағының сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>3 252 330</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">235</td>
+<td colspan="8"></td>
+<td colspan="12">Жетісу облысының бюджетіне Алакөл көлі туристік аймағының сумен жабдықтау және су бұру жүйелерін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">3 252 330</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>3 252 330</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">030</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">3 252 330</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жетісу облысы</th>
-<th>3 252 330</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">3 252 330</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th>8</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</th>
-<th>21 121 291</th>
-<th></th>
-<th></th>
+<td>8</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td colspan="6">21 121 291</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th>240</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Мәдениет және спорт министрлігі</th>
-<th>21 121 291</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4">240</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
+<td colspan="6">21 121 291</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>033</td>
-<td></td>
-<td colspan="2">Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру</td>
-<td>10 860 600</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">033</td>
+<td colspan="8"></td>
+<td colspan="12">Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру</td>
+<td colspan="6">10 860 600</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>132</td>
 <td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мәдениет объектілерін салуға республикалық бюджет қаражаты есебінен берілетін нысаналы даму трансферттері</td>
-<td>10 860 600</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">132</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мәдениет объектілерін салуға республикалық бюджет қаражаты есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">10 860 600</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырау облысы</th>
-<th>670 313</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">670 313</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>4 000 000</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">4 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Шымкент қаласы</th>
-<th>6 190 287</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">6 190 287</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>036</td>
 <td></td>
-<td colspan="2">Жоғары жетістіктер спортын дамыту</td>
-<td>10 260 691</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">036</td>
+<td colspan="8"></td>
+<td colspan="12">Жоғары жетістіктер спортын дамыту</td>
+<td colspan="6">10 260 691</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>112</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астана бюджеттеріне спорт объектілерін дамыту үшін берілетін нысаналы даму трансферттері</td>
-<td>10 260 691</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">112</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астана бюджеттеріне спорт объектілерін дамыту үшін берілетін нысаналы даму трансферттері</td>
+<td colspan="6">10 260 691</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>10 260 691</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">10 260 691</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th>9</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Отын-энергетика кешенi және жер қойнауын пайдалану</th>
-<th>40 448 823</th>
-<th>3 151 705</th>
-<th></th>
+<td>9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
+<td colspan="6">40 388 823</td>
+<td colspan="6">3 151 705</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th>241</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Энергетика министрлігі</th>
-<th>40 448 823</th>
-<th>3 151 705</th>
-<th></th>
+<td></td>
+<td colspan="4">241</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Энергетика министрлігі</td>
+<td colspan="6">40 388 823</td>
+<td colspan="6">3 151 705</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>003</td>
 <td></td>
-<td colspan="2">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>725 725</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="8"></td>
+<td colspan="12">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">665 725</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>725 725</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">030</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">665 725</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>300 000</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">240 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>225 725</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">225 725</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>200 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>041</td>
 <td></td>
-<td colspan="2">Жылу-электр энергетикасын дамыту</td>
-<td>39 723 098</td>
-<td>3 151 705</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">041</td>
+<td colspan="8"></td>
+<td colspan="12">Жылу-электр энергетикасын дамыту</td>
+<td colspan="6">39 723 098</td>
+<td colspan="6">3 151 705</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>101</td>
 <td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жылу-энергетика жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>39 723 098</td>
-<td>3 151 705</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">101</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жылу-энергетика жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">39 723 098</td>
+<td colspan="6">3 151 705</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>462 692</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">462 692</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 911 669</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">1 911 669</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>6 528 935</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">6 528 935</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>1 404 760</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">1 404 760</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>4 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">4 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>245 219</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">245 219</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>25 169 823</td>
-<td>3 151 705</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">25 169 823</td>
+<td colspan="6">3 151 705</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>40 005 630</td>
-<td>500 000</td>
-<td>500 000</td>
-</tr>
-<tr>
-<td></td>
-<td>207</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
-<td>20 005 630</td>
-<td>500 000</td>
-<td>500 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>037</td>
-<td></td>
-<td colspan="2">Қоршаған ортаның сапасын тұрақтандыру және жақсарту</td>
-<td>4 500 000</td>
-<td>500 000</td>
-<td>500 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>105</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астана бюджеттеріне қоршаған ортаны қорғау объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>4 500 000</td>
-<td>500 000</td>
-<td>500 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Атырау облысы</th>
-<th>1 500 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Маңғыстау облысы</th>
-<th>3 000 000</th>
-<th>500 000</th>
-<th>500 000</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>254</td>
-<td></td>
-<td colspan="2">Су ресурстарын тиімді басқару</td>
-<td>15 505 630</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>115</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жерүсті су ресурстарын ұлғайтуға берілетін нысаналы даму трансферттері</td>
-<td>15 505 630</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>3 796 325</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>200 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>3 349 965</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>3 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>2 755 594</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>403 746</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>2 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>212</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Ауыл шаруашылығы министрлiгi</td>
-<td>20 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>004</td>
-<td></td>
-<td colspan="2">Солтүстік Қазақстан облысының облыстық бюджетіне «Солтүстік» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
-<td>20 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>20 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>11</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</th>
-<th>31 722 045</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>31 722 045</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>022</td>
-<td></td>
-<td colspan="2">Автомобиль шиналарын өндіру жөніндегі жобаны іске асыру мақсатында «Сарыарқа» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайту үшін Қарағанды облысының бюджетіне берілетін нысаналы даму трансферттері</td>
-<td>11 200 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>11 200 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарағанды облысы</th>
-<th>11 200 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>026</td>
-<td></td>
-<td colspan="2">Жаңа өндірістік алаңдарды құру үшін «Солтүстік» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайту үшін Солтүстік Қазақстан облысының бюджетіне берілетін нысаналы даму трансферттері</td>
-<td>8 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Солтүстік Қазақстан облысы</th>
-<th>8 000 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>090</td>
-<td></td>
-<td colspan="2">Өнеркәсіп салаларының дамуына жәрдемдесу</td>
-<td>12 522 045</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>109</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне арнайы экономикалық аймақтардың, индустриялық аймақтардың, индустриялық парктердің инфрақұрылымын дамыту үшін берілетін нысаналы даму трансферттері</td>
-<td>12 522 045</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Қарағанды облысы</th>
-<th>10 321 146</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Павлодар облысы</th>
-<th>2 200 899</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>12</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Көлiк және коммуникация</th>
-<th>28 160 749</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>28 160 749</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>091</td>
-<td></td>
-<td colspan="2">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
-<td>1 600 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>110</td>
-<td></td>
-<td>Республикалық бюджет қаражат есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>1 600 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>1 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>093</td>
-<td></td>
-<td colspan="2">Азаматтық авиацияны және әуе көлігін дамыту</td>
-<td>4 432 651</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>104</td>
-<td></td>
-<td>Республикалық бюджет қаражаты есебінен облыстық бюджеттерге әуе көлігінің инфрақұрылымын дамытуға арналған нысаналы даму трансферттері</td>
-<td>4 432 651</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>2 029 251</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 403 400</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>213</td>
-<td></td>
-<td colspan="2">Қалалық рельстік көліктің дамуын қамтамасыз ету</td>
-<td>22 128 098</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Алматы қаласының бюджетіне метрополитен салуға заңды тұлғалардың жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
-<td>5 093 571</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы қаласы</th>
-<th>5 093 571</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>105</td>
-<td></td>
-<td>Алматы қаласының бюджетіне электропоездарды сатып алуға заңды тұлғалардың жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
-<td>17 034 527</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Алматы қаласы</th>
-<th>17 034 527</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>13</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Басқалар</th>
-<th>105 607 735</th>
-<th>13 529 074</th>
-<th>853 123</th>
-</tr>
-<tr>
-<th></th>
-<th>243</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Ұлттық экономика министрлігі</th>
-<th>105 607 735</th>
-<th>13 529 074</th>
-<th>853 123</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>082</td>
-<td></td>
-<td colspan="2">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
-<td>67 908 177</td>
-<td>11 350 000</td>
-<td>303 850</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>100</td>
-<td></td>
-<td>Облыстық бюджеттерге шағын және моноқалалардағы бюджеттік инвестициялық жобаларды іске асыруға берілетін нысаналы даму трансферттері</td>
-<td>17 012 767</td>
-<td>350 000</td>
-<td>303 850</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>615 796</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>2 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 074 778</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 413 237</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>5 290 029</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>231 649</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>796 727</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>2 850 443</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>263 477</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>976 631</td>
-<td>350 000</td>
-<td>303 850</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>102</td>
-<td></td>
-<td>Облыстық бюджеттерге облыс орталықтарына инженерлік және көлік (аббаттандыру) инфрақұрылымын дамытуға берілетін нысаналы даму трансферттері</td>
-<td>46 054 200</td>
-<td>11 000 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>5 273 344</td>
-<td>1 366 390</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>10 513 204</td>
-<td>3 158 875</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 017 771</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>1 576 467</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 934 147</td>
-<td>1 118 487</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>424 469</td>
-<td>1 344 513</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>1 800 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>2 022 295</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>641 757</td>
-<td>782 198</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>19 350 746</td>
-<td>3 229 537</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>107</td>
-<td></td>
-<td>Түркістан және Жамбыл облыстарының бюджеттеріне мемлекеттік мекемелердің әкімшілік ғимараттарын салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td>4 641 210</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Жамбыл облысы</th>
-<th>372 037</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Түркістан облысы</th>
-<th>4 269 173</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>108</td>
-<td></td>
-<td>Облыстық бюджеттерге «Ауыл – Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>200 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Маңғыстау облысы</th>
-<th>200 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>087</td>
-<td></td>
-<td colspan="2">2021 – 2025 жылдарға арналған кәсіпкерлікті дамыту жөніндегі ұлттық жобасы және Басым жобаларға кредит беру тетігі шеңберінде іс-шараларды іске асыру</td>
-<td>19 717 371</td>
-<td>2 179 074</td>
-<td>549 273</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>105</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне индустриялық инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>19 717 371</td>
-<td>2 179 074</td>
-<td>549 273</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>425 970</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>700 639</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>56 135</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>2 119 701</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>2 424 340</td>
-<td>150 000</td>
-<td>28 525</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>1 192 268</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>1 355 209</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>390 912</td>
-<td>303 186</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>28 464</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>3 485 597</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>382 569</td>
-<td>400 000</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>939 294</td>
-<td>156 093</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>4 812 703</td>
-<td>1 169 795</td>
-<td>520 748</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>1 403 570</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>160</td>
-<td></td>
-<td colspan="2">Ақмола облысының бюджетіне, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалардың шеткі аумақтарындағы әлеуметтік және инженерлік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>17 982 187</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>17 982 187</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>8 930 068</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>3 678 969</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>3 435 597</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>1 937 553</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">IV. Кредиттер</th>
-<th>379 342 769</th>
-<th>1 267 652</th>
-<th></th>
-</tr>
-<tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Тұрғын үй-коммуналдық шаруашылық</th>
-<th>8 343 871</th>
-<th>1 267 652</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>8 343 871</th>
-<th>1 267 652</th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>224</td>
-<td></td>
-<td colspan="2">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жылумен, сумен жабдықтау және су бұру жүйелерін реконструкциялау және салу үшін кредит беру</td>
-<td>8 343 871</td>
-<td>1 267 652</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>8 343 871</td>
-<td>1 267 652</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>3 922 591</td>
-<td>1 267 652</td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Маңғыстау облысы</th>
-<th>4 421 280</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>11</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</th>
-<th>370 998 898</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>211</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Сауда және интеграция министрлігі</th>
-<th>46 776 498</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>247</td>
-<td></td>
-<td colspan="2">Жүк техникасының жетекші белдіктерінің бас берілістерін шығару жобасын қаржыландыру үшін кейіннен «Өнеркәсіпті дамыту қоры» АҚ-ға кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>46 776 498</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>324 222 400</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>023</td>
-<td></td>
-<td colspan="2">«Қарағанды облысының Саран қаласында шина өндірісін ұйымдастыру» жобасын лизингтік қаржыландыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>46 422 400</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>030</td>
-<td></td>
-<td>Республикалық бюджеттің қаражаты есебінен</td>
-<td>46 422 400</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>208</td>
-<td></td>
-<td colspan="2">Қазақстан Республикасын индустриялық-инновациялық дамытудың 2020 – 2025 жылдарға арналған мемлекеттік бағдарламасының жобаларын қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>4 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>209</td>
-<td></td>
-<td colspan="2">Тракторларды, комбайндарды лизингке өткізу бойынша «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>3 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>214</td>
-<td></td>
-<td colspan="2">Өңдеуші өнеркәсіп жобаларын қаржыландыру үшін кейіннен «Өнеркәсіптің дамыту қоры» АҚ-ға кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>200 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>215</td>
-<td></td>
-<td colspan="2">Жүк техникасының жетекші белдіктерінің арқалықтарын оқшаулау деңгейін ұлғайту жөніндегі жобаны іске асыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>55 000 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>219</td>
-<td></td>
-<td colspan="2">«Өнеркәсіпті дамыту қоры» АҚ арқылы жолаушылар вагоны паркін жаңартуды қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>5 300 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>247</td>
-<td></td>
-<td colspan="2">Қазақстанда өндірілген ауыл шаруашылығы техникасын қоспағанда, автокөлік құралдары мен арнайы мақсаттағы автотехниканы лизингке сатып алатын заңды тұлғалар мен дара кәсіпкерлерді лизингтік қаржыландыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
-<td>10 000 000</td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">V. Ұлттық қордан бөлінген нысаналы трансферттер</th>
-<th>505 540 216</th>
-<th>227 088 664</th>
-<th>110 055 746</th>
-</tr>
-<tr>
-<th>7</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Тұрғын үй-коммуналдық шаруашылық</th>
-<th>270 428 933</th>
-<th>69 346 311</th>
-<th>21 728 050</th>
-</tr>
-<tr>
-<th></th>
-<th>249</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</th>
-<th>270 428 933</th>
-<th>69 346 311</th>
-<th>21 728 050</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>228</td>
-<td></td>
-<td colspan="2">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
-<td>94 361 397</td>
-<td>10 584 454</td>
-<td>2 966 281</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>104</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>17 506 934</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>әлеуметтік осал топтар үшін тұрғын үй салуға</td>
-<td>4 769 231</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>243 059</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>117 364</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>156 705</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>777 417</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>596 964</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>734 116</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>923 783</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>266 488</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>214 968</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>531 773</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>206 594</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>аз қамтылған көпбалалы отбасылар үшін тұрғын үй салуға</td>
-<td>6 344 103</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>1 440 492</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>1 119 597</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>161 664</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>636 312</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>122 267</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>268 800</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>1 745 721</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>321 016</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>528 234</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>жұмыс істейтін жастарға тұрғын үй салу</td>
-<td>6 393 600</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Шымкент қаласы</th>
-<th>6 393 600</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>105</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>76 854 463</td>
-<td>10 584 454</td>
-<td>2 966 281</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>317 354</td>
-<td>573 744</td>
-<td>530 599</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>8 000 812</td>
-<td>3 817 058</td>
-<td>2 364 355</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>1 959 558</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>7 379 569</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>7 713 692</td>
-<td>3 751 851</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>4 940 710</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>4 528 813</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>2 855 079</td>
-<td></td>
-<td>71 327</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>3 365 948</td>
-<td>1 412 273</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>1 758 576</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>5 490 634</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>993 683</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>403 156</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>994 898</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>305 656</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>3 808 384</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>10 683 453</td>
-<td>120 085</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>5 557 494</td>
-<td>909 443</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>5 796 994</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>229</td>
-<td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</td>
-<td>176 067 536</td>
-<td>58 761 857</td>
-<td>18 761 769</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>109</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>110 569 846</td>
-<td>27 895 505</td>
-<td>10 703 619</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>1 522 600</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>1 000 000</td>
-<td>1 584 616</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>1 917 379</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>764 849</td>
-<td>945 430</td>
-<td>319 159</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>1 692 374</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 108 849</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>2 683 267</td>
-<td>2 803 246</td>
-<td>1 247 221</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
+<td colspan="6">39 887 510</td>
+<td colspan="6">500 000</td>
+<td colspan="4">500 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>5 196 283</td>
-<td>2 372 458</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>809 534</td>
-<td>1 329 150</td>
-<td>29 151</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>2 434 791</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>1 724 977</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>4 384 017</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>8 717 238</td>
-<td>4 686 604</td>
-<td>1 831 357</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>20 356 321</td>
-<td>7 464 683</td>
-<td>5 298 345</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>12 189 033</td>
-<td>2 558 649</td>
-<td>778 386</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>3 760 451</td>
-<td>2 000 000</td>
-<td>1 200 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>город Астана</td>
-<td>40 307 883</td>
-<td>2 150 669</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>110</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>65 497 690</td>
-<td>30 866 352</td>
-<td>8 058 150</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>6 494 966</td>
-<td>10 570 467</td>
-<td>5 587 684</td>
+<td colspan="4">207</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
+<td colspan="6">19 887 510</td>
+<td colspan="6">500 000</td>
+<td colspan="4">500 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>1 330 266</td>
-<td>134 507</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">037</td>
+<td colspan="8"></td>
+<td colspan="12">Қоршаған ортаның сапасын тұрақтандыру және жақсарту</td>
+<td colspan="6">4 500 000</td>
+<td colspan="6">500 000</td>
+<td colspan="4">500 000</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>1 975 618</td>
-<td>705 811</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">105</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астана бюджеттеріне қоршаған ортаны қорғау объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">4 500 000</td>
+<td colspan="6">500 000</td>
+<td colspan="4">500 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 185 013</td>
-<td>1 261 973</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>8 009 493</td>
-<td>1 208 988</td>
-<td>815 146</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">1 500 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>3 865 860</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6">500 000</td>
+<td colspan="4">500 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>3 747 721</td>
-<td>1 701 112</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4">254</td>
+<td colspan="8"></td>
+<td colspan="12">Су ресурстарын тиімді басқару</td>
+<td colspan="6">15 387 510</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>9 359 600</td>
-<td>6 184 521</td>
-<td>1 655 320</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">115</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жерүсті су ресурстарын ұлғайтуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">15 387 510</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Қызылорда облысы</td>
-<td>429 622</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>2 552 613</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">3 796 325</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>2 402 989</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>985 134</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">3 231 845</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Павлодар облысы</td>
-<td>4 500 143</td>
-<td>3 750 092</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>7 056 736</td>
-<td>1 766 230</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">2 755 594</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>10 601 916</td>
-<td>3 582 651</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">403 746</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td>9</td>
-<td></td>
 <td></td>
-<td></td>
-<td colspan="2">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
-<td>45 335 770</td>
-<td>39 598 790</td>
-<td>13 868 283</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">2 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td>241</td>
 <td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Энергетика министрлігі</td>
-<td>45 335 770</td>
-<td>39 598 790</td>
-<td>13 868 283</td>
+<td colspan="4">212</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Ауыл шаруашылығы министрлiгi</td>
+<td colspan="6">20 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td>003</td>
-<td></td>
-<td colspan="2">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>45 335 770</td>
-<td>39 598 790</td>
-<td>13 868 283</td>
+<td colspan="4"></td>
+<td colspan="4">004</td>
+<td colspan="8"></td>
+<td colspan="12">Солтүстік Қазақстан облысының облыстық бюджетіне «Солтүстік» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">20 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>032</td>
 <td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
-<td>45 335 770</td>
-<td>39 598 790</td>
-<td>13 868 283</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">20 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>2 829 847</td>
-<td>3 970 960</td>
-<td></td>
+<td>11</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
+<td colspan="6">31 722 045</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>1 752 707</td>
-<td>949 025</td>
-<td>564 374</td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">31 722 045</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>768 209</td>
-<td>500 000</td>
-<td>1 433 659</td>
+<td colspan="4"></td>
+<td colspan="4">022</td>
+<td colspan="8"></td>
+<td colspan="12">Автомобиль шиналарын өндіру жөніндегі жобаны іске асыру мақсатында «Сарыарқа» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайту үшін Қарағанды облысының бюджетіне берілетін нысаналы даму трансферттері</td>
+<td colspan="6">11 200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>882 745</td>
-<td>1 150 915</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">030</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">11 200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>7 002 446</td>
-<td>5 649 370</td>
-<td>4 487 991</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>418 953</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">11 200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>4 758 061</td>
-<td>12 111 292</td>
-<td>4 867 140</td>
+<td colspan="4"></td>
+<td colspan="4">026</td>
+<td colspan="8"></td>
+<td colspan="12">Жаңа өндірістік алаңдарды құру үшін «Солтүстік» әлеуметтік-кәсіпкерлік корпорациясы» АҚ жарғылық капиталын ұлғайту үшін Солтүстік Қазақстан облысының бюджетіне берілетін нысаналы даму трансферттері</td>
+<td colspan="6">8 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Қостанай облысы</td>
-<td>3 013 839</td>
-<td>1 774 160</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>3 738 749</td>
-<td>1 759 509</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">8 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>1 597 576</td>
-<td>1 034 115</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">090</td>
+<td colspan="8"></td>
+<td colspan="12">Өнеркәсіп салаларының дамуына жәрдемдесу</td>
+<td colspan="6">12 522 045</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>88 683</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">109</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне арнайы экономикалық аймақтардың, индустриялық аймақтардың, индустриялық парктердің инфрақұрылымын дамыту үшін берілетін нысаналы даму трансферттері</td>
+<td colspan="6">12 522 045</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>3 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>13 575 311</td>
-<td>10 699 444</td>
-<td>2 515 119</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">10 321 146</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>1 908 644</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">2 200 899</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Көлiк және коммуникация</td>
-<td>123 646 494</td>
-<td>69 715 816</td>
-<td>74 459 413</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Көлiк және коммуникация</td>
+<td colspan="6">28 085 261</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td>249</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
-<td>123 646 494</td>
-<td>69 715 816</td>
-<td>74 459 413</td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">28 085 261</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>003</td>
-<td></td>
-<td colspan="2">Республикалық деңгейде автомобиль жолдарын дамыту</td>
-<td>42 685 281</td>
-<td>42 776 853</td>
-<td>39 459 413</td>
+<td colspan="4"></td>
+<td colspan="4">091</td>
+<td colspan="8"></td>
+<td colspan="12">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
+<td colspan="6">1 600 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>032</td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
-<td>42 685 281</td>
-<td>42 776 853</td>
-<td>39 459 413</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">110</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражат есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 600 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде инвестициялық жобалар:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Өзгелер</th>
-<th>42 685 281</th>
-<th>42 776 853</th>
-<th>39 459 413</th>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қарағанды - Аягөз - Тарбағатай - Бұғаз» республикалық маңызы бар автомобиль жолының «Қарағанды - Аягөз» учаскесін реконструкциялау</td>
-<td>83 487</td>
-<td>8 500 000</td>
-<td>8 500 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Ақтөбе - Қарабұтақ - Ұлғайсын» автомобиль жолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>357 271</td>
-<td>8 500 000</td>
-<td>8 500 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұзақтығы 195 км «Семей - Өскемен» республикалық маңызы бар автомобиль жолын реконструкциялау</td>
-<td>155 786</td>
-<td>7 830 697</td>
-<td>8 000 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Қызылорда - Павлодар - Успенка - РФ шек.» республикалық маңызы бар автомобиль жолының «Жезқазған - Қарағанды» учаскесін реконструкциялау</td>
-<td>851 956</td>
-<td>12 825 456</td>
-<td>12 065 095</td>
+<td colspan="4"></td>
+<td colspan="4">093</td>
+<td colspan="8"></td>
+<td colspan="12">Азаматтық авиацияны және әуе көлігін дамыту</td>
+<td colspan="6">4 432 651</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Орталық-Шығыс «Астана - Павлодар - Қалбатау - Өскемен» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>3 500 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">104</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге әуе көлігінің инфрақұрылымын дамытуға арналған нысаналы даму трансферттері</td>
+<td colspan="6">4 432 651</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Астана - Петропавл» автомобиль жолының «Бурабай - Көкшетау - Петропавл - РФ шекарасы» транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>4 888</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Үшарал - Достық» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>15 020 064</td>
-<td>1 600 000</td>
-<td>131 874</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">2 029 251</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «Қарабұтақ - Комсомольское - Денисовка - Рудный - Қостанай» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>12 889 359</td>
-<td>2 520 700</td>
-<td>1 262 444</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">2 403 400</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Атырау - Орал» республикалық маңызы бар автомобиль жолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>526 548</td>
-<td>1 000 000</td>
-<td>1 000 000</td>
+<td colspan="4"></td>
+<td colspan="4">213</td>
+<td colspan="8"></td>
+<td colspan="12">Қалалық рельстік көліктің дамуын қамтамасыз ету</td>
+<td colspan="6">22 052 610</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>«Орал - Орынбор» автомобиль жолының ұзындығы 144 км «Подстепное - Федоровка - РФ шекарасы (Илекке)» учаскесін реконструкциялау</td>
-<td>5 300 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">102</td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласының бюджетіне метрополитен салуға заңды тұлғалардың жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">5 018 083</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Республикалық маңызы бар «РФ шекарасы (Орск қаласына)-Ақтөбе -Атырау - РФ шекарасы (Астрахань қаласына)» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td>3 995 922</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>091</td>
-<td></td>
-<td colspan="2">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
-<td>80 961 213</td>
-<td>26 938 963</td>
-<td>35 000 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">5 018 083</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>111</td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>80 961 213</td>
-<td>26 938 963</td>
-<td>35 000 000</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">105</td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласының бюджетіне электропоездарды сатып алуға заңды тұлғалардың жарғылық капиталын ұлғайтуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">17 034 527</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>244 449</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>1 248 855</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>8 000 000</td>
-<td>8 000 000</td>
-<td>11 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>2 371 213</td>
-<td>5 000 000</td>
-<td>5 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>7 702 779</td>
-<td>9 000 000</td>
-<td>9 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>2 817 247</td>
-<td>4 938 963</td>
-<td>8 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>3 695 005</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>1 107 273</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>966 148</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>4 578 082</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>1 710 340</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>1 775 857</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>1 135 789</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>3 502 749</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>19 007 140</td>
-<td></td>
-<td>2 000 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>10 802 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>10 296 287</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">17 034 527</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Басқалар</td>
-<td>66 129 019</td>
-<td>48 427 747</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Басқалар</td>
+<td colspan="6">105 607 735</td>
+<td colspan="6">13 529 074</td>
+<td colspan="4">853 123</td>
 </tr>
 <tr>
 <td></td>
-<td>243</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Ұлттық экономика министрлігі</td>
-<td>66 129 019</td>
-<td>48 427 747</td>
-<td></td>
+<td colspan="4">243</td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="12">Қазақстан Республикасы Ұлттық экономика министрлігі</td>
+<td colspan="6">105 607 735</td>
+<td colspan="6">13 529 074</td>
+<td colspan="4">853 123</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td>082</td>
-<td></td>
-<td colspan="2">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
-<td>42 129 019</td>
-<td>18 427 747</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">082</td>
+<td colspan="8"></td>
+<td colspan="12">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
+<td colspan="6">68 829 583</td>
+<td colspan="6">11 350 000</td>
+<td colspan="4">303 850</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td>109</td>
-<td></td>
-<td>Облыстық бюджеттерге шағын және моноқалалардағы бюджеттік инвестициялық жобаларды іске асыруға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>9 794 467</td>
-<td>15 000 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">100</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге шағын және моноқалалардағы бюджеттік инвестициялық жобаларды іске асыруға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">15 977 025</td>
+<td colspan="6">350 000</td>
+<td colspan="4">303 850</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>934 511</td>
-<td>1 134 394</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">615 796</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>174 851</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">2 500 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td></td>
-<td>700 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">2 274 778</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>200 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">1 413 237</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>972 326</td>
-<td>433 355</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">4 290 029</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>180 111</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">225 605</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>737 145</td>
-<td>468 615</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">796 727</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Қарағанды облысы</td>
-<td>1 534 955</td>
-<td>7 577 833</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">2 900 443</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>508 200</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">263 477</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>111 683</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">696 933</td>
+<td colspan="6">350 000</td>
+<td colspan="4">303 850</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>550 782</td>
-<td>383 605</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">102</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге облыс орталықтарына инженерлік және көлік (аббаттандыру) инфрақұрылымын дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">47 811 348</td>
+<td colspan="6">11 000 000</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>890 000</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>900 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">5 273 344</td>
+<td colspan="6">1 366 390</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>200 000</td>
-<td>1 507 849</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">10 513 204</td>
+<td colspan="6">3 158 875</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>500 477</td>
-<td>760 052</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">2 440 631</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>1 399 426</td>
-<td>2 034 297</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">1 576 467</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>113</td>
 <td></td>
-<td>Облыстық бюджеттерге «Ауыл – Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>32 334 552</td>
-<td>3 427 747</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">1 934 147</td>
+<td colspan="6">1 118 487</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">250 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>1 669 300</td>
-<td>299 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">424 469</td>
+<td colspan="6">1 344 513</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>2 122 560</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">1 800 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>6 965 064</td>
-<td>2 480 829</td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>1 633 739</td>
-<td>300 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">2 356 583</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>259 888</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">641 757</td>
+<td colspan="6">782 198</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>2 973 099</td>
 <td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">20 100 746</td>
+<td colspan="6">3 229 537</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>344 118</td>
-<td>347 918</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">107</td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан және Жамбыл облыстарының бюджеттеріне мемлекеттік мекемелердің әкімшілік ғимараттарын салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">4 841 210</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>616 566</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Қостанай облысы</td>
-<td>192 306</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">372 037</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>3 006 905</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">4 469 173</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>3 508 003</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">108</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге «Ауыл – Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>895 805</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Жетісу облысы</td>
-<td>2 117 472</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>154 087</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4">087</td>
+<td colspan="8"></td>
+<td colspan="12">2021 – 2025 жылдарға арналған кәсіпкерлікті дамыту жөніндегі ұлттық жобасы және Басым жобаларға кредит беру тетігі шеңберінде іс-шараларды іске асыру</td>
+<td colspan="6">18 795 965</td>
+<td colspan="6">2 179 074</td>
+<td colspan="4">549 273</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>1 533 042</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">105</td>
+<td colspan="4"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне индустриялық инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">18 795 965</td>
+<td colspan="6">2 179 074</td>
+<td colspan="4">549 273</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>854 124</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Түркістан облысы</td>
-<td>3 488 474</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">425 970</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>160</td>
 <td></td>
-<td colspan="2">Ақмола облысының бюджетіне, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалардың шеткі аумақтарындағы әлеуметтік және инженерлік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>24 000 000</td>
-<td>30 000 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">314 324</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>032</td>
 <td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
-<td>24 000 000</td>
-<td>30 000 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">56 135</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">2 119 701</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>6 103 000</td>
-<td>7 500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">2 424 340</td>
+<td colspan="6">150 000</td>
+<td colspan="4">28 525</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>5 521 226</td>
-<td>5 000 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">1 192 268</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>7 375 774</td>
-<td>10 000 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">1 355 209</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>5 000 000</td>
-<td>7 500 000</td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">331 211</td>
+<td colspan="6">303 186</td>
+<td colspan="4"></td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">28 464</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">3 475 170</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">382 569</td>
+<td colspan="6">400 000</td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">939 294</td>
+<td colspan="6">156 093</td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">VI. Ұлттық қордан бөлінетін кепілдендірілген трансферт</th>
-<th>225 770 720</th>
-<th></th>
-<th></th>
+<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">4 812 703</td>
+<td colspan="6">1 169 795</td>
+<td colspan="4">520 748</td>
 </tr>
 <tr>
-<th>5</th>
-<th></th>
-<th></th>
-<th></th>
-<th colspan="2">Денсаулық сақтау</th>
-<th>4 254 957</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>226</th>
-<th></th>
-<th></th>
-<th colspan="2">Қазақстан Республикасы Денсаулық сақтау министрлігі</th>
-<th>4 254 957</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>053</td>
-<td></td>
-<td colspan="2">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
-<td>4 254 957</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>125</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне денсаулық сақтау объектілерін салуға және реконструкциялауға және Алматы облысының облыстық бюджетіне, Алматы қаласының бюджетіне денсаулық сақтау объектілерін сейсмикалық күшейтуге, сондай-ақ инфекциялық ауруханаларды орналастыру үшін тез салынатын кешендер құруға Қазақстан Республикасы Ұлттық қорынан бөлінетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
-<td>4 254 957</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>433 700</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>1 894 875</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>250 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>1 676 382</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>56 181 121</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>249</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
-<td>56 181 121</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>228</td>
-<td></td>
-<td colspan="2">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
-<td>19 820 121</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>113</td>
-<td></td>
-<td>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен нысаналы даму трансферттерi</td>
-<td>19 820 121</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>3 293 966</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>4 210 229</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>494 715</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>1 533 404</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>3 570 577</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>6 717 230</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th>229</th>
-<th></th>
-<th colspan="2">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</th>
-<th>36 361 000</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>113</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалаларда сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
-<td>11 263 382</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>1 100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>138 095</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>1 006 064</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>259 669</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>2 037 910</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>2 099 184</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>4 622 460</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>114</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нөсерлік кәріз жүйесін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>1 599 180</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Астана қаласы</th>
-<th>1 599 180</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>118</td>
-<td></td>
-<td>«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендерде сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
-<td>23 498 438</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>1 833 481</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>2 176 982</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>4 304 514</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>4 388 184</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>2 080 600</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>841 900</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>1 094 351</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>907 179</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>1 410 900</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>268 147</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Павлодар облысы</td>
-<td>1 681 802</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>548 736</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>1 961 662</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
-<td>50 165 864</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>241</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Энергетика министрлігі</td>
-<td>50 165 864</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>003</td>
-<td></td>
-<td colspan="2">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
-<td>50 165 864</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>055</td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
-<td>50 165 864</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>4 414 021</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>2 150 169</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>360 612</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>3 274 040</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>100 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>540 879</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>899 783</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>3 111 897</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>1 901 005</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>5 768 630</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>6 821 524</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>2 322 496</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>18 500 808</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Көлiк және коммуникация</td>
-<td>75 716 737</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>249</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
-<td>75 716 737</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>091</td>
-<td></td>
-<td colspan="2">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
-<td>75 716 737</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>115</td>
-<td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
-<td>75 716 737</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">938 607</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>1 568 545</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>9 500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>6 319 937</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>2 352 093</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>6 003 489</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>250 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4">160</td>
+<td colspan="8"></td>
+<td colspan="12">Ақмола облысының бюджетіне, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалардың шеткі аумақтарындағы әлеуметтік және инженерлік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">17 982 187</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Қызылорда облысы</td>
-<td>1 104 294</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8">030</td>
+<td colspan="4"></td>
+<td colspan="8">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">17 982 187</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>2 614 688</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>1 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">8 930 068</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>1 605 092</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">3 678 969</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
-<td>Ұлытау облысы</td>
-<td>1 000 000</td>
-<td></td>
-<td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">3 435 597</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>7 084 263</td>
-<td></td>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="4"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">1 937 553</td>
+<td colspan="6"></td>
+<td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шымкент қаласы</td>
-<td>1 949 839</td>
-<td></td>
-<td></td>
+<td colspan="16">Функционалдық топ</td>
+<td colspan="10" rowspan="4">Атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы қаласы</td>
-<td>7 364 497</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="14">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="6" rowspan="3">2024 жыл</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Астана қаласы</td>
-<td>25 500 000</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="10">Бағдарлама</td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Басқалар</td>
-<td>39 452 041</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6">Кіші бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td>243</td>
-<td></td>
-<td></td>
-<td colspan="2">Қазақстан Республикасы Ұлттық экономика министрлігі</td>
-<td>39 452 041</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">IV. Кредиттер</td>
+<td colspan="6">379 208 616</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>082</td>
-<td></td>
-<td colspan="2">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
-<td>39 452 041</td>
-<td></td>
-<td></td>
+<td colspan="2">7</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="6">8 209 718</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>115</td>
-<td></td>
-<td>Облыстық бюджеттерге «Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттері</td>
-<td>39 452 041</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">8 209 718</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>оның ішінде өңірлер бойынша:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">224</td>
+<td colspan="6"></td>
+<td colspan="10">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жылумен, сумен жабдықтау және су бұру жүйелерін реконструкциялау және салу үшін кредит беру</td>
+<td colspan="6">8 209 718</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақмола облысы</td>
-<td>1 400 480</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6">030</td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">8 209 718</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақтөбе облысы</td>
-<td>2 752 780</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Алматы облысы</td>
-<td>3 297 607</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">3 788 438</td>
+<td colspan="6">1 267 652</td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Атырау облысы</td>
-<td>8 770 028</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">4 421 280</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шығыс Қазақстан облысы</td>
-<td>1 445 683</td>
-<td></td>
-<td></td>
+<td colspan="2">11</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
+<td colspan="6">370 998 898</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбыл облысы</td>
-<td>3 550 296</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4">211</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">Қазақстан Республикасы Сауда және интеграция министрлігі</td>
+<td colspan="6">46 776 498</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Батыс Қазақстан облысы</td>
-<td>671 715</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">247</td>
+<td colspan="6"></td>
+<td colspan="10">Жүк техникасының жетекші белдіктерінің бас берілістерін шығару жобасын қаржыландыру үшін кейіннен «Өнеркәсіпті дамыту қоры» АҚ-ға кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">46 776 498</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қарағанды облысы</td>
-<td>1 403 134</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="6"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">324 222 400</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қостанай облысы</td>
-<td>225 046</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">023</td>
+<td colspan="6"></td>
+<td colspan="10">«Қарағанды облысының Саран қаласында шина өндірісін ұйымдастыру» жобасын лизингтік қаржыландыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">46 422 400</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Қызылорда облысы</td>
-<td>2 433 352</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="6">030</td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="6">46 422 400</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Маңғыстау облысы</td>
-<td>4 900 493</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">208</td>
+<td colspan="6"></td>
+<td colspan="10">Қазақстан Республикасын индустриялық-инновациялық дамытудың 2020 – 2025 жылдарға арналған мемлекеттік бағдарламасының жобаларын қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">4 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Абай облысы</td>
-<td>425 798</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">209</td>
+<td colspan="6"></td>
+<td colspan="10">Тракторларды, комбайндарды лизингке өткізу бойынша «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">3 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жетісу облысы</td>
-<td>1 247 007</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">214</td>
+<td colspan="6"></td>
+<td colspan="10">Өңдеуші өнеркәсіп жобаларын қаржыландыру үшін кейіннен «Өнеркәсіптің дамыту қоры» АҚ-ға кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">200 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Ұлытау облысы</td>
-<td>480 128</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">215</td>
+<td colspan="6"></td>
+<td colspan="10">Жүк техникасының жетекші белдіктерінің арқалықтарын оқшаулау деңгейін ұлғайту жөніндегі жобаны іске асыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">55 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Түркістан облысы</td>
-<td>6 448 494</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">219</td>
+<td colspan="6"></td>
+<td colspan="10">«Өнеркәсіпті дамыту қоры» АҚ арқылы жолаушылар вагоны паркін жаңартуды қаржыландыру үшін «Қазақстанның Даму Банкі» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">5 300 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
 <tr>
-<td colspan="9">__________________________________________________</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">247</td>
+<td colspan="6"></td>
+<td colspan="10">Қазақстанда өндірілген ауыл шаруашылығы техникасын қоспағанда, автокөлік құралдары мен арнайы мақсаттағы автотехниканы лизингке сатып алатын заңды тұлғалар мен дара кәсіпкерлерді лизингтік қаржыландыру үшін «Өнеркәсіпті дамыту қоры» АҚ-ға кейіннен кредит бере отырып, «Бәйтерек» ұлттық басқарушы холдингі» АҚ-ға кредит беру</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
 </tr>
-</table>
-
-> *Қызмет бабында пайдалану үшін*
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы « »*  
-> *№ қаулысына*  
-> *2-қосымша*
-
-## Қазақстан Республикасы Төтенше жағдайлар, Қорғаныс, Индустрия және инфрақұрылымдық даму министрліктерінің, Президенті Іс Басқармасының басым республикалық бюджеттік инвестицияларының тізбесі
-
-> *Ескерту. 2-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
-
-<table>
 <tr>
-<td colspan="4">Функционалдық топ</td>
-<td colspan="2" rowspan="4">Атауы</td>
-<td colspan="3">Сомасы, мың теңге</td>
+<td colspan="15">Функционалдық топ</td>
+<td colspan="10" rowspan="4">Атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Әкімші</td>
-<td rowspan="3">2022 жыл</td>
-<td rowspan="3">2023 жыл</td>
-<td rowspan="3">2024 жыл</td>
+<td colspan="2"></td>
+<td colspan="13">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="6" rowspan="3">2024 жыл</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="9">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">Кіші бағдарлама</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">V. Ұлттық қордан бөлінген нысаналы трансферттер</td>
+<td colspan="6">505 540 216</td>
+<td colspan="6">227 088 664</td>
+<td colspan="6">110 055 746</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="6">270 428 933</td>
+<td colspan="6">69 346 311</td>
+<td colspan="6">21 728 050</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">270 428 933</td>
+<td colspan="6">69 346 311</td>
+<td colspan="6">21 728 050</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">228</td>
+<td colspan="5"></td>
+<td colspan="10">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">94 361 397</td>
+<td colspan="6">10 584 454</td>
+<td colspan="6">2 966 281</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">104</td>
+<td colspan="3"></td>
+<td colspan="7">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне коммуналдық тұрғын үй қорының тұрғын үйін салуға және (немесе) реконструкциялауға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">17 506 934</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">әлеуметтік осал топтар үшін тұрғын үй салуға</td>
+<td colspan="6">4 941 260</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">243 059</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">117 364</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">156 705</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">777 417</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">596 964</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">711 145</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">923 783</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">266 488</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">214 968</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">726 773</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">206 594</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">аз қамтылған көпбалалы отбасылар үшін тұрғын үй салуға</td>
+<td colspan="6">6 172 074</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">1 440 492</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">1 119 597</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">161 664</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">636 312</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">122 267</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">264 806</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">1 745 721</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">152 981</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">528 234</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">жұмыс істейтін жастарға тұрғын үй салу</td>
+<td colspan="6">6 393 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">6 393 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">105</td>
+<td colspan="3"></td>
+<td colspan="7">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">76 854 463</td>
+<td colspan="6">10 584 454</td>
+<td colspan="6">2 966 281</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">317 354</td>
+<td colspan="6">573 744</td>
+<td colspan="6">530 599</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">8 000 812</td>
+<td colspan="6">3 817 058</td>
+<td colspan="6">2 364 355</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">1 959 558</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">7 379 569</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">7 713 692</td>
+<td colspan="6">3 751 851</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">4 940 710</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">4 528 813</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">2 855 079</td>
+<td colspan="6"></td>
+<td colspan="6">71 327</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">3 365 948</td>
+<td colspan="6">1 412 273</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">1 758 576</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">5 490 634</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">993 683</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">403 156</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">994 898</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">305 656</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">3 808 384</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">10 683 453</td>
+<td colspan="6">120 085</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">5 557 494</td>
+<td colspan="6">909 443</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы қаласы</td>
+<td colspan="6">5 796 994</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">229</td>
+<td colspan="5"></td>
+<td colspan="10">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">176 067 536</td>
+<td colspan="6">58 761 857</td>
+<td colspan="6">18 761 769</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">109</td>
+<td colspan="3"></td>
+<td colspan="7">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">110 569 846</td>
+<td colspan="6">27 895 505</td>
+<td colspan="6">10 703 619</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">1 522 600</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">1 584 616</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">1 917 379</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">764 849</td>
+<td colspan="6">945 430</td>
+<td colspan="6">319 159</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">1 661 758</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">1 108 849</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">2 683 267</td>
+<td colspan="6">2 803 246</td>
+<td colspan="6">1 247 221</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">5 233 506</td>
+<td colspan="6">2 372 458</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">809 534</td>
+<td colspan="6">1 329 150</td>
+<td colspan="6">29 151</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">2 434 791</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">1 724 977</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">4 384 017</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">8 717 238</td>
+<td colspan="6">4 686 604</td>
+<td colspan="6">1 831 357</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">20 349 714</td>
+<td colspan="6">7 464 683</td>
+<td colspan="6">5 298 345</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">12 189 033</td>
+<td colspan="6">2 558 649</td>
+<td colspan="6">778 386</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы қаласы</td>
+<td colspan="6">3 760 451</td>
+<td colspan="6">2 000 000</td>
+<td colspan="6">1 200 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Астана қаласы</td>
+<td colspan="6">40 307 883</td>
+<td colspan="6">2 150 669</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">110</td>
+<td colspan="3"></td>
+<td colspan="7">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">65 497 690</td>
+<td colspan="6">30 866 352</td>
+<td colspan="6">8 058 150</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">6 494 966</td>
+<td colspan="6">10 570 467</td>
+<td colspan="6">5 587 684</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">1 330 266</td>
+<td colspan="6">134 507</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">1 975 618</td>
+<td colspan="6">705 811</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">2 185 013</td>
+<td colspan="6">1 261 973</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">8 009 493</td>
+<td colspan="6">1 208 988</td>
+<td colspan="6">815 146</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">3 865 860</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">3 747 721</td>
+<td colspan="6">1 701 112</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">9 349 620</td>
+<td colspan="6">6 184 521</td>
+<td colspan="6">1 655 320</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">429 622</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">2 552 613</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">2 400 891</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">975 736</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">4 500 143</td>
+<td colspan="6">3 750 092</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">7 056 736</td>
+<td colspan="6">1 766 230</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">10 623 392</td>
+<td colspan="6">3 582 651</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2">9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
+<td colspan="6">45 335 770</td>
+<td colspan="6">39 598 790</td>
+<td colspan="6">13 868 283</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">241</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Қазақстан Республикасы Энергетика министрлігі</td>
+<td colspan="6">45 335 770</td>
+<td colspan="6">39 598 790</td>
+<td colspan="6">13 868 283</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5"></td>
+<td colspan="10">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">45 335 770</td>
+<td colspan="6">39 598 790</td>
+<td colspan="6">13 868 283</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">032</td>
+<td colspan="3"></td>
+<td colspan="7">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
+<td colspan="6">45 335 770</td>
+<td colspan="6">39 598 790</td>
+<td colspan="6">13 868 283</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">2 829 847</td>
+<td colspan="6">3 970 960</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">1 752 707</td>
+<td colspan="6">949 025</td>
+<td colspan="6">564 374</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">768 209</td>
+<td colspan="6">500 000</td>
+<td colspan="6">1 433 659</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">382 745</td>
+<td colspan="6">1 150 915</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">7 002 446</td>
+<td colspan="6">5 649 370</td>
+<td colspan="6">4 487 991</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">418 870</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">4 758 061</td>
+<td colspan="6">12 111 292</td>
+<td colspan="6">4 867 140</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">3 013 839</td>
+<td colspan="6">1 774 160</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">3 738 749</td>
+<td colspan="6">1 759 509</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">1 597 576</td>
+<td colspan="6">1 034 115</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">88 683</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">3 000 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">14 075 394</td>
+<td colspan="6">10 699 444</td>
+<td colspan="6">2 515 119</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">1 908 644</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2">12</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Көлiк және коммуникация</td>
+<td colspan="6">123 646 494</td>
+<td colspan="6">69 715 816</td>
+<td colspan="6">74 459 413</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">123 646 494</td>
+<td colspan="6">69 715 816</td>
+<td colspan="6">74 459 413</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="5"></td>
+<td colspan="10">Республикалық деңгейде автомобиль жолдарын дамыту</td>
+<td colspan="6">42 685 281</td>
+<td colspan="6">42 776 853</td>
+<td colspan="6">39 459 413</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">032</td>
+<td colspan="3"></td>
+<td colspan="7">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
+<td colspan="6">42 685 281</td>
+<td colspan="6">42 776 853</td>
+<td colspan="6">39 459 413</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде инвестициялық жобалар:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Өзгелер</td>
+<td colspan="6">42 685 281</td>
+<td colspan="6">42 776 853</td>
+<td colspan="6">39 459 413</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">«Қарағанды - Аягөз - Тарбағатай - Бұғаз» республикалық маңызы бар автомобиль жолының «Қарағанды - Аягөз» учаскесін реконструкциялау</td>
+<td colspan="6">83 487</td>
+<td colspan="6">8 500 000</td>
+<td colspan="6">8 500 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">«Ақтөбе - Қарабұтақ - Ұлғайсын» автомобиль жолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">357 271</td>
+<td colspan="6">8 500 000</td>
+<td colspan="6">8 500 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұзақтығы 195 км «Семей - Өскемен» республикалық маңызы бар автомобиль жолын реконструкциялау</td>
+<td colspan="6">155 786</td>
+<td colspan="6">7 830 697</td>
+<td colspan="6">8 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">«Қызылорда - Павлодар - Успенка - РФ шек.» республикалық маңызы бар автомобиль жолының «Жезқазған - Қарағанды» учаскесін реконструкциялау</td>
+<td colspan="6">851 956</td>
+<td colspan="6">12 825 456</td>
+<td colspan="6">12 065 095</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Орталық-Шығыс «Астана - Павлодар - Қалбатау - Өскемен» дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">3 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық маңызы бар «Астана - Петропавл» автомобиль жолының «Бурабай - Көкшетау - Петропавл - РФ шекарасы» транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">4 888</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық маңызы бар «Үшарал - Достық» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">15 020 064</td>
+<td colspan="6">1 600 000</td>
+<td colspan="6">131 874</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық маңызы бар «Қарабұтақ - Комсомольское - Денисовка - Рудный - Қостанай» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">12 889 359</td>
+<td colspan="6">2 520 700</td>
+<td colspan="6">1 262 444</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">«Атырау - Орал» республикалық маңызы бар автомобиль жолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">526 548</td>
+<td colspan="6">1 000 000</td>
+<td colspan="6">1 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">«Орал - Орынбор» автомобиль жолының ұзындығы 144 км «Подстепное - Федоровка - РФ шекарасы (Илекке)» учаскесін реконструкциялау</td>
+<td colspan="6">5 300 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Республикалық маңызы бар «РФ шекарасы (Орск қаласына)-Ақтөбе -Атырау - РФ шекарасы (Астрахань қаласына)» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="6">3 995 922</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">091</td>
+<td colspan="5"></td>
+<td colspan="10">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
+<td colspan="6">80 961 213</td>
+<td colspan="6">26 938 963</td>
+<td colspan="6">35 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">111</td>
+<td colspan="3"></td>
+<td colspan="7">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">80 961 213</td>
+<td colspan="6">26 938 963</td>
+<td colspan="6">35 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">244 449</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">1 248 855</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">7 100 000</td>
+<td colspan="6">8 000 000</td>
+<td colspan="6">11 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">2 371 213</td>
+<td colspan="6">5 000 000</td>
+<td colspan="6">5 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">11 219 474</td>
+<td colspan="6">9 000 000</td>
+<td colspan="6">9 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">2 817 247</td>
+<td colspan="6">4 938 963</td>
+<td colspan="6">8 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">3 695 005</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">1 107 273</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">966 148</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">4 263 387</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">1 710 340</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">1 775 857</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">1 135 789</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">3 502 749</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">19 007 140</td>
+<td colspan="6"></td>
+<td colspan="6">2 000 000</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы қаласы</td>
+<td colspan="6">8 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Астана қаласы</td>
+<td colspan="6">10 296 287</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Басқалар</td>
+<td colspan="6">66 129 019</td>
+<td colspan="6">48 427 747</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">243</td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="10">Қазақстан Республикасы Ұлттық экономика министрлігі</td>
+<td colspan="6">66 129 019</td>
+<td colspan="6">48 427 747</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">082</td>
+<td colspan="5"></td>
+<td colspan="10">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
+<td colspan="6">42 129 019</td>
+<td colspan="6">18 427 747</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">109</td>
+<td colspan="3"></td>
+<td colspan="7">Облыстық бюджеттерге шағын және моноқалалардағы бюджеттік инвестициялық жобаларды іске асыруға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">9 794 467</td>
+<td colspan="6">15 000 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">934 511</td>
+<td colspan="6">1 134 394</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">174 851</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6"></td>
+<td colspan="6">700 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">972 326</td>
+<td colspan="6">433 355</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">180 111</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">737 145</td>
+<td colspan="6">468 615</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">1 534 955</td>
+<td colspan="6">7 577 833</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">508 200</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">111 683</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">550 782</td>
+<td colspan="6">383 605</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">890 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">900 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">200 000</td>
+<td colspan="6">1 507 849</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">500 477</td>
+<td colspan="6">760 052</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">1 399 426</td>
+<td colspan="6">2 034 297</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">113</td>
+<td colspan="3"></td>
+<td colspan="7">Облыстық бюджеттерге «Ауыл – Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">32 334 552</td>
+<td colspan="6">3 427 747</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">1 669 300</td>
+<td colspan="6">299 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақтөбе облысы</td>
+<td colspan="6">2 122 560</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="6">6 965 064</td>
+<td colspan="6">2 480 829</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="6">1 633 739</td>
+<td colspan="6">300 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="6">259 888</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="6">2 973 099</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="6">344 118</td>
+<td colspan="6">347 918</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="6">616 566</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="6">192 306</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Қызылорда облысы</td>
+<td colspan="6">3 006 905</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="6">3 508 003</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Абай облысы</td>
+<td colspan="6">895 805</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Жетісу облысы</td>
+<td colspan="6">2 117 472</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ұлытау облысы</td>
+<td colspan="6">154 087</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="6">1 533 042</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="6">854 124</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="6">3 488 474</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4">160</td>
+<td colspan="5"></td>
+<td colspan="10">Ақмола облысының бюджетіне, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалалардың шеткі аумақтарындағы әлеуметтік және инженерлік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">24 000 000</td>
+<td colspan="6">30 000 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5">032</td>
+<td colspan="3"></td>
+<td colspan="7">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен</td>
+<td colspan="6">24 000 000</td>
+<td colspan="6">30 000 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="6">6 103 000</td>
+<td colspan="6">7 500 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="6">5 521 226</td>
+<td colspan="6">5 000 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Алматы қаласы</td>
+<td colspan="6">7 075 774</td>
+<td colspan="6">10 000 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="5"></td>
+<td colspan="3"></td>
+<td colspan="7">Астана қаласы</td>
+<td colspan="6">5 300 000</td>
+<td colspan="6">7 500 000</td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="14">Функционалдық топ</td>
+<td colspan="10" rowspan="4">Атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="11">Әкімші</td>
+<td colspan="6" rowspan="3">2022 жыл</td>
+<td colspan="6" rowspan="3">2023 жыл</td>
+<td colspan="6" rowspan="3">2024 жыл</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="7">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">Кіші бағдарлама</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">VI. Ұлттық қордан бөлінетін кепілдендірілген трансферт</td>
+<td colspan="6">225 770 720</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Денсаулық сақтау</td>
+<td colspan="6">4 254 957</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">226</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td colspan="6">4 254 957</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">053</td>
+<td colspan="3"></td>
+<td colspan="10">Арнайы медициналық резервті сақтауды қамтамасыз ету және денсаулық сақтау инфрақұрылымын дамыту</td>
+<td colspan="6">4 254 957</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">125</td>
+<td colspan="2"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне денсаулық сақтау объектілерін салуға және реконструкциялауға және Алматы облысының облыстық бюджетіне, Алматы қаласының бюджетіне денсаулық сақтау объектілерін сейсмикалық күшейтуге, сондай-ақ инфекциялық ауруханаларды орналастыру үшін тез салынатын кешендер құруға Қазақстан Республикасы Ұлттық қорынан бөлінетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
+<td colspan="6">4 254 957</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">433 700</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">1 894 875</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">250 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">1 676 382</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">7</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Тұрғын үй-коммуналдық шаруашылық</td>
+<td colspan="6">56 181 121</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">56 181 121</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">228</td>
+<td colspan="3"></td>
+<td colspan="10">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде тұрғын үй салу саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">19 820 121</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">113</td>
+<td colspan="2"></td>
+<td colspan="8">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инженерлік-коммуникациялық инфрақұрылымды дамытуға және (немесе) жайластыруға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен нысаналы даму трансферттерi</td>
+<td colspan="6">19 820 121</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">3 293 966</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">4 210 229</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">494 715</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">1 533 404</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">3 570 577</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">6 717 230</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">229</td>
+<td colspan="3"></td>
+<td colspan="10">Тұрғын үй-коммуналдық шаруашылық саласындағы іс-шараларды іске асыру</td>
+<td colspan="6">36 361 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">113</td>
+<td colspan="2"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қалаларда сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
+<td colspan="6">11 263 382</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">1 100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">138 095</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">1 006 064</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">259 669</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">2 037 910</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">2 099 184</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">4 622 460</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">114</td>
+<td colspan="2"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нөсерлік кәріз жүйесін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">1 599 180</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">1 599 180</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">118</td>
+<td colspan="2"></td>
+<td colspan="8">«Қуатты өңірлер – ел дамуының драйвері» ұлттық жобасы шеңберінде облыстық бюджеттерге ауылдық елді мекендерде сумен жабдықтау және су бұру жүйелерін дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттерi</td>
+<td colspan="6">23 498 438</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">1 833 481</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">2 176 982</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">4 304 514</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">4 390 186</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">2 078 598</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">841 900</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">1 094 351</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">907 179</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">1 410 900</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="6">268 147</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="6">1 681 802</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="6">548 736</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">1 961 662</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">9</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Отын-энергетика кешенi және жер қойнауын пайдалану</td>
+<td colspan="6">50 165 864</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">241</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Қазақстан Республикасы Энергетика министрлігі</td>
+<td colspan="6">50 165 864</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">003</td>
+<td colspan="3"></td>
+<td colspan="10">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне газ тасымалдау жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">50 165 864</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">055</td>
+<td colspan="2"></td>
+<td colspan="8">Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
+<td colspan="6">50 165 864</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">4 414 021</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">2 227 760</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">360 612</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">3 274 040</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">100 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">540 879</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">899 783</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">3 111 897</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">1 901 005</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">5 768 630</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">6 343 933</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">2 722 496</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">18 500 808</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">12</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Көлiк және коммуникация</td>
+<td colspan="6">75 716 737</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">249</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
+<td colspan="6">75 716 737</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">091</td>
+<td colspan="3"></td>
+<td colspan="10">Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстау бойынша жұмыстарды ұйымдастыру</td>
+<td colspan="6">75 716 737</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">115</td>
+<td colspan="2"></td>
+<td colspan="8">Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көліктік инфрақұрылымды дамытуға берілетін нысаналы даму трансферттері</td>
+<td colspan="6">75 716 737</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">1 568 545</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">9 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">8 769 103</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">2 352 093</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">5 503 489</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">250 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">1 104 294</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">2 116 458</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">1 605 092</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="6">1 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">7 284 263</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="6">1 949 839</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="6">5 713 561</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="6">25 500 000</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3">13</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Басқалар</td>
+<td colspan="6">39 452 041</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4">243</td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="10">Қазақстан Республикасы Ұлттық экономика министрлігі</td>
+<td colspan="6">39 452 041</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4">082</td>
+<td colspan="3"></td>
+<td colspan="10">Облыс орталықтарында, моно және шағын қалалар мен ауылдық аумақтарда инженерлік, көліктік және әлеуметтік инфрақұрылымды дамыту жөніндегі іс-шараларды іске асыру</td>
+<td colspan="6">39 452 041</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3">115</td>
+<td colspan="2"></td>
+<td colspan="8">Облыстық бюджеттерге «Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен берілетін нысаналы даму трансферттері</td>
+<td colspan="6">39 452 041</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">оның ішінде өңірлер бойынша:</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="6">1 400 480</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="6">2 752 780</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="6">3 297 607</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="6">8 770 028</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="6">1 445 683</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="6">3 550 296</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="6">671 715</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="6">1 403 134</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="6">225 046</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="6">2 433 352</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="6">4 900 493</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Абай облысы</td>
+<td colspan="6">425 798</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="6">1 247 007</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="6">480 128</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="6">6 448 494</td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="8"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td colspan="42">__________________________________________________</td>
 </tr>
 </table>
 
 > *Қазақстан Республикасы Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *2021 жылғы « 9 » желтоқсандағы*  
 > *№ 872 қаулысына*  
-> *3-қосымша*
+> *2-қосымша*
 
-## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдары қызметкерлерінің лауазымдық айлықақыларын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+## Қазақстан Республикасы Төтенше жағдайлар, Қорғаныс, Индустрия және инфрақұрылымдық даму министрліктерінің, Президенті Іс Басқармасының басым республикалық бюджеттік инвестицияларының тізбесі
 
-> *Ескерту. 3-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 2-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="4">Функционалдық топ</td>
+<td colspan="2" rowspan="4">Атауы</td>
+<td colspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>17 079 447</td>
+<td colspan="3">Әкімші</td>
+<td rowspan="3">2022 жыл</td>
+<td rowspan="3">2023 жыл</td>
+<td rowspan="3">2024 жыл</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>876 992</td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>752 760</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кіші бағдарлама</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>1 026 014</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Атырау облысы</td>
-<td>706 729</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>1 304 810</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Жамбыл облысы</td>
-<td>857 956</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>693 389</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Қарағанды облысы</td>
-<td>1 622 214</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Қостанай облысы</td>
-<td>1 008 440</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Қызылорда облысы</td>
-<td>914 393</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>599 926</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Абай облысы</td>
-<td>291 263</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Жетісу облысы</td>
-<td>221 181</td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Ұлытау облысы</td>
-<td>179 069</td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Павлодар облысы</td>
-<td>819 016</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>777 759</td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Түркістан облысы</td>
-<td>1 154 165</td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Алматы қаласы</td>
-<td>1 459 664</td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Астана қаласы</td>
-<td>1 022 930</td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Шымкент қаласы</td>
-<td>790 777</td>
+<td></td>
+<td colspan="2">
+Қазақстан Республикасы Үкіметінің 2021 жылғы «9» желтоқсандағы № 872 қаулысына 3-қосымша
+<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдары қызметкерлерінің лауазымдық айлықақыларын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
+Ескерту. 3-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.
+Р/с №
+Облыстар мен қалалардың атауы
+Сомасы, мың теңге
+Барлығы
+16 896 752
+1.
+Ақмола облысы
+853 682
+2.
+Ақтөбе облысы
+752 760
+3.
+Алматы облысы
+1 026 014
+4.
+Атырау облысы
+684 269
+5.
+Шығыс Қазақстан облысы
+1 304 810
+6.
+Жамбыл облысы
+857 956
+7.
+Батыс Қазақстан облысы
+693 389
+8.
+Қарағанды облысы
+1 592 214
+9.
+Қостанай облысы
+1 008 440
+10.
+Қызылорда облысы
+903 226
+11.
+Маңғыстау облысы
+586 326
+12.
+Абай облысы
+291 263
+13.
+Жетісу облысы
+212 681
+14.
+Ұлытау облысы
+131 065
+15.
+Павлодар облысы
+812 034
+16.
+Солтүстік Қазақстан облысы
+777 759
+17.
+Түркістан облысы
+1 154 165
+18.
+Алматы қаласы
+1 459 664
+19.
+Астана қаласы
+1 004 258
+20.
+Шымкент қаласы
+790 777
+</td>
 </tr>
 </table>
 
@@ -11116,7 +10968,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 
 ## Облыстық бюджеттерге объектілерді күзету функцияларын бәсекелес ортаға беруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 4-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 4-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -11127,7 +10979,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>99 480</td>
+<td>94 016</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11137,7 +10989,7 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 <tr>
 <td>2.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>33 601</td>
+<td>28 137</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -11168,160 +11020,160 @@ source: https://zan.gov.kz/client/#!/doc/161746/kaz/17.11.2022
 
 ____________________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *4-1-қосымша*
 
 ## Алматы қаласының бюджетіне ішкі істер органдарының материалдық-техникалық базасын қалпына келтіруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 4-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. Қаулы 4-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Қаланың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="8">Қаланың атауы</td>
+<td colspan="25">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>118 942</td>
+<td colspan="8">Барлығы</td>
+<td colspan="25">111 439</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Алматы қаласы</td>
-<td>118 942</td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="25">111 439</td>
+</tr>
+<tr>
+<td colspan="34">_________________________</td>
 </tr>
 </table>
 
-____________________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *5-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне арнаулы мекемелердің, айдауыл қызметінің, кезекші бөлімдердің және жедел басқару орталықтарының, кинологиялық бөлімшелердің қызметкерлеріне және учаскелік полиция инспекторларының көмекшілеріне тұрғын үй төлемдеріне берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 5-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 5-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="8">Облыстар мен қалалардың атауы</td>
+<td colspan="25">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>6 262 001</th>
+<td></td>
+<td colspan="8">Барлығы</td>
+<td colspan="25">6 266 228</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>216 302</td>
+<td colspan="8">Ақмола облысы</td>
+<td colspan="25">216 302</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>157 813</td>
+<td colspan="8">Ақтөбе облысы</td>
+<td colspan="25">157 813</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>330 654</td>
+<td colspan="8">Алматы облысы</td>
+<td colspan="25">330 654</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>369 909</td>
+<td colspan="8">Атырау облысы</td>
+<td colspan="25">364 909</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>244 469</td>
+<td colspan="8">Шығыс Қазақстан облысы</td>
+<td colspan="25">253 726</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>173 198</td>
+<td colspan="8">Жамбыл облысы</td>
+<td colspan="25">170 198</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>228 137</td>
+<td colspan="8">Батыс Қазақстан облысы</td>
+<td colspan="25">228 137</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>521 008</td>
+<td colspan="8">Қарағанды облысы</td>
+<td colspan="25">479 666</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>256 798</td>
+<td colspan="8">Қостанай облысы</td>
+<td colspan="25">256 798</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>193 739</td>
+<td colspan="8">Қызылорда облысы</td>
+<td colspan="25">193 739</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>411 712</td>
+<td colspan="8">Маңғыстау облысы</td>
+<td colspan="25">411 712</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>54 215</td>
+<td colspan="8">Абай облысы</td>
+<td colspan="25">107 527</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>136 395</td>
+<td colspan="8">Жетісу облысы</td>
+<td colspan="25">136 395</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>52 216</td>
+<td colspan="8">Ұлытау облысы</td>
+<td colspan="25">43 216</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>214 267</td>
+<td colspan="8">Павлодар облысы</td>
+<td colspan="25">214 267</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>199 915</td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="25">199 915</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>587 753</td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="25">587 753</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Алматы қаласы</td>
-<td>917 837</td>
+<td colspan="8">Алматы қаласы</td>
+<td colspan="25">917 837</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Астана қаласы</td>
-<td>701 483</td>
+<td colspan="8">Астана қаласы</td>
+<td colspan="25">701 483</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Шымкент қаласы</td>
-<td>294 181</td>
+<td colspan="8">Шымкент қаласы</td>
+<td colspan="25">294 181</td>
+</tr>
+<tr>
+<td colspan="34">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -11331,7 +11183,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ішкі істер органдарының азаматтық қызметшілері қатарындағы медицина қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 6-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 6-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -11342,7 +11194,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>206 056</td>
+<td>198 706</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11362,7 +11214,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>9 101</td>
+<td>7 837</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -11377,7 +11229,7 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>15 591</td>
+<td>9 505</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -11448,170 +11300,145 @@ _________________________
 
 ____________________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *6-1-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қаланың, астананың бюджетіне ішкі істер органдарының қосымша штат санын ұстауға және материалдық-техникалық жарақтандыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 6-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. Қаулы 6-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қаланың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="17">Облыстар мен қаланың атауы</td>
+<td colspan="19">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>4 972 111</th>
+<td></td>
+<td colspan="17">Барлығы</td>
+<td colspan="19">4 725 601</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Алматы облысы</td>
-<td>106 391</td>
+<td colspan="17">Алматы облысы</td>
+<td colspan="19">86 652</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>9 145</td>
+<td colspan="17">Шығыс Қазақстан облысы</td>
+<td colspan="19">9 145</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Жамбыл облысы</td>
-<td>269 423</td>
+<td colspan="17">Жамбыл облысы</td>
+<td colspan="19">261 822</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Маңғыстау облысы</td>
-<td>185 202</td>
+<td colspan="17">Маңғыстау облысы</td>
+<td colspan="19">174 702</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Абай облысы</td>
-<td>52 278</td>
+<td colspan="17">Абай облысы</td>
+<td colspan="19">52 278</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жетісу облысы</td>
-<td>90 056</td>
+<td colspan="17">Жетісу облысы</td>
+<td colspan="19">90 056</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Ұлытау облысы</td>
-<td>44 644</td>
+<td colspan="17">Ұлытау облысы</td>
+<td colspan="19">44 644</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Түркістан облысы</td>
-<td>4 126 259</td>
+<td colspan="17">Түркістан облысы</td>
+<td colspan="19">3 930 103</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Алматы қаласы</td>
-<td>88 713</td>
+<td colspan="17">Алматы қаласы</td>
+<td colspan="19">76 199</td>
+</tr>
+<tr>
+<td colspan="37">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *7-қосымша*
 
 ## Түркістан облысының бюджетіне су шаруашылығы саласындағы су объектілеріне күрделі жөндеу жүргізуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 7-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі) қаулысымен.*
+> *Ескерту. 7-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="8">Облыстың атауы</td>
+<td colspan="25">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>5 985 228</td>
+<td colspan="8">Барлығы</td>
+<td colspan="25">5 875 228</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Түркістан облысы</td>
-<td>5 985 228</td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="25">5 875 228</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="8"></td>
+<td colspan="25"></td>
+</tr>
+<tr>
+<td colspan="34">_________________________</td>
 </tr>
 </table>
 
-____________________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
-> *№ 872 қаулысына*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
+> *№872 қаулысына*  
 > *8-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инвестициялық салымдар кезінде балық шаруашылығы субъектісі шеккен шығыстардың бір бөлігін өтеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 8-қосымша жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 8-қосымша жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="8">Облыстардың атауы</td>
+<td colspan="25">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>447 100</th>
+<td></td>
+<td colspan="8">Барлығы:</td>
+<td colspan="25">143 046</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>15 000</td>
+<td colspan="8">Солтүстік Қазақстан облысы</td>
+<td colspan="25">3 520</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Алматы облысы</td>
-<td>60 000</td>
+<td colspan="8">Түркістан облысы</td>
+<td colspan="25">139 526</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Атырау облысы</td>
-<td>67 600</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>90 000</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>3 800</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Қостанай облысы</td>
-<td>30 000</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>23 200</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Түркістан облысы</td>
-<td>157 500</td>
+<td colspan="34">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -11741,7 +11568,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне инвестициялық салымдар кезінде агроөнеркәсіптік кешен субъектісі шеккен шығыстардың бір бөлігін өтеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 9-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 9-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -11752,7 +11579,7 @@ _________________________
 <tr>
 <th></th>
 <th>Барлығы</th>
-<th>121 013 594</th>
+<th>122 216 848</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -11772,12 +11599,12 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>720 833</td>
+<td>470 833</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>15 352 424</td>
+<td>17 352 424</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -11787,12 +11614,12 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>4 628 229</td>
+<td>4 378 229</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>8 504 580</td>
+<td>8 267 834</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -11856,7 +11683,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне агроөнеркәсіптік кешен субъектілерін қаржылық сауықтыру жөніндегі бағыт шеңберінде кредиттік және лизингтік міндеттемелер бойынша пайыздық мөлшерлемені субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 11-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 11-қосымша жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -11867,7 +11694,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>365 230</td>
+<td>364 479</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11897,7 +11724,7 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Алматы қаласы</td>
-<td>175 136</td>
+<td>174 385</td>
 </tr>
 </table>
 
@@ -11911,7 +11738,7 @@ ____________________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ауыл шаруашылығы жануарларын, техниканы және технологиялық жабдықтарды сатып алуға кредит беру, сондай-ақ лизинг кезінде сыйақы мөлшерлемелерін субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 12-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 12-қосымша жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -11922,7 +11749,7 @@ ____________________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>78 126 549</td>
+<td>77 030 502</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -11937,12 +11764,12 @@ ____________________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>8 580 602</td>
+<td>8 130 602</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>634 295</td>
+<td>510 764</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -11962,7 +11789,7 @@ ____________________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>4 369 192</td>
+<td>4 605 938</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -11972,7 +11799,7 @@ ____________________________________
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>2 939 705</td>
+<td>2 780 705</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -11982,7 +11809,7 @@ ____________________________________
 <tr>
 <td>12.</td>
 <td>Павлодар облысы</td>
-<td>6 325 187</td>
+<td>5 725 187</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -12002,7 +11829,7 @@ ____________________________________
 <tr>
 <td>16.</td>
 <td>Астана қаласы</td>
-<td>5 715</td>
+<td>5 453</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -12298,691 +12125,688 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *14-3-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне басым дақылдар өндірісін дамытуды субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 14-3-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. Қаулы 14-3-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="18">Облыстардың атауы</td>
+<td colspan="17">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>3 117 810</td>
+<td colspan="18">Барлығы</td>
+<td colspan="17">2 666 180</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>700 000</td>
+<td colspan="18">Ақмола облысы</td>
+<td colspan="17">700 000</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>320 000</td>
+<td colspan="18">Ақтөбе облысы</td>
+<td colspan="17">320 000</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>237 575</td>
+<td colspan="18">Батыс Қазақстан облысы</td>
+<td colspan="17">163 731</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Қостанай облысы</td>
-<td>500 000</td>
+<td colspan="18">Қостанай облысы</td>
+<td colspan="17">500 000</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Павлодар облысы</td>
-<td>428 160</td>
+<td colspan="18">Павлодар облысы</td>
+<td colspan="17">428 160</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>500 000</td>
+<td colspan="18">Солтүстік Қазақстан облысы</td>
+<td colspan="17">500 000</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Түркістан облысы</td>
-<td>432 075</td>
+<td colspan="18">Түркістан облысы</td>
+<td colspan="17">54 289</td>
+</tr>
+<tr>
+<td colspan="36">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *15-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік атаулы әлеуметтік көмекті төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 15-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен*
+> *Ескерту. 15-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстар мен қалалардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="2">оның ішінде:</td>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Облыстар мен қалалардың атауы</td>
+<td colspan="14" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="25">оның ішінде:</td>
 </tr>
 <tr>
-<td>мемлекеттік атаулы әлеуметтік көмекті төлеуге</td>
-<td>балаларға кепілдендірілген әлеуметтік пакетке</td>
+<td colspan="13">мемлекеттік атаулы әлеуметтік көмекті төлеуге</td>
+<td colspan="12">балаларға кепілдендірілген әлеуметтік пакетке</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>58 166 061</th>
-<th>47 556 960</th>
-<th>10 609 101</th>
+<td colspan="2"></td>
+<td colspan="4">Барлығы</td>
+<td colspan="14">57 770 889</td>
+<td colspan="13">47 461 546</td>
+<td colspan="12">10 309 343</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>960 901</td>
-<td>785 308</td>
-<td>175 593</td>
+<td colspan="2">1.</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="14">951 599</td>
+<td colspan="13">785 308</td>
+<td colspan="12">166 291</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>2 154 274</td>
-<td>1 601 144</td>
-<td>553 130</td>
+<td colspan="2">2.</td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="14">2 084 866</td>
+<td colspan="13">1 587 702</td>
+<td colspan="12">497 164</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>4 896 930</td>
-<td>3 975 565</td>
-<td>921 365</td>
+<td colspan="2">3.</td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="14">4 896 930</td>
+<td colspan="13">3 975 565</td>
+<td colspan="12">921 365</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Атырау облысы</td>
-<td>477 412</td>
-<td>381 856</td>
-<td>95 556</td>
+<td colspan="2">4.</td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="14">477 412</td>
+<td colspan="13">381 856</td>
+<td colspan="12">95 556</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>1 602 555</td>
-<td>1 365 723</td>
-<td>236 832</td>
+<td colspan="2">5.</td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="14">1 573 010</td>
+<td colspan="13">1 341 606</td>
+<td colspan="12">231 404</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Жамбыл облысы</td>
-<td>3 723 482</td>
-<td>3 002 243</td>
-<td>721 239</td>
+<td colspan="2">6.</td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="14">3 723 482</td>
+<td colspan="13">3 002 243</td>
+<td colspan="12">721 239</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 181 416</td>
-<td>911 088</td>
-<td>270 328</td>
+<td colspan="2">7.</td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="14">1 198 742</td>
+<td colspan="13">938 083</td>
+<td colspan="12">260 659</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Қарағанды облысы</td>
-<td>850 613</td>
-<td>703 750</td>
-<td>146 863</td>
+<td colspan="2">8.</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="14">844 832</td>
+<td colspan="13">699 709</td>
+<td colspan="12">145 123</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Қостанай облысы</td>
-<td>1 783 049</td>
-<td>1 445 123</td>
-<td>337 926</td>
+<td colspan="2">9.</td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="14">1 774 722</td>
+<td colspan="13">1 456 365</td>
+<td colspan="12">318 357</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Қызылорда облысы</td>
-<td>5 411 288</td>
-<td>4 492 011</td>
-<td>919 277</td>
+<td colspan="2">10.</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="14">5 467 295</td>
+<td colspan="13">4 550 897</td>
+<td colspan="12">916 398</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>1 898 561</td>
-<td>1 547 235</td>
-<td>351 326</td>
+<td colspan="2">11.</td>
+<td colspan="4">Маңғыстау облысы</td>
+<td colspan="14">1 798 510</td>
+<td colspan="13">1 549 853</td>
+<td colspan="12">248 657</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Абай облысы</td>
-<td>2 707 441</td>
-<td>2 289 470</td>
-<td>417 971</td>
+<td colspan="2">12.</td>
+<td colspan="4">Абай облысы</td>
+<td colspan="14">2 605 074</td>
+<td colspan="13">2 201 505</td>
+<td colspan="12">403 569</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Жетісу облысы</td>
-<td>3 857 751</td>
-<td>3 227 826</td>
-<td>629 925</td>
+<td colspan="2">13.</td>
+<td colspan="4">Жетісу облысы</td>
+<td colspan="14">3 771 775</td>
+<td colspan="13">3 161 285</td>
+<td colspan="12">610 490</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Ұлытау облысы</td>
-<td>232 978</td>
-<td>187 864</td>
-<td>45 114</td>
+<td colspan="2">14.</td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="14">232 978</td>
+<td colspan="13">187 864</td>
+<td colspan="12">45 114</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Павлодар облысы</td>
-<td>1 871 083</td>
-<td>1 551 050</td>
-<td>320 033</td>
+<td colspan="2">15.</td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="14">1 851 395</td>
+<td colspan="13">1 545 565</td>
+<td colspan="12">305 830</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>709 501</td>
-<td>586 328</td>
-<td>123 173</td>
+<td colspan="2">16.</td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="14">704 140</td>
+<td colspan="13">582 580</td>
+<td colspan="12">121 560</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Түркістан облысы</td>
-<td>14 079 897</td>
-<td>11 399 612</td>
-<td>2 680 285</td>
+<td colspan="2">17.</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="14">14 079 897</td>
+<td colspan="13">11 399 612</td>
+<td colspan="12">2 680 285</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>Алматы қаласы</td>
-<td>2 288 001</td>
-<td>1 869 579</td>
-<td>418 422</td>
+<td colspan="2">18.</td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="14">2 341 594</td>
+<td colspan="13">1 936 779</td>
+<td colspan="12">404 815</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Астана қаласы</td>
-<td>1 998 240</td>
-<td>1 735 974</td>
-<td>262 266</td>
+<td colspan="2">19.</td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="14">2 028 240</td>
+<td colspan="13">1 765 974</td>
+<td colspan="12">262 266</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Шымкент қаласы</td>
-<td>5 480 688</td>
-<td>4 498 211</td>
-<td>982 477</td>
+<td colspan="2">20.</td>
+<td colspan="4">Шымкент қаласы</td>
+<td colspan="14">5 364 396</td>
+<td colspan="13">4 411 195</td>
+<td colspan="12">953 201</td>
+</tr>
+<tr>
+<td colspan="45">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *16-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 16-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 16-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="20">Облыстар мен қалалардың атауы</td>
+<td colspan="14">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>2 515 935</th>
+<td></td>
+<td colspan="20">Барлығы</td>
+<td colspan="14">2 501 297</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>280 117</td>
+<td colspan="20">Ақмола облысы</td>
+<td colspan="14">272 810</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>227 270</td>
+<td colspan="20">Ақтөбе облысы</td>
+<td colspan="14">227 002</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>260 024</td>
+<td colspan="20">Алматы облысы</td>
+<td colspan="14">260 024</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>220 023</td>
+<td colspan="20">Шығыс Қазақстан облысы</td>
+<td colspan="14">220 023</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Жамбыл облысы</td>
-<td>20 261</td>
+<td colspan="20">Жамбыл облысы</td>
+<td colspan="14">20 261</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>70 221</td>
+<td colspan="20">Батыс Қазақстан облысы</td>
+<td colspan="14">68 522</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Қарағанды облысы</td>
-<td>48 452</td>
+<td colspan="20">Қарағанды облысы</td>
+<td colspan="14">48 060</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қостанай облысы</td>
-<td>121 666</td>
+<td colspan="20">Қостанай облысы</td>
+<td colspan="14">121 069</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қызылорда облысы</td>
-<td>131 100</td>
+<td colspan="20">Қызылорда облысы</td>
+<td colspan="14">131 100</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Маңғыстау облысы</td>
-<td>10 727</td>
+<td colspan="20">Маңғыстау облысы</td>
+<td colspan="14">9 504</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Абай облысы</td>
-<td>68 902</td>
+<td colspan="20">Абай облысы</td>
+<td colspan="14">68 902</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Жетісу облысы</td>
-<td>117 167</td>
+<td colspan="20">Жетісу облысы</td>
+<td colspan="14">117 167</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Ұлытау облысы</td>
-<td>30 193</td>
+<td colspan="20">Ұлытау облысы</td>
+<td colspan="14">30 193</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Павлодар облысы</td>
-<td>307 003</td>
+<td colspan="20">Павлодар облысы</td>
+<td colspan="14">306 046</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>13 494</td>
+<td colspan="20">Солтүстік Қазақстан облысы</td>
+<td colspan="14">11 299</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Түркістан облысы</td>
-<td>163 864</td>
+<td colspan="20">Түркістан облысы</td>
+<td colspan="14">163 864</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Алматы қаласы</td>
-<td>202 842</td>
+<td colspan="20">Алматы қаласы</td>
+<td colspan="14">202 842</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Астана қаласы</td>
-<td>14 487</td>
+<td colspan="20">Астана қаласы</td>
+<td colspan="14">14 487</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Шымкент қаласы</td>
-<td>208 122</td>
+<td colspan="20">Шымкент қаласы</td>
+<td colspan="14">208 122</td>
 </tr>
 <tr>
-<td colspan="3">Ескертпе: аталған шығыстар үй жағдайында жартылай стационар жағдайында және қарттар мен мүгедектігі бар адамдарға, адам саудасы құрбандарына арнаулы әлеуметтік қызметтер көрсету үшін үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға бағытталған.</td>
+<td colspan="35">Ескертпе: аталған шығыстар үй жағдайында жартылай стационар жағдайында және қарттар мен мүгедектігі бар адамдарға, адам саудасы құрбандарына арнаулы әлеуметтік қызметтер көрсету үшін үкіметтік емес ұйымдарда мемлекеттік әлеуметтік тапсырысты орналастыруға бағытталған.</td>
+</tr>
+<tr>
+<td colspan="35">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *17-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне Қазақстан Республикасында мүгедектердің құқықтарын қамтамасыз етуге және өмір сүру сапасын жақсартуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 17-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 17-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстар мен қалалардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="4">оның ішінде:</td>
+<td colspan="4" rowspan="2">Облыстар мен қалалардың атауы</td>
+<td colspan="5" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="37">оның ішінде:</td>
 </tr>
 <tr>
-<td>протездік-ортопедиялық, сурдотехникалық, тифлотехникалық құралдар, арнайы жүріп-тұру құралдары (кресло-арбалар), техникалық көмекшi (компенсаторлық) құралдары кеңейту, ақпаратты Брайль қарпімен енгізу/шығару арқылы сөйлеу синтезі бар портативтік тифлокомпьютер</td>
-<td>мүгедектерді міндетті гигиеналық құралдармен қамтамасыз ету нормаларын ұлғайту, Spina bifida диагнозымен мүгедек балаларды бір реттік қолданылатын катетерлермен қамтамасыз ету</td>
-<td>ымдау тілі маманының қызметтерін көрсетуге</td>
-<td>санаторийлік-курорттық емделу</td>
+<td colspan="13">протездік-ортопедиялық, сурдотехникалық, тифлотехникалық құралдар, арнайы жүріп-тұру құралдары (кресло-арбалар), техникалық көмекшi (компенсаторлық) құралдары кеңейту, ақпаратты Брайль қарпімен енгізу/шығару арқылы сөйлеу синтезі бар портативтік тифлокомпьютер</td>
+<td colspan="16">мүгедектерді міндетті гигиеналық құралдармен қамтамасыз ету нормаларын ұлғайту, Spina bifida диагнозымен мүгедек балаларды бір реттік қолданылатын катетерлермен қамтамасыз ету</td>
+<td colspan="4">ымдау тілі маманының қызметтерін көрсетуге</td>
+<td colspan="4">санаторийлік-курорттық емделу</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>20 037 890</th>
-<th>8 862 838</th>
-<th>5 658 355</th>
-<th>1 038 216</th>
-<th>4 478 481</th>
+<td></td>
+<td colspan="4">Барлығы</td>
+<td colspan="5">19 710 983</td>
+<td colspan="13">8 700 023</td>
+<td colspan="16">5 582 953</td>
+<td colspan="4">1 017 845</td>
+<td colspan="4">4 410 162</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>613 336</td>
-<td>292 723</td>
-<td>206 173</td>
-<td>32 693</td>
-<td>81 747</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="5">600 116</td>
+<td colspan="13">277 823</td>
+<td colspan="16">208 687</td>
+<td colspan="4">32 693</td>
+<td colspan="4">80 913</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>849 351</td>
-<td>479 753</td>
-<td>211 005</td>
-<td>17 441</td>
-<td>141 152</td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="5">853 250</td>
+<td colspan="13">487 609</td>
+<td colspan="16">206 806</td>
+<td colspan="4">16 633</td>
+<td colspan="4">142 202</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>710 892</td>
-<td>325 103</td>
-<td>264 327</td>
-<td>46 736</td>
-<td>74 726</td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="5">710 892</td>
+<td colspan="13">325 103</td>
+<td colspan="16">264 327</td>
+<td colspan="4">46 736</td>
+<td colspan="4">74 726</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>261 723</td>
-<td>112 176</td>
-<td>117 802</td>
-<td>31 745</td>
-<td>0</td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="5">234 304</td>
+<td colspan="13">92 475</td>
+<td colspan="16">110 617</td>
+<td colspan="4">31 212</td>
+<td colspan="4">0</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>702 645</td>
-<td>321 302</td>
-<td>229 455</td>
-<td>28 407</td>
-<td>123 481</td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="5">671 491</td>
+<td colspan="13">313 416</td>
+<td colspan="16">224 521</td>
+<td colspan="4">28 407</td>
+<td colspan="4">105 147</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>1 521 741</td>
-<td>541 048</td>
-<td>358 163</td>
-<td>74 717</td>
-<td>547 813</td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="5">1 498 279</td>
+<td colspan="13">520 583</td>
+<td colspan="16">353 066</td>
+<td colspan="4">74 717</td>
+<td colspan="4">549 913</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>595 034</td>
-<td>215 216</td>
-<td>240 414</td>
-<td>44 944</td>
-<td>94 460</td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="5">595 034</td>
+<td colspan="13">223 775</td>
+<td colspan="16">232 667</td>
+<td colspan="4">44 594</td>
+<td colspan="4">93 998</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>1 284 499</td>
-<td>237 391</td>
-<td>399 118</td>
-<td>97 205</td>
-<td>550 785</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="5">1 231 464</td>
+<td colspan="13">232 546</td>
+<td colspan="16">394 162</td>
+<td colspan="4">97 205</td>
+<td colspan="4">507 551</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>652 006</td>
-<td>364 862</td>
-<td>221 822</td>
-<td>21 459</td>
-<td>43 863</td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="5">640 569</td>
+<td colspan="13">358 387</td>
+<td colspan="16">216 985</td>
+<td colspan="4">21 433</td>
+<td colspan="4">43 764</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>819 993</td>
-<td>348 300</td>
-<td>357 950</td>
-<td>51 793</td>
-<td>61 950</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="5">818 015</td>
+<td colspan="13">347 745</td>
+<td colspan="16">357 752</td>
+<td colspan="4">51 793</td>
+<td colspan="4">60 725</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>1 154 543</td>
-<td>547 672</td>
-<td>190 838</td>
-<td>16 027</td>
-<td>400 006</td>
+<td colspan="4">Маңғыстау облысы</td>
+<td colspan="5">1 150 161</td>
+<td colspan="13">545 454</td>
+<td colspan="16">188 717</td>
+<td colspan="4">16 027</td>
+<td colspan="4">399 963</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>705 636</td>
-<td>282 090</td>
-<td>196 163</td>
-<td>35 914</td>
-<td>191 469</td>
+<td colspan="4">Абай облысы</td>
+<td colspan="5">690 447</td>
+<td colspan="13">277 469</td>
+<td colspan="16">190 525</td>
+<td colspan="4">35 914</td>
+<td colspan="4">186 539</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>634 010</td>
-<td>355 924</td>
-<td>181 790</td>
-<td>43 797</td>
-<td>52 499</td>
+<td colspan="4">Жетісу облысы</td>
+<td colspan="5">561 960</td>
+<td colspan="13">296 024</td>
+<td colspan="16">169 640</td>
+<td colspan="4">43 797</td>
+<td colspan="4">52 499</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>177 946</td>
-<td>35 537</td>
-<td>58 299</td>
-<td>0</td>
-<td>84 110</td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="5">186 523</td>
+<td colspan="13">39 883</td>
+<td colspan="16">62 530</td>
+<td colspan="4">0</td>
+<td colspan="4">84 110</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>1 135 744</td>
-<td>477 155</td>
-<td>318 049</td>
-<td>79 626</td>
-<td>260 914</td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="5">1 088 189</td>
+<td colspan="13">431 430</td>
+<td colspan="16">317 681</td>
+<td colspan="4">79 376</td>
+<td colspan="4">259 702</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>602 611</td>
-<td>305 303</td>
-<td>199 749</td>
-<td>40 679</td>
-<td>56 880</td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="5">563 497</td>
+<td colspan="13">282 999</td>
+<td colspan="16">184 922</td>
+<td colspan="4">40 607</td>
+<td colspan="4">54 969</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>2 676 278</td>
-<td>1 129 357</td>
-<td>737 917</td>
-<td>113 863</td>
-<td>695 141</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="5">2 676 278</td>
+<td colspan="13">1 129 357</td>
+<td colspan="16">737 917</td>
+<td colspan="4">113 863</td>
+<td colspan="4">695 141</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Алматы қаласы</td>
-<td>1 581 041</td>
-<td>882 362</td>
-<td>419 327</td>
-<td>91 800</td>
-<td>187 552</td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="5">1 581 041</td>
+<td colspan="13">882 362</td>
+<td colspan="16">419 327</td>
+<td colspan="4">91 800</td>
+<td colspan="4">187 552</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Астана қаласы</td>
-<td>1 501 555</td>
-<td>538 769</td>
-<td>364 593</td>
-<td>70 763</td>
-<td>527 430</td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="5">1 502 370</td>
+<td colspan="13">538 769</td>
+<td colspan="16">364 593</td>
+<td colspan="4">70 763</td>
+<td colspan="4">528 245</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Шымкент қаласы</td>
-<td>1 857 306</td>
-<td>1 070 795</td>
-<td>385 401</td>
-<td>98 607</td>
-<td>302 503</td>
+<td colspan="4">Шымкент қаласы</td>
+<td colspan="5">1 857 103</td>
+<td colspan="13">1 096 814</td>
+<td colspan="16">377 511</td>
+<td colspan="4">80 275</td>
+<td colspan="4">302 503</td>
 </tr>
 </table>
 
-________________________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *18-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кохлеарлық импланттарға сөйлеу процессорларын ауыстыру және теңшеу жөніндегі көрсетілетін қызметтерге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 18-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 18-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308(01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761(01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="21">Облыстар мен қалалардың атауы</td>
+<td colspan="16">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>3 699 515</th>
+<td></td>
+<td colspan="21">Барлығы</td>
+<td colspan="16">3 628 865</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>97 140</td>
+<td colspan="21">Ақмола облысы</td>
+<td colspan="16">92 910</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>161 840</td>
+<td colspan="21">Ақтөбе облысы</td>
+<td colspan="16">145 330</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>102 510</td>
+<td colspan="21">Алматы облысы</td>
+<td colspan="16">102 510</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>102 900</td>
+<td colspan="21">Атырау облысы</td>
+<td colspan="16">102 900</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>200 655</td>
+<td colspan="21">Шығыс Қазақстан облысы</td>
+<td colspan="16">200 655</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>213 860</td>
+<td colspan="21">Жамбыл облысы</td>
+<td colspan="16">211 120</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>174 930</td>
+<td colspan="21">Батыс Қазақстан облысы</td>
+<td colspan="16">174 930</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>164 640</td>
+<td colspan="21">Қарағанды облысы</td>
+<td colspan="16">164 640</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>133 380</td>
+<td colspan="21">Қостанай облысы</td>
+<td colspan="16">133 380</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>257 250</td>
+<td colspan="21">Қызылорда облысы</td>
+<td colspan="16">257 250</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>128 580</td>
+<td colspan="21">Маңғыстау облысы</td>
+<td colspan="16">128 580</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Жетісу облысы</td>
-<td>92 480</td>
+<td colspan="21">Жетісу облысы</td>
+<td colspan="16">92 480</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Павлодар облысы</td>
-<td>121 380</td>
+<td colspan="21">Павлодар облысы</td>
+<td colspan="16">108 680</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>92 580</td>
+<td colspan="21">Солтүстік Қазақстан облысы</td>
+<td colspan="16">92 580</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Түркістан облысы</td>
-<td>306 340</td>
+<td colspan="21">Түркістан облысы</td>
+<td colspan="16">272 685</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Алматы қаласы</td>
-<td>730 590</td>
+<td colspan="21">Алматы қаласы</td>
+<td colspan="16">730 590</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Астана қаласы</td>
-<td>335 240</td>
+<td colspan="21">Астана қаласы</td>
+<td colspan="16">334 425</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Шымкент қаласы</td>
-<td>283 220</td>
+<td colspan="21">Шымкент қаласы</td>
+<td colspan="16">283 220</td>
+</tr>
+<tr>
+<td colspan="38">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -12992,7 +12816,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мүгедектерді жұмысқа орналастыру үшін арнайы жұмыс орындарын құруға жұмыс берушінің шығындарын субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 19-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 19-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -13003,7 +12827,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы:</td>
-<td>53 384</td>
+<td>49 601</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13028,7 +12852,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Маңғыстау облысы</td>
-<td>6 860</td>
+<td>3 077</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13049,177 +12873,177 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *20-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне нәтижелі жұмыспен қамтуды дамытуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстар мен қалалардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="2">оның ішінде</td>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Облыстар мен қалалардың атауы</td>
+<td colspan="10" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="30">оның ішінде</td>
 </tr>
 <tr>
-<td>республикалық бюджет қаражаты есебінен</td>
-<td>Қазақстан Республикасы Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
+<td colspan="18">республикалық бюджет қаражаты есебінен</td>
+<td colspan="12">Қазақстан Республикасы Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>88 957 566</th>
-<th>19 742 403</th>
-<th>69 215 163</th>
+<td colspan="2"></td>
+<td colspan="4">Барлығы</td>
+<td colspan="10">87 999 320</td>
+<td colspan="18">18 784 157</td>
+<td colspan="12">69 215 163</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>2 081 624</td>
-<td>297 544</td>
-<td>1 784 080</td>
+<td colspan="2">1.</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="10">2 049 659</td>
+<td colspan="18">265 579</td>
+<td colspan="12">1 784 080</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>3 142 703</td>
-<td>561 580</td>
-<td>2 581 123</td>
+<td colspan="2">2.</td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="10">3 105 855</td>
+<td colspan="18">524 732</td>
+<td colspan="12">2 581 123</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>5 281 366</td>
-<td>1 082 318</td>
-<td>4 199 048</td>
+<td colspan="2">3.</td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="10">5 264 403</td>
+<td colspan="18">1 065 355</td>
+<td colspan="12">4 199 048</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Атырау облысы</td>
-<td>2 255 664</td>
-<td>317 874</td>
-<td>1 937 790</td>
+<td colspan="2">4.</td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="10">2 250 753</td>
+<td colspan="18">312 963</td>
+<td colspan="12">1 937 790</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 790 386</td>
-<td>735 156</td>
-<td>2 055 230</td>
+<td colspan="2">5.</td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="10">2 756 512</td>
+<td colspan="18">701 282</td>
+<td colspan="12">2 055 230</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Жамбыл облысы</td>
-<td>7 044 657</td>
-<td>2 100 639</td>
-<td>4 944 018</td>
+<td colspan="2">6.</td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="10">6 952 410</td>
+<td colspan="18">2 008 392</td>
+<td colspan="12">4 944 018</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>3 419 041</td>
-<td>802 409</td>
-<td>2 616 632</td>
+<td colspan="2">7.</td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="10">3 375 820</td>
+<td colspan="18">759 188</td>
+<td colspan="12">2 616 632</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Қарағанды облысы</td>
-<td>2 220 103</td>
-<td>528 704</td>
-<td>1 691 399</td>
+<td colspan="2">8.</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="10">2 216 440</td>
+<td colspan="18">525 041</td>
+<td colspan="12">1 691 399</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Қостанай облысы</td>
-<td>2 581 229</td>
-<td>1 067 294</td>
-<td>1 513 935</td>
+<td colspan="2">9.</td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="10">2 548 172</td>
+<td colspan="18">1 034 237</td>
+<td colspan="12">1 513 935</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Қызылорда облысы</td>
-<td>10 226 288</td>
-<td>2 661 432</td>
-<td>7 564 856</td>
+<td colspan="2">10.</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="10">10 177 402</td>
+<td colspan="18">2 612 546</td>
+<td colspan="12">7 564 856</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>4 731 564</td>
-<td>487 054</td>
-<td>4 244 510</td>
+<td colspan="2">11.</td>
+<td colspan="4">Маңғыстау облысы</td>
+<td colspan="10">4 728 285</td>
+<td colspan="18">483 775</td>
+<td colspan="12">4 244 510</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Абай облысы</td>
-<td>2 265 115</td>
-<td>608 941</td>
-<td>1 656 174</td>
+<td colspan="2">12.</td>
+<td colspan="4">Абай облысы</td>
+<td colspan="10">2 099 018</td>
+<td colspan="18">442 844</td>
+<td colspan="12">1 656 174</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Жетісу облысы</td>
-<td>6 049 258</td>
-<td>962 148</td>
-<td>5 087 110</td>
+<td colspan="2">13.</td>
+<td colspan="4">Жетісу облысы</td>
+<td colspan="10">6 038 040</td>
+<td colspan="18">950 930</td>
+<td colspan="12">5 087 110</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Ұлытау облысы</td>
-<td>961 140</td>
-<td>293 789</td>
-<td>667 351</td>
+<td colspan="2">14.</td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="10">961 140</td>
+<td colspan="18">293 789</td>
+<td colspan="12">667 351</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Павлодар облысы</td>
-<td>4 306 676</td>
-<td>1 923 577</td>
-<td>2 383 099</td>
+<td colspan="2">15.</td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="10">3 957 247</td>
+<td colspan="18">1 574 148</td>
+<td colspan="12">2 383 099</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>2 508 355</td>
-<td>1 228 934</td>
-<td>1 279 421</td>
+<td colspan="2">16.</td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="10">2 479 176</td>
+<td colspan="18">1 199 755</td>
+<td colspan="12">1 279 421</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Түркістан облысы</td>
-<td>17 119 622</td>
-<td>2 939 630</td>
-<td>14 179 992</td>
+<td colspan="2">17.</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="10">17 067 703</td>
+<td colspan="18">2 887 711</td>
+<td colspan="12">14 179 992</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>Алматы қаласы</td>
-<td>3 850 743</td>
-<td>237 754</td>
-<td>3 612 989</td>
+<td colspan="2">18.</td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="10">3 850 743</td>
+<td colspan="18">237 754</td>
+<td colspan="12">3 612 989</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Астана қаласы</td>
-<td>2 161 702</td>
-<td>330 973</td>
-<td>1 830 729</td>
+<td colspan="2">19.</td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="10">2 160 212</td>
+<td colspan="18">329 483</td>
+<td colspan="12">1 830 729</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Шымкент қаласы</td>
-<td>3 960 330</td>
-<td>574 653</td>
-<td>3 385 677</td>
+<td colspan="2">20.</td>
+<td colspan="4">Шымкент қаласы</td>
+<td colspan="10">3 960 330</td>
+<td colspan="18">574 653</td>
+<td colspan="12">3 385 677</td>
+</tr>
+<tr>
+<td colspan="46">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -13243,349 +13067,321 @@ _________________________
 
 *Ескерту. Алып тасталды – ҚР Үкіметінің 18.03.2022 № 145 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
-> *№ 872 қаулысына*  
-> *22-қосымша*
-
-## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік ұйымдардың: стационарлық және жартылай стационарлық үлгідегі медициналық-әлеуметтік мекемелер, үйде қызмет көрсету, уақытша болу ұйымдары, халықты жұмыспен қамту орталықтары жұмыскерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
-
-> *Ескерту. 22-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
-
 <table>
 <tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстар мен қалалардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="2">оның ішінде</td>
+<td></td>
+<td>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</td>
+<td></td>
 </tr>
 <tr>
-<td>республикалық бюджеттің қаражаты есебінен</td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
-</tr>
-<tr>
-<th></th>
-<th>Барлығы</th>
-<th>41 010 253</th>
-<th>20 994 388</th>
-<th>20 015 865</th>
-</tr>
-<tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>2 073 404</td>
-<td>1 031 751</td>
-<td>1 041 653</td>
-</tr>
-<tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>1 048 488</td>
-<td>542 492</td>
-<td>505 996</td>
-</tr>
-<tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>1 696 683</td>
-<td>844 559</td>
-<td>852 124</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Атырау облысы</td>
-<td>996 603</td>
-<td>466 295</td>
-<td>530 308</td>
-</tr>
-<tr>
-<td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>2 884 259</td>
-<td>1 386 430</td>
-<td>1 497 829</td>
-</tr>
-<tr>
-<td>6.</td>
-<td>Жамбыл облысы</td>
-<td>2 127 476</td>
-<td>1 153 361</td>
-<td>974 115</td>
-</tr>
-<tr>
-<td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>2 424 498</td>
-<td>1 207 413</td>
-<td>1 217 085</td>
-</tr>
-<tr>
-<td>8.</td>
-<td>Қарағанды облысы</td>
-<td>3 307 365</td>
-<td>1 608 599</td>
-<td>1 698 766</td>
-</tr>
-<tr>
-<td>9.</td>
-<td>Қостанай облысы</td>
-<td>2 522 213</td>
-<td>1 228 525</td>
-<td>1 293 688</td>
-</tr>
-<tr>
-<td>10.</td>
-<td>Қызылорда облысы</td>
-<td>2 360 094</td>
-<td>1 166 642</td>
-<td>1 193 452</td>
-</tr>
-<tr>
-<td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>942 242</td>
-<td>444 351</td>
-<td>497 891</td>
-</tr>
-<tr>
-<td>12.</td>
-<td>Абай облысы</td>
-<td>2 070 126</td>
-<td>1 095 935</td>
-<td>974 191</td>
-</tr>
-<tr>
-<td>13.</td>
-<td>Жетісу облысы</td>
-<td>2 284 357</td>
-<td>1 261 138</td>
-<td>1 023 219</td>
-</tr>
-<tr>
-<td>14.</td>
-<td>Ұлытау облысы</td>
-<td>496 846</td>
-<td>240 172</td>
-<td>256 674</td>
-</tr>
-<tr>
-<td>15.</td>
-<td>Павлодар облысы</td>
-<td>2 300 270</td>
-<td>1 209 497</td>
-<td>1 090 773</td>
-</tr>
-<tr>
-<td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>2 543 484</td>
-<td>1 226 778</td>
-<td>1 316 706</td>
-</tr>
-<tr>
-<td>17.</td>
-<td>Түркістан облысы</td>
-<td>3 682 058</td>
-<td>1 958 701</td>
-<td>1 723 357</td>
-</tr>
-<tr>
-<td>18.</td>
-<td>Алматы қаласы</td>
-<td>2 321 711</td>
-<td>1 149 364</td>
-<td>1 172 347</td>
-</tr>
-<tr>
-<td>19.</td>
-<td>Астана қаласы</td>
-<td>1 577 042</td>
-<td>1 072 345</td>
-<td>504 697</td>
-</tr>
-<tr>
-<td>20.</td>
-<td>Шымкент қаласы</td>
-<td>1 351 034</td>
-<td>700 040</td>
-<td>650 994</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">
+Қазақстан Республикасы Үкіметінің
+2021 жылғы «9» желтоқсандағы
+№ 872 қаулысына
+22-қосымша
+<strong>Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік ұйымдардың: стационарлық және жартылай стационарлық үлгідегі медициналық-әлеуметтік мекемелер, үйде қызмет көрсету, уақытша болу ұйымдары, халықты жұмыспен қамту орталықтары жұмыскерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу</strong>
+Ескерту. 22-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.
+Р/с №
+Облыстар мен қалалардың атауы
+Сомасы, мың теңге
+оның ішінде
+республикалық бюджеттің қаражаты есебінен
+Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен
+Барлығы
+40 831 704
+20 815 839
+20 015 865
+1.
+Ақмола облысы
+2 023 540
+981 887
+1 041 653
+2.
+Ақтөбе облысы
+1 044 721
+538 725
+505 996
+3.
+Алматы облысы
+1 696 683
+844 559
+852 124
+4.
+Атырау облысы
+975 536
+445 228
+530 308
+5.
+Шығыс Қазақстан облысы
+2 852 201
+1 354 372
+1 497 829
+6.
+Жамбыл облысы
+2 112 790
+1 138 675
+974 115
+7.
+Батыс Қазақстан облысы
+2 424 498
+1 207 413
+1 217 085
+8.
+Қарағанды облысы
+3 315 304
+1 616 349
+1 698 955
+9.
+Қостанай облысы
+2 519 625
+1 225 937
+1 293 688
+10.
+Қызылорда облысы
+2 360 094
+1 166 642
+1 193 452
+11.
+Маңғыстау облысы
+942 242
+444 351
+497 891
+12.
+Абай облысы
+2 053 361
+1 079 359
+974 002
+13.
+Жетісу облысы
+2 255 209
+1 231 990
+1 023 219
+14.
+Ұлытау облысы
+496 846
+240 172
+256 674
+15.
+Павлодар облысы
+2 300 270
+1 209 497
+1 090 773
+16.
+Солтүстік Қазақстан облысы
+2 539 294
+1 222 588
+1 316 706
+17.
+Түркістан облысы
+3 682 058
+1 958 701
+1 723 357
+18.
+Алматы қаласы
+2 321 711
+1 149 364
+1 172 347
+19.
+Астана қаласы
+1 577 042
+1 072 345
+504 697
+20.
+Шымкент қаласы
+1 338 679
+687 685
+650 994
+</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *23-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне азаматтық қызметшілердің жекелеген санаттарының, мемлекеттік бюджет қаражаты есебінен ұсталатын ұйымдар қызметкерлерінің, қазыналық кәсіпорындар қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 23-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 23-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстар мен қалалардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="2">оның ішінде</td>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Облыстар мен қалалардың атауы</td>
+<td colspan="8" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="28">оның ішінде</td>
 </tr>
 <tr>
-<td>республикалық бюджеттің қаражаты есебінен</td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
+<td colspan="17">республикалық бюджеттің қаражаты есебінен</td>
+<td colspan="11">Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>119 330 050</th>
-<th>52 617 874</th>
-<th>66 712 176</th>
+<td colspan="2"></td>
+<td colspan="4">Барлығы</td>
+<td colspan="8">118 974 938</td>
+<td colspan="17">52 262 762</td>
+<td colspan="11">66 712 176</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>6 786 835</td>
-<td>2 825 185</td>
-<td>3 961 650</td>
+<td colspan="2">1.</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="8">6 765 472</td>
+<td colspan="17">2 803 822</td>
+<td colspan="11">3 961 650</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>6 006 937</td>
-<td>2 742 277</td>
-<td>3 264 660</td>
+<td colspan="2">2.</td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="8">6 006 937</td>
+<td colspan="17">2 742 277</td>
+<td colspan="11">3 264 660</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>4 935 564</td>
-<td>2 223 435</td>
-<td>2 712 129</td>
+<td colspan="2">3.</td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="8">4 931 864</td>
+<td colspan="17">2 219 735</td>
+<td colspan="11">2 712 129</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Атырау облысы</td>
-<td>4 280 046</td>
-<td>2 002 768</td>
-<td>2 277 278</td>
+<td colspan="2">4.</td>
+<td colspan="4">Атырау облысы</td>
+<td colspan="8">4 280 046</td>
+<td colspan="17">2 002 768</td>
+<td colspan="11">2 277 278</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>6 089 665</td>
-<td>2 683 704</td>
-<td>3 405 961</td>
+<td colspan="2">5.</td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="8">5 828 369</td>
+<td colspan="17">2 422 408</td>
+<td colspan="11">3 405 961</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Жамбыл облысы</td>
-<td>8 163 995</td>
-<td>3 645 202</td>
-<td>4 518 793</td>
+<td colspan="2">6.</td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="8">8 163 995</td>
+<td colspan="17">3 645 202</td>
+<td colspan="11">4 518 793</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>7 063 640</td>
-<td>3 211 632</td>
-<td>3 852 008</td>
+<td colspan="2">7.</td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="8">7 063 640</td>
+<td colspan="17">3 211 632</td>
+<td colspan="11">3 852 008</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Қарағанды облысы</td>
-<td>7 763 254</td>
-<td>3 211 020</td>
-<td>4 552 234</td>
+<td colspan="2">8.</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="8">7 763 254</td>
+<td colspan="17">3 211 020</td>
+<td colspan="11">4 552 234</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Қостанай облысы</td>
-<td>6 084 181</td>
-<td>2 697 651</td>
-<td>3 386 530</td>
+<td colspan="2">9.</td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="8">6 032 813</td>
+<td colspan="17">2 646 283</td>
+<td colspan="11">3 386 530</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Қызылорда облысы</td>
-<td>8 548 798</td>
-<td>3 962 842</td>
-<td>4 585 956</td>
+<td colspan="2">10.</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="8">8 548 798</td>
+<td colspan="17">3 962 842</td>
+<td colspan="11">4 585 956</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>4 712 698</td>
-<td>1 797 458</td>
-<td>2 915 240</td>
+<td colspan="2">11.</td>
+<td colspan="4">Маңғыстау облысы</td>
+<td colspan="8">4 712 698</td>
+<td colspan="17">1 797 458</td>
+<td colspan="11">2 915 240</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Абай облысы</td>
-<td>3 590 356</td>
-<td>1 437 186</td>
-<td>2 153 170</td>
+<td colspan="2">12.</td>
+<td colspan="4">Абай облысы</td>
+<td colspan="8">3 590 356</td>
+<td colspan="17">1 437 186</td>
+<td colspan="11">2 153 170</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Жетісу облысы</td>
-<td>4 039 934</td>
-<td>1 787 145</td>
-<td>2 252 789</td>
+<td colspan="2">13.</td>
+<td colspan="4">Жетісу облысы</td>
+<td colspan="8">4 022 549</td>
+<td colspan="17">1 769 760</td>
+<td colspan="11">2 252 789</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Ұлытау облысы</td>
-<td>1 751 644</td>
-<td>714 763</td>
-<td>1 036 881</td>
+<td colspan="2">14.</td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="8">1 751 644</td>
+<td colspan="17">714 763</td>
+<td colspan="11">1 036 881</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Павлодар облысы</td>
-<td>6 521 898</td>
-<td>2 954 965</td>
-<td>3 566 933</td>
+<td colspan="2">15.</td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="8">6 521 898</td>
+<td colspan="17">2 954 965</td>
+<td colspan="11">3 566 933</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>5 741 225</td>
-<td>2 578 882</td>
-<td>3 162 343</td>
+<td colspan="2">16.</td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="8">5 741 225</td>
+<td colspan="17">2 578 882</td>
+<td colspan="11">3 162 343</td>
 </tr>
 <tr>
-<td>17.</td>
-<td>Түркістан облысы</td>
-<td>13 872 735</td>
-<td>6 419 808</td>
-<td>7 452 927</td>
+<td colspan="2">17.</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="8">13 872 735</td>
+<td colspan="17">6 419 808</td>
+<td colspan="11">7 452 927</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>Алматы қаласы</td>
-<td>5 156 123</td>
-<td>2 332 784</td>
-<td>2 823 339</td>
+<td colspan="2">18.</td>
+<td colspan="4">Алматы қаласы</td>
+<td colspan="8">5 156 123</td>
+<td colspan="17">2 332 784</td>
+<td colspan="11">2 823 339</td>
 </tr>
 <tr>
-<td>19.</td>
-<td>Астана қаласы</td>
-<td>4 198 221</td>
-<td>1 564 668</td>
-<td>2 633 553</td>
+<td colspan="2">19.</td>
+<td colspan="4">Астана қаласы</td>
+<td colspan="8">4 198 221</td>
+<td colspan="17">1 564 668</td>
+<td colspan="11">2 633 553</td>
 </tr>
 <tr>
-<td>20.</td>
-<td>Шымкент қаласы</td>
-<td>4 022 301</td>
-<td>1 824 499</td>
-<td>2 197 802</td>
+<td colspan="2">20.</td>
+<td colspan="4">Шымкент қаласы</td>
+<td colspan="8">4 022 301</td>
+<td colspan="17">1 824 499</td>
+<td colspan="11">2 197 802</td>
+</tr>
+<tr>
+<td colspan="42">_________________________</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4"></td>
+<td colspan="8"></td>
+<td colspan="17"></td>
+<td colspan="11"></td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -13595,7 +13391,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 24-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 24-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -13606,7 +13402,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>104 615 508</td>
+<td>104 041 582</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13631,7 +13427,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>4 106 447</td>
+<td>3 826 306</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13671,7 +13467,7 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Жетісу облысы</td>
-<td>2 943 661</td>
+<td>2 817 568</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -13681,7 +13477,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>4 098 718</td>
+<td>4 318 232</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -13696,7 +13492,7 @@ _________________________
 <tr>
 <td>18.</td>
 <td>Алматы қаласы</td>
-<td>7 014 430</td>
+<td>6 627 224</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -13720,7 +13516,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 25-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 25-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -13731,7 +13527,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>486 114</td>
+<td>468 821</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13791,7 +13587,7 @@ _________________________
 <tr>
 <td>12.</td>
 <td>Жетісу облысы</td>
-<td>41 219</td>
+<td>23 926</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -13840,7 +13636,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мектепке дейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 26-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 26-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -13851,7 +13647,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>12 258 117</td>
+<td>11 973 973</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -13866,7 +13662,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>659 612</td>
+<td>375 468</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -13965,7 +13761,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне үш жастан алты жасқа дейінгі балаларды мектепке дейінгі тәрбиемен және оқытумен қамтуды қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 27-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 27-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -13976,7 +13772,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы:</td>
-<td>15 816 402</td>
+<td>15 581 915</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14031,7 +13827,7 @@ _________________________
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>828 576</td>
+<td>676 325</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -14061,7 +13857,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Алматы қаласы</td>
-<td>1 812 510</td>
+<td>1 730 274</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -14085,7 +13881,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мектепке дейінгі білім беру ұйымдарының медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 28-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 28-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -14096,7 +13892,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы:</td>
-<td>5 156 389</td>
+<td>5 155 485</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14186,7 +13982,7 @@ _________________________
 <tr>
 <td>18.</td>
 <td>Алматы қаласы</td>
-<td>207 769</td>
+<td>206 865</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -14335,7 +14131,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 30-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 30-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -14346,7 +14142,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>714 233 889</td>
+<td>725 524 110</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -14371,7 +14167,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>19 607 048</td>
+<td>21 005 917</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -14381,7 +14177,7 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>25 956 742</td>
+<td>28 060 960</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -14396,7 +14192,7 @@ _________________________
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>46 065 242</td>
+<td>47 517 626</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -14421,7 +14217,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>26 398 150</td>
+<td>26 765 348</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -14431,7 +14227,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>137 013 945</td>
+<td>142 278 737</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -14446,7 +14242,7 @@ _________________________
 <tr>
 <td>20.</td>
 <td>Шымкент қаласы</td>
-<td>30 974 170</td>
+<td>31 474 170</td>
 </tr>
 </table>
 
@@ -14460,7 +14256,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ересектерге арналған қосымша білім беру ұйымдарын қоспағанда, мемлекеттік білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 31-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 31-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -14471,12 +14267,12 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>240 000 873</td>
+<td>243 213 873</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>10 681 797</td>
+<td>9 817 630</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -14511,17 +14307,17 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>11 129 966</td>
+<td>10 704 939</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>11 137 895</td>
+<td>10 498 452</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>11 137 057</td>
+<td>11 360 281</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -14546,7 +14342,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>8 009 790</td>
+<td>8 662 271</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -14556,7 +14352,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>36 000 680</td>
+<td>39 494 434</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -14566,7 +14362,7 @@ _________________________
 <tr>
 <td>19.</td>
 <td>Астана қаласы</td>
-<td>7 986 248</td>
+<td>9 035 223</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -14952,50 +14748,50 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *34-1-қосымша*
 
 ## Облыстық бюджеттерге мұғалімдер тапшылығы бар өңірлерге тартылған, бастауыш, негізгі және жалпы орта білімнің оқу бағдарламаларын іске асыратын білім беру ұйымдарының үздік педагогтеріне қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 34-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. Қаулы 34-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="7">Облыстардың атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>1 501 346,000</td>
+<td colspan="7">Барлығы</td>
+<td colspan="18">84 299</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Алматы облысы</td>
-<td>64 181,000</td>
+<td colspan="7">Алматы облысы</td>
+<td colspan="18">41 475</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Атырау облысы</td>
-<td>20 723,000</td>
+<td colspan="7">Атырау облысы</td>
+<td colspan="18">13 892</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Маңғыстау облысы</td>
-<td>462 718,000</td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="18">12 439</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Түркістан облысы</td>
-<td>953 724,000</td>
+<td colspan="7">Түркістан облысы</td>
+<td colspan="18">16 493</td>
+</tr>
+<tr>
+<td colspan="26">_________________________</td>
 </tr>
 </table>
-
-____________________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -15005,7 +14801,7 @@ ____________________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік орта білім беру ұйымдары педагогтерінің нормативтік оқу жүктемесінің төмендеуіне байланысты төмен тұрған бюджеттердің шығындарын өтеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 34-2-қосымшамен толықтырылды - ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. Қаулы 34-2-қосымшамен толықтырылды - ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15036,7 +14832,7 @@ ____________________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>1 339 095</td>
+<td>1 940 717</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -15046,7 +14842,7 @@ ____________________________________
 <tr>
 <td>6.</td>
 <td>Жамбыл облысы</td>
-<td>2 893 065</td>
+<td>4 192 848</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -15066,7 +14862,7 @@ ____________________________________
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>3 439 746</td>
+<td>4 213 499</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -15096,7 +14892,7 @@ ____________________________________
 <tr>
 <td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
-<td>1 423 161</td>
+<td>2 062 552</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -15111,7 +14907,7 @@ ____________________________________
 <tr>
 <td>19.</td>
 <td>Астана қаласы</td>
-<td>1 501 626</td>
+<td>1 973 509</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -15130,7 +14926,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарындағы білім алушылардың мемлекеттік стипендиясының мөлшерін ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 35-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 35-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15148,14 +14944,14 @@ _________________________
 <th>Барлығы</th>
 <th>7 283 563</th>
 <th>572 269</th>
-<th>6 711 294</th>
+<th>6 429 031</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
 <td>540 805</td>
 <td>19 225</td>
-<td>521 580</td>
+<td>456 580</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -15169,7 +14965,7 @@ _________________________
 <td>Алматы облысы</td>
 <td>128 411</td>
 <td>21 603</td>
-<td>106 808</td>
+<td>80 195</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -15267,14 +15063,14 @@ _________________________
 <td>Түркістан облысы</td>
 <td>500 318</td>
 <td>52 404</td>
-<td>447 914</td>
+<td>444 925</td>
 </tr>
 <tr>
 <td>18.</td>
 <td>Алматы қаласы</td>
 <td>1 025 506</td>
 <td>42 193</td>
-<td>983 313</td>
+<td>795 652</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -15302,7 +15098,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының дене шынықтыру педагогтеріне сабақтан тыс іс-шараларды өткізгені үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 36-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 36-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15313,12 +15109,12 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>321 265</td>
+<td>316 965</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>22 268</td>
+<td>17 968</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -15419,130 +15215,130 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *36-1-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне сұранысқа ие мамандықтар бойынша жастарды тегін техникалық және кәсіптік біліммен қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 36-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. Қаулы 36-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="12">Облыстар мен қалалардың атауы</td>
+<td colspan="16">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>10 820 050</td>
+<td colspan="12">Барлығы</td>
+<td colspan="16">10 013 038</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>254 260</td>
+<td colspan="12">Ақмола облысы</td>
+<td colspan="16">235 560</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>477 838</td>
+<td colspan="12">Ақтөбе облысы</td>
+<td colspan="16">473 448</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>310 343</td>
+<td colspan="12">Алматы облысы</td>
+<td colspan="16">305 947</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>252 539</td>
+<td colspan="12">Атырау облысы</td>
+<td colspan="16">249 129</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>373 647</td>
+<td colspan="12">Шығыс Қазақстан облысы</td>
+<td colspan="16">368 777</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>576 623</td>
+<td colspan="12">Жамбыл облысы</td>
+<td colspan="16">568 538</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>122 025</td>
+<td colspan="12">Батыс Қазақстан облысы</td>
+<td colspan="16">120 347</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>170 570</td>
+<td colspan="12">Қарағанды облысы</td>
+<td colspan="16">168 154</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>390 481</td>
+<td colspan="12">Қостанай облысы</td>
+<td colspan="16">385 111</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>425 734</td>
+<td colspan="12">Қызылорда облысы</td>
+<td colspan="16">421 328</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>463 597</td>
+<td colspan="12">Маңғыстау облысы</td>
+<td colspan="16">459 653</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>347 381</td>
+<td colspan="12">Абай облысы</td>
+<td colspan="16">342 854</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>281 915</td>
+<td colspan="12">Жетісу облысы</td>
+<td colspan="16">277 921</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>66 333</td>
+<td colspan="12">Ұлытау облысы</td>
+<td colspan="16">65 393</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>244 050</td>
+<td colspan="12">Павлодар облысы</td>
+<td colspan="16">241 282</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>24 405</td>
+<td colspan="12">Солтүстік Қазақстан облысы</td>
+<td colspan="16">24 069</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>2 514 937</td>
+<td colspan="12">Түркістан облысы</td>
+<td colspan="16">1 812 373</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Алматы қаласы</td>
-<td>1 390 790</td>
+<td colspan="12">Алматы қаласы</td>
+<td colspan="16">1 370 654</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Астана қаласы</td>
-<td>829 162</td>
+<td colspan="12">Астана қаласы</td>
+<td colspan="16">820 772</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Шымкент қаласы</td>
-<td>1 303 420</td>
+<td colspan="12">Шымкент қаласы</td>
+<td colspan="16">1 301 728</td>
+</tr>
+<tr>
+<td colspan="29">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -15552,7 +15348,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 37-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 37-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15563,12 +15359,12 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>32 219 922</td>
+<td>31 765 904</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>2 115 333</td>
+<td>1 928 333</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -15603,7 +15399,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>3 290 448</td>
+<td>3 043 815</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -15648,7 +15444,7 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>2 392 276</td>
+<td>2 371 891</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -15677,7 +15473,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарының педагогтеріне біліктілік санаты үшін қосымша ақы төлеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 38-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 38-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15688,12 +15484,12 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>9 447 822</td>
+<td>7 205 550</td>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>420 619</td>
+<td>370 619</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -15728,7 +15524,7 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>1 492 025</td>
+<td>494 436</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -15773,12 +15569,12 @@ _________________________
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>815 650</td>
+<td>320 967</td>
 </tr>
 <tr>
 <td>18.</td>
 <td>Алматы қаласы</td>
-<td>1 143 479</td>
+<td>443 479</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -15922,7 +15718,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне көпбалалы және аз қамтылған отбасылардың балалары үшін жоғары білімі бар мамандарды даярлауға мемлекеттік білім беру тапсырысын орналастыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 40-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 40-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -15933,17 +15729,17 @@ _________________________
 <tr>
 <th></th>
 <th>Барлығы</th>
-<th>2 933 117</th>
+<th>2 719 666</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>84 653</td>
+<td>70 153</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Ақтөбе облысы</td>
-<td>123 295</td>
+<td>116 295</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -15953,7 +15749,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>66 383</td>
+<td>54 416</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -15973,12 +15769,12 @@ _________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>51 216</td>
+<td>51 680</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>8 369</td>
+<td>6 069</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -15998,17 +15794,17 @@ _________________________
 <tr>
 <td>13.</td>
 <td>Павлодар облысы</td>
-<td>32 387</td>
+<td>33 068</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Солтүстік Қазақстан облысы</td>
-<td>16 882</td>
+<td>16 229</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Түркістан облысы</td>
-<td>1 212 252</td>
+<td>1 034 076</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -16037,7 +15833,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне медициналық ұйымның жыныстық құмарлықты төмендететін, сот шешімі негізінде жүзеге асырылатын іс-шараларды өткізуіне берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 41-қосымша жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен.*
+> *Ескерту. 41-қосымша жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16048,12 +15844,12 @@ _________________________
 <tr>
 <th></th>
 <th>Барлығы:</th>
-<th>3 923</th>
+<th>2 937</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>859</td>
+<td>0</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -16083,7 +15879,7 @@ _________________________
 <tr>
 <td>7.</td>
 <td>Маңғыстау облысы</td>
-<td>127</td>
+<td>0</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -16222,7 +16018,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне қаржы лизингі шарттарымен сатып алынған санитариялық көлік бойынша лизинг төлемдерін өтеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 42-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 42-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16233,7 +16029,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>14 505 266</td>
+<td>14 407 543</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16253,7 +16049,7 @@ _________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>881 236</td>
+<td>783 513</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -16332,7 +16128,7 @@ ____________________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне вакциналарды және басқа да иммундық-биологиялық препараттарды сатып алуға берілетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 43-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 43-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16348,8 +16144,8 @@ ____________________________________
 <tr>
 <th></th>
 <th>Барлығы</th>
-<th>53 971 023</th>
-<th>33 330 376</th>
+<th>53 971 006</th>
+<th>33 330 359</th>
 <th>20 640 647</th>
 </tr>
 <tr>
@@ -16411,8 +16207,8 @@ ____________________________________
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>1 390 749</td>
-<td>756 860</td>
+<td>1 390 732</td>
+<td>756 843</td>
 <td>633 889</td>
 </tr>
 <tr>
@@ -16497,7 +16293,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне саламатты өмір салтын насихаттауға берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 44-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 44-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16508,7 +16304,7 @@ _________________________
 <tr>
 <th></th>
 <th>Барлығы:</th>
-<th>418 384</th>
+<th>416 509</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -16538,7 +16334,7 @@ _________________________
 <tr>
 <td>6.</td>
 <td>Жамбыл облысы</td>
-<td>8 602</td>
+<td>6 727</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -16607,7 +16403,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 45-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 45-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16618,7 +16414,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>2 291 008</td>
+<td>2 286 943</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16718,7 +16514,7 @@ _________________________
 <tr>
 <td>20.</td>
 <td>Шымкент қаласы</td>
-<td>130 847</td>
+<td>126 782</td>
 </tr>
 </table>
 
@@ -16732,7 +16528,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жергілікті атқарушы органдардың денсаулық сақтау саласындағы ұйымдары қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 46-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 46-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгеріс енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді –ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16743,12 +16539,12 @@ _________________________
 <tr>
 <th></th>
 <th colspan="2">Барлығы</th>
-<th colspan="2">3 054 517</th>
+<th colspan="2">3 042 849</th>
 </tr>
 <tr>
 <td>1.</td>
 <td colspan="2">Ақмола облысы</td>
-<td colspan="2">158 060</td>
+<td colspan="2">155 966</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -16788,7 +16584,7 @@ _________________________
 <tr>
 <td>9.</td>
 <td colspan="2">Қостанай облысы</td>
-<td colspan="2">183 737</td>
+<td colspan="2">179 354</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -16818,7 +16614,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td colspan="2">Павлодар облысы</td>
-<td colspan="2">196 755</td>
+<td colspan="2">191 564</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -16962,7 +16758,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік мәдениет ұйымдарының және архив мекемелерінің басқарушы және негізгі персоналына мәдениет ұйымдарындағы және архив мекемелеріндегі ерекше еңбек жағдайлары үшін лауазымдық айлықақысына қосымша ақылар белгілеуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 48-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 48-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -16973,7 +16769,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>13 068 448</td>
+<td>12 958 363</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -16988,7 +16784,7 @@ _________________________
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>538 201</td>
+<td>489 821</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -16998,7 +16794,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>600 588</td>
+<td>591 139</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -17018,7 +16814,7 @@ _________________________
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>836 151</td>
+<td>801 151</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -17028,7 +16824,7 @@ _________________________
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>476 389</td>
+<td>468 939</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -17048,7 +16844,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>703 553</td>
+<td>693 747</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -17117,7 +16913,7 @@ _________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік ұйымдардың медицина қызметкерлерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 49-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 49-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -17128,7 +16924,7 @@ _________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>1 891 772</td>
+<td>1 880 059</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -17153,7 +16949,7 @@ _________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>103 309</td>
+<td>94 800</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -17203,7 +16999,7 @@ _________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>171 168</td>
+<td>168 209</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -17223,7 +17019,7 @@ _________________________
 <tr>
 <td>19.</td>
 <td>Астана қаласы</td>
-<td>84 551</td>
+<td>84 306</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -17242,7 +17038,7 @@ ____________________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне дене шынықтыру және спорт саласындағы мемлекеттік орта және қосымша білім беру ұйымдары педагогтерінің еңбегіне ақы төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 50-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 50-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -17253,7 +17049,7 @@ ____________________________________
 <tr>
 <td></td>
 <td>Барлығы</td>
-<td>20 273 470</td>
+<td>20 039 793</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -17278,7 +17074,7 @@ ____________________________________
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>1 078 978</td>
+<td>1 056 949</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -17308,12 +17104,12 @@ ____________________________________
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>982 543</td>
+<td>798 684</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Абай облысы</td>
-<td>665 953</td>
+<td>649 645</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -17348,7 +17144,7 @@ ____________________________________
 <tr>
 <td>19.</td>
 <td>Астана қаласы</td>
-<td>698 292</td>
+<td>686 811</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -17359,85 +17155,85 @@ ____________________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *51-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кәсіпкерлік субъектілерінің санитариялық-гигиеналық тораптарды күтіп-ұстауға арналған шығындарының бір бөлігін субсидиялауға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 51-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 51-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қаланың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="7">Облыстар мен қаланың атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы:</th>
-<th>168 246</th>
+<td></td>
+<td colspan="7">Барлығы</td>
+<td colspan="18">151 425</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>5 997</td>
+<td colspan="7">Ақмола облысы</td>
+<td colspan="18">5 398</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>24 178</td>
+<td colspan="7">Шығыс Қазақстан облысы</td>
+<td colspan="18">21 761</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Жамбыл облысы</td>
-<td>33 736</td>
+<td colspan="7">Жамбыл облысы</td>
+<td colspan="18">30 362</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>31 863</td>
+<td colspan="7">Батыс Қазақстан облысы</td>
+<td colspan="18">28 677</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Қарағанды облысы</td>
-<td>4 873</td>
+<td colspan="7">Қарағанды облысы</td>
+<td colspan="18">4 386</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Қостанай облысы</td>
-<td>17 910</td>
+<td colspan="7">Қостанай облысы</td>
+<td colspan="18">16 119</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Маңғыстау облысы</td>
-<td>8 330</td>
+<td colspan="7">Маңғыстау облысы</td>
+<td colspan="18">7 497</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Абай облысы</td>
-<td>26 864</td>
+<td colspan="7">Абай облысы</td>
+<td colspan="18">24 178</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Павлодар облысы</td>
-<td>4 165</td>
+<td colspan="7">Павлодар облысы</td>
+<td colspan="18">3 749</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>4 499</td>
+<td colspan="7">Солтүстік Қазақстан облысы</td>
+<td colspan="18">4 050</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Шымкент қаласы</td>
-<td>5 831</td>
+<td colspan="7">Шымкент қаласы</td>
+<td colspan="18">5 248</td>
+</tr>
+<tr>
+<td colspan="26">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -17576,245 +17372,245 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *53-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне 2021 – 2025 жылдарға арналған кәсіпкерлікті дамыту жөніндегі ұлттық жоба шеңберінде жаңа бизнес-идеяларды іске асыру үшін жас кәсіпкерлерге мемлекеттік гранттар беруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 53-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 53-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="14">Облыстар мен қалалардың атауы</td>
+<td colspan="15">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>648 726</td>
+<td colspan="14">Барлығы</td>
+<td colspan="15">635 612</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>39 000</td>
+<td colspan="14">Ақмола облысы</td>
+<td colspan="15">39 000</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>21 000</td>
+<td colspan="14">Ақтөбе облысы</td>
+<td colspan="15">21 000</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>20 000</td>
+<td colspan="14">Алматы облысы</td>
+<td colspan="15">20 000</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>27 000</td>
+<td colspan="14">Атырау облысы</td>
+<td colspan="15">27 000</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>21 000</td>
+<td colspan="14">Шығыс Қазақстан облысы</td>
+<td colspan="15">21 000</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>21 000</td>
+<td colspan="14">Жамбыл облысы</td>
+<td colspan="15">21 000</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>119 558</td>
+<td colspan="14">Батыс Қазақстан облысы</td>
+<td colspan="15">119 558</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қостанай облысы</td>
-<td>30 000</td>
+<td colspan="14">Қостанай облысы</td>
+<td colspan="15">30 000</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қызылорда облысы</td>
-<td>42 668</td>
+<td colspan="14">Қызылорда облысы</td>
+<td colspan="15">42 668</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Маңғыстау облысы</td>
-<td>20 000</td>
+<td colspan="14">Маңғыстау облысы</td>
+<td colspan="15">20 000</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Жетісу облысы</td>
-<td>20 000</td>
+<td colspan="14">Жетісу облысы</td>
+<td colspan="15">20 000</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Ұлытау облысы</td>
-<td>27 000</td>
+<td colspan="14">Ұлытау облысы</td>
+<td colspan="15">14 500</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Павлодар облысы</td>
-<td>39 000</td>
+<td colspan="14">Павлодар облысы</td>
+<td colspan="15">39 000</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>17 500</td>
+<td colspan="14">Солтүстік Қазақстан облысы</td>
+<td colspan="15">17 500</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Түркістан облысы</td>
-<td>48 000</td>
+<td colspan="14">Түркістан облысы</td>
+<td colspan="15">48 000</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Алматы қаласы</td>
-<td>45 000</td>
+<td colspan="14">Алматы қаласы</td>
+<td colspan="15">45 000</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Астана қаласы</td>
-<td>45 000</td>
+<td colspan="14">Астана қаласы</td>
+<td colspan="15">44 386</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Шымкент қаласы</td>
-<td>46 000</td>
+<td colspan="14">Шымкент қаласы</td>
+<td colspan="15">46 000</td>
+</tr>
+<tr>
+<td colspan="30">__________________________</td>
 </tr>
 </table>
 
-____________________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *53-1-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мәслихаттар депутаттары қызметінің тиімділігін арттыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. Қаулы 53-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. Қаулы 53-1-қосымшамен толықтырылды - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстар мен қалалардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="14">Облыстар мен қалалардың атауы</td>
+<td colspan="15">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>710 886</th>
+<td></td>
+<td colspan="14">Барлығы</td>
+<td colspan="15">639 798</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>33 119</td>
+<td colspan="14">Ақмола облысы</td>
+<td colspan="15">32 843</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>53 965</td>
+<td colspan="14">Ақтөбе облысы</td>
+<td colspan="15">52 931</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>29 302</td>
+<td colspan="14">Алматы облысы</td>
+<td colspan="15">29 302</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>37 967</td>
+<td colspan="14">Атырау облысы</td>
+<td colspan="15">22 761</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>33 812</td>
+<td colspan="14">Шығыс Қазақстан облысы</td>
+<td colspan="15">23 581</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>24 643</td>
+<td colspan="14">Жамбыл облысы</td>
+<td colspan="15">24 643</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>53 445</td>
+<td colspan="14">Батыс Қазақстан облысы</td>
+<td colspan="15">40 010</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>41 299</td>
+<td colspan="14">Қарағанды облысы</td>
+<td colspan="15">38 397</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>50 517</td>
+<td colspan="14">Қостанай облысы</td>
+<td colspan="15">48 520</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>37 428</td>
+<td colspan="14">Қызылорда облысы</td>
+<td colspan="15">30 306</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>30 913</td>
+<td colspan="14">Маңғыстау облысы</td>
+<td colspan="15">27 822</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>45 452</td>
+<td colspan="14">Абай облысы</td>
+<td colspan="15">37 952</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>30 310</td>
+<td colspan="14">Жетісу облысы</td>
+<td colspan="15">27 170</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>15 307</td>
+<td colspan="14">Ұлытау облысы</td>
+<td colspan="15">10 879</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>28 658</td>
+<td colspan="14">Павлодар облысы</td>
+<td colspan="15">27 932</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>48 999</td>
+<td colspan="14">Солтүстік Қазақстан облысы</td>
+<td colspan="15">48 999</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>68 350</td>
+<td colspan="14">Түркістан облысы</td>
+<td colspan="15">68 350</td>
 </tr>
 <tr>
 <td>18.</td>
-<td>Алматы қаласы</td>
-<td>20 066</td>
+<td colspan="14">Алматы қаласы</td>
+<td colspan="15">20 066</td>
 </tr>
 <tr>
 <td>19.</td>
-<td>Астана қаласы</td>
-<td>10 324</td>
+<td colspan="14">Астана қаласы</td>
+<td colspan="15">10 324</td>
 </tr>
 <tr>
 <td>20.</td>
-<td>Шымкент қаласы</td>
-<td>17 010</td>
+<td colspan="14">Шымкент қаласы</td>
+<td colspan="15">17 010</td>
+</tr>
+<tr>
+<td colspan="30">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -17886,149 +17682,149 @@ _______________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *55-қосымша*
 
 ## Облыстық бюджеттерге көлiк инфрақұрылымының басым жобаларын қаржыландыруға берiлетiн ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 55-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен*
+> *Ескерту. 55-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен*
 
 <table>
 <tr>
-<td rowspan="2">Р/с №</td>
-<td rowspan="2">Облыстардың атауы</td>
-<td rowspan="2">Сомасы, мың теңге</td>
-<td colspan="2">оның ішінде</td>
+<td colspan="2" rowspan="2">Р/с №</td>
+<td colspan="4" rowspan="2">Облыстардың атауы</td>
+<td colspan="5" rowspan="2">Сомасы, мың теңге</td>
+<td colspan="30">оның ішінде</td>
 </tr>
 <tr>
-<td>республикалық бюджет қаражат есебінен</td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
+<td colspan="17">республикалық бюджет қаражат есебінен</td>
+<td colspan="13">Қазақстан Республикасының Ұлттық қорынан берілетін кепілдендірілген трансферт есебінен</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>113 634 461</th>
-<th>11 351 198</th>
-<th>102 283 263</th>
+<td colspan="2"></td>
+<td colspan="4">Барлығы</td>
+<td colspan="5">113 634 461</td>
+<td colspan="17">11 351 198</td>
+<td colspan="13">102 283 263</td>
 </tr>
 <tr>
-<td>1.</td>
-<td>Ақмола облысы</td>
-<td>29 320 421</td>
-<td>11 351 198</td>
-<td>17 969 223</td>
+<td colspan="2">1.</td>
+<td colspan="4">Ақмола облысы</td>
+<td colspan="5">29 374 118</td>
+<td colspan="17">11 351 198</td>
+<td colspan="13">18 022 920</td>
 </tr>
 <tr>
-<td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>11 304 357</td>
-<td></td>
-<td>11 304 357</td>
+<td colspan="2">2.</td>
+<td colspan="4">Ақтөбе облысы</td>
+<td colspan="5">11 304 357</td>
+<td colspan="17"></td>
+<td colspan="13">11 304 357</td>
 </tr>
 <tr>
-<td>3.</td>
-<td>Алматы облысы</td>
-<td>5 217 578</td>
-<td></td>
-<td>5 217 578</td>
+<td colspan="2">3.</td>
+<td colspan="4">Алматы облысы</td>
+<td colspan="5">5 217 578</td>
+<td colspan="17"></td>
+<td colspan="13">5 217 578</td>
 </tr>
 <tr>
-<td>4.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>1 707 380</td>
-<td></td>
-<td>1 707 380</td>
+<td colspan="2">4.</td>
+<td colspan="4">Шығыс Қазақстан облысы</td>
+<td colspan="5">1 707 380</td>
+<td colspan="17"></td>
+<td colspan="13">1 707 380</td>
 </tr>
 <tr>
-<td>5.</td>
-<td>Жамбыл облысы</td>
-<td>3 695 949</td>
-<td></td>
-<td>3 695 949</td>
+<td colspan="2">5.</td>
+<td colspan="4">Жамбыл облысы</td>
+<td colspan="5">3 695 949</td>
+<td colspan="17"></td>
+<td colspan="13">3 695 949</td>
 </tr>
 <tr>
-<td>6.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>15 332 196</td>
-<td></td>
-<td>15 332 196</td>
+<td colspan="2">6.</td>
+<td colspan="4">Батыс Қазақстан облысы</td>
+<td colspan="5">15 332 196</td>
+<td colspan="17"></td>
+<td colspan="13">15 332 196</td>
 </tr>
 <tr>
-<td>7.</td>
-<td>Қарағанды облысы</td>
-<td>4 391 614</td>
-<td></td>
-<td>4 391 614</td>
+<td colspan="2">7.</td>
+<td colspan="4">Қарағанды облысы</td>
+<td colspan="5">4 337 917</td>
+<td colspan="17"></td>
+<td colspan="13">4 337 917</td>
 </tr>
 <tr>
-<td>8.</td>
-<td>Қостанай облысы</td>
-<td>6 289 592</td>
-<td></td>
-<td>6 289 592</td>
+<td colspan="2">8.</td>
+<td colspan="4">Қостанай облысы</td>
+<td colspan="5">6 289 592</td>
+<td colspan="17"></td>
+<td colspan="13">6 289 592</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>Қызылорда облысы</td>
-<td>3 317 581</td>
-<td></td>
-<td>3 317 581</td>
+<td colspan="2">9.</td>
+<td colspan="4">Қызылорда облысы</td>
+<td colspan="5">3 317 581</td>
+<td colspan="17"></td>
+<td colspan="13">3 317 581</td>
 </tr>
 <tr>
-<td>10.</td>
-<td>Маңғыстау облысы</td>
-<td>81 000</td>
-<td></td>
-<td>81 000</td>
+<td colspan="2">10.</td>
+<td colspan="4">Маңғыстау облысы</td>
+<td colspan="5">81 000</td>
+<td colspan="17"></td>
+<td colspan="13">81 000</td>
 </tr>
 <tr>
-<td>11.</td>
-<td>Абай облысы</td>
-<td>1 547 763</td>
-<td></td>
-<td>1 547 763</td>
+<td colspan="2">11.</td>
+<td colspan="4">Абай облысы</td>
+<td colspan="5">1 547 763</td>
+<td colspan="17"></td>
+<td colspan="13">1 547 763</td>
 </tr>
 <tr>
-<td>12.</td>
-<td>Жетісу облысы</td>
-<td>1 277 730</td>
-<td></td>
-<td>1 277 730</td>
+<td colspan="2">12.</td>
+<td colspan="4">Жетісу облысы</td>
+<td colspan="5">1 277 730</td>
+<td colspan="17"></td>
+<td colspan="13">1 277 730</td>
 </tr>
 <tr>
-<td>13.</td>
-<td>Ұлытау облысы</td>
-<td>1 199 286</td>
-<td></td>
-<td>1 199 286</td>
+<td colspan="2">13.</td>
+<td colspan="4">Ұлытау облысы</td>
+<td colspan="5">1 199 286</td>
+<td colspan="17"></td>
+<td colspan="13">1 199 286</td>
 </tr>
 <tr>
-<td>14.</td>
-<td>Павлодар облысы</td>
-<td>5 618 374</td>
-<td></td>
-<td>5 618 374</td>
+<td colspan="2">14.</td>
+<td colspan="4">Павлодар облысы</td>
+<td colspan="5">5 618 374</td>
+<td colspan="17"></td>
+<td colspan="13">5 618 374</td>
 </tr>
 <tr>
-<td>15.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>10 609 437</td>
-<td></td>
-<td>10 609 437</td>
+<td colspan="2">15.</td>
+<td colspan="4">Солтүстік Қазақстан облысы</td>
+<td colspan="5">10 609 437</td>
+<td colspan="17"></td>
+<td colspan="13">10 609 437</td>
 </tr>
 <tr>
-<td>16.</td>
-<td>Түркістан облысы</td>
-<td>12 724 203</td>
-<td></td>
-<td>12 724 203</td>
+<td colspan="2">16.</td>
+<td colspan="4">Түркістан облысы</td>
+<td colspan="5">12 724 203</td>
+<td colspan="17"></td>
+<td colspan="13">12 724 203</td>
+</tr>
+<tr>
+<td colspan="41">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -18073,115 +17869,115 @@ _________________________
 </tr>
 </table>
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *57-қосымша*
 
 ## Облыстық бюджеттерге аудандық маңызы бар қалалар, ауылдар, кенттер, ауылдық округтер әкімдері сайлауын қамтамасыз етуге және өткізуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 57-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 57-қосымша жаңа редакцияда - ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="6">Облыстардың атауы</td>
+<td colspan="18">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th></th>
-<th>Барлығы</th>
-<th>3 071 140</th>
+<td></td>
+<td colspan="6">Барлығы</td>
+<td colspan="18">3 000 225</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>176 058</td>
+<td colspan="6">Ақмола облысы</td>
+<td colspan="18">174 683</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>155 730</td>
+<td colspan="6">Ақтөбе облысы</td>
+<td colspan="18">154 730</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>420 179</td>
+<td colspan="6">Алматы облысы</td>
+<td colspan="18">409 396</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>70 787</td>
+<td colspan="6">Атырау облысы</td>
+<td colspan="18">66 487</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>100 807</td>
+<td colspan="6">Шығыс Қазақстан облысы</td>
+<td colspan="18">90 807</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>165 334</td>
+<td colspan="6">Жамбыл облысы</td>
+<td colspan="18">165 334</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>197 649</td>
+<td colspan="6">Батыс Қазақстан облысы</td>
+<td colspan="18">197 649</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>142 466</td>
+<td colspan="6">Қарағанды облысы</td>
+<td colspan="18">141 046</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>199 235</td>
+<td colspan="6">Қостанай облысы</td>
+<td colspan="18">193 079</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>198 039</td>
+<td colspan="6">Қызылорда облысы</td>
+<td colspan="18">198 039</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>135 513</td>
+<td colspan="6">Маңғыстау облысы</td>
+<td colspan="18">135 513</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>130 000</td>
+<td colspan="6">Абай облысы</td>
+<td colspan="18">119 500</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>191 109</td>
+<td colspan="6">Жетісу облысы</td>
+<td colspan="18">191 109</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>22 000</td>
+<td colspan="6">Ұлытау облысы</td>
+<td colspan="18">18 021</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>185 472</td>
+<td colspan="6">Павлодар облысы</td>
+<td colspan="18">185 472</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>275 366</td>
+<td colspan="6">Солтүстік Қазақстан облысы</td>
+<td colspan="18">253 964</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>305 396</td>
+<td colspan="6">Түркістан облысы</td>
+<td colspan="18">305 396</td>
+</tr>
+<tr>
+<td colspan="25">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -18364,268 +18160,268 @@ _________________________
 
 _________________________
 
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *58-қосымша*
 
 ## Мамандарды әлеуметтік қолдау шараларын іске асыру үшін жергілікті атқарушы органдарға берілетін бюджеттік кредиттердің сомаларын бөлу
 
-> *Ескерту. 58-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 58-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="11">Облыстардың атауы</td>
+<td colspan="15">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы:</td>
-<td>19 257 056</td>
+<td colspan="11">Барлығы:</td>
+<td colspan="15">19 097 055</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақмола облысы</td>
-<td>1 189 976</td>
+<td colspan="11">Ақмола облысы</td>
+<td colspan="15">1 189 976</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Ақтөбе облысы</td>
-<td>647 825</td>
+<td colspan="11">Ақтөбе облысы</td>
+<td colspan="15">647 825</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Алматы облысы</td>
-<td>1 497 809</td>
+<td colspan="11">Алматы облысы</td>
+<td colspan="15">1 497 809</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Атырау облысы</td>
-<td>192 020</td>
+<td colspan="11">Атырау облысы</td>
+<td colspan="15">191 626</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Шығыс Қазақстан облысы</td>
-<td>882 119</td>
+<td colspan="11">Шығыс Қазақстан облысы</td>
+<td colspan="15">817 796</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Жамбыл облысы</td>
-<td>1 332 542</td>
+<td colspan="11">Жамбыл облысы</td>
+<td colspan="15">1 329 137</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>1 745 910</td>
+<td colspan="11">Батыс Қазақстан облысы</td>
+<td colspan="15">1 745 910</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Қарағанды облысы</td>
-<td>995 986</td>
+<td colspan="11">Қарағанды облысы</td>
+<td colspan="15">975 862</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Қостанай облысы</td>
-<td>1 073 630</td>
+<td colspan="11">Қостанай облысы</td>
+<td colspan="15">1 073 630</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Қызылорда облысы</td>
-<td>2 375 357</td>
+<td colspan="11">Қызылорда облысы</td>
+<td colspan="15">2 375 357</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Маңғыстау облысы</td>
-<td>960 251</td>
+<td colspan="11">Маңғыстау облысы</td>
+<td colspan="15">960 251</td>
 </tr>
 <tr>
 <td>12.</td>
-<td>Абай облысы</td>
-<td>581 182</td>
+<td colspan="11">Абай облысы</td>
+<td colspan="15">572 068</td>
 </tr>
 <tr>
 <td>13.</td>
-<td>Жетісу облысы</td>
-<td>1 056 733</td>
+<td colspan="11">Жетісу облысы</td>
+<td colspan="15">1 056 733</td>
 </tr>
 <tr>
 <td>14.</td>
-<td>Ұлытау облысы</td>
-<td>233 549</td>
+<td colspan="11">Ұлытау облысы</td>
+<td colspan="15">233 549</td>
 </tr>
 <tr>
 <td>15.</td>
-<td>Павлодар облысы</td>
-<td>1 199 165</td>
+<td colspan="11">Павлодар облысы</td>
+<td colspan="15">1 199 165</td>
 </tr>
 <tr>
 <td>16.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>1 184 126</td>
+<td colspan="11">Солтүстік Қазақстан облысы</td>
+<td colspan="15">1 121 485</td>
 </tr>
 <tr>
 <td>17.</td>
-<td>Түркістан облысы</td>
-<td>2 108 876</td>
+<td colspan="11">Түркістан облысы</td>
+<td colspan="15">2 108 876</td>
+</tr>
+<tr>
+<td colspan="27">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *59-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне кондоминиум объектілерінің ортақ мүлкіне күрделі жөндеу жүргізуге кредит берудің сомаларын бөлу
 
-> *Ескерту. 59-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 59-қосымша жаңа редакцияда – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
 <td>Р/с №</td>
-<td>Облыстардың атауы</td>
-<td>Сомасы, мың теңге</td>
+<td colspan="11">Облыстардың атауы</td>
+<td colspan="15">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td>Барлығы</td>
-<td>11 108 777</td>
+<td colspan="11">Барлығы</td>
+<td colspan="15">10 975 128</td>
 </tr>
 <tr>
 <td>1.</td>
-<td>Ақтөбе облысы</td>
-<td>1 415 086</td>
+<td colspan="11">Ақтөбе облысы</td>
+<td colspan="15">1 281 437</td>
 </tr>
 <tr>
 <td>2.</td>
-<td>Атырау облысы</td>
-<td>1 673 670</td>
+<td colspan="11">Атырау облысы</td>
+<td colspan="15">1 673 670</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Жамбыл облысы</td>
-<td>3 223 637</td>
+<td colspan="11">Жамбыл облысы</td>
+<td colspan="15">3 223 637</td>
 </tr>
 <tr>
 <td>4.</td>
-<td>Батыс Қазақстан облысы</td>
-<td>279 684</td>
+<td colspan="11">Батыс Қазақстан облысы</td>
+<td colspan="15">279 684</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Қарағанды облысы</td>
-<td>190 237</td>
+<td colspan="11">Қарағанды облысы</td>
+<td colspan="15">190 237</td>
 </tr>
 <tr>
 <td>6.</td>
-<td>Қызылорда облысы</td>
-<td>616 755</td>
+<td colspan="11">Қызылорда облысы</td>
+<td colspan="15">616 755</td>
 </tr>
 <tr>
 <td>7.</td>
-<td>Маңғыстау облысы</td>
-<td>1 422 648</td>
+<td colspan="11">Маңғыстау облысы</td>
+<td colspan="15">1 422 648</td>
 </tr>
 <tr>
 <td>8.</td>
-<td>Жетісу облысы</td>
-<td>157 093</td>
+<td colspan="11">Жетісу облысы</td>
+<td colspan="15">157 093</td>
 </tr>
 <tr>
 <td>9.</td>
-<td>Павлодар облысы</td>
-<td>91 255</td>
+<td colspan="11">Павлодар облысы</td>
+<td colspan="15">91 255</td>
 </tr>
 <tr>
 <td>10.</td>
-<td>Солтүстік Қазақстан облысы</td>
-<td>1 083 348</td>
+<td colspan="11">Солтүстік Қазақстан облысы</td>
+<td colspan="15">1 083 348</td>
 </tr>
 <tr>
 <td>11.</td>
-<td>Түркістан облысы</td>
-<td>955 364</td>
+<td colspan="11">Түркістан облысы</td>
+<td colspan="15">955 364</td>
+</tr>
+<tr>
+<td colspan="27">_________________________</td>
 </tr>
 </table>
 
-_________________________
-
-> *Қазақстан Республикасы*  
-> *Үкіметінің*  
-> *2021 жылғы 9 желтоқсандағы*  
+> *Қазақстан Республикасы Үкіметінің*  
+> *2021 жылғы «9» желтоқсандағы*  
 > *№ 872 қаулысына*  
 > *60-қосымша*
 
 ## Қазақстан Республикасының Үкіметі резервінің сомаларын бөлу
 
-> *Ескерту. 60-қосымша жаңа редакцияда – ҚР Үкіметінің 07.01.2022 № 1 (01.01.2022 бастап қолданысқа енгiзiледi); 18.03.2022 № 145 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 60-қосымша жаңа редакцияда – ҚР Үкіметінің 07.01.2022 № 1 (01.01.2022 бастап қолданысқа енгiзiледi); 18.03.2022 № 145 (01.01.2022 бастап қолданысқа енгiзiледi); 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
-<td colspan="2">Әкімші</td>
+<td colspan="3">Әкімші</td>
 <td></td>
-<td rowspan="3">Атауы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="20" rowspan="3">Атауы</td>
+<td colspan="16" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>Бағдарлама</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кіші бағдарлама</td>
 </tr>
 <tr>
-<th>217</th>
-<th></th>
-<th></th>
-<th>Қазақстан Республикасы Қаржы министрлігі</th>
-<th>418 865 023</th>
+<td colspan="2">217</td>
+<td></td>
+<td></td>
+<td colspan="20">Қазақстан Республикасы Қаржы министрлігі</td>
+<td colspan="16">543 539 392</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>010</td>
 <td></td>
-<td>Қазақстан Республикасы Үкiметiнiң резервi</td>
-<td>418 865 023</td>
+<td colspan="20">Қазақстан Республикасы Үкiметiнiң резервi</td>
+<td colspan="16">543 539 392</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>100</td>
-<td>Қазақстан Республикасының және басқа мемлекеттердің аумағындағы табиғи және техногендік сипаттағы төтенше жағдайларды жоюға арналған Қазақстан Республикасы Үкіметінің төтенше резерві</td>
-<td>76 527 050</td>
+<td colspan="20">Қазақстан Республикасының және басқа мемлекеттердің аумағындағы табиғи және техногендік сипаттағы төтенше жағдайларды жоюға арналған Қазақстан Республикасы Үкіметінің төтенше резерві</td>
+<td colspan="16">76 527 050</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>101</td>
-<td>Қазақстан Республикасы Үкіметінің шұғыл шығындарға арналған резерві</td>
-<td>340 987 973</td>
+<td colspan="20">Қазақстан Республикасы Үкіметінің шұғыл шығындарға арналған резерві</td>
+<td colspan="16">465 662 342</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>102</td>
-<td>Қазақстан Республикасы Үкіметінің соттар шешімдері бойынша міндеттемелерді орындауға арналған резерві</td>
-<td>1 000 000</td>
+<td colspan="20">Қазақстан Республикасы Үкіметінің соттар шешімдері бойынша міндеттемелерді орындауға арналған резерві</td>
+<td colspan="16">1 000 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>103</td>
-<td>Қазақстан Республикасы Үкіметінің табиғи және техногендік сипаттағы төтенше жағдайларды жою кезінде халықтың тіршілігін қамтамасыз етуге арналған резерві</td>
-<td>350 000</td>
+<td colspan="20">Қазақстан Республикасы Үкіметінің табиғи және техногендік сипаттағы төтенше жағдайларды жою кезінде халықтың тіршілігін қамтамасыз етуге арналған резерві</td>
+<td colspan="16">350 000</td>
+</tr>
+<tr>
+<td colspan="40">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -19090,7 +18886,7 @@ _________________________
 
 ## 2022 жылға арналған мемлекеттік тапсырмалардың тізбесі
 
-> *Ескерту. 63-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 63-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 01.03.2022 № 93 (01.01.2022 бастап қолданысқа енгiзiледi); жаңа редакцияда – ҚР Үкіметінің 13.05.2022 № 308 (01.01.2022 бастап қолданысқа енгiзiледi); өзгерістер енгізілді – ҚР Үкіметінің 23.08.2022 № 591 (01.01.2022 бастап қолданысқа енгізіледі); жаңа редакцияда – ҚР Үкіметінің 28.09.2022 № 761 (01.01.2022 бастап қолданысқа енгізіледі); өзгерістер енгізілді – ҚР Үкіметінің 17.11.2022 № 921 (01.01.2022 бастап қолданысқа енгiзiледi); 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 мың теңге
 
@@ -19142,7 +18938,7 @@ _________________________
 <td>Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
 <td>«Халықаралық жасыл технологиялар және инвестициялық жобалар орталығы» КЕАҚ</td>
 <td>044 «Технологияларды және үздік практикаларды ілгерілету, бизнес пен инвестицияларды дамыту арқылы Қазақстанның «жасыл экономикаға» жылдам көшуіне жәрдемдесу»</td>
-<td>550 430</td>
+<td>494 330</td>
 </tr>
 <tr>
 <td>4</td>
@@ -19150,29 +18946,49 @@ _________________________
 <td>Қазақстан Республикасының минералдық-шикізат базасын ұлғайту мақсатында перспективалы алаңдардың ресурстық әлеуетін бағалау</td>
 <td>Қазақстан Республикасы Экология, геология және табиғи ресурстар министрлігі</td>
 <td>«Қазгеология» ұлттық геологиялық барлау компаниясы» АҚ</td>
-<td>089 «Жер қойнауын ұтымды және кешенді пайдалануды қамтамасыз ету және Қазақстан Республикасы аумағының геологиялық зерттелуін арттыру» 102 «Өңірлік, геологиялық түсіру, іздестіру-бағалау және іздестіру барлау жұмыстары»</td>
-<td>1 045 585</td>
+<td>
+089 «Жер қойнауын ұтымды және кешенді пайдалануды қамтамасыз ету және Қазақстан Республикасы аумағының геологиялық зерттелуін арттыру»
+102 «Өңірлік, геологиялық түсіру, іздестіру-бағалау және іздестіру барлау жұмыстары»
+</td>
+<td>994 132</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Этносаралық қатынастар саласындағы қолданбалы этносаяси зерттеулер мен іс-шараларды өткізу бойынша қызметтер</td>
-<td>1. Этникалық топтардың көзқарастары мен көңіл-күйлерінің көрінісі ретінде элиталарды зерделеу; 2. Елдегі этносаралық жағдайға әлеуметтік зерттеу жүргізу; 3. Қазақстан Республикасы өңірлерінің экономикалық теңсіздігінің этникалық аспектілері; 4. Мониторингтік шығуларды жүзеге асыру; 5. Семинар-тренингтерді ұйымдастыру және өткізу; 6. Жыл сайын Қазақстан халқы Ассамблеясының аясында жетекші отандық және халықаралық сарапшыларды тарта отырып, этносаралық қатынастар және ұлт бірлігін нығайту мәселелері бойынша Жалпы республикалық ғылыми-практикалық конференция өткізу; 7. Институт жанындағы Сараптамалық топ отырыстарын ұйымдастыру және өткізу.</td>
+<td>
+1. Этникалық топтардың көзқарастары мен көңіл-күйлерінің көрінісі ретінде элиталарды зерделеу.
+2. Елдегі этносаралық жағдайға әлеуметтік зерттеу жүргізу.
+3. Қазақстан Республикасы өңірлерінің экономикалық теңсіздігінің этникалық аспектілері.
+4. Мониторингтік шығуларды жүзеге асыру.
+5. Семинар-тренингтерді ұйымдастыру және өткізу.
+6. Жыл сайын Қазақстан халқы Ассамблеясының аясында жетекші отандық және халықаралық сарапшыларды тарта отырып, этносаралық қатынастар және ұлт бірлігін нығайту мәселелері бойынша Жалпы республикалық ғылыми-практикалық конференция өткізу.
+7. Институт жанындағы Сараптамалық топ отырыстарын ұйымдастыру және өткізу.
+</td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
 <td>«Қолданбалы этносаяси зерттеулер институты» ЖШС</td>
-<td>002 «Қоғамдық келісім саласындағы мемлекеттік саясатты іске асыру» 100 «Этносаралық келісімді нығайту бойынша мемлекеттік саясатты іске асыру»</td>
-<td>515 222</td>
+<td>
+002 «Қоғамдық келісім саласындағы мемлекеттік саясатты іске асыру»
+100 «Этносаралық келісімді нығайту бойынша мемлекеттік саясатты іске асыру»
+</td>
+<td>510 361</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Конфессияаралық және өркениетаралық диалогты қамтамасыз ету жөніндегі халықаралық орталықтардың бірі ретінде Қазақстанды ілгерілету жөніндегі қызметтер</td>
 <td>
-1. Әлемдегі діни ахуалдың жай-күйі мен даму серпінін мониторингтеу және талдау;
-2. Әлемдік және дәстүрлі діндер лидерлерінің VII съезінің, Съездің ХХ Хатшылығының, Хатшылық жұмыс тобының негізгі тұжырымдамалық құжаттары мен материалдарын дайындау мен қалыптастыруды қамтамасыз ету; 3. Әлемдік және дәстүрлі діндер лидерлері съезінің және оның институттарының отырыстарын ұйымдастыру және өткізу;
-4. Әлемдік және дәстүрлі діндер лидерлері съезінің және оның институттарының бастамаларын іске асыруға және ілгерілетуге жәрдемдесу;
-5. Дінаралық және мәдениетаралық диалог мәселелері бойынша ұқсас халықаралық құрылымдармен өзара іс-қимыл;
-6. Мәдениетаралық және өркениетаралық диалогты қамтамасыз ету және сақтау жөніндегі ұқсас халықаралық құрылымдармен ынтымақтастық туралы меморандумдар жасасу;
-7. Мәдениеттер мен діндердің рухани жақындасуына бағытталған халықаралық деңгейдегі іс-шараларды өткізу; 8. Дінтану сараптамасын жүргізу;
-9. Қазақстан Республикасындағы діни ахуалды талдау;
+1. Әлемдегі діни ахуалдың жай-күйі мен даму серпінін мониторингтеу және талдау.
+2. Әлемдік және дәстүрлі діндер лидерлерінің VII съезінің, Съездің ХХ Хатшылығының, Хатшылық жұмыс тобының негізгі тұжырымдамалық құжаттары мен материалдарын дайындау мен қалыптастыруды қамтамасыз ету.
+3. Әлемдік және дәстүрлі діндер лидерлері съезінің және оның институттарының отырыстарын ұйымдастыру және өткізу.
+4. Әлемдік және дәстүрлі діндер лидерлері съезінің және оның институттарының бастамаларын іске асыруға және ілгерілетуге жәрдемдесу.
+5. Дінаралық және мәдениетаралық диалог мәселелері бойынша ұқсас халықаралық құрылымдармен өзара іс-қимыл.
+6. Мәдениетаралық және өркениетаралық диалогты қамтамасыз ету және сақтау жөніндегі ұқсас халықаралық құрылымдармен ынтымақтастық туралы меморандумдар жасасу.
+7. Мәдениеттер мен діндердің рухани жақындасуына бағытталған халықаралық деңгейдегі іс-шараларды өткізу.
+8. Дінтану сараптамасын жүргізу.
+9. Қазақстан Республикасындағы діни ахуалды талдау.
+10. Мемлекеттік-конфессиялық қатынастар.
+11. Дін саласындағы жергілікті атқарушы органдардың мамандары үшін социологиялық зерттеулер бойынша семинар-тренингтер ұйымдастыру және өткізу.
+12. «Қазақстандағы хиджаб туралы дискурстар: негізгі аспектілері мен проблемалық аймақтары» атты тақырыбына социологиялық зерттеу жүргізу.
+13. «Қазақстан Республикасындағы тәңіршілдік: қазіргі жағдайы, өзекті мәселелері және жаңа міндеттер» атты тақырыбында зерттеу жұмыстарын жүргізу.
 </td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
 <td>«Н. Назарбаевтың конфессияаралық және өркениетаралық диалогты дамыту жөніндегі орталығы» КЕАҚ</td>
@@ -19180,25 +18996,22 @@ _________________________
 002 «Қоғамдық келісім саласындағы мемлекеттік саясатты іске асыру»
 102 «Конфессияаралық келісімді нығайту бойынша мемлекеттік саясатты іске асыру»
 </td>
-<td>1 482 324</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>10. Мемлекеттік-конфессиялық қатынастар; 11. Дін саласындағы жергілікті атқарушы органдардың мамандары үшін социологиялық зерттеулер бойынша семинар-тренингтер ұйымдастыру және өткізу; 12.«Қазақстандағы хиджаб туралы дискурстар: негізгі аспектілері мен проблемалық аймақтары» атты тақырыбына социологиялық зерттеу жүргізу; 13. «Қазақстан Республикасындағы тәңіршілдік: қазіргі жағдайы, өзекті мәселелері және жаңа міндеттер» атты тақырыбында зерттеу жұмыстарын жүргізу</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>
+1
+481 204
+</td>
 </tr>
 <tr>
 <td>7</td>
 <td>«Хабар» агенттігі» АҚ арқылы мемлекеттік ақпараттық саясатты жүргізу</td>
 <td>«Хабар», «Хабар 24», «Ел Арна», «Kazakh TV» телеарналары арқылы мемлекеттік ақпараттық саясатты жүргізу жөніндегі көрсетілетін қызметтер</td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
-<td>«Хабар» агенттігі»АҚ</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>16 364 795</td>
+<td>«Хабар» агенттігі» АҚ</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>16 364 533</td>
 </tr>
 <tr>
 <td>8</td>
@@ -19215,8 +19028,11 @@ _________________________
 <td>«МИР», «МИР 24» телеарналары арқылы мемлекеттік ақпараттық саясатты жүргізу жөніндегі көрсетілетін қызметтер</td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
 <td>«Мир» МТРК</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>481 034</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>603 667</td>
 </tr>
 <tr>
 <td>10</td>
@@ -19254,8 +19070,14 @@ _________________________
 <td>Бұқаралық ақпарат құралдарының мониторингін техникалық және әдістемелік қамтамасыз ету жөніндегі жұмыстарды жүргізу жөніндегі көрсетілетін қызметтер</td>
 <td>Қазақстан Республикасы Ақпарат және қоғамдық даму министрлігі</td>
 <td>«Талдау және ақпарат орталығы» ШЖҚ РМК</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>1 093 255</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>
+1
+105 274
+</td>
 </tr>
 <tr>
 <td>14</td>
@@ -19270,7 +19092,10 @@ _________________________
 004 «Қоғамдық сананы жаңғырту, азаматтық қоғам институттары мен мемлекеттің өзара қарым-қатынасын нығайтуды қамтамасыз ету»
 102 «Қоғамдық сананы жаңғырту саласындағы іс-шараларды өткізу»
 </td>
-<td>1 201 659</td>
+<td>
+1
+171 659
+</td>
 </tr>
 <tr>
 <td>15</td>
@@ -19384,17 +19209,26 @@ _________________________
 <td>Зақымданудың ерекше ауыр және атипиялық түрлері бар мүгедектерді протездеу, сондай-ақ бастапқы протездеу, жаңа технологиялар бойынша дайындалатын протездік-ортопедиялық бұйымдарды енгізу, протездік-ортопедиялық бұйымдардың жаңа түрлеріне технологиялық процестерді әзірлеу</td>
 <td>Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлiгі</td>
 <td>«Әлеуметтік оңалтуды дамытудың ғылыми-практикалық орталығы» ШЖҚ РМК</td>
-<td>058 «Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту» 100 «Мүгедектерге протездік-ортопедиялық көмек көрсету бойынша методологиялық қамтамасыз ету, соның ішінде протездік-ортопедиялық көмек беру»</td>
-<td>180 080</td>
+<td>
+058 «Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту»
+100 «Мүгедектерге протездік-ортопедиялық көмек көрсету бойынша методологиялық қамтамасыз ету, соның ішінде протездік-ортопедиялық көмек беру»
+</td>
+<td>150 849</td>
 </tr>
 <tr>
 <td>26</td>
 <td>Есту қабілеті бұзылған балалардың кохлеарлық имплантациядан кейін есту-сөйлеуін оңалту</td>
 <td>Кохлеарлық имплантация (КИ) ауыр есту қабілетінің бұзушылығы (кереңділік) бар балаларды оңалтудың жалғыз тиімді әдістерінің бірі болып табылады. Бірақ КИ операция есту-сөйлеуге оңалтусыз (бейімдеусіз) мүлдем тиімсіз. Оны өткізу кохлеарлық импланты бар балаға есту және сөйлеуін дамыту үшін міндетті. Осыған орай, қызметті көрсету шеңберінде баланы дыбыстық сигналдарды (сөйлеу және сөйлемейтін) қабылдауға, оларды түсінуге және ауызша сөйлеуге дамыту үшін жаңа есту сезімдерін пайдалануға үйретуге жоспарлануда</td>
-<td>Қазақстан Республикасы Еңбек және халықты әлеуметтік қорғау министрлiгі</td>
+<td>
+Қазақстан Республикасы
+Еңбек және халықты әлеуметтік қорғау министрлiгі
+</td>
 <td>«Әлеуметтік оңалтуды дамытудың ғылыми-практикалық орталығы» ШЖҚ РМК</td>
-<td>058 «Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту» 102 «Есту қабілеті бұзылған балалардың кохлеарлық имплантациядан кейін есту-сөйлеуін оңалту»</td>
-<td>331 086</td>
+<td>
+058 «Республикалық деңгейде халықты әлеуметтік қорғау және көмек көрсету, сондай-ақ әлеуметтік қорғау жүйесін жетілдіру және инфрақұрылымды дамыту»
+102 «Есту қабілеті бұзылған балалардың кохлеарлық имплантациядан кейін есту-сөйлеуін оңалту»
+</td>
+<td>330 482</td>
 </tr>
 <tr>
 <td>27</td>
@@ -19490,21 +19324,24 @@ _________________________
 <td>Пилотсыз ғарыш аппараттарын ұшыру үшін жаңа буынның орта сыныбының ғарыштық мақсаттағы зымыраны негізінде «Бәйтерек» ғарыш зымыран кешенін құру</td>
 <td>Пилотсыз ғарыш бағдарламаларын орындау үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымырандарын ұшыру үшін қолданыстағы «Зенит – М» ғарыш зымыран кешенін жаңғырту</td>
 <td>Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігі</td>
-<td>«Бәйтерек» Қазақстан-Ресей бірлескен кәсіпорны» акционерлік қоғамы</td>
+<td>«Бәйтерек» Қазақстан-Ресей бірлескен кәсіпорны» АҚ</td>
 <td>011 «Пилотсыз ғарыш аппараттарын ұшыру үшін орта сыныптағы ғарыштық мақсаттағы жаңа буын зымыранының базасында «Бәйтерек» ғарыштық зымыран кешенін құру»</td>
-<td>19 146 952</td>
+<td>16 753 583</td>
 </tr>
 <tr>
 <td>34</td>
 <td>АКТ саласындағы экожүйенің стартапын дамыту</td>
-<td>Қатысушыларды технологиялық бизнес-инкубациялауға акселерациялау , қатысушылар үшін маркетингтік және өзге де іс-шаралар өткізу, «Астана Хаб» халықаралық технологиялық паркінің қатысушыларын дамытуды ынталандыру үшін консультациялық, ақпараттық, талдамалық, білім беру іс-шараларын өткізу, қатысушылардың жобаларын іске асыру үшін әлеуетті инвесторларды іздеу, «Астана Хаб» халықаралық технологиялық паркінде акселерациядан өтіп жатқан тұлғаларға тұрғын үй беру және тұру үшін жағдайлар жасау</td>
+<td>Қатысушыларды технологиялық бизнес-инкубациялауға акселерациялау, қатысушылар үшін маркетингтік және өзге де іс-шаралар өткізу, «Астана Хаб» халықаралық технологиялық паркінің қатысушыларын дамытуды ынталандыру үшін консультациялық, ақпараттық, талдамалық, білім беру іс-шараларын өткізу, қатысушылардың жобаларын іске асыру үшін әлеуетті инвесторларды іздеу, «Астана Хаб» халықаралық технологиялық паркінде акселерациядан өтіп жатқан тұлғаларға тұрғын үй беру және тұру үшін жағдайлар жасау</td>
 <td>Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігі</td>
 <td>«Astana Hub» Халықаралық ІТ-стартаптар технопаркі Корпоративтік қоры</td>
 <td>
 205 «Қазақстан Республикасының инновациялық дамуын қамтамасыз ету»
 103 ««Астана Хаб» ІТ-стартаптардың халықаралық технопаркі негізінде инновациялық экожүйе құру»
 </td>
-<td>4 934 924</td>
+<td>
+4
+824 596
+</td>
 </tr>
 <tr>
 <td>35</td>
@@ -19526,12 +19363,9 @@ _________________________
 </tr>
 <tr>
 <td>37</td>
-<td>Мектепке дейінгі білім беру ұйымдары үшін «Өзін-өзі тану» пәні бойынша адамгершілік-рухани білім беру бойынша оқу-әдістемелік құралдар мен электронды қосымшаларды әзірлеу жөніндегі қызметтер</td>
-<td>Мектепалды даярлық сыныбына арналған оқу-әдістемелік кешен оқушылардың рухани тәрбие алуына, азаматтық, патриоттық қасиеттердің, салауатты өмір салты қағидаларының қалыптасуына, тұлғаның дамуына, кәсіптік тұрғыдан өзін-өзі анықтауға, шығармашылық еңбекке, қабілеттерді іске асыруға жағдай жасауға, ұлттық білім беру жүйесінде рухани-адамгершілік негіздің рөлі мен мәнін күшейту аспектісінде оқушының таным және шығармашылыққа деген қызығушылығын дамытуға бағытталған</td>
-<td>Қазақстан Республикасы Оқу-ағарту министрлігі</td>
-<td>«Адамның үйлесімді дамуы ұлттық институты» КEАҚ</td>
-<td>003 «Мектепке дейінгі тәрбие мен білім беруге қолжетімділікті қамтамасыз ету» 100 «Мектепке дейінгі білім беру саласындағы әдіснамалық қамтамасыз ету»</td>
-<td>10 240</td>
+<td>Алып тасталды – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>38</td>
@@ -19548,8 +19382,11 @@ _________________________
 <td>Адамгершілік-рухани білім беру бағдарламасын интеграциялау негізінде білім беру қызметтерін көрсету. Жалпы адами құндылықтарға бағдарлана отырып, интеграцияланған оқу бағдарламаларын іске асыру</td>
 <td>Қазақстан Республикасы Оқу-ағарту министрлігі</td>
 <td>«Бөбек» ұлттық ғылыми-тәжірибелік, білім беру және сауықтыру орталығы» РМҚК</td>
-<td>004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету» 100 «Балаларды республикалық білім беру ұйымдарында оқыту және тәрбиелеу»</td>
-<td>994 600</td>
+<td>
+004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету»
+100 «Балаларды республикалық білім беру ұйымдарында оқыту және тәрбиелеу»
+</td>
+<td>942 660</td>
 </tr>
 <tr>
 <td>40</td>
@@ -19565,12 +19402,9 @@ _________________________
 </tr>
 <tr>
 <td>41</td>
-<td>«Өзін-өзі тану» пәні бойынша адамгершілік-рухани білім беру жөніндегі электронды қосымшалар мен әдістемелік құралдарды әзірлеу жөніндегі қызметтер</td>
-<td>«Өзін-өзі тану» рухани-адамгершілік білім беру бойынша бастауыш мектепке арналған дидактикалық материалдар жинағы, орта мектептің сабақтан тыс қызметінің бағдарламасы, жоғарғы сынып оқушыларына арналған интерактивті тапсырмалар жинағы оқушылардың рухани тәрбие алуына, азаматтық, патриоттық қасиеттердің, салауатты өмір салты қағидаларының қалыптасуына, тұлғаның дамуына, кәсіптік тұрғыдан өзін-өзі анықтауға, шығармашылық еңбекке, қабілеттерді іске асыруға жағдай жасауға, ұлттық білім беру жүйесінде рухани-адамгершілік негіздің рөлі мен мәнін күшейту аспектісінде оқушының таным және шығармашылыққа деген қызығушылығын дамытуға бағытталған</td>
-<td>Қазақстан Республикасы Оқу-ағарту министрлігі</td>
-<td>«Адамның үйлесімді дамуы ұлттық институты» КЕАҚ</td>
-<td>004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету» 102 «Орта білім беру саласындағы әдіснамалық қамтамасыз ету»</td>
-<td>21 149</td>
+<td>Алып тасталды – ҚР Үкіметінің 19.12.2022 № 1025 (01.01.2022 бастап қолданысқа енгiзiледi) қаулысымен</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>42</td>
@@ -19596,11 +19430,19 @@ _________________________
 <tr>
 <td>44</td>
 <td>Балаларды қосымша дамыту жөніндегі республикалық маңызы бар іс-шараларды ұйымдастыру және өткізу</td>
-<td>Республикалық және халықаралық маңызы бар мектептен тыс іс-шараларды ұйымдастыру және өткізу, дарынды балаларды анықтау; республикалық семинарларды, курстарды өткізу; ғылыми-тәжірибелік конференцияларды өткізу. Халықаралық байланыстар мен ынтымақтастықты дамыту, халықаралық фестивальдарға, байқауларға, слеттарға, көрмелерге, балалар мен ересектердің шығармашылық кездесулеріне қатысу. Қосымша білім берудің негізгі бағыттары бойынша: көркемдік-эстетикалық, музыкалық, ғылыми-техникалық, экологиялық-биологиялық, туристік-өлкетану, әскери-патриоттық, әлеуметтік – педагогикалық, білім беру-сауықтыру зерттеу жобаларының республикалық байқаулары шығармашылық құзыреттілікте, үздіксіз білім және тәрбие беруде, кәсіби өзін-өзі анықтауда тұлғаның бәсекелік басымдылықтарын қалыптастыру мақсатында өткізіледі. Кәсіби байқаулар мен конкурстарды ұйымдастыруға қатысу, балаларға қосымша білім беру жүйесінің даму мәселелері бойынша семинарларды және ғылыми-тәжірибелік конференцияларды өткізу</td>
+<td>
+Республикалық және халықаралық маңызы бар мектептен тыс іс-шараларды ұйымдастыру және өткізу, дарынды балаларды анықтау; республикалық семинарларды, курстарды өткізу; ғылыми-тәжірибелік конференцияларды өткізу.
+Халықаралық байланыстар мен ынтымақтастықты дамыту, халықаралық фестивальдарға, байқауларға, слеттарға, көрмелерге, балалар мен ересектердің шығармашылық кездесулеріне қатысу.
+Қосымша білім берудің негізгі бағыттары бойынша: көркемдік-эстетикалық, музыкалық, ғылыми-техникалық, экологиялық-биологиялық, туристік-өлкетану, әскери-патриоттық, әлеуметтік – педагогикалық, білім беру-сауықтыру зерттеу жобаларының республикалық байқаулары шығармашылық құзыреттілікте, үздіксіз білім және тәрбие беруде, кәсіби өзін-өзі анықтауда тұлғаның бәсекелік басымдылықтарын қалыптастыру мақсатында өткізіледі.
+Кәсіби байқаулар мен конкурстарды ұйымдастыруға қатысу, балаларға қосымша білім беру жүйесінің даму мәселелері бойынша семинарларды және ғылыми-тәжірибелік конференцияларды өткізу
+</td>
 <td>Қазақстан Республикасы Оқу-ағарту министрлігі</td>
 <td>«Республикалық қосымша білім беру оқу-әдістемелік орталығы» РМҚК</td>
-<td>004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету» 103 «Республикалық мектеп олимпиадаларын, конкурстар, мектептен тыс республикалық маңызы бар іс-шаралар өткізу»</td>
-<td>90 408</td>
+<td>
+004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету»
+103 «Республикалық мектеп олимпиадаларын, конкурстар, мектептен тыс республикалық маңызы бар іс-шаралар өткізу»
+</td>
+<td>73 599</td>
 </tr>
 <tr>
 <td>45</td>
@@ -19623,8 +19465,11 @@ _________________________
 <td>«Өзін-өзі тану» рухани-адамгершілік білім беру бағдарламасы бойынша пилоттық білім беру ұйымдарының қызметін ғылыми-әдістемелік сүйемелдеу. Қазақстан Республикасы білім беру жүйесінде «Өзін-өзі тану» пәнін оқыту жағдайына мониторинг жүргізу. Рухани-адамгершілік білім беру бағдарламасы бойынша интернет-порталды ұйымдастырушылық-техникалық қолдау; мазмұндық қамтамасыз ету, бейнематериалдарды дайындау</td>
 <td>Қазақстан Республикасы Оқу-ағарту министрлігі</td>
 <td>«Адамның үйлесімді дамуы ұлттық институты» КЕАҚ</td>
-<td>004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету» 104 «Балалар мен оқушы жастарға адамгершілік-рухани білім беру»</td>
-<td>1 010 618</td>
+<td>
+004 «Сапалы мектеп біліміне қолжетімділікті қамтамасыз ету»
+104 «Балалар мен оқушы жастарға адамгершілік-рухани білім беру»
+</td>
+<td>524 286</td>
 </tr>
 <tr>
 <td>47</td>
@@ -19769,9 +19614,9 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>ҰБТ, ҰБТ ТжКББ және КТ үшін магистратураға тест тапсырмаларының базасын әзірлеу және қалыптастыру, сондай-ақ ҰБТ өткізуге байланысты іс-шараларды қамтамасыз ету және сүйемелдеу (оның ішінде ҰТО қызметін ұйымдастыру)</td>
 <td>
 Ұлттық бірыңғай тестілеуді өткізуге және тест тапсырмаларының базасын қалыптастыруға байланысты ұйымдастыру іс-шаралары:
-- ағымдағы жылғы, өткен жылдардағы орта білім беру ұйымдары түлектерінің, техникалық және кәсіптік немесе орта білімнен кейінгі білім беру ұйымдары түлектерінің, шетелде оқушылардың халықаралық алмасу желісі бойынша білім алған орта білім беру ұйымдары түлектерінің, сондай-ақ шетелде оқу орындарын бітірген Қазақстан Республикасының азаматтары болып табылмайтын ұлты қазақ адамдардың ҰБТ-ның тест тапсырмаларын әзірлеу, сараптау, түзету және апробациялау бойынша жұмысты жүзеге асыру;
-- қысқартылған оқыту мерзімдерін көздейтін жоғары білімнің білім беру бағдарламалары бойынша оқуға түсетін техникалық және кәсіптік немесе орта білімнен кейінгі білім беретін түлектердің ҰБТ тест тапсырмаларын әзірлеу, сараптау, апробациялау және түзету бойынша жұмыстарды жүзеге асыру;
-- Ұлттық бірыңғай тестілеуді ұйымдастыру және өткізу.
+ағымдағы жылғы, өткен жылдардағы орта білім беру ұйымдары түлектерінің, техникалық және кәсіптік немесе орта білімнен кейінгі білім беру ұйымдары түлектерінің, шетелде оқушылардың халықаралық алмасу желісі бойынша білім алған орта білім беру ұйымдары түлектерінің, сондай-ақ шетелде оқу орындарын бітірген Қазақстан Республикасының азаматтары болып табылмайтын ұлты қазақ адамдардың ҰБТ-ның тест тапсырмаларын әзірлеу, сараптау, түзету және апробациялау бойынша жұмысты жүзеге асыру;
+қысқартылған оқыту мерзімдерін көздейтін жоғары білімнің білім беру бағдарламалары бойынша оқуға түсетін техникалық және кәсіптік немесе орта білімнен кейінгі білім беретін түлектердің ҰБТ тест тапсырмаларын әзірлеу, сараптау, апробациялау және түзету бойынша жұмыстарды жүзеге асыру;
+Ұлттық бірыңғай тестілеуді ұйымдастыру және өткізу.
 Білім беру бағдарламаларының топтары бойынша кешенді тестілеу шет тілі бойынша тесттен, білім беру бағдарламалары тобының бейіні бойынша тесттен, оқуға дайындығын анықтау тестінен тұрады.
 Кешенді тестілеудің тест тапсырмаларын әзірлеу, сараптау, апробациялау және түзету бойынша жұмыстарды жүзеге асыру.
 </td>
@@ -19781,7 +19626,10 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 204 «Жоғары және жоғары оқу орнынан кейінгі білімі бар кадрлармен қамтамасыз ету»
 109 «Білім сапасына сырттай бағалау жүргізу»
 </td>
-<td>2 069 222</td>
+<td>
+1
+919 345
+</td>
 </tr>
 <tr>
 <td>60</td>
@@ -19816,17 +19664,14 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <tr>
 <td>63</td>
 <td>Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамыту саласында қызметтер көрсету</td>
-<td>
-Қазақстан Республикасында тіл саясатын іске асырудың
-2020 - 2025 жылдарға арналған мемлекеттік бағдарламасын іске асыру жөніндегі іс-шараларды жүргізу
-</td>
+<td>Қазақстан Республикасында тіл саясатын іске асырудың 2020 – 2025 жылдарға арналған мемлекеттік бағдарламасын іске асыру жөніндегі іс-шараларды жүргізу</td>
 <td>Қазақстан Республикасы Ғылым және жоғары білім министрлігі</td>
 <td>«Шайсұлтан Шаяхметов атындағы «Тіл-Қазына» ұлттық ғылыми-практикалық орталығы» КЕАҚ</td>
 <td>
 230 «Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамыту»
 100 «Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамытуды қамтамасыз ету»
 </td>
-<td>591 216</td>
+<td>539 036</td>
 </tr>
 <tr>
 <td>64</td>
@@ -19868,13 +19713,31 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>51 605</td>
 </tr>
 <tr>
+<td>67-1</td>
+<td>Денсаулық сақтау саласында 2022 жылға әзірленуі/қайта қаралуы тиіс клиникалық хаттамалардың сапасын сараптау</td>
+<td>Халықаралық клиникалық нұсқаулықтар негізінде дайындалған/қайта қаралған клиникалық хаттамаларға сараптамалық бағалау жүргізу</td>
+<td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
+<td>«Салидат Қайырбекова атындағы Ұлттық ғылыми денсаулық сақтауды дамыту орталығы» ШЖҚ РМК</td>
+<td>
+001 «Денсаулық сақтау саласындағы мемлекеттік саясатты қалыптастыру»
+103 «Әлеуметтанушылық, талдамалық зерттеулер жүргізу және консалтингтік қызметтер көрсету»
+</td>
+<td>47 381</td>
+</tr>
+<tr>
 <td>68</td>
 <td>Денсаулық сақтау саласындағы кейбір бағдарламалық кешендер мен электрондық тіркелімдерді (ақпараттық жүйелерді) сүйемелдеу, Қазақстан Республикасының ұлттық телемедицина желісін пайдалануды қамтамасыз ету жөніндегі көрсетілетін қызметтер</td>
 <td>Денсаулық сақтау саласындағы бағдарламалық кешендерді (ақпараттық жүйелерді) сүйемелдеу</td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Республикалық электрондық денсаулық сақтау орталығы» ШЖҚ РМК</td>
-<td>001 «Денсаулық сақтау саласындағы мемлекеттік саясатты қалыптастыру» 104 «Ақпараттық жүйелердің жұмыс істеуін қамтамасыз ету және мемлекеттік органды ақпараттық-техникалық қамтамасыз ету»</td>
-<td>1 218 105</td>
+<td>
+001 «Денсаулық сақтау саласындағы мемлекеттік саясатты қалыптастыру»
+104 «Ақпараттық жүйелердің жұмыс істеуін қамтамасыз ету және мемлекеттік органды ақпараттық-техникалық қамтамасыз ету»
+</td>
+<td>
+1
+118 525
+</td>
 </tr>
 <tr>
 <td>69</td>
@@ -19926,7 +19789,10 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>6 509 041</td>
+<td>
+6
+413 194
+</td>
 </tr>
 <tr>
 <td>73</td>
@@ -19979,7 +19845,7 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 6. Медициналық көмек көрсету кезінде инфекциялық бақылау инфекцияларының профилактикасы бағдарламаларының деректерін жинау, бағалау және мониторингтеу жүйесін өнеркәсіптік іске асыру.
 7. Республикалық семинарлар, дөңгелек үстелдер, вебинарлар, тренингтер өткізу және жұмыс орындарында оқыту әдісімен Санитариялық-эпидемиологиялық бақылау комитеті мен ынтымақтасушы министрліктердің (ведомстволардың) өңірлік мамандарының кадрлық әлеуетін арттыру.
 8. Ғылыми негіздеме мен әлемдік тәжірибені ескере отырып, санитариялық қағидаларды әзірлеу (қайта қарау). Зертханалық зерттеулердің көлемін, тізбесі мен еселігін айқындайтын санитариялық-эпидемиологиялық сараптама жүргізу қағидалары мен тәртібін әзірлеу.
-9. Санитариялық-эпидемиологиялық салауаттылық мәселелері бойынша ұйымдастырушылық-әдістемелік, практикалық көмек көрсету, эпидемиологиялық тексерулер жүргізу.
+9. Санитариялық-эпидемиологиялық салауаттылық мәселелері бойынша ұйымдастырушылық-әдістемелік, практикалық көмек көрсету, эпидемиологиялық тексерулер жүргізу
 </td>
 <td>Қазақстан Республикасының Денсаулық сақтау министрлігі</td>
 <td>«Қоғамдық денсаулық сақтау ұлттық орталығы» ШЖҚ РМК</td>
@@ -19987,7 +19853,7 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>825 429</td>
+<td>822 023</td>
 </tr>
 <tr>
 <td></td>
@@ -20094,8 +19960,11 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>Қазақтың белгілі ақынын халықаралық кеңістікте танымал ету</td>
 <td>Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
 <td>«Қазқайтажаңарту» ШЖҚ РМК</td>
-<td>033 «Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру» 102 «Республикалық бюджет қаражаты есебінен мәдениет объектілерін салу, реконструкциялау»</td>
-<td>157 567</td>
+<td>
+033 «Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру»
+102 «Республикалық бюджет қаражаты есебінен мәдениет объектілерін салу, реконструкциялау»
+</td>
+<td>145 583</td>
 </tr>
 <tr>
 <td>83</td>
@@ -20109,14 +19978,20 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <tr>
 <td>84</td>
 <td>Мемлекет басшысының қатысуымен өтетін іс-шаралар</td>
-<td>Қазақстан Республикасының мемлекеттік, ұлттық, кәсіби және басқа да мерекелеріне арналған мерекелік іс-шаралар мен салтанатты концерттерді өткізу, Қазақстан Республикасы Тұңғыш Президенті– Елбасының, Мемлекет басшысы мен Қазақстан Республикасы Премьер-Министрінің шетелдік делегациялармен ресми кездесулері шеңберінде концерттік бағдарламалар ұйымдастыру, Тәуелсіз Мемлекеттер Достастығы, Еуразиялық экономикалық одақ, Шанхай ынтымақтастық ұйымы, ТҮРКСОЙ, ЮНЕСКО және ИСЕСКО іс-шараларына қатысуды қамтамасыз ету, Шыңжаң-Ұйғыр автономиялық ауданында (ҚХР) шығармашылық ұжымдар мен орындаушылардың қатысуын қамтамасыз ету, қазақстандық орындаушылардың халықаралық конкурстарға қатысуын, әлемнің үздік залдарында жас дарындар мен жетекші орындаушылардың өнер көрсетуін қамтамасыз ету, халықаралық, республикалық фестивальдар, конкурстар, республикалық ақындар айтысы, «Ұлағатты ұрпақ» республикалық мәдени-білім беру жобасы, халықаралық симпозиумды өткізу, Роза Бағланованың 100 жылдығы аясында мерейтойлық іс-шаралар, Роза Бағланованың 100 жылдығына арналған Париждегі ЮНЕСКО штаб-пәтерінде концерт ұйымдастыру, «Ұлттық домбыра күніне» арналған концерттік бағдарламаны, Қазақстандағы және шетелдегі мәдениет күндерін өткізу, Қазақстанда шетелдік шығармашылық ұжымдар мен жекелеген орындаушылардың сондай-ақ Корея Республикасының шығармашылық ұжымдарының гастрольдері мен өнер көрсетуін, М. Әуезовтің 125 жылдығына арналған мерекелік концертті, сондай-ақ Әлемдік және дәстүрлі діндер көшбасшыларының VII съезіне қатысушыларға арналған концерттерді, Азиядағы өзара іс-қимыл және сенім шаралары жөніндегі кеңестің (АӨСШК) 6-саммитіне қатысушылары үшін өнер шеберлерінің концертін ұйымдастыру.</td>
+<td>
+Қазақстан Республикасының мемлекеттік, ұлттық, кәсіби және басқа да мерекелеріне арналған мерекелік іс-шаралар мен салтанатты концерттерді өткізу, Қазақстан Республикасы Тұңғыш Президенті – Елбасының, Мемлекет басшысы мен Қазақстан Республикасы Премьер-Министрінің шетелдік делегациялармен ресми кездесулері шеңберінде концерттік бағдарламалар ұйымдастыру, Тәуелсіз Мемлекеттер Достастығы, Еуразиялық экономикалық одақ, Шанхай ынтымақтастық ұйымы, ТҮРКСОЙ, ЮНЕСКО және ИСЕСКО іс-шараларына қатысуды қамтамасыз ету, Шыңжаң-Ұйғыр автономиялық ауданында (ҚХР) шығармашылық ұжымдар мен орындаушылардың қатысуын қамтамасыз ету, қазақстандық орындаушылардың халықаралық конкурстарға қатысуын, әлемнің үздік залдарында жас дарындар мен жетекші орындаушылардың өнер көрсетуін қамтамасыз ету, халықаралық, республикалық фестивальдар, конкурстар, республикалық ақындар айтысы, «Ұлағатты ұрпақ» республикалық мәдени-білім беру жобасы, халықаралық симпозиумды өткізу, Роза Бағланованың 100 жылдығы аясында мерейтойлық іс-шаралар, Роза Бағланованың 100 жылдығына арналған Париждегі ЮНЕСКО штаб-пәтерінде концерт ұйымдастыру, «Ұлттық домбыра күніне» арналған концерттік бағдарламаны, Қазақстандағы және шетелдегі мәдениет күндерін өткізу, Қазақстанда шетелдік шығармашылық ұжымдар мен жекелеген орындаушылардың сондай-ақ Корея Республикасының шығармашылық ұжымдарының гастрольдері мен өнер көрсетуін,
+М. Әуезовтің 125 жылдығына арналған мерекелік концертті, сондай-ақ Әлемдік және дәстүрлі діндер көшбасшыларының VII съезіне қатысушыларға арналған концерттерді, Азиядағы өзара іс-қимыл және сенім шаралары жөніндегі кеңестің (АӨСШК) 6-саммитіне қатысушылары үшін өнер шеберлерінің концертін ұйымдастыру
+</td>
 <td>Қазақстан Республикасы Мәдениет және спорт министрлігі</td>
 <td>«Қазақ әуендері» АҚ</td>
 <td>
 033 «Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру»
 105 «Әлеуметтік маңызы бар және мәдени іс-шаралар өткізу»
 </td>
-<td>3 049 568</td>
+<td>
+2
+745 370
+</td>
 </tr>
 <tr>
 <td>85</td>
@@ -20206,7 +20081,10 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 036 «Атомдық және энергетикалық жобаларды дамыту»
 101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»
 </td>
-<td>1 455 249</td>
+<td>
+1
+428 018
+</td>
 </tr>
 <tr>
 <td>93</td>
@@ -20307,8 +20185,14 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>Республикалық деңгейдегі автомобиль жолдарын дамыту</td>
 <td>Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
 <td>«ҚазАвтоЖол» ұлттық компаниясы» АҚ</td>
-<td>003 «Республикалық деңгейде автомобиль жолдарын дамыту» 005 «Ішкі қаражат көздері есебінен»</td>
-<td>5 597 663</td>
+<td>
+003 «Республикалық деңгейде автомобиль жолдарын дамыту»
+005 «Ішкі қаражат көздері есебінен»
+</td>
+<td>
+2
+030 610
+</td>
 </tr>
 <tr>
 <td>103</td>
@@ -20316,8 +20200,11 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>Республикалық деңгейдегі автомобиль жолдарын дамыту</td>
 <td>Қазақстан Республикасы Индустрия жəне инфрақұрылымдық даму министрлігі</td>
 <td>«ҚазАвтоЖол» ұлттық компаниясы» АҚ</td>
-<td>003 «Республикалық деңгейде автомобиль жолдарын дамыту» 032 «Қазақстан Республикасының Ұлттық қорынан бөлінетін нысаналы трансферт есебінен»</td>
-<td>42 558 248</td>
+<td>
+003 «Республикалық деңгейде автомобиль жолдарын дамыту»
+032 «Қазақстан Республикасының Ұлттық қорынан бөлінетін нысаналы трансферт есебінен»
+</td>
+<td>42 607 093</td>
 </tr>
 <tr>
 <td>104</td>
@@ -20413,9 +20300,9 @@ TIMSS-бастауыш сыныптан негізгі мектепке көшу
 <td>Мемлекеттік тапсырманы орындау шеңберінде халықаралық және республикалық маңызы бар жалпыға ортақ пайдаланылатын автомобиль жолдарын, мемлекеттік шекара арқылы автомобиль өткізу пункттерін, шекара бөлімдерін (бөлімшелерін), оның ішінде мемлекеттік тапсырманы орындау шеңберінде не тартылған инвестициялар есебінен сенімгерлік басқаруға берілген жолдарды салуды, реконструкциялауды, жөндеуді және күтіп-ұстауды ұйымдастыру бойынша мемлекеттік қызметтер көрсету</td>
 <td>Автомобиль көлігімен транзиттік жүк тасымалдарының көлемін ұлғайту мақсатында, өткізу пункттерін жаңғырту жоспарланып отыр</td>
 <td>Қазақстан Республикасы Индустрия және инфрақұрылымдық даму министрлігі</td>
-<td>«ҚазАвтоЖол» ұлттық компаниясы» АҚ</td>
+<td>ҚазАвтоЖол» Ұлттық компаниясы» АҚ</td>
 <td>240 «Қазақстан Республикасының Мемлекеттiк шекарасы арқылы өткізу пункттерін салу және реконструкциялау»</td>
-<td>326 722</td>
+<td>294 050</td>
 </tr>
 <tr>
 <td>113</td>
