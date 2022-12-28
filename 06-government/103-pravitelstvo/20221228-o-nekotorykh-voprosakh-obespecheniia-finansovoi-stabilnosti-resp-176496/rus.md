@@ -13,6 +13,11 @@ approval_date: 2022-12-28
 version_date: 2022-12-28
 registry_number: '176496'
 source: https://zan.gov.kz/client/#!/doc/176496/rus/28.12.2022
+repealed_on: 2023-02-25
+repealed_by:
+  code: '176496'
+  title: О некоторых вопросах обеспечения финансовой стабильности Республики Казахстан
+  link: https://zan.gov.kz/client/#!/doc/176496/rus
 ---
 
 # О некоторых вопросах обеспечения финансовой стабильности Республики Казахстан
