@@ -12,15 +12,15 @@ approved_on: 2008-04-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2022-12-30
-  rus: 2022-12-30
+  kaz: 2023-01-01
+  rus: 2023-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/30.12.2022
-  rus: https://zan.gov.kz/client/#!/doc/39146/rus/30.12.2022
+  kaz: https://zan.gov.kz/client/#!/doc/39146/kaz/01.01.2023
+  rus: https://zan.gov.kz/client/#!/doc/39146/rus/01.01.2023
 caused_by:
-  code: '177536'
-  requisite: Постановление Правительства Республики Казахстан от 30 декабря 2022 года № 1132
+  code: '173351'
+  requisite: Постановление Правительства Республики Казахстан от 19 октября 2022 года № 834
   title:
-    rus: О некоторых вопросах товарищества с ограниченной ответственностью «Nur Zholy Customs Service»
-    kaz: «Nur Zholy Customs Service» жауапкершілігі шектеулі серіктестігінің кейбір мәселелері туралы
-  link: https://zan.gov.kz/client/#!/doc/177536/rus
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/173351/rus
