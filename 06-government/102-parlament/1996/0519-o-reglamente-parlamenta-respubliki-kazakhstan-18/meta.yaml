@@ -11,15 +11,15 @@ approved_on: 1996-05-19
 approved_by:
 - '102000000000'
 version_date:
-  kaz: 2012-06-22
-  rus: 2012-06-22
+  kaz: 2023-01-01
+  rus: 2023-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/18/kaz/22.06.2012
-  rus: https://zan.gov.kz/client/#!/doc/18/rus/22.06.2012
+  kaz: https://zan.gov.kz/client/#!/doc/18/kaz/01.01.2023
+  rus: https://zan.gov.kz/client/#!/doc/18/rus/01.01.2023
 caused_by:
-  code: '66318'
-  requisite: Постановление Парламента Республики Казахстан от 22 июня 2012 года № 4-V
+  code: '176096'
+  requisite: Постановление Парламента Республики Казахстан от 19 декабря 2022 года № 19-VII ПРК
   title:
     rus: О внесении изменений и дополнений в Регламент Парламента Республики Казахстан
     kaz: Қазақстан Республикасы Парламентінің Регламентіне өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/66318/rus
+  link: https://zan.gov.kz/client/#!/doc/176096/rus
