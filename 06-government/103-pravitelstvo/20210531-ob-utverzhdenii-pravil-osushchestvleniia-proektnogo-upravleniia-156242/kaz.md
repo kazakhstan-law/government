@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/156242/kaz/06.10.2022
+source: https://zan.gov.kz/client/#!/doc/156242/kaz/17.03.2023
 ---
 
 # Жобалық басқаруды жүзеге асыру қағидаларын бекіту туралы
