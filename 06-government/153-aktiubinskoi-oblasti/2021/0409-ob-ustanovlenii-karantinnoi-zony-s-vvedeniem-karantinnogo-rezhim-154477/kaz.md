@@ -30,1977 +30,2733 @@
 
 # Жатаған у кекіре бойынша карантиндік режимді енгізе отырып карантинді аймақ белгіленетін шаруашылық жүргізуші субъектілері
 
-> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы әкімдігінің 15.04.2022 № 110 қаулысымен (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі).*
+> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы әкімдігінің 15.04.2022 № 110 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 29.03.2023 № 80 (оның алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
-<td colspan="2">№</td>
-<td colspan="5">Ақтөбе облысы аумағындағы шаруашылық жүргізуші субъектілерінің атауы</td>
-<td>Залалданған алаңы, гектар</td>
-<td>Өңдеуге арналған алаңы, гектар</td>
+<td rowspan="2">№</td>
+<td colspan="3" rowspan="2">Ақтөбе облысы аумағындағы шаруашылық жүргізуші субъектілерінің атауы</td>
+<td colspan="2">Залалданған алаңы, гектар</td>
+<td colspan="2">Өңдеуге арналған алаңы, гектар</td>
 </tr>
 <tr>
-<td colspan="9">Әйтеке би ауданы</td>
+<td>2022 жыл</td>
+<td>2023 жыл</td>
+<td>2022 жыл</td>
+<td>2023 жыл</td>
 </tr>
 <tr>
-<td colspan="7">Ақтасты ауылдық округі</td>
+<td colspan="8">Әйтеке би ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Ақтасты ауылдық округі</td>
 <td>6809</td>
+<td>6 809</td>
+<td>127</td>
 <td>127</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="5">«Әсем-Наз» өндірістік кооперативі</td>
+<td>1</td>
+<td colspan="3">«Әсем-Наз» өндірістік кооперативі</td>
 <td>1534</td>
+<td>1 534</td>
+<td>36</td>
 <td>36</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="5">«Ақтөбе-Нұрлан» жауапкершілігі шектеулі серіктестігі</td>
+<td>2</td>
+<td colspan="3">«Ақтөбе-Нұрлан» жауапкершілігі шектеулі серіктестігі</td>
 <td>5275</td>
+<td>5 275</td>
+<td>91</td>
 <td>91</td>
 </tr>
 <tr>
-<td colspan="7">Әйке ауылдық округі</td>
+<td colspan="4">Әйке ауылдық округі</td>
 <td>2649,3</td>
+<td>2 389</td>
 <td>161,1</td>
+<td>153,3</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="5">«Шыңғыс» шаруа қожалығы</td>
+<td>3</td>
+<td colspan="3">«Шыңғыс» шаруа қожалығы</td>
 <td>763</td>
+<td>763</td>
+<td>5</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="5">«Алға» шаруа қожалығы</td>
+<td>4</td>
+<td colspan="3">«Алға» шаруа қожалығы</td>
 <td>1106</td>
+<td>1 106</td>
+<td>3</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="5">«Дәулет» шаруа қожалығы</td>
+<td>5</td>
+<td colspan="3">«Дәулет» шаруа қожалығы</td>
 <td>376</td>
+<td>376</td>
+<td>1,3</td>
 <td>1,3</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="5">«Азамат» шаруа қожалығы</td>
+<td>6</td>
+<td colspan="3">«Азамат» шаруа қожалығы</td>
 <td>253</td>
+<td>0</td>
 <td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>151,3</td>
+<td>144</td>
 <td>151,3</td>
+<td>144</td>
 </tr>
 <tr>
-<td colspan="7">Жамбыл ауылдық округі</td>
+<td colspan="4">Жамбыл ауылдық округі</td>
 <td>3280,5</td>
+<td>3 264</td>
 <td>45,4</td>
+<td>28,9</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="5">«Жамбыл-С» жауапкершілігі шектеулі серіктестігі</td>
+<td>7</td>
+<td colspan="3">«Жамбыл-С» жауапкершілігі шектеулі серіктестігі</td>
 <td>1164</td>
+<td>1 164</td>
+<td>6,4</td>
 <td>6,4</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="5">«Талмұринд» шаруа қожалығы</td>
+<td>8</td>
+<td colspan="3">«Талмұринд» шаруа қожалығы</td>
 <td>306</td>
+<td>306</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
-<td colspan="5">«Ай-ауылым» жауапкершілігі шектеулі серіктестігі</td>
+<td>9</td>
+<td colspan="3">«Ай-ауылым» жауапкершілігі шектеулі серіктестігі</td>
 <td>1794</td>
+<td>1 794</td>
+<td>21,5</td>
 <td>21,5</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>16,5</td>
+<td>0</td>
 <td>16,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="7">Комсомол ауылдық округі</td>
+<td colspan="4">Комсомол ауылдық округі</td>
 <td>19757,6</td>
+<td>18 523,6</td>
 <td>131,2</td>
+<td>130,366</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td colspan="5">«Щербаков» жауапкершілігі шектеулі серіктестігі</td>
+<td>10</td>
+<td colspan="3">«Щербаков» жауапкершілігі шектеулі серіктестігі</td>
 <td>5162</td>
+<td>0</td>
 <td>13,7</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td colspan="5">«Бұлақ» шаруа қожалығы</td>
+<td>11</td>
+<td colspan="3">«Ақтөбе-Айдар»жауапкершілігі шектеулі серіктестігі</td>
+<td>0</td>
+<td>2 090</td>
+<td>0</td>
+<td>5,2</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Бұлақ» шаруа қожалығы</td>
 <td>1251</td>
+<td>4 323</td>
 <td>3,7</td>
+<td>12,2</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td colspan="5">«Бұлақ-Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>13</td>
+<td colspan="3">«Бұлақ-Агро» жауапкершілігі шектеулі серіктестігі</td>
 <td>3205</td>
+<td>3 205</td>
+<td>33,6</td>
 <td>33,6</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td colspan="5">«Жаннұр» шаруа қожалығы</td>
+<td>14</td>
+<td colspan="3">«Жаннұр» шаруа қожалығы</td>
 <td>400</td>
+<td>400</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
-<td colspan="5">«Арман» шаруа қожалығы</td>
+<td>15</td>
+<td colspan="3">«Арман» шаруа қожалығы</td>
 <td>543</td>
+<td>543</td>
+<td>0,3</td>
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
-<td colspan="5">«Ақмарал» шаруа қожалығы</td>
+<td>16</td>
+<td colspan="3">«Ақмарал» шаруа қожалығы</td>
 <td>352</td>
+<td>0</td>
 <td>0,1</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">16</td>
-<td colspan="5">«Құлтас»шаруа қожалығы</td>
+<td>17</td>
+<td colspan="3">«Құлтас»шаруа қожалығы</td>
 <td>403</td>
+<td>0</td>
 <td>1,8</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">17</td>
-<td colspan="5">«Комсомол» жауапкершілігі шектеулі серіктестігі</td>
+<td>18</td>
+<td colspan="3">«Комсомол» жауапкершілігі шектеулі серіктестігі</td>
 <td>4154</td>
+<td>4 154</td>
+<td>31</td>
 <td>31</td>
 </tr>
 <tr>
-<td colspan="2">18</td>
-<td colspan="5">«Еңбек-Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>19</td>
+<td colspan="3">«Еңбек-Агро» жауапкершілігі шектеулі серіктестігі</td>
 <td>1581</td>
+<td>1 581</td>
+<td>39,2</td>
 <td>39,2</td>
 </tr>
 <tr>
-<td colspan="2">19</td>
-<td colspan="5">«Қараша» шаруа қожалығы</td>
+<td>20</td>
+<td colspan="3">«Қараша» шаруа қожалығы</td>
 <td>150</td>
+<td>0</td>
 <td>0,1</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">20</td>
-<td colspan="5">«Любаша» шаруа қожалығы</td>
+<td>21</td>
+<td colspan="3">«Любаша» шаруа қожалығы</td>
 <td>282</td>
+<td>0</td>
 <td>0,5</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">21</td>
-<td colspan="5">«Тереңсай» шаруа қожалығы</td>
+<td>22</td>
+<td colspan="3">«Тереңсай» шаруа қожалығы</td>
+<td>150</td>
 <td>150</td>
 <td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="5">«Рассвет» шаруа қожалығы</td>
-<td>49,2</td>
 <td>0,5</td>
 </tr>
 <tr>
-<td colspan="2">23</td>
-<td colspan="5">«Ақ-тілек» шаруа қожалығы</td>
+<td>23</td>
+<td colspan="3">«Рассвет» шаруа қожалығы</td>
+<td>49,2</td>
+<td>0</td>
+<td>0,5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Ақ-тілек» шаруа қожалығы</td>
 <td>510</td>
+<td>510</td>
+<td>2,3</td>
 <td>2,3</td>
 </tr>
 <tr>
-<td colspan="2">24</td>
-<td colspan="5">«Жаңа-Таң» шаруа қожалығы</td>
+<td>25</td>
+<td colspan="3">«Жаңа-Таң» шаруа қожалығы</td>
 <td>1565</td>
+<td>1 565</td>
+<td>2,5</td>
 <td>2,5</td>
 </tr>
 <tr>
-<td colspan="7">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
 <td>0,1</td>
+<td>0,266</td>
 <td>0,1</td>
+<td>0,266</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>0,3</td>
+<td>2,3</td>
 <td>0,3</td>
+<td>2,3</td>
 </tr>
 <tr>
-<td colspan="7">Қызылжұлдыз ауылдық округі</td>
+<td colspan="4">Қызылжұлдыз ауылдық округі</td>
 <td>1</td>
+<td>0,5</td>
 <td>1</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>1</td>
+<td>0,5</td>
 <td>1</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td colspan="7">Сұлукөл ауылдық округі</td>
+<td colspan="4">Сұлукөл ауылдық округі</td>
 <td>3968,3</td>
+<td>3885</td>
 <td>50,6</td>
+<td>27,3</td>
 </tr>
 <tr>
-<td colspan="2">25</td>
-<td colspan="5">«Алтынсарин» жауапкершілігі шектеулі серіктестігі</td>
+<td>26</td>
+<td colspan="3">«Алтынсарин» жауапкершілігі шектеулі серіктестігі</td>
 <td>3722</td>
+<td>3 662</td>
+<td>7,9</td>
 <td>7,9</td>
 </tr>
 <tr>
-<td colspan="2">26</td>
-<td colspan="5">«Нұрлыбек» шаруа қожалығы</td>
+<td>27</td>
+<td colspan="3">«Нұрлыбек» шаруа қожалығы</td>
 <td>210</td>
+<td>210</td>
+<td>6,4</td>
 <td>6,4</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>36,3</td>
+<td>13</td>
 <td>36,3</td>
+<td>13</td>
 </tr>
 <tr>
-<td colspan="7">Жолдар</td>
+<td colspan="4">Жолдар</td>
+<td>7</td>
+<td>7</td>
 <td>7</td>
 <td>7</td>
 </tr>
 <tr>
-<td colspan="7">Комсомол -Сұлукөл</td>
+<td colspan="4">Комсомол -Сұлукөл</td>
+<td>1,6</td>
+<td>1,6</td>
 <td>1,6</td>
 <td>1,6</td>
 </tr>
 <tr>
-<td colspan="7">Қарабұтақ - Ярослав</td>
+<td colspan="4">Қарабұтақ - Ярослав</td>
+<td>5,4</td>
+<td>5,4</td>
 <td>5,4</td>
 <td>5,4</td>
 </tr>
 <tr>
-<td colspan="7">Әйтеке би ауданы бойынша барлығы:</td>
+<td colspan="4">Әйтеке би ауданы бойынша барлығы:</td>
 <td>36472,7</td>
+<td>34878,066</td>
 <td>523,3</td>
+<td>474,366</td>
 </tr>
 <tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">26 шаруашылық</td>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">27 шаруашылық</td>
 <td>36260,2</td>
+<td>34 711</td>
 <td>310,8</td>
+<td>307,3</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
 <td>ауыл іші</td>
 <td>0,1</td>
+<td>0,266</td>
 <td>0,1</td>
+<td>0,266</td>
 </tr>
 <tr>
 <td>жол бойы</td>
 <td>7</td>
 <td>7</td>
+<td>7</td>
+<td>7</td>
 </tr>
 <tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
+<td colspan="2">мемлекеттік жер қоры</td>
 <td>205,4</td>
+<td>159,8</td>
 <td>205,4</td>
+<td>159,8</td>
 </tr>
 <tr>
-<td colspan="9">Алға ауданы</td>
+<td colspan="8">Алға ауданы</td>
 </tr>
 <tr>
-<td colspan="7">Ақай ауылдық округі</td>
+<td colspan="4">Ақай ауылдық округі</td>
 <td>645</td>
+<td>645</td>
+<td>5</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="5">«Абылай» шаруа қожалығы</td>
+<td>1</td>
+<td colspan="3">«Абылай» шаруа қожалығы</td>
 <td>645</td>
+<td>645</td>
+<td>5</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="7">Бесқоспа ауылдық округі</td>
+<td colspan="4">Бесқоспа ауылдық округі</td>
+<td>240</td>
 <td>240</td>
 <td>32</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Барс» шаруа қожалығы</td>
-<td>200</td>
-<td>31</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="5">«ADM Investment» жауапкершілігі шектеулі серіктестігі</td>
-<td>40</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Қарабұлақ ауылдық округі</td>
-<td>1260</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="5">«Реймқұл» шаруа қожалығы</td>
-<td>1260</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Қарағаш ауылдық округі</td>
-<td>1636</td>
-<td>138</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="5">«Аккорд» шаруа қожалығы</td>
-<td>236</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="5">«Аманбай» шаруа қожалығы</td>
-<td>126</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="5">«Рассвет» шаруа қожалығы</td>
-<td>411</td>
-<td>68</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="5">«Вадим» шаруа қожалығы</td>
-<td>286</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td colspan="5">«Патимат» шаруа қожалығы</td>
-<td>577</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="7">Қарақобда ауылдық округі</td>
-<td>291</td>
-<td>17</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="5">«Ад-Ал» шаруа қожалығы</td>
-<td>291</td>
-<td>17</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td colspan="5">«Айнұр» шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Қарақұдық ауылдық округі</td>
-<td>2577</td>
-<td>518</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="5">«Мусагун» шаруа қожалығы</td>
-<td>30</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="5">«Шәріп» шаруа қожалығы</td>
-<td>210</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td colspan="5">«Восток» шаруа қожалығы</td>
-<td>826</td>
-<td>45</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="5">«А-Руслан» шаруа қожалығы</td>
-<td>40</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="5">«Эльвира» шаруа қожалығы</td>
-<td>517</td>
-<td>132</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td colspan="5">«Ринат» шаруа қожалығы</td>
-<td>261</td>
-<td>96</td>
-</tr>
-<tr>
-<td colspan="7">Сорт сынау учаскесі</td>
-<td>466</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>6</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>221</td>
-<td>221</td>
-</tr>
-<tr>
-<td colspan="7">Маржанбұлақ ауылдық округі</td>
-<td>5371</td>
-<td>408</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="5">«Асеке» шаруа қожалығы</td>
-<td>160</td>
-<td>41</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="5">«Маржанбұлақ» жауапкершілігі шектеулі серіктестігі</td>
-<td>487</td>
-<td>37</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td colspan="5">«Ақжар» шаруа қожалығы</td>
-<td>313</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td colspan="5">«Флора» жауапкершілігі шектеулі серіктестігі</td>
-<td>2119</td>
-<td>249</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="5">«Орынбай-1» ауылшаруашылық кооперативі</td>
-<td>1834</td>
-<td>32</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td colspan="5">«Жүсіпова» өндірістік кооперативі</td>
-<td>250</td>
-<td>23</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td colspan="5">«Нұрмұхамедова» өндірістік кооперативі</td>
-<td>205</td>
-<td>21</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>3</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Сарықобда ауылдық округі</td>
-<td>274</td>
-<td>27,2</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td colspan="5">«Ақ-Агро» агроөндірістік кооперативі</td>
-<td>273</td>
 <td>27</td>
 </tr>
 <tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>1</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Тамды ауылдық округі</td>
-<td>3061,5</td>
-<td>116,5</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td colspan="5">«Алғабас-Батпақты» шаруа қожалығы</td>
-<td>927</td>
-<td>51</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td colspan="5">«Алға –Ескендір» шаруа қожалығы</td>
-<td>1000</td>
-<td>19</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td colspan="5">«Ержан» шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td colspan="5">«Арай-М» шаруа қожалығы</td>
-<td>650</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td colspan="5">«Әлжан» шаруа қожалығы</td>
-<td>379</td>
-<td>43</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td colspan="5">«Садко» шаруа қожалығы</td>
-<td>100</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Үшқұдық ауылдық округі</td>
-<td>3382,2</td>
-<td>710,2</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td colspan="5">«Петровка-1» шаруа қожалығы</td>
-<td>1738</td>
-<td>603</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td colspan="5">«Өте-Мұр-АС» шаруа қожалығы</td>
-<td>520</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td colspan="5">«Төре-К» шаруа қожалығы</td>
-<td>367</td>
-<td>71</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td colspan="5">«Энергия» шаруа қожалығы</td>
-<td>340</td>
-<td>7</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td colspan="5">«Ажар» шаруа қожалығы</td>
-<td>402</td>
-<td>19</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>15</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Жолдар</td>
-<td>2,5</td>
-<td>2,5</td>
-</tr>
-<tr>
-<td colspan="7">Алға-Үшқұдық</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Ақтөбе - Қандыағаш</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Ақтөбе- Болгарка</td>
-<td>0,3</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td colspan="7">Алға - Тоқмансай</td>
 <td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Алға ауданы бойынша барлығы:</td>
-<td>18740,2</td>
-<td>1976,4</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">36 шаруашылық</td>
-<td>18020</td>
-<td>1737</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td>ауыл іші</td>
-<td>30</td>
-<td>10,2</td>
-</tr>
-<tr>
-<td>жол бойы</td>
-<td>2,5</td>
-<td>2,5</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>687,7</td>
-<td>226,7</td>
-</tr>
-<tr>
-<td colspan="9">Ырғыз ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Ырғыз ауылдық округі</td>
-<td>207</td>
-<td>6,03</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="7">Басқа жерлері: жол бойы</td>
-<td>202</td>
-<td>1,03</td>
-</tr>
-<tr>
-<td colspan="7">Ырғыз ауданы бойынша барлығы:</td>
-<td>207</td>
-<td>6,03</td>
-</tr>
-<tr>
-<td colspan="9">Ойыл ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: жол бойы</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Ойыл ауданы бойынша барлығы:</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="9">Қарғалы ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Әлімбет ауылдық округі</td>
-<td>287</td>
-<td>284,1</td>
-</tr>
-<tr>
-<td colspan="3">1</td>
-<td colspan="4">«Фар» шаруа қожалығы</td>
+<td colspan="3">«Барс» шаруа қожалығы</td>
 <td>200</td>
 <td>200</td>
+<td>31</td>
+<td>26</td>
 </tr>
 <tr>
-<td colspan="3">2</td>
-<td colspan="4">«Алим» шаруа қожалығы</td>
-<td>80</td>
-<td>80</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері:ауыл іші</td>
-<td>2</td>
-<td>1,7</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>5</td>
-<td>2,4</td>
-</tr>
-<tr>
-<td colspan="7">Ащылысай ауылдық округі</td>
-<td>2444,82</td>
-<td>5,51</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="5">«DZHAN +» жауапкершілігі шектеулі серіктестігі</td>
-<td>2444</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>0,82</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td colspan="7">Бадамша ауылдық округі</td>
-<td>406</td>
-<td>4,8</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="5">«Табыс» шаруа қожалығы</td>
-<td>400</td>
-<td>0,8</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>6</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="7">Велиховка ауылдық округі</td>
-<td>2677</td>
-<td>17,2</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="5">«Ақ-Жайық» жауапкершілігі шектеулі серіктестігі</td>
-<td>2081</td>
-<td>16</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="5">«Рождественка» шаруа қожалығы</td>
-<td>325</td>
-<td>0,8</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="5">«Велиховка» жауапкершілігі шектеулі серіктестік</td>
-<td>271</td>
-<td>0,4</td>
-</tr>
-<tr>
-<td colspan="7">Желтау ауылдық округі</td>
-<td>7130,2</td>
-<td>48,04</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="5">«Жарық» шаруа қожалығы</td>
-<td>300</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td colspan="5">«Алтын жер» шаруа қожалығы</td>
-<td>300</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="5">«Пацаев» жауапкершілігі шектеулі серіктестігі</td>
-<td>4555</td>
-<td>33</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td colspan="5">«Интер-Агро» жауапкершілігі шектеулі серіктестігі</td>
-<td>1975</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>0,2</td>
-<td>0,04</td>
-</tr>
-<tr>
-<td colspan="7">Кемпірсай ауылдық округі</td>
-<td>112</td>
-<td>2,8</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="5">«Кудря » шаруа қожалығы</td>
-<td>110</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>2</td>
-<td>1,8</td>
-</tr>
-<tr>
-<td colspan="7">Қосестек ауылдық округі</td>
-<td>6532,5</td>
-<td>67,8</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="5">«Алтын–Дала» шаруа қожалығы</td>
-<td>550</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td colspan="5">«Қосестек» шаруа қожалығы</td>
-<td>250</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="5">«Нива» шаруа қожалығы</td>
-<td>155</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="5">«Төре» шаруа қожалығы</td>
-<td>100</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td colspan="5">«Тамерлан» шаруа қожалығы</td>
-<td>200</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="5">«Қуаныш» шаруа қожалығы</td>
-<td>193</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="5">«Қос-Истек Агро» жауапкершілігі шектеулі серіктестігі</td>
-<td>4871</td>
-<td>55</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td colspan="5">«Сапар» шаруа қожалығы</td>
-<td>210</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>1,0</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>2,5</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Степной ауылдық округі</td>
-<td>6837</td>
-<td>49</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td colspan="5">«Қайрақты» жауапкершілігі шектеулі серіктестігі</td>
-<td>5845</td>
-<td>48</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="5">«Әнуар» шаруа қожалығы</td>
-<td>494</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td colspan="5">«Нұртас» шаруа қожалығы</td>
-<td>498</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Жол бойы</td>
-<td>18,98</td>
-<td>16,85</td>
-</tr>
-<tr>
-<td colspan="7">Қарғалы ауданы бойынша барлығы:</td>
-<td>26445,5</td>
-<td>496,1</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">23 шаруашылық</td>
-<td>26407</td>
-<td>466,3</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td>ауыл іші</td>
-<td>13,52</td>
-<td>10,05</td>
-</tr>
-<tr>
-<td>жол бойы</td>
-<td>18,98</td>
-<td>16,85</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>6</td>
-<td>2,9</td>
-</tr>
-<tr>
-<td colspan="9">Қобда ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Бегалы ауылдық округі</td>
-<td>305</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«30 лет Казахстана» жауапкершілігі шектеулі серіктестігі</td>
-<td>300</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>5</td>
 <td>3</td>
-</tr>
-<tr>
-<td colspan="7">Бұлақ ауылдық округі</td>
-<td>66</td>
-<td>66</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>66</td>
-<td>66</td>
-</tr>
-<tr>
-<td colspan="7">Өтек ауылдық округі</td>
-<td>452</td>
-<td>44</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Жеңіс-2» шаруа қожалығы</td>
-<td>400</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
+<td colspan="3">«ADM Investment» жауапкершілігі шектеулі серіктестігі</td>
+<td>40</td>
+<td>40</td>
 <td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>51</td>
-<td>42</td>
-</tr>
-<tr>
-<td colspan="7">Құрманов атындағы ауылдық округі</td>
-<td>278</td>
-<td>278</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
+<td colspan="4">Қарабұлақ ауылдық округі</td>
+<td>1260</td>
+<td>1 260</td>
 <td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>276</td>
-<td>276</td>
-</tr>
-<tr>
-<td colspan="7">Жолдар</td>
-<td>0,6</td>
-<td>0,6</td>
-</tr>
-<tr>
-<td colspan="7">Қобда - Ойыл</td>
-<td>0,6</td>
-<td>0,6</td>
-</tr>
-<tr>
-<td colspan="7">Қобда ауданы бойынша барлығы:</td>
-<td>1101,6</td>
-<td>392,6</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">2 шаруашылық</td>
-<td>700</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td>ауыл іші</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td>жол бойы</td>
-<td>0,6</td>
-<td>0,6</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>398</td>
-<td>387</td>
-</tr>
-<tr>
-<td colspan="9">Мәртөк ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Аққұдық ауылдық округі</td>
-<td>2915</td>
-<td>20</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Ерсұлтан» шаруа қожалығы</td>
-<td>186</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="5">«Светлана» шаруа қожалығы</td>
-<td>724</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="5">«Салтанат» шаруа қожалығы</td>
-<td>231</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="5">«Дәулет-1» шаруа қожалығы</td>
-<td>182</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="5">«Сержан» шаруа қожалығы</td>
-<td>100</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td colspan="5">«Достық-1» шаруа қожалығы</td>
-<td>551</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="5">«Ақбар» шаруа қожалығы</td>
-<td>940</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Байторысай ауылдық округі</td>
-<td>4015</td>
-<td>51,5</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="5">«Шынар» шаруа қожалығы</td>
-<td>350</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td colspan="5">«Родник» шаруа қожалығы</td>
-<td>457</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="5">«Ақжан» шаруа қожалығы</td>
-<td>221</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td colspan="5">«Диар Ата» жауапкершілігі шектеулі серіктестігі</td>
-<td>547</td>
 <td>4</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="5">«МәртөкАгросервис» жауапкершілігі шектеулі серіктестігі</td>
-<td>2276</td>
-<td>35</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="5">«Рубин-5» шаруа қожалығы</td>
-<td>160</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>4</td>
-<td>4</td>
-</tr>
-<tr>
-<td colspan="7">Хазірет ауылдық округі</td>
-<td>2936</td>
-<td>61</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td colspan="5">«Жездібай» шаруа қожалығы</td>
-<td>987</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="5">«Болашақ-Березовка» шаруа қожалығы</td>
-<td>699</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="5">«Коквест» шаруа қожалығы</td>
-<td>1247</td>
-<td>50</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
+<td colspan="3">«Реймқұл» шаруа қожалығы</td>
+<td>1260</td>
+<td>1 260</td>
 <td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>1</td>
 <td>1</td>
 </tr>
 <tr>
-<td colspan="7">Жайсан ауылдық округі</td>
-<td>0,5</td>
-<td>0,5</td>
+<td colspan="4">Қарағаш ауылдық округі</td>
+<td>1636</td>
+<td>1 636</td>
+<td>138</td>
+<td>133</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Қарашай ауылдық округі</td>
-<td>1228,5</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td colspan="5">«Әлем» шаруа қожалығы</td>
-<td>1097</td>
 <td>5</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="5">«Астана» шаруа қожалығы</td>
-<td>131</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>0,5</td>
-<td>0,5</td>
-</tr>
-<tr>
-<td colspan="7">Мәртөк ауылдық округі</td>
-<td>0,1</td>
-<td>0,1</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>0,1</td>
-<td>0,1</td>
-</tr>
-<tr>
-<td colspan="7">Қызылжар ауылдық округі</td>
-<td>538,1</td>
-<td>28,1</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="5">«Жансерік» шаруа қожалығы</td>
-<td>235</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td colspan="5">«Дәулен» шаруа қожалығы</td>
-<td>279</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>0,1</td>
-<td>0,1</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>24</td>
-<td>24</td>
-</tr>
-<tr>
-<td colspan="7">Байнасай ауылдық округі</td>
-<td>382</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td colspan="5">«Жазит» шаруа қожалығы</td>
+<td colspan="3">«Аккорд» шаруа қожалығы</td>
 <td>236</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td colspan="5">«Луч» жауапкершілігі шектеулі серіктестігі</td>
-<td>146</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="7">Құрмансай ауылдық округі</td>
-<td>11,2</td>
-<td>11,2</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>11</td>
-<td>11</td>
-</tr>
-<tr>
-<td colspan="7">Родников ауылдық округі</td>
-<td>891</td>
-<td>28</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td colspan="5">«Рахмет» шаруа қожалығы</td>
-<td>167</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td colspan="5">«Арыстанғали» шаруа қожалығы</td>
-<td>120</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td colspan="5">«Санжар и К» шаруа қожалығы</td>
-<td>320</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td colspan="5">«Сәби» шаруа қожалығы</td>
-<td>132</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td colspan="5">«Чосон» шаруа қожалығы</td>
-<td>149</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>2</td>
-<td>2</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Жолдар</td>
-<td>6,2</td>
-<td>6,2</td>
-</tr>
-<tr>
-<td colspan="7">Қаратоғай - Родников</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="7">Мәртөк - Қарашай</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Мәртөк - Қазан</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Мәртөк ауданы бойынша барлығы:</td>
-<td>12923,6</td>
-<td>217,6</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">27 шаруашылық</td>
-<td>12870</td>
-<td>164</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td>ауыл іші</td>
-<td>5,4</td>
-<td>5,4</td>
-</tr>
-<tr>
-<td>жол бойы</td>
-<td>6,2</td>
-<td>6,2</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>42</td>
-<td>42</td>
-</tr>
-<tr>
-<td colspan="9">Мұғалжар ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Еңбек ауылдық округі</td>
-<td>978</td>
-<td>176</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Жарасқан» шаруа қожалығы</td>
-<td>395</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Абай» шаруа қожалығы</td>
-<td>413</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>170</td>
-<td>170</td>
-</tr>
-<tr>
-<td colspan="7">Қандыағаш қаласы</td>
-<td>1,3</td>
-<td>1,3</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Жолдар</td>
-<td>0,3</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td colspan="7">Қандыағаш - Жұрын</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Қандыағаш –Ақкемер</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Еңбек – Талдысай</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Қандыағаш қаласы</td>
-<td>0,1</td>
-<td>0,1</td>
-</tr>
-<tr>
-<td colspan="7">Мұғалжар ауданы бойынша барлығы:</td>
-<td>979,3</td>
-<td>177,3</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">2 шаруашылық</td>
-<td>808</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td>ауыл іші</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td>жол бойы</td>
-<td>0,3</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>170</td>
-<td>170</td>
-</tr>
-<tr>
-<td colspan="9">Хромтау ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Абай ауылдық округі</td>
-<td>4118</td>
-<td>172</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Айнұр» шаруа қожалығы</td>
-<td>301</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Нурлан» шаруа қожалығы</td>
-<td>150</td>
+<td>236</td>
+<td>4</td>
 <td>4</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="5">«Азамат» шаруа қожалығы</td>
-<td>550</td>
-<td>10</td>
+<td>6</td>
+<td colspan="3">«Аманбай» шаруа қожалығы</td>
+<td>126</td>
+<td>126</td>
+<td>11</td>
+<td>11</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="5">«Наурыз» шаруа қожалығы</td>
-<td>622</td>
-<td>10</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td colspan="5">«Жантізер» шаруа қожалығы</td>
-<td>1930</td>
+<td>7</td>
+<td colspan="3">«Рассвет» шаруа қожалығы</td>
+<td>411</td>
+<td>411</td>
+<td>68</td>
 <td>63</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="5">«Спарта» шаруа қожалығы</td>
-<td>500</td>
-<td>15</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>65</td>
-<td>65</td>
-</tr>
-<tr>
-<td colspan="7">Аққұдық ауылдық округі</td>
-<td>3563</td>
-<td>189</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="5">«Дихан» шаруа қожалығы</td>
-<td>591</td>
 <td>8</td>
+<td colspan="3">«Вадим» шаруа қожалығы</td>
+<td>286</td>
+<td>286</td>
+<td>7</td>
+<td>7</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="5">«Қайнар» шаруа қожалығы</td>
-<td>2932</td>
-<td>141</td>
+<td>9</td>
+<td colspan="3">«Патимат» шаруа қожалығы</td>
+<td>577</td>
+<td>577</td>
+<td>48</td>
+<td>48</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>39</td>
-<td>39</td>
-</tr>
-<tr>
-<td colspan="7">ауыл іші</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Ақжар ауылдық округі</td>
-<td>5530</td>
-<td>342</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td colspan="5">«Ақжар Агро» жауапкершілігі шектеулі серіктестігі</td>
-<td>5063</td>
-<td>293</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td colspan="5">«Әсел» шаруа қожалығы</td>
-<td>272</td>
-<td>8</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td colspan="5">«Алан» шаруа қожалығы</td>
-<td>195</td>
-<td>41</td>
-</tr>
-<tr>
-<td colspan="7">Құдықсай ауылдық округі</td>
-<td>1903</td>
-<td>29</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="5">«Актюбинский мясной кластер» жауапкершілігі шектеулі серіктестігі</td>
-<td>1903</td>
-<td>29</td>
-</tr>
-<tr>
-<td colspan="7">Қызылсу ауылдық округі</td>
-<td>3108</td>
-<td>59</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="5">«Көктас Ақтөбе» акционерлік қоғамы</td>
-<td>3108</td>
-<td>59</td>
-</tr>
-<tr>
-<td colspan="7">Тассай ауылдық округі</td>
-<td>4973</td>
-<td>307</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td colspan="5">«Алтын дән и К» жауапкершілігі шектеулі серіктестігі</td>
-<td>2172</td>
-<td>151</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td colspan="5">«АКБ и К» жауапкершілігі шектеулі серіктестігі</td>
-<td>1299</td>
-<td>50</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td colspan="5">«Мечта» шаруа қожалығы</td>
-<td>330</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td colspan="5">«Бөкейхан» шаруа қожалығы</td>
-<td>579</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td colspan="5">«Ақжар Агро» жауапкершілігі шектеулі серіктестігі</td>
-<td>590</td>
-<td>95</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="7">Табантал ауылдық округі</td>
-<td>994</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td colspan="5">«Елім Табантал» жауапкершілігі шектеулі серіктестігі</td>
-<td>994</td>
-<td>6</td>
-</tr>
-<tr>
-<td colspan="7">Жолдар</td>
-<td>3,2</td>
-<td>3,2</td>
-</tr>
-<tr>
-<td colspan="7">Ауылдар жолы Аққұдық жолы</td>
-<td>0,2</td>
-<td>0,2</td>
-</tr>
-<tr>
-<td colspan="7">Самара-Шымкент</td>
-<td>3</td>
-<td>3</td>
-</tr>
-<tr>
-<td colspan="7">Хромтау ауданы бойынша барлығы:</td>
-<td>24192,2</td>
-<td>1107,2</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">19 шаруашылық</td>
-<td>24081</td>
-<td>996</td>
-</tr>
-<tr>
-<td rowspan="2">Ауылдық округтің басқа жерлері</td>
-<td colspan="2">ауыл іші</td>
-<td>1</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">жол бойы</td>
-<td>3,2</td>
-<td>3,2</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>107</td>
-<td>107</td>
-</tr>
-<tr>
-<td colspan="9">Шалқар ауданы</td>
-</tr>
-<tr>
-<td colspan="7">Шалқар қаласы</td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Мейірбек» шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="7">Шалқар ауданы бойынша барлығы</td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="2">оның ішінде</td>
-<td colspan="3">1 шаруашылық</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="3">Мемлекеттік жер қоры</td>
-<td>5</td>
-<td>1</td>
-</tr>
-<tr>
-<td colspan="9">Ақтөбе қаласы</td>
-</tr>
-<tr>
-<td colspan="7">Алматы ауданы</td>
-<td>1363,6</td>
-<td>366,6</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Анисан» шаруа қожалығы</td>
-<td>1331,6</td>
-<td>360</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Балық» шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td colspan="7">Жол бойы</td>
+<td colspan="4">Қарақобда ауылдық округі</td>
+<td>291</td>
+<td>291</td>
 <td>17</td>
-<td>1,4</td>
+<td>8</td>
 </tr>
 <tr>
-<td colspan="7">Ауылдық округтің басқа жерлері: ауыл іші</td>
 <td>10</td>
+<td colspan="3">«Ад-Ал» шаруа қожалығы</td>
+<td>291</td>
+<td>291</td>
+<td>17</td>
+<td>8</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Айнұр» шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Қарақұдық ауылдық округі</td>
+<td>2577</td>
+<td>2 003</td>
+<td>518</td>
+<td>384</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Мусагун» шаруа қожалығы</td>
+<td>30</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Шәріп» шаруа қожалығы</td>
+<td>210</td>
+<td>140</td>
+<td>6</td>
+<td>5</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«Восток» шаруа қожалығы</td>
+<td>826</td>
+<td>205</td>
+<td>45</td>
+<td>12</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«А-Руслан» шаруа қожалығы</td>
+<td>40</td>
+<td>40</td>
+<td>7</td>
+<td>5</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«Эльвира» шаруа қожалығы</td>
+<td>517</td>
+<td>517</td>
+<td>132</td>
+<td>112</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«Ринат» шаруа қожалығы</td>
+<td>261</td>
+<td>408</td>
+<td>96</td>
+<td>81</td>
+</tr>
+<tr>
+<td colspan="4">Сорт сынау учаскесі</td>
+<td>466</td>
+<td>466</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>6</td>
+<td>6</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>221</td>
+<td>221</td>
+<td>221</td>
+<td>162</td>
+</tr>
+<tr>
+<td colspan="4">Маржанбұлақ ауылдық округі</td>
+<td>5371</td>
+<td>5 371</td>
+<td>408</td>
+<td>389</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Асеке» шаруа қожалығы</td>
+<td>160</td>
+<td>160</td>
+<td>41</td>
+<td>33</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Маржанбұлақ» жауапкершілігі шектеулі серіктестігі</td>
+<td>487</td>
+<td>487</td>
+<td>37</td>
+<td>37</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«Ақжар» шаруа қожалығы</td>
+<td>313</td>
+<td>313</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Флора» жауапкершілігі шектеулі серіктестігі</td>
+<td>2119</td>
+<td>2 119</td>
+<td>249</td>
+<td>240</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Орынбай-1» ауылшаруашылық кооперативі</td>
+<td>1834</td>
+<td>1 834</td>
+<td>32</td>
+<td>30</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Жүсіпова» өндірістік кооперативі</td>
+<td>250</td>
+<td>250</td>
+<td>23</td>
+<td>23</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Нұрмұхамедова» өндірістік кооперативі</td>
+<td>205</td>
+<td>205</td>
+<td>21</td>
+<td>21</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Сарықобда ауылдық округі</td>
+<td>274</td>
+<td>274</td>
+<td>27,2</td>
+<td>27,2</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Ақ-Агро» агроөндірістік кооперативі</td>
+<td>273</td>
+<td>273</td>
+<td>27</td>
+<td>27</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>1</td>
+<td>1</td>
+<td>0,2</td>
 <td>0,2</td>
 </tr>
 <tr>
-<td colspan="7">Астана ауданы</td>
-<td>565</td>
-<td>6,3</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
-<td colspan="5">«Олджи» шаруа қожалығы</td>
+<td colspan="4">Тамды ауылдық округі</td>
+<td>3061,5</td>
+<td>2 281,1</td>
+<td>116,5</td>
+<td>81,9</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Алғабас-Батпақты» шаруа қожалығы</td>
+<td>927</td>
+<td>927</td>
+<td>51</td>
+<td>35</td>
+</tr>
+<tr>
+<td>27</td>
+<td colspan="3">«Алға –Ескендір» шаруа қожалығы</td>
+<td>1000</td>
+<td>870</td>
+<td>19</td>
+<td>14</td>
+</tr>
+<tr>
+<td>28</td>
+<td colspan="3">«Ержан» шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>29</td>
+<td colspan="3">«Арай-М» шаруа қожалығы</td>
+<td>650</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
 <td>30</td>
+<td colspan="3">«Әлжан» шаруа қожалығы</td>
+<td>379</td>
+<td>379</td>
+<td>43</td>
+<td>31</td>
+</tr>
+<tr>
+<td>31</td>
+<td colspan="3">«Садко» шаруа қожалығы</td>
+<td>100</td>
+<td>100</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>5</td>
+<td>5</td>
+<td>1</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>0,5</td>
+<td>0,1</td>
+<td>0,5</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="4">Үшқұдық ауылдық округі</td>
+<td>3382,2</td>
+<td>2862</td>
+<td>710,2</td>
+<td>683,7</td>
+</tr>
+<tr>
+<td>32</td>
+<td colspan="3">«Петровка-1» шаруа қожалығы</td>
+<td>1738</td>
+<td>1 738</td>
+<td>603</td>
+<td>603</td>
+</tr>
+<tr>
+<td>33</td>
+<td colspan="3">«Өте-Мұр-АС» шаруа қожалығы</td>
+<td>520</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr>
+<td>34</td>
+<td colspan="3">«Төре-К» шаруа қожалығы</td>
+<td>367</td>
+<td>367</td>
+<td>71</td>
+<td>59</td>
+</tr>
+<tr>
+<td>35</td>
+<td colspan="3">«Энергия» шаруа қожалығы</td>
+<td>340</td>
+<td>340</td>
+<td>7</td>
+<td>6</td>
+</tr>
+<tr>
+<td>36</td>
+<td colspan="3">«Ажар» шаруа қожалығы</td>
+<td>402</td>
+<td>402</td>
+<td>19</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>15</td>
+<td>15</td>
+<td>6</td>
+<td>4,7</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>0,2</td>
+<td>0</td>
+<td>0,2</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Жолдар</td>
+<td>2,5</td>
+<td>2,5</td>
+<td>2,5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td colspan="4">Алға-Үшқұдық</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="4">Ақтөбе - Қандыағаш</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Ақтөбе- Болгарка</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td colspan="4">Алға - Тоқмансай</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Алға ауданы бойынша барлығы:</td>
+<td>18740,2</td>
+<td>16865,6</td>
+<td>1976,4</td>
+<td>1742,3</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">36 шаруашылық</td>
+<td>18020</td>
+<td>16146</td>
+<td>1737</td>
+<td>1564</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>30</td>
+<td>30</td>
+<td>10,2</td>
+<td>8,7</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>2,5</td>
+<td>2,5</td>
+<td>2,5</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>687,7</td>
+<td>687,1</td>
+<td>226,7</td>
+<td>167,1</td>
+</tr>
+<tr>
+<td colspan="8">Ырғыз ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Ырғыз ауылдық округі</td>
+<td>207</td>
+<td>207</td>
+<td>6,03</td>
+<td>6,03</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">Басқа жерлері: жол бойы</td>
+<td>202</td>
+<td>202</td>
+<td>1,03</td>
+<td>1,03</td>
+</tr>
+<tr>
+<td colspan="4">Ырғыз ауданы бойынша барлығы:</td>
+<td>207</td>
+<td>207</td>
+<td>6,03</td>
+<td>6,03</td>
+</tr>
+<tr>
+<td colspan="8">Ойыл ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері: жол бойы</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
-<td colspan="5">«Анди» шаруа қожалығы</td>
+<td colspan="4">Ойыл ауданы бойынша барлығы:</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="8">Қарғалы ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Әлімбет ауылдық округі</td>
+<td>287</td>
+<td>1 604,7</td>
+<td>284,1</td>
+<td>223,7</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Фар» шаруа қожалығы</td>
+<td>200</td>
+<td>1 101</td>
+<td>200</td>
+<td>160</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Алим» шаруа қожалығы</td>
+<td>80</td>
 <td>500</td>
+<td>80</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2</td>
+<td>1,5</td>
+<td>1,7</td>
 <td>1,5</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td colspan="5">« Ғалымжан ауылы » шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>2,2</td>
+<td>2,4</td>
+<td>2,2</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="5">«Максим» шаруа қожалығы</td>
-<td>0</td>
-<td>0</td>
+<td colspan="4">Ащылысай ауылдық округі</td>
+<td>2444,82</td>
+<td>2 444,4</td>
+<td>5,51</td>
+<td>4,41</td>
 </tr>
 <tr>
-<td colspan="7">Жол бойы</td>
-<td>35</td>
+<td>3</td>
+<td colspan="3">«DZHAN +» жауапкершілігі шектеулі серіктестігі</td>
+<td>2444</td>
+<td>2 444</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0,82</td>
+<td>0,4</td>
+<td>0,51</td>
+<td>0,41</td>
+</tr>
+<tr>
+<td colspan="4">Бадамша ауылдық округі</td>
+<td>406</td>
+<td>404</td>
+<td>4,8</td>
+<td>4,6</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«Табыс» шаруа қожалығы</td>
+<td>400</td>
+<td>400</td>
+<td>0,8</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>6</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">Велиховка ауылдық округі</td>
+<td>2677</td>
+<td>2 677</td>
+<td>17,2</td>
+<td>15,1</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«Ақ-Жайық» жауапкершілігі шектеулі серіктестігі</td>
+<td>2081</td>
+<td>2 081</td>
+<td>16</td>
+<td>14</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Рождественка» шаруа қожалығы</td>
+<td>325</td>
+<td>325</td>
+<td>0,8</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«Велиховка» жауапкершілігі шектеулі серіктестік</td>
+<td>271</td>
+<td>271</td>
+<td>0,4</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td colspan="4">Желтау ауылдық округі</td>
+<td>7130,2</td>
+<td>6 919,04</td>
+<td>48,04</td>
+<td>36,64</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Жарық» шаруа қожалығы</td>
+<td>300</td>
+<td>300</td>
+<td>8</td>
+<td>7</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«Алтын жер» шаруа қожалығы</td>
+<td>300</td>
+<td>300</td>
+<td>1</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«Пацаев» жауапкершілігі шектеулі серіктестігі</td>
+<td>4555</td>
+<td>4 555</td>
+<td>33</td>
+<td>25</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Интер-Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>1975</td>
+<td>1 764</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0,2</td>
+<td>0,04</td>
+<td>0,04</td>
+<td>0,04</td>
+</tr>
+<tr>
+<td colspan="4">Кемпірсай ауылдық округі</td>
+<td>112</td>
+<td>111,5</td>
+<td>2,8</td>
+<td>2</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Кудря » шаруа қожалығы</td>
+<td>110</td>
+<td>110</td>
+<td>1</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2</td>
+<td>1,5</td>
+<td>1,8</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td colspan="4">Қосестек ауылдық округі</td>
+<td>6532,5</td>
+<td>6531,2</td>
+<td>67,8</td>
+<td>61,4</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Алтын–Дала» шаруа қожалығы</td>
+<td>550</td>
+<td>550</td>
+<td>0,5</td>
+<td>0,4</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«Қосестек» шаруа қожалығы</td>
+<td>250</td>
+<td>250</td>
+<td>0,3</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Нива» шаруа қожалығы</td>
+<td>155</td>
+<td>155</td>
+<td>5</td>
+<td>4,8</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«Төре» шаруа қожалығы</td>
+<td>100</td>
+<td>100</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«Тамерлан» шаруа қожалығы</td>
+<td>200</td>
+<td>200</td>
+<td>0,5</td>
+<td>0,4</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Қуаныш» шаруа қожалығы</td>
+<td>193</td>
+<td>193</td>
+<td>1</td>
+<td>0,8</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Қос-Истек Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>4871</td>
+<td>4 871</td>
+<td>55</td>
+<td>50</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«Сапар» шаруа қожалығы</td>
+<td>210</td>
+<td>210</td>
+<td>2</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>1</td>
+<td>0,4</td>
+<td>0,5</td>
+<td>0,4</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2,5</td>
+<td>1,8</td>
+<td>2</td>
 <td>1,8</td>
 </tr>
 <tr>
-<td colspan="7">Ауылдық округтің басқа жерлері</td>
-<td>0</td>
-<td>0</td>
+<td colspan="4">Степной ауылдық округі</td>
+<td>6837</td>
+<td>6837</td>
+<td>49</td>
+<td>43,8</td>
 </tr>
 <tr>
-<td colspan="7">Ақтөбе қаласы бойынша барлығы:</td>
-<td>1928,6</td>
-<td>372,9</td>
+<td>21</td>
+<td colspan="3">«Қайрақты» жауапкершілігі шектеулі серіктестігі</td>
+<td>5845</td>
+<td>5 845</td>
+<td>48</td>
+<td>43</td>
 </tr>
 <tr>
-<td colspan="4" rowspan="4">оның ішінде</td>
-<td colspan="3">6 шаруашылық</td>
-<td>1861,6</td>
-<td>364,5</td>
+<td>22</td>
+<td colspan="3">«Әнуар» шаруа қожалығы</td>
+<td>494</td>
+<td>494</td>
+<td>0,5</td>
+<td>0,4</td>
 </tr>
 <tr>
-<td colspan="3">жол бойы</td>
-<td>52</td>
-<td>3,2</td>
+<td>23</td>
+<td colspan="3">«Нұртас» шаруа қожалығы</td>
+<td>498</td>
+<td>498</td>
+<td>0,5</td>
+<td>0,4</td>
 </tr>
 <tr>
-<td colspan="3">ауылдық округтің басқа жерлері</td>
+<td colspan="4">Жол бойы</td>
+<td>18,98</td>
+<td>16,8</td>
+<td>16,85</td>
+<td>16,75</td>
+</tr>
+<tr>
+<td colspan="4">Қарғалы ауданы бойынша барлығы:</td>
+<td>26445,5</td>
+<td>27 545,6</td>
+<td>496,1</td>
+<td>408,4</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">23 шаруашылық</td>
+<td>26407</td>
+<td>27 517</td>
+<td>466,3</td>
+<td>379,8</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>13,52</td>
+<td>9,25</td>
+<td>10,05</td>
+<td>9,25</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>18,98</td>
+<td>16,75</td>
+<td>16,85</td>
+<td>16,75</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>6</td>
+<td>2,6</td>
+<td>2,9</td>
+<td>2,6</td>
+</tr>
+<tr>
+<td colspan="8">Қобда ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Бегалы ауылдық округі</td>
+<td>305</td>
+<td>305</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«30 лет Казахстана» жауапкершілігі шектеулі серіктестігі</td>
+<td>300</td>
+<td>300</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>5</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">Бұлақ ауылдық округі</td>
+<td>66</td>
+<td>66</td>
+<td>66</td>
+<td>66</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>66</td>
+<td>66</td>
+<td>66</td>
+<td>66</td>
+</tr>
+<tr>
+<td colspan="4">Өтек ауылдық округі</td>
+<td>452</td>
+<td>452</td>
+<td>44</td>
+<td>44</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Жеңіс-2» шаруа қожалығы</td>
+<td>400</td>
+<td>400</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>51</td>
+<td>51</td>
+<td>42</td>
+<td>42</td>
+</tr>
+<tr>
+<td colspan="4">Құрманов атындағы ауылдық округі</td>
+<td>278</td>
+<td>278</td>
+<td>278</td>
+<td>278</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>276</td>
+<td>276</td>
+<td>276</td>
+<td>276</td>
+</tr>
+<tr>
+<td colspan="4">Жолдар</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td colspan="4">Қобда - Ойыл</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td colspan="4">Қобда ауданы бойынша барлығы:</td>
+<td>1101,6</td>
+<td>1101,6</td>
+<td>392,6</td>
+<td>392,6</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">2 шаруашылық</td>
+<td>700</td>
+<td>700</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+<td>0,6</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>398</td>
+<td>398</td>
+<td>387</td>
+<td>387</td>
+</tr>
+<tr>
+<td colspan="8">Мәртөк ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Аққұдық ауылдық округі</td>
+<td>2915</td>
+<td>2915</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Ерсұлтан» шаруа қожалығы</td>
+<td>186</td>
+<td>186</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Светлана» шаруа қожалығы</td>
+<td>724</td>
+<td>724</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Салтанат» шаруа қожалығы</td>
+<td>231</td>
+<td>231</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«Дәулет-1» шаруа қожалығы</td>
+<td>182</td>
+<td>182</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«Сержан» шаруа қожалығы</td>
+<td>100</td>
+<td>100</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Достық-1» шаруа қожалығы</td>
+<td>551</td>
+<td>551</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«Ақбар» шаруа қожалығы</td>
+<td>940</td>
+<td>940</td>
 <td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Байторысай ауылдық округі</td>
+<td>4015</td>
+<td>3315</td>
+<td>51,5</td>
+<td>34,5</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Шынар» шаруа қожалығы</td>
+<td>350</td>
+<td>350</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«Родник» шаруа қожалығы</td>
+<td>457</td>
+<td>457</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«Ақжан» шаруа қожалығы</td>
+<td>221</td>
+<td>221</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Диар Ата» жауапкершілігі шектеулі серіктестігі</td>
+<td>547</td>
+<td>547</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«МәртөкАгросервис» жауапкершілігі шектеулі серіктестігі</td>
+<td>2276</td>
+<td>1 576</td>
+<td>35</td>
+<td>20</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Рубин-5» шаруа қожалығы</td>
+<td>160</td>
+<td>160</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">Хазірет ауылдық округі</td>
+<td>2936</td>
+<td>2936</td>
+<td>61</td>
+<td>61</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«Жездібай» шаруа қожалығы</td>
+<td>987</td>
+<td>987</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«Болашақ-Березовка» шаруа қожалығы</td>
+<td>699</td>
+<td>699</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«Коквест» шаруа қожалығы</td>
+<td>1247</td>
+<td>1 247</td>
+<td>50</td>
+<td>50</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Жайсан ауылдық округі</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Қарашай ауылдық округі</td>
+<td>1228,5</td>
+<td>1228,5</td>
+<td>6</td>
+<td>6</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«Әлем» шаруа қожалығы</td>
+<td>1097</td>
+<td>1 097</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Астана» шаруа қожалығы</td>
+<td>131</td>
+<td>131</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Мәртөк ауылдық округі</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="4">Қызылжар ауылдық округі</td>
+<td>538,1</td>
+<td>538,1</td>
+<td>28,1</td>
+<td>28,1</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Жансерік» шаруа қожалығы</td>
+<td>235</td>
+<td>235</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>20</td>
+<td colspan="3">«Дәулен» шаруа қожалығы</td>
+<td>279</td>
+<td>279</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>24</td>
+<td>24</td>
+<td>24</td>
+<td>24</td>
+</tr>
+<tr>
+<td colspan="4">Байнасай ауылдық округі</td>
+<td>382</td>
+<td>382</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>21</td>
+<td colspan="3">«Жазит» шаруа қожалығы</td>
+<td>236</td>
+<td>236</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>22</td>
+<td colspan="3">«Луч» жауапкершілігі шектеулі серіктестігі</td>
+<td>146</td>
+<td>146</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">Құрмансай ауылдық округі</td>
+<td>11,2</td>
+<td>1,2</td>
+<td>11,2</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
 <td>0,2</td>
 </tr>
 <tr>
-<td colspan="3">мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>11</td>
+<td>1</td>
+<td>11</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Родников ауылдық округі</td>
+<td>891</td>
+<td>891</td>
+<td>28</td>
+<td>28</td>
+</tr>
+<tr>
+<td>23</td>
+<td colspan="3">«Рахмет» шаруа қожалығы</td>
+<td>167</td>
+<td>167</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>24</td>
+<td colspan="3">«Арыстанғали» шаруа қожалығы</td>
+<td>120</td>
+<td>120</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>25</td>
+<td colspan="3">«Санжар и К» шаруа қожалығы</td>
+<td>320</td>
+<td>320</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>26</td>
+<td colspan="3">«Сәби» шаруа қожалығы</td>
+<td>132</td>
+<td>132</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>27</td>
+<td colspan="3">«Чосон» шаруа қожалығы</td>
+<td>149</td>
+<td>149</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Жолдар</td>
+<td>6,2</td>
+<td>6,2</td>
+<td>6,2</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td colspan="4">Қаратоғай - Родников</td>
+<td>5</td>
+<td>5</td>
 <td>5</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="7">Ақтөбе облысы бойынша барлығы 142 шаруашылық</td>
+<td colspan="4">Мәртөк - Қарашай</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Мәртөк - Қазан</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="4">Мәртөк ауданы бойынша барлығы:</td>
+<td>12923,6</td>
+<td>12213,6</td>
+<td>217,6</td>
+<td>190,6</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">27 шаруашылық</td>
+<td>12870</td>
+<td>12170</td>
+<td>164</td>
+<td>147</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>5,4</td>
+<td>5,4</td>
+<td>5,4</td>
+<td>5,4</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>6,2</td>
+<td>6,2</td>
+<td>6,2</td>
+<td>6,2</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>42</td>
+<td>32</td>
+<td>42</td>
+<td>32</td>
+</tr>
+<tr>
+<td colspan="8">Мұғалжар ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Еңбек ауылдық округі</td>
+<td>978</td>
+<td>964</td>
+<td>176</td>
+<td>160,5</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Жарасқан» шаруа қожалығы</td>
+<td>395</td>
+<td>395</td>
+<td>5</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Абай» шаруа қожалығы</td>
+<td>413</td>
+<td>413</td>
+<td>1</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>170</td>
+<td>156</td>
+<td>170</td>
+<td>156</td>
+</tr>
+<tr>
+<td colspan="4">Қандыағаш қаласы</td>
+<td>1,3</td>
+<td>1,3</td>
+<td>1,3</td>
+<td>1,3</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Жолдар</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td colspan="4">Қандыағаш - Жұрын</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="4">Қандыағаш –Ақкемер</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Еңбек – Талдысай</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Қандыағаш қаласы</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="4">Мұғалжар ауданы бойынша барлығы:</td>
+<td>979,3</td>
+<td>965,3</td>
+<td>177,3</td>
+<td>161,8</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">2 шаруашылық</td>
+<td>808</td>
+<td>808</td>
+<td>6</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>170</td>
+<td>156</td>
+<td>170</td>
+<td>156</td>
+</tr>
+<tr>
+<td colspan="8">Хромтау ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Абай ауылдық округі</td>
+<td>4118</td>
+<td>3 606</td>
+<td>172</td>
+<td>144</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Айнұр» шаруа қожалығы</td>
+<td>301</td>
+<td>301</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Нурлан» шаруа қожалығы</td>
+<td>150</td>
+<td>150</td>
+<td>4</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Азамат» шаруа қожалығы</td>
+<td>550</td>
+<td>550</td>
+<td>10</td>
+<td>9</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«Наурыз» шаруа қожалығы</td>
+<td>622</td>
+<td>622</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«Жантізер» шаруа қожалығы</td>
+<td>1930</td>
+<td>1 930</td>
+<td>63</td>
+<td>63</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Спарта» шаруа қожалығы</td>
+<td>500</td>
+<td>0</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>65</td>
+<td>53</td>
+<td>65</td>
+<td>53</td>
+</tr>
+<tr>
+<td colspan="4">Аққұдық ауылдық округі</td>
+<td>3563</td>
+<td>3 535</td>
+<td>189</td>
+<td>159,8</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«Дихан» шаруа қожалығы</td>
+<td>591</td>
+<td>587</td>
+<td>8</td>
+<td>2,8</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Қайнар» шаруа қожалығы</td>
+<td>2932</td>
+<td>2 932</td>
+<td>141</td>
+<td>141</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>39</td>
+<td>15</td>
+<td>39</td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Ақжар ауылдық округі</td>
+<td>5530</td>
+<td>5 530</td>
+<td>342</td>
+<td>340</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">«Ақжар Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>5063</td>
+<td>5 063</td>
+<td>293</td>
+<td>291</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="3">«Әсел» шаруа қожалығы</td>
+<td>272</td>
+<td>272</td>
+<td>8</td>
+<td>8</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="3">«Алан» шаруа қожалығы</td>
+<td>195</td>
+<td>195</td>
+<td>41</td>
+<td>41</td>
+</tr>
+<tr>
+<td colspan="4">Құдықсай ауылдық округі</td>
+<td>1903</td>
+<td>1 903</td>
+<td>29</td>
+<td>11</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="3">«Актюбинский мясной кластер» жауапкершілігі шектеулі серіктестігі</td>
+<td>1903</td>
+<td>1 903</td>
+<td>29</td>
+<td>11</td>
+</tr>
+<tr>
+<td colspan="4">Қызылсу ауылдық округі</td>
+<td>3108</td>
+<td>3 108</td>
+<td>59</td>
+<td>34</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="3">«Көктас Ақтөбе» акционерлік қоғамы</td>
+<td>3108</td>
+<td>3 108</td>
+<td>59</td>
+<td>34</td>
+</tr>
+<tr>
+<td colspan="4">Тассай ауылдық округі</td>
+<td>4973</td>
+<td>4 971</td>
+<td>307</td>
+<td>304</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="3">«Алтын дән и К» жауапкершілігі шектеулі серіктестігі</td>
+<td>2172</td>
+<td>2 172</td>
+<td>151</td>
+<td>150</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="3">«АКБ и К» жауапкершілігі шектеулі серіктестігі</td>
+<td>1299</td>
+<td>1 299</td>
+<td>50</td>
+<td>50</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3">«Мечта» шаруа қожалығы</td>
+<td>330</td>
+<td>330</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="3">«Бөкейхан» шаруа қожалығы</td>
+<td>579</td>
+<td>579</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>18</td>
+<td colspan="3">«Ақжар Агро» жауапкершілігі шектеулі серіктестігі</td>
+<td>590</td>
+<td>590</td>
+<td>95</td>
+<td>95</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>3</td>
+<td>1</td>
+<td>3</td>
+<td>1</td>
+</tr>
+<tr>
+<td colspan="4">Табантал ауылдық округі</td>
+<td>994</td>
+<td>994</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>19</td>
+<td colspan="3">«Елім Табантал» жауапкершілігі шектеулі серіктестігі</td>
+<td>994</td>
+<td>994</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td colspan="4">Жолдар</td>
+<td>3,2</td>
+<td>3,2</td>
+<td>3,2</td>
+<td>3,2</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдар жолы Аққұдық жолы</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="4">Самара-Шымкент</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="4">Хромтау ауданы бойынша барлығы:</td>
+<td>24192,2</td>
+<td>23650</td>
+<td>1107,2</td>
+<td>1000</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">19 шаруашылық</td>
+<td>24081</td>
+<td>23576,8</td>
+<td>996</td>
+<td>926,8</td>
+</tr>
+<tr>
+<td rowspan="2">ауылдық округтің басқа жерлері</td>
+<td>ауыл іші</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>жол бойы</td>
+<td>3,2</td>
+<td>3,2</td>
+<td>3,2</td>
+<td>3,2</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>107</td>
+<td>69</td>
+<td>107</td>
+<td>69</td>
+</tr>
+<tr>
+<td colspan="8">Шалқар ауданы</td>
+</tr>
+<tr>
+<td colspan="4">Шалқар қаласы</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Мейірбек» шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Шалқар ауданы бойынша барлығы</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">оның ішінде</td>
+<td colspan="2">1 шаруашылық</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="8">Ақтөбе қаласы</td>
+</tr>
+<tr>
+<td colspan="4">Алматы ауданы</td>
+<td>1363,6</td>
+<td>1353,606</td>
+<td>366,6</td>
+<td>525,605</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Анисан» шаруа қожалығы</td>
+<td>1331,6</td>
+<td>1331,6</td>
+<td>360</td>
+<td>520</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Балық» шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Мемлекеттік жер қоры</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">Жол бойы</td>
+<td>17</td>
+<td>7,006</td>
+<td>1,4</td>
+<td>0,405</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>10</td>
+<td>10</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="4">Астана ауданы</td>
+<td>565</td>
+<td>558</td>
+<td>6,3</td>
+<td>5,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Олджи» шаруа қожалығы</td>
+<td>30</td>
+<td>30</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«Анди» шаруа қожалығы</td>
+<td>500</td>
+<td>500</td>
+<td>1,5</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">« Ғалымжан ауылы » шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Максим» шаруа қожалығы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Жол бойы</td>
+<td>35</td>
+<td>28</td>
+<td>1,8</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td colspan="4">Ауылдық округтің басқа жерлері (ауыл іші)</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Ақтөбе қаласы бойынша барлығы:</td>
+<td>1928,6</td>
+<td>1911,606</td>
+<td>372,9</td>
+<td>530,805</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="4">оның ішінде</td>
+<td colspan="2">6 шаруашылық</td>
+<td>1861,6</td>
+<td>1861,6</td>
+<td>364,5</td>
+<td>524,5</td>
+</tr>
+<tr>
+<td colspan="2">жол бойы</td>
+<td>52</td>
+<td>35,006</td>
+<td>3,2</td>
+<td>1,105</td>
+</tr>
+<tr>
+<td colspan="2">ауыл іші</td>
+<td>10</td>
+<td>10,0</td>
+<td>0,2</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td colspan="2">мемлекеттік жер қоры</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="4">Ақтөбе облысы бойынша барлығы 143 шаруашылық</td>
 <td>121007,8</td>
+<td>117 490,4</td>
 <td>4046,6</td>
+<td>3860,1</td>
 </tr>
 <tr>
-<td colspan="6" rowspan="3">Ауылдық округтің басқа жерлері</td>
+<td colspan="3" rowspan="3">Ауылдық округтің басқа жерлері</td>
 <td>басқа жерлер барлығы</td>
 <td>358,8</td>
+<td>336,5</td>
 <td>73,83</td>
+<td>66,301</td>
 </tr>
 <tr>
 <td>ауыл іші</td>
 <td>64,02</td>
+<td>59,9</td>
 <td>30,95</td>
+<td>27,816</td>
 </tr>
 <tr>
 <td>жол бойы</td>
 <td>294,78</td>
+<td>276,6</td>
 <td>42,88</td>
+<td>38,485</td>
 </tr>
 <tr>
-<td colspan="7">Мемлекеттік жер қоры</td>
+<td colspan="4">Мемлекеттік жер қоры</td>
 <td>1631,1</td>
+<td>1 514,5</td>
 <td>1152</td>
+<td>983,5</td>
 </tr>
 <tr>
-<td colspan="7">Жиынтығы облыс бойынша</td>
+<td colspan="4">Жиынтығы облыс бойынша</td>
 <td>122997,7</td>
+<td>119 341,4</td>
 <td>5272,43</td>
-</tr>
-</table>
-
-## Ақтөбе облысы бойынша 2022 жылғы 1- қаңтарға арамсояулармен залалданған жолдар бойында карантиндік режимді енгізе отырып карантиндік аймақ белгіленетін тізбе
-
-<table>
-<tr>
-<td colspan="2">№</td>
-<td colspan="5">Карантинді аймақ белгіленетін алқаптар</td>
-<td>Залалданған алаңы, гектар</td>
-<td>Өңдеуге арналған алаңы, гектар</td>
+<td>4909,901</td>
 </tr>
 <tr>
-<td colspan="7">Әйтекеби ауданы</td>
+<td colspan="8">Ақтөбе облысы бойынша 2023 жылғы 1- қаңтарға арамсояулармен залалданған жолдар бойында карантиндік режимді енгізе отырып карантиндік аймақ белгіленетін тізбе</td>
+</tr>
+<tr>
+<td rowspan="2">№</td>
+<td colspan="3" rowspan="2">Карантинді аймақ белгіленетін алқаптар</td>
+<td colspan="2">Залалданған алаңы, гектар</td>
+<td colspan="2">Өңдеуге арналған алаңы, гектар</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>2023</td>
+<td>2022</td>
+<td>2023</td>
+</tr>
+<tr>
+<td colspan="4">Әйтекеби ауданы</td>
 <td>0,3</td>
+<td>1,5</td>
+<td>0,3</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">Жамбыл-Қарабұтақ жол бойы</td>
+<td>0</td>
+<td>0,3</td>
+<td>0</td>
 <td>0,3</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="5">Құмқұдық- Әйке жол бойы</td>
-<td>0,3</td>
-<td>0,3</td>
+<td>2</td>
+<td colspan="3">Т.Жүргенов- Қарабұтақ жол бойы</td>
+<td>0</td>
+<td>0,7</td>
+<td>0</td>
+<td>0,7</td>
 </tr>
 <tr>
-<td colspan="7">Алға ауданы</td>
+<td>3</td>
+<td colspan="3">Т.Жүргенов- Әйке жол бойы</td>
+<td>0,3</td>
+<td>0,5</td>
+<td>0,3</td>
+<td>0,5</td>
+</tr>
+<tr>
+<td colspan="4">Алға ауданы</td>
+<td>0,4</td>
+<td>0,4</td>
 <td>0,4</td>
 <td>0,4</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
-<td colspan="5">Алға – Қарақұдық жол бойы</td>
+<td>4</td>
+<td colspan="3">Алға – Қарақұдық жол бойы</td>
+<td>0,4</td>
+<td>0,4</td>
 <td>0,4</td>
 <td>0,4</td>
 </tr>
 <tr>
-<td colspan="7">Қарғалы ауданы</td>
+<td colspan="4">Қарғалы ауданы</td>
 <td>0,02</td>
 <td>0,02</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="5">Бадамша- Рожденственка жол бойы</td>
-<td>0,01</td>
-<td>0,01</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="5">Қос Естек-Әлімбет жол бойы</td>
-<td>0,01</td>
-<td>0,01</td>
-</tr>
-<tr>
-<td colspan="7">Ақтөбе қаласы, Астана ауданы</td>
-<td>5,26</td>
-<td>0,0434</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="5">Ақтөбе қаласының іші</td>
-<td>5,26</td>
-<td>0,0434</td>
-</tr>
-<tr>
-<td colspan="7">Барлығы:</td>
-<td>5,98</td>
-<td>0,7634</td>
-</tr>
-</table>
-
-## Ақтөбе облысы бойынша 2022 жылғы 1- қаңтарға Оңтүстік Америка қызанақ көбелектерімен залалданған жерлерде карантиндік режимді енгізе отырып, оларға қатысты карантиндік аймақ белгіленетін шаруашылық жүргізуші субъектілердің тізбесі
-
-<table>
-<tr>
-<td colspan="2">№</td>
-<td colspan="5">Карантинді аймақ белгіленетін алқаптар</td>
-<td>Залалданған алаңы, гектар</td>
-<td>Өңдеуге арналған алаңы, гектар</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="5">«Жаңақоныс» шаруа қожалығы (жылыжай)</td>
-<td>0,48</td>
-<td>0,48</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td colspan="5">«Агрофирма Көктем» жауапкершілігі шектеулі серіктестігі (жылыжай)</td>
-<td>1,0</td>
-<td>1,0</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td colspan="5">«Демеугалиев» шаруа қожалығы (жылыжай)</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="5">«Алманов» шаруа қожалығы (жылыжай)</td>
-<td>0,25</td>
-<td>0,25</td>
-</tr>
-<tr>
-<td colspan="7">Барлығы жылыжай:</td>
-<td>1,73</td>
-<td>1,73</td>
+<td>0,02</td>
+<td>0,02</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="6">«Бексултан» шаруа қожалығы</td>
-<td>0,3</td>
-<td>0,3</td>
+<td colspan="3">Бадамша- Рожденственка жол бойы</td>
+<td>0,01</td>
+<td>0,01</td>
+<td>0,01</td>
+<td>0,01</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td colspan="5">«Жаңа-Тау» шаруа қожалығы</td>
-<td>0,3</td>
-<td>0,3</td>
+<td>6</td>
+<td colspan="3">Қос Естек-Әлімбет жол бойы</td>
+<td>0,01</td>
+<td>0,01</td>
+<td>0,01</td>
+<td>0,01</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td colspan="5">«Квант» шаруа қожалығы</td>
-<td>4,0</td>
-<td>4,0</td>
+<td colspan="4">Ақтөбе қаласы, Астана, Алматы ауданы</td>
+<td>5,26</td>
+<td>8,5531</td>
+<td>0,0434</td>
+<td>3,0036</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="5">«Бұтақ» шаруа қожалығы</td>
-<td>2,0</td>
-<td>2,0</td>
+<td></td>
+<td colspan="3">Ақтөбе қаласының іші</td>
+<td>5,26</td>
+<td>8,5531</td>
+<td>0,0434</td>
+<td>3,0036</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
-<td colspan="5">Пригород ауылы</td>
+<td colspan="4">Барлығы:</td>
+<td>5,98</td>
+<td>10,4731</td>
+<td>0,7634</td>
+<td>4,9236</td>
+</tr>
+<tr>
+<td colspan="8">Ақтөбе облысы бойынша 2023 жылғы 1- қаңтарға Оңтүстік Америка қызанақ көбелектерімен залалданған жерлерде карантиндік режимді енгізе отырып, оларға қатысты карантиндік аймақ белгіленетін шаруашылық жүргізуші субъектілердің тізбесі</td>
+</tr>
+<tr>
+<td rowspan="2">№</td>
+<td colspan="3" rowspan="2">Карантинді аймақ белгіленетін алқаптар</td>
+<td colspan="2">Залалданған алаңы, гектар</td>
+<td colspan="2">Өңдеуге арналған алаңы, гектар</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>2022</td>
+<td>2023</td>
+<td>2023</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="3">«Greenhause Kazakhatan» жауапкершілігі шектеулі серіктестігі (жылыжай)</td>
+<td>0</td>
+<td>5,3</td>
+<td>0</td>
+<td>5,3</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="3">«Амир Агро» шаруа қожалығы (жылыжай)</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Жаңақоныс» шаруа қожалығы (жылыжай)</td>
+<td>0,48</td>
+<td>0</td>
+<td>0,48</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="3">«Агрофирма Көктем» жауапкершілігі шектеулі серіктестігі (жылыжай)</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="3">«Демеугалиев» шаруа қожалығы (жылыжай)</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="7">Барлығы: ашық жер</td>
-<td>6,6</td>
-<td>6,6</td>
+<td>4</td>
+<td colspan="3">«Алманов» шаруа қожалығы (жылыжай)</td>
+<td>0,25</td>
+<td>0,25</td>
+<td>0,25</td>
+<td>0,25</td>
 </tr>
 <tr>
-<td colspan="7">Барлығы:</td>
+<td colspan="4">Барлығы жылыжай:</td>
+<td>1,73</td>
+<td>7,55</td>
+<td>1,73</td>
+<td>7,55</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3">«Бексултан» шаруа қожалығы</td>
+<td>0,3</td>
+<td>0</td>
+<td>0,3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="3">«Жаңа-Тау» шаруа қожалығы</td>
+<td>0,3</td>
+<td>1</td>
+<td>0,3</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="3">«Квант» шаруа қожалығы</td>
+<td>4</td>
+<td>10</td>
+<td>4</td>
+<td>10</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="3">«Бұтақ» шаруа қожалығы</td>
+<td>2</td>
+<td>2,56</td>
+<td>2</td>
+<td>2,56</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">«Победа» шаруа қожалығы (жылыжай)</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="3">Пригород ауылы</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="4">Барлығы: ашық жер</td>
+<td>6,6</td>
+<td>15,56</td>
+<td>6,6</td>
+<td>15,56</td>
+</tr>
+<tr>
+<td colspan="4">Барлығы:</td>
 <td>8,33</td>
+<td>23,11</td>
 <td>8,33</td>
+<td>23,11</td>
 </tr>
 </table>
 
