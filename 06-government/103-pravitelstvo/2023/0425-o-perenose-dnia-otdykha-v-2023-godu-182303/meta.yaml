@@ -1,0 +1,17 @@
+act_code: '182303'
+requisite: Постановление Правительства Республики Казахстан от 25 апреля 2023 года № 326
+title:
+  rus: О переносе дня отдыха в 2023 году
+  kaz: 2023 жылы демалыс күнін ауыстыру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2023-04-25
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2023-04-25
+  rus: 2023-04-25
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/182303/kaz/25.04.2023
+  rus: https://zan.gov.kz/client/#!/doc/182303/rus/25.04.2023
