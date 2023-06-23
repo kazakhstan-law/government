@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
+source: https://zan.gov.kz/client/#!/doc/78303/rus/23.06.2023
 ---
 
 # Об утверждении перечня автомобильных дорог районного значения по Курмангазинскому району
@@ -23,11 +23,13 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 > *Атырауской области" А. Такешев*  
 > *25 февраля 2014 года*
 
-> *Утвержден постановлением*  
-> *акимата района от 25 февраля*  
-> *2014 года № 118*
+> *Утверждены постановлением*  
+> *Акимата Курмангазинского района*  
+> *от 23 июня 2023 года № 164*
 
-# Перечень автомобильных дорог районного значения Курмангазинского района Атырауской области
+## Перечень автомобильных дорог районного значения Курмангазинского района Атырауской области
+
+> *Сноска. Приложение в редакции постановления акимата Курмангазинского района Атырауской области от 23.06.2023 № 164 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -45,19 +47,19 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>V</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>1</td>
-<td>КЕ-69</td>
+<td>КЕ-KR-1</td>
 <td>&quot;Даулеткерей-Алга&quot;</td>
 <td>9,5</td>
 <td></td>
@@ -68,8 +70,8 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>2</td>
-<td>КЕ-70</td>
-<td>&quot;Котяевка-Шортанбай&quot;</td>
+<td>КЕ-KR-2</td>
+<td>&quot; Бөкейхан -Шортанбай&quot;</td>
 <td>12,0</td>
 <td></td>
 <td></td>
@@ -79,8 +81,8 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>3</td>
-<td>КЕ-71</td>
-<td>&quot;Акколь-Кызылоба-Жыланды-4 разъезд&quot;</td>
+<td>КЕ-KR-3</td>
+<td>&quot;Акколь-Г.Алипов-Жыланды-4 разъезд&quot;</td>
 <td>38,0</td>
 <td></td>
 <td></td>
@@ -90,7 +92,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>4</td>
-<td>КЕ-72</td>
+<td>КЕ-KR-4</td>
 <td>Подъезд к селу Акколь</td>
 <td>9,0</td>
 <td></td>
@@ -101,8 +103,8 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>5</td>
-<td>КЕ-73</td>
-<td>Подъезд к селу Котяевка</td>
+<td>КЕ-KR-5</td>
+<td>Подъезд к селу Бөкейхан</td>
 <td>1,0</td>
 <td></td>
 <td></td>
@@ -112,7 +114,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>6</td>
-<td>КЕ-74</td>
+<td>КЕ-KR-6</td>
 <td>Подъезд к селу Жасталап</td>
 <td>2,2</td>
 <td></td>
@@ -123,7 +125,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>7</td>
-<td>КЕ-75</td>
+<td>КЕ-KR-7</td>
 <td>Подъезд к селу Жыланды</td>
 <td>7,8</td>
 <td></td>
@@ -134,8 +136,8 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>8</td>
-<td>КЕ-76</td>
-<td>Подъезд к селу Дашино</td>
+<td>КЕ-KR-8</td>
+<td>Подъезд к селу Хиуаз</td>
 <td>3,5</td>
 <td></td>
 <td></td>
@@ -145,7 +147,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>9</td>
-<td>КЕ-77</td>
+<td>КЕ-KR-9</td>
 <td>Подъезд к селу Бирлик</td>
 <td>1,5</td>
 <td></td>
@@ -156,7 +158,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>10</td>
-<td>КЕ-78</td>
+<td>КЕ-KR-10</td>
 <td>Подъезд к селу Орлы</td>
 <td>0,8</td>
 <td></td>
@@ -167,8 +169,8 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>11</td>
-<td>КЕ-79</td>
-<td>&quot;Кудряшов-Жана ауыл-Арна (ММС)&quot;</td>
+<td>КЕ-KR-11</td>
+<td>&quot;Кудряшов-Жана село-Арна (ММС)&quot;</td>
 <td>4,1</td>
 <td></td>
 <td></td>
@@ -178,7 +180,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>12</td>
-<td>КЕ-80</td>
+<td>КЕ-KR-12</td>
 <td>Подъезд к железнодорожному разъезду Афанасьева</td>
 <td>2,2</td>
 <td></td>
@@ -189,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>13</td>
-<td>КЕ-81</td>
+<td>КЕ-KR-13</td>
 <td>Подъезд к селу Нуржау</td>
 <td>1,8</td>
 <td></td>
@@ -200,7 +202,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>14</td>
-<td>КЕ-82</td>
+<td>КЕ-KR-14</td>
 <td>Подъезд к селу Жалгызапан</td>
 <td>22,5</td>
 <td></td>
@@ -211,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>15</td>
-<td>КЕ-83</td>
+<td>КЕ-KR-15</td>
 <td>Подъезд к селу Коныртерек</td>
 <td>22,5</td>
 <td></td>
@@ -222,7 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>16</td>
-<td>КЕ-84</td>
+<td>КЕ-KR-16</td>
 <td>Подъезд к селу Уштаган</td>
 <td>18,0</td>
 <td></td>
@@ -233,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>17</td>
-<td>КЕ-85</td>
+<td>КЕ-KR-17</td>
 <td>Подъезд к селу Коптогай</td>
 <td>6,2</td>
 <td></td>
@@ -244,7 +246,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>18</td>
-<td>КЕ-86</td>
+<td>КЕ-KR-18</td>
 <td>Подъезд к селу Рембаза</td>
 <td>2,4</td>
 <td></td>
@@ -255,7 +257,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>19</td>
-<td>КЕ-87</td>
+<td>КЕ-KR-19</td>
 <td>Подъезд к селу Сафон</td>
 <td>2,6</td>
 <td></td>
@@ -266,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>20</td>
-<td>КЕ-88</td>
+<td>КЕ-KR-20</td>
 <td>&quot;4-разъезд-Кигач&quot;</td>
 <td>13,4</td>
 <td></td>
@@ -277,7 +279,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>21</td>
-<td>КЕ-89</td>
+<td>КЕ-KR-21</td>
 <td>Подъезд к селу Енбекши</td>
 <td>2,2</td>
 <td></td>
@@ -288,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>22</td>
-<td>КЕ-90</td>
+<td>КЕ-KR-22</td>
 <td>Подъезд к селу Жапырык</td>
 <td>1,3</td>
 <td></td>
@@ -299,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>23</td>
-<td>КЕ-91</td>
+<td>КЕ-KR-23</td>
 <td>Подъезд к селу Жамбыл</td>
 <td>1,0</td>
 <td></td>
@@ -310,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 </tr>
 <tr>
 <td>24</td>
-<td>КЕ-92</td>
+<td>КЕ-KR-24</td>
 <td>Подъезд к областной противотуберкулезной санатории</td>
 <td>0,5</td>
 <td></td>
@@ -350,25 +352,25 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>грунтовое</td>
 </tr>
 <tr>
-<th>10</th>
-<th>3</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
 </tr>
 <tr>
-<td>6,0</td>
+<td>8,0</td>
 <td></td>
-<td>3,5</td>
+<td>1,5</td>
 <td></td>
 <td>9,5</td>
 <td></td>
 </tr>
 <tr>
+<td>12</td>
 <td></td>
 <td></td>
-<td>12,0</td>
 <td></td>
 <td>12,0</td>
 <td></td>
@@ -390,28 +392,28 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td></td>
 </tr>
 <tr>
+<td>1</td>
 <td></td>
 <td></td>
 <td></td>
+<td>1</td>
 <td></td>
-<td></td>
-<td>1,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>2,2</td>
 <td></td>
 <td></td>
 <td></td>
 <td>2,2</td>
+<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>7,8</td>
 <td></td>
 <td></td>
 <td></td>
 <td>7,8</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -422,12 +424,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>3,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>1,5</td>
 <td></td>
 <td></td>
 <td></td>
 <td>1,5</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -438,12 +440,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>0,8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>4,1</td>
 <td></td>
 <td></td>
 <td></td>
 <td>4,1</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -502,12 +504,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>2,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>2,6</td>
 <td></td>
 <td></td>
 <td></td>
 <td>2,6</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -526,12 +528,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>2,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>1,3</td>
 <td></td>
 <td></td>
 <td></td>
 <td>1,3</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -550,12 +552,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>0,5</td>
 </tr>
 <tr>
-<td>15,0</td>
+<td>49,5</td>
 <td>0,0</td>
-<td>15,5</td>
+<td>1,5</td>
 <td>0,0</td>
-<td>30,5</td>
-<td>155,5</td>
+<td>51</td>
+<td>135</td>
 </tr>
 </table>
 
@@ -576,12 +578,12 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td>снегозащита</td>
 </tr>
 <tr>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>20</th>
-<th>21</th>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
 </tr>
 <tr>
 <td>2</td>
@@ -776,8 +778,24 @@ source: https://zan.gov.kz/client/#!/doc/78303/rus/25.02.2014
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>8</td>
-<td>689,5</td>
+<td>690</td>
 <td>16</td>
 <td>187,5</td>
 <td>0,0</td>
