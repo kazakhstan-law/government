@@ -30,12 +30,19 @@ versions:
   cause:
     code: '179209'
     key: P2300000221
+- date: 2023-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '179209'
+    key: P2300000221
 version_date:
-  kaz: 2023-03-16
-  rus: 2023-03-16
+  kaz: 2023-07-01
+  rus: 2023-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/146220/kaz/16.03.2023
-  rus: https://zan.gov.kz/client/#!/doc/146220/rus/16.03.2023
+  kaz: https://zan.gov.kz/client/#!/doc/146220/kaz/01.07.2023
+  rus: https://zan.gov.kz/client/#!/doc/146220/rus/01.07.2023
 caused_by:
   code: '179209'
   key: P2300000221
