@@ -16,9 +16,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2023-07-18
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '184177'
+    key: G23T000126A
 version_date:
-  kaz: 2021-09-13
-  rus: 2021-09-13
+  kaz: 2023-07-18
+  rus: 2023-07-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/159118/kaz/13.09.2021
-  rus: https://zan.gov.kz/client/#!/doc/159118/rus/13.09.2021
+  kaz: https://zan.gov.kz/client/#!/doc/159118/kaz/18.07.2023
+  rus: https://zan.gov.kz/client/#!/doc/159118/rus/18.07.2023
+caused_by:
+  code: '184177'
+  key: G23T000126A
+  requisite: Постановление акимата Атырауской области от 18 июля 2023 года № 126
+  title:
+    rus: Об утверждении Положения о государственном учреждении «Управление культуры и развития языков Атырауской области»
+    kaz: «Атырау облысы Мәдениет және тілдерді дамыту басқармасы» мемлекеттік мекемесі туралы ережені бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/184177/rus
