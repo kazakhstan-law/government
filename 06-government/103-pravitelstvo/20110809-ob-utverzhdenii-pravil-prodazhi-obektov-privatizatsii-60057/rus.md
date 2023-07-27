@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60057/rus/30.12.2022
+source: https://zan.gov.kz/client/#!/doc/60057/rus/27.07.2023
 ---
 
 # Об утверждении Правил продажи объектов приватизации
