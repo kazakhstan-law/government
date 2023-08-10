@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39146/kaz/01.07.2023
+source: https://zan.gov.kz/client/#!/doc/39146/kaz/10.08.2023
 ---
 
 # Қазақстан Республикасы Қаржы министрлігінің кейбір мәселелері туралы
