@@ -10,8 +10,15 @@ approved_on: 2020-04-07
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2020-04-07
-  rus: 2020-04-07
+  kaz: 2023-08-29
+  rus: 2023-08-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/141385/kaz/07.04.2020
-  rus: https://zan.gov.kz/client/#!/doc/141385/rus/07.04.2020
+  kaz: https://zan.gov.kz/client/#!/doc/141385/kaz/29.08.2023
+  rus: https://zan.gov.kz/client/#!/doc/141385/rus/29.08.2023
+caused_by:
+  code: '185523'
+  requisite: Постановление Правительства Республики Казахстан от 29 августа 2023 года № 731
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/185523/rus
