@@ -24,12 +24,19 @@ versions:
   cause:
     code: '183966'
     key: G23NQ00147A
+- date: 2023-08-31
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '183966'
+    key: G23NQ00147A
 version_date:
-  kaz: 2023-07-10
-  rus: 2023-07-10
+  kaz: 2023-08-31
+  rus: 2023-08-31
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/182286/kaz/10.07.2023
-  rus: https://zan.gov.kz/client/#!/doc/182286/rus/10.07.2023
+  kaz: https://zan.gov.kz/client/#!/doc/182286/kaz/31.08.2023
+  rus: https://zan.gov.kz/client/#!/doc/182286/rus/31.08.2023
 caused_by:
   code: '183966'
   key: G23NQ00147A
