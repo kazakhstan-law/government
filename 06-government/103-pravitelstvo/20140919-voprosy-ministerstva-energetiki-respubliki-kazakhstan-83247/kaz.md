@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/83247/kaz/01.09.2023
+source: https://zan.gov.kz/client/#!/doc/83247/kaz/10.10.2023
 ---
 
 # Қазақстан Республикасы Энергетика министрлігінің мәселелері
