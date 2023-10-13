@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/187147/kaz/13.10.2023
+repealed_on: 2025-10-29
+repealed_by:
+  code: '187147'
+  title: Ұлттық режимнен алып қоюды белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/187147/kaz
 ---
 
 # Ұлттық режимнен алып қоюды белгілеу туралы
