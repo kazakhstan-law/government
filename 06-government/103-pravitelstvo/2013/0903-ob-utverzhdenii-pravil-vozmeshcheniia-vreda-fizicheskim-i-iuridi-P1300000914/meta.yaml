@@ -17,9 +17,24 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2023-10-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '187674'
+    key: P2300000928
 version_date:
-  kaz: 2013-09-03
-  rus: 2013-09-03
+  kaz: 2023-10-19
+  rus: 2023-10-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/74252/kaz/03.09.2013
-  rus: https://zan.gov.kz/client/#!/doc/74252/rus/03.09.2013
+  kaz: https://zan.gov.kz/client/#!/doc/74252/kaz/19.10.2023
+  rus: https://zan.gov.kz/client/#!/doc/74252/rus/19.10.2023
+caused_by:
+  code: '187674'
+  key: P2300000928
+  requisite: Постановление Правительства Республики Казахстан от 19 октября 2023 года № 928
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне өзгерiстер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/187674/rus
