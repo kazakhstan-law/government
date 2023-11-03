@@ -1,0 +1,17 @@
+act_code: '192790'
+requisite: Постановление акимата Райымбекского района Алматинской области от 3 ноября 2023 года № 359
+title:
+  rus: Об отмене постановления
+  kaz: Қаулының күшін жою туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2023-11-03
+approved_by:
+- '154016000001'
+version_date:
+  kaz: 2023-11-03
+  rus: 2023-11-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/192790/kaz/03.11.2023
+  rus: https://zan.gov.kz/client/#!/doc/192790/rus/03.11.2023
