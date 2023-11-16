@@ -1,14 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
+source: https://zan.gov.kz/client/#!/doc/179157/kaz/16.11.2023
 ---
 
 > *Ақмола облысы әкімдігінің*  
 > *2023 жылғы 17 наурыздағы*  
-> *№ А-4/102 қаулыға*  
+> *№ А-4/102 қаулысына*  
 > *1-қосымша*
 
 ## 2023 жылға арналған тыңайтқыштардың (органикалық тыңайтқыштарды қоспағанда) субсидияланатын түрлерінің тізбесі және тыңайтқыштарды сатушыдан сатып алынған тыңайтқыштардың 1 тоннасына (литріне, килограмына) арналған субсидиялар нормалары
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Ақмола облысы әкімдігінің 16.11.2023 № А-11/519 (оның алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
@@ -60,11 +62,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>тонна</td>
 </tr>
 <tr>
-<td rowspan="9">4</td>
+<td rowspan="7">4</td>
 <td colspan="2">Аммоний сульфаты</td>
 <td>N-21, S-24</td>
-<td rowspan="9">60 500,0</td>
-<td rowspan="9">тонна</td>
+<td rowspan="7">60 500,0</td>
+<td rowspan="7">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Түйіршіктелген аммоний сульфаты</td>
@@ -79,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-21, S-24</td>
 </tr>
 <tr>
-<td colspan="2">Түйіршіктелген В маркасы аммоний сульфаты (аммоний сульфаты)</td>
+<td colspan="2">Түйіршіктелген В маркасы аммоний сульфаты (күкірт қышқылды аммоний)</td>
 <td>N-21, S-24</td>
 </tr>
 <tr>
@@ -91,19 +93,19 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-21, S-24</td>
 </tr>
 <tr>
+<td rowspan="4"></td>
 <td colspan="2">Аммоний сульфаты+BMZ</td>
 <td>N-21, S-24, B-0,018, Mn-0,030, Zn-0,060</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td colspan="2">Аммоний сульфаты 21%N+24%S</td>
 <td>N-21, S-24</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
 <td colspan="2">Тукоқоспа 20:2:0 (түйіршіктелген аммоний сульфаты)</td>
 <td>N-20, Р-2, S-24</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Тукоқоспа 20:5:0 (түйіршіктелген аммоний сульфаты)</td>
@@ -162,7 +164,7 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N аммонийлі - кемінде 6,8, N нитратты - кемінде 6,8, N амидті - кемінде 13,5</td>
 </tr>
 <tr>
-<td colspan="2">Сұйық азотты тыңайтқыштар (КАС)</td>
+<td colspan="2">Азотты сұйық тыңайтқыштар (КАС)</td>
 <td>N-32</td>
 </tr>
 <tr>
@@ -260,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-10, P-48, MgO-2, S -2</td>
 </tr>
 <tr>
-<td colspan="2">Туқоспа маркалы: 10:46:0</td>
+<td colspan="2">Тукоқоспа маркалы: 10:46:0</td>
 <td>N-10, P-46</td>
 </tr>
 <tr>
@@ -287,22 +289,19 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td colspan="6">Калийлі тыңайтқыштар</td>
 </tr>
 <tr>
-<td rowspan="2">14</td>
+<td rowspan="4">14</td>
 <td colspan="2">Хлорлы калий</td>
 <td>K2О-60</td>
-<td rowspan="2">103 250,0</td>
-<td rowspan="2">тонна</td>
+<td rowspan="4">103 250,0</td>
+<td rowspan="4">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Хлорлы калий, SiB маркалы (модификацияланған минералды тыңайтқыш)</td>
 <td>K2O-60</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
 <td colspan="2">Хлорлы калий</td>
 <td>K2O-45</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Growfert кешенді тыңайтқышы маркалы: 0-0-61 (KCl)</td>
@@ -405,11 +404,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-10, Р-34</td>
 </tr>
 <tr>
-<td rowspan="10">20</td>
+<td rowspan="8">20</td>
 <td colspan="2">Азотты-фосфорлы-калийлі тыңайтқышы, 15:15:15 маркалы</td>
 <td>N-15, P-15, K-15</td>
-<td rowspan="10">146 428,57</td>
-<td rowspan="10">тонна</td>
+<td rowspan="8">146 428,57</td>
+<td rowspan="8">тонна</td>
 </tr>
 <tr>
 <td colspan="2">15:15:15 маркалы нитроаммофоска</td>
@@ -440,22 +439,22 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-16, P-16, K-16</td>
 </tr>
 <tr>
+<td rowspan="11"></td>
 <td colspan="2">Нитроаммофоска 16:16:16, SiB маркалы (модификацияланған минералды тыңайтқышы)</td>
 <td>N- 16, P-16, K-16</td>
+<td rowspan="11"></td>
+<td rowspan="11"></td>
 </tr>
 <tr>
 <td colspan="2">17:17:17 маркалы нитроаммофоска</td>
 <td>N- 17, P-17, K-17</td>
 </tr>
 <tr>
-<td rowspan="11"></td>
-<td colspan="2">Жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">Жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 16, P-16, K-16</td>
-<td rowspan="11"></td>
-<td rowspan="11"></td>
 </tr>
 <tr>
-<td colspan="2">16:16:16 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">16:16:16 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 16, P-16, K-16</td>
 </tr>
 <tr>
@@ -463,7 +462,7 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N- 7, P-7, K-7</td>
 </tr>
 <tr>
-<td colspan="2">8:24:24 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">8:24:24 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 8, P-24, K-24</td>
 </tr>
 <tr>
@@ -479,27 +478,27 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N- 10, P-20, K-20</td>
 </tr>
 <tr>
-<td colspan="2">17:0,1:28 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">17:0,1:28 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 17, P-0,1, K-28</td>
 </tr>
 <tr>
-<td colspan="2">21:0,1:21 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">21:0,1:21 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 21, P-0,1, K-21</td>
 </tr>
 <tr>
-<td colspan="2">15:24:16 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td rowspan="12"></td>
+<td colspan="2">15:24:16 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N- 15, P-24, K-16</td>
+<td rowspan="12"></td>
+<td rowspan="12"></td>
 </tr>
 <tr>
 <td colspan="2">NPK 16-16-8 маркалы нитроаммофоска (азофоска)</td>
 <td>N-16, P-16, K-8</td>
 </tr>
 <tr>
-<td rowspan="13"></td>
 <td colspan="2">Диаммофоска 10-26-26 маркалы азотты-фосфорлы-калийлі тыңайтқышы</td>
 <td>N 10 P 26 K 26</td>
-<td rowspan="13"></td>
-<td rowspan="13"></td>
 </tr>
 <tr>
 <td colspan="2">Азотты-фосфорлы-калийлі тыңайтқышы, NPK-1 (диаммофоска) маркалы</td>
@@ -538,8 +537,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-12 P-32 K-12</td>
 </tr>
 <tr>
+<td rowspan="8"></td>
 <td colspan="2">Азотты-фосфорлы-калийлі тыңайтқышы, 13:19:19 маркалы</td>
 <td>N-13, P-19, K-19</td>
+<td rowspan="8"></td>
+<td rowspan="8"></td>
 </tr>
 <tr>
 <td colspan="2">8-20-30 маркалы азотты-фосфорлы-калийлі тыңайтқышы</td>
@@ -549,22 +551,19 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td colspan="2">Азотты-фосфорлы-калийлі тыңайтқышы, 8:20:30 маркалы</td>
 </tr>
 <tr>
-<td rowspan="5"></td>
 <td colspan="2">Азотты-фосфорлы-калийлі тыңайтқышы, 8:19:29 маркалы</td>
 <td>N-8, P-19, K-29</td>
-<td rowspan="5"></td>
-<td rowspan="5"></td>
 </tr>
 <tr>
 <td colspan="2">NPK 13-13-24 маркалы нитроаммофоска (азофоска)</td>
 <td>N-13, P-13, K-24</td>
 </tr>
 <tr>
-<td colspan="2">Нитроаммофоска маркалы: 19:4:19</td>
+<td colspan="2">19:4:19 маркалы нитроаммофоска</td>
 <td>N-19, P-4, K-19</td>
 </tr>
 <tr>
-<td colspan="2">Нитроаммофоска маркалы: 21:1:21</td>
+<td colspan="2">21:1:21 маркалы нитроаммофоска</td>
 <td>N-21, P-1, K-21</td>
 </tr>
 <tr>
@@ -572,14 +571,14 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-23, P-13, K-8</td>
 </tr>
 <tr>
-<td rowspan="11">21</td>
-<td colspan="2">Нитроаммофоска NPK, 16:16:16+В маркалы</td>
+<td rowspan="8">21</td>
+<td colspan="2">16:16:16+В маркалы нитроаммофоска NPK</td>
 <td>N- 16, P-16, K-16, B-0,03</td>
-<td rowspan="11">145 089,0</td>
-<td rowspan="11">тонна</td>
+<td rowspan="8">145 089,0</td>
+<td rowspan="8">тонна</td>
 </tr>
 <tr>
-<td colspan="2">Нитроаммофоска NPK, 16:16:16+Zn маркалы</td>
+<td colspan="2">16:16:16+Zn маркалы нитроаммофоска NPK</td>
 <td>N- 16, P-16, K-16, Zn-0,21</td>
 </tr>
 <tr>
@@ -607,8 +606,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-20, P-10, K-10, S-4</td>
 </tr>
 <tr>
+<td rowspan="11"></td>
 <td colspan="2">NPК(S) 15-15-15(10) маркалы азотты-фосфорлы-калийлі құрамында күкірт бар тыңайтқышы</td>
 <td>N-15, P-15, K-15, S-10</td>
+<td rowspan="11"></td>
+<td rowspan="11"></td>
 </tr>
 <tr>
 <td colspan="2">NPK 27-6-6+S маркалы нитроаммофоска (азофоска)</td>
@@ -619,11 +621,8 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-13, P-17, K-17, S-6</td>
 </tr>
 <tr>
-<td rowspan="11"></td>
 <td colspan="2">NPК(S) 13-17-17(6)+0,15В+0,6Zn маркалы азотты-фосфорлы-калийлі құрамында күкірт бар тыңайтқышы</td>
 <td>N-13, P-17, K-17, S-6, В-0,15, Zn-0,6</td>
-<td rowspan="11"></td>
-<td rowspan="11"></td>
 </tr>
 <tr>
 <td colspan="2">14:14:23 маркалы нитроаммофоска</td>
@@ -654,8 +653,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-10, P-26, K-26, S-2, B-0,02, Mn-0,03, Zn-0,06, Cu-0,03</td>
 </tr>
 <tr>
+<td rowspan="10"></td>
 <td colspan="2">Нитроаммофоска (азофоска), NPK 20:10:10+S+B маркалы</td>
 <td>N 20, P 10, K 10, S-4, B-0,03</td>
+<td rowspan="10"></td>
+<td rowspan="10"></td>
 </tr>
 <tr>
 <td colspan="2">Нитроаммофоска (азофоска), NPK 20:10:10+S+BMZ маркалы</td>
@@ -666,29 +668,26 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-20, P-10, K-10, S-4, B-0,02, Mn-0,03, Zn-0,06, Cu-0,03</td>
 </tr>
 <tr>
-<td rowspan="7"></td>
-<td colspan="2">Жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">Жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td rowspan="2">N-16, P-16, K-16, S-2, Ca-1, Mg-0,6</td>
-<td rowspan="7"></td>
-<td rowspan="7"></td>
 </tr>
 <tr>
-<td colspan="2">16:16:16 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">16:16:16 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 </tr>
 <tr>
-<td colspan="2">8:24:24 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">8:24:24 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N-8, P-24, K-24, S-2, Ca-1, Mg-0,6</td>
 </tr>
 <tr>
-<td colspan="2">17:0,1:28 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">17:0,1:28 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N-17, P-0,1, K-28, S-0,5, Ca-0,5, Mg-0,5</td>
 </tr>
 <tr>
-<td colspan="2">21:0,1:21 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">21:0,1:21 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N-21, P-0,1, K-21, S-2, Ca-1, Mg-0,6</td>
 </tr>
 <tr>
-<td colspan="2">15:24:16 маркалы жақсартылған түйіршікті құрамды нитроаммофоска</td>
+<td colspan="2">15:24:16 маркалы жақсартылған гранулометриялық құрамды нитроаммофоска</td>
 <td>N-15, P-24, K-16, S-2, Ca-1, Mg-0,6</td>
 </tr>
 <tr>
@@ -696,18 +695,18 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-14, P-14, K-23, S-1,7, Ca-0,5, Mg-0,9</td>
 </tr>
 <tr>
-<td rowspan="4">22</td>
+<td rowspan="10">22</td>
 <td colspan="2">NP+S=20:20+14 маркалы құрамында күкірт бар азотты-фосфорлы тыңайтқышы</td>
 <td>N-20, P-20, S-14</td>
-<td rowspan="4">75 000,0</td>
-<td rowspan="4">тонна</td>
+<td rowspan="10">75 000,0</td>
+<td rowspan="10">тонна</td>
 </tr>
 <tr>
 <td colspan="2">20:20 маркалы құрамында күкірт бар күрделі азотты-фосфорлы тыңайтқышы</td>
 <td>N-20, P-20, S-14</td>
 </tr>
 <tr>
-<td colspan="2">20:20 маркалы құрамында құрамында күкірт бар күрделі азотты-фосфорлы тыңайтқышы</td>
+<td colspan="2">20:20 маркалы құрамында күкірт бар күрделі азотты-фосфорлы тыңайтқышы</td>
 <td>N-20, P-20, S-8-14</td>
 </tr>
 <tr>
@@ -715,11 +714,8 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-20, P-20, S-14</td>
 </tr>
 <tr>
-<td rowspan="6"></td>
 <td colspan="2">NPS (N-20, P-20 +S-14) маркалы ФЕРТИМ (КМУ ФЕРТИМ) кешенді минералды тыңайтқыштар</td>
 <td>N-20, P-20, S-14</td>
-<td rowspan="6"></td>
-<td rowspan="6"></td>
 </tr>
 <tr>
 <td colspan="2">Құрамында күкірт бар азотты-фосфорлы тыңайтқышы</td>
@@ -762,17 +758,17 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 </tr>
 <tr>
 <td>24</td>
-<td colspan="2">А,Б,В маркалы құрамында азотты-фосфорлы-күкірт тыңайтқышы (NPS-тынайтқыш), ұнтақ тәрізді</td>
+<td colspan="2">А, Б, В маркалы құрамында азотты-фосфорлы-күкірт тыңайтқышы (NPS-тынайтқыш), ұнтақ тәрізді</td>
 <td>NH4 – кемінде 6%; Р2О5-11,0; SO3-15.0; СаО-14,0; MgO-0,25</td>
 <td>124 327,0</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td rowspan="3">25</td>
+<td rowspan="4">25</td>
 <td colspan="2">Моноаммонийфосфат арнайы суда еритін, А маркалы</td>
 <td>N-12, P2О5-61</td>
-<td rowspan="3">475 000,0</td>
-<td rowspan="3">тонна</td>
+<td rowspan="4">475 000,0</td>
+<td rowspan="4">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Моноаммонийфосфат</td>
@@ -783,11 +779,8 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-12%, P2O-61%</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">Growfert кешенді тыңайтқышы маркалы: 12-61-0 (MAP)</td>
 <td>N - 12%, P2O5 -61%</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td rowspan="5">26</td>
@@ -830,11 +823,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>литр</td>
 </tr>
 <tr>
-<td rowspan="8">29</td>
+<td rowspan="3">29</td>
 <td colspan="2">YaraLiva Calcinit (кальций нитраты) тыңайтқышы</td>
 <td rowspan="3">N- 15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
-<td rowspan="8">187 500,00</td>
-<td rowspan="8">тонна</td>
+<td rowspan="3">187 500,00</td>
+<td rowspan="3">тонна</td>
 </tr>
 <tr>
 <td colspan="2">YaraLivaТМ CALCINIT кальций нитраты</td>
@@ -843,8 +836,11 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td colspan="2">YaraLiva CALCINIT (кальцийлі селитра)</td>
 </tr>
 <tr>
+<td rowspan="7"></td>
 <td colspan="2">Концентрацияланған кальций нитраты (Haifa-Cal Prime)</td>
 <td>N-17, N-NО3-16,7, CaO-33; Ca-23,5</td>
+<td rowspan="7"></td>
+<td rowspan="7"></td>
 </tr>
 <tr>
 <td colspan="2">Сұйық кальций нитраты</td>
@@ -863,22 +859,19 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-26,8%, CaO-31%</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
 <td colspan="2">«Е» маркалы түйіршіктелген кальций селитрасы</td>
 <td>N-15,5%, CaO-26,5%</td>
-<td rowspan="2"></td>
-<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Abocol CN кальций селитрасы</td>
 <td>N-15,5, N-NO3-14,4, CaO-26,5</td>
 </tr>
 <tr>
-<td rowspan="7">30</td>
+<td rowspan="5">30</td>
 <td colspan="2">Kristalon Special 18-18-18 минералды тыңайтқышы</td>
 <td>N-18, NH4-3,3, NO3-4,9, Nкарб- 9,8, P2O5-18, K2O-18, MgO-3, SO3-5, B-0,025, Cu-0,01, Fe- 0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td rowspan="7">420 000,00</td>
-<td rowspan="7">тонна</td>
+<td rowspan="5">420 000,00</td>
+<td rowspan="5">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Kristalon Special 18-18-18</td>
@@ -897,19 +890,19 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-13, NH4-8,6, NO3-4,4, P2O5-40, K2O-13, SO3-27,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
 </tr>
 <tr>
+<td rowspan="5"></td>
 <td colspan="2">Kristalon Yellow 13-40-13</td>
 <td>N-13, NH4-8,6, NO3-4,4, P2O5-40, K2O-13, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td rowspan="5"></td>
+<td rowspan="5"></td>
 </tr>
 <tr>
 <td colspan="2">Kristalon Cucumber 14-11-31 минералды тыңайтқышы</td>
 <td>N-14, NO3-7, Nкарб-7, P2O5-11, K2O-31, MgO-2,5, SO3-5, B-0,02, Cu-0,01, Fe-0,15, Mn-0,1, Zn-0,01, Mo-0,002</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
 <td colspan="2">Kristalon Cucumber 14-11-31</td>
 <td>N-14, NO3-7, Nкарб-7, P2O5-11, K2O-31, MgO-2,5, SO3-5, B-0,02, Cu-0,01, Fe-0,15, Mn-0,1, Zn-0,01, Mo-0,002</td>
-<td rowspan="3"></td>
-<td rowspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">Kristalon Brown 3-11-38 микроэлементтері бар кешенді суда еритін NPK тыңайтқышы</td>
@@ -1063,18 +1056,21 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>тонна</td>
 </tr>
 <tr>
-<td rowspan="5">50</td>
+<td rowspan="2">50</td>
 <td colspan="2">Yara Mila NPK 16-27-7 тыңайтқышы</td>
 <td rowspan="2">N-16, P2O5-27, K2O-7, SO3-5, Zn-0,1</td>
-<td rowspan="5">230 000,00</td>
-<td rowspan="5">тонна</td>
+<td rowspan="2">230 000,00</td>
+<td rowspan="2">тонна</td>
 </tr>
 <tr>
 <td colspan="2">YaraMila 16-27-7 тыңайтқышы</td>
 </tr>
 <tr>
+<td rowspan="3"></td>
 <td colspan="2">Yara Mila NPK 12-24-12 тыңайтқышы</td>
 <td>N-12, P2O5-24, K2O-12, MgO-2, SO3-5, Fe-0,2, Zn-0,007</td>
+<td rowspan="3"></td>
+<td rowspan="3"></td>
 </tr>
 <tr>
 <td colspan="2">Yara Mila NPK 9-12-25 тыңайтқышы</td>
@@ -1208,18 +1204,21 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>литр</td>
 </tr>
 <tr>
-<td rowspan="5">68</td>
+<td rowspan="2">68</td>
 <td colspan="2">Cуда еритін NPK тыңайтқышы, маркалы 6:14:35+2MgO+MЭ</td>
 <td rowspan="2">N-6, P-14, K-35, MgO-2, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
-<td rowspan="5">566 940,00</td>
-<td rowspan="5">тонна</td>
+<td rowspan="2">566 940,00</td>
+<td rowspan="2">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Cуда еритін NPK тыңайтқышы маркалы: 6:14:35+2MgO+МЭ</td>
 </tr>
 <tr>
+<td rowspan="10"></td>
 <td colspan="2">Суда еритін NPK тыңайтқышы, маркалы 12:8:31+2MgO+MЭ</td>
 <td>N-12, P-8, K-31, MgO-2, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
+<td rowspan="10"></td>
+<td rowspan="10"></td>
 </tr>
 <tr>
 <td colspan="2">Суда еритін NPK тыңайтқышы маркалы: 12:8:31+2MgO+МЭ</td>
@@ -1230,11 +1229,8 @@ source: https://zan.gov.kz/client/#!/doc/179157/kaz/17.03.2023
 <td>N-13, P-40, K-13+МЭ</td>
 </tr>
 <tr>
-<td rowspan="7"></td>
 <td colspan="2">Суда еритін NPK тыңайтқышы, маркалы 13:40:13+MЭ</td>
 <td>N-13, P-40, K-13, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
-<td rowspan="7"></td>
-<td rowspan="7"></td>
 </tr>
 <tr>
 <td colspan="2">Суда еритін NPK тыңайтқышы, маркалы 15:15:30+1,5MgO+МЭ</td>
@@ -1537,7 +1533,7 @@ L- аминқышқылдар - 6%
 <td>N-15%; Р205-5%; К2O-30%, MgO - 2%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 </tr>
 <tr>
-<td colspan="2">Мастер 18:18:18+3MgO+S+TE (Master 18:18:18+3MgO+S+TE тыңайтқышы</td>
+<td colspan="2">Мастер 18:18:18+3MgO+S+TE (Master 18:18:18+3MgO+S+TE) тыңайтқышы</td>
 <td>N-18%; Р205-18%; К2O-18%, MgO - 3%, SO3- 6%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 </tr>
 <tr>
@@ -1660,18 +1656,21 @@ L- аминқышқылдар - 6%
 <td>литр</td>
 </tr>
 <tr>
-<td rowspan="4">119</td>
-<td colspan="2" rowspan="2">&quot;Нутривант Плюс зерновой&quot; тыңайтқышы</td>
+<td rowspan="2">119</td>
+<td colspan="2" rowspan="2">«Нутривант Плюс зерновой» тыңайтқышы</td>
 <td>N-19; Р-19; К-19, MgO-2, Fe-0,05, Zn-0,2, B-0,1, Mn-0,2, Cu-0,2, Mo-0,002</td>
-<td rowspan="4">2 678,50</td>
-<td rowspan="4">килограмм</td>
+<td rowspan="2">2 678,50</td>
+<td rowspan="2">килограмм</td>
 </tr>
 <tr>
 <td>N-6; Р-23; К-35, MgO-1, Fe-0,05, Zn-0,2, B-0,1, Mn-0,2, Cu-0,25, Mo-0,002</td>
 </tr>
 <tr>
-<td colspan="2">&quot;Нутривант Плюс масличный&quot; тыңайтқышы</td>
+<td rowspan="2"></td>
+<td colspan="2">«Нутривант Плюс масличный» тыңайтқышы</td>
 <td>P-20; K-33, MgO-1, S-7,5, Zn-0,02, B-0,15, Mn-0,5, Mo-0,001</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Нутривант Плюс UNICROP 0-36-24</td>
@@ -1692,7 +1691,7 @@ L- аминқышқылдар - 6%
 <td>литр</td>
 </tr>
 <tr>
-<td colspan="2">Ультрамаг Бор (N-4,7%,В-11,0%) минералды тыңайтқышы</td>
+<td colspan="2">Ультрамаг Бор (N-4,7%, В-11,0%) минералды тыңайтқышы</td>
 <td>B-11, N-4,7</td>
 <td>литр</td>
 </tr>
@@ -2019,11 +2018,11 @@ L- аминқышқылдар - 6%
 <td>килограмм</td>
 </tr>
 <tr>
-<td rowspan="4">167</td>
+<td rowspan="9">167</td>
 <td colspan="2">Growfert+Micro кешенді тыңайтқышы маркалы: 10-52-10</td>
 <td>N - 10%, P2O5 -52%, K2O – 10%, B – 0,01%, Cu – 0,01%, Fe – 0,02%, Mn – 0,01%, Mo – 0,005%, Zn - 0,01%</td>
-<td rowspan="4">312,50</td>
-<td rowspan="4">килограмм</td>
+<td rowspan="9">312,50</td>
+<td rowspan="9">килограмм</td>
 </tr>
 <tr>
 <td colspan="2">Growfert+Micro кешенді тыңайтқышы маркалы: 13-6-26+8 CaO</td>
@@ -2041,14 +2040,11 @@ Growfert+Micro кешенді тыңайтқышы маркалы:
 <td>N - 15%, P2O5 -30%, K2O – 15%, B – 0,01%, Cu – 0,01%, Fe – 0,02%, Mn – 0,01%, Mo – 0,005%, Zn - 0,01%</td>
 </tr>
 <tr>
-<td rowspan="7"></td>
 <td colspan="2">
 Growfert+Micro кешенді тыңайтқышы маркалы:
 16-8-24+2MgO
 </td>
 <td>N - 16%, P2O5 -8%, K2O – 24%, MgO - 2%, B – 0,01%, Cu – 0,01%, Fe – 0,02%, Mn – 0,01%, Mo – 0,005%, Zn - 0,01%</td>
-<td rowspan="7"></td>
-<td rowspan="7"></td>
 </tr>
 <tr>
 <td colspan="2">Growfert+Micro кешенді тыңайтқышы маркалы: 18-18-18+1MgO</td>
@@ -2070,8 +2066,11 @@ Growfert+Micro кешенді тыңайтқышы маркалы:
 <td>N - 8%, P2O5 -20%, K2O – 30%, B – 0,01%, Cu – 0,01%, Fe – 0,02%, Mn – 0,01%, Mo – 0,005%, Zn - 0,01%</td>
 </tr>
 <tr>
+<td rowspan="2"></td>
 <td colspan="2">3-5-55 маркалы Growfert+Micro кешенді тыңайтқышы</td>
 <td>N - 3%, P2O5 -5%, K2O – 55%, B – 0,01%, Cu – 0,01%, Fe – 0,02%, Mn – 0,01%, Mo – 0,005%, Zn - 0,01%</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">3-8-42 маркалы Growfert+Micro кешенді тыңайтқышы</td>
@@ -2375,7 +2374,7 @@ P2О5:5, K2О:12, SО3:3,5
 <tr>
 <td>210</td>
 <td colspan="2">Нановит Молибденді</td>
-<td>N – 3,34 %, SO3 – 0,25 %; В – 0,50 %л; Мо – 3,00 %; Zn – 0,50 %; аминқышқылдар – 4,26 %; органикалық қышқылдар – 16,5 %; полисахаридтер – 0,00417 %; фитогормондар – 0,00048 %</td>
+<td>N – 3,34 %, SO3 – 0,25 %; В – 0,50 %; Мо – 3,00 %; Zn – 0,50 %; аминқышқылдар – 4,26 %; органикалық қышқылдар – 16,5 %; полисахаридтер – 0,00417 %; фитогормондар – 0,00048 %</td>
 <td>1 900,00</td>
 <td>литр</td>
 </tr>
@@ -2389,17 +2388,17 @@ P2О5:5, K2О:12, SО3:3,5
 <tr>
 <td rowspan="3">212</td>
 <td colspan="2">3:18:18 маркалы НАНОВИТ ТЕРРА</td>
-<td>N – 3,0 %, Р2 О5 – 18,0 %; К2О –18,0 %; MgO–0,015 %; SO3 – 0,015 %; В – 0,022 %; Cu – 0,038 %; ; Fe – 0,07 %; Mn – 0,030 %; Мо – 0,015 %; Zn – 0,015 %;, Si–0,015 %; Co – 0,0015 %</td>
+<td>N – 3,0 %, Р2 О5 – 18,0 %; К2О –18,0 %; MgO–0,015 %; SO3 – 0,015 %; В – 0,022 %; Cu – 0,038 %; Fe – 0,07 %; Mn – 0,030 %; Мо – 0,015 %; Zn – 0,015 %; Si–0,015 %; Co – 0,0015 %</td>
 <td rowspan="3">1 412,50</td>
 <td rowspan="3">литр</td>
 </tr>
 <tr>
 <td colspan="2">5:20:5 маркалы НАНОВИТ ТЕРРА</td>
-<td>N – 5,0 %, Р2 О5 – 20,0 %; К2О –5,0 %; MgO–0,010 %; SO3 – 0,010 %; В – 0,020 %; Cu – 0,040 %; ; Fe – 0,070 %; Mn – 0,035 %; Мо – 0,010 %; Zn – 0,010 %;, Si–0,010 %; Co – 0,001 %</td>
+<td>N – 5,0 %, Р2 О5 – 20,0 %; К2О –5,0 %; MgO–0,010 %; SO3 – 0,010 %; В – 0,020 %; Cu – 0,040 %; Fe – 0,070 %; Mn – 0,035 %; Мо – 0,010 %; Zn – 0,010 %; Si–0,010 %; Co – 0,001 %</td>
 </tr>
 <tr>
 <td colspan="2">9:18:9 маркалы НАНОВИТ ТЕРРА</td>
-<td>N – 9,0 %, Р2 О5 – 18,0 %; К2О –9,0 %; MgO–0,012 %; SO3 – 0,012 %; В – 0,018 %; Cu – 0,035 %; ; Fe – 0,065 %; Mn – 0,028 %; Мо–0,012 %; Zn – 0,012 %;, Si–0,012 %; Co – 0,0012 %</td>
+<td>N – 9,0 %, Р2 О5 – 18,0 %; К2О –9,0 %; MgO–0,012 %; SO3 – 0,012 %; В – 0,018 %; Cu – 0,035 %; Fe – 0,065 %; Mn – 0,028 %; Мо–0,012 %; Zn – 0,012 %; Si–0,012 %; Co – 0,0012 %</td>
 </tr>
 <tr>
 <td>213</td>
@@ -2600,11 +2599,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>литр</td>
 </tr>
 <tr>
-<td rowspan="10">240</td>
+<td rowspan="5">240</td>
 <td colspan="2">Poly-Feed 5.1.1 суда еритін NPK тыңайтқышы, Формуласы: Poly-Feed GG 15-30-15</td>
 <td>N-15, P2O5-30, K2O-15</td>
-<td rowspan="10">700 000,00</td>
-<td rowspan="10">тонна</td>
+<td rowspan="5">700 000,00</td>
+<td rowspan="5">тонна</td>
 </tr>
 <tr>
 <td colspan="2">Poly-Feed 5.1.1 суда еритін NPK тыңайтқышы, Формуласы: Poly-Feed GG 19-19-19</td>
@@ -2623,8 +2622,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>N-19, P2O5-19, K2O-19, 1MgO</td>
 </tr>
 <tr>
+<td rowspan="9"></td>
 <td colspan="2">Poly-Feed 5.1.1 суда еритін NPK тыңайтқышы, Формуласы: Poly-Feed Drip 26-12-12+2MgO</td>
 <td>N-26, P2O5-12, K2O-12, 2MgO</td>
+<td rowspan="9"></td>
+<td rowspan="9"></td>
 </tr>
 <tr>
 <td colspan="2">Poly-Feed 5.1.1 суда еритін NPK тыңайтқышы, Формуласы: Poly-Feed Drip 20-20-20</td>
@@ -2643,11 +2645,8 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>N-23, P2O5-7, K2O-23</td>
 </tr>
 <tr>
-<td rowspan="8"></td>
 <td colspan="2">Poly-Feed 6.0.1 суда еритін NPK тыңайтқышы, тотықтырғыш. Формуласы: Poly-Feed GG 16-8-32</td>
 <td>N-16, P2O5-8, K2O-32</td>
-<td rowspan="8"></td>
-<td rowspan="8"></td>
 </tr>
 <tr>
 <td colspan="2">Poly-Feed 6.0.1 суда еритін NPK тыңайтқышы, тотықтырғыш. Формуласы: Poly-Feed Drip 14-7-21+2MgO2</td>
@@ -2662,8 +2661,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>N-12, P2O5-5, K2O-40, 2MgO</td>
 </tr>
 <tr>
+<td rowspan="4"></td>
 <td colspan="2">Poly-Feed 6.0.1 суда еритін NPK тыңайтқышы, тотықтырғыш. Формуласы: Poly-Feed Foliar 16-8-34</td>
 <td>N-16, P2O5-8, K2O-34</td>
+<td rowspan="4"></td>
+<td rowspan="4"></td>
 </tr>
 <tr>
 <td colspan="2">Poly-Feed 6.0.1 суда еритін NPK тыңайтқышы, тотықтырғыш. Формуласы: Poly-Feed Foliar 12-5-40</td>
@@ -2717,15 +2719,18 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>N-12, P2O5-45, K2O-12</td>
 </tr>
 <tr>
-<td rowspan="3">242</td>
+<td>242</td>
 <td colspan="2">Multicote™ Формуласы: Multicote 18-6-12+ME</td>
 <td>N-18, P2O5-6, K2O-12</td>
-<td rowspan="3">1 325 000,00</td>
-<td rowspan="3">тонна</td>
+<td>1 325 000,00</td>
+<td>тонна</td>
 </tr>
 <tr>
+<td rowspan="2"></td>
 <td colspan="2">Multicote™ Формуласы: Multicote 15-7-15+2MgO+ME</td>
 <td>N-15, P2O5-7, K2O-15</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">Multicote™ Формуласы: Multicote 12-32-5+1,2MgO+ME</td>
@@ -2806,11 +2811,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>литр</td>
 </tr>
 <tr>
-<td rowspan="4">253</td>
+<td rowspan="3">253</td>
 <td colspan="2">SPRIN 18-18-18+TE</td>
 <td>N-18; NO3-N-10,4; NH4-N-7,6; Р2О5-18; K2O-18; B-0,04; Fe-0,04; Mn-0,04; Zn-0,04</td>
-<td rowspan="4">1 997,50</td>
-<td rowspan="4">килограмм</td>
+<td rowspan="3">1 997,50</td>
+<td rowspan="3">килограмм</td>
 </tr>
 <tr>
 <td colspan="2">SPRIN 20-20-20+TE</td>
@@ -2821,8 +2826,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>N-15; NO3-N-7,5; Р2О5-31; K2O-15; B-0,04; Fe-0,04; Mn-0,04; Zn-0,04</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2">Sprin 10-40-10 ME</td>
 <td>N-10, NO3-N-1,5, NH4-N-8,5 P2O5-40, K2O-10, B-0,04, Fe-0,04, Mn-0,04, Zn-0,04</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>254</td>
@@ -2945,11 +2953,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>тонна</td>
 </tr>
 <tr>
-<td rowspan="5">270</td>
+<td rowspan="3">270</td>
 <td colspan="2">«Контур» маркалы «Контур» агрохимикаты</td>
 <td>Fe-0,04; Zn-0,015; Mn-0,04; Cu-0,015; MgO-0,5; Mo-0,001; гумин қышқылдары-7; фульвоқышқылдар-3</td>
-<td rowspan="5">2 425,00</td>
-<td rowspan="5">литр</td>
+<td rowspan="3">2 425,00</td>
+<td rowspan="3">литр</td>
 </tr>
 <tr>
 <td colspan="2">«Контур Старт» маркалы «Контур» агрохимикаты</td>
@@ -2960,8 +2968,11 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td>Fe-0,04; Zn-0,015; Mn-0,04; Cu-0,015; MgO-0,5; Mo-0,001; гумин қышқылдары -7; фульвоқышқылдар-3; янтарь қышқылы-4; аминқышқылдар-6,6</td>
 </tr>
 <tr>
+<td rowspan="2"></td>
 <td colspan="2">«Контур Антистресс» маркалы «Контур» агрохимикаты</td>
 <td>Fe-0,04; Zn-0,015; Mn-0,04; Cu-0,015; MgO-0,5; Mo-0,001; гумин қышқылдары-7; фульвоқышқылдар-3; арахид қышқылы-0,0001; тритерпен қышқылдары-0,2; аминқышқылдар-4,5</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">«Контур Аргент» маркалы «Контур» агрохимикаты</td>
@@ -3074,7 +3085,7 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 </tr>
 <tr>
 <td>286</td>
-<td colspan="2">«НаноКремний&quot; микроэлементтері бар минералды тыңайтқышы</td>
+<td colspan="2">«НаноКремний» микроэлементтері бар минералды тыңайтқышы</td>
 <td>Si-17-22%; Fe-1-4%; Cu-0,05-0,1%; Zn-0,05-0,1%</td>
 <td>17 500,00</td>
 <td>килограмм</td>
@@ -3813,13 +3824,6 @@ N-2,73% Cu-5,4% Zn-5,3% Mo-1,3% Mn-2,43%, CaO-3,41% Fe-3,85%, органикал
 <td colspan="2">FERTYAX</td>
 <td>N-6,3, P2O5-13,2</td>
 <td>5 500,00</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>381</td>
-<td colspan="2">FOLIAPLANT K52</td>
-<td>N-3,3, K2O-52,1, B-0,0300, Cu-0,0297, Fe-0,0490, Mn-0,0396, Mo-0,0054, Zn-0,0295</td>
-<td>2 075,00</td>
 <td>литр</td>
 </tr>
 </table>
