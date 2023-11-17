@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/179276/kaz/27.03.2023
+source: https://zan.gov.kz/client/#!/doc/179276/kaz/17.11.2023
 ---
 
 > *Жетісу облысы әкімдігінің 2023 жылғы 27 наурыздағы № 83 қаулыға 1 - қосымша*

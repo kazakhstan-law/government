@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/179276/rus/27.03.2023
+source: https://zan.gov.kz/client/#!/doc/179276/rus/17.11.2023
 ---
 
 > *Приложение 1 к постановлению акимата области Жетысу от 27 марта 2023 года № 83*
