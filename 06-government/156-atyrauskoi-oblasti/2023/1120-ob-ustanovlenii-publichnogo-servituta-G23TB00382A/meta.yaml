@@ -1,0 +1,24 @@
+key: G23TB00382A
+akn: /akn/kz/act/2023-11-20/G23TB00382A
+act_code: '189830'
+requisite: Постановление акимата Жылыойского района Атырауской области от 20 ноября 2023 года № 382
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Жария сервитутты белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2023-11-20
+approved_by:
+- '156009000001'
+versions:
+- date: 2023-11-20
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2023-11-20
+  rus: 2023-11-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/189830/kaz/20.11.2023
+  rus: https://zan.gov.kz/client/#!/doc/189830/rus/20.11.2023
