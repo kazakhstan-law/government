@@ -1,5 +1,5 @@
 ---
-version_id: '178720_619618'
+version_id: '178720_673059'
 act_code: '178720'
 language: kaz
 title: Ақтөбе облысы бойынша 2023 жылға арналған мектепке дейінгі тәрбие мен оқытуға мемлекеттік білім беру тапсырысын, ата-ана төлемақысының мөлшерін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '153000000001'
 approval_date: 2023-02-13
-version_date: 2023-02-13
+version_date: 2023-11-21
 registry_number: '178720'
-source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
+caused_by:
+  code: '188979'
+  title: «Ақтөбе облысы бойынша 2023 жылға арналған мектепке дейінгі тәрбие мен оқытуға мемлекеттік білім беру тапсырысын, ата-ана төлемақысының мөлшерін бекіту туралы» Ақтөбе облысы әкімдігінің 2023 жылғы 13 ақпандағы № 31 қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/188979/kaz
+source: https://zan.gov.kz/client/#!/doc/178720/kaz
 ---
 
 # Ақтөбе облысы бойынша 2023 жылға арналған мектепке дейінгі тәрбие мен оқытуға мемлекеттік білім беру тапсырысын, ата-ана төлемақысының мөлшерін бекіту туралы
@@ -41,6 +45,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 
 # Ақтөбе облысы бойынша 2023 жылға арналған мектепке дейінгі тәрбие мен оқытуға мемлекеттік білім беру тапсырысы
 
+> *Ескерту. 1 қосымша жаңа редакцияда - Ақтөбе облысы әкімдігінің 21.11.2023 № 321 қаулысымен (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі).*
+
 <table>
 <tr>
 <td rowspan="3">№</td>
@@ -64,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>1</td>
 <td>Балабақшалар</td>
-<td>46189</td>
+<td>52954</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -73,7 +79,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>1.1</td>
 <td>Санаторлық топтар</td>
-<td>68404</td>
+<td>79676</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -82,7 +88,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>1.2</td>
 <td>Түзету топтар</td>
-<td>81864</td>
+<td>95955</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -95,8 +101,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>2.1</td>
 <td>Санаторлық топтар</td>
-<td>68404</td>
-<td>76311</td>
+<td>79676</td>
+<td>89939</td>
 <td>-</td>
 <td>-</td>
 <td>15</td>
@@ -104,8 +110,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>2.2</td>
 <td>Түзету топтар</td>
-<td>81864</td>
-<td>91748</td>
+<td>95955</td>
+<td>108783</td>
 <td>-</td>
 <td>-</td>
 <td>27</td>
@@ -113,8 +119,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>2.3</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
-<td>46189</td>
-<td>50933</td>
+<td>52954</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>1312</td>
@@ -123,7 +129,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>2.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>100</td>
@@ -131,8 +137,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>2.5</td>
 <td>75 орынға арналған балабақшалар</td>
-<td>51025</td>
-<td>56281</td>
+<td>57791</td>
+<td>64460</td>
 <td>-</td>
 <td>-</td>
 <td>150</td>
@@ -145,7 +151,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>3.1</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>50 933</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>248</td>
@@ -154,7 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>3.2</td>
 <td>15 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>122 086</td>
+<td>130265</td>
 <td>-</td>
 <td>-</td>
 <td>19</td>
@@ -163,7 +169,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>3.3</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>78060</td>
+<td>86239</td>
 <td>-</td>
 <td>-</td>
 <td>225</td>
@@ -172,7 +178,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>3.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>182</td>
@@ -181,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>3.5</td>
 <td>60 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>61731</td>
+<td>69910</td>
 <td>-</td>
 <td>-</td>
 <td>113</td>
@@ -194,7 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>4.1</td>
 <td>Санаторлық топтар</td>
 <td>-</td>
-<td>71316</td>
+<td>88440</td>
 <td>-</td>
 <td>-</td>
 <td>15</td>
@@ -203,7 +209,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>4.2</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>60684</td>
+<td>70960</td>
 <td>-</td>
 <td>-</td>
 <td>659</td>
@@ -212,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>4.3</td>
 <td>30 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>86020</td>
+<td>96296</td>
 <td>-</td>
 <td>-</td>
 <td>25</td>
@@ -221,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>4.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>72457</td>
+<td>82733</td>
 <td>-</td>
 <td>-</td>
 <td>240</td>
@@ -230,7 +236,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>4.5</td>
 <td>75 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>70454</td>
+<td>80730</td>
 <td>-</td>
 <td>-</td>
 <td>150</td>
@@ -243,7 +249,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>5.1</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>60684</td>
+<td>70960</td>
 <td>-</td>
 <td>-</td>
 <td>490</td>
@@ -252,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>5.2</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>103885</td>
+<td>114161</td>
 <td>-</td>
 <td>-</td>
 <td>50</td>
@@ -261,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>5.3</td>
 <td>30 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>86020</td>
+<td>96296</td>
 <td>-</td>
 <td>-</td>
 <td>90</td>
@@ -270,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>5.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>72457</td>
+<td>82733</td>
 <td>-</td>
 <td>-</td>
 <td>250</td>
@@ -285,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>76311</td>
+<td>87992</td>
 <td>15</td>
 </tr>
 <tr>
@@ -294,7 +300,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>50933</td>
+<td>58202</td>
 <td>527</td>
 </tr>
 <tr>
@@ -303,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>67690</td>
+<td>74959</td>
 <td>25</td>
 </tr>
 <tr>
@@ -314,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>7.1</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>50933</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>1296</td>
@@ -323,7 +329,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>7.2</td>
 <td>30 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>72198</td>
+<td>80377</td>
 <td>-</td>
 <td>-</td>
 <td>35</td>
@@ -332,7 +338,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>7.3</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>94</td>
@@ -341,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>7.4</td>
 <td>75 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>56281</td>
+<td>64460</td>
 <td>-</td>
 <td>-</td>
 <td>204</td>
@@ -353,7 +359,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.1</td>
 <td>Санаторлық топтар</td>
-<td>68404</td>
+<td>79676</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -362,7 +368,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.2</td>
 <td>Түзету топтар</td>
-<td>81864</td>
+<td>95955</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -371,8 +377,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.3</td>
 <td>Балабақшалар (90-ден астам орын және жеке меншік балабақшалар)</td>
-<td>46189</td>
-<td>50933</td>
+<td>52954</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>1880</td>
@@ -381,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>8.4</td>
 <td>15 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>109959</td>
+<td>118138</td>
 <td>-</td>
 <td>-</td>
 <td>15</td>
@@ -390,7 +396,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>8.5</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>78060</td>
+<td>86239</td>
 <td>-</td>
 <td>-</td>
 <td>25</td>
@@ -399,7 +405,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>8.6</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>150</td>
@@ -416,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.7.1</td>
 <td>Санаторлық топтар</td>
-<td>84655</td>
+<td>99425</td>
 <td></td>
 <td>-</td>
 <td>-</td>
@@ -425,8 +431,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.7.2</td>
 <td>Балабақшалар (90-ден астам орын және жеке меншік балабақшалар)</td>
-<td>55940</td>
-<td>60684</td>
+<td>64803</td>
+<td>70960</td>
 <td>-</td>
 <td>-</td>
 <td>615</td>
@@ -435,7 +441,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>8.7.3</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>103885</td>
+<td>114161</td>
 <td>-</td>
 <td>-</td>
 <td>75</td>
@@ -444,7 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>8.7.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>72457</td>
+<td>82733</td>
 <td>-</td>
 <td>-</td>
 <td>200</td>
@@ -452,8 +458,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>8.7.5</td>
 <td>75 орынға арналған балабақшалар</td>
-<td>64935</td>
-<td>70454</td>
+<td>73798</td>
+<td>80730</td>
 <td>-</td>
 <td>-</td>
 <td>145</td>
@@ -466,7 +472,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>9.1</td>
 <td>Санаторлық топтар</td>
 <td></td>
-<td>92562</td>
+<td>107332</td>
 <td>-</td>
 <td>-</td>
 <td>20</td>
@@ -474,8 +480,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>9.2</td>
 <td>Балабақшалар (90-ден астам орын және жеке меншік балабақшалар)</td>
-<td>55940</td>
-<td>60684</td>
+<td>64803</td>
+<td>70960</td>
 <td>-</td>
 <td>-</td>
 <td>960</td>
@@ -484,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>9.3</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>103885</td>
+<td>114161</td>
 <td>-</td>
 <td>-</td>
 <td>50</td>
@@ -492,8 +498,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>9.4</td>
 <td>50 орынға арналған балабақшалар</td>
-<td>66781</td>
-<td>72457</td>
+<td>75644</td>
+<td>82733</td>
 <td>-</td>
 <td>-</td>
 <td>200</td>
@@ -502,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>9.5</td>
 <td>75 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>70454</td>
+<td>80730</td>
 <td>-</td>
 <td>-</td>
 <td>225</td>
@@ -515,7 +521,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>10.2</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>50933</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>270</td>
@@ -524,7 +530,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>10.3</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>97</td>
@@ -533,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>10.4</td>
 <td>60 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>61731</td>
+<td>69910</td>
 <td>-</td>
 <td>-</td>
 <td>112</td>
@@ -542,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>10.5</td>
 <td>75 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>56281</td>
+<td>64460</td>
 <td>-</td>
 <td>-</td>
 <td>60</td>
@@ -555,7 +561,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>11.1</td>
 <td>Балабақшалар (100-ден астам орын және жеке меншік балабақшалар)</td>
 <td>-</td>
-<td>50933</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>330</td>
@@ -564,7 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>11.2</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>78063</td>
+<td>86242</td>
 <td>-</td>
 <td>-</td>
 <td>125</td>
@@ -573,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>11.3</td>
 <td>30 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>72198</td>
+<td>80377</td>
 <td>-</td>
 <td>-</td>
 <td>89</td>
@@ -582,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>11.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>67690</td>
+<td>75869</td>
 <td>-</td>
 <td>-</td>
 <td>245</td>
@@ -594,8 +600,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>12</td>
 <td>Балабақшалар</td>
-<td>46189</td>
-<td>50933</td>
+<td>52954</td>
+<td>59111</td>
 <td>-</td>
 <td>-</td>
 <td>2243</td>
@@ -603,8 +609,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>12.1</td>
 <td>Түзету топтар</td>
-<td>81864</td>
-<td>91748</td>
+<td>95955</td>
+<td>108783</td>
 <td>-</td>
 <td>-</td>
 <td>12</td>
@@ -616,8 +622,8 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <tr>
 <td>13.1</td>
 <td>Балабақшалар (90-ден астам орын және жеке меншік балабақшалар)</td>
-<td>64217</td>
-<td>69909</td>
+<td>73080</td>
+<td>80185</td>
 <td>-</td>
 <td>-</td>
 <td>1682</td>
@@ -626,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>13.2</td>
 <td>25 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>106690</td>
+<td>116966</td>
 <td>-</td>
 <td>-</td>
 <td>250</td>
@@ -635,7 +641,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>13.3</td>
 <td>40 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>94571</td>
+<td>104847</td>
 <td>-</td>
 <td>-</td>
 <td>85</td>
@@ -644,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/178720/kaz/13.02.2023
 <td>13.4</td>
 <td>50 орынға арналған балабақшалар</td>
 <td>-</td>
-<td>83472</td>
+<td>93748</td>
 <td>-</td>
 <td>-</td>
 <td>50</td>
