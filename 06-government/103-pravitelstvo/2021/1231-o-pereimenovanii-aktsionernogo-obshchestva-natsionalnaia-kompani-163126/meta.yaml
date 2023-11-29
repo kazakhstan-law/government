@@ -10,8 +10,15 @@ approved_on: 2021-12-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2021-12-31
-  rus: 2021-12-31
+  kaz: 2023-11-29
+  rus: 2023-11-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/163126/kaz/31.12.2021
-  rus: https://zan.gov.kz/client/#!/doc/163126/rus/31.12.2021
+  kaz: https://zan.gov.kz/client/#!/doc/163126/kaz/29.11.2023
+  rus: https://zan.gov.kz/client/#!/doc/163126/rus/29.11.2023
+caused_by:
+  code: '189254'
+  requisite: Постановление Правительства Республики Казахстан от 29 ноября 2023 года № 1055
+  title:
+    rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/189254/rus
