@@ -1,0 +1,5043 @@
+---
+part_of: ../rus.md
+source: https://zan.gov.kz/client/#!/doc/135559/rus/21.12.2023
+---
+
+> *Приложение 8 к постановлению*  
+> *акимата Сырдарьинского района*  
+> *от 24 октября 2019 года № 234*
+
+# Схемы чередования (ротации) культур на орашаемых инженерно подготовленных землях в сельском округе Ширкейли Сырдарьинского района
+
+> *Сноска. Приложение 8 - в редакции постановлением Сырдарьинского районного акимата Кызылординской области от 21.12.2023 № 313 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<td rowspan="2">Севообороты</td>
+<td rowspan="2">Поля</td>
+<td rowspan="2">Пло-щадь, гек-тар</td>
+<td colspan="2">Непригодные земли</td>
+<td rowspan="2">Залеж, гектар</td>
+<td colspan="6">Годы освоения</td>
+</tr>
+<tr>
+<td>Заболочные, гектар</td>
+<td>Багара, гектар</td>
+<td colspan="2">2020 год</td>
+<td>2021 год</td>
+<td>2022 год</td>
+<td>2023 год</td>
+<td>2024 год</td>
+</tr>
+<tr>
+<td rowspan="8">№ 1 Севооборот</td>
+<td>1</td>
+<td>89,3</td>
+<td></td>
+<td></td>
+<td>89,3</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>97,35</td>
+<td></td>
+<td></td>
+<td>97,35</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>83,4</td>
+<td></td>
+<td></td>
+<td>83,4</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82,7</td>
+<td></td>
+<td></td>
+<td>82,7</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>81,1</td>
+<td></td>
+<td></td>
+<td>81,1</td>
+<td colspan="2">Мелиративное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>78,7</td>
+<td></td>
+<td></td>
+<td>78,7</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>65,9</td>
+<td></td>
+<td></td>
+<td>65,9</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>44,7</td>
+<td></td>
+<td></td>
+<td>44,7</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">353,3</td>
+<td>370,8</td>
+<td>308,7</td>
+<td>333,3</td>
+<td>408,05</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">124,6</td>
+<td></td>
+<td>270,8</td>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">126,2</td>
+<td>250,8</td>
+<td>124,6</td>
+<td>270,8</td>
+<td>215,1</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">100</td>
+<td>82,5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>623,15</td>
+<td></td>
+<td></td>
+<td>623,15</td>
+<td colspan="2">704,1</td>
+<td>704,1</td>
+<td>704,1</td>
+<td>704,1</td>
+<td>623,15</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 2 Севооборот</td>
+<td>1</td>
+<td>105,9</td>
+<td></td>
+<td></td>
+<td>105,9</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>85,4</td>
+<td></td>
+<td></td>
+<td>85,4</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>90,3</td>
+<td></td>
+<td>55,3</td>
+<td>35</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>94,5</td>
+<td></td>
+<td></td>
+<td>94,5</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>77,1</td>
+<td></td>
+<td></td>
+<td>77,1</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>85,2</td>
+<td></td>
+<td></td>
+<td>85,2</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>123,5</td>
+<td></td>
+<td></td>
+<td>123,5</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>96,7</td>
+<td></td>
+<td></td>
+<td>96,7</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">411</td>
+<td>435,3</td>
+<td>322,2</td>
+<td>350,7</td>
+<td>182,1</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">85,4</td>
+<td></td>
+<td>195,3</td>
+<td>105,9</td>
+<td>105,9</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">228,5</td>
+<td>183,7</td>
+<td>85,4</td>
+<td>195,3</td>
+<td>415,3</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>105,9</td>
+<td>122</td>
+<td>73</td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>758,6</td>
+<td></td>
+<td>55,3</td>
+<td>703,3</td>
+<td colspan="2">724,9</td>
+<td>724,9</td>
+<td>724,9</td>
+<td>724,9</td>
+<td>703,3</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 3 Севооборот</td>
+<td>1</td>
+<td>109,4</td>
+<td></td>
+<td></td>
+<td>109,4</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>113,9</td>
+<td></td>
+<td></td>
+<td>113,9</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>127,2</td>
+<td></td>
+<td></td>
+<td>127,2</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>108,2</td>
+<td></td>
+<td></td>
+<td>108,2</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>102,9</td>
+<td></td>
+<td></td>
+<td>102,9</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>121,4</td>
+<td></td>
+<td></td>
+<td>121,4</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>94,1</td>
+<td></td>
+<td></td>
+<td>94,1</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>87,1</td>
+<td></td>
+<td></td>
+<td>87,1</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">399,9</td>
+<td>301,6</td>
+<td>404,4</td>
+<td>392,1</td>
+<td>506,2</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">278,2</td>
+<td></td>
+<td>109,4</td>
+<td>290,5</td>
+<td>248,6</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">113,9</td>
+<td>410,4</td>
+<td>278,2</td>
+<td>109,4</td>
+<td>109,4</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>80</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>864,2</td>
+<td></td>
+<td></td>
+<td>864,2</td>
+<td colspan="2">792</td>
+<td>792</td>
+<td>792</td>
+<td>792</td>
+<td>864,2</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 4 Севооборот</td>
+<td>1</td>
+<td>78,4</td>
+<td></td>
+<td></td>
+<td>78,4</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>99,9</td>
+<td></td>
+<td></td>
+<td>99,9</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>95,6</td>
+<td></td>
+<td></td>
+<td>95,6</td>
+<td colspan="2">Мелиративное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>77,4</td>
+<td></td>
+<td></td>
+<td>77,4</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>75,7</td>
+<td>4,3</td>
+<td></td>
+<td>71,4</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>74,2</td>
+<td></td>
+<td></td>
+<td>74,2</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Мелиративное поле</td>
+</tr>
+<tr>
+<td>7</td>
+<td>139</td>
+<td></td>
+<td></td>
+<td>139</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>94,4</td>
+<td></td>
+<td></td>
+<td>94,4</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td>9</td>
+<td>130</td>
+<td>5</td>
+<td></td>
+<td>125</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td></td>
+<td>10</td>
+<td>140</td>
+<td>44</td>
+<td></td>
+<td>96</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">368,5</td>
+<td>380,7</td>
+<td>403,7</td>
+<td>493,5</td>
+<td>596,3</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">315,5</td>
+<td></td>
+<td></td>
+<td>297,1</td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>315,5</td>
+<td>315,5</td>
+<td></td>
+<td>280,8</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">106,6</td>
+<td>94,4</td>
+<td>71</td>
+<td></td>
+<td>74,2</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>1004,6</td>
+<td>53,3</td>
+<td></td>
+<td>951,3</td>
+<td colspan="2">790,6</td>
+<td>790,6</td>
+<td>790,6</td>
+<td>790,6</td>
+<td>951,3</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 5 Севооборот</td>
+<td>1</td>
+<td>81,8</td>
+<td>3,6</td>
+<td></td>
+<td>78,2</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>88,5</td>
+<td></td>
+<td></td>
+<td>88,5</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>98,8</td>
+<td></td>
+<td></td>
+<td>98,8</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>121,4</td>
+<td>41,4</td>
+<td>6,6</td>
+<td>73,4</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>91,3</td>
+<td>21,3</td>
+<td></td>
+<td>70</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>84,9</td>
+<td>2,9</td>
+<td>10</td>
+<td>72</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>100,9</td>
+<td>2,3</td>
+<td>37</td>
+<td>61,6</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>102,5</td>
+<td>2,2</td>
+<td>20,3</td>
+<td>80</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">387,1</td>
+<td>312,8</td>
+<td>217,3</td>
+<td>163,1</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">98,8</td>
+<td>65,6</td>
+<td>168,5</td>
+<td>153</td>
+<td>78,2</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">64,3</td>
+<td>98,8</td>
+<td>164,4</td>
+<td>234,1</td>
+<td>225,4</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>73</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>770,1</td>
+<td>73,7</td>
+<td>73,9</td>
+<td>622,5</td>
+<td colspan="2">550,2</td>
+<td>550,2</td>
+<td>550,2</td>
+<td>550,2</td>
+<td>622,5</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 6 Севооборот</td>
+<td>1</td>
+<td>42</td>
+<td></td>
+<td></td>
+<td colspan="2">42</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td colspan="2">48</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>30</td>
+<td></td>
+<td></td>
+<td colspan="2">30</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td colspan="2">20</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>34</td>
+<td></td>
+<td></td>
+<td colspan="2">34</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>75</td>
+<td></td>
+<td>5</td>
+<td colspan="2">70</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>82</td>
+<td></td>
+<td>7</td>
+<td colspan="2">75</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>89</td>
+<td></td>
+<td></td>
+<td colspan="2">89</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>160</td>
+<td>90</td>
+<td>70</td>
+<td>105</td>
+<td>199</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>105</td>
+<td></td>
+<td>90</td>
+<td>70</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>105</td>
+<td>105</td>
+<td>90</td>
+<td>179</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>70</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>420</td>
+<td></td>
+<td>12</td>
+<td colspan="2">408</td>
+<td>265</td>
+<td>265</td>
+<td>265</td>
+<td>265</td>
+<td>408</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td colspan="12">по сельскому округу Ширкейли</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>2079,8</td>
+<td>1891,2</td>
+<td>1726,3</td>
+<td>1837,7</td>
+<td>2210,55</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>1007,5</td>
+<td>65,6</td>
+<td>834</td>
+<td>1016,5</td>
+<td>462,7</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>532,9</td>
+<td>1364,2</td>
+<td>1073,1</td>
+<td>899,6</td>
+<td>1425</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>206,6</td>
+<td>505,8</td>
+<td>193,4</td>
+<td>73</td>
+<td>74,2</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>4440,65</td>
+<td>127</td>
+<td>141,2</td>
+<td colspan="2">4172,45</td>
+<td>3826,8</td>
+<td>3826,8</td>
+<td>3826,8</td>
+<td>3826,8</td>
+<td>4172,45</td>
+</tr>
+</table>
+
+> *Приложение 9 к постановлению*  
+> *акимата Сырдарьинского района*  
+> *от 24 октября 2019 года № 234*
+
+# Схемы чередования (ротации) культур на орашаемых инженерно подготовленных землях в сельском округе Инкардария Сырдарьинского района
+
+> *Сноска. Приложение 9 - в редакции постановлением Сырдарьинского районного акимата Кызылординской области от 21.12.2023 № 313 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<td rowspan="2">Севообороты</td>
+<td colspan="2" rowspan="2">Поля</td>
+<td rowspan="2">Пло-щадь, гек-тар</td>
+<td colspan="4">Непригодные земли</td>
+<td colspan="2" rowspan="2">Зал-еж, гек-тар</td>
+<td colspan="6">Годы освоения</td>
+</tr>
+<tr>
+<td colspan="2">Забо-лоч-ные, гек-тар</td>
+<td colspan="2">Баг-ара, гек-тар</td>
+<td>2020 год</td>
+<td>2021 год</td>
+<td>2023 год</td>
+<td colspan="2">2023 год</td>
+<td>2024 год</td>
+</tr>
+<tr>
+<td rowspan="7">№ 1 Севооборот</td>
+<td colspan="2">1</td>
+<td>49,8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">49,8</td>
+<td>Люц-ерна прош-лого года</td>
+<td>Люц-ерна прош-лого года</td>
+<td>Люц-ерна прош-лого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>45,4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">45,4</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Мели-рати-вное поле</td>
+<td colspan="2">Рис</td>
+<td>Люц-ерна теку-щего года</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>162,9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">162,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>44,7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">44,7</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Мели-рати-вное поле</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>58,9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">58,9</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Мели-рати-вное поле</td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>53,2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">53,2</td>
+<td>Мели-рати-вное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>50,4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">50,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Люц-ерна прош-лого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>149</td>
+<td>202,2</td>
+<td>156,8</td>
+<td colspan="2">207,3</td>
+<td>147,7</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>45,4</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>49,8</td>
+<td>49,8</td>
+<td>49,8</td>
+<td colspan="2"></td>
+<td>213,3</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>53,2</td>
+<td></td>
+<td>45,4</td>
+<td colspan="2">44,7</td>
+<td>58,9</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td>465,3</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">465,3</td>
+<td>252</td>
+<td>252</td>
+<td>252</td>
+<td colspan="2">252</td>
+<td>465,3</td>
+</tr>
+<tr>
+<td colspan="16"></td>
+</tr>
+<tr>
+<td rowspan="7">№ 2 Севооборот</td>
+<td colspan="2">1</td>
+<td>44,6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">44,6</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>39</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">39</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>36,9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">36,9</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>43</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">43</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люц-ерна прош-лого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>38,1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">38,1</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люц-ерна прош-лого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>23,2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">23,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>52,6</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">52,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">120,5</td>
+<td>120,5</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>201,6</td>
+<td>201,6</td>
+<td>201,6</td>
+<td colspan="2">81,1</td>
+<td>156,9</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td>277,4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">277,4</td>
+<td>201,6</td>
+<td>201,6</td>
+<td>201,6</td>
+<td colspan="2">201,6</td>
+<td>277,4</td>
+</tr>
+<tr>
+<td colspan="16"></td>
+</tr>
+<tr>
+<td rowspan="2">№ 1</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2">130</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2">70</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Люц-ерна теку-щего года</td>
+<td colspan="2">Рис</td>
+</tr>
+<tr>
+<td colspan="2">60</td>
+<td colspan="2">Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td></td>
+<td colspan="2">70</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>100</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">60</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+<td colspan="2">130</td>
+</tr>
+<tr>
+<td colspan="16"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 2</td>
+<td colspan="2">1</td>
+<td>9,9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9,9</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люц-ерна теку-щего года</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td>9,5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люц-ерна прош-лого года</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td>9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td>7,4</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7,4</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">5</td>
+<td>10,2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">10,2</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">6</td>
+<td>11</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">11</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td>10,1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">10,1</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2">8</td>
+<td>7,9</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">7,9</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>35,8</td>
+<td>37,5</td>
+<td>38,1</td>
+<td>39,2</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>11</td>
+<td>16,4</td>
+<td>9,5</td>
+<td>9,9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>18</td>
+<td>21,1</td>
+<td>27,4</td>
+<td>25,9</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>10,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td>75</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
+<td>75</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="16"></td>
+</tr>
+<tr>
+<td rowspan="2">№ 3</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2">75</td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2" rowspan="2"></td>
+<td colspan="2">55</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Рис</td>
+</tr>
+<tr>
+<td colspan="2">20</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>№ 4</td>
+<td colspan="2"></td>
+<td>70</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">70</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">195</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">80</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td>275</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">275</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">275</td>
+</tr>
+<tr>
+<td colspan="16"></td>
+</tr>
+<tr>
+<td colspan="16">по сельскому округу Инкардария</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">284,8</td>
+<td>339,7</td>
+<td>294,9</td>
+<td colspan="2">367</td>
+<td>463,2</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">11</td>
+<td>16,4</td>
+<td>9,5</td>
+<td colspan="2">109,9</td>
+<td>45,4</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">269,4</td>
+<td>272,5</td>
+<td>278,8</td>
+<td colspan="2">107</td>
+<td>450,2</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">63,4</td>
+<td></td>
+<td>45,4</td>
+<td colspan="2">44,7</td>
+<td>58,9</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td colspan="2"></td>
+<td colspan="2">1017,7</td>
+<td></td>
+<td></td>
+<td colspan="2">1017,7</td>
+<td colspan="2">628,6</td>
+<td>628,6</td>
+<td>628,6</td>
+<td colspan="2">628,6</td>
+<td>1017,7</td>
+</tr>
+</table>
+
+> *Приложение 10 к постановлению*  
+> *акимата Сырдарьинского района*  
+> *от 24 октября 2019 года № 234*
+
+# Схемы чередования (ротации) культур на орашаемых инженерно подготовленных землях в сельском округе Н.Иляьсов Сырдарьинского района
+
+> *Сноска. Приложение 10 - в редакции постановлением Сырдарьинского районного акимата Кызылординской области от 21.12.2023 № 313 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<td rowspan="2">Севообороты</td>
+<td rowspan="2">Поля</td>
+<td rowspan="2">Площадь, гектар</td>
+<td colspan="3">Непригодные земли</td>
+<td rowspan="2">Зал-еж, гек-тар</td>
+<td colspan="6">Годы освоения</td>
+</tr>
+<tr>
+<td colspan="2">Заб-олоч-ные, гек-тар</td>
+<td>Багара, гектар</td>
+<td>2020 год</td>
+<td colspan="2">2021 год</td>
+<td>2022 год</td>
+<td>2023 год</td>
+<td>2024 год</td>
+</tr>
+<tr>
+<td rowspan="15">№ 1 Севооборот</td>
+<td>1</td>
+<td>119,7</td>
+<td colspan="2"></td>
+<td></td>
+<td>119,7</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2">135,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>103,8</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люц-ерна прош-лого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>31,3</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2">118,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>80</td>
+<td rowspan="2">Рис</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>38,6</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td rowspan="3">4</td>
+<td rowspan="3">104,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>62,1</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>26,1</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>16,4</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td rowspan="2">120,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>78,8</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>41,5</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">6</td>
+<td rowspan="2">126,4</td>
+<td colspan="2"></td>
+<td></td>
+<td>62,9</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>63,5</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>133,9</td>
+<td colspan="2"></td>
+<td></td>
+<td>133,9</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">119,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>46</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>73,6</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>630,7</td>
+<td colspan="2">631,3</td>
+<td>660,2</td>
+<td>585,2</td>
+<td>442,4</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>103,4</td>
+<td colspan="2">62,9</td>
+<td>151</td>
+<td>178,4</td>
+<td>38,6</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>243,4</td>
+<td colspan="2">283,3</td>
+<td>166,3</td>
+<td>213,9</td>
+<td>497,2</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>978,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>978,2</td>
+<td>977,5</td>
+<td colspan="2">977,5</td>
+<td>977,5</td>
+<td>977,5</td>
+<td>978,2</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="10">№ 2 Севооборот</td>
+<td rowspan="2">1</td>
+<td rowspan="2">99,6</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>43,1</td>
+<td rowspan="2">Мели-рати-вное поле</td>
+<td rowspan="2">Мели-рати-вное поле</td>
+<td colspan="2" rowspan="2">Мели-рати- вное поле</td>
+<td rowspan="2">Мели-рати-вное поле</td>
+<td>Мелиративное поле</td>
+</tr>
+<tr>
+<td>56,5</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>96,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>96,5</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2">118,8</td>
+<td colspan="2"></td>
+<td></td>
+<td>79,2</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>39,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>117</td>
+<td colspan="2"></td>
+<td></td>
+<td>117</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>102</td>
+<td colspan="2"></td>
+<td></td>
+<td>102</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>95,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>95,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>86,4</td>
+<td colspan="2"></td>
+<td></td>
+<td>86,4</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>91,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>91,3</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>429,5</td>
+<td>414,5</td>
+<td colspan="2">417,2</td>
+<td>401,9</td>
+<td>486</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>79,9</td>
+<td>117</td>
+<td colspan="2">91,3</td>
+<td>95,2</td>
+<td>39,6</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>196</td>
+<td>173,9</td>
+<td colspan="2">196,9</td>
+<td>208,3</td>
+<td>238,1</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>99,1</td>
+<td>99,1</td>
+<td colspan="2">99,1</td>
+<td>99,1</td>
+<td>43,1</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>806,8</td>
+<td colspan="2"></td>
+<td></td>
+<td>806,8</td>
+<td>804,5</td>
+<td>804,5</td>
+<td colspan="2">804,5</td>
+<td>804,5</td>
+<td>806,8</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="16">№ 3 Севооборот</td>
+<td>1</td>
+<td>101,4</td>
+<td></td>
+<td colspan="2"></td>
+<td>101,4</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2">105,2</td>
+<td></td>
+<td colspan="2"></td>
+<td>72,9</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>32,3</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2">117,9</td>
+<td></td>
+<td colspan="2"></td>
+<td>75</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>42,9</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td rowspan="2">4</td>
+<td rowspan="2">123,5</td>
+<td></td>
+<td colspan="2"></td>
+<td>73,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>50</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td rowspan="2">115,2</td>
+<td></td>
+<td colspan="2"></td>
+<td>81,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>33,7</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="3">6</td>
+<td rowspan="3">122,5</td>
+<td></td>
+<td colspan="2"></td>
+<td>68,2</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>54,3</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2">95,6</td>
+<td></td>
+<td colspan="2"></td>
+<td>32,5</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>63,1</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">114,3</td>
+<td></td>
+<td colspan="2"></td>
+<td>104,4</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>9,9</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>524,9</td>
+<td>615,4</td>
+<td colspan="2">635,4</td>
+<td>547,5</td>
+<td>564</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>67,1</td>
+<td>89</td>
+<td colspan="2">104,4</td>
+<td>73,5</td>
+<td>42,9</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>197,3</td>
+<td>191,5</td>
+<td colspan="2">156,1</td>
+<td>193,4</td>
+<td>288,7</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>106,6</td>
+<td></td>
+<td colspan="2"></td>
+<td>81,5</td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>895,6</td>
+<td></td>
+<td colspan="2"></td>
+<td>895,6</td>
+<td>895,9</td>
+<td>895,9</td>
+<td colspan="2">895,9</td>
+<td>895,9</td>
+<td>895,6</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 4 Севооборот</td>
+<td>1</td>
+<td>78,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>78,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>95,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>95,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>101,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>101,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>92,7</td>
+<td colspan="2"></td>
+<td></td>
+<td>92,7</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>117,9</td>
+<td colspan="2"></td>
+<td></td>
+<td>117,9</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>83,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>83,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>110,4</td>
+<td colspan="2"></td>
+<td></td>
+<td>110,4</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>70,9</td>
+<td colspan="2"></td>
+<td></td>
+<td>70,9</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>461,1</td>
+<td>461,1</td>
+<td colspan="2">469,5</td>
+<td>479</td>
+<td>360,1</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>92,7</td>
+<td></td>
+<td colspan="2">172,3</td>
+<td></td>
+<td>83,2</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>180,7</td>
+<td>273,4</td>
+<td colspan="2">92,7</td>
+<td>172,3</td>
+<td>307,4</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>83,2</td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>750,7</td>
+<td colspan="2"></td>
+<td></td>
+<td>750,7</td>
+<td>734,5</td>
+<td>734,5</td>
+<td colspan="2">734,5</td>
+<td>734,5</td>
+<td>750,7</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="11">№ 5 Севооборот</td>
+<td rowspan="2">1</td>
+<td rowspan="2">91,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>40,2</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Мелиративное поле</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>51</td>
+<td>Мелиративное поле</td>
+<td>Мелиративное поле</td>
+<td colspan="2">Мелиративное поле</td>
+<td>Мелиративное поле</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>107,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>107,3</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>84,7</td>
+<td colspan="2"></td>
+<td></td>
+<td>84,7</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>89,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>89,1</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">5</td>
+<td rowspan="2">101,4</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>66,8</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Люцерна текущего года</td>
+<td colspan="2" rowspan="2">Люцерна прошлого года</td>
+<td rowspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>34,6</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">6</td>
+<td rowspan="2">98,7</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>26,9</td>
+<td rowspan="2">Люцерна прошлого года</td>
+<td rowspan="2">Люцерна прошлого года</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>71,8</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>110,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>110,3</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>104,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>104,3</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Мели-рати-вное поле</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>448,1</td>
+<td>405,6</td>
+<td colspan="2">488,7</td>
+<td>486,7</td>
+<td>363,4</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>152,8</td>
+<td colspan="2"></td>
+<td>106,5</td>
+<td>104,3</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>297,9</td>
+<td>187,6</td>
+<td colspan="2">152,8</td>
+<td>152,8</td>
+<td>279,1</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>40,1</td>
+<td>40,1</td>
+<td colspan="2">144,6</td>
+<td>40,1</td>
+<td>40,2</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>787</td>
+<td colspan="2"></td>
+<td></td>
+<td>787</td>
+<td>786,1</td>
+<td>786,1</td>
+<td colspan="2">786,1</td>
+<td>786,1</td>
+<td>787</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="11">№ 6 Севооборот</td>
+<td>1</td>
+<td>101,9</td>
+<td colspan="2"></td>
+<td></td>
+<td>101,9</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2">105,8</td>
+<td colspan="2"></td>
+<td></td>
+<td>75,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>30,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td rowspan="2">3</td>
+<td rowspan="2">117,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>66</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>51,1</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>101,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>101,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>109,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>109,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>75,9</td>
+<td colspan="2"></td>
+<td></td>
+<td>75,9</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2">80,7</td>
+<td colspan="2"></td>
+<td></td>
+<td>32,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>48,5</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>88,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>88,3</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>515,6</td>
+<td>581,9</td>
+<td colspan="2">566,2</td>
+<td>553,3</td>
+<td>495,7</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>88,3</td>
+<td></td>
+<td colspan="2">125,7</td>
+<td>101,2</td>
+<td>132,5</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>176,3</td>
+<td>198,3</td>
+<td colspan="2">88,3</td>
+<td>125,7</td>
+<td>152,3</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>780,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>780,5</td>
+<td>780,2</td>
+<td>780,2</td>
+<td colspan="2">780,2</td>
+<td>780,2</td>
+<td>780,5</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="14">№ 7 Севооборот</td>
+<td>1</td>
+<td>87,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>87,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2">102,4</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>29,2</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>73,2</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>90,4</td>
+<td colspan="2"></td>
+<td></td>
+<td>90,4</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>97</td>
+<td colspan="2"></td>
+<td></td>
+<td>97</td>
+<td>Мели-ративное поле</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>98,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>98,5</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>95,8</td>
+<td colspan="2"></td>
+<td></td>
+<td>95,8</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>77,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>77,6</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">81,1</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>40,7</td>
+<td rowspan="2">Люцерна прошлого года</td>
+<td rowspan="2">Рис</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>40,4</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td rowspan="2">9</td>
+<td rowspan="2">135</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>72</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td rowspan="2">10</td>
+<td rowspan="2">74</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>33</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>41</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>530,9</td>
+<td>709</td>
+<td colspan="2">787,8</td>
+<td>601,2</td>
+<td>622,2</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">93,9</td>
+<td>186,6</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>253,8</td>
+<td>172,7</td>
+<td colspan="2"></td>
+<td>93,9</td>
+<td>157,1</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>97</td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>939,3</td>
+<td colspan="2"></td>
+<td></td>
+<td>939,3</td>
+<td>881,7</td>
+<td>881,7</td>
+<td colspan="2">881,7</td>
+<td>881,7</td>
+<td>939,3</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td rowspan="11">№ 8 Севооборот</td>
+<td>1</td>
+<td>81,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>81,1</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>88,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>88,5</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>89,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>89,1</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>86,1</td>
+<td colspan="2"></td>
+<td></td>
+<td>86,1</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>77,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>77,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>75,2</td>
+<td colspan="2"></td>
+<td></td>
+<td>75,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td colspan="2">Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>87</td>
+<td colspan="2"></td>
+<td></td>
+<td>87</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td colspan="2">Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">67,3</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>28,8</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Люцерна текущего года</td>
+<td colspan="2" rowspan="2">Люцерна прошлого года</td>
+<td rowspan="2">Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>38,5</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td rowspan="2">9</td>
+<td rowspan="2">114,6</td>
+<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
+<td>80,6</td>
+<td rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td colspan="2" rowspan="2">Рис</td>
+<td rowspan="2">Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>501,9</td>
+<td>523,7</td>
+<td colspan="2">535,5</td>
+<td>542,9</td>
+<td>423,2</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>88,5</td>
+<td>67,3</td>
+<td colspan="2">75,2</td>
+<td>81,1</td>
+<td>77,6</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>176,1</td>
+<td>175,5</td>
+<td colspan="2">155,8</td>
+<td>142,5</td>
+<td>265,7</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>766,5</td>
+<td colspan="2"></td>
+<td></td>
+<td>766,5</td>
+<td>766,5</td>
+<td>766,5</td>
+<td colspan="2">766,5</td>
+<td>766,5</td>
+<td>766,5</td>
+</tr>
+<tr>
+<td colspan="13"></td>
+</tr>
+<tr>
+<td colspan="13">по сельскому округу Н. Ильясов</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>4042,7</td>
+<td>4342,5</td>
+<td colspan="2">4560,5</td>
+<td>4197,7</td>
+<td>3757</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>519,9</td>
+<td>489</td>
+<td colspan="2">813,8</td>
+<td>822,5</td>
+<td>678,7</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>1721,5</td>
+<td>1656,2</td>
+<td colspan="2">1008,9</td>
+<td>1302,8</td>
+<td>2185,6</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>342,8</td>
+<td>139,2</td>
+<td colspan="2">243,7</td>
+<td>303,9</td>
+<td>83,3</td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>6704,6</td>
+<td colspan="2"></td>
+<td></td>
+<td>6704,6</td>
+<td>6626,9</td>
+<td>6626,9</td>
+<td colspan="2">6626,9</td>
+<td>6626,9</td>
+<td>6704,6</td>
+</tr>
+</table>
+
+> *Приложение 11 к постановлению*  
+> *акимата Сырдарьинского района*  
+> *от 24 октября 2019 года № 234*
+
+# Схемы чередования (ротации) культур на орашаемых инженерно подготовленных землях в сельском округе Когалыколь Сырдарьинского района
+
+> *Сноска. Приложение 11 - в редакции постановлением Сырдарьинского районного акимата Кызылординской области от 21.12.2023 № 313 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+
+<table>
+<tr>
+<td rowspan="2">Севообороты</td>
+<td rowspan="2">Поля</td>
+<td rowspan="2">Площадь, гектар</td>
+<td colspan="3">Непригодные земли</td>
+<td rowspan="2">Залеж, гектар</td>
+<td colspan="5">Годы освоения</td>
+</tr>
+<tr>
+<td>Заболочные, гектар</td>
+<td colspan="2">Багара, гектар</td>
+<td>2020 год</td>
+<td>2021 год</td>
+<td>2022 год</td>
+<td>2023 год</td>
+<td>2024 год</td>
+</tr>
+<tr>
+<td rowspan="7">№ 1 Севооборот</td>
+<td>1</td>
+<td>45,95</td>
+<td></td>
+<td colspan="2">5,95</td>
+<td>40</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>40,36</td>
+<td></td>
+<td colspan="2"></td>
+<td>40,36</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>53,20</td>
+<td></td>
+<td colspan="2">3,20</td>
+<td>50</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>48,44</td>
+<td>2,44</td>
+<td colspan="2">15</td>
+<td>31</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>29,51</td>
+<td></td>
+<td colspan="2">12,51</td>
+<td>17</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>57,75</td>
+<td>5</td>
+<td colspan="2">7,75</td>
+<td>45</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>54,93</td>
+<td></td>
+<td colspan="2">4,93</td>
+<td>50</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>125,36</td>
+<td>142,36</td>
+<td>142,36</td>
+<td>98</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>85</td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>148</td>
+<td>131</td>
+<td>131</td>
+<td>50</td>
+<td>223,36</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>40,36</td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>330,14</td>
+<td>7,44</td>
+<td colspan="2">49,34</td>
+<td>273,36</td>
+<td>273,36</td>
+<td>273,36</td>
+<td>273,36</td>
+<td>273,36</td>
+<td>273,36</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="7">№ 2 Севооборот</td>
+<td>1</td>
+<td>64,25</td>
+<td></td>
+<td>64,25</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>55,45</td>
+<td></td>
+<td>0,45</td>
+<td colspan="2">55</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>41,79</td>
+<td></td>
+<td>41,79</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>77,67</td>
+<td></td>
+<td>2,67</td>
+<td colspan="2">75</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>57,82</td>
+<td></td>
+<td>7,82</td>
+<td colspan="2">50</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>43,89</td>
+<td></td>
+<td>2,89</td>
+<td colspan="2">41</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>64,55</td>
+<td>5,2</td>
+<td>5,3</td>
+<td colspan="2">54,05</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>220,05</td>
+<td>125</td>
+<td></td>
+<td></td>
+<td>116</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>95,05</td>
+<td>125</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>55</td>
+<td>55</td>
+<td>150,05</td>
+<td>275,05</td>
+<td>159,05</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>405,42</td>
+<td>5,2</td>
+<td>125,17</td>
+<td colspan="2">275,05</td>
+<td>275,05</td>
+<td>275,05</td>
+<td>275,05</td>
+<td>275,05</td>
+<td>275,05</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 3 Севооборот</td>
+<td>1</td>
+<td>35,63</td>
+<td></td>
+<td></td>
+<td colspan="2">35,63</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>63,38</td>
+<td></td>
+<td></td>
+<td colspan="2">63,38</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>71,05</td>
+<td></td>
+<td></td>
+<td colspan="2">71,05</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>39,36</td>
+<td></td>
+<td></td>
+<td colspan="2">39,36</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>50,05</td>
+<td></td>
+<td></td>
+<td colspan="2">50,05</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>49,86</td>
+<td></td>
+<td>11,86</td>
+<td colspan="2">38</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>52,7</td>
+<td></td>
+<td>1,7</td>
+<td colspan="2">51</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>8</td>
+<td>40,88</td>
+<td>3,4</td>
+<td>10,42</td>
+<td colspan="2">27,06</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>116,06</td>
+<td>215,07</td>
+<td>99,01</td>
+<td>170,06</td>
+<td>196,09</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>27,06</td>
+<td></td>
+<td>116,06</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>259,49</td>
+<td>160,48</td>
+<td>160,48</td>
+<td>205,49</td>
+<td>63,38</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>89</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>402,91</td>
+<td>3,4</td>
+<td>23,98</td>
+<td colspan="2">375,53</td>
+<td>375,55</td>
+<td>375,55</td>
+<td>375,55</td>
+<td>375,55</td>
+<td>375,53</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 4 Севооборот</td>
+<td>1</td>
+<td>69,18</td>
+<td></td>
+<td>5,14</td>
+<td colspan="2">64,04</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>2</td>
+<td>58,42</td>
+<td>3,42</td>
+<td></td>
+<td colspan="2">55</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>35,54</td>
+<td></td>
+<td></td>
+<td colspan="2">35,54</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>61,98</td>
+<td></td>
+<td></td>
+<td colspan="2">61,98</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>55,03</td>
+<td></td>
+<td></td>
+<td colspan="2">55,03</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>53,68</td>
+<td>8,68</td>
+<td></td>
+<td colspan="2">45</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>51,06</td>
+<td>7</td>
+<td>8,06</td>
+<td colspan="2">36</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>44,05</td>
+<td></td>
+<td></td>
+<td colspan="2">44,05</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>234,63</td>
+<td>170,59</td>
+<td>142,62</td>
+<td>169,06</td>
+<td>80,05</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>64,04</td>
+<td>135,05</td>
+<td>35,54</td>
+<td>90,54</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>169,06</td>
+<td>169,06</td>
+<td>126,02</td>
+<td>199,09</td>
+<td>226,05</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>428,94</td>
+<td>19,1</td>
+<td>13,20</td>
+<td colspan="2">396,64</td>
+<td>403,69</td>
+<td>403,69</td>
+<td>403,69</td>
+<td>403,69</td>
+<td>396,64</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 5 Севооборот</td>
+<td>1</td>
+<td>54,58</td>
+<td></td>
+<td>54,58</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>52,58</td>
+<td></td>
+<td>52,58</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>46,76</td>
+<td></td>
+<td>46,76</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>4</td>
+<td>62,61</td>
+<td></td>
+<td></td>
+<td colspan="2">62,61</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>52,33</td>
+<td></td>
+<td>10,33</td>
+<td colspan="2">42</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>6</td>
+<td>56,24</td>
+<td></td>
+<td>56,24</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>59,5</td>
+<td></td>
+<td>59,5</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>8</td>
+<td>60</td>
+<td></td>
+<td>20</td>
+<td colspan="2">40</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>104,60</td>
+<td>144,61</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>104,60</td>
+<td>104,60</td>
+<td>104,60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>444,60</td>
+<td></td>
+<td>299,99</td>
+<td colspan="2">144,61</td>
+<td>104,60</td>
+<td>104,60</td>
+<td>104,60</td>
+<td>104,60</td>
+<td>144,61</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="7">№ 6 Севооборот</td>
+<td>1</td>
+<td>33,56</td>
+<td></td>
+<td></td>
+<td colspan="2">33,56</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42,68</td>
+<td></td>
+<td></td>
+<td colspan="2">42,68</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>3</td>
+<td>40,37</td>
+<td></td>
+<td></td>
+<td colspan="2">40,37</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>37,06</td>
+<td></td>
+<td>7,06</td>
+<td colspan="2">30</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>46,24</td>
+<td></td>
+<td></td>
+<td colspan="2">46,24</td>
+<td>Рис</td>
+<td>Мелиративное поле</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>34,28</td>
+<td></td>
+<td>4,28</td>
+<td colspan="2">30</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>31,14</td>
+<td></td>
+<td>6,14</td>
+<td colspan="2">25</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>116,61</td>
+<td>70,37</td>
+<td></td>
+<td>97,08</td>
+<td>93,56</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>70,37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>97,08</td>
+<td>97,08</td>
+<td>143,32</td>
+<td>116,61</td>
+<td>154,29</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>46,24</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>265,33</td>
+<td></td>
+<td>17,48</td>
+<td colspan="2">247,85</td>
+<td>213,69</td>
+<td>213,69</td>
+<td>213,69</td>
+<td>213,69</td>
+<td>247,85</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="7">№ 7 Севооборот</td>
+<td>1</td>
+<td>43,66</td>
+<td>0,66</td>
+<td></td>
+<td colspan="2">43</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80,49</td>
+<td></td>
+<td>14,49</td>
+<td colspan="2">66</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>77,72</td>
+<td>12,1</td>
+<td></td>
+<td colspan="2">65,62</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>53,3</td>
+<td></td>
+<td>18,62</td>
+<td colspan="2">34,68</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>5</td>
+<td>60,7</td>
+<td></td>
+<td>16</td>
+<td colspan="2">44,7</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>72,89</td>
+<td></td>
+<td>2,89</td>
+<td colspan="2">70</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>7</td>
+<td>52,93</td>
+<td></td>
+<td></td>
+<td colspan="2">52,93</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>165</td>
+<td>165</td>
+<td>52,93</td>
+<td>231,93</td>
+<td>231,93</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>165</td>
+<td></td>
+<td>145</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>231,93</td>
+<td>231,93</td>
+<td>179</td>
+<td>165</td>
+<td></td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>441,69</td>
+<td>12,76</td>
+<td>52</td>
+<td colspan="2">376,93</td>
+<td>396,93</td>
+<td>396,93</td>
+<td>396,93</td>
+<td>396,93</td>
+<td>376,93</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="8">№ 8 Севооборот</td>
+<td>1</td>
+<td>45,5</td>
+<td></td>
+<td></td>
+<td colspan="2">45,5</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>38</td>
+<td></td>
+<td></td>
+<td colspan="2">38</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>41,14</td>
+<td></td>
+<td></td>
+<td colspan="2">41,14</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>4</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td colspan="2">48</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>5</td>
+<td>53,4</td>
+<td></td>
+<td>3,4</td>
+<td colspan="2">50</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна текущего года</td>
+</tr>
+<tr>
+<td>6</td>
+<td>64,55</td>
+<td></td>
+<td>24,55</td>
+<td colspan="2">40</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>7</td>
+<td>48,97</td>
+<td></td>
+<td></td>
+<td colspan="2">48,97</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>8</td>
+<td>43,76</td>
+<td></td>
+<td>3,76</td>
+<td colspan="2">40</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>130</td>
+<td>130</td>
+<td>135,61</td>
+<td>221,61</td>
+<td>180,47</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>130</td>
+<td></td>
+<td>91,14</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>221,61</td>
+<td>221,61</td>
+<td>86</td>
+<td>130</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>383,32</td>
+<td></td>
+<td>31,71</td>
+<td colspan="2">351,61</td>
+<td>351,61</td>
+<td>351,61</td>
+<td>351,61</td>
+<td>351,61</td>
+<td>351,61</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td rowspan="4">№ 9 Севооборот</td>
+<td>1</td>
+<td>62,1</td>
+<td></td>
+<td>2,1</td>
+<td colspan="2">60</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>2</td>
+<td>59,1</td>
+<td></td>
+<td>12,9</td>
+<td colspan="2">46,2</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>3</td>
+<td>55,6</td>
+<td></td>
+<td>12,0</td>
+<td colspan="2">43,6</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Люцерна текущего года</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50,8</td>
+<td></td>
+<td></td>
+<td colspan="2">50,8</td>
+<td>Люцерна прошлого года</td>
+<td>Люцерна прошлого года</td>
+<td>Рис</td>
+<td>Рис</td>
+<td>Рис</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>150</td>
+<td>150</td>
+<td>200,8</td>
+<td>50,8</td>
+<td>200,6</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>150</td>
+<td></td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>50,8</td>
+<td>50,8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>227,6</td>
+<td></td>
+<td>27</td>
+<td colspan="2">200,6</td>
+<td>200,8</td>
+<td>200,8</td>
+<td>200,8</td>
+<td>200,8</td>
+<td>200,6</td>
+</tr>
+<tr>
+<td colspan="12"></td>
+</tr>
+<tr>
+<td colspan="12">по сельскому округу Когалыколь</td>
+</tr>
+<tr>
+<td>Рис</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>1257,7</td>
+<td>1168,4</td>
+<td>773,3</td>
+<td>1143,2</td>
+<td>1293,31</td>
+</tr>
+<tr>
+<td>Люцерна текущего года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>159,1</td>
+<td>652,5</td>
+<td>270,5</td>
+<td>442,74</td>
+</tr>
+<tr>
+<td>Люцерна прошлого года</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td>1337,6</td>
+<td>1221,6</td>
+<td>1080,5</td>
+<td>1141,2</td>
+<td>906,13</td>
+</tr>
+<tr>
+<td>Мелиративное поле</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td>46,2</td>
+<td>89,0</td>
+<td>40,4</td>
+<td></td>
+</tr>
+<tr>
+<td>Всего:</td>
+<td></td>
+<td>3329,95</td>
+<td>47,9</td>
+<td>639,87</td>
+<td colspan="2">2642,18</td>
+<td>2595,3</td>
+<td>2595,3</td>
+<td>2595,3</td>
+<td>2595,3</td>
+<td>2642,18</td>
+</tr>
+</table>
