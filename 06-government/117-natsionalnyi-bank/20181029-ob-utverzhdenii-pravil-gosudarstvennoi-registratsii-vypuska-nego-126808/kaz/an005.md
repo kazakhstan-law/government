@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/126808/kaz/07.06.2023
+source: https://zan.gov.kz/client/#!/doc/126808/kaz/22.12.2023
 ---
 
 > *Мемлекеттік емес облигациялар*  
