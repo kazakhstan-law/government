@@ -42,5274 +42,4869 @@
 
 Южно-Казахстанской области Р. Исаева
 
-> *Приложение к решению*  
-> *Южно-Казахстанского областного*  
+> *Приложение к совместному*  
+> *постановлению акимата*  
+> *Южно-Казахстанской области*  
+> *от 15 марта 2012 года*  
+> *№ 90 и решению Южно-*  
+> *Казахстанского областного*  
 > *маслихата от 24 февраля*  
-> *2012 года № 2/16-V*  
-> *и к постановлению акимата*  
-> *Южно-Казахстанской области от*  
-> *15 марта 2012 года № 90*
+> *2012 года № 2/16-V*
 
-# Базовые ставки платы за земельные участки при их предоставлении в частную собственность
+## Базовые ставки платы за земельные участки при их предоставлении в частную собственность
 
-> *Сноска. Приложение 1 в редакции решения областного маслихата Южно-Казахстанской области от 30.05.2012 № 4/37-V (вводится в действие по истечении десяти календарных дней после первого официального опубликования); с изменениями, внесенным совместным решением Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановлением акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции решения областного маслихата Южно-Казахстанской области от 30.05.2012 № 4/37-V (вводится в действие по истечении десяти календарных дней после первого официального опубликования); с изменениями, внесенным совместным решением Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановлением акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции совместного постановления акимата Туркестанской области от 25.12.2023 № 294 и решения маслихата Туркестанской области от 13.12.2023 № 7/106-VIII.*
 
 <table>
 <tr>
-<td colspan="2">№</td>
+<td>№</td>
 <td>Административно-территориальная единица</td>
-<td colspan="2">Базовая ставка 1 квадратного метра земли (в тенге)</td>
+<td>Базовая ставка на 1 квадратный метр земли (в тенге)</td>
 </tr>
 <tr>
-<td colspan="5">1. Исключена совместным решением Туркестанского областного маслихата от 10.12.2021 № 13/136-VII и постановлением акимата Туркестанской области от 30.12.2021 № 293 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).</td>
-</tr>
-<tr>
-<td colspan="5">Арысский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Арыс</td>
-<td colspan="2">480</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акдала</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Акдала</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село им.Акына Жакыпа</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село им. Пакентая Арапова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Тахыркол</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Тогайлы</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Онтам</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Байыркум</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Байыркум</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Жосалы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>селоКокжиде</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Дермене</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Дермене</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>село Саналы</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Каражантак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Шаян</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Темиржолшы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Лесхоз</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>40-разъезд</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жидели</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Жидели</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Аккала</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Сырдария</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Сырдария</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Шогирли</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Монтайтас</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Монтайтас</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Кожатогай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Бакырша</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Тогансай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Актас</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Шагыр</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Кабылсай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>42-разъезд</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="5">Байдибекский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Шаян</td>
-<td colspan="2">237</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Борлысай</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Актас</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Кошкарата</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Кенсай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Шукыршык</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алгабас</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Шакпак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Усиктас</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Танатар</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Казата</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Боралдай</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Боралдай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Жогаргы Боралдай</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село им. О.Тайманова</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Жыланды</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Амансай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Сарыбулак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Талап</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Туйетас</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Акжар</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Каратас</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Теректы</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Мынбулак</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Мынбулак</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Бестогай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Косбулак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Кайнарбулак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Акбулак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Нура</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жамбыл</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Жамбыл</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Кызылжар</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Таскудык</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Шыбыт</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Жузимдик</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Коктерек</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Кенестобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Ынтымак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Бирлик</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алмалы</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Алмалы</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>село Жарыкбас</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>село Байдибек ата</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Байжансай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Агыбет</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Агыбет</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Алгабас</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Жулдыз</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Жанаталап</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акбастау</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Акбастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Кенес</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Жолгабас</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Туракты</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Боген</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Шалдар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Саркырама</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Екпинди</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Жиенкум</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Бекбау</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="5">город Кентау</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Кентау</td>
-<td colspan="2">510</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Байылдыр</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Хантагы</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Ащысай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карнак</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Карнак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Кушата</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Акынтума</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Жербаскан</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Бургем</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Шаштобе</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="5">Казыгуртский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Казыгурт</td>
-<td colspan="2">335</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алтынтобе</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Каржан</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Алтынтобе</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Аккум</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Карабау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Косагаш</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Лесхоз</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жанабазар</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Жанабазар</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Жогары Жылыбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Кожамберди</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Жанажол</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Жанаталап</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Женис</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Карабастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Тилектес</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Улгили</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ С.Рахимова</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Кокибел</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Майбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Кызыл ата</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жигерген</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Жигерген</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Кызыл булак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Айнатас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Тесиктобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Огем</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шарапхана</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Шарапхана</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Бахабулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Жинишке</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Махамбет</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Майлыошак</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Талдыбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кызылкия</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Кызылкия</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Араншы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Айнатас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Ынталы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Кызылсенгир</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Турбат</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>село Турбат</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>село Енбек</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Кызыл дихан</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Ондирис</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каракозы Абдалиева</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Рабат</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Амангельди</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Атбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Енбекши</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Жанаталап</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Кыдыра Мамбеталиева</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Кызыл дала</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шанак</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Шанак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Акжар</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Ески Шанак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Станция Шанак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Ызабулак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шарбулак</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Шарбулак</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Кезен булак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Ащыбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>село Акбастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>село Молбулак</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карабау</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>село Карабау</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>село Сынтас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>село Жумысшы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>село Ушбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Какпак</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>село Какпак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="5">Мактааральский район</td>
+<td colspan="3">город Арыс</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3">город Жетысай</td>
-<td>505</td>
+<td>город Арыс</td>
+<td>1050</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">сельский округ Достык</td>
+<td colspan="2">сельский округ Ақдала</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">село Ж.Калшораева</td>
-<td colspan="2">123</td>
+<td>село Ақдала</td>
+<td>148</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="2">село Хайдар</td>
-<td colspan="2">123</td>
+<td>село Ақын Жақып</td>
+<td>100</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2">село Бескетик</td>
-<td colspan="2">123</td>
+<td>село Пакентай Арапов</td>
+<td>123</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="2">село Достык</td>
-<td colspan="2">123</td>
+<td>село Тақыркөл</td>
+<td>100</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">село Гулистан</td>
-<td colspan="2">123</td>
+<td>село Тоғайлы</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Байырқұм</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">село Водное</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">сельский округ Жанасело</td>
+<td>село Байырқұм</td>
+<td>148</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2">село Мырзашол</td>
-<td colspan="2">123</td>
+<td>село Жосалы</td>
+<td>123</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="2">село Атаконыс</td>
-<td colspan="2">123</td>
+<td>село Көкжиде</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Дермене</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="2">село Жанасело</td>
-<td colspan="2">123</td>
+<td>село Дермене</td>
+<td>148</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="2">село Карой</td>
-<td colspan="2">123</td>
+<td>село Саналы</td>
+<td>148</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2">село Абдихалык</td>
-<td colspan="2">123</td>
+<td>село Қаражантақ</td>
+<td>123</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">село Ынтымак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">сельский округ Аязхана Калыбекова</td>
+<td>село Қызыл көпір</td>
+<td>123</td>
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">село Улгили</td>
-<td colspan="2">123</td>
+<td>село Теміржолшы</td>
+<td>123</td>
 </tr>
 <tr>
 <td>15</td>
-<td colspan="2">село Абад</td>
-<td colspan="2">123</td>
+<td>село Орманды</td>
+<td>123</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">село Жамбыл</td>
-<td colspan="2">123</td>
+<td>40-разъезд</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жиделі</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">село Жана жол</td>
-<td colspan="2">123</td>
+<td>село Жиделі</td>
+<td>148</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="2">село Атамура</td>
-<td colspan="2">123</td>
+<td>село Аққала</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қожатоғай</td>
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">село Туран</td>
-<td colspan="2">123</td>
+<td>село Шөгірлі</td>
+<td>123</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="2">село Тортколь</td>
-<td colspan="2">110</td>
+<td>село Қожатоғай</td>
+<td>123</td>
 </tr>
 <tr>
 <td>21</td>
-<td colspan="2">село Тортколь-1</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">сельский округ Жылысу</td>
+<td>село Байтоғай</td>
+<td>-</td>
 </tr>
 <tr>
 <td>22</td>
-<td colspan="2">село Байконыс</td>
-<td colspan="2">123</td>
+<td>село Бұлақ</td>
+<td>-</td>
 </tr>
 <tr>
 <td>23</td>
-<td colspan="2">село Жылысу</td>
-<td colspan="2">123</td>
+<td>село Дарбаза</td>
+<td>-</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Монтайтас</td>
 </tr>
 <tr>
 <td>24</td>
-<td colspan="2">село Бакконыс</td>
-<td colspan="2">110</td>
+<td>село Монтайтас</td>
+<td>148</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="2">село Мырзашокы</td>
-<td colspan="2">123</td>
+<td>село Атамекен</td>
+<td>-</td>
 </tr>
 <tr>
 <td>26</td>
-<td colspan="2">село Сейфуллин</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="4">сельский округ Каракай</td>
+<td>село Шағыр</td>
+<td>123</td>
 </tr>
 <tr>
 <td>27</td>
-<td colspan="2">село К.Сатпаев</td>
-<td colspan="2">123</td>
+<td>село Қабылсай</td>
+<td>123</td>
 </tr>
 <tr>
 <td>28</td>
-<td colspan="2">село Кетебай</td>
-<td colspan="2">123</td>
+<td>42 разъезд</td>
+<td>100</td>
 </tr>
 <tr>
 <td>29</td>
-<td colspan="2">село Каракай</td>
-<td colspan="2">123</td>
+<td>село Тоғансай</td>
+<td>123</td>
 </tr>
 <tr>
 <td>30</td>
-<td colspan="2">село Каракайское</td>
-<td colspan="2">123</td>
+<td>село Ақтас</td>
+<td>123</td>
 </tr>
 <tr>
 <td>31</td>
-<td colspan="2">село Караозек</td>
-<td colspan="2">110</td>
+<td>село Бақырша</td>
+<td>100</td>
+</tr>
+<tr>
+<td colspan="3">район Байдибек</td>
 </tr>
 <tr>
 <td>32</td>
-<td colspan="2">село Енбек</td>
-<td colspan="2">110</td>
+<td>село Шаян</td>
+<td>237</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">сельский округ Казыбек би</td>
+<td colspan="2">сельский округ Борлысай</td>
 </tr>
 <tr>
 <td>33</td>
-<td colspan="2">село Казыбек би</td>
-<td colspan="2">123</td>
+<td>село Ақтас</td>
+<td>200</td>
 </tr>
 <tr>
 <td>34</td>
-<td colspan="2">село Жамбыл</td>
-<td colspan="2">123</td>
+<td>село Қошқар ата</td>
+<td>177</td>
 </tr>
 <tr>
 <td>35</td>
-<td colspan="2">село А.Оспанова</td>
-<td colspan="2">123</td>
+<td>село Кенсай</td>
+<td>177</td>
 </tr>
 <tr>
 <td>36</td>
-<td colspan="2">село Алгабас</td>
-<td colspan="2">123</td>
+<td>село Шұқыршық</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Алғабас</td>
 </tr>
 <tr>
 <td>37</td>
-<td colspan="2">село Курбан ата</td>
-<td colspan="2">123</td>
+<td>село Шақпақ</td>
+<td>221</td>
 </tr>
 <tr>
 <td>38</td>
-<td colspan="2">село Абибола</td>
-<td colspan="2">123</td>
+<td>село Үсіктас</td>
+<td>177</td>
 </tr>
 <tr>
 <td>39</td>
-<td colspan="2">село К.Маркс</td>
-<td colspan="2">123</td>
+<td>село Таңатар</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">зона Асык ата</td>
+<td>40</td>
+<td>село Қазата</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Асык ата</td>
+<td></td>
+<td colspan="2">сельский округ Боралдай</td>
 </tr>
 <tr>
-<td colspan="2">40</td>
-<td>поселок Асык ата</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ш.Дильдабекова</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Жана дала</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Большевик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Кирпичное</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Жамбыл</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Карисауыл</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Чкалова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Ленинабад</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Кызылтан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Бирлик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Жданова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Сайлау</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Алпамыс</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Достык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Абай</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Жузимдик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>село Халыктар достыгы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>село Алтын кемер</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>село Бейбитшилик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>село Отан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>село Атажурт</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Махталы</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>село Алтынсарин</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>село Жибек жолы</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>село Алмалы</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">63</td>
-<td>село Жайлаукол</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">64</td>
-<td>село Шолпанкудык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">65</td>
-<td>село Макталы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">66</td>
-<td>село Чехов</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">67</td>
-<td>село Саркырама</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">68</td>
-<td>село Дархан-1</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">69</td>
-<td>село Дархан-2</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">70</td>
-<td>село Тындала</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">71</td>
-<td>село Темиржол</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ж.Ералиева</td>
-</tr>
-<tr>
-<td colspan="2">72</td>
-<td>село Арай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">73</td>
-<td>село Жданова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">74</td>
-<td>село Жетиказына</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">75</td>
-<td>село Жетикубыр</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">76</td>
-<td>село Жазыксай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">77</td>
-<td>село Жанадауир</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">78</td>
-<td>село Абай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">79</td>
-<td>село Дихан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">80</td>
-<td>село Коктобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">81</td>
-<td>село Муратбаева</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">82</td>
-<td>село Жагажай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">83</td>
-<td>село Сейфуллин</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">84</td>
-<td>село Ауезов</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">85</td>
-<td>село Утиртобе</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">86</td>
-<td>село Акжайлау</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ынтымак</td>
-</tr>
-<tr>
-<td colspan="2">87</td>
-<td>село Талапты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">88</td>
-<td>село Адената</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">89</td>
-<td>село Ушкопир</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">90</td>
-<td>село Нурауыл</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">91</td>
-<td>село Победа</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">92</td>
-<td>село Оркенди</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">93</td>
-<td>село Акниет</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">94</td>
-<td>село Корикти</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">95</td>
-<td>село Агынсай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кызылкум</td>
-</tr>
-<tr>
-<td colspan="2">96</td>
-<td>село Карасакал</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">97</td>
-<td>село Киров</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">98</td>
-<td>село Коскудык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">99</td>
-<td>село Молшылык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">100</td>
-<td>село Кызылту</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">101</td>
-<td>село Жалпаккум</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">102</td>
-<td>село Туркебай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">103</td>
-<td>село Гагарино</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">104</td>
-<td>село Кызылкум</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">105</td>
-<td>село Кобек</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">106</td>
-<td>село Датка</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">107</td>
-<td>село Енбекши</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">108</td>
-<td>село Макталы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">109</td>
-<td>село Алгабас</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">110</td>
-<td>село Первомайское</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">111</td>
-<td>село Актобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">112</td>
-<td>село Костакыр</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">113</td>
-<td>село Первомайское-1</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Атамекен</td>
-</tr>
-<tr>
-<td colspan="2">114</td>
-<td>село Когалы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">115</td>
-<td>село Когалы-1</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">116</td>
-<td>село Тындала</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">117</td>
-<td>село 40 лет Победы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">118</td>
-<td>село Атамекен</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">119</td>
-<td>село Талапты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">120</td>
-<td>село Жемисти</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">121</td>
-<td>село Алимбетова</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">122</td>
-<td>село Гарышкер</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td>село Габдулино</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">124</td>
-<td>село Макташы</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">125</td>
-<td>село Прали</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">126</td>
-<td>село Калпаксай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">127</td>
-<td>село Жибекши</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">Мактааральская зона</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Мырзакент</td>
-</tr>
-<tr>
-<td colspan="2">128</td>
-<td>поселок Мырзакент</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Атакент</td>
-</tr>
-<tr>
-<td colspan="2">129</td>
-<td>поселок Атакент</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жамбыл</td>
-</tr>
-<tr>
-<td colspan="2">130</td>
-<td>село Кокпарсай</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">131</td>
-<td>село Абай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">132</td>
-<td>село Кенесшил-1</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">133</td>
-<td>село Кенесшил-2</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">134</td>
-<td>село Андреева</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">135</td>
-<td>село Октябрь</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бирлик</td>
-</tr>
-<tr>
-<td colspan="2">136</td>
-<td>село Алгабас</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">137</td>
-<td>село Еркинабад</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">138</td>
-<td>село К.Пернебаева</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">139</td>
-<td>село Оркениет</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">140</td>
-<td>село Табысты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">141</td>
-<td>село Конырат</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Мактаарал</td>
-</tr>
-<tr>
-<td colspan="2">142</td>
-<td>село Оркениет</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">143</td>
-<td>село Ак алтын</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">144</td>
-<td>село Шаттык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">145</td>
-<td>село Азаттык</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">146</td>
-<td>село Есентаев</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">147</td>
-<td>село Игилик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">148</td>
-<td>село Елкконыс</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">149</td>
-<td>село 40 лет. Каз. ССР</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">150</td>
-<td>село Амангельди</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">151</td>
-<td>село Жулдыз</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">152</td>
-<td>село Енбекши</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">153</td>
-<td>село Мадениет</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">154</td>
-<td>село Бахыт</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">155</td>
-<td>село Тулпар</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">156</td>
-<td>село Кокарал</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">157</td>
-<td>село Береке</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ж.Нурлыбаева</td>
-</tr>
-<tr>
-<td colspan="2">158</td>
-<td>село Ынталы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">159</td>
-<td>село Мырзатобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">160</td>
-<td>село Онимкер</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">161</td>
-<td>село Ырысты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">162</td>
-<td>село Каракир</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">163</td>
-<td>село Оркен</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жанажол</td>
-</tr>
-<tr>
-<td colspan="2">164</td>
-<td>село Арайлы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">165</td>
-<td>село Ак жол</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">166</td>
-<td>село Оргебас</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">167</td>
-<td>село Фирдоуси</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">168</td>
-<td>село Нурлы жол</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">169</td>
-<td>село Женис</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">170</td>
-<td>село Женис-1</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Иржар</td>
-</tr>
-<tr>
-<td colspan="2">171</td>
-<td>село Иржар</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">172</td>
-<td>село Азат</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">173</td>
-<td>село С.Рахымова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">174</td>
-<td>село Мактажан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">175</td>
-<td>село Алаш</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">176</td>
-<td>село Шапагат</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">177</td>
-<td>село Наурыз</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">178</td>
-<td>село Азамат</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">179</td>
-<td>село Дихан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Енбекши</td>
-</tr>
-<tr>
-<td colspan="2">180</td>
-<td>село Т.Жайлибаева</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">181</td>
-<td>село Нурлы тан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">182</td>
-<td>село Шугыла</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">183</td>
-<td>село Жантаксай</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">184</td>
-<td>село Т.Жайлибаева-1</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">Населенные пункты в Шардаринском районе</td>
-</tr>
-<tr>
-<td colspan="2">185</td>
-<td>село Жибекши</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">186</td>
-<td>село Калпаксай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">187</td>
-<td>село Прали</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">189</td>
-<td>село Тамды</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">190</td>
-<td>село Серикбай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">191</td>
-<td>село Батырхан</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">192</td>
-<td>село Жорабек</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">193</td>
-<td>село Орыскудык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">194</td>
-<td>село Найман Бухарбай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="5">Отырарский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Шселодер</td>
-<td colspan="2">203</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Отырар</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Арыс</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Шайманов</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Маякум</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Маякум</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Костерек</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Бестам</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Аккум</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Аккум</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Балтаколь</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Балтаколь</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Акколь</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Колкудык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Талапты</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Кокмардан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Шытты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Ынталы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Сарыколь</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Коксарай</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Коксарай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Шенгельды</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Ызакол</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Жанкел</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Табакбулак</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Караконыр</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Ш.Калдакова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Бесторангыл</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Сырдария</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Станция Караконыр</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Костуин</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Арыс</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Актобе</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Актобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шилик</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Жана Шилик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Ески Шилик</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каргалы</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Каргалы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Отырар</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Темир</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Темир</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Отрабат</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Ак Шокат</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Узынкудык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>37-разъезд</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Когам</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>село Когам</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>село Талапты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Мыншукыр</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кожатогай</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Кожатогай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Байтогай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Дарбаза</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Булак</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="5">Толебийский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Ленгер</td>
-<td colspan="2">650</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акжар</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Акжар</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Каратобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Аккум</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Момынай</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Аккум</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Жанауюм</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алатау</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Алатау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Косагаш</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Екпинди</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Жанатурмыс</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Корган</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Нысанбек</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Шубарагаш</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Бирколик</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Кайнар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Шатыртобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жогары Аксу</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Мадани</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Саркырама</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Зертас</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Зертас</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Жанакуш</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Каракия</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Киелитас</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Киелитас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Достык</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Акайдар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Султанрабат</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Казыгурт</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Жыланбузган</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Маятас</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Елтай</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Тогыс</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Айнатас</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каратобе</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Каратобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Балдыберек</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Тонкерис</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Костобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Майбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кемекалган</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>село Абай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>село Акбастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Ангир-Ата</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Текесу</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Уюмшыл</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Коксайек</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Коксайек</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Казахстан</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Жинишке</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Алтын бастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Когалы</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Алшалы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Диханколь</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Узын арык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каскасу</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Каскасу</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Кенесарык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Жогаргы Каскасу</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Керегетас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Биринши мамыр</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Биринши мамыр</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Алгабас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Бейнеткеш</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>село Камшак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>село Жанажол</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>село Тагайна</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>село Ынтымак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тасарык</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>село Жамбыл</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>село Тасарык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>село Ханарык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>село Онтустик</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="5">Шардаринский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Шардара</td>
-<td colspan="2">420</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ К.Турысбекова</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село К.Турысбекова</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Акберди</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Бимырза</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Куан-кудык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Пишентобе</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Бозай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Коссейт</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Коссейт</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жаушыкум</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Жаушыкум-1</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Багыскол</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Жаушыкум</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Калгансыр</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Куйган</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Коксу</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Коксу</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Айдаркул-кашар</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Баспанды</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Жоласар</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Сырдария</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Узыната</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Узын ата</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Казахстан</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Казахстан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Целинное</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кызылкум</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Кызылкум</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Достык</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Достык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акшенгельды</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Акалтын</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село 60 лет Казахстана</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Суткент</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Суткент</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Шабырлы</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="5">Тюлькубасский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Т.Рыскулова</td>
-<td colspan="2">340</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Машат</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Машат</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Мынбай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Енбек</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Енбекши</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Кызылбастау</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жаскешу</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Жаскешу</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Рыскул</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Жанузак</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Пистели</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жабаглы</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Жабагылы</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Абайлы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село 115-разъед</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Турара Рыскулова</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Азаттык</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Шукырбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Жанаталап</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Тастыбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кемербастау</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Кумисбастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Елтай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Кемербастау</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Алгабас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село М.Жаримбетова</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>17-разъезд</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Майлыкент</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Балыкты</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Балыкты</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Шарафкент</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Урбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Кокбулак</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Абай</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Майлыкент</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Дауан</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Бакыбек</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Арыс</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Керейит</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Кайыршыкты</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Макталы</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шакпак</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Шакпак баба</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>114-разъезд</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Састюбе</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>поселок Састобе</td>
-<td colspan="2">295</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Кызылту</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Ынтымак</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Келтемашат</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Келтемашат</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Аксай</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Даубаба-1</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Жиынбай</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Кершетас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Когалы</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Даубаба-2</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Тортколь</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тастумсык</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Амангельди</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Жыланды</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Кабанбай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Карабастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Тастумсык</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Мичурин</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Майтобе</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Коксагыз</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>село Таусагыз</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>село Кожамберды</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акбиик</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>село Акбиик</td>
-<td colspan="2">244</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>село Кулан</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>село Сартор</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Тюлькубас</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>поселок Тюлькубас</td>
-<td colspan="2">295</td>
-</tr>
-<tr>
-<td colspan="2">61</td>
-<td>село Коктерек</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">62</td>
-<td>село Иирсу</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="5">Ордабасинский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Темирлан</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бадам</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Бадам</td>
-<td colspan="2">240</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Дербес</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Мамыр</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Алтын тобе</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Акбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Кокбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Карабастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Ордабасы</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Боржар</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Уялыжар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Ыкыластемир</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Жамбыл</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Бирлик</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Калаш</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Теспе</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Ынтымак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Кайнар</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кажымухан</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Амангельди</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
+<td>41</td>
 <td>село Боралдай</td>
-<td colspan="2">200</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">20</td>
-<td>село Ынталы</td>
-<td colspan="2">221</td>
+<td>42</td>
+<td>село Жоғарғы Боралдай</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">21</td>
-<td>село Коктобе</td>
-<td colspan="2">221</td>
+<td>43</td>
+<td>село О.Тайманов</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">22</td>
-<td>село Кажымухан</td>
-<td colspan="2">221</td>
+<td>44</td>
+<td>село Жыланды</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">23</td>
-<td>село Кызыл сенгир</td>
-<td colspan="2">221</td>
+<td>45</td>
+<td>село Амансай</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карааспан</td>
+<td>46</td>
+<td>село Сарыбұлақ</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">25</td>
-<td>село Караспан</td>
-<td colspan="2">221</td>
+<td>47</td>
+<td>село Талап</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">26</td>
-<td>село Бейсен</td>
-<td colspan="2">221</td>
+<td>48</td>
+<td>село Түйетас</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">27</td>
-<td>село Акжол</td>
-<td colspan="2">221</td>
+<td>49</td>
+<td>село Ақжар</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">28</td>
-<td>село Берген</td>
-<td colspan="2">221</td>
+<td>50</td>
+<td>село Қаратас</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">29</td>
-<td>село Жулдыз</td>
-<td colspan="2">200</td>
+<td>51</td>
+<td>село Теректі</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">30</td>
-<td>село Ынтымак</td>
-<td colspan="2">200</td>
+<td></td>
+<td colspan="2">сельский округ Мыңбұлақ</td>
 </tr>
 <tr>
-<td colspan="2">31</td>
-<td>село Торе арык</td>
-<td colspan="2">221</td>
+<td>52</td>
+<td>село Мыңбұлақ</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">32</td>
-<td>село Кольтоган</td>
-<td colspan="2">221</td>
+<td>53</td>
+<td>село Бестоғай</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">33</td>
-<td>село Акпан</td>
-<td colspan="2">200</td>
+<td>54</td>
+<td>село Қосбұлақ</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">34</td>
-<td>село Жанатурмыс</td>
-<td colspan="2">200</td>
+<td>55</td>
+<td>село Қайнарбұлақ</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">35</td>
-<td>село Мадениет</td>
-<td colspan="2">200</td>
+<td>56</td>
+<td>село Ақбұлақ</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">36</td>
-<td>село Пахташы</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Жамбыл</td>
 </tr>
 <tr>
-<td colspan="2">37</td>
-<td>село Сарыарык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">38</td>
-<td>село Батыр ата</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шубар</td>
-</tr>
-<tr>
-<td colspan="2">39</td>
-<td>село Береке</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">40</td>
-<td>село Шубар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">41</td>
-<td>село Жусансай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">42</td>
-<td>село Токсансай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">43</td>
-<td>село Сарытогай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">44</td>
-<td>село Аккойлы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шубарсу</td>
-</tr>
-<tr>
-<td colspan="2">45</td>
-<td>село Шубарсу</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Боген</td>
-</tr>
-<tr>
-<td colspan="2">46</td>
-<td>село Боген</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">47</td>
-<td>село Кемер</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Женис</td>
-</tr>
-<tr>
-<td colspan="2">48</td>
-<td>село Дихан</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Женис</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каракум</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Каракум</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тортколь</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Тортколь</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Кызылжар</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Елшибек батыр</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Кокарал</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
-<td>село К.Спатаева</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">56</td>
-<td>село Енбекши</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">57</td>
-<td>село Арыстанды</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">58</td>
-<td>село Нура</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">59</td>
-<td>село Жайылма</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">60</td>
-<td>село Аксары</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="5">Сарыагашский район</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Сарыагаш</td>
-<td colspan="2">830</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Абай</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Абай</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Коктерек</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>поселок Коктерек</td>
-<td colspan="2">405</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бирлесу</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Б.Амирова</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село 28 Гвардии</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Дихан</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Берекели</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жузимдик</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село К.Сатпаева</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Онтустик</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Бирлесу</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Аксу</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алимтау</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Алимтау</td>
-<td colspan="2">177</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Жайдак кудык</td>
-<td colspan="2">133</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Коктал</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Таскудык</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кошкарата</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Бескубыр</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село 1 Мамыр</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Шынар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Кошкарата</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Ушкын</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Макташы</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Алгабас</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Аманжар</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Карабура</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Жана коныс</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Бес ауыл</td>
-<td colspan="2">200</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
+<td>57</td>
 <td>село Жамбыл</td>
-<td colspan="2">221</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">28</td>
-<td>село Байтерек</td>
-<td colspan="2">221</td>
+<td>58</td>
+<td>село Қызылжар</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жартытобе</td>
+<td>59</td>
+<td>село Тасқұдық</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">29</td>
-<td>село Тонкерис</td>
-<td colspan="2">221</td>
+<td>60</td>
+<td>село Шыбыт</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">30</td>
-<td>село Курама</td>
-<td colspan="2">221</td>
+<td>61</td>
+<td>село Жүзімдік</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">31</td>
-<td>село Ынтымак</td>
-<td colspan="2">244</td>
+<td></td>
+<td colspan="2">сельский округ Көктерек</td>
 </tr>
 <tr>
-<td colspan="2">32</td>
-<td>село Бостандык</td>
-<td colspan="2">221</td>
+<td>62</td>
+<td>село Кеңестөбе</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">33</td>
-<td>село Достык</td>
-<td colspan="2">221</td>
+<td>63</td>
+<td>село Ынтымақ</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жибекжолы</td>
+<td>64</td>
+<td>село Бірлік</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">34</td>
-<td>село Жибекжолы</td>
-<td colspan="2">265</td>
+<td></td>
+<td colspan="2">сельский округ Алмалы</td>
 </tr>
 <tr>
-<td colspan="2">35</td>
-<td>село Социализм</td>
-<td colspan="2">221</td>
+<td>65</td>
+<td>село Алмалы</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">36</td>
-<td>село Жана турмыс</td>
-<td colspan="2">221</td>
+<td>66</td>
+<td>село Жарықбас</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">37</td>
-<td>село Карабау</td>
-<td colspan="2">221</td>
+<td>67</td>
+<td>село Бәйдібек ата</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">38</td>
-<td>село Жана курылыс</td>
-<td colspan="2">221</td>
+<td>68</td>
+<td>село Байжансай</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">39</td>
-<td>село Кожахан</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Ағыбет</td>
 </tr>
 <tr>
-<td colspan="2">40</td>
-<td>село Саркырама</td>
-<td colspan="2">221</td>
+<td>69</td>
+<td>село Ағыбет</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">41</td>
-<td>село Сок-сок</td>
-<td colspan="2">177</td>
+<td>70</td>
+<td>село Алғабас</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2">42</td>
-<td>село Тын</td>
-<td colspan="2">221</td>
+<td>71</td>
+<td>село Жұлдыз</td>
+<td>200</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жылга</td>
+<td>72</td>
+<td>село Жаңаталап</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">43</td>
-<td>село Жылга</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Ақбастау</td>
 </tr>
 <tr>
-<td colspan="2">44</td>
-<td>село Шайхана</td>
-<td colspan="2">200</td>
+<td>73</td>
+<td>село Ақбастау</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">45</td>
-<td>село Каракалпак</td>
-<td colspan="2">200</td>
+<td>74</td>
+<td>село Кеңес</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">46</td>
-<td>село Шымырбай</td>
-<td colspan="2">200</td>
+<td>75</td>
+<td>село Жолғабас</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">47</td>
-<td>село Кызыласу</td>
-<td colspan="2">200</td>
+<td>76</td>
+<td>село Тұрақты</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">48</td>
-<td>49-разъезд</td>
-<td colspan="2">200</td>
+<td></td>
+<td colspan="2">сельский округ Бөген</td>
 </tr>
 <tr>
-<td colspan="2">49</td>
-<td>село Нурауыл</td>
-<td colspan="2">200</td>
+<td>77</td>
+<td>село Шалдар</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">50</td>
-<td>село Шенгельди</td>
-<td colspan="2">200</td>
+<td>78</td>
+<td>село Сарқырама</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">51</td>
-<td>село 3 ферма</td>
-<td colspan="2">200</td>
+<td>79</td>
+<td>село Екпінді</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жемисти</td>
+<td>80</td>
+<td>село Жиенқұм</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">52</td>
-<td>село Жемисти</td>
-<td colspan="2">221</td>
+<td>81</td>
+<td>село Бекбау</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">53</td>
-<td>село Тын</td>
-<td colspan="2">221</td>
+<td colspan="3">Жетысайский район</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акжар</td>
+<td>82</td>
+<td>город Жетісай</td>
+<td>650</td>
 </tr>
 <tr>
-<td colspan="2">54</td>
-<td>село Акжар</td>
-<td colspan="2">221</td>
+<td>83</td>
+<td>поселок Асықата</td>
+<td>305</td>
 </tr>
 <tr>
-<td colspan="2">55</td>
-<td>село Багыс</td>
-<td colspan="2">200</td>
+<td></td>
+<td colspan="2">сельский округ Қазыбек би</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Дербисек</td>
+<td>84</td>
+<td>село Абиболла</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">56</td>
-<td>село Дербисек</td>
-<td colspan="2">221</td>
+<td>85</td>
+<td>село Құрбан ата</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">57</td>
+<td>86</td>
+<td>село Таубай ата</td>
+<td>230</td>
+</tr>
+<tr>
+<td>87</td>
+<td>село Алғабас</td>
+<td>230</td>
+</tr>
+<tr>
+<td>88</td>
+<td>село Қазыбек би</td>
+<td>230</td>
+</tr>
+<tr>
+<td>89</td>
+<td>село Жамбыл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>90</td>
+<td>село А.Оспанов</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарақай</td>
+</tr>
+<tr>
+<td>91</td>
+<td>село Сәтпаев</td>
+<td>230</td>
+</tr>
+<tr>
+<td>92</td>
+<td>село Қарақай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>93</td>
+<td>село Кетебай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>94</td>
+<td>село Қараөзек</td>
+<td>230</td>
+</tr>
+<tr>
+<td>95</td>
+<td>село Еңбек</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаңа ауыл</td>
+</tr>
+<tr>
+<td>96</td>
+<td>село Ынтымақ</td>
+<td>230</td>
+</tr>
+<tr>
+<td>97</td>
+<td>село Әбдіхалық</td>
+<td>230</td>
+</tr>
+<tr>
+<td>98</td>
+<td>село Жаңа ауыл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>99</td>
+<td>село Мырзашөл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>100</td>
+<td>село Қарой</td>
+<td>230</td>
+</tr>
+<tr>
+<td>101</td>
+<td>село Атақоныс</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жылы су</td>
+</tr>
+<tr>
+<td>102</td>
+<td>село Баққоныс</td>
+<td>230</td>
+</tr>
+<tr>
+<td>103</td>
+<td>село Байқоныс</td>
+<td>230</td>
+</tr>
+<tr>
+<td>104</td>
+<td>село Жылы су</td>
+<td>230</td>
+</tr>
+<tr>
+<td>105</td>
+<td>село Мырзашоқы</td>
+<td>230</td>
+</tr>
+<tr>
+<td>106</td>
+<td>село Сейфуллин</td>
+<td>230</td>
+</tr>
+<tr>
+<td>107</td>
+<td>село Әл-Фараби</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Атамекен</td>
+</tr>
+<tr>
+<td>108</td>
 <td>село Атамекен</td>
-<td colspan="2">221</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кызылжар</td>
+<td>109</td>
+<td>село Баянды</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">58</td>
-<td>село Кызылжар</td>
-<td colspan="2">244</td>
+<td>110</td>
+<td>село Талапты</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">59</td>
-<td>село Жаскешу</td>
-<td colspan="2">221</td>
+<td>111</td>
+<td>село Жемісті</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Алпамыс батыр</td>
+<td>112</td>
+<td>село Мақташы</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">60</td>
-<td>село Акжол</td>
-<td colspan="2">221</td>
+<td>113</td>
+<td>село Қоғалы</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">61</td>
-<td>село Кауыншы</td>
-<td colspan="2">221</td>
+<td>114</td>
+<td>село Тыңдала</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ошакты</td>
+<td>115</td>
+<td>село Ғарышкер</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">62</td>
-<td>село Ошакты</td>
-<td colspan="2">221</td>
+<td>116</td>
+<td>село Әлімбетов</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">63</td>
-<td>село Курбанов</td>
-<td colspan="2">221</td>
+<td>117</td>
+<td>село Ғабдуллин</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">64</td>
-<td>село Енбек</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Қызылқұм</td>
 </tr>
 <tr>
-<td colspan="2">65</td>
-<td>село Береке</td>
-<td colspan="2">221</td>
+<td>118</td>
+<td>село Ақтөбе</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">66</td>
-<td>село Ынталы</td>
-<td colspan="2">200</td>
+<td>119</td>
+<td>село Алғабас</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">67</td>
-<td>село Санырау</td>
-<td colspan="2">221</td>
+<td>120</td>
+<td>село Қызылту</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">68</td>
-<td>село Коныртобе</td>
-<td colspan="2">221</td>
+<td>121</td>
+<td>село Қосқұдық</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">69</td>
-<td>село Сарыжылга</td>
-<td colspan="2">221</td>
+<td>122</td>
+<td>село Молшылық</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">70</td>
-<td>село Саттаров</td>
-<td colspan="2">221</td>
+<td>123</td>
+<td>село Ақжайлау</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">71</td>
-<td>село Каратал</td>
-<td colspan="2">221</td>
+<td>124</td>
+<td>село Қостақыр</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">72</td>
-<td>село Бакшысай</td>
-<td colspan="2">200</td>
+<td>125</td>
+<td>село Қарасақал</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">73</td>
-<td>село Атаконыс</td>
-<td colspan="2">200</td>
+<td>126</td>
+<td>село Мақталы</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">74</td>
-<td>село Жидели</td>
-<td colspan="2">200</td>
+<td>127</td>
+<td>село Еңбекші</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тегисшиль</td>
+<td>128</td>
+<td>село Алтынкөл</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">75</td>
-<td>село Таскескен</td>
-<td colspan="2">221</td>
+<td>129</td>
+<td>село Жалпаққұм</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">76</td>
-<td>село Мадениет</td>
-<td colspan="2">221</td>
+<td>130</td>
+<td>село Түркебай</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">77</td>
-<td>село Тегисшил</td>
-<td colspan="2">221</td>
+<td>131</td>
+<td>село Қызылқұм</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Куркелес</td>
+<td>132</td>
+<td>село Датқа</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">78</td>
-<td>село Ак ниет</td>
-<td colspan="2">265</td>
+<td>133</td>
+<td>село Көбек</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">79</td>
-<td>село Келес</td>
-<td colspan="2">221</td>
+<td>134</td>
+<td>село Ақбұлақ</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">80</td>
-<td>село Жанаарык</td>
-<td colspan="2">244</td>
+<td></td>
+<td colspan="2">сельский округ Абай</td>
 </tr>
 <tr>
-<td colspan="2">81</td>
-<td>село Енкес</td>
-<td colspan="2">221</td>
+<td>135</td>
+<td>село Жүзімдік</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">82</td>
-<td>село Култума</td>
-<td colspan="2">221</td>
+<td>136</td>
+<td>село Алтын кемер</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">83</td>
+<td>137</td>
+<td>село Атажұрт</td>
+<td>230</td>
+</tr>
+<tr>
+<td>138</td>
+<td>село Бейбітшілік</td>
+<td>230</td>
+</tr>
+<tr>
+<td>139</td>
+<td>село Отан</td>
+<td>230</td>
+</tr>
+<tr>
+<td>140</td>
+<td>село Халықтар Достығы</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ж.Ералиев</td>
+</tr>
+<tr>
+<td>141</td>
+<td>село Арай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>142</td>
+<td>село Абай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>143</td>
+<td>село Ғ.Мұратбаев</td>
+<td>230</td>
+</tr>
+<tr>
+<td>144</td>
+<td>село Бәйтерек</td>
+<td>230</td>
+</tr>
+<tr>
+<td>145</td>
+<td>село Көктөбе</td>
+<td>230</td>
+</tr>
+<tr>
+<td>146</td>
+<td>село Жетіқазына</td>
+<td>230</td>
+</tr>
+<tr>
+<td>147</td>
+<td>село Жағажай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>148</td>
+<td>село Жетіқұбыр</td>
+<td>230</td>
+</tr>
+<tr>
+<td>149</td>
+<td>село С.Сейфуллин</td>
+<td>230</td>
+</tr>
+<tr>
+<td>150</td>
+<td>село М.Әуезов</td>
+<td>230</td>
+</tr>
+<tr>
+<td>151</td>
+<td>село Жазықсай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>152</td>
+<td>село Ақжайлау</td>
+<td>230</td>
+</tr>
+<tr>
+<td>153</td>
+<td>село Үтіртөбе</td>
+<td>230</td>
+</tr>
+<tr>
+<td>154</td>
+<td>село Жаңадәуір</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Мақталы</td>
+</tr>
+<tr>
+<td>155</td>
+<td>село Мақталы</td>
+<td>230</td>
+</tr>
+<tr>
+<td>156</td>
+<td>село Жетісу</td>
+<td>230</td>
+</tr>
+<tr>
+<td>157</td>
+<td>село Сарқырама</td>
+<td>230</td>
+</tr>
+<tr>
+<td>158</td>
 <td>село Дархан</td>
-<td colspan="2">221</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">84</td>
-<td>село Нурлы жол</td>
-<td colspan="2">244</td>
+<td>159</td>
+<td>село Тың</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">85</td>
-<td>село Куркелес</td>
-<td colspan="2">265</td>
+<td>160</td>
+<td>село Алмалы</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">86</td>
-<td>село Алгабас</td>
-<td colspan="2">221</td>
+<td>161</td>
+<td>село Шолпанқұдық</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">87</td>
-<td>село Ак уй</td>
-<td colspan="2">221</td>
+<td>162</td>
+<td>село Жайлаукөл</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">88</td>
-<td>село Жылысу</td>
-<td colspan="2">221</td>
+<td>163</td>
+<td>село Жібекжолы</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">89</td>
-<td>село Жанаталап</td>
-<td colspan="2">221</td>
+<td>164</td>
+<td>село Теміржол</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">90</td>
-<td>село Дастан</td>
-<td colspan="2">221</td>
+<td>165</td>
+<td>село Ы.Алтынсарин</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">91</td>
-<td>село Бескудык</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Ш.Ділдәбеков</td>
 </tr>
 <tr>
-<td colspan="2">92</td>
-<td>село Береке</td>
-<td colspan="2">221</td>
+<td>166</td>
+<td>село Зерделі</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бирлик</td>
+<td>167</td>
+<td>село Сырабат</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">93</td>
-<td>село Бирлик</td>
-<td colspan="2">221</td>
+<td>168</td>
+<td>село Достық</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">94</td>
-<td>село Тиршилик</td>
-<td colspan="2">221</td>
+<td>169</td>
+<td>село Сұлубұлақ</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">95</td>
-<td>село Коммунизм</td>
-<td colspan="2">155</td>
+<td>170</td>
+<td>село Сайлау</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">96</td>
-<td>село Курозек</td>
-<td colspan="2">177</td>
+<td>171</td>
+<td>село Байдала</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">97</td>
-<td>село Мадениет</td>
-<td colspan="2">177</td>
+<td>172</td>
+<td>село Бірлік</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">98</td>
-<td>село Косоткел</td>
-<td colspan="2">177</td>
+<td>173</td>
+<td>село Қызылтаң</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">99</td>
-<td>село Уш агаш</td>
-<td colspan="2">177</td>
+<td>174</td>
+<td>село Алпамыс</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Актобе</td>
+<td>175</td>
+<td>село Жаңа дала</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">100</td>
-<td>село Жуантобе</td>
-<td colspan="2">221</td>
+<td>176</td>
+<td>село Күрішті</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">101</td>
-<td>село М.Горький</td>
-<td colspan="2">221</td>
+<td>177</td>
+<td>село Жамбыл</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">102</td>
-<td>село Жана дауир</td>
-<td colspan="2">221</td>
+<td>178</td>
+<td>село Кемер</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">103</td>
-<td>село Ынтымак</td>
-<td colspan="2">200</td>
+<td></td>
+<td colspan="2">сельский округ Ынтымақ</td>
 </tr>
 <tr>
-<td colspan="2">104</td>
-<td>село Когерту</td>
-<td colspan="2">221</td>
+<td>179</td>
+<td>село Өркенді</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">105</td>
-<td>село Кызыл аскер</td>
-<td colspan="2">221</td>
+<td>180</td>
+<td>село Әден-ата</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">106</td>
-<td>село Акжар</td>
-<td colspan="2">221</td>
+<td>181</td>
+<td>село Үшкөпір</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">107</td>
-<td>село Каратобе</td>
-<td colspan="2">221</td>
+<td>182</td>
+<td>село Нұр</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">108</td>
-<td>село Кокбулак</td>
-<td colspan="2">200</td>
+<td>183</td>
+<td>село Талапты</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">109</td>
-<td>село Г.Муратбаев</td>
-<td colspan="2">200</td>
+<td>184</td>
+<td>село Көрікті</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">110</td>
-<td>село Кия жол</td>
-<td colspan="2">177</td>
+<td>185</td>
+<td>село Ақниет</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">111</td>
-<td>село Куйган</td>
-<td colspan="2">177</td>
+<td>186</td>
+<td>село Ағынсай</td>
+<td>230</td>
 </tr>
 <tr>
-<td colspan="2">112</td>
-<td>село Бозсу</td>
-<td colspan="2">177</td>
+<td colspan="3">Келесский район</td>
 </tr>
 <tr>
-<td colspan="2">113</td>
-<td>село Ески корган</td>
-<td colspan="2">177</td>
+<td>187</td>
+<td>село Абай</td>
+<td>422</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Биртлек</td>
+<td></td>
+<td colspan="2">сельский округ Алпамыс батыр</td>
 </tr>
 <tr>
-<td colspan="2">114</td>
-<td>село М.Рахимова</td>
-<td colspan="2">244</td>
+<td>188</td>
+<td>село Ақжол</td>
+<td>250</td>
 </tr>
 <tr>
-<td colspan="2">115</td>
-<td>село Ораз ата</td>
-<td colspan="2">221</td>
+<td>189</td>
+<td>село Қауыншы</td>
+<td>250</td>
 </tr>
 <tr>
-<td colspan="2">116</td>
-<td>село Енбекши</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Біртілек</td>
 </tr>
 <tr>
-<td colspan="2">117</td>
-<td>село Жолбасшы</td>
-<td colspan="2">221</td>
+<td>190</td>
+<td>село Біртілек</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">118</td>
-<td>село Амангельди</td>
-<td colspan="2">221</td>
+<td>191</td>
+<td>село Еңбекші</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">119</td>
-<td>село Кольтоган</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">120</td>
-<td>село Игилик</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">121</td>
-<td>село Шырылдак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">122</td>
-<td>село Жабайтобе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">123</td>
-<td>село Курылыс</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">124</td>
-<td>село Шукырсай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">125</td>
-<td>село Аккорган</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">126</td>
+<td>192</td>
 <td>село Керегетас</td>
-<td colspan="2">221</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ушкын</td>
+<td>193</td>
+<td>село Ораз ата</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">127</td>
-<td>село Ушкын</td>
-<td colspan="2">221</td>
+<td>194</td>
+<td>село Жолбасшы</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">128</td>
-<td>село Достык</td>
-<td colspan="2">200</td>
+<td>195</td>
+<td>село Көлтоған</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">129</td>
-<td>село Коралас</td>
-<td colspan="2">200</td>
+<td>196</td>
+<td>село Амангелді</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бозай</td>
+<td>197</td>
+<td>село Игілік</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">130</td>
-<td>село Бозай</td>
-<td colspan="2">177</td>
+<td>198</td>
+<td>село Жабайтөбе</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">131</td>
-<td>село Тентексай</td>
-<td colspan="2">155</td>
+<td>199</td>
+<td>село Шырылдақ</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">132</td>
-<td>село Шопантобе</td>
-<td colspan="2">155</td>
+<td>200</td>
+<td>село Ақорған</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2">133</td>
-<td>село Тартогай</td>
-<td colspan="2">133</td>
+<td>201</td>
+<td>село Шұқырсай</td>
+<td>302</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жамбыл</td>
+<td></td>
+<td colspan="2">сельский округ Қошқарата</td>
 </tr>
 <tr>
-<td colspan="2">134</td>
-<td>село Бекбота</td>
-<td colspan="2">177</td>
+<td>202</td>
+<td>село Бесқұбыр</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">135</td>
-<td>село Майдабозай</td>
-<td colspan="2">177</td>
+<td>203</td>
+<td>село Алғабас</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">136</td>
-<td>село Байгабыл</td>
-<td colspan="2">133</td>
+<td>204</td>
+<td>село Аманжар</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">137</td>
-<td>село Ащыколь</td>
-<td colspan="2">155</td>
+<td>205</td>
+<td>село Мақташы</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">138</td>
-<td>село Калгансыр</td>
-<td colspan="2">133</td>
+<td>206</td>
+<td>село Қарабура</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Дарбаза</td>
+<td>207</td>
+<td>село Жаңа қоныс</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">139</td>
-<td>село Дарбаза</td>
-<td colspan="2">221</td>
+<td>208</td>
+<td>село Бесауыл</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">140</td>
-<td>село Жана ауыл</td>
-<td colspan="2">200</td>
+<td>209</td>
+<td>село Жамбыл</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">141</td>
-<td>50-разъезд</td>
-<td colspan="2">200</td>
+<td>210</td>
+<td>село Бәйтерек</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">142</td>
-<td>51-разъезд</td>
-<td colspan="2">200</td>
+<td>211</td>
+<td>село 1 Мамыр</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">143</td>
-<td>село Ердаут</td>
-<td colspan="2">200</td>
+<td>212</td>
+<td>село Шынар</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">144</td>
-<td>село Таскудык</td>
-<td colspan="2">200</td>
+<td>213</td>
+<td>село Қошқарата</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">145</td>
-<td>село Сарысу</td>
-<td colspan="2">177</td>
+<td>214</td>
+<td>село Ұшқын</td>
+<td>291</td>
 </tr>
 <tr>
-<td colspan="2">146</td>
-<td>село Курысай</td>
-<td colspan="2">177</td>
+<td></td>
+<td>сельский округ Ұшқын</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кабланбек</td>
+<td>215</td>
+<td>село Ұшқын</td>
+<td>268</td>
 </tr>
 <tr>
-<td colspan="2">147</td>
-<td>село Кабланбек</td>
-<td colspan="2">265</td>
+<td>216</td>
+<td>село Достық</td>
+<td>268</td>
 </tr>
 <tr>
-<td colspan="2">148</td>
-<td>село Тынтобе</td>
-<td colspan="2">221</td>
+<td>217</td>
+<td>село Қоралас</td>
+<td>268</td>
 </tr>
 <tr>
-<td colspan="2">149</td>
-<td>село Ташкулак</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Жүзімдік</td>
 </tr>
 <tr>
-<td colspan="2">150</td>
-<td>село Зах</td>
-<td colspan="2">221</td>
+<td>218</td>
+<td>село Жүзімдік</td>
+<td>270</td>
 </tr>
 <tr>
-<td colspan="2">151</td>
-<td>село Ак ниет</td>
-<td colspan="2">221</td>
+<td>219</td>
+<td>село Оңтүстік</td>
+<td>270</td>
 </tr>
 <tr>
-<td colspan="2">152</td>
-<td>село Сиргели</td>
-<td colspan="2">244</td>
+<td>220</td>
+<td>село Бірлесу</td>
+<td>270</td>
 </tr>
 <tr>
-<td colspan="2">153</td>
-<td>село Канагат</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">154</td>
-<td>село Жонарык</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="5">Созакский район</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шолаккорган</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>село Шолаккорган</td>
-<td colspan="2">250</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Абай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Балдысу</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Карабулак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Жеткиншек</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каракур</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Каракур</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Шага</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Кызыл байрак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каратау</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Бакырлы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Аксумбе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Сарыжаз</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Созак</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Созак</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Коктобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Ынтымак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Кокпансор</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тасты</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Тасты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Кылты</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Сызган</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Козмолдак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Басбулак</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Сызган</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Кайнар</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Таукент</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>поселок Таукент</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Жыныс</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кумкент</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Кумкент</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Кызыл канат</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Кызыл коль</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шу</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Шу</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">поселок Кыземшек</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>поселок Кыземшек</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Тайконур</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жуантобе</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Жуантобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Коныратарык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жартытобе</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Жартытобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Бабата</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Акколтык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Таскомирсай</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="5">город Туркестан</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td>город Туркестан</td>
-<td colspan="2">880</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Иассы</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Енбекши дихан</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Шойтобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жуйнек</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td>село Жуйнек</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">5</td>
-<td>село Шипан</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">6</td>
-<td>село Шекербулак</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карачик</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td>село Карачик</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td>село Кумтиын</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">9</td>
-<td>село Каратобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Старый Икан</td>
-</tr>
-<tr>
-<td colspan="2">10</td>
-<td>село Старый Икан</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">11</td>
-<td>село Достык</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Сауран</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td>село Ынталы</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Каражон</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Егизкара</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Новый Икан</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Ибата</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Ойык</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шага</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село 30 лет Казахстана</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Бершинтобе</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Шага</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Шоктас</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Ушкайык</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Теке</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Нуртас</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село С.Кожанова</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Жалантос</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бабайкорган</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Бабайкорган</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Абай</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Улгили</td>
-<td colspan="2">110</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Кумайлыкас</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Шорнак</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Шорнак</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Космезгил</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Аша</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>32-разъезд</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Орангай</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Орангай</td>
-<td colspan="2">148</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Коскорган</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
-<td>село Бостандык</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жибек жолы</td>
-</tr>
-<tr>
-<td colspan="2">36</td>
-<td>село Сауран</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="2">37</td>
-<td>30-разъезд</td>
-<td colspan="2">123</td>
-</tr>
-<tr>
-<td colspan="5">Сайрамский район</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Аксу</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="2">село Аксукент</td>
-<td>520</td>
-</tr>
-<tr>
-<td colspan="2">2</td>
-<td>село Чапаев</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">3</td>
-<td>село Манкент</td>
-<td colspan="2">315</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Акбулак</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="2">село Акбулак</td>
 <td>221</td>
+<td>село Ақсу</td>
+<td>270</td>
 </tr>
 <tr>
-<td colspan="2">5</td>
-<td>село Отемис</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Бірлесу</td>
 </tr>
 <tr>
-<td colspan="2">6</td>
-<td>село Шапырашты</td>
-<td colspan="2">221</td>
+<td>222</td>
+<td>село Қазақстан</td>
+<td>272</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Арыс</td>
+<td>223</td>
+<td>село 28 Гвардия</td>
+<td>272</td>
 </tr>
 <tr>
-<td colspan="2">7</td>
-<td>село Кожакорган</td>
-<td colspan="2">221</td>
+<td>224</td>
+<td>село Берекелі</td>
+<td>272</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
-<td colspan="2">село Нуржанкорган</td>
-<td>221</td>
+<td>225</td>
+<td>село Дихан</td>
+<td>272</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Бадам</td>
+<td></td>
+<td colspan="2">сельский округ Ошақты</td>
 </tr>
 <tr>
-<td colspan="2">9</td>
-<td>село Бадам</td>
-<td colspan="2">340</td>
+<td>226</td>
+<td>село Ошақты</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td>село Айколь</td>
-<td colspan="2">221</td>
+<td>227</td>
+<td>село Жетітөбе</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td>село Актас</td>
-<td colspan="2">221</td>
+<td>228</td>
+<td>село Еңбек</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td>село Орманшы</td>
-<td colspan="2">265</td>
+<td>229</td>
+<td>село Саңырау</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жибек жолы</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td>село Машат</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">14</td>
-<td>село Жибек жолинский</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">15</td>
-<td>село Сикым</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жанаталап</td>
-</tr>
-<tr>
-<td colspan="2">16</td>
-<td>село Жанаталап</td>
-<td colspan="2">300</td>
-</tr>
-<tr>
-<td colspan="2">17</td>
-<td>село Игилик</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">18</td>
-<td>село Кызылжар</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">19</td>
-<td>село Карасу</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">20</td>
-<td>село Тауелсиздикке 20 жыл</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Жулдыз</td>
-</tr>
-<tr>
-<td colspan="2">21</td>
-<td>село Карабастау</td>
-<td colspan="2">310</td>
-</tr>
-<tr>
-<td colspan="2">22</td>
-<td>село Жулдыз</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">23</td>
-<td>село Актас</td>
-<td colspan="2">220</td>
-</tr>
-<tr>
-<td colspan="2">24</td>
-<td>село Бадам-2</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">25</td>
-<td>село Каратобе</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">26</td>
-<td>село Жалын</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карасу</td>
-</tr>
-<tr>
-<td colspan="2">27</td>
-<td>село Карасу</td>
-<td colspan="2">360</td>
-</tr>
-<tr>
-<td colspan="2">28</td>
-<td>село Акбай</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">29</td>
-<td>село Бескепе</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">30</td>
-<td>село Айтеке би</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">31</td>
-<td>село Акбастау</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">32</td>
-<td>село Мартобе</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">33</td>
-<td>село Ынтымак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">34</td>
-<td>село Жанатурмыс</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">35</td>
+<td>230</td>
 <td>село Береке</td>
-<td colspan="2">221</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Каратобе</td>
+<td>231</td>
+<td>село Қоңыртөбе</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2">36</td>
-<td>село Абдулабад</td>
-<td colspan="2">265</td>
+<td>232</td>
+<td>село Сарыжылға</td>
+<td>267</td>
 </tr>
 <tr>
-<td colspan="2">37</td>
+<td>233</td>
+<td>село С.Саттаров</td>
+<td>267</td>
+</tr>
+<tr>
+<td>234</td>
+<td>село Қаратал</td>
+<td>267</td>
+</tr>
+<tr>
+<td>235</td>
+<td>село Бақышсай</td>
+<td>267</td>
+</tr>
+<tr>
+<td>236</td>
+<td>село Атақоныс</td>
+<td>267</td>
+</tr>
+<tr>
+<td>237</td>
+<td>село Жиделі</td>
+<td>267</td>
+</tr>
+<tr>
+<td>238</td>
+<td>село Ынталы</td>
+<td>267</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақтөбе</td>
+</tr>
+<tr>
+<td>239</td>
+<td>село Жуантөбе</td>
+<td>294</td>
+</tr>
+<tr>
+<td>240</td>
+<td>село М.Горький</td>
+<td>294</td>
+</tr>
+<tr>
+<td>241</td>
+<td>село Ғ.Мұратбаев</td>
+<td>294</td>
+</tr>
+<tr>
+<td>242</td>
+<td>село Жаңа дәуір</td>
+<td>294</td>
+</tr>
+<tr>
+<td>243</td>
+<td>село Ынтымақ</td>
+<td>294</td>
+</tr>
+<tr>
+<td>244</td>
+<td>село Көгерту</td>
+<td>294</td>
+</tr>
+<tr>
+<td>245</td>
+<td>село Қызыл әскер</td>
+<td>294</td>
+</tr>
+<tr>
+<td>246</td>
+<td>село Ақжар</td>
+<td>294</td>
+</tr>
+<tr>
+<td>247</td>
+<td>село Қаратөбе</td>
+<td>294</td>
+</tr>
+<tr>
+<td>248</td>
+<td>село Көкбұлақ</td>
+<td>294</td>
+</tr>
+<tr>
+<td>249</td>
+<td>село Қия жол</td>
+<td>294</td>
+</tr>
+<tr>
+<td>250</td>
+<td>село Құйған</td>
+<td>294</td>
+</tr>
+<tr>
+<td>251</td>
+<td>село Бозсу</td>
+<td>294</td>
+</tr>
+<tr>
+<td>252</td>
+<td>село Ескі қорған</td>
+<td>294</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бірлік</td>
+</tr>
+<tr>
+<td>253</td>
+<td>село Бірлік</td>
+<td>245</td>
+</tr>
+<tr>
+<td>254</td>
+<td>село Жаңа тіршілік</td>
+<td>245</td>
+</tr>
+<tr>
+<td>255</td>
+<td>село Қосөткел</td>
+<td>245</td>
+</tr>
+<tr>
+<td>256</td>
+<td>село Құрөзек</td>
+<td>245</td>
+</tr>
+<tr>
+<td>257</td>
+<td>село Мәдениет</td>
+<td>245</td>
+</tr>
+<tr>
+<td>258</td>
+<td>село Үш ағаш</td>
+<td>245</td>
+</tr>
+<tr>
+<td>259</td>
+<td>село Ащысай</td>
+<td>245</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жамбыл</td>
+</tr>
+<tr>
+<td>260</td>
+<td>село Бекбота</td>
+<td>220</td>
+</tr>
+<tr>
+<td>261</td>
+<td>село Ащыкөл</td>
+<td>220</td>
+</tr>
+<tr>
+<td>262</td>
+<td>село Қалғансыр</td>
+<td>220</td>
+</tr>
+<tr>
+<td>263</td>
+<td>село Майдабозай</td>
+<td>220</td>
+</tr>
+<tr>
+<td>264</td>
+<td>село Байғабыл</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бозай</td>
+</tr>
+<tr>
+<td>265</td>
+<td>село Бозай</td>
+<td>227</td>
+</tr>
+<tr>
+<td>266</td>
+<td>село Тентексай</td>
+<td>227</td>
+</tr>
+<tr>
+<td>267</td>
+<td>село Шопан төбе</td>
+<td>227</td>
+</tr>
+<tr>
+<td>268</td>
+<td>село Тартоғай</td>
+<td>227</td>
+</tr>
+<tr>
+<td colspan="3">Город Кентау</td>
+</tr>
+<tr>
+<td>269</td>
+<td>город Кентау</td>
+<td>1060,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Хантағы</td>
+</tr>
+<tr>
+<td>270</td>
+<td>село Хантағы</td>
+<td>402</td>
+</tr>
+<tr>
+<td>271</td>
+<td>село Шоқтас</td>
+<td>300</td>
+</tr>
+<tr>
+<td>272</td>
+<td>село Қотырбұлақ</td>
+<td>300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Байылдыр</td>
+</tr>
+<tr>
+<td>273</td>
+<td>село Байылдыр</td>
+<td>309</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ащысай</td>
+</tr>
+<tr>
+<td>274</td>
+<td>село Ащысай</td>
+<td>203</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарнақ</td>
+</tr>
+<tr>
+<td>275</td>
+<td>село Қарнақ</td>
+<td>405</td>
+</tr>
+<tr>
+<td>276</td>
+<td>село Құшата</td>
+<td>300</td>
+</tr>
+<tr>
+<td>277</td>
+<td>село Ақынтума</td>
+<td>300</td>
+</tr>
+<tr>
+<td>278</td>
+<td>село Шаштөбе</td>
+<td>300</td>
+</tr>
+<tr>
+<td colspan="3">Казыгуртский район</td>
+</tr>
+<tr>
+<td>279</td>
+<td>село Қазығұрт</td>
+<td>335</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Алтынтөбе</td>
+</tr>
+<tr>
+<td>280</td>
+<td>село Қаржан</td>
+<td>221</td>
+</tr>
+<tr>
+<td>281</td>
+<td>село Алтынтөбе</td>
+<td>265</td>
+</tr>
+<tr>
+<td>282</td>
+<td>село Аққұм</td>
+<td>221</td>
+</tr>
+<tr>
+<td>283</td>
+<td>село Қарабау</td>
+<td>221</td>
+</tr>
+<tr>
+<td>284</td>
+<td>село Қосағаш</td>
+<td>221</td>
+</tr>
+<tr>
+<td>285</td>
+<td>село Лесхоз</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаңабазар</td>
+</tr>
+<tr>
+<td>286</td>
+<td>село Жаңабазар</td>
+<td>265</td>
+</tr>
+<tr>
+<td>287</td>
+<td>село Жоғары бұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>288</td>
+<td>село Қожамберді</td>
+<td>221</td>
+</tr>
+<tr>
+<td>289</td>
+<td>село Жаңажол</td>
+<td>221</td>
+</tr>
+<tr>
+<td>290</td>
+<td>село Жаңаталап</td>
+<td>221</td>
+</tr>
+<tr>
+<td>291</td>
+<td>село Жеңіс</td>
+<td>221</td>
+</tr>
+<tr>
+<td>292</td>
+<td>село Қарабастау</td>
+<td>221</td>
+</tr>
+<tr>
+<td>293</td>
+<td>село Тілектес</td>
+<td>221</td>
+</tr>
+<tr>
+<td>294</td>
+<td>село Үлгілі</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ С.Рахымов</td>
+</tr>
+<tr>
+<td>295</td>
+<td>село Көкібел</td>
+<td>265</td>
+</tr>
+<tr>
+<td>296</td>
+<td>село Майбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>297</td>
+<td>село Қызыл ата</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жігерген</td>
+</tr>
+<tr>
+<td>298</td>
+<td>село Жігерген</td>
+<td>265</td>
+</tr>
+<tr>
+<td>299</td>
+<td>село Қызыл бұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>300</td>
+<td>село Айнатас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>301</td>
+<td>село Тесіктөбе</td>
+<td>221</td>
+</tr>
+<tr>
+<td>302</td>
+<td>село Өгем</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шарапхана</td>
+</tr>
+<tr>
+<td>303</td>
+<td>село Шарапхана</td>
+<td>265</td>
+</tr>
+<tr>
+<td>304</td>
+<td>село Бақабұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>305</td>
+<td>село Жіңішке</td>
+<td>265</td>
+</tr>
+<tr>
+<td>306</td>
+<td>село Махамбет</td>
+<td>221</td>
+</tr>
+<tr>
+<td>307</td>
+<td>село Майлыошақ</td>
+<td>265</td>
+</tr>
+<tr>
+<td>308</td>
+<td>село Талдыбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қызылқия</td>
+</tr>
+<tr>
+<td>309</td>
+<td>село Қызылқия</td>
+<td>265</td>
+</tr>
+<tr>
+<td>310</td>
+<td>село Араншы</td>
+<td>221</td>
+</tr>
+<tr>
+<td>311</td>
+<td>село Айнатас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>312</td>
+<td>село Ынталы</td>
+<td>221</td>
+</tr>
+<tr>
+<td>313</td>
+<td>село Қызылсеңгір</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Тұрбат</td>
+</tr>
+<tr>
+<td>314</td>
+<td>село Тұрбат</td>
+<td>265</td>
+</tr>
+<tr>
+<td>315</td>
+<td>село Еңбек</td>
+<td>221</td>
+</tr>
+<tr>
+<td>316</td>
+<td>село Қызыл дихан</td>
+<td>221</td>
+</tr>
+<tr>
+<td>317</td>
+<td>село Өндіріс</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарақозы Әбдәлиев</td>
+</tr>
+<tr>
+<td>318</td>
+<td>село Рабат</td>
+<td>265</td>
+</tr>
+<tr>
+<td>319</td>
+<td>село Амангелді</td>
+<td>177</td>
+</tr>
+<tr>
+<td>320</td>
+<td>село Атбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>321</td>
+<td>село Еңбекші</td>
+<td>221</td>
+</tr>
+<tr>
+<td>322</td>
+<td>село Жаңаталап</td>
+<td>221</td>
+</tr>
+<tr>
+<td>323</td>
+<td>село Қыдыр Мәмбетәлиев</td>
+<td>265</td>
+</tr>
+<tr>
+<td>324</td>
+<td>село Қызыл дала</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шанақ</td>
+</tr>
+<tr>
+<td>325</td>
+<td>село Шанақ</td>
+<td>177</td>
+</tr>
+<tr>
+<td>326</td>
+<td>село Ақжар</td>
+<td>177</td>
+</tr>
+<tr>
+<td>327</td>
+<td>село Ескі Шанақ</td>
+<td>177</td>
+</tr>
+<tr>
+<td>328</td>
+<td>село Станция Шанақ</td>
+<td>177</td>
+</tr>
+<tr>
+<td>329</td>
+<td>село Ызабұлақ</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шарбұлақ</td>
+</tr>
+<tr>
+<td>330</td>
+<td>село Шарбұлақ</td>
+<td>265</td>
+</tr>
+<tr>
+<td>331</td>
+<td>село Ақбастау</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарабау</td>
+</tr>
+<tr>
+<td>332</td>
+<td>село Қарабау</td>
+<td>265</td>
+</tr>
+<tr>
+<td>333</td>
+<td>село Сынтас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>334</td>
+<td>село Жұмысшы</td>
+<td>221</td>
+</tr>
+<tr>
+<td>335</td>
+<td>село Үшбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қақпақ</td>
+</tr>
+<tr>
+<td>336</td>
+<td>село Қақпақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td colspan="3">Мактааральский район</td>
+</tr>
+<tr>
+<td>337</td>
+<td>поселок Мырзакент</td>
+<td>430</td>
+</tr>
+<tr>
+<td>338</td>
+<td>поселок Атакент</td>
+<td>500</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Иіржар</td>
+</tr>
+<tr>
+<td>339</td>
+<td>село Иіржар</td>
+<td>230</td>
+</tr>
+<tr>
+<td>340</td>
+<td>село Дихан</td>
+<td>230</td>
+</tr>
+<tr>
+<td>341</td>
+<td>село С.Рахимов</td>
+<td>230</td>
+</tr>
+<tr>
+<td>342</td>
+<td>село Азат</td>
+<td>230</td>
+</tr>
+<tr>
+<td>343</td>
+<td>село Наурыз</td>
+<td>230</td>
+</tr>
+<tr>
+<td>344</td>
+<td>село Мақтажан</td>
+<td>230</td>
+</tr>
+<tr>
+<td>345</td>
+<td>село Алаш</td>
+<td>230</td>
+</tr>
+<tr>
+<td>346</td>
+<td>село Азамат</td>
+<td>230</td>
+</tr>
+<tr>
+<td>347</td>
+<td>село Шапағат</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаңа жол</td>
+</tr>
+<tr>
+<td>348</td>
+<td>село Ақжол</td>
+<td>220</td>
+</tr>
+<tr>
+<td>349</td>
+<td>село Арай</td>
+<td>220</td>
+</tr>
+<tr>
+<td>350</td>
+<td>село Өргебас</td>
+<td>220</td>
+</tr>
+<tr>
+<td>351</td>
+<td>село Нұрлыжол</td>
+<td>220</td>
+</tr>
+<tr>
+<td>352</td>
+<td>село Жеңіс</td>
+<td>220</td>
+</tr>
+<tr>
+<td>353</td>
+<td>село Достық</td>
+<td>220</td>
+</tr>
+<tr>
+<td>354</td>
+<td>село Фирдауси</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Еңбекші</td>
+</tr>
+<tr>
+<td>355</td>
+<td>село Т.Жайлыбаев</td>
+<td>220</td>
+</tr>
+<tr>
+<td>356</td>
+<td>село Нұрлытаң</td>
+<td>220</td>
+</tr>
+<tr>
+<td>357</td>
+<td>село Шұғыла</td>
+<td>220</td>
+</tr>
+<tr>
+<td>358</td>
+<td>село Жантақсай</td>
+<td>220</td>
+</tr>
+<tr>
+<td>359</td>
+<td>село Жаңа тұрмыс</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ж.Нұрлыбаев</td>
+</tr>
+<tr>
+<td>360</td>
+<td>село Ынталы</td>
+<td>216</td>
+</tr>
+<tr>
+<td>361</td>
+<td>село Өнімкер</td>
+<td>216</td>
+</tr>
+<tr>
+<td>362</td>
+<td>село Мақталы</td>
+<td>216</td>
+</tr>
+<tr>
+<td>363</td>
+<td>село Ырысты</td>
+<td>216</td>
+</tr>
+<tr>
+<td>364</td>
+<td>село Қарақыр</td>
+<td>216</td>
+</tr>
+<tr>
+<td>365</td>
+<td>село Өркен</td>
+<td>216</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ А.Қалыбеков</td>
+</tr>
+<tr>
+<td>366</td>
+<td>село Атамұра</td>
+<td>230</td>
+</tr>
+<tr>
+<td>367</td>
+<td>село Жаңажол</td>
+<td>230</td>
+</tr>
+<tr>
+<td>368</td>
+<td>село Абат</td>
+<td>230</td>
+</tr>
+<tr>
+<td>369</td>
+<td>село Жамбыл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>370</td>
+<td>село Төрткүл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>371</td>
+<td>село Тұран</td>
+<td>230</td>
+</tr>
+<tr>
+<td>372</td>
+<td>село Үлгілі</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бірлік</td>
+</tr>
+<tr>
+<td>373</td>
+<td>село Қ.Пернебаев</td>
+<td>230</td>
+</tr>
+<tr>
+<td>374</td>
+<td>село Алғабас</td>
+<td>230</td>
+</tr>
+<tr>
+<td>375</td>
+<td>село Қоңырат</td>
+<td>230</td>
+</tr>
+<tr>
+<td>376</td>
+<td>село Табысты</td>
+<td>230</td>
+</tr>
+<tr>
+<td>377</td>
+<td>село Өркениет</td>
+<td>230</td>
+</tr>
+<tr>
+<td>378</td>
+<td>село Еркінабад</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Достық</td>
+</tr>
+<tr>
+<td>379</td>
+<td>село Достық</td>
+<td>230</td>
+</tr>
+<tr>
+<td>380</td>
+<td>село Қалшораев</td>
+<td>230</td>
+</tr>
+<tr>
+<td>381</td>
+<td>село Хайдар</td>
+<td>230</td>
+</tr>
+<tr>
+<td>382</td>
+<td>село Бескетік</td>
+<td>230</td>
+</tr>
+<tr>
+<td>383</td>
+<td>село Гүлістан</td>
+<td>230</td>
+</tr>
+<tr>
+<td>384</td>
+<td>село Көксу</td>
+<td>230</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Мақтарал</td>
+</tr>
+<tr>
+<td>385</td>
+<td>село Өркениет</td>
+<td>220</td>
+</tr>
+<tr>
+<td>386</td>
+<td>село Ақ алтын</td>
+<td>220</td>
+</tr>
+<tr>
+<td>387</td>
+<td>село Шаттық</td>
+<td>220</td>
+</tr>
+<tr>
+<td>388</td>
+<td>село Бақыт</td>
+<td>220</td>
+</tr>
+<tr>
+<td>389</td>
+<td>село Игілік</td>
+<td>220</td>
+</tr>
+<tr>
+<td>390</td>
+<td>село Мәдениет</td>
+<td>220</td>
+</tr>
+<tr>
+<td>391</td>
+<td>село Еңбекші</td>
+<td>220</td>
+</tr>
+<tr>
+<td>392</td>
+<td>село Жеңістің 40 жылдығы</td>
+<td>220</td>
+</tr>
+<tr>
+<td>393</td>
+<td>село Амангелді</td>
+<td>220</td>
+</tr>
+<tr>
+<td>394</td>
+<td>село Елқоныс</td>
+<td>220</td>
+</tr>
+<tr>
+<td>395</td>
+<td>село Тұлпар</td>
+<td>220</td>
+</tr>
+<tr>
+<td>396</td>
+<td>село Есентаев</td>
+<td>220</td>
+</tr>
+<tr>
+<td>397</td>
+<td>село Көкарал</td>
+<td>220</td>
+</tr>
+<tr>
+<td>398</td>
+<td>село Береке</td>
+<td>220</td>
+</tr>
+<tr>
+<td>399</td>
+<td>село Жұлдыз</td>
+<td>220</td>
+</tr>
+<tr>
+<td>400</td>
+<td>село Азаттық</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жамбыл</td>
+</tr>
+<tr>
+<td>401</td>
+<td>село Жамбыл</td>
+<td>230</td>
+</tr>
+<tr>
+<td>402</td>
+<td>село Абай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>403</td>
+<td>село Көкпарсай</td>
+<td>230</td>
+</tr>
+<tr>
+<td>404</td>
+<td>село Кеңесшіл</td>
+<td>230</td>
+</tr>
+<tr>
+<td colspan="3">Ордабасинский район</td>
+</tr>
+<tr>
+<td>405</td>
+<td>село Темірлан</td>
+<td>488,8</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бадам</td>
+</tr>
+<tr>
+<td>406</td>
 <td>село Бадам</td>
-<td colspan="2">265</td>
+<td>488,1</td>
 </tr>
 <tr>
-<td colspan="2">38</td>
-<td>село Базаркакпа</td>
-<td colspan="2">265</td>
+<td>407</td>
+<td>село Дербес</td>
+<td>310,5</td>
 </tr>
 <tr>
-<td colspan="2">39</td>
-<td>село Турдыабад</td>
-<td colspan="2">265</td>
+<td>408</td>
+<td>село Мамыр</td>
+<td>310,5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кайнарбулак</td>
+<td>409</td>
+<td>село Ақбұлақ</td>
+<td>310,5</td>
 </tr>
 <tr>
-<td colspan="2">40</td>
-<td>село Кайнарбулак</td>
-<td colspan="2">265</td>
+<td>410</td>
+<td>село Қарабастау</td>
+<td>310,5</td>
 </tr>
 <tr>
-<td colspan="2">41</td>
-<td>село Таскешу</td>
-<td colspan="2">221</td>
+<td>411</td>
+<td>село Ордабасы</td>
+<td>310,5</td>
 </tr>
 <tr>
-<td colspan="2">42</td>
-<td>село Касымбек датка</td>
-<td colspan="2">221</td>
+<td></td>
+<td colspan="2">сельский округ Бөржар</td>
 </tr>
 <tr>
-<td colspan="2">43</td>
-<td>село Асыларык</td>
-<td colspan="2">221</td>
+<td>412</td>
+<td>село Ұялыжар</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">44</td>
-<td>село Сарыарык</td>
-<td colspan="2">221</td>
+<td>413</td>
+<td>село Ықыластемір</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">45</td>
-<td>село Курлык</td>
-<td colspan="2">221</td>
+<td>414</td>
+<td>село Жамбыл</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">46</td>
-<td>село Ошакты</td>
-<td colspan="2">221</td>
+<td>415</td>
+<td>село Бірлік</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">47</td>
-<td>село Тоган</td>
-<td colspan="2">221</td>
+<td>416</td>
+<td>село Қалаш</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">48</td>
-<td>село Ширкин</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Колкент</td>
-</tr>
-<tr>
-<td colspan="2">49</td>
-<td>село Колкент</td>
-<td colspan="2">265</td>
-</tr>
-<tr>
-<td colspan="2">50</td>
-<td>село Жанатурмыс</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">51</td>
-<td>село Аксуабад</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">52</td>
-<td>село Молдыбай Оразалиева</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">53</td>
-<td>село Ханкорган</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">54</td>
-<td>село Косбулак</td>
-<td colspan="2">221</td>
-</tr>
-<tr>
-<td colspan="2">55</td>
+<td>417</td>
 <td>село Теспе</td>
-<td colspan="2">221</td>
+<td>352,8</td>
 </tr>
 <tr>
-<td colspan="2">56</td>
+<td>418</td>
+<td>село Ынтымақ</td>
+<td>352,8</td>
+</tr>
+<tr>
+<td>419</td>
+<td>село Қайнар</td>
+<td>352,8</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қажымұқан</td>
+</tr>
+<tr>
+<td>420</td>
+<td>село Амангелді</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>421</td>
+<td>село Боралдай</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>422</td>
+<td>село Ынталы</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>423</td>
+<td>село Көктөбе</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>424</td>
+<td>село Қажымұқан</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td>425</td>
+<td>село Қызыл сеңгір</td>
+<td>318,9</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қараспан</td>
+</tr>
+<tr>
+<td>426</td>
+<td>село Қараспан</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>427</td>
+<td>село Бейсен</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>428</td>
+<td>село Ақжол</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>429</td>
+<td>село Берген</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>430</td>
+<td>село Жұлдыз</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>431</td>
+<td>село Ынтымақ</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>432</td>
+<td>село Төреарық</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>433</td>
+<td>село Көлтоған</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>434</td>
+<td>село Ақпан</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>435</td>
+<td>село Жаңатұрмыс</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>436</td>
+<td>село Мәдениет</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>437</td>
+<td>село Мақташы</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>438</td>
+<td>село Сарыарық</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td>439</td>
+<td>село Батыр ата</td>
+<td>385,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шұбар</td>
+</tr>
+<tr>
+<td>440</td>
+<td>село Береке</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td>441</td>
+<td>село Шұбар</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td>442</td>
+<td>село Жусансай</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td>443</td>
+<td>село Тоқсансай</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td>444</td>
+<td>село Сарытоғай</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td>445</td>
+<td>село Аққойлы</td>
+<td>410,22</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шұбарсу</td>
+</tr>
+<tr>
+<td>446</td>
+<td>село Шұбарсу</td>
+<td>464,22</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бөген</td>
+</tr>
+<tr>
+<td>447</td>
+<td>село Бөген</td>
+<td>363,51</td>
+</tr>
+<tr>
+<td>448</td>
+<td>село Кемер</td>
+<td>363,51</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жеңіс</td>
+</tr>
+<tr>
+<td>449</td>
+<td>село Дихан</td>
+<td>320,7</td>
+</tr>
+<tr>
+<td>450</td>
+<td>село Жеңіс</td>
+<td>320,7</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарақұм</td>
+</tr>
+<tr>
+<td>451</td>
+<td>село Қарақұм</td>
+<td>327,8</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Төрткөл</td>
+</tr>
+<tr>
+<td>452</td>
+<td>село Төрткөл</td>
+<td>381</td>
+</tr>
+<tr>
+<td>453</td>
+<td>село Қызылжар</td>
+<td>381</td>
+</tr>
+<tr>
+<td>454</td>
+<td>село Елшібек батыр</td>
+<td>381</td>
+</tr>
+<tr>
+<td>455</td>
+<td>село Көкарал</td>
+<td>381</td>
+</tr>
+<tr>
+<td>456</td>
+<td>село Қ.Спатаев</td>
+<td>381</td>
+</tr>
+<tr>
+<td>457</td>
+<td>село Еңбекші</td>
+<td>381</td>
+</tr>
+<tr>
+<td>458</td>
+<td>село Арыстанды</td>
+<td>381</td>
+</tr>
+<tr>
+<td>459</td>
+<td>село Нұра</td>
+<td>381</td>
+</tr>
+<tr>
+<td>460</td>
+<td>село Жайылма</td>
+<td>381</td>
+</tr>
+<tr>
+<td>461</td>
+<td>село Ақсары</td>
+<td>381</td>
+</tr>
+<tr>
+<td colspan="3">Отырарский район</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Аққұм</td>
+</tr>
+<tr>
+<td>462</td>
+<td>село Аққұм</td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақтөбе</td>
+</tr>
+<tr>
+<td>463</td>
+<td>село Ақтөбе</td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Балтакөл</td>
+</tr>
+<tr>
+<td>464</td>
+<td>село Балтакөл</td>
+<td>200</td>
+</tr>
+<tr>
+<td>465</td>
+<td>село Ақкөл</td>
+<td>180</td>
+</tr>
+<tr>
+<td>466</td>
+<td>село Көлқұдық</td>
+<td>200</td>
+</tr>
+<tr>
+<td>467</td>
+<td>село Самырат</td>
+<td>180</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Көксарай</td>
+</tr>
+<tr>
+<td>468</td>
+<td>село Көксарай</td>
+<td>225</td>
+</tr>
+<tr>
+<td>469</td>
+<td>село Жанкел</td>
+<td>190</td>
+</tr>
+<tr>
+<td>470</td>
+<td>село Шенгелді</td>
+<td>190</td>
+</tr>
+<tr>
+<td>471</td>
+<td>село Ызакөл</td>
+<td>190</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарақоңыр</td>
+</tr>
+<tr>
+<td>472</td>
+<td>село станция Қарақоңыр</td>
+<td>170</td>
+</tr>
+<tr>
+<td>473</td>
+<td>село Арыс</td>
+<td>190</td>
+</tr>
+<tr>
+<td>474</td>
+<td>село Қостүйін</td>
+<td>170</td>
+</tr>
+<tr>
+<td>475</td>
+<td>село Сырдария</td>
+<td>190</td>
+</tr>
+<tr>
+<td>476</td>
+<td>село Ш.Қалдаяқов</td>
+<td>220</td>
+</tr>
+<tr>
+<td>477</td>
+<td>село Бестораңғыл</td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарғалы</td>
+</tr>
+<tr>
+<td>478</td>
+<td>село Қарғалы</td>
+<td>240</td>
+</tr>
+<tr>
+<td>479</td>
+<td>село Отырар</td>
+<td>240</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қоғам</td>
+</tr>
+<tr>
+<td>480</td>
+<td>село Қоғам</td>
+<td>260</td>
+</tr>
+<tr>
+<td>481</td>
+<td>село Мыңшұқыр</td>
+<td>260</td>
+</tr>
+<tr>
+<td>482</td>
+<td>село Талапты</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Маяқұм</td>
+</tr>
+<tr>
+<td>483</td>
+<td>село Маяқұм</td>
+<td>210</td>
+</tr>
+<tr>
+<td>484</td>
+<td>село Қостерек</td>
+<td>180</td>
+</tr>
+<tr>
+<td>485</td>
+<td>село Бестам</td>
+<td>180</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Отырар</td>
+</tr>
+<tr>
+<td>486</td>
+<td>село Арыс</td>
+<td>270</td>
+</tr>
+<tr>
+<td>487</td>
+<td>село М.Шойманов</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Талапты</td>
+</tr>
+<tr>
+<td>488</td>
+<td>село Көкмардан</td>
+<td>240</td>
+</tr>
+<tr>
+<td>489</td>
+<td>село Шытты</td>
+<td>240</td>
+</tr>
+<tr>
+<td>490</td>
+<td>село Ынталы</td>
+<td>240</td>
+</tr>
+<tr>
+<td>491</td>
+<td>село Сарыкөл</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Темір</td>
+</tr>
+<tr>
+<td>492</td>
+<td>село Темір</td>
+<td>290</td>
+</tr>
+<tr>
+<td>493</td>
+<td>село Ақшоқат</td>
+<td>140</td>
+</tr>
+<tr>
+<td>494</td>
+<td>село Отрабат</td>
+<td>140</td>
+</tr>
+<tr>
+<td>495</td>
+<td>37 Разъезд</td>
+<td>140</td>
+</tr>
+<tr>
+<td>496</td>
+<td>село Ұзынқұдық</td>
+<td>140</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шәуілдір</td>
+</tr>
+<tr>
+<td>497</td>
+<td>село Шәуілдір</td>
+<td>390</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шілік</td>
+</tr>
+<tr>
+<td>498</td>
+<td>село Жаңа Шілік</td>
+<td>240</td>
+</tr>
+<tr>
+<td>499</td>
+<td>село Ескі Шілік</td>
+<td>220</td>
+</tr>
+<tr>
+<td colspan="3">Сайрамский район</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақсукент</td>
+</tr>
+<tr>
+<td>500</td>
+<td>село Ақсу</td>
+<td>1030</td>
+</tr>
+<tr>
+<td>501</td>
+<td>село Алаш</td>
+<td>650</td>
+</tr>
+<tr>
+<td>502</td>
+<td>село Бәйтерек</td>
+<td>650</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақбұлақ</td>
+</tr>
+<tr>
+<td>503</td>
+<td>село Ақбұлақ</td>
+<td>380</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Арыс</td>
+</tr>
+<tr>
+<td>504</td>
+<td>село Қожақорған</td>
+<td>400</td>
+</tr>
+<tr>
+<td>505</td>
+<td>село Нұржанқорған</td>
+<td>400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жібек жолы</td>
+</tr>
+<tr>
+<td>506</td>
+<td>село Машат</td>
+<td>400</td>
+</tr>
+<tr>
+<td>507</td>
+<td>село Жібек жолы</td>
+<td>400</td>
+</tr>
+<tr>
+<td>508</td>
+<td>село Сиқым</td>
+<td>400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарасу</td>
+</tr>
+<tr>
+<td>509</td>
+<td>село Қарасу</td>
+<td>700</td>
+</tr>
+<tr>
+<td>510</td>
+<td>село Ақбай</td>
+<td>410</td>
+</tr>
+<tr>
+<td>511</td>
+<td>село Бескепе</td>
+<td>410</td>
+</tr>
+<tr>
+<td>512</td>
+<td>село Әйтеке</td>
+<td>410</td>
+</tr>
+<tr>
+<td>513</td>
+<td>село Ақбастау</td>
+<td>410</td>
+</tr>
+<tr>
+<td>514</td>
+<td>село Ынтымақ</td>
+<td>410</td>
+</tr>
+<tr>
+<td>515</td>
+<td>село Жаңатұрмыс</td>
+<td>410</td>
+</tr>
+<tr>
+<td>516</td>
+<td>село Береке</td>
+<td>410</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қайнарбұлақ</td>
+</tr>
+<tr>
+<td>517</td>
+<td>село Қасымбек Датқа</td>
+<td>480</td>
+</tr>
+<tr>
+<td>518</td>
+<td>село Таскешу</td>
+<td>400</td>
+</tr>
+<tr>
+<td>519</td>
+<td>село Асыларық</td>
+<td>400</td>
+</tr>
+<tr>
+<td>520</td>
+<td>село Сарыарқа</td>
+<td>400</td>
+</tr>
+<tr>
+<td>521</td>
+<td>село Құрлық</td>
+<td>400</td>
+</tr>
+<tr>
+<td>522</td>
+<td>село Ошақты</td>
+<td>400</td>
+</tr>
+<tr>
+<td>523</td>
+<td>село Тоған</td>
+<td>400</td>
+</tr>
+<tr>
+<td>524</td>
+<td>село Шіркін</td>
+<td>400</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Көлкент</td>
+</tr>
+<tr>
+<td>525</td>
+<td>село Көлкент</td>
+<td>460</td>
+</tr>
+<tr>
+<td>526</td>
+<td>село Жаңатұрмыс</td>
+<td>360</td>
+</tr>
+<tr>
+<td>527</td>
+<td>село Ақсуабад</td>
+<td>360</td>
+</tr>
+<tr>
+<td>528</td>
+<td>село Молдыбай Оразалиев</td>
+<td>360</td>
+</tr>
+<tr>
+<td>529</td>
+<td>село Ханқорған</td>
+<td>360</td>
+</tr>
+<tr>
+<td>530</td>
+<td>село Қосбұлақ</td>
+<td>360</td>
+</tr>
+<tr>
+<td>531</td>
+<td>село Теспе</td>
+<td>360</td>
+</tr>
+<tr>
+<td>532</td>
 <td>село Шапырашты</td>
-<td colspan="2">221</td>
+<td>360</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Кутарыс</td>
+<td></td>
+<td colspan="2">сельский округ Құтарыс</td>
 </tr>
 <tr>
-<td colspan="2">57</td>
-<td>село Кутарыс</td>
-<td colspan="2">265</td>
+<td>533</td>
+<td>село Құтарыс</td>
+<td>470</td>
 </tr>
 <tr>
-<td colspan="2">58</td>
-<td>село Кызылжар</td>
-<td colspan="2">221</td>
+<td>534</td>
+<td>село Қызылжар</td>
+<td>380</td>
 </tr>
 <tr>
-<td colspan="2">59</td>
-<td>село Акарыс</td>
-<td colspan="2">221</td>
+<td>535</td>
+<td>село Ақарыс</td>
+<td>380</td>
 </tr>
 <tr>
-<td colspan="2">60</td>
+<td>536</td>
 <td>село Оймауыт</td>
-<td colspan="2">221</td>
+<td>380</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карамурт</td>
+<td></td>
+<td colspan="2">сельский округ Қарамұрт</td>
 </tr>
 <tr>
-<td colspan="2">61</td>
-<td>село Карамурт</td>
-<td colspan="2">265</td>
+<td>537</td>
+<td>село Қарамұрт</td>
+<td>450</td>
 </tr>
 <tr>
-<td colspan="2">62</td>
+<td>538</td>
 <td>село Низамабад</td>
-<td colspan="2">265</td>
+<td>450</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Манкент</td>
+<td></td>
+<td colspan="2">сельский округ Манкент</td>
 </tr>
 <tr>
-<td colspan="2">63</td>
+<td>539</td>
 <td>село Манкент</td>
-<td colspan="2">265</td>
+<td>620</td>
 </tr>
 <tr>
-<td colspan="2">64</td>
-<td>село Аккала</td>
-<td colspan="2">265</td>
+<td>540</td>
+<td>село Аққала</td>
+<td>400</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Сайрам</td>
+<td></td>
+<td colspan="2">сельский округ Қарабұлақ</td>
 </tr>
 <tr>
-<td colspan="2">65</td>
-<td>село Сайрам</td>
-<td colspan="2">410</td>
+<td>541</td>
+<td>село Қарабұлақ</td>
+<td>750</td>
 </tr>
 <tr>
-<td colspan="2">66</td>
-<td>село Исфиджаб</td>
-<td colspan="2">265</td>
+<td colspan="3">Сарыагашский район</td>
 </tr>
 <tr>
-<td colspan="2">67</td>
-<td>село Кызыл су</td>
-<td colspan="2">265</td>
+<td>542</td>
+<td>город Сарыағаш</td>
+<td>830</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Тассай</td>
+<td></td>
+<td colspan="2">сельский округ Көктерек</td>
 </tr>
 <tr>
-<td colspan="2">68</td>
-<td>село Тассай</td>
-<td colspan="2">330</td>
+<td>543</td>
+<td>поселок Көктерек</td>
+<td>405</td>
 </tr>
 <tr>
-<td colspan="2">69</td>
-<td>село Достык</td>
-<td colspan="2">265</td>
+<td>544</td>
+<td>село Дархан</td>
+<td>221</td>
 </tr>
 <tr>
-<td colspan="2">70</td>
-<td>село Таскен</td>
-<td colspan="2">265</td>
+<td></td>
+<td colspan="2">сельский округ Әлімтау</td>
 </tr>
 <tr>
-<td colspan="2">71</td>
-<td>село Кызылсай</td>
-<td colspan="2">265</td>
+<td>545</td>
+<td>село Әлімтау</td>
+<td>177</td>
 </tr>
 <tr>
-<td colspan="2">72</td>
-<td>село Опытная станция</td>
-<td colspan="2">265</td>
+<td>546</td>
+<td>село Жайдақ құдық</td>
+<td>133</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">сельский округ Карабулак</td>
+<td>547</td>
+<td>село Көктал</td>
+<td>110</td>
 </tr>
 <tr>
-<td colspan="2">73</td>
-<td>село Карабулак</td>
-<td colspan="2">390</td>
+<td>548</td>
+<td>село Тасқұдық</td>
+<td>110</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жартытөбе</td>
+</tr>
+<tr>
+<td>549</td>
+<td>село Төнкеріс</td>
+<td>221</td>
+</tr>
+<tr>
+<td>550</td>
+<td>село Құрама</td>
+<td>221</td>
+</tr>
+<tr>
+<td>551</td>
+<td>село Ынтымақ</td>
+<td>244</td>
+</tr>
+<tr>
+<td>552</td>
+<td>село Бостандық</td>
+<td>221</td>
+</tr>
+<tr>
+<td>553</td>
+<td>село Достық</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жібек Жолы</td>
+</tr>
+<tr>
+<td>554</td>
+<td>село Жібек Жолы</td>
+<td>265</td>
+</tr>
+<tr>
+<td>555</td>
+<td>село Дихан баба</td>
+<td>221</td>
+</tr>
+<tr>
+<td>556</td>
+<td>село Жаңа тұрмыс</td>
+<td>221</td>
+</tr>
+<tr>
+<td>557</td>
+<td>село Қарабау</td>
+<td>221</td>
+</tr>
+<tr>
+<td>558</td>
+<td>село Жаңа құрылыс</td>
+<td>221</td>
+</tr>
+<tr>
+<td>559</td>
+<td>село Зортөбе</td>
+<td>221</td>
+</tr>
+<tr>
+<td>560</td>
+<td>село Сарқырама</td>
+<td>221</td>
+</tr>
+<tr>
+<td>561</td>
+<td>село Сөк-сөк</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жылға</td>
+</tr>
+<tr>
+<td>562</td>
+<td>село Жылға</td>
+<td>221</td>
+</tr>
+<tr>
+<td>563</td>
+<td>село Шайхана</td>
+<td>200</td>
+</tr>
+<tr>
+<td>564</td>
+<td>село Қарақалпақ</td>
+<td>200</td>
+</tr>
+<tr>
+<td>565</td>
+<td>село Шымырбай</td>
+<td>200</td>
+</tr>
+<tr>
+<td>566</td>
+<td>село Қызыласу</td>
+<td>200</td>
+</tr>
+<tr>
+<td>567</td>
+<td>49-разъезд</td>
+<td>200</td>
+</tr>
+<tr>
+<td>568</td>
+<td>село Нұрауыл</td>
+<td>200</td>
+</tr>
+<tr>
+<td>569</td>
+<td>село Шенгелді</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жемісті</td>
+</tr>
+<tr>
+<td>570</td>
+<td>село Жемісті</td>
+<td>221</td>
+</tr>
+<tr>
+<td>571</td>
+<td>село Тың</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақжар</td>
+</tr>
+<tr>
+<td>572</td>
+<td>село Ақжар</td>
+<td>221</td>
+</tr>
+<tr>
+<td>573</td>
+<td>село Бағыс</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Дербісек</td>
+</tr>
+<tr>
+<td>574</td>
+<td>село Дербісек</td>
+<td>221</td>
+</tr>
+<tr>
+<td>575</td>
+<td>село Атамекен</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қызылжар</td>
+</tr>
+<tr>
+<td>576</td>
+<td>село Қызылжар</td>
+<td>244</td>
+</tr>
+<tr>
+<td>577</td>
+<td>село Жаскешу</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Тегісшіл</td>
+</tr>
+<tr>
+<td>578</td>
+<td>село Таскескен</td>
+<td>221</td>
+</tr>
+<tr>
+<td>579</td>
+<td>село Мәдениет</td>
+<td>221</td>
+</tr>
+<tr>
+<td>580</td>
+<td>село Тегісшіл</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Құркелес</td>
+</tr>
+<tr>
+<td>581</td>
+<td>село Ақ ниет</td>
+<td>265</td>
+</tr>
+<tr>
+<td>582</td>
+<td>село Келес</td>
+<td>221</td>
+</tr>
+<tr>
+<td>583</td>
+<td>село Жаңаарық</td>
+<td>244</td>
+</tr>
+<tr>
+<td>584</td>
+<td>село Еңкес</td>
+<td>221</td>
+</tr>
+<tr>
+<td>585</td>
+<td>село Құлтума</td>
+<td>221</td>
+</tr>
+<tr>
+<td>586</td>
+<td>село Нұрлы жол</td>
+<td>244</td>
+</tr>
+<tr>
+<td>587</td>
+<td>село Құркелес</td>
+<td>265</td>
+</tr>
+<tr>
+<td>588</td>
+<td>село Алғабас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>589</td>
+<td>село Ақ үй</td>
+<td>221</td>
+</tr>
+<tr>
+<td>590</td>
+<td>село Жылысу</td>
+<td>221</td>
+</tr>
+<tr>
+<td>591</td>
+<td>село Жаңаталап</td>
+<td>221</td>
+</tr>
+<tr>
+<td>592</td>
+<td>село Дастан</td>
+<td>221</td>
+</tr>
+<tr>
+<td>593</td>
+<td>село Береке</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Дарбаза</td>
+</tr>
+<tr>
+<td>594</td>
+<td>село Дарбаза</td>
+<td>221</td>
+</tr>
+<tr>
+<td>595</td>
+<td>село Бесқұдық</td>
+<td>200</td>
+</tr>
+<tr>
+<td>596</td>
+<td>50-разъезд</td>
+<td>200</td>
+</tr>
+<tr>
+<td>597</td>
+<td>51-разъезд</td>
+<td>200</td>
+</tr>
+<tr>
+<td>598</td>
+<td>село Ердәуіт</td>
+<td>200</td>
+</tr>
+<tr>
+<td>599</td>
+<td>село Тасқұдық</td>
+<td>200</td>
+</tr>
+<tr>
+<td>600</td>
+<td>село Сарысу</td>
+<td>177</td>
+</tr>
+<tr>
+<td>601</td>
+<td>село Құрысай</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қабланбек</td>
+</tr>
+<tr>
+<td>602</td>
+<td>село Қабланбек</td>
+<td>265</td>
+</tr>
+<tr>
+<td>603</td>
+<td>село Тыңтөбе</td>
+<td>221</td>
+</tr>
+<tr>
+<td>604</td>
+<td>село Ташқұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>605</td>
+<td>село Зах</td>
+<td>221</td>
+</tr>
+<tr>
+<td>606</td>
+<td>село Ақ ниет</td>
+<td>221</td>
+</tr>
+<tr>
+<td>607</td>
+<td>село Сіргелі</td>
+<td>244</td>
+</tr>
+<tr>
+<td>608</td>
+<td>село Қанағат</td>
+<td>221</td>
+</tr>
+<tr>
+<td>609</td>
+<td>село Жонарық</td>
+<td>221</td>
+</tr>
+<tr>
+<td colspan="3">Район Сауран</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шорнақ</td>
+</tr>
+<tr>
+<td>610</td>
+<td>село Шорнақ</td>
+<td>223</td>
+</tr>
+<tr>
+<td>611</td>
+<td>село Аша</td>
+<td>208</td>
+</tr>
+<tr>
+<td>612</td>
+<td>село Қосмезгіл</td>
+<td>218</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жібек жолы</td>
+</tr>
+<tr>
+<td>613</td>
+<td>село Сауран</td>
+<td>197,48</td>
+</tr>
+<tr>
+<td>614</td>
+<td>село Ескі Сауран</td>
+<td>195,82</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Майдантал</td>
+</tr>
+<tr>
+<td>615</td>
+<td>село Қаражан</td>
+<td>199,8</td>
+</tr>
+<tr>
+<td>616</td>
+<td>село Егізқара</td>
+<td>155,5</td>
+</tr>
+<tr>
+<td>617</td>
+<td>село Ынталы</td>
+<td>203,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бабайқорған</td>
+</tr>
+<tr>
+<td>618</td>
+<td>село Бабайқорған</td>
+<td>176,27</td>
+</tr>
+<tr>
+<td>619</td>
+<td>село Абай</td>
+<td>183,7</td>
+</tr>
+<tr>
+<td>620</td>
+<td>село Құмайлықас</td>
+<td>186,5</td>
+</tr>
+<tr>
+<td>621</td>
+<td>село Үлгілі</td>
+<td>184,8</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жүйнек</td>
+</tr>
+<tr>
+<td>622</td>
+<td>село Шыпан</td>
+<td>232</td>
+</tr>
+<tr>
+<td>623</td>
+<td>село Шекербұлақ</td>
+<td>232</td>
+</tr>
+<tr>
+<td>624</td>
+<td>село Жүйнек</td>
+<td>233</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Оранғай</td>
+</tr>
+<tr>
+<td>625</td>
+<td>село Оранғай</td>
+<td>225,96</td>
+</tr>
+<tr>
+<td>626</td>
+<td>село Бостандық</td>
+<td>225,75</td>
+</tr>
+<tr>
+<td>627</td>
+<td>село Қосқорған</td>
+<td>186,86</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарашық</td>
+</tr>
+<tr>
+<td>628</td>
+<td>село Қарашық</td>
+<td>235</td>
+</tr>
+<tr>
+<td>629</td>
+<td>село Құмтиын</td>
+<td>231</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Үшқайық</td>
+</tr>
+<tr>
+<td>630</td>
+<td>село Нұртас</td>
+<td>178</td>
+</tr>
+<tr>
+<td>631</td>
+<td>село Сұлтанбек Қожанов</td>
+<td>177</td>
+</tr>
+<tr>
+<td>632</td>
+<td>село Теке</td>
+<td>180</td>
+</tr>
+<tr>
+<td>633</td>
+<td>село Жалаңтөс</td>
+<td>178</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Иассы</td>
+</tr>
+<tr>
+<td>634</td>
+<td>село Еңбекші Дихан</td>
+<td>273</td>
+</tr>
+<tr>
+<td>635</td>
+<td>село Шойтөбе</td>
+<td>250</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шаға</td>
+</tr>
+<tr>
+<td>636</td>
+<td>село Бершінтөбе</td>
+<td>328</td>
+</tr>
+<tr>
+<td>637</td>
+<td>село Қазақстанның 30 жылдығы</td>
+<td>330</td>
+</tr>
+<tr>
+<td>638</td>
+<td>село Шаға</td>
+<td>325</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ескі Иқан</td>
+</tr>
+<tr>
+<td>639</td>
+<td>село Ескі Иқан</td>
+<td>312</td>
+</tr>
+<tr>
+<td>640</td>
+<td>село Мәшһүр Жүсіп</td>
+<td>296</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаңа Иқан</td>
+</tr>
+<tr>
+<td>641</td>
+<td>село Ибата</td>
+<td>176,30</td>
+</tr>
+<tr>
+<td>642</td>
+<td>село Ойық</td>
+<td>178,20</td>
+</tr>
+<tr>
+<td colspan="3">Созакский район</td>
+</tr>
+<tr>
+<td>643</td>
+<td>село Шолаққорған</td>
+<td>450</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шолаққорған</td>
+</tr>
+<tr>
+<td>644</td>
+<td>село Жеткіншек</td>
+<td>250</td>
+</tr>
+<tr>
+<td>645</td>
+<td>село Абай</td>
+<td>220</td>
+</tr>
+<tr>
+<td>646</td>
+<td>село Балдысу</td>
+<td>220</td>
+</tr>
+<tr>
+<td>647</td>
+<td>село Қарабұлақ</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қарақұр</td>
+</tr>
+<tr>
+<td>648</td>
+<td>село Қарақұр</td>
+<td>200</td>
+</tr>
+<tr>
+<td>649</td>
+<td>село Шаға</td>
+<td>200</td>
+</tr>
+<tr>
+<td>650</td>
+<td>село Раң</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қаратау</td>
+</tr>
+<tr>
+<td>651</td>
+<td>село Бақырлы</td>
+<td>200</td>
+</tr>
+<tr>
+<td>652</td>
+<td>село Ақсүмбе</td>
+<td>200</td>
+</tr>
+<tr>
+<td>653</td>
+<td>село Сарыжаз</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Созақ</td>
+</tr>
+<tr>
+<td>654</td>
+<td>село Созақ</td>
+<td>375</td>
+</tr>
+<tr>
+<td>655</td>
+<td>село Көктөбе</td>
+<td>240</td>
+</tr>
+<tr>
+<td>656</td>
+<td>село Ыбырай</td>
+<td>240</td>
+</tr>
+<tr>
+<td>657</td>
+<td>село Шақырық</td>
+<td>240</td>
+</tr>
+<tr>
+<td>658</td>
+<td>село Көкпансор</td>
+<td>240</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Тасты</td>
+</tr>
+<tr>
+<td>659</td>
+<td>село Тасты</td>
+<td>170</td>
+</tr>
+<tr>
+<td>660</td>
+<td>село Қылты</td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Сызған</td>
+</tr>
+<tr>
+<td>661</td>
+<td>село Көзмолдақ</td>
+<td>250</td>
+</tr>
+<tr>
+<td>662</td>
+<td>село Қайнар</td>
+<td>220</td>
+</tr>
+<tr>
+<td>663</td>
+<td>село Басбұлақ</td>
+<td>220</td>
+</tr>
+<tr>
+<td>664</td>
+<td>село Сызған</td>
+<td>220</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Таукент</td>
+</tr>
+<tr>
+<td>665</td>
+<td>поселок Таукент</td>
+<td>530</td>
+</tr>
+<tr>
+<td>666</td>
+<td>село Жыныс</td>
+<td>148</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Құмкент</td>
+</tr>
+<tr>
+<td>667</td>
+<td>село Құмкент</td>
+<td>220</td>
+</tr>
+<tr>
+<td>668</td>
+<td>село Қызыл қанат</td>
+<td>200</td>
+</tr>
+<tr>
+<td>669</td>
+<td>село Қызыл көл</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шу</td>
+</tr>
+<tr>
+<td>670</td>
+<td>село Шу</td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельскйй округ Қыземшек</td>
+</tr>
+<tr>
+<td>671</td>
+<td>поселок Қыземшек</td>
+<td>530</td>
+</tr>
+<tr>
+<td>672</td>
+<td>село Тайқоңыр</td>
+<td>470</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жуантөбе</td>
+</tr>
+<tr>
+<td>673</td>
+<td>село Жуантөбе</td>
+<td>170</td>
+</tr>
+<tr>
+<td>674</td>
+<td>село Қоңыратарық</td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жартытөбе</td>
+</tr>
+<tr>
+<td>675</td>
+<td>село Жартытөбе</td>
+<td>215</td>
+</tr>
+<tr>
+<td>676</td>
+<td>село Аққолтық</td>
+<td>215</td>
+</tr>
+<tr>
+<td>677</td>
+<td>село Баба ата</td>
+<td>215</td>
+</tr>
+<tr>
+<td colspan="3">Толебийский район</td>
+</tr>
+<tr>
+<td>678</td>
+<td>город Ленгер</td>
+<td>1050</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Аққұм</td>
+</tr>
+<tr>
+<td>679</td>
+<td>село Аққұм</td>
+<td>380</td>
+</tr>
+<tr>
+<td>680</td>
+<td>село Момынай</td>
+<td>380</td>
+</tr>
+<tr>
+<td>681</td>
+<td>село Жаңаұйым</td>
+<td>380</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Алатау</td>
+</tr>
+<tr>
+<td>682</td>
+<td>село Біркөлік</td>
+<td>510</td>
+</tr>
+<tr>
+<td>683</td>
+<td>село Алатау</td>
+<td>320</td>
+</tr>
+<tr>
+<td>684</td>
+<td>село Екпінді</td>
+<td>320</td>
+</tr>
+<tr>
+<td>685</td>
+<td>село Қорған</td>
+<td>320</td>
+</tr>
+<tr>
+<td>686</td>
+<td>село Шатыртөбе</td>
+<td>320</td>
+</tr>
+<tr>
+<td>687</td>
+<td>село Шұбарағаш</td>
+<td>320</td>
+</tr>
+<tr>
+<td>688</td>
+<td>село Қайнар</td>
+<td>320</td>
+</tr>
+<tr>
+<td>689</td>
+<td>село Нысанбек</td>
+<td>320</td>
+</tr>
+<tr>
+<td>690</td>
+<td>село Қосағаш</td>
+<td>320</td>
+</tr>
+<tr>
+<td>691</td>
+<td>село Жаңатұрмыс</td>
+<td>320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жоғарғы Ақсу</td>
+</tr>
+<tr>
+<td>692</td>
+<td>село Мәдени</td>
+<td>320</td>
+</tr>
+<tr>
+<td>693</td>
+<td>село Сарқырама</td>
+<td>320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Бірінші мамыр</td>
+</tr>
+<tr>
+<td>694</td>
+<td>село Бірінші мамыр</td>
+<td>390</td>
+</tr>
+<tr>
+<td>695</td>
+<td>село Жаңажол</td>
+<td>320</td>
+</tr>
+<tr>
+<td>696</td>
+<td>село Бейнеткеш</td>
+<td>320</td>
+</tr>
+<tr>
+<td>697</td>
+<td>село Зағамбар</td>
+<td>320</td>
+</tr>
+<tr>
+<td>698</td>
+<td>село Тағайна</td>
+<td>320</td>
+</tr>
+<tr>
+<td>699</td>
+<td>село Алғабас</td>
+<td>320</td>
+</tr>
+<tr>
+<td>700</td>
+<td>село Ынтымақ</td>
+<td>320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Зертас</td>
+</tr>
+<tr>
+<td>701</td>
+<td>село Зертас</td>
+<td>420</td>
+</tr>
+<tr>
+<td>702</td>
+<td>село Жаңакүш</td>
+<td>320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Көксәйек</td>
+</tr>
+<tr>
+<td>703</td>
+<td>село Көксәйек</td>
+<td>420</td>
+</tr>
+<tr>
+<td>704</td>
+<td>село Қазақстан</td>
+<td>340</td>
+</tr>
+<tr>
+<td>705</td>
+<td>село Жіңішке</td>
+<td>340</td>
+</tr>
+<tr>
+<td>706</td>
+<td>село Алтынбастау</td>
+<td>340</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Киелітас</td>
+</tr>
+<tr>
+<td>707</td>
+<td>село Сұлтан Рабат</td>
+<td>460</td>
+</tr>
+<tr>
+<td>708</td>
+<td>село Достық</td>
+<td>460</td>
+</tr>
+<tr>
+<td>709</td>
+<td>село Киелітас</td>
+<td>320</td>
+</tr>
+<tr>
+<td>710</td>
+<td>село Ақайдар</td>
+<td>320</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Кемеқалған</td>
+</tr>
+<tr>
+<td>711</td>
+<td>село Абай</td>
+<td>340</td>
+</tr>
+<tr>
+<td>712</td>
+<td>село Ақбастау</td>
+<td>340</td>
+</tr>
+<tr>
+<td>713</td>
+<td>село Әңгірата</td>
+<td>340</td>
+</tr>
+<tr>
+<td>714</td>
+<td>село Қарақия</td>
+<td>340</td>
+</tr>
+<tr>
+<td>715</td>
+<td>село Қаратөбе</td>
+<td>340</td>
+</tr>
+<tr>
+<td>716</td>
+<td>село Ұйымшыл</td>
+<td>340</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қасқасу</td>
+</tr>
+<tr>
+<td>717</td>
+<td>село Қасқасу</td>
+<td>400</td>
+</tr>
+<tr>
+<td>718</td>
+<td>село Кеңесарық</td>
+<td>340</td>
+</tr>
+<tr>
+<td>719</td>
+<td>село Керегетас</td>
+<td>340</td>
+</tr>
+<tr>
+<td>720</td>
+<td>село Жоғарғы Қасқасу</td>
+<td>340</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қаратөбе</td>
+</tr>
+<tr>
+<td>721</td>
+<td>село Қаратөбе</td>
+<td>330</td>
+</tr>
+<tr>
+<td>722</td>
+<td>село Балдыберек</td>
+<td>330</td>
+</tr>
+<tr>
+<td>723</td>
+<td>село Төңкеріс</td>
+<td>330</td>
+</tr>
+<tr>
+<td>724</td>
+<td>село Қостөбе</td>
+<td>330</td>
+</tr>
+<tr>
+<td>725</td>
+<td>село Майбұлақ</td>
+<td>330</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қоғалы</td>
+</tr>
+<tr>
+<td>726</td>
+<td>село Диханкөл</td>
+<td>340</td>
+</tr>
+<tr>
+<td>727</td>
+<td>село Ұзын арық</td>
+<td>340</td>
+</tr>
+<tr>
+<td>728</td>
+<td>село Алшалы</td>
+<td>340</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Тасарық</td>
+</tr>
+<tr>
+<td>729</td>
+<td>село Тасарық</td>
+<td>340</td>
+</tr>
+<tr>
+<td>730</td>
+<td>село Жамбыл</td>
+<td>340</td>
+</tr>
+<tr>
+<td>731</td>
+<td>село Оңтүстік</td>
+<td>340</td>
+</tr>
+<tr>
+<td>732</td>
+<td>село Ханарық</td>
+<td>340</td>
+</tr>
+<tr>
+<td colspan="3">Тюлькубасский район</td>
+</tr>
+<tr>
+<td>733</td>
+<td>село Т.Рысқұлов</td>
+<td>340</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Машат</td>
+</tr>
+<tr>
+<td>734</td>
+<td>село Машат</td>
+<td>200</td>
+</tr>
+<tr>
+<td>735</td>
+<td>село Мыңбай</td>
+<td>177</td>
+</tr>
+<tr>
+<td>736</td>
+<td>село Еңбек</td>
+<td>177</td>
+</tr>
+<tr>
+<td>737</td>
+<td>село Еңбекші</td>
+<td>177</td>
+</tr>
+<tr>
+<td>738</td>
+<td>село Қызылбастау</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаскешу</td>
+</tr>
+<tr>
+<td>739</td>
+<td>село Жаскешу</td>
+<td>244</td>
+</tr>
+<tr>
+<td>740</td>
+<td>село Рысқұл</td>
+<td>200</td>
+</tr>
+<tr>
+<td>741</td>
+<td>село Жанұзақ</td>
+<td>200</td>
+</tr>
+<tr>
+<td>742</td>
+<td>село Пістелі</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жабағылы</td>
+</tr>
+<tr>
+<td>743</td>
+<td>село Жабағылы</td>
+<td>244</td>
+</tr>
+<tr>
+<td>744</td>
+<td>село Абайлы</td>
+<td>221</td>
+</tr>
+<tr>
+<td>745</td>
+<td>село 115 разъезд</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Т.Рысқұлов</td>
+</tr>
+<tr>
+<td>746</td>
+<td>село Азаттық</td>
+<td>244</td>
+</tr>
+<tr>
+<td>747</td>
+<td>село Шұқырбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>748</td>
+<td>село Жаңаталап</td>
+<td>221</td>
+</tr>
+<tr>
+<td>749</td>
+<td>село Тастыбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Кемербастау</td>
+</tr>
+<tr>
+<td>750</td>
+<td>село Күмісбастау</td>
+<td>221</td>
+</tr>
+<tr>
+<td>751</td>
+<td>село Елтай</td>
+<td>221</td>
+</tr>
+<tr>
+<td>752</td>
+<td>село Кемербастау</td>
+<td>244</td>
+</tr>
+<tr>
+<td>753</td>
+<td>село Алғабас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>754</td>
+<td>село М.Жәрімбетов</td>
+<td>244</td>
+</tr>
+<tr>
+<td>755</td>
+<td>17-разъезд</td>
+<td>200</td>
+</tr>
+<tr>
+<td>756</td>
+<td>село Майлыкент</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Балықты</td>
+</tr>
+<tr>
+<td>757</td>
+<td>село Балықты</td>
+<td>221</td>
+</tr>
+<tr>
+<td>758</td>
+<td>село Шарафкент</td>
+<td>200</td>
+</tr>
+<tr>
+<td>759</td>
+<td>село Үрбұлақ</td>
+<td>221</td>
+</tr>
+<tr>
+<td>760</td>
+<td>село Көкбұлақ</td>
+<td>200</td>
+</tr>
+<tr>
+<td>761</td>
+<td>село Абай</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Майлыкент</td>
+</tr>
+<tr>
+<td>762</td>
+<td>село Дауан</td>
+<td>244</td>
+</tr>
+<tr>
+<td>763</td>
+<td>село Бақыбек</td>
+<td>244</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Арыс</td>
+</tr>
+<tr>
+<td>764</td>
+<td>село Керейіт</td>
+<td>221</td>
+</tr>
+<tr>
+<td>765</td>
+<td>село Қайыршықты</td>
+<td>177</td>
+</tr>
+<tr>
+<td>766</td>
+<td>село Мақталы</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Шақпақ</td>
+</tr>
+<tr>
+<td>767</td>
+<td>село Шақпақ баба</td>
+<td>221</td>
+</tr>
+<tr>
+<td>768</td>
+<td>114-разъезд</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">поселок Састөбе</td>
+</tr>
+<tr>
+<td>769</td>
+<td>поселок Састөбе</td>
+<td>295</td>
+</tr>
+<tr>
+<td>770</td>
+<td>село Қызылту</td>
+<td>221</td>
+</tr>
+<tr>
+<td>771</td>
+<td>село Ынтымақ</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Келтемашат</td>
+</tr>
+<tr>
+<td>772</td>
+<td>село Келтемашат</td>
+<td>221</td>
+</tr>
+<tr>
+<td>773</td>
+<td>село Ақсай</td>
+<td>177</td>
+</tr>
+<tr>
+<td>774</td>
+<td>село Дәубаба-1</td>
+<td>177</td>
+</tr>
+<tr>
+<td>775</td>
+<td>село Жиынбай</td>
+<td>200</td>
+</tr>
+<tr>
+<td>776</td>
+<td>село Кершетас</td>
+<td>221</td>
+</tr>
+<tr>
+<td>777</td>
+<td>село Қоғалы</td>
+<td>177</td>
+</tr>
+<tr>
+<td>778</td>
+<td>село Дәубаба-2</td>
+<td>177</td>
+</tr>
+<tr>
+<td>779</td>
+<td>село Төрткөл</td>
+<td>177</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Тастұмсық</td>
+</tr>
+<tr>
+<td>780</td>
+<td>село Амангелді</td>
+<td>221</td>
+</tr>
+<tr>
+<td>781</td>
+<td>село Жыланды</td>
+<td>221</td>
+</tr>
+<tr>
+<td>782</td>
+<td>село Қабанбай</td>
+<td>221</td>
+</tr>
+<tr>
+<td>783</td>
+<td>село Қарабастау</td>
+<td>221</td>
+</tr>
+<tr>
+<td>784</td>
+<td>село Тастұмсық</td>
+<td>244</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Мичурин</td>
+</tr>
+<tr>
+<td>785</td>
+<td>село Майтөбе</td>
+<td>244</td>
+</tr>
+<tr>
+<td>786</td>
+<td>село Көксағыз</td>
+<td>221</td>
+</tr>
+<tr>
+<td>787</td>
+<td>село Таусағыз</td>
+<td>221</td>
+</tr>
+<tr>
+<td>788</td>
+<td>село Қожамберды</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақбиік</td>
+</tr>
+<tr>
+<td>789</td>
+<td>село Ақбиік</td>
+<td>244</td>
+</tr>
+<tr>
+<td>790</td>
+<td>село Құлан</td>
+<td>221</td>
+</tr>
+<tr>
+<td>791</td>
+<td>село Сартөр</td>
+<td>221</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">поселок Түлкібас</td>
+</tr>
+<tr>
+<td>792</td>
+<td>поселок Түлкібас</td>
+<td>295</td>
+</tr>
+<tr>
+<td>793</td>
+<td>село Көктерек</td>
+<td>200</td>
+</tr>
+<tr>
+<td>794</td>
+<td>село Иірсу</td>
+<td>177</td>
+</tr>
+<tr>
+<td colspan="3">город Туркестан</td>
+</tr>
+<tr>
+<td>795</td>
+<td>город Түркістан</td>
+<td>1856,5</td>
+</tr>
+<tr>
+<td colspan="3">Шардаринский район</td>
+</tr>
+<tr>
+<td>796</td>
+<td>город Шардара</td>
+<td>420</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қ.Тұрысбеков</td>
+</tr>
+<tr>
+<td>797</td>
+<td>село Қ.Тұрысбеков</td>
+<td>123</td>
+</tr>
+<tr>
+<td>798</td>
+<td>село Ақберді</td>
+<td>100</td>
+</tr>
+<tr>
+<td>799</td>
+<td>село Бимырза</td>
+<td>110</td>
+</tr>
+<tr>
+<td>800</td>
+<td>село Қуан-құдық</td>
+<td>100</td>
+</tr>
+<tr>
+<td>801</td>
+<td>село Пішентөбе</td>
+<td>100</td>
+</tr>
+<tr>
+<td>802</td>
+<td>село Бозай</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қоссейіт</td>
+</tr>
+<tr>
+<td>803</td>
+<td>село Қоссейіт</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Жаушықұм</td>
+</tr>
+<tr>
+<td>804</td>
+<td>село Жаушықұм-1</td>
+<td>123</td>
+</tr>
+<tr>
+<td>805</td>
+<td>село Бағыскөл</td>
+<td>100</td>
+</tr>
+<tr>
+<td>806</td>
+<td>село Жаушықұм</td>
+<td>100</td>
+</tr>
+<tr>
+<td>807</td>
+<td>село Қалғансыр</td>
+<td>110</td>
+</tr>
+<tr>
+<td>808</td>
+<td>село Құйған</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Көксу</td>
+</tr>
+<tr>
+<td>809</td>
+<td>село Көксу</td>
+<td>123</td>
+</tr>
+<tr>
+<td>810</td>
+<td>село Айдарқұл-қашар</td>
+<td>100</td>
+</tr>
+<tr>
+<td>811</td>
+<td>село Баспанды</td>
+<td>100</td>
+</tr>
+<tr>
+<td>812</td>
+<td>село Жоласар</td>
+<td>100</td>
+</tr>
+<tr>
+<td>813</td>
+<td>село Сырдария</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ұзыната</td>
+</tr>
+<tr>
+<td>814</td>
+<td>село Ұзын ата</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қазақстан</td>
+</tr>
+<tr>
+<td>815</td>
+<td>село Қазақстан</td>
+<td>123</td>
+</tr>
+<tr>
+<td>816</td>
+<td>село Целинное</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Қызылқұм</td>
+</tr>
+<tr>
+<td>817</td>
+<td>село Қызылқұм</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Достық</td>
+</tr>
+<tr>
+<td>818</td>
+<td>село Достық</td>
+<td>123</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Ақшеңгелді</td>
+</tr>
+<tr>
+<td>819</td>
+<td>село Ақалтын</td>
+<td>123</td>
+</tr>
+<tr>
+<td>820</td>
+<td>село Қазақстанның 60 жылдығы</td>
+<td>110</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">сельский округ Сүткент</td>
+</tr>
+<tr>
+<td>821</td>
+<td>село Сүткент</td>
+<td>123</td>
+</tr>
+<tr>
+<td>822</td>
+<td>село Шабырлы</td>
+<td>100</td>
 </tr>
 </table>
