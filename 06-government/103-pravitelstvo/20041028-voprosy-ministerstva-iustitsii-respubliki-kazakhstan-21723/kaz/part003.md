@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/21723/kaz/26.09.2023
+source: https://zan.gov.kz/client/#!/doc/21723/kaz/01.01.2024
 ---
 
 > *Қазақстан Республикасы*  
