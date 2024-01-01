@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/100339/kaz/27.11.2023
+source: https://zan.gov.kz/client/#!/doc/100339/kaz/01.01.2024
 ---
 
 > *Қаржы ұйымдарының қаржылық*  
