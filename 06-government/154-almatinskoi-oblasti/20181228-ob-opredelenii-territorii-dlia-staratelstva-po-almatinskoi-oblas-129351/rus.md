@@ -1,5 +1,5 @@
 ---
-version_id: I129351_5
+version_id: I129351_7
 act_code: '129351'
 language: rus
 title: Об определении территорий для старательства по Алматинской области
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '154000000001'
 approval_date: 2018-12-28
-version_date: 2020-08-27
+version_date: 2024-02-21
 registry_number: '129351'
 caused_by:
-  code: '145961'
-  title: О внесении дополнения в постановление акимата Алматинской области от 28 декабря 2018 года № 622 «Об определении территорий для старательства по Алматинской области»
-  link: https://zan.gov.kz/client/#!/doc/145961/rus
-source: https://zan.gov.kz/client/#!/doc/129351/rus/27.08.2020
+  code: '193686'
+  title: О внесении изменения в постановление акимата Алматинской области от 28 декабря 2018 года № 622 «Об определении территорий для старательства по Алматинской области»
+  link: https://zan.gov.kz/client/#!/doc/193686/rus
+source: https://zan.gov.kz/client/#!/doc/129351/rus/21.02.2024
 ---
 
 # Об определении территорий для старательства по Алматинской области
@@ -43,2613 +43,637 @@ source: https://zan.gov.kz/client/#!/doc/129351/rus/27.08.2020
 
 **А. Баталов**
 
-> *Приложение к постановлению акимата Алматинской области от «28» декабря 2018 года № 622*  
-> *Сноска. Приложение дополнено строками 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26 в соответствии с постановлениями акимата Алматинской области от 28.10.2019 № 463; от 27.08.2020 № 319 (вводится в действие со дня его первого официального опубликования).*
+> *Приложение к постановлению акимата Алматинской области от «28» декабря 2018 года № 622*
+
+# Территории для старательства по Алматинской области
+
+> *Сноска. Приложение в редакции постановления акимата Алматинской области от 21.02.2024 № 74 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Наименование площади</td>
-<td rowspan="2">Область</td>
-<td rowspan="2">№ участка</td>
-<td rowspan="2">№ точки</td>
-<td colspan="6">Географические координаты участка</td>
-<td rowspan="2">Площадь участка (га)</td>
-<td rowspan="2">Наименование блока 1' на 1'</td>
-<td rowspan="2">Описание</td>
+<td rowspan="2">№ п/п</td>
+<td rowspan="2">Наименование территории</td>
+<td rowspan="2">Угловые точки</td>
+<td colspan="2">Координаты угловых точек</td>
+<td rowspan="2">Площадь, (гектар)</td>
+<td rowspan="2">Административно-территориальная единица</td>
 </tr>
 <tr>
-<td colspan="3">Восточная долгота</td>
-<td colspan="3">Северная широта</td>
+<td>Северная широта</td>
+<td>Восточная долгота</td>
 </tr>
 <tr>
-<td rowspan="16">1</td>
-<td rowspan="16">Долина реки Биже</td>
-<td rowspan="16">Алматинская</td>
 <td rowspan="4">1</td>
+<td rowspan="4">Участок Баянколь</td>
 <td>1</td>
-<td>78</td>
-<td>10</td>
-<td>8,8</td>
-<td>44</td>
-<td>22</td>
-<td>38,7</td>
-<td rowspan="4">4</td>
-<td rowspan="16">L-44-121-(10д-5в-11) - частично</td>
-<td rowspan="16">Проявление аллювиального генезиса расположено в долине реки Биже. Золото спорадически рассеяно по валунно-галечным отложениям поймы. Повышенные концентрации золота установлены в отдельных разобщенных пробах на увязывающихся в продуктивные горизонты. Среднее содержание золота 17мг/м3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>78</td>
-<td>10</td>
-<td>18,1</td>
-<td>44</td>
-<td>22</td>
-<td>37,7</td>
-</tr>
-<tr>
-<td>3</td>
-<td>78</td>
-<td>10</td>
-<td>18</td>
-<td>44</td>
-<td>22</td>
-<td>32</td>
-</tr>
-<tr>
-<td>4</td>
-<td>78</td>
-<td>10</td>
-<td>8,8</td>
-<td>44</td>
-<td>22</td>
-<td>33,1</td>
-</tr>
-<tr>
-<td rowspan="4">2</td>
-<td>1</td>
-<td>78</td>
-<td>10</td>
-<td>18,1</td>
-<td>44</td>
-<td>22</td>
-<td>37,7</td>
-<td rowspan="4">2</td>
-</tr>
-<tr>
-<td>2</td>
-<td>78</td>
-<td>10</td>
-<td>22,6</td>
-<td>44</td>
-<td>22</td>
-<td>40,5</td>
-</tr>
-<tr>
-<td>3</td>
-<td>78</td>
-<td>10</td>
-<td>21,8</td>
-<td>44</td>
-<td>22</td>
-<td>28,8</td>
-</tr>
-<tr>
-<td>4</td>
-<td>78</td>
-<td>10</td>
-<td>18</td>
-<td>44</td>
-<td>22</td>
-<td>32</td>
-</tr>
-<tr>
-<td rowspan="4">3</td>
-<td>1</td>
-<td>78</td>
-<td>10</td>
-<td>0,4</td>
-<td>44</td>
-<td>22</td>
-<td>43,7</td>
-<td rowspan="4">4</td>
-</tr>
-<tr>
-<td>2</td>
-<td>78</td>
-<td>10</td>
-<td>22,6</td>
-<td>44</td>
-<td>22</td>
-<td>40,5</td>
-</tr>
-<tr>
-<td>3</td>
-<td>78</td>
-<td>10</td>
-<td>18,1</td>
-<td>44</td>
-<td>22</td>
-<td>37,7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>78</td>
-<td>10</td>
-<td>8,8</td>
-<td>44</td>
-<td>22</td>
-<td>38,7</td>
-</tr>
-<tr>
-<td rowspan="4">4</td>
-<td>1</td>
-<td>78</td>
-<td>10</td>
-<td>0,4</td>
-<td>44</td>
-<td>22</td>
-<td>43,7</td>
+<td>42º51'15&quot;</td>
+<td>80º11'24,27&quot;</td>
 <td rowspan="4">5</td>
+<td rowspan="106">Райымбекский район</td>
 </tr>
 <tr>
 <td>2</td>
-<td>78</td>
-<td>10</td>
-<td>8,8</td>
-<td>44</td>
-<td>22</td>
-<td>38,7</td>
+<td>42º51'33,53&quot;</td>
+<td>80º11'19,29&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>78</td>
-<td>10</td>
-<td>8,8</td>
-<td>44</td>
-<td>22</td>
-<td>33,1</td>
+<td>42º51'32,48&quot;</td>
+<td>80º11'15,48&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>78</td>
-<td>9</td>
-<td>59,8</td>
-<td>44</td>
-<td>22</td>
-<td>33,4</td>
-</tr>
-<tr>
-<td rowspan="16">2</td>
-<td rowspan="16">Сатырлы Хасан</td>
-<td rowspan="16">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>39</td>
-<td>34,5</td>
-<td>43</td>
-<td>18</td>
-<td>4,8</td>
-<td rowspan="4">3</td>
-<td rowspan="16">K-44-30-(10а-5б-10), K-44-30-(10а-5б-15) - частично</td>
-<td rowspan="16">Аллювии долины изучено шурфами. Установлены низкие содержание золота. Среднее содержание золота 0,1-0,12 г/м3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>39</td>
-<td>43</td>
-<td>43</td>
-<td>18</td>
-<td>4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>39</td>
-<td>42</td>
-<td>43</td>
-<td>17</td>
-<td>58</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>39</td>
-<td>34</td>
-<td>43</td>
-<td>17</td>
-<td>59</td>
+<td>42º51'20,21&quot;</td>
+<td>80º11'20,57&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">2</td>
-<td>1</td>
-<td>80</td>
-<td>39</td>
-<td>43</td>
-<td>43</td>
-<td>18</td>
-<td>4</td>
-<td rowspan="4">3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>39</td>
-<td>49,3</td>
-<td>43</td>
-<td>18</td>
-<td>6,6</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>39</td>
-<td>45,4</td>
-<td>43</td>
-<td>17</td>
-<td>54,4</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>39</td>
-<td>42</td>
-<td>43</td>
-<td>17</td>
-<td>58</td>
-</tr>
-<tr>
-<td rowspan="4">3</td>
-<td>1</td>
-<td>80</td>
-<td>39</td>
-<td>27,5</td>
-<td>43</td>
-<td>18</td>
-<td>10,6</td>
-<td rowspan="4">4</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>39</td>
-<td>49,3</td>
-<td>43</td>
-<td>18</td>
-<td>6,6</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>39</td>
-<td>43</td>
-<td>43</td>
-<td>18</td>
-<td>4</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>39</td>
-<td>34,5</td>
-<td>43</td>
-<td>18</td>
-<td>4,8</td>
-</tr>
-<tr>
-<td rowspan="4">4</td>
-<td>1</td>
-<td>80</td>
-<td>39</td>
-<td>27,5</td>
-<td>43</td>
-<td>18</td>
-<td>10,6</td>
-<td rowspan="4">3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>39</td>
-<td>34,5</td>
-<td>43</td>
-<td>18</td>
-<td>4,8</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>39</td>
-<td>34</td>
-<td>43</td>
-<td>17</td>
-<td>59</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>39</td>
-<td>29,1</td>
-<td>43</td>
-<td>17</td>
-<td>59</td>
-</tr>
-<tr>
-<td rowspan="12">3</td>
-<td rowspan="12">Бадуты-Хасан</td>
-<td rowspan="12">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>37,7</td>
-<td>43</td>
-<td>11</td>
-<td>24,7</td>
-<td rowspan="4">4</td>
-<td rowspan="12">K-44-30-(10б-5в-17) - частично</td>
-<td rowspan="12">В верхней части долины, доступной для изучения шурфами, разрез аллювия вскрыт и опробован. На всех линиях, в отдельных пробах, установлены содержание золота 0,1-0,57 г/м3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>48,7</td>
-<td>43</td>
-<td>11</td>
-<td>24,7</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>47,7</td>
-<td>43</td>
-<td>11</td>
-<td>19,1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>36,7</td>
-<td>43</td>
-<td>11</td>
-<td>19</td>
-</tr>
-<tr>
-<td rowspan="4">2</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>31</td>
-<td>43</td>
-<td>11</td>
-<td>28,5</td>
-<td rowspan="4">3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>37,7</td>
-<td>43</td>
-<td>11</td>
-<td>24,7</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>36,5</td>
-<td>43</td>
-<td>11</td>
-<td>19,3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>31,4</td>
-<td>43</td>
-<td>11</td>
-<td>19,8</td>
-</tr>
-<tr>
-<td rowspan="4">3</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>31</td>
-<td>43</td>
-<td>11</td>
-<td>28,5</td>
-<td rowspan="4">4</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>48,9</td>
-<td>43</td>
-<td>11</td>
-<td>28,1</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>48,7</td>
-<td>43</td>
-<td>11</td>
-<td>24,7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>37,7</td>
-<td>43</td>
-<td>11</td>
-<td>24,7</td>
-</tr>
-<tr>
-<td rowspan="8">4</td>
-<td rowspan="8">Чубурма-Хасан</td>
-<td rowspan="8">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>31,4</td>
-<td>43</td>
-<td>11</td>
-<td>19,8</td>
-<td rowspan="4">2</td>
-<td rowspan="8">К-44-30-(10б-5в-17) - частично</td>
-<td rowspan="8">Золотоносность аллювия изучена буровыми работами. На всех буровых линиях установлены повышенные концентрации золота. Среднее содержание золота 0,11-014 г/м3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>36,5</td>
-<td>43</td>
-<td>11</td>
-<td>19,3</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>35,6</td>
-<td>43</td>
-<td>11</td>
-<td>13,4</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>33,3</td>
-<td>43</td>
-<td>11</td>
-<td>11,9</td>
-</tr>
-<tr>
-<td rowspan="4">2</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>35,6</td>
-<td>43</td>
-<td>11</td>
-<td>13,4</td>
-<td rowspan="4">3</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>47,5</td>
-<td>43</td>
-<td>11</td>
-<td>12,6</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>46,6</td>
-<td>43</td>
-<td>11</td>
-<td>7,1</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>33,3</td>
-<td>43</td>
-<td>11</td>
-<td>11,9</td>
-</tr>
-<tr>
-<td rowspan="4">5</td>
-<td rowspan="4">Жаманты</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>41</td>
-<td>36,5</td>
-<td>43</td>
-<td>11</td>
-<td>19,3</td>
-<td rowspan="4">5</td>
-<td rowspan="4">К-44-30-(10б-5в-17) - частично</td>
-<td rowspan="4">
-Россыпь в устье реки Жаманты по надпойменным террасам I, II, III. Золотосные струи шириной от 20 до 50 м, при мощности пластов песков 0,5-3 м. Глубина залегания продуктивного пласта в III надпойменной террасе 48 м. Общая длина россыпи 2350 м. По шлиховым ореолам золота в конусах выноса реки Жаманты, произведена оценка прогнозных ресурсов по категории Р2 – 79 984,3 кг. Среднее содержание золота 306 мг/м3
-Авторские запасы по категории Р2-278,2 кг, Р3-150 кг
-</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>41</td>
-<td>47,9</td>
-<td>43</td>
-<td>11</td>
-<td>19,4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>41</td>
-<td>47,5</td>
-<td>43</td>
-<td>11</td>
-<td>12,6</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>41</td>
-<td>35,6</td>
-<td>43</td>
-<td>11</td>
-<td>13,4</td>
-</tr>
-<tr>
-<td rowspan="4">6</td>
-<td rowspan="4">Участок Баянкол</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>11</td>
-<td>24,27</td>
-<td>42</td>
-<td>51</td>
-<td>15</td>
-<td rowspan="4">5</td>
-<td rowspan="4">-</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>11</td>
-<td>19,29</td>
-<td>42</td>
-<td>51</td>
-<td>33,53</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>11</td>
-<td>15,48</td>
-<td>42</td>
-<td>51</td>
-<td>32,48</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>11</td>
-<td>20,57</td>
-<td>42</td>
-<td>51</td>
-<td>20,21</td>
-</tr>
-<tr>
-<td rowspan="4">7</td>
 <td rowspan="4">Участок Нурлан</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
 <td>1</td>
-<td>42</td>
-<td>24</td>
-<td>47</td>
-<td>80</td>
-<td>6</td>
-<td>52</td>
+<td>80º6'52&quot;</td>
+<td>42º24'47&quot;</td>
 <td rowspan="4">4</td>
-<td rowspan="4">-</td>
-<td rowspan="4">Свободен от недропользования</td>
 </tr>
 <tr>
 <td>2</td>
-<td>42</td>
-<td>24</td>
-<td>47</td>
-<td>80</td>
-<td>7</td>
-<td>0</td>
+<td>80º7'0&quot;</td>
+<td>42º24'47&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>42</td>
-<td>24</td>
-<td>40</td>
-<td>80</td>
-<td>7</td>
-<td>0</td>
+<td>80º7'0&quot;</td>
+<td>42º24'40&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>42</td>
-<td>24</td>
-<td>40</td>
-<td>80</td>
-<td>6</td>
-<td>52</td>
+<td>80º6'52&quot;</td>
+<td>42º24'40&quot;</td>
 </tr>
 <tr>
-<td rowspan="76">8</td>
-<td rowspan="76">Безымянное</td>
-<td rowspan="8">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>79</td>
-<td>27</td>
-<td>26,1</td>
-<td>45</td>
-<td>8</td>
-<td>54,7</td>
-<td rowspan="4">2,462</td>
-<td rowspan="76">Участок Безымянное</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>79</td>
-<td>27</td>
-<td>26,1</td>
-<td>45</td>
-<td>8</td>
-<td>54,7</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>27</td>
-<td>38,3</td>
-<td>45</td>
-<td>8</td>
-<td>54,7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>27</td>
-<td>38,3</td>
-<td>45</td>
-<td>8</td>
-<td>54,7</td>
-</tr>
-<tr>
-<td rowspan="4">2</td>
-<td>1</td>
-<td>79</td>
-<td>27</td>
-<td>38,3</td>
-<td>45</td>
-<td>8</td>
-<td>57,7</td>
-<td rowspan="4">2,219</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>79</td>
-<td>27</td>
-<td>38,3</td>
-<td>45</td>
-<td>9</td>
-<td>10,9</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>27</td>
-<td>40,8</td>
-<td>45</td>
-<td>9</td>
-<td>10,9</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>27</td>
-<td>40,8</td>
-<td>45</td>
-<td>8</td>
-<td>57,7</td>
-</tr>
-<tr>
-<td rowspan="8">Алматинская</td>
 <td rowspan="4">3</td>
+<td rowspan="4">Участок Санжар</td>
 <td>1</td>
-<td>79</td>
-<td>27</td>
-<td>33,8</td>
-<td>45</td>
-<td>9</td>
-<td>28,1</td>
-<td rowspan="4">4,52</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>80º04'44,24&quot;</td>
+<td>42º26'00,40&quot;</td>
+<td rowspan="4">2,1</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>27</td>
-<td>33,8</td>
-<td>45</td>
-<td>9</td>
-<td>36,5</td>
+<td>80º04'54,28&quot;</td>
+<td>42º26'00,40&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>27</td>
-<td>41,8</td>
-<td>45</td>
-<td>9</td>
-<td>36,5</td>
+<td>80º04'44,24&quot;</td>
+<td>42º26'03,08&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>27</td>
-<td>41,8</td>
-<td>45</td>
-<td>9</td>
-<td>28,1</td>
+<td>80º04'54,24&quot;</td>
+<td>42º26'03,13&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">4</td>
+<td rowspan="4">Участок Оспан-1</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>10,5</td>
-<td>45</td>
-<td>11</td>
-<td>34,1</td>
-<td rowspan="4">4,648</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º26'3,13&quot;</td>
+<td>80º4'54,23&quot;</td>
+<td rowspan="4">2,053</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>17,7</td>
-<td>45</td>
-<td>11</td>
-<td>34,1</td>
+<td>42º26'3,21&quot;</td>
+<td>80º5'4,90&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>17,7</td>
-<td>45</td>
-<td>11</td>
-<td>24,5</td>
+<td>42º26'0,48&quot;</td>
+<td>80º5'4,94&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>10,5</td>
-<td>45</td>
-<td>11</td>
-<td>24,5</td>
+<td>42º26'0,40&quot;</td>
+<td>80º4'54,27&quot;</td>
 </tr>
 <tr>
-<td rowspan="8">Алматинская</td>
 <td rowspan="4">5</td>
+<td rowspan="4">Участок Оспан-2</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>10,5</td>
-<td>45</td>
-<td>11</td>
-<td>24,5</td>
-<td rowspan="4">1,351</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º26'0,40&quot;</td>
+<td>80º4'39,11&quot;</td>
+<td rowspan="4">0,984</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>13,5</td>
-<td>45</td>
-<td>11</td>
-<td>24,5</td>
+<td>42º26'3,10&quot;</td>
+<td>80º4'39,07&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>13,5</td>
-<td>45</td>
-<td>11</td>
-<td>17,8</td>
+<td>42º26'3,07&quot;</td>
+<td>80º4'44,28&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>10,5</td>
-<td>45</td>
-<td>11</td>
-<td>17,8</td>
+<td>42º26'0,38&quot;</td>
+<td>80º4'44,24&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">5а</td>
-<td>1</td>
-<td>79</td>
-<td>24</td>
-<td>7,0</td>
-<td>45</td>
-<td>11</td>
-<td>17,8</td>
-<td rowspan="4">1,505</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>79</td>
-<td>24</td>
-<td>11,3</td>
-<td>45</td>
-<td>11</td>
-<td>17,8</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>24</td>
-<td>11,3</td>
-<td>45</td>
-<td>11</td>
-<td>12,6</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>24</td>
-<td>7,0</td>
-<td>45</td>
-<td>11</td>
-<td>12,6</td>
-</tr>
-<tr>
-<td rowspan="8">Алматинская</td>
 <td rowspan="4">6</td>
+<td rowspan="4">Участок Санжар-1</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>2,7</td>
-<td>45</td>
-<td>11</td>
-<td>12,6</td>
-<td rowspan="4">4,866</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º26'3,21&quot;</td>
+<td>80º5'4,90&quot;</td>
+<td rowspan="4">1,95</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>8,4</td>
-<td>45</td>
-<td>11</td>
-<td>12,6</td>
+<td>42º26'3,24&quot;</td>
+<td>80º5'15,08&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>8,4</td>
-<td>45</td>
-<td>10</td>
-<td>59,9</td>
+<td>42º26'0,51&quot;</td>
+<td>80º5'15,12&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>2,7</td>
-<td>45</td>
-<td>10</td>
-<td>59,9</td>
+<td>42º26'0,51&quot;</td>
+<td>80º5'4,93&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">6а</td>
+<td rowspan="6">7</td>
+<td rowspan="6">Участок Санжар-2</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>57,8</td>
-<td>45</td>
-<td>10</td>
-<td>59,9</td>
-<td rowspan="4">4,563</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º26'3,10&quot;</td>
+<td>80º4'39,07&quot;</td>
+<td rowspan="6">0,98</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>2,9</td>
-<td>45</td>
-<td>10</td>
-<td>59,9</td>
+<td>42º26'0,40&quot;</td>
+<td>80º4'39,11&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>2,9</td>
-<td>45</td>
-<td>10</td>
-<td>46,6</td>
+<td>42º26'0,40&quot;</td>
+<td>80º4'33,91&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>57,8</td>
-<td>45</td>
-<td>10</td>
-<td>46,6</td>
+<td>42º26'3,08&quot;</td>
+<td>80º4'33,95&quot;</td>
 </tr>
 <tr>
-<td rowspan="8">Алматинская</td>
-<td rowspan="4">7</td>
-<td>1</td>
-<td>79</td>
-<td>23</td>
-<td>40,3</td>
-<td>45</td>
-<td>10</td>
-<td>47,5</td>
-<td rowspan="4">4,614</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>5</td>
+<td>42º24'39&quot;</td>
+<td>80º06'36&quot;</td>
 </tr>
 <tr>
-<td>2</td>
-<td>79</td>
-<td>23</td>
-<td>48,1</td>
-<td>45</td>
-<td>10</td>
-<td>47,5</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>23</td>
-<td>48,1</td>
-<td>45</td>
-<td>10</td>
-<td>38,7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>23</td>
-<td>40,3</td>
-<td>45</td>
-<td>10</td>
-<td>38,7</td>
+<td>6</td>
+<td>42º24'39&quot;</td>
+<td>80º06'43&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">8</td>
+<td rowspan="4">Участок Сывузов</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>36,7</td>
-<td>45</td>
-<td>10</td>
-<td>38,7</td>
-<td rowspan="4">3,977</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'32&quot;</td>
+<td>80º06'43&quot;</td>
+<td rowspan="4">3,9918</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>23</td>
-<td>44,0</td>
-<td>45</td>
-<td>10</td>
-<td>38,7</td>
+<td>42º24'32&quot;</td>
+<td>80º06'36&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>23</td>
-<td>44,0</td>
-<td>45</td>
-<td>10</td>
-<td>30,6</td>
+<td>45º50'58,40&quot;</td>
+<td>80º55'45,14&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>36,7</td>
-<td>45</td>
-<td>10</td>
-<td>30,6</td>
-</tr>
-<tr>
-<td rowspan="8">Алматинская</td>
-<td rowspan="4">8а</td>
-<td>1</td>
-<td>79</td>
-<td>23</td>
-<td>31,9</td>
-<td>45</td>
-<td>10</td>
-<td>30,6</td>
-<td rowspan="4">4,662</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>79</td>
-<td>23</td>
-<td>38,9</td>
-<td>45</td>
-<td>10</td>
-<td>30,6</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>23</td>
-<td>38,9</td>
-<td>45</td>
-<td>10</td>
-<td>20,7</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>23</td>
-<td>31,9</td>
-<td>45</td>
-<td>10</td>
-<td>20,7</td>
+<td>45º50'39,04&quot;</td>
+<td>80º55'59,17&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">9</td>
+<td rowspan="4">Участок Суходджаев</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>16,8</td>
-<td>45</td>
-<td>8</td>
-<td>13,2</td>
-<td rowspan="4">4,748</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'28&quot;</td>
+<td>80º06'36&quot;</td>
+<td rowspan="4">3,9461</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>24,0</td>
-<td>45</td>
-<td>8</td>
-<td>13,2</td>
+<td>42º24'28&quot;</td>
+<td>80º06'28&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>24,0</td>
-<td>45</td>
-<td>8</td>
-<td>3,4</td>
+<td>42º24'30&quot;</td>
+<td>80º06'28&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>16,8</td>
-<td>45</td>
-<td>8</td>
-<td>3,4</td>
-</tr>
-<tr>
-<td rowspan="8">Алматинская</td>
-<td rowspan="4">9а</td>
-<td>1</td>
-<td>79</td>
-<td>24</td>
-<td>23,1</td>
-<td>45</td>
-<td>8</td>
-<td>3,4</td>
-<td rowspan="4">4,739</td>
-<td rowspan="4">Свободен от недропользования</td>
-</tr>
-<tr>
-<td>2</td>
-<td>79</td>
-<td>24</td>
-<td>31,1</td>
-<td>45</td>
-<td>8</td>
-<td>3,4</td>
-</tr>
-<tr>
-<td>3</td>
-<td>79</td>
-<td>24</td>
-<td>31,1</td>
-<td>45</td>
-<td>7</td>
-<td>54,6</td>
-</tr>
-<tr>
-<td>4</td>
-<td>79</td>
-<td>24</td>
-<td>23,1</td>
-<td>45</td>
-<td>7</td>
-<td>54,6</td>
+<td>42º24'30&quot;</td>
+<td>80º06'28&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">10</td>
+<td rowspan="4">Участок Ушуров</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>44,7</td>
-<td>45</td>
-<td>8</td>
-<td>24,2</td>
-<td rowspan="4">3,938</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'24&quot;</td>
+<td>80º06'28&quot;</td>
+<td rowspan="4">3,3805</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>24,2</td>
+<td>42º24'24&quot;</td>
+<td>80º06'20&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
+<td>42º24'43&quot;</td>
+<td>80º06'43&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>44,7</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
+<td>42º24'43&quot;</td>
+<td>80º06'52&quot;</td>
 </tr>
 <tr>
-<td rowspan="8">Алматинская</td>
 <td rowspan="4">11</td>
+<td rowspan="4">Участок Бабазов</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>24,2</td>
-<td rowspan="4">4,481</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'37&quot;</td>
+<td>80º06'52&quot;</td>
+<td rowspan="4">3,8014</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>8</td>
-<td>24,2</td>
+<td>42º24'37&quot;</td>
+<td>80º06'43&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
+<td>42º25'44&quot;</td>
+<td>80º10'39&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
+<td>42º25'45&quot;</td>
+<td>80º10'42&quot;</td>
 </tr>
 <tr>
 <td rowspan="4">12</td>
+<td rowspan="4">Участок Байжанов</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
-<td rowspan="4">4,929</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º25'40&quot;</td>
+<td>80º10'45&quot;</td>
+<td rowspan="4">2</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>8</td>
-<td>15,2</td>
+<td>42º25'39&quot;</td>
+<td>80º10'42&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>8</td>
-<td>5,3</td>
+<td>4550'55,01&quot;</td>
+<td>81º28'4,73&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>51,2</td>
-<td>45</td>
-<td>8</td>
-<td>5,3</td>
+<td>45º50'53,51&quot;</td>
+<td>81º28'8,18&quot;</td>
 </tr>
 <tr>
-<td rowspan="8">Алматинская</td>
 <td rowspan="4">13</td>
+<td rowspan="4">Участок Караколь</td>
 <td>1</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>8</td>
-<td>5,3</td>
-<td rowspan="4">4,982</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º34'24,68&quot;</td>
+<td>79º55'51,76&quot;</td>
+<td rowspan="4">4,987</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>6,0</td>
-<td>45</td>
-<td>8</td>
-<td>5,3</td>
+<td>42º34'26,15&quot;</td>
+<td>79º55'54,8&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>6,0</td>
-<td>45</td>
-<td>7</td>
-<td>55,3</td>
+<td>42º34'7,85&quot;</td>
+<td>79º56'9,36&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>23</td>
-<td>58,6</td>
-<td>45</td>
-<td>7</td>
-<td>55,3</td>
+<td>42º34'6,57&quot;</td>
+<td>79º56'6,88&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">14</td>
+<td rowspan="8">14</td>
+<td rowspan="8">Участок Кайрат</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>6,0</td>
-<td>45</td>
-<td>7</td>
-<td>55,3</td>
-<td rowspan="4">4,859</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º25'23&quot;</td>
+<td>80º5'34,4&quot;</td>
+<td rowspan="8">5</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>15,5</td>
-<td>45</td>
-<td>7</td>
-<td>55,3</td>
+<td>42º25'21&quot;</td>
+<td>80º5'44&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>15,5</td>
-<td>45</td>
-<td>7</td>
-<td>47,7</td>
+<td>42º25'22,2&quot;</td>
+<td>80º5'51,5&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>6,0</td>
-<td>45</td>
-<td>7</td>
-<td>47,7</td>
+<td>42º25'19,83&quot;</td>
+<td>80º5'51,76&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">Алматинская</td>
+<td>5</td>
+<td>42º25'17,6&quot;</td>
+<td>80º5'42&quot;</td>
+</tr>
+<tr>
+<td>6</td>
+<td>42º25'19,4&quot;</td>
+<td>80º5'36,5&quot;</td>
+</tr>
+<tr>
+<td>7</td>
+<td>42º25'16&quot;</td>
+<td>80º5'33,2&quot;</td>
+</tr>
+<tr>
+<td>8</td>
+<td>42º25'18,36&quot;</td>
+<td>80º5'30,14&quot;</td>
+</tr>
+<tr>
 <td rowspan="4">15</td>
+<td rowspan="4">Участок Жаркулак-1</td>
 <td>1</td>
-<td>79</td>
-<td>24</td>
-<td>21,3</td>
-<td>45</td>
-<td>7</td>
-<td>51,8</td>
-<td rowspan="4">4,717</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'8,36&quot;</td>
+<td>80º8'35,97&quot;</td>
+<td rowspan="4">3,0</td>
 </tr>
 <tr>
 <td>2</td>
-<td>79</td>
-<td>24</td>
-<td>41,9</td>
-<td>45</td>
-<td>7</td>
-<td>51,8</td>
+<td>42º24'3,29&quot;</td>
+<td>80º8'47,16&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>79</td>
-<td>24</td>
-<td>41,9</td>
-<td>45</td>
-<td>7</td>
-<td>48,4</td>
+<td>42º24'0,54&quot;</td>
+<td>80º8'44,85&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>79</td>
-<td>24</td>
-<td>21,3</td>
-<td>45</td>
-<td>7</td>
-<td>48,4</td>
+<td>42º24'5,61&quot;</td>
+<td>80º8'43,65&quot;</td>
 </tr>
 <tr>
-<td rowspan="4">9</td>
-<td rowspan="4">Участок Санжар</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
+<td rowspan="4">16</td>
+<td rowspan="4">Участок Жаркулак-2</td>
 <td>1</td>
-<td>42</td>
-<td>26</td>
-<td>00,40</td>
-<td>80</td>
-<td>04</td>
-<td>44,24</td>
-<td rowspan="4">2,1</td>
-<td rowspan="4">-</td>
-<td rowspan="4">Свободен от недропользования</td>
+<td>42º24'41,02&quot;</td>
+<td>80º8'13,03&quot;</td>
+<td rowspan="4">3,0</td>
 </tr>
 <tr>
 <td>2</td>
-<td>42</td>
-<td>26</td>
-<td>00,40</td>
-<td>80</td>
-<td>04</td>
-<td>54,28</td>
+<td>42º24'31,30&quot;</td>
+<td>80º8'13,16&quot;</td>
 </tr>
 <tr>
 <td>3</td>
-<td>42</td>
-<td>26</td>
-<td>03,08</td>
-<td>80</td>
-<td>04</td>
-<td>44,24</td>
+<td>42º24'31,30&quot;</td>
+<td>80º8'08,78&quot;</td>
 </tr>
 <tr>
 <td>4</td>
-<td>42</td>
-<td>26</td>
-<td>03,13</td>
-<td>80</td>
-<td>04</td>
-<td>54,24</td>
+<td>42º24'41,02&quot;</td>
+<td>80º8'08,66&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">17</td>
+<td rowspan="4">Участок 1</td>
+<td>1</td>
+<td>42º25'25,65&quot;</td>
+<td>80º5'23,24&quot;</td>
+<td rowspan="4">4,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º25'32,04&quot;</td>
+<td>80º5'28,86&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º25'31,16&quot;</td>
+<td>80º5'37,07&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º25'22,64&quot;</td>
+<td>80º5'26,91&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">18</td>
+<td rowspan="4">Участок 2</td>
+<td>1</td>
+<td>42º25'20,83&quot;</td>
+<td>80º5'25,21&quot;</td>
+<td rowspan="4">3,2</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º25'27,96&quot;</td>
+<td>80º5'32,62&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º25'25,5&quot;</td>
+<td>80º5'36,29&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º25'18,18&quot;</td>
+<td>80º5'29,17&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">19</td>
+<td rowspan="4">Участок 3</td>
+<td>1</td>
+<td>42º25'16,77&quot;</td>
+<td>80º5'21,13&quot;</td>
+<td rowspan="4">4,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º25'20,83&quot;</td>
+<td>80º5'25,21&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º25'15,47&quot;</td>
+<td>80º5'33,14&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º25'11,16&quot;</td>
+<td>80º5'28,55&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">20</td>
+<td rowspan="4">Участок 4</td>
+<td>1</td>
+<td>42º25'11,16&quot;</td>
+<td>80º5'28,55&quot;</td>
+<td rowspan="4">4,0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º25'18,94&quot;</td>
+<td>80º5'36,94&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º25'17,45&quot;</td>
+<td>80º5'42,46&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º25'8,89&quot;</td>
+<td>80º5'32,48&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">21</td>
+<td rowspan="4">Участок 5</td>
+<td>1</td>
+<td>42º25'8,89&quot;</td>
+<td>80º5'32,48&quot;</td>
+<td rowspan="4">4,8</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º25'17,45&quot;</td>
+<td>80º5'42,46&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º25'15,79&quot;</td>
+<td>80º5'47,92&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º25'6,51&quot;</td>
+<td>80º5'38,07&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">22</td>
+<td rowspan="4">Участок Баянколь-1</td>
+<td>1</td>
+<td>42º23'6,98446&quot;</td>
+<td>80º9'50,686056&quot;</td>
+<td rowspan="4">2,870</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º23'10,2754&quot;</td>
+<td>80º9'54,673812&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º23'6&quot;</td>
+<td>80º9'59&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º23'0&quot;</td>
+<td>80º9'59&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">23</td>
+<td rowspan="4">Участок Баянколь-2</td>
+<td>1</td>
+<td>42º24'21&quot;</td>
+<td>80º8'2&quot;</td>
+<td rowspan="4">4,407</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º24'24&quot;</td>
+<td>80º8'6&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º24'11&quot;</td>
+<td>80º8'15&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º24'9&quot;</td>
+<td>80º8'13&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">24</td>
+<td rowspan="4">Участок Баянколь-3</td>
+<td>1</td>
+<td>42º24'40,2198&quot;</td>
+<td>80º7'55,79346&quot;</td>
+<td rowspan="4">2,728</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º24'40,1387&quot;</td>
+<td>80º8'1,169556&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º24'28,4966&quot;</td>
+<td>80º8'1,495648&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º24'27,0484&quot;</td>
+<td>80º8'0,92796&quot;</td>
+</tr>
+<tr>
+<td rowspan="4">25</td>
+<td rowspan="4">Участок Баянколь-5</td>
+<td>1</td>
+<td>42º23'49,046&quot;</td>
+<td>80º8'48,516288&quot;</td>
+<td rowspan="4">4,945</td>
+</tr>
+<tr>
+<td>2</td>
+<td>42º23'52,9106&quot;</td>
+<td>80º8'53,418012&quot;</td>
+</tr>
+<tr>
+<td>3</td>
+<td>42º23'46,0301&quot;</td>
+<td>80º9'3,314016&quot;</td>
+</tr>
+<tr>
+<td>4</td>
+<td>42º23'42,2506&quot;</td>
+<td>80º8'59,254008&quot;</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td rowspan="2"></td>
-<td rowspan="2">Наименование площади</td>
-<td rowspan="2">Область</td>
-<td rowspan="2">№ участка</td>
-<td rowspan="2">№ точки</td>
-<td colspan="6">Географические координаты участка</td>
-</tr>
-<tr>
-<td colspan="3">Восточная долгота</td>
-<td colspan="3">Северная широта</td>
-</tr>
-<tr>
-<td rowspan="4">10</td>
-<td rowspan="4">Участок Оспан-1</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>4</td>
-<td>54,23</td>
-<td>42</td>
-<td>26</td>
-<td>3,13</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>5</td>
-<td>4,90</td>
-<td>42</td>
-<td>26</td>
-<td>3,21</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>5</td>
-<td>4,94</td>
-<td>42</td>
-<td>26</td>
-<td>0,48</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>4</td>
-<td>54,27</td>
-<td>42</td>
-<td>26</td>
-<td>0,40</td>
-</tr>
-<tr>
-<td rowspan="4">11</td>
-<td rowspan="4">Участок Оспан-2</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>4</td>
-<td>39,11</td>
-<td>42</td>
-<td>26</td>
-<td>0,40</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>4</td>
-<td>39,07</td>
-<td>42</td>
-<td>26</td>
-<td>3,10</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>4</td>
-<td>44,28</td>
-<td>42</td>
-<td>26</td>
-<td>3,07</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>4</td>
-<td>44,24</td>
-<td>42</td>
-<td>26</td>
-<td>0,38</td>
-</tr>
-<tr>
-<td rowspan="4">12</td>
-<td rowspan="4">Участок Санжар-1</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>5</td>
-<td>4,90</td>
-<td>42</td>
-<td>26</td>
-<td>3,21</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>5</td>
-<td>15,08</td>
-<td>42</td>
-<td>26</td>
-<td>3,24</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>5</td>
-<td>15,12</td>
-<td>42</td>
-<td>26</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>5</td>
-<td>4,93</td>
-<td>42</td>
-<td>26</td>
-<td>0,51</td>
-</tr>
-<tr>
-<td rowspan="4">13</td>
-<td rowspan="4">Участок Санжар-2</td>
-<td rowspan="4">Алматинская</td>
-<td rowspan="4">1</td>
-<td>1</td>
-<td>80</td>
-<td>4</td>
-<td>39,07</td>
-<td>42</td>
-<td>26</td>
-<td>3,10</td>
-</tr>
-<tr>
-<td>2</td>
-<td>80</td>
-<td>4</td>
-<td>39,11</td>
-<td>42</td>
-<td>26</td>
-<td>0,40</td>
-</tr>
-<tr>
-<td>3</td>
-<td>80</td>
-<td>4</td>
-<td>33,91</td>
-<td>42</td>
-<td>26</td>
-<td>0,40</td>
-</tr>
-<tr>
-<td>4</td>
-<td>80</td>
-<td>4</td>
-<td>33,95</td>
-<td>42</td>
-<td>26</td>
-<td>3,08</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>06</td>
-<td>36</td>
-<td>42</td>
-<td>24</td>
-<td>39</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>06</td>
-<td>43</td>
-<td>42</td>
-<td>24</td>
-<td>39</td>
-</tr>
-<tr>
-<td>14</td>
-<td>Участок Сывузов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>06</td>
-<td>43</td>
-<td>42</td>
-<td>24</td>
-<td>32</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>06</td>
-<td>36</td>
-<td>42</td>
-<td>24</td>
-<td>32</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>55</td>
-<td>45,14</td>
-<td>45</td>
-<td>50</td>
-<td>58,40</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>55</td>
-<td>59,17</td>
-<td>45</td>
-<td>50</td>
-<td>39,04</td>
-</tr>
-<tr>
-<td>15</td>
-<td>
-Участок
-Орта-Тентек
-</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>55</td>
-<td>57,10</td>
-<td>45</td>
-<td>50</td>
-<td>38,31</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>55</td>
-<td>43,08</td>
-<td>45</td>
-<td>50</td>
-<td>57,69</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>06</td>
-<td>43</td>
-<td>42</td>
-<td>24</td>
-<td>35</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>06</td>
-<td>36</td>
-<td>42</td>
-<td>24</td>
-<td>35</td>
-</tr>
-<tr>
-<td>16</td>
-<td>Участок Суходджаев</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>06</td>
-<td>36</td>
-<td>42</td>
-<td>24</td>
-<td>28</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>06</td>
-<td>28</td>
-<td>42</td>
-<td>24</td>
-<td>28</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>06</td>
-<td>28</td>
-<td>42</td>
-<td>24</td>
-<td>30</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>06</td>
-<td>28</td>
-<td>42</td>
-<td>24</td>
-<td>30</td>
-</tr>
-<tr>
-<td>17</td>
-<td>Участок Ушуров</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>06</td>
-<td>28</td>
-<td>42</td>
-<td>24</td>
-<td>24</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>06</td>
-<td>20</td>
-<td>42</td>
-<td>24</td>
-<td>24</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>06</td>
-<td>43</td>
-<td>42</td>
-<td>24</td>
-<td>43</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>06</td>
-<td>52</td>
-<td>42</td>
-<td>24</td>
-<td>43</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Участок Бабазов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>06</td>
-<td>52</td>
-<td>42</td>
-<td>24</td>
-<td>37</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>06</td>
-<td>43</td>
-<td>42</td>
-<td>24</td>
-<td>37</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>10</td>
-<td>39</td>
-<td>42</td>
-<td>25</td>
-<td>44</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>10</td>
-<td>42</td>
-<td>42</td>
-<td>25</td>
-<td>45</td>
-</tr>
-<tr>
-<td>19</td>
-<td>Участок Байжанов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>10</td>
-<td>45</td>
-<td>42</td>
-<td>25</td>
-<td>40</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>10</td>
-<td>42</td>
-<td>42</td>
-<td>25</td>
-<td>39</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>81</td>
-<td>28</td>
-<td>4,73</td>
-<td>45</td>
-<td>50</td>
-<td>55,01</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>81</td>
-<td>28</td>
-<td>8,18</td>
-<td>45</td>
-<td>50</td>
-<td>53,51</td>
-</tr>
-<tr>
-<td>20</td>
-<td>Участок Жаныбек</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>81</td>
-<td>27</td>
-<td>56,51</td>
-<td>45</td>
-<td>50</td>
-<td>40,50</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>81</td>
-<td>27</td>
-<td>52,00</td>
-<td>45</td>
-<td>50</td>
-<td>42,00</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>81</td>
-<td>28</td>
-<td>25,93</td>
-<td>45</td>
-<td>51</td>
-<td>2,93</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>81</td>
-<td>28</td>
-<td>28,69</td>
-<td>45</td>
-<td>50</td>
-<td>59,95</td>
-</tr>
-<tr>
-<td>21</td>
-<td>Участок Дуйсенов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>81</td>
-<td>28</td>
-<td>11,54</td>
-<td>45</td>
-<td>50</td>
-<td>52,21</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>81</td>
-<td>28</td>
-<td>8,78</td>
-<td>45</td>
-<td>50</td>
-<td>55,17</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>56</td>
-<td>47,56</td>
-<td>45</td>
-<td>50</td>
-<td>28,89</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>80</td>
-<td>57</td>
-<td>12,69</td>
-<td>45</td>
-<td>50</td>
-<td>9,95</td>
-</tr>
-<tr>
-<td>22</td>
-<td>Участок Колбасов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>80</td>
-<td>57</td>
-<td>10,92</td>
-<td>45</td>
-<td>50</td>
-<td>8,81</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>56</td>
-<td>45,77</td>
-<td>45</td>
-<td>50</td>
-<td>27,74</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>79</td>
-<td>23</td>
-<td>15,0</td>
-<td>45</td>
-<td>09</td>
-<td>12,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
-<td>79</td>
-<td>23</td>
-<td>15,0</td>
-<td>45</td>
-<td>09</td>
-<td>20,0</td>
-</tr>
-<tr>
-<td>23</td>
-<td>Участок Жаканбаев</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>3</td>
-<td>79</td>
-<td>23</td>
-<td>24,0</td>
-<td>45</td>
-<td>09</td>
-<td>20,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>79</td>
-<td>23</td>
-<td>24,0</td>
-<td>45</td>
-<td>09</td>
-<td>12,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>79</td>
-<td>23</td>
-<td>19,0</td>
-<td>45</td>
-<td>09</td>
-<td>05,0</td>
-</tr>
-<tr>
-<td>24</td>
-<td>Участок Хусаинов</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>2</td>
-<td>79</td>
-<td>23</td>
-<td>19,0</td>
-<td>45</td>
-<td>09</td>
-<td>12,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td>79</td>
-<td>23</td>
-<td>30,0</td>
-<td>45</td>
-<td>09</td>
-<td>12,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>79</td>
-<td>23</td>
-<td>30,0</td>
-<td>45</td>
-<td>09</td>
-<td>05,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>79</td>
-<td>23</td>
-<td>17,0</td>
-<td>45</td>
-<td>08</td>
-<td>43,0</td>
-</tr>
-<tr>
-<td></td>
-<td>
-Участок
-Ахметов
-</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>2</td>
-<td>79</td>
-<td>23</td>
-<td>17,0</td>
-<td>45</td>
-<td>08</td>
-<td>50,0</td>
-</tr>
-<tr>
-<td>25</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td>79</td>
-<td>23</td>
-<td>28,0</td>
-<td>45</td>
-<td>08</td>
-<td>50,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>79</td>
-<td>23</td>
-<td>28,0</td>
-<td>45</td>
-<td>08</td>
-<td>43,0</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1</td>
-<td>80</td>
-<td>56</td>
-<td>10,9</td>
-<td>45</td>
-<td>57</td>
-<td>10,0</td>
-</tr>
-<tr>
-<td>26</td>
-<td>Участок АБУ-ЗАРР</td>
-<td>Алматинская</td>
-<td>1</td>
-<td>2</td>
-<td>80</td>
-<td>56</td>
-<td>14,0</td>
-<td>45</td>
-<td>57</td>
-<td>09,1</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td>80</td>
-<td>55</td>
-<td>59,4</td>
-<td>45</td>
-<td>56</td>
-<td>49,4</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td>80</td>
-<td>56</td>
-<td>00,7</td>
-<td>45</td>
-<td>56</td>
-<td>49,4</td>
-</tr>
-</table>
+Примечание:
 
-продолжение таблицы
+º – градус;
 
-<table>
-<tr>
-<td>Площадь участка (га)</td>
-<td>Наименование блока 1' на 1'</td>
-<td>Описание</td>
-</tr>
-<tr>
-<td>2,053</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td>0,984</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td>1,95</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td>0,98</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,9918</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,3</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,9461</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,3805</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,8014</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,4</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4,8</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4,2</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4,9</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5,0</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5,0</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3,282</td>
-<td>-</td>
-<td>Свободен от недропользования</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
+' – минута;
+
+" – секунда.
