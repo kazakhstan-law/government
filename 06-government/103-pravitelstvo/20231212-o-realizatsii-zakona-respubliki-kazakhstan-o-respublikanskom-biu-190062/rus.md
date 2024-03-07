@@ -1,5 +1,5 @@
 ---
-version_id: '190062_680837'
+version_id: '190062_692401'
 act_code: '190062'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2023-12-12
+version_date: 2024-03-07
 registry_number: '190062'
-source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
+caused_by:
+  code: '194760'
+  title: Об увеличении годовых плановых назначений соответствующих бюджетных программ за счет остатков бюджетных средств 2023 года и использовании (доиспользовании) в 2024 году неиспользованных (недоиспользованных) сумм целевых трансфертов на развитие, выделенных из республиканского бюджета в 2023 году, и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
+  link: https://zan.gov.kz/client/#!/doc/194760/rus
+source: https://zan.gov.kz/client/#!/doc/190062/rus/07.03.2024
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -33,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 
       поступлениям трансфертов – 4 070 777 706 тысяч тенге;
 
-   2) затраты – 23 316 158 487 тысяч тенге;
+   2) затраты – 23 380 144 061 тысяча тенге;
 
    3) чистое бюджетное кредитование – 363 477 575 тысяч тенге, в том числе:
 
@@ -45,11 +49,13 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 
       приобретение финансовых активов – 49 929 694 тысячи тенге;
 
-   5) дефицит бюджета – -3 534 767 762 тысячи тенге, или 2,6 процента к валовому внутреннему продукту страны;
+   5) дефицит бюджета – -3 598 753 336 тысяч тенге, или 2,7 процента к валовому внутреннему продукту страны;
 
-   6) ненефтяной дефицит бюджета – -8 768 687 762 тысячи тенге, или 6,5 процента к валовому внутреннему продукту страны;
+   6) ненефтяной дефицит бюджета – -8 832 673 336 тысяч тенге, или 6,5 процента к валовому внутреннему продукту страны;
 
-   7) финансирование дефицита бюджета – 3 534 767 762 тысячи тенге.
+   7) финансирование дефицита бюджета – 3 598 753 336 тысяч тенге.
+
+> *Сноска. Пункт 1 в редакции постановления Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024).*
 
 2. Утвердить:
 
@@ -133,6 +139,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
+> *Сноска. Приложение 1 с изменениями, внесенными постановлением Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
 <td colspan="22">Функциональная группа</td>
@@ -163,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Всего:</th>
-<th colspan="3">2 306 737 410</th>
+<th colspan="3">2 310 384 269</th>
 <th colspan="4">996 572 394</th>
 <th colspan="4">105 457 677</th>
 </tr>
@@ -173,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">I. Республиканские бюджетные инвестиционные проекты</th>
-<th colspan="3">279 140 260</th>
+<th colspan="3">282 787 119</th>
 <th colspan="4">116 475 775</th>
 <th colspan="4">72 432 302</th>
 </tr>
@@ -183,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Государственные услуги общего характера</th>
-<th colspan="3">44 184 998</th>
+<th colspan="3">44 616 377</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -246,7 +254,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство финансов Республики Казахстан</th>
-<th colspan="3">43 276 525</th>
+<th colspan="3">43 707 904</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -256,7 +264,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">205</td>
 <td colspan="4"></td>
 <td colspan="3">Модернизация и техническое дооснащение пунктов пропуска на границе</td>
-<td colspan="3">43 276 525</td>
+<td colspan="3">43 707 904</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -311,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">030</td>
 <td></td>
 <td colspan="2">За счет средств республиканского бюджета</td>
-<td colspan="3">427 081</td>
+<td colspan="3">858 460</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -333,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Прочие</th>
-<th colspan="3">427 081</th>
+<th colspan="3">858 460</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -344,7 +352,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Модернизация и техническое дооснащение пунктов пропуска, расположенных на казахстанском участке таможенной границы Евразийского экономического союза и Главного диспетчерского управления Комитета государственных доходов Министерства финансов Республики Казахстан</td>
-<td colspan="3">427 081</td>
+<td colspan="3">858 460</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -429,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Оборона</th>
-<th colspan="3">53 880 893</th>
+<th colspan="3">54 126 523</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -439,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство по чрезвычайным ситуациям Республики Казахстан</th>
-<th colspan="3">31 162 381</th>
+<th colspan="3">31 408 011</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -449,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">006</td>
 <td colspan="4"></td>
 <td colspan="3">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
-<td colspan="3">31 162 381</td>
+<td colspan="3">31 408 011</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -460,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">100</td>
 <td></td>
 <td colspan="2">Строительство и реконструкция объектов защиты от чрезвычайных ситуаций природного и техногенного характера</td>
-<td colspan="3">31 162 381</td>
+<td colspan="3">31 408 011</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -482,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Акмолинская область</th>
-<th colspan="3">20 173 556</th>
+<th colspan="3">20 397 449</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -493,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Для служебного пользования</td>
-<td colspan="3">20 173 556</td>
+<td colspan="3">20 397 449</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -504,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Область Жетісу</th>
-<th colspan="3">10 988 825</th>
+<th colspan="3">11 010 562</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -515,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Строительство защитных сооружений на реке Хоргос в районе Международного центра приграничного сотрудничества и зданий таможни «Коргос» (Хоргос-1)</td>
-<td colspan="3">4 201 696</td>
+<td colspan="3">4 223 433</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -644,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</th>
-<th colspan="3">6 506 446</th>
+<th colspan="3">7 482 994</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -654,7 +662,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство внутренних дел Республики Казахстан</th>
-<th colspan="3">2 012 886</th>
+<th colspan="3">2 022 423</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -724,12 +732,133 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 </tr>
 <tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4">077</td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Организация деятельности уголовно-исполнительной системы</td>
+<td colspan="3">9 537</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">102</td>
+<td></td>
+<td colspan="2">Строительство, реконструкция объектов уголовно-исполнительной системы</td>
+<td colspan="3">9 537</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">в том числе инвестиционные проекты:</td>
+<td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Восточно-Казахстанская область</td>
+<td colspan="3">2 854</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Корректировка ПСД с получением заключения государственной экспертизы по объекту «Следственный изолятор на 1500 мест по ул. Грейдерная в г. Усть-Каменогорск, ВКО»</td>
+<td colspan="3">2 854</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Карагандинская область</td>
+<td colspan="3">2 095</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Разработка ПСД с получением заключения государственной экспертизы по объекту «Строительство трех жилых блоков (с установкой модульной котельной) с общим лимитом наполнения 276 мест в «Учреждении АК159/6» из типового проекта «Специализированное исправительное учреждение на 1500 мест» для ІВ, IIIА климатических подрайонов с обычными геологическими условиями ТП РК 1500 СИУ (ІВ, IIIА)-2.2-2012»</td>
+<td colspan="3">2 095</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Костанайская область</td>
+<td colspan="3">1 243</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Разработка ПСД с получением заключения государственной экспертизы по объекту «Строительство жилого блока с общим лимитом наполнения 92 места в РГУ «Учреждение УК-161/3» КУИС МВД РК из типового проекта «Специализированное исправительное учреждение на 1500 мест» для ІВ, IIIА климатических подрайонов с обычными геологическими условиями ТП РК 1500 СИУ (ІВ, IIIА)-2.2-2012»</td>
+<td colspan="3">1 243</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Мангистауская область</td>
+<td colspan="3">3 345</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Разработка ПСД с получением заключения государственной экспертизы по объекту «Строительство специализированного исправительного учреждения со смешанным видом содержания (средней и максимальной безопасности) с лимитом наполнения 840 мест на базе учреждения ГМ-172/6 в г. Актау Мангистауской области. Привязка зданий и сооружений» из типового проекта «Специализированное исправительное учреждение на 1500 мест» для ІVA, IVГ климатических подрайонов с обычными геологическими условиями ТП РК 1500 СИУ (ІVA, IVГ) - 2.2-2012»</td>
+<td colspan="3">3 345</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th colspan="10"></th>
 <th colspan="4">501</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Верховный Суд Республики Казахстан</th>
-<th colspan="3">4 046 487</th>
+<th colspan="3">5 013 498</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -793,7 +922,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">006</td>
 <td colspan="4"></td>
 <td colspan="3">Строительство объектов органов судебной системы</td>
-<td colspan="3">3 722 327</td>
+<td colspan="3">4 689 338</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -849,6 +978,28 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td></td>
 <td colspan="2">Строительство здания суда на 3 состава в с. Новоишимское района им. Г. Мусрепова Северо-Казахстанской области. Корректировка</td>
 <td colspan="3">671 943</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Туркестанская область</td>
+<td colspan="3">967 011</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство административного здания № 1 в городе Туркестане Туркестанской области</td>
+<td colspan="3">967 011</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -1113,7 +1264,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Культура, спорт, туризм и информационное пространство</th>
-<th colspan="3">4 033 337</th>
+<th colspan="3">4 534 480</th>
 <th colspan="4">14 260 662</th>
 <th colspan="4">15 370 741</th>
 </tr>
@@ -1124,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Министерство туризма и спорта Республики Казахстан</th>
-<th colspan="3">142 151</th>
+<th colspan="3">643 294</th>
 <th colspan="4">14 260 662</th>
 <th colspan="4">15 370 741</th>
 </tr>
@@ -1134,7 +1285,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">036</td>
 <td colspan="4"></td>
 <td colspan="3">Развитие спорта высших достижений</td>
-<td colspan="3">142 151</td>
+<td colspan="3">643 294</td>
 <td colspan="4">14 260 662</td>
 <td colspan="4">15 370 741</td>
 </tr>
@@ -1145,7 +1296,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">101</td>
 <td></td>
 <td colspan="2">Строительство, реконструкция объектов спорта за счет средств республиканского бюджета</td>
-<td colspan="3">142 151</td>
+<td colspan="3">643 294</td>
 <td colspan="4">14 260 662</td>
 <td colspan="4">15 370 741</td>
 </tr>
@@ -1167,7 +1318,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">город Астана</th>
-<th colspan="3">142 151</th>
+<th colspan="3">643 294</th>
 <th colspan="4">14 260 662</th>
 <th colspan="4">15 370 741</th>
 </tr>
@@ -1178,7 +1329,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Строительство Национального университета спорта Республики Казахстан на базе «Многофункционального спортивного комплекса «Центр олимпийской подготовки в г. Астане». I очередь (без наружных инженерных сетей)</td>
-<td colspan="3">142 151</td>
+<td colspan="3">618 621</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -1189,7 +1340,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Строительство Национального университета спорта Республики Казахстан на базе «Многофункционального спортивного комплекса «Центр олимпийской подготовки в г. Астане». II очередь</td>
-<td colspan="3"></td>
+<td colspan="3">24 673</td>
 <td colspan="4">14 260 662</td>
 <td colspan="4">15 370 741</td>
 </tr>
@@ -1263,7 +1414,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</th>
-<th colspan="3">729 000</th>
+<th colspan="3">2 221 159</th>
 <th colspan="4">36 664 299</th>
 <th colspan="4"></th>
 </tr>
@@ -1273,7 +1424,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство водных ресурсов и ирригации Республики Казахстан</th>
-<th colspan="3">729 000</th>
+<th colspan="3">2 221 159</th>
 <th colspan="4">36 664 299</th>
 <th colspan="4"></th>
 </tr>
@@ -1283,7 +1434,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">254</td>
 <td colspan="4"></td>
 <td colspan="3">Эффективное управление водными ресурсами</td>
-<td colspan="3">729 000</td>
+<td colspan="3">2 221 159</td>
 <td colspan="4">36 664 299</td>
 <td colspan="4"></td>
 </tr>
@@ -1294,7 +1445,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4">113</td>
 <td></td>
 <td colspan="2">Строительство и реконструкция систем водоснабжения, гидротехнических сооружений за счет средств республиканского бюджета</td>
-<td colspan="3">729 000</td>
+<td colspan="3">2 221 159</td>
 <td colspan="4">36 664 299</td>
 <td colspan="4"></td>
 </tr>
@@ -1360,7 +1511,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Алматинская область</th>
-<th colspan="3"></th>
+<th colspan="3">132 089</th>
 <th colspan="4">672 159</th>
 <th colspan="4"></th>
 </tr>
@@ -1376,13 +1527,24 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 </tr>
 <tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство Каскеленского группового водовода в Карасайском районе Алматинской области. I очередь (2-й пусковой комплекс) строительства. Корректировка</td>
+<td colspan="3">132 089</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th colspan="10"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Атырауская область</th>
-<th colspan="3"></th>
+<th colspan="3">2 740</th>
 <th colspan="4">1 970 251</th>
 <th colspan="4"></th>
 </tr>
@@ -1409,13 +1571,46 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 </tr>
 <tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Реконструкция канала «Аксай» Индерского района Атырауской области</td>
+<td colspan="3">2 740</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Жамбылская область</td>
+<td colspan="3">1 828</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">РП «Реконструкция и техническое перевооружение сооружений Ынталинского водохранилища на реке Шабакты Сарысуйского района»</td>
+<td colspan="3">1 828</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th colspan="10"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Западно-Казахстанская область</th>
-<th colspan="3"></th>
+<th colspan="3">775</th>
 <th colspan="4">1 092 536</th>
 <th colspan="4"></th>
 </tr>
@@ -1431,13 +1626,24 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 </tr>
 <tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Реконструкция Кировского водохранилища в пос. Тоган Акжаикского района Западно-Казахстанской области</td>
+<td colspan="3">775</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th colspan="10"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Кызылординская область</th>
-<th colspan="3"></th>
+<th colspan="3">1 185 729</th>
 <th colspan="4">1 193 621</th>
 <th colspan="4"></th>
 </tr>
@@ -1448,8 +1654,52 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">РП «Строительство ветки подключения Аральск-Токабай-Абай Арало-Сарыбулакского группового водопровода и водоснабжение населенных пунктов Токабай, Абай Аральского района Кызылординской области»</td>
-<td colspan="3"></td>
+<td colspan="3">607 892</td>
 <td colspan="4">1 193 621</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">РП «Реконструкция систем водоснабжения Байкожинского группового водопровода Казалинского района»</td>
+<td colspan="3">2 788</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">РП «Расширение существующего Талапского группового водопровода Жанакорганского района Кызылординской области (бурение 5 новых скважин)»</td>
+<td colspan="3">213 840</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство второй линии магистрального водовода от головного водозабора «Такырколь» до насосной станций №1 в Жанакорганском районе Кызылординской области</td>
+<td colspan="3">315 715</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">РП «Строительство ветки подключения к Косаман-Акбасты Арало-Сарыбулакского группового водопровода и водоснабжение населенного пункта Акбасты Аральского района Кызылординской области»</td>
+<td colspan="3">45 494</td>
+<td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -1503,7 +1753,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Северо-Казахстанская область</th>
-<th colspan="3"></th>
+<th colspan="3">162 373</th>
 <th colspan="4">10 386 946</th>
 <th colspan="4"></th>
 </tr>
@@ -1536,7 +1786,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция аварийных участков Булаевского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="3"></td>
+<td colspan="3">10 730</td>
 <td colspan="4">1 447 414</td>
 <td colspan="4"></td>
 </tr>
@@ -1547,7 +1797,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция аварийных участков Ишимского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="3"></td>
+<td colspan="3">9 530</td>
 <td colspan="4">1 356 734</td>
 <td colspan="4"></td>
 </tr>
@@ -1558,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция Соколовского группового водопровода и строительство разводящих сетей сельских населенных пунктов с подключением. 2-я очередь</td>
-<td colspan="3"></td>
+<td colspan="3">142 113</td>
 <td colspan="4">1 505 826</td>
 <td colspan="4"></td>
 </tr>
@@ -1602,7 +1852,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Туркестанская область</th>
-<th colspan="3"></th>
+<th colspan="3">6 625</th>
 <th colspan="4">5 233 605</th>
 <th colspan="4"></th>
 </tr>
@@ -1613,7 +1863,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">РП «Реконструкция канала «Найман» в Ордабасинском районе Туркестанской области»</td>
-<td colspan="3"></td>
+<td colspan="3">1 593</td>
 <td colspan="4">1 401 049</td>
 <td colspan="4"></td>
 </tr>
@@ -1624,7 +1874,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция магистрального водовода для подпитки Сарыагашского группового водопровода с подключением близлежащих сельских населенных пунктов Сарыагашского района Южно-Казахстанской области. 1-очередь 1-й пусковой комплекс</td>
-<td colspan="3"></td>
+<td colspan="3">3 369</td>
 <td colspan="4">1 632 556</td>
 <td colspan="4"></td>
 </tr>
@@ -1648,6 +1898,17 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td colspan="2">Реконструкция Кызылкумского магистрального канала с автоматизацией водоучета и водораспределения Шардаринского и Арысского районов Южно-Казахстанской области (3-очередь)</td>
 <td colspan="3"></td>
 <td colspan="4">1 000 000</td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Реконструкция Капчагайского водохранилища Байдибекского района ЮКО</td>
+<td colspan="3">1 663</td>
+<td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
@@ -9549,15 +9810,16 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 </tr>
 </table>
 
-> *Для служебного пользования*
-
+> *Для служебного пользования*  
 > *Приложение 2*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2023 года*  
-> *№*
+> *от « 12 » декабря 2023 года*  
+> *№ 1108*
 
 ## Перечень приоритетных республиканских бюджетных инвестиций министерств по чрезвычайным ситуациям, обороны, Управления Делами Президента Республики Казахстан
+
+> *Сноска. Приложение 2 в редакции постановления Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -9583,7 +9845,20 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td></td>
 <td>Подпрограмма</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
+
+__________________________________________________
 
 > *Приложение 3*  
 > *к постановлению Правительства*  
@@ -11855,6 +12130,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 
 ## Перечень проектов государственно-частного партнерства, планируемых к реализации, требующих финансирования государственных обязательств по проектам государственно-частного партнерства, в том числе государственных концессионных обязательств, из республиканского бюджета
 
+> *Сноска. Приложение 28 с изменениями, внесенными постановлением Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024).*
+
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
@@ -11885,7 +12162,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th></th>
 <th></th>
 <th colspan="2">Всего:</th>
-<th>61 314 805</th>
+<th>61 367 055</th>
 <th>58 635 867</th>
 <th>57 590 086</th>
 </tr>
@@ -11895,7 +12172,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th></th>
 <th></th>
 <th colspan="2">Прочие</th>
-<th>61 314 805</th>
+<th>61 367 055</th>
 <th>58 635 867</th>
 <th>57 590 086</th>
 </tr>
@@ -11947,7 +12224,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <th></th>
 <th></th>
 <th colspan="2">Министерство цифрового развития, инноваций и аэрокосмической промышленности Республики Казахстан</th>
-<th>17 235 968</th>
+<th>17 288 218</th>
 <th>17 235 968</th>
 <th>17 235 968</th>
 </tr>
@@ -11957,7 +12234,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td>120</td>
 <td></td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
-<td>17 235 968</td>
+<td>17 288 218</td>
 <td>17 235 968</td>
 <td>17 235 968</td>
 </tr>
@@ -11979,7 +12256,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/12.12.2023
 <td></td>
 <td></td>
 <td>Обеспечение широкополосным доступом сельских населенных пунктов Республики Казахстан по технологии волоконно-оптических линий связи</td>
-<td>17 235 968</td>
+<td>17 288 218</td>
 <td>17 235 968</td>
 <td>17 235 968</td>
 </tr>
