@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
+source: https://zan.gov.kz/client/#!/doc/102735/kaz/14.03.2024
 ---
 
 # Облыс орталығында, облыстық және аудандық маңызы бар қалаларда, кенттер мен ауылдық елді мекендерде жер учаскелері жеке меншікке берілген кезде олар үшін төлемақының базалық ставкаларын белгілеу туралы
@@ -27,20 +27,22 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 **Р. Әбдікеров**
 
 > *Қарағанды облысы әкімдігінің*  
-> *2016 жылғы 11 сәуірдегі №24/07*  
-> *және Қарағанды облыстық мәслихаттың*  
-> *2016 жылғы 28 сәуірдегі № 30*  
+> *2016 жылғы 11 сәуірдегі №24/07 және*  
+> *Қарағанды облыстық мәслихаттың*  
+> *2016 жылғы 28 сәуірдегі №30*  
 > *бірлескен қаулысы мен шешіміне*  
 > *қосымша*
 
-# Облыс орталығында, облыстық және аудандық маңызы бар қалаларда, кенттер мен ауылдық елді мекендерде жер учаскелері жеке меншікке берілген кезде олар үшін төлемақының базалық ставкалары
+## Облыс орталығында, облыстық және аудандық маңызы бар қалаларда, кенттер мен ауылдық елді мекендерде жеке меншікке берілген кезде жер учаскелері үшін төлемақының базалық ставкалары
+
+> *Ескерту. Қосымша жаңа редакцияда – Қарағанды облысының әкімдігінің 14.03.2024 № 16/05 бірлескен қаулысымен және Қарағанды облыстық мәслихатының 14.03.2024 № 160 (оның алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
 <td>№/№ п/п</td>
 <td>Қалалар мен аудандардың атауы</td>
 <td>Елді мекендердің атауы</td>
-<td>1 шаршы метрдің базалық ставкасы (теңге)</td>
+<td>1 шаршы метр үшін төлемақының базалық ставкасы (теңге)</td>
 </tr>
 <tr>
 <td>1</td>
@@ -49,193 +51,25 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td>1984</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>2</td>
 <td>Балқаш қаласы</td>
 <td>Балқаш қаласы</td>
 <td>1411</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>3</td>
-<td>Жезқазған қаласы</td>
-<td>Жезқазған қаласы</td>
-<td>1508</td>
-</tr>
-<tr>
-<td></td>
-<td>Кеңгір ауылдық округі</td>
-<td>Кеңгір ауылы</td>
-<td>220</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қорғанбай ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>360 жол айрығы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>366 жол айрығы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Теректы станциясы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Түйемойнақ станциясы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Сарыкеңгір ауылдық округі</td>
-<td>Малшыбай ауылы</td>
-<td>112</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Балабай ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қарабұлақ ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Өткелбай ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Талап ауылдық округі</td>
-<td>Талап ауылы</td>
-<td>202</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ескі Талап ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Қаражал қаласы</td>
-<td>Қаражал қаласы</td>
-<td>628</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Жәйрем кенті</td>
-<td>628</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Шалғия ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақтай ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қылыш ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
 <td>Приозерск қаласы</td>
 <td>Приозерск қаласы</td>
 <td>960</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
+<td>4</td>
 <td>Саран қаласы</td>
 <td>Саран қаласы</td>
 <td>1486</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Сәтпаев қаласы</td>
-<td>Сәтпаев қаласы</td>
-<td>1502</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
+<td>5</td>
 <td>Теміртау қаласы</td>
 <td>Теміртау қаласы</td>
 <td>1411</td>
@@ -247,13 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td>436</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
+<td>6</td>
 <td>Шахтинск қаласы</td>
 <td>Шахтинск қаласы</td>
 <td>1484</td>
@@ -261,11 +89,23 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>Шахан кенті</td>
+<td>1169</td>
 </tr>
 <tr>
-<td>10</td>
+<td></td>
+<td></td>
+<td>Новодолинский кенті</td>
+<td>821</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Долинка кенті</td>
+<td>531</td>
+</tr>
+<tr>
+<td>7</td>
 <td>Абай ауданы</td>
 <td>Абай қаласы</td>
 <td>1265</td>
@@ -296,12 +136,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қарағанды ауылдық округі</td>
 <td>Жартас ауылы</td>
 <td>140</td>
@@ -323,12 +157,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Поливное ауылы</td>
 <td>116</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -368,12 +196,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Көксун ауылдық округі</td>
 <td>Көксун ауылы</td>
 <td>168</td>
@@ -410,12 +232,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Құлаайғыр ауылдық округі</td>
 <td>Құлаайғыр ауылы</td>
 <td>140</td>
@@ -434,12 +250,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Құрма ауылдық округі</td>
 <td>Құрма ауылы</td>
 <td>168</td>
@@ -449,12 +259,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Жұмабек ауылы</td>
 <td>140</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -473,12 +277,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ақбастау ауылының алабарлық учаскесі (бұрынғы Тихоновка ауылы)</td>
 <td>78</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -506,12 +304,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Есенгелді ауылдық округі</td>
 <td>Есенгелді ауылы</td>
 <td>116</td>
@@ -527,12 +319,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Восьмой аул ауылы</td>
 <td>78</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -557,12 +343,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Бородиновка ауылы</td>
 <td>78</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -608,12 +388,12 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Дубов ауылдық округі</td>
+<td>Дубовка ауылы</td>
+<td>310</td>
 </tr>
 <tr>
-<td>11</td>
+<td>8</td>
 <td>Ақтоғай ауданы</td>
 <td>Ақтоғай ауылы</td>
 <td>170</td>
@@ -632,12 +412,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Абай ауылдық округі</td>
 <td>Абай ауылы</td>
 <td>100</td>
@@ -650,33 +424,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Айыртас ауылдық округі</td>
 <td>Айыртас ауылы</td>
 <td>90</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Гүлшат ауылдық округі</td>
-<td>Шұбартүбек ауылы</td>
-<td>210</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -704,12 +454,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қараменде би ауылдық округі</td>
 <td>Ақтас ауылы</td>
 <td>130</td>
@@ -722,21 +466,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Кежек ауылдық округі</td>
 <td>Ақши ауылы</td>
 <td>130</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -752,33 +484,15 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Құсақ ауылдық округі</td>
 <td>Қошқар ауылы</td>
 <td>90</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қызыларай ауылдық округі</td>
 <td>Ақжарық ауылы</td>
 <td>200</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -789,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>Ақсеңғір ауылы</td>
+<td>Ақсеңгір ауылы</td>
 <td>80</td>
 </tr>
 <tr>
@@ -812,12 +526,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ортадересін ауылдық округі</td>
 <td>Ортадересін ауылы</td>
 <td>130</td>
@@ -833,12 +541,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ортадересін станциясы</td>
 <td>100</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -866,33 +568,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Тасарал ауылдық округі</td>
 <td>Тасарал ауылы</td>
 <td>130</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Тораңғалық ауылдық округі</td>
-<td>Тораңғалық ауылы</td>
-<td>210</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -919,13 +597,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td>80</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
+<td>9</td>
 <td>Бұқар-Жырау ауданы</td>
 <td>Ботақара кенті</td>
 <td>430</td>
@@ -950,12 +622,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ақбел ауылдық округі</td>
 <td>Ақбел ауылы</td>
 <td>230</td>
@@ -974,21 +640,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Акөре ауылына әкімшілік бағыну</td>
 <td>Акөре ауылы</td>
 <td>154</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1004,12 +658,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Баймырза ауылдық округі</td>
 <td>Баймырза ауылы</td>
 <td>184</td>
@@ -1019,12 +667,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Астаховка ауылы</td>
 <td>110</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1040,21 +682,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ботақара ауылына әкімшілік бағыну</td>
 <td>Ботақара ауылы</td>
 <td>230</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1076,12 +706,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Гагарин ауылдық округі</td>
 <td>Гагаринское ауылы</td>
 <td>184</td>
@@ -1094,12 +718,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Доскей ауылдық округі</td>
 <td>Доскей ауылы</td>
 <td>304</td>
@@ -1109,30 +727,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Трудовое ауылы</td>
 <td>207</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Дубов ауылдық округі</td>
-<td>Дубовка ауылы</td>
-<td>310</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Новостройка ауылы</td>
-<td>207</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1160,21 +754,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қарақұдық ауылына әкімшілік бағыну</td>
 <td>Қарақұдық ауылы</td>
 <td>192</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1196,14 +778,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Корнеев ауылдық округі</td>
-<td>Корнеевка ауылы</td>
+<td>Керней ауылдық округі</td>
+<td>Керней ауылы</td>
 <td>230</td>
 </tr>
 <tr>
@@ -1217,12 +793,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Алғабас ауылы</td>
 <td>207</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1244,21 +814,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Молодецкое ауылына әкімшілік бағыну</td>
-<td>Молодецкое ауылы</td>
+<td>Жаңаталап ауылына әкімшілік бағыну</td>
+<td>Жаңаталап ауылы</td>
 <td>154</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1280,12 +838,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Петров ауылдық округі</td>
 <td>Петровка ауылы</td>
 <td>192</td>
@@ -1301,12 +853,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Жастілек ауылы</td>
 <td>173</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1328,12 +874,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Самарканд ауылдық округі</td>
 <td>Самарканд ауылы</td>
 <td>184</td>
@@ -1352,21 +892,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Суықсу ауылына әкімшілік бағыну</td>
 <td>Суықсу ауылы</td>
 <td>154</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1388,12 +916,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Тұзды ауылдық округі</td>
 <td>Тұзды ауылы</td>
 <td>230</td>
@@ -1412,12 +934,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Үштөбе ауылдық округі</td>
 <td>Үштөбе ауылы</td>
 <td>315</td>
@@ -1425,7 +941,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>Заречное ауылы</td>
+<td>Сарыарқа ауылы</td>
 <td>207</td>
 </tr>
 <tr>
@@ -1443,8 +959,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>Атамекен ауылы</td>
+<td>207</td>
 </tr>
 <tr>
 <td></td>
@@ -1466,12 +982,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Шешенкара ауылдық округі</td>
 <td>Шешенқара ауылы</td>
 <td>192</td>
@@ -1481,12 +991,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ащысу ауылы</td>
 <td>173</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1501,307 +1005,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td>166</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>Жаңаарқа ауданы</td>
-<td>Атасу кенті</td>
-<td>350</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қызылжар кенті</td>
-<td>264</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Айнабұлақ ауылдық округі</td>
-<td>Айнабұлақ ауылы</td>
-<td>93</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ақтасты ауылдық округі</td>
-<td>Ақтасты ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ақтау ауылдық округі</td>
-<td>Ақтау ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Айшырақ ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кылыш ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ақтүбек ауылдық округі</td>
-<td>Ақтүбек ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Атасу ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Мынадыр станциясы</td>
-<td>122</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Атасу ауылының алабарлық учаскесі (152 жол айрығы)</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Өркендеу ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Бидайық ауылдық округі</td>
-<td>Бидайық ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақтайлақ ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақтайлақ ауылының алабарлық учаскесі</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қарамола ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Байдалы би ауылдық округі</td>
-<td>Атасу ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ленино ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ералиев ауылдық округі</td>
-<td>Ералиево ауылы</td>
-<td>122</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Аралтөбе ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақбастау ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Жомарт станциясы</td>
-<td>102</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қараағаш ауылдық округі</td>
-<td>Ынталы ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ынталы ауылының алабарлық учаскесі (бұрынғы Жартас ауылы)</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>М. Жұмажанов атындағы ауылдық округі</td>
-<td>М. Жұмажанов атындағы ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Байгүл ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Сейфуллин ауылдық округі</td>
-<td>Ынтымақ ауылы</td>
-<td>191</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Алғабас ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кирово ауылы</td>
-<td>106</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ынтымақ ауылының алабарлық учаскесі (бұрынғы Бестоған ауылы)</td>
-<td>106</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Төгіскен ауылдық округі</td>
-<td>Төгіскен ауылы</td>
-<td>147</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Кенжебайсамай ауылы</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Целинный ауылдық округі</td>
-<td>Орынбай ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақшағат ауылы</td>
-<td>102</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Бидайық ауылы</td>
-<td>102</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Орынбай ауылының алабарлық учаскесі</td>
-<td>70</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
+<td>10</td>
 <td>Қарқаралы ауданы</td>
 <td>Қарқаралы қаласы</td>
 <td>1375</td>
@@ -1820,12 +1024,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Абай ауылдық округі</td>
 <td>Айнабұлақ ауылы</td>
 <td>122</td>
@@ -1835,12 +1033,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Мыржық ауылы</td>
 <td>83</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1898,12 +1090,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Бақты ауылдық округі</td>
 <td>Бақты ауылы</td>
 <td>229</td>
@@ -1928,12 +1114,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Балқантау ауылдық округі</td>
 <td>Қарабұлақ ауылы</td>
 <td>200</td>
@@ -1949,12 +1129,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Қарабұлақ ауылының алабарлық учаскесі (бұрынғы Талды ауылы)</td>
 <td>83</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1988,21 +1162,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Егіндібұлақ ауылдық округі</td>
 <td>Егіндібұлақ ауылы</td>
 <td>166</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2015,12 +1177,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ежебай ауылы</td>
 <td>138</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2054,21 +1210,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қаракөл ауылдық округі</td>
 <td>Қаракөл ауылы</td>
 <td>166</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2108,12 +1252,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қырғыз ауылдық округі</td>
 <td>Бүркітті ауылы</td>
 <td>249</td>
@@ -2144,12 +1282,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қоянды ауылдық округі</td>
 <td>Қоянды ауылы</td>
 <td>183</td>
@@ -2162,12 +1294,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Мәди ауылдық округі</td>
 <td>Айрық ауылы</td>
 <td>83</td>
@@ -2177,12 +1303,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Едрей ауылы (Шолақбұлақ ауылы)</td>
 <td>83</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2204,12 +1324,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Нұркен Әбдіров ауылдық округі</td>
 <td>Жарлы ауылы</td>
 <td>249</td>
@@ -2225,12 +1339,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Жекежал ауылы</td>
 <td>189</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2270,12 +1378,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Тәттімбет ауылдық округі</td>
 <td>Ақтасты ауылы</td>
 <td>122</td>
@@ -2285,12 +1387,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Шілдебай ауылы</td>
 <td>115</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2336,12 +1432,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Теміршін ауылдық округі</td>
 <td>Татан ауылы</td>
 <td>138</td>
@@ -2360,12 +1450,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Томар ауылдық округі</td>
 <td>Томар ауылы</td>
 <td>190</td>
@@ -2381,12 +1465,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Томар ауылының 2 алабарлық учаскесі</td>
 <td>83</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2420,12 +1498,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Шарықты ауылдық округі</td>
 <td>Теректі ауылы</td>
 <td>152</td>
@@ -2450,29 +1522,14 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ынталы ауылдық округі</td>
-<td>
-Ынталы ауылы
-(№ 5 жол айрығы)
-</td>
+<td>Ынталы ауылы (№ 5 жол айрығы)</td>
 <td>208</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
+<td>11</td>
 <td>Нұра ауданы</td>
-<td>Киевка кенті</td>
+<td>Нұра кенті</td>
 <td>340</td>
 </tr>
 <tr>
@@ -2483,13 +1540,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Донской ауылдық округі</td>
+<td>Құлан ауылдық округі</td>
 <td>Құланөтпес ауылы</td>
 <td>115</td>
 </tr>
@@ -2513,12 +1564,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Жараспай ауылдық округі</td>
 <td>Жараспай ауылы</td>
 <td>115</td>
@@ -2534,12 +1579,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Жараспай ауылының алабарлық учаскесі</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2567,33 +1606,15 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Пржевал ауылдық округі</td>
-<td>Пржевальское ауылы</td>
+<td>Мұзбел ауылдық округі</td>
+<td>Мұзбел ауылы</td>
 <td>190</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Киров ауылдық округі</td>
-<td>Майоровка ауылы</td>
+<td>Егінді ауылдық округі</td>
+<td>Егінді ауылы</td>
 <td>190</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2603,31 +1624,19 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Энтузиаст ауылдық округі</td>
-<td>Ахметауыл ауылы</td>
+<td>Ахмет ауылдық округі</td>
+<td>Ахмет ауылы</td>
 <td>200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Ахметауыл ауылының алабарлық учаскесі</td>
+<td>Ахмет ауылының алабарлық учаскесі</td>
 <td>80</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Чернигов ауылдық округі</td>
+<td>Көбетей ауылдық округі</td>
 <td>Көбетей ауылы</td>
 <td>200</td>
 </tr>
@@ -2651,23 +1660,14 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Новокарповка ауылдық округі</td>
+<td>Байтуған ауылдық округі</td>
 <td>Байтуған ауылы</td>
 <td>190</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>
-Байтуған ауылының № 1,
-№ 2 алабарлық учаскелері
-</td>
+<td>Байтуған ауылының № 1, № 2 алабарлық учаскелері</td>
 <td>80</td>
 </tr>
 <tr>
@@ -2684,33 +1684,15 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Карой ауылдық округі</td>
 <td>Карой ауылы</td>
 <td>190</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Заречный ауылдық округі</td>
 <td>Заречное ауылы</td>
 <td>190</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2732,21 +1714,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Индустриальный ауылдық округі</td>
 <td>Тассуат ауылы</td>
 <td>190</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2762,13 +1732,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Захаров ауылдық округі</td>
+<td>Ақмешіт ауылдық округі</td>
 <td>Ақмешіт ауылы</td>
 <td>190</td>
 </tr>
@@ -2798,42 +1762,27 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Тассуат ауылдық округі</td>
-<td>Щербаковское ауылы</td>
+<td>Қайнар ауылы</td>
 <td>170</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Щербаковское ауылының алабарлық учаскесі (бұрынғы Амантау ауылы)</td>
+<td>Қайнар ауылының алабарлық учаскесі (бұрынғы Амантау ауылы)</td>
 <td>80</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>
-Щербаковское ауылының алабарлық учаскесі
-(бау-бақша)
-</td>
+<td>Қайнар ауылының алабарлық учаскесі (бау-бақша)</td>
 <td>80</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Щербаковское ауылының № 1, № 2 алабарлық учаскелері</td>
+<td>Қайнар ауылының № 1, № 2 алабарлық учаскелері</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2855,12 +1804,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қаракоин ауылдық округі</td>
 <td>Жанбөбек ауылы</td>
 <td>115</td>
@@ -2876,12 +1819,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Аққолқа ауылы</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2904,17 +1841,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>
-Талдысай ауылының № 1,
-№ 2 алабарлық учаскелері
-</td>
+<td>Талдысай ауылының № 1, № 2 алабарлық учаскелері</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2931,10 +1859,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>
-Баршино ауылының № 1,
-№ 2, № 3, № 4 алабарлық учаскелері
-</td>
+<td>Баршино ауылының № 1, № 2, № 3, № 4 алабарлық учаскелері</td>
 <td>80</td>
 </tr>
 <tr>
@@ -2948,12 +1873,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Бестамақ ауылының алабарлық учаскесі</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2981,12 +1900,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Соналы ауылдық округі</td>
 <td>Соналы ауылы</td>
 <td>115</td>
@@ -3000,17 +1913,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>
-Соналы ауылының № 1,
-№ 2 алабарлық учаскелері
-</td>
+<td>Соналы ауылының № 1, № 2 алабарлық учаскелері</td>
 <td>80</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3037,13 +1941,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td>80</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
+<td>12</td>
 <td>Осакаров ауданы</td>
 <td>Осакаровка кенті</td>
 <td>286</td>
@@ -3053,12 +1951,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Молодежный кенті</td>
 <td>340</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3086,12 +1978,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Сарыөзек ауылдық округі</td>
 <td>Сарыөзек ауылы</td>
 <td>143</td>
@@ -3116,14 +2002,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Дальний ауылдық округі</td>
-<td>Дальнее ауылы</td>
+<td>Жансары ауылдық округі</td>
+<td>Аманқоңыр ауылы</td>
 <td>66</td>
 </tr>
 <tr>
@@ -3147,38 +2027,20 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>Лиманное ауылы</td>
+<td>Басқорық ауылы</td>
 <td>53</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Звездный ауылдық округі</td>
-<td>Звездное ауылы</td>
+<td>Жұлдыз ауылдық округі</td>
+<td>Жұлдыз ауылы</td>
 <td>99</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Иртышский ауылдық округі</td>
 <td>Иртышский ауылы</td>
 <td>124</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3194,21 +2056,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Қаратомар ауылдық округі</td>
-<td>Сенокосное ауылы</td>
+<td>Қаратомар ауылы</td>
 <td>99</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3218,14 +2068,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Маржанкөл ауылдық округі</td>
-<td>Уызбай ауылы</td>
+<td>Маржанкөл ауылы</td>
 <td>99</td>
 </tr>
 <tr>
@@ -3236,21 +2080,9 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Мирный ауылдық округі</td>
 <td>Мирное ауылы</td>
 <td>149</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3261,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>Комсомольское ауылы</td>
+<td>Қайыңды ауылы</td>
 <td>79</td>
 </tr>
 <tr>
@@ -3269,12 +2101,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Топан ауылы</td>
 <td>99</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3287,12 +2113,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ералы ауылы</td>
 <td>149</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3326,12 +2146,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Пионер ауылдық округі</td>
 <td>Пионерское ауылы</td>
 <td>214</td>
@@ -3350,12 +2164,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ақбұлақ ауылдық округі</td>
 <td>Ақбұлақ ауылы</td>
 <td>149</td>
@@ -3365,12 +2173,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Роднички ауылы</td>
 <td>53</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -3386,12 +2188,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Садовый ауылдық округі</td>
 <td>Садовое ауылы</td>
 <td>99</td>
@@ -3399,8 +2195,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td>Жаңатоған ауылы</td>
+<td>99</td>
 </tr>
 <tr>
 <td></td>
@@ -3422,14 +2218,8 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Тельман ауылдық округі</td>
-<td>Тельманское ауылы</td>
+<td>Нияз ауылдық округі</td>
+<td>Қаракөл ауылы</td>
 <td>149</td>
 </tr>
 <tr>
@@ -3446,12 +2236,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Трудовой ауылдық округі</td>
 <td>Трудовое ауылы</td>
 <td>149</td>
@@ -3464,378 +2248,12 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Чапаев ауылдық округі</td>
-<td>Чапаево ауылы</td>
-<td>99</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Шідерті ауылдық округі</td>
 <td>Шідерті ауылы</td>
 <td>79</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>Ұлытау ауданы</td>
-<td>Ұлытау ауылы</td>
-<td>210</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ұлытау ауылдық округі</td>
-<td>Айыртау ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қызылүй ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Талдысай ауылы</td>
-<td>153</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақтас кенті</td>
-<td>195</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Пионер ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Жезді кенті</td>
-<td>199</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Өрнек ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қарсақпай кенті</td>
-<td>234</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Алғабас ауылдық округі</td>
-<td>Бетбұлақ ауылы</td>
-<td>140</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Амангелді ауылдық округі</td>
-<td>Сарлық ауылы</td>
-<td>168</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Боздақ ауылы</td>
-<td>127</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Борсеңгір ауылдық округі</td>
-<td>Борсеңгір ауылы</td>
-<td>112</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Егінді ауылдық округі</td>
-<td>Егінді ауылы</td>
-<td>140</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Жангелді ауылдық округі</td>
-<td>Байқоныр ауылы</td>
-<td>123</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қызылүй ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Талдықұдық ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қоскөл ауылдық округі</td>
-<td>Қоскөл ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Құлжанбай ауылы</td>
-<td>50</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Нарөлген ауылы (Киік ауылы)</td>
-<td>50</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Мибұлақ ауылдық округі</td>
-<td>Мибұлақ ауылы</td>
-<td>108</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ақкенсе ауылы</td>
-<td>82</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Қаракеңғір ауылдық округі</td>
-<td>Бозтұмсық ауылы</td>
-<td>135</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Сарысу ауылдық округі</td>
-<td>Жыланды ауылы</td>
-<td>108</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Түйемойнақ ауылы</td>
-<td>68</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Терісаққан ауылдық округі</td>
-<td>Терісаққан ауылы</td>
-<td>154</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қоскөл ауылы</td>
-<td>68</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Шеңбер ауылдық округі</td>
-<td>Қорғасын ауылы</td>
-<td>134</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Үңгірлі ауылы</td>
-<td>102</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Кеңгір ауылдық округі</td>
-<td>Кеңғір ауылы</td>
-<td>220</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қорғанбай ауылы</td>
-<td>98</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>360 жол айрығы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>366 жол айрығы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Теректі станциясы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Түйемойнақ станциясы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Сарыкеңғір ауылдық округі</td>
-<td>Малшыбай ауылы</td>
-<td>112</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Балабай ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Қарабұлақ ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Өткелбай ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Талап ауылдық округі</td>
-<td>Талап ауылы</td>
-<td>202</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Ескі Талап ауылы</td>
-<td>85</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
+<td>13</td>
 <td>Шет ауданы</td>
 <td></td>
 <td></td>
@@ -3968,12 +2386,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Ақой ауылдық округі</td>
 <td>Ақой ауылы</td>
 <td>115</td>
@@ -3995,12 +2407,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Ақой ауылының 3 алабарлық учаскесі</td>
 <td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4034,12 +2440,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Батық ауылдық округі</td>
 <td>Батық ауылы</td>
 <td>127</td>
@@ -4049,12 +2449,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Батық ауылының алабарлық учаскесі</td>
 <td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4076,12 +2470,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Бұрма ауылдық округі</td>
 <td>Бұрма ауылы</td>
 <td>152</td>
@@ -4091,12 +2479,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Мұқтар ауылы</td>
 <td>92</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4118,12 +2500,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Киікті ауылдық округі</td>
 <td>Киікті ауылы</td>
 <td>89</td>
@@ -4139,12 +2515,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Арқарлы жол айрығы</td>
 <td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4167,7 +2537,7 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <tr>
 <td></td>
 <td></td>
-<td>Целинный ауылы</td>
+<td>Ақжол ауылы</td>
 <td>77</td>
 </tr>
 <tr>
@@ -4175,12 +2545,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Көктіңкөлі станциясы</td>
 <td>77</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4193,12 +2557,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Қызылтау ауылының алабарлық учаскесі</td>
 <td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4238,12 +2596,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Нұраталды ауылдық округі</td>
 <td>Қошқарбай ауылы</td>
 <td>152</td>
@@ -4280,12 +2632,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Төменгі Қайрақты ауылдық округі</td>
 <td>Төменгі Қайрақты ауылы</td>
 <td>152</td>
@@ -4295,12 +2641,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Жоғарғы Қайрақты ауылы</td>
 <td>138</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4328,12 +2668,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Тағылы ауылдық округі</td>
 <td>Жұмыскер ауылы</td>
 <td>152</td>
@@ -4355,12 +2689,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Қызылту ауылының алабарлық учаскесі</td>
 <td>60</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4388,12 +2716,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
 <td>Өспен ауылдық округі</td>
 <td>Өспен ауылы</td>
 <td>127</td>
@@ -4415,12 +2737,6 @@ source: https://zan.gov.kz/client/#!/doc/102735/kaz/28.04.2016
 <td></td>
 <td>Айғыржал ауылы</td>
 <td>106</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
