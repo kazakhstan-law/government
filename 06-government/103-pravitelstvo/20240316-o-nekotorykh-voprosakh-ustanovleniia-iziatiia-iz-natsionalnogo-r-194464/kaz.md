@@ -13,6 +13,11 @@ approval_date: 2024-03-16
 version_date: 2024-03-16
 registry_number: '194464'
 source: https://zan.gov.kz/client/#!/doc/194464/kaz/16.03.2024
+repealed_on: 2026-03-19
+repealed_by:
+  code: '194464'
+  title: Ұлттық режимнен алып тастауды белгілеудің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/194464/kaz
 ---
 
 # Ұлттық режимнен алып тастауды белгілеудің кейбір мәселелері туралы
