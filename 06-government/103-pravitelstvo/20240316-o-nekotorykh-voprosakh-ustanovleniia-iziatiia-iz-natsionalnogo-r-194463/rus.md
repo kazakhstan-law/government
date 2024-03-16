@@ -13,6 +13,11 @@ approval_date: 2024-03-16
 version_date: 2024-03-16
 registry_number: '194463'
 source: https://zan.gov.kz/client/#!/doc/194463/rus/16.03.2024
+repealed_on: 2026-03-19
+repealed_by:
+  code: '194463'
+  title: О некоторых вопросах установления изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/194463/rus
 ---
 
 # О некоторых вопросах установления изъятия из национального режима
