@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/172760/kaz/12.10.2022
+source: https://zan.gov.kz/client/#!/doc/172760/kaz/18.03.2024
 ---
 
 # Железин ауданы мемлекеттік мекемелерінің Ережелерін бекіту туралы
