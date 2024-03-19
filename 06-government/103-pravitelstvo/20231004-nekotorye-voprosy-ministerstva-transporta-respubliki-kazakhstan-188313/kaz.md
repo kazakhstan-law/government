@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/188313/kaz/04.10.2023
+source: https://zan.gov.kz/client/#!/doc/188313/kaz/19.03.2024
 ---
 
 # Қазақстан Республикасы Көлік министрлігінің кейбір мәселелері
