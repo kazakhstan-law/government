@@ -13,6 +13,11 @@ approval_date: 2024-03-20
 version_date: 2024-03-20
 registry_number: '194642'
 source: https://zan.gov.kz/client/#!/doc/194642/rus/20.03.2024
+repealed_on: 2026-05-21
+repealed_by:
+  code: '194642'
+  title: Об установлении изъятия из национального режима
+  link: https://zan.gov.kz/client/#!/doc/194642/rus
 ---
 
 # Об установлении изъятия из национального режима

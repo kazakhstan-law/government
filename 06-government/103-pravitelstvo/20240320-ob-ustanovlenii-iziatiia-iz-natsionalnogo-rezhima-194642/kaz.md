@@ -13,6 +13,11 @@ approval_date: 2024-03-20
 version_date: 2024-03-20
 registry_number: '194642'
 source: https://zan.gov.kz/client/#!/doc/194642/kaz/20.03.2024
+repealed_on: 2026-05-21
+repealed_by:
+  code: '194642'
+  title: Ұлттық режимнен алып тастауды белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/194642/kaz
 ---
 
 # Ұлттық режимнен алып тастауды белгілеу туралы
