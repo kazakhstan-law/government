@@ -1,5 +1,5 @@
 ---
-version_id: '190062_693865'
+version_id: '190062_695658'
 act_code: '190062'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-03-30
+version_date: 2024-04-08
 registry_number: '190062'
 caused_by:
-  code: '195254'
-  title: О корректировке показателей республиканского бюджета на 2024 год и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
-  link: https://zan.gov.kz/client/#!/doc/195254/rus
-source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
+  code: '195432'
+  title: О внесении изменений и дополнения в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
+  link: https://zan.gov.kz/client/#!/doc/195432/rus
+source: https://zan.gov.kz/client/#!/doc/190062/rus/08.04.2024
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 08.04.2024 № 259 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -2153,7 +2153,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция автомобильной дороги республиканского значения «Узынагаш - Отар»</td>
-<td colspan="3">5 100 000</td>
+<td colspan="3">9 350 000</td>
 <td colspan="4">1 988 031</td>
 <td colspan="4"></td>
 </tr>
@@ -2164,7 +2164,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Курты - Бурылбайтал»</td>
-<td colspan="3">2 911 464</td>
+<td colspan="3">9 524 878</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -2186,7 +2186,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)» участок «Кандыагаш - Макат»</td>
-<td colspan="3">909 546</td>
+<td colspan="3">2 409 546</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -2208,7 +2208,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Строительство Восточного обхода г.Туркестан</td>
-<td colspan="3">12 363 414</td>
+<td colspan="3"></td>
 <td colspan="4">2 550 000</td>
 <td colspan="4">5 694 071</td>
 </tr>
@@ -2340,7 +2340,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция автомобильной дороги республиканского значения «Узынагаш - Отар»</td>
-<td colspan="3">900 000</td>
+<td colspan="3">1 650 000</td>
 <td colspan="4">338 485</td>
 <td colspan="4"></td>
 </tr>
@@ -2351,7 +2351,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы» участок «Курты - Бурылбайтал»</td>
-<td colspan="3">469 867</td>
+<td colspan="3">1 685 949</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -2373,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Реконструкция автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)» участок «Кандыагаш - Макат»</td>
-<td colspan="3">214 286</td>
+<td colspan="3">319 286</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -2384,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Строительство Восточного обхода г.Туркестан</td>
-<td colspan="3">2 071 082</td>
+<td colspan="3"></td>
 <td colspan="4">450 000</td>
 <td colspan="4">1 004 836</td>
 </tr>
@@ -6590,7 +6590,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Ушарал - Достык»</td>
-<td colspan="5">3 183 796</td>
+<td colspan="5">3 822 961</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6601,7 +6601,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Карабутак - Комсомольское - Денисовка - Рудный - Костанай»</td>
-<td colspan="5">10 000</td>
+<td colspan="5">523 589</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6612,7 +6612,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Гр. РФ (на Орск) - Актобе - Атырау - гр. РФ (на Астрахань)»</td>
-<td colspan="5">3 462 010</td>
+<td colspan="5">2 659 897</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6645,7 +6645,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция автомобильной дороги республиканского значения «Кызылорда - Павлодар - Успенка - гр. РФ» участок «Жезказган - Караганды»</td>
-<td colspan="5">20 000 000</td>
+<td colspan="5">582 165</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6656,7 +6656,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Юг «Астана - Караганда - Балхаш - Курты - Капшагай - Алматы»</td>
-<td colspan="5">4 431 117</td>
+<td colspan="5">3 712 028</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6667,7 +6667,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция и проектно-изыскательские работы автомобильной дороги республиканского значения «Астана-Петропавловск» транзитного коридора «Боровое-Кокшетау-Петропавловск-граница РФ»</td>
-<td colspan="5">5 177 846</td>
+<td colspan="5">6 417 846</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6699,8 +6699,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="3"></td>
 <td colspan="7"></td>
 <td colspan="2"></td>
-<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Запад, разработка проектно-сметной документации по участкам км 19-1292 км</td>
-<td colspan="5">9 572</td>
+<td colspan="9">Реконструкция и проектно-изыскательские работы коридора Центр-Запад</td>
+<td colspan="5">38 491</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6711,7 +6711,18 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство моста через р.Иртыш на автомобильной дороге республиканского значения «Кызылорда - Павлодар - Успенка - гр.РФ» км 1381</td>
-<td colspan="5">21 741 831</td>
+<td colspan="5">15 006 062</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство мостового перехода через Бухтарминское водохранилище в Курчумском районе Восточно-Казахстанской области</td>
+<td colspan="5">25 253 133</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6754,7 +6765,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Актюбинская область</th>
-<th colspan="5">4 510 273</th>
+<th colspan="5">3 705 829</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6765,7 +6776,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Жайсан» по Актюбинской области</td>
-<td colspan="5">2 263 513</td>
+<td colspan="5">1 860 004</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6776,7 +6787,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Байтурасай» по Актюбинской области</td>
-<td colspan="5">2 246 760</td>
+<td colspan="5">1 845 825</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6787,7 +6798,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Костанайская область</th>
-<th colspan="5">7 218 202</th>
+<th colspan="5">6 174 551</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6798,7 +6809,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Кенерал» по Костанайской области</td>
-<td colspan="5">1 155 393</td>
+<td colspan="5">935 217</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6809,7 +6820,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Кайрак» по Костанайской области</td>
-<td colspan="5">1 178 440</td>
+<td colspan="5">959 160</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6820,7 +6831,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Бирлик» по Костанайской области</td>
-<td colspan="5">2 443 127</td>
+<td colspan="5">2 141 060</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6831,7 +6842,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Узынагаш» по Костанайской области</td>
-<td colspan="5">2 441 242</td>
+<td colspan="5">2 139 114</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6842,7 +6853,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Павлодарская область</th>
-<th colspan="5">4 376 409</th>
+<th colspan="5">3 590 956</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6853,7 +6864,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Арлан» по Павлодарской области</td>
-<td colspan="5">2 177 067</td>
+<td colspan="5">1 786 147</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6864,7 +6875,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Шарбакты» по Павлодарской области</td>
-<td colspan="5">2 199 342</td>
+<td colspan="5">1 804 809</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6875,7 +6886,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Северо-Казахстанская область</th>
-<th colspan="5">8 091 761</th>
+<th colspan="5">10 725 309</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6886,7 +6897,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Келтесай» по Северо-Казахстанской области</td>
-<td colspan="5">1 016 289</td>
+<td colspan="5">1 443 658</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6897,7 +6908,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Талсай» по Северо-Казахстанской области</td>
-<td colspan="5">199 543</td>
+<td colspan="5">202 637</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6908,7 +6919,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Каракудык» по Северо-Казахстанской области</td>
-<td colspan="5">207 206</td>
+<td colspan="5">764 569</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6919,7 +6930,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Есиль» по Северо-Казахстанской области</td>
-<td colspan="5">179 422</td>
+<td colspan="5">303 655</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6930,7 +6941,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Каскад» по Северо-Казахстанской области</td>
-<td colspan="5">968 529</td>
+<td colspan="5">1 611 258</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6941,7 +6952,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Ак кол» по Северо-Казахстанской области</td>
-<td colspan="5">253 785</td>
+<td colspan="5">332 256</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6952,7 +6963,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Арал агаш» по Северо-Казахстанской области</td>
-<td colspan="5">2 308 867</td>
+<td colspan="5">1 897 588</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6963,7 +6974,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Жана жол» по Северо-Казахстанской области</td>
-<td colspan="5">132 259</td>
+<td colspan="5">189 065</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6974,7 +6985,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Ашикен» по Северо-Казахстанской области</td>
-<td colspan="5">208 822</td>
+<td colspan="5">789 243</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6985,7 +6996,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Кызыл ту» по Северо-Казахстанской области</td>
-<td colspan="5">2 274 937</td>
+<td colspan="5">1 868 633</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6996,7 +7007,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «Жамбыл» по Северо-Казахстанской области</td>
-<td colspan="5">138 199</td>
+<td colspan="5">472 790</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -7007,7 +7018,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/30.03.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство пограничного отделения «им.Баян батыр» по Северо-Казахстанской области</td>
-<td colspan="5">203 903</td>
+<td colspan="5">849 957</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-version_id: '190062_693864'
+version_id: '190062_695657'
 act_code: '190062'
 language: kaz
 title: «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-03-30
+version_date: 2024-04-08
 registry_number: '190062'
 caused_by:
-  code: '195254'
-  title: 2024 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2023 жылғы 12 желтоқсандағы № 1108 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/195254/kaz
-source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
+  code: '195432'
+  title: «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2023 жылғы 12 желтоқсандағы № 1108 қаулысына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/195432/kaz
+source: https://zan.gov.kz/client/#!/doc/190062/kaz/08.04.2024
 ---
 
 # «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 
 ## Басым республикалық бюджеттік инвестициялардың тізбесі
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi) қаулыларымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 08.04.2024 № 259 (01.01.2024 бастап қолданысқа енгiзiледi) қаулыларымен.*
 
 <table>
 <tr>
@@ -2175,7 +2175,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
-<td colspan="6">5 100 000</td>
+<td colspan="6">9 350 000</td>
 <td colspan="2">1 988 031</td>
 <td></td>
 </tr>
@@ -2186,7 +2186,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстарын</td>
-<td colspan="6">2 911 464</td>
+<td colspan="6">9 524 878</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2208,7 +2208,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
-<td colspan="6">909 546</td>
+<td colspan="6">2 409 546</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2230,7 +2230,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Түркістан қаласының Шығыс айналма жолын салу</td>
-<td colspan="6">12 363 414</td>
+<td colspan="6"></td>
 <td colspan="2">2 550 000</td>
 <td>5 694 071</td>
 </tr>
@@ -2362,7 +2362,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Республикалық маңызы бар «Ұзынағаш - Отар» автомобиль жолын реконструкциялау</td>
-<td colspan="6">900 000</td>
+<td colspan="6">1 650 000</td>
 <td colspan="2">338 485</td>
 <td></td>
 </tr>
@@ -2373,7 +2373,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«Орталық - Оңтүстік» «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізінің «Күрті - Бурылбайтал» учаскесін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="6">469 867</td>
+<td colspan="6">1 685 949</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2395,7 +2395,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Республикалық маңызы бар «РФ шекарасы (Орск қаласына) - Ақтөбе - Атырау - РФ шекарасы (Астрахань қаласына)» автомобиль жолының «Қандыағаш - Мақат» учаскесін реконструкциялау</td>
-<td colspan="6">214 286</td>
+<td colspan="6">319 286</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2406,7 +2406,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Түркістан қаласының шығыс айналма жолын салу</td>
-<td colspan="6">2 071 082</td>
+<td colspan="6"></td>
 <td colspan="2">450 000</td>
 <td>1 004 836</td>
 </tr>
@@ -6612,7 +6612,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Республикалық маңызы бар «Үшарал - Достық» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="8">3 183 796</td>
+<td colspan="8">3 822 961</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6623,7 +6623,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Республикалық маңызы бар «Қарабұтақ - Комсомольское - Денисовка - Рудный - Қостанай» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="8">10 000</td>
+<td colspan="8">523 589</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6634,7 +6634,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Республикалық маңызы бар «РФ шекарасы (Орск қаласына)-Ақтөбе -Атырау - РФ шекарасы (Астрахань қаласына)» автожолын қайта жаңарту және жобалау-іздестіру</td>
-<td colspan="8">3 462 010</td>
+<td colspan="8">2 659 897</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6667,7 +6667,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Қызылорда - Павлодар - Успенка - РФ шек.» республикалық маңызы бар автомобиль жолының «Жезқазған - Қарағанды» учаскесін реконструкциялау</td>
-<td colspan="8">20 000 000</td>
+<td colspan="8">582 165</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6678,7 +6678,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Орталық-Оңтүстік «Астана - Қарағанды - Балқаш - Күрті - Қапшағай - Алматы» дәлізін қайта жаңарту және жобалау-іздестіру</td>
-<td colspan="8">4 431 117</td>
+<td colspan="8">3 712 028</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6688,8 +6688,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="7"></td>
-<td colspan="3">«Республикалық маңызы бар «Щучинск - Көкшетау - Петропавл - РФ шекарасы» транзиттік дәлізі учаскесінде 465-525 км Петропавл, Омск қалалары арқылы РФ шекарасы (Челябинскіге ) - РФ шекарасы (Новосибирскке) М-51 автомобиль жолын реконструкциялау», II учаске, 496-465 км» ЖЖ. Сметалық құжаттаманы түзету</td>
-<td colspan="8">5 177 846</td>
+<td colspan="3">Республикалық маңызы бар «Астана - Петропавл» автомобиль жолының «Бурабай - Көкшетау-Петропавл - РФ шекарасы» транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
+<td colspan="8">6 417 846</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6721,8 +6721,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="7"></td>
-<td colspan="3">Орталық-Батыс дәлізін қайта жаңарту және жобалау-іздестіру</td>
-<td colspan="8">9 572</td>
+<td colspan="3">Орталық-Батыс дәлізін қайта жаңарту және жобалау-іздестіру жұмыстары</td>
+<td colspan="8">38 491</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6733,7 +6733,18 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">1381 км «Қызылорда - Павлодар - Успенка - РФ шекарасы» республикалық маңызы бар автомобиль жолында Ертіс өзені арқылы өтетін көпір салу</td>
-<td colspan="8">21 741 831</td>
+<td colspan="8">15 006 062</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td colspan="3">Шығыс Қазақстан облысының Күршім ауданында Бұқтырма су қоймасы арқылы көпір өткелін салу</td>
+<td colspan="8">25 253 133</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6776,7 +6787,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақтөбе облысы</th>
-<th colspan="8">4 510 273</th>
+<th colspan="8">3 705 829</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6787,7 +6798,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Ақтөбе облысы бойынша «Жайсан» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 263 513</td>
+<td colspan="8">1 860 004</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6798,7 +6809,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Ақтөбе облысы бойынша «Байтурасай» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 246 760</td>
+<td colspan="8">1 845 825</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6809,7 +6820,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қостанай облысы</th>
-<th colspan="8">7 218 202</th>
+<th colspan="8">6 174 551</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6820,7 +6831,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қостанай облысы бойынша «Кенерал» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">1 155 393</td>
+<td colspan="8">935 217</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6831,7 +6842,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қостанай облысы бойынша «Қайрақ» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">1 178 440</td>
+<td colspan="8">959 160</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6842,7 +6853,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қостанай облысы бойынша «Бірлік» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 443 127</td>
+<td colspan="8">2 141 060</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6853,7 +6864,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қостанай облысы бойынша «Ұзынағаш» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 441 242</td>
+<td colspan="8">2 139 114</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6864,7 +6875,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Павлодар облысы</th>
-<th colspan="8">4 376 409</th>
+<th colspan="8">3 590 956</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6875,7 +6886,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Павлодар облысы бойынша «Арлан» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 177 067</td>
+<td colspan="8">1 786 147</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6886,7 +6897,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Павлодар облысы бойынша «Шарбақты» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 199 342</td>
+<td colspan="8">1 804 809</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6897,7 +6908,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Солтүстік Қазақстан облысы</th>
-<th colspan="8">8 091 761</th>
+<th colspan="8">10 725 309</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6908,7 +6919,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Келтесай» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">1 016 289</td>
+<td colspan="8">1 443 658</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6919,7 +6930,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Талсай» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">199 543</td>
+<td colspan="8">202 637</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6930,7 +6941,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Қарақұдық» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">207 206</td>
+<td colspan="8">764 569</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6941,7 +6952,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Есіл» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">179 422</td>
+<td colspan="8">303 655</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6952,7 +6963,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Каскад» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">968 529</td>
+<td colspan="8">1 611 258</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6963,7 +6974,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Ақ көл» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">253 785</td>
+<td colspan="8">332 256</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6974,7 +6985,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Арал ағаш» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 308 867</td>
+<td colspan="8">1 897 588</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6985,7 +6996,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Жаңажол» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">132 259</td>
+<td colspan="8">189 065</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6996,7 +7007,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Ашикен» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">208 822</td>
+<td colspan="8">789 243</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -7007,7 +7018,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Қызыл ту» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">2 274 937</td>
+<td colspan="8">1 868 633</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -7018,7 +7029,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Жамбыл» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">138 199</td>
+<td colspan="8">472 790</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -7029,7 +7040,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/30.03.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысы бойынша «Баян батыр атындағы» шекара бөлімшесінің құрылысы</td>
-<td colspan="8">203 903</td>
+<td colspan="8">849 957</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
