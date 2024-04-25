@@ -25,17 +25,24 @@ versions:
   cause:
     code: '182256'
     key: G23KH02406A
+- date: 2024-04-25
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '196268'
+    key: G24KH01804A
 version_date:
-  kaz: 2023-05-26
-  rus: 2023-05-26
+  kaz: 2024-04-25
+  rus: 2024-04-25
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/169450/kaz/26.05.2023
-  rus: https://zan.gov.kz/client/#!/doc/169450/rus/26.05.2023
+  kaz: https://zan.gov.kz/client/#!/doc/169450/kaz/25.04.2024
+  rus: https://zan.gov.kz/client/#!/doc/169450/rus/25.04.2024
 caused_by:
-  code: '182256'
-  key: G23KH02406A
-  requisite: Постановление акимата города Шахтинска Карагандинской области от 26 мая 2023 года № 24/06
+  code: '196268'
+  key: G24KH01804A
+  requisite: Постановление акимата города Шахтинска Карагандинской области от 25 апреля 2024 года № 18/04
   title:
-    rus: О внесении изменений в Положение государственного учреждения «Аппарат акима города Шахтинска»
+    rus: О внесении изменения в Положение государственного учреждения «Аппарат акима города Шахтинска»
     kaz: «Шахтинск қаласы әкімінің аппараты» мемлекеттік мекемесінің Ережесіне өзгеріс енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/182256/rus
+  link: https://zan.gov.kz/client/#!/doc/196268/rus
