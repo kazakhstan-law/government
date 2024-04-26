@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/39146/rus/05.04.2024
+source: https://zan.gov.kz/client/#!/doc/39146/rus/26.04.2024
 ---
 
 # О некоторых вопросах Министерства финансов Республики Казахстан
