@@ -1,0 +1,24 @@
+key: G24E001992A
+akn: /akn/kz/act/2024-04-30/G24E001992A
+act_code: '196302'
+requisite: Постановление акимата города Шымкент от 30 апреля 2024 года № 1992
+title:
+  rus: О снятии ограничительных мероприятий
+  kaz: Шектеу іс-шараларын тоқтату туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2024-04-30
+approved_by:
+- '167000000001'
+versions:
+- date: 2024-04-30
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2024-04-30
+  rus: 2024-04-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/196302/kaz/30.04.2024
+  rus: https://zan.gov.kz/client/#!/doc/196302/rus/30.04.2024
