@@ -1,5 +1,5 @@
 ---
-version_id: I179204_2
+version_id: I179204_4
 act_code: '179204'
 language: kaz
 title: Абай облысы бойынша кен іздеушілікке арналған аумақтарды айқындау туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '168000000001'
 approval_date: 2023-03-15
-version_date: 2024-01-16
+version_date: 2024-05-23
 registry_number: '179204'
 caused_by:
-  code: '192816'
+  code: '197455'
   title: Абай облысының әкімдігінің 2023 жылғы 15 наурыздағы № 53 «Абай облысы бойынша кен іздеушілікке арналған аумақтарды айқындау туралы» қаулысына толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/192816/kaz
-source: https://zan.gov.kz/client/#!/doc/179204/kaz/16.01.2024
+  link: https://zan.gov.kz/client/#!/doc/197455/kaz
+source: https://zan.gov.kz/client/#!/doc/179204/kaz/23.05.2024
 ---
 
 # Абай облысы бойынша кен іздеушілікке арналған аумақтарды айқындау туралы
@@ -63,7 +63,7 @@ source: https://zan.gov.kz/client/#!/doc/179204/kaz/16.01.2024
 
 ## Абай облысы бойынша кен іздеушілікке арналған аумақтар
 
-> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
+> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.05.2024 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -1249,5 +1249,292 @@ source: https://zan.gov.kz/client/#!/doc/179204/kaz/16.01.2024
 <td>47</td>
 <td>43</td>
 <td>49,85</td>
+</tr>
+<tr>
+<td rowspan="4">29.</td>
+<td rowspan="4">Учаске</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>38</td>
+<td>28,0572</td>
+<td>49</td>
+<td>41</td>
+<td>40,9344</td>
+<td rowspan="4">3,6</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>38</td>
+<td>30,2748</td>
+<td>49</td>
+<td>41</td>
+<td>42,2268</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>38</td>
+<td>50,5284</td>
+<td>49</td>
+<td>41</td>
+<td>27,6576</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>38</td>
+<td>48,3504</td>
+<td>49</td>
+<td>41</td>
+<td>26,3616</td>
+</tr>
+<tr>
+<td rowspan="4">30.</td>
+<td rowspan="4">Чарск-1 учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>7</td>
+<td>57</td>
+<td>49</td>
+<td>19</td>
+<td>47</td>
+<td rowspan="4">4,4</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>8</td>
+<td>5</td>
+<td>49</td>
+<td>19</td>
+<td>47</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>8</td>
+<td>5</td>
+<td>49</td>
+<td>19</td>
+<td>38</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>7</td>
+<td>57</td>
+<td>49</td>
+<td>19</td>
+<td>38</td>
+</tr>
+<tr>
+<td rowspan="4">31.</td>
+<td rowspan="4">Учаске</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>37</td>
+<td>26,0004</td>
+<td>49</td>
+<td>43</td>
+<td>5,9988</td>
+<td rowspan="4">4,5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>37</td>
+<td>41,1492</td>
+<td>49</td>
+<td>43</td>
+<td>1,8588</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>37</td>
+<td>38,19</td>
+<td>49</td>
+<td>42</td>
+<td>57,87</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>37</td>
+<td>22,9908</td>
+<td>49</td>
+<td>43</td>
+<td>1,9812</td>
+</tr>
+<tr>
+<td rowspan="4">32.</td>
+<td rowspan="4">Карашокы-1</td>
+<td rowspan="4">Абай</td>
+<td>1</td>
+<td>79</td>
+<td>12</td>
+<td>41</td>
+<td>48</td>
+<td>51</td>
+<td>51</td>
+<td rowspan="4">4,543</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>12</td>
+<td>49</td>
+<td>48</td>
+<td>51</td>
+<td>51</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>12</td>
+<td>49</td>
+<td>48</td>
+<td>51</td>
+<td>42</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>12</td>
+<td>41</td>
+<td>48</td>
+<td>51</td>
+<td>42</td>
+</tr>
+<tr>
+<td rowspan="4">33.</td>
+<td rowspan="4">Карашокы-2</td>
+<td rowspan="4">Абай</td>
+<td>1</td>
+<td>79</td>
+<td>12</td>
+<td>41</td>
+<td>48</td>
+<td>51</td>
+<td>40</td>
+<td rowspan="4">4,41</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>12</td>
+<td>48</td>
+<td>48</td>
+<td>51</td>
+<td>40</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>12</td>
+<td>48</td>
+<td>48</td>
+<td>51</td>
+<td>30</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>12</td>
+<td>41</td>
+<td>48</td>
+<td>51</td>
+<td>30</td>
+</tr>
+<tr>
+<td rowspan="4">34.</td>
+<td rowspan="4">Айпара-1</td>
+<td rowspan="4">Абай</td>
+<td>1</td>
+<td>78</td>
+<td>58</td>
+<td>6</td>
+<td>48</td>
+<td>58</td>
+<td>23</td>
+<td rowspan="4">3,263</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>78</td>
+<td>58</td>
+<td>19</td>
+<td>48</td>
+<td>58</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>78</td>
+<td>58</td>
+<td>19</td>
+<td>48</td>
+<td>58</td>
+<td>19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>78</td>
+<td>58</td>
+<td>6</td>
+<td>48</td>
+<td>58</td>
+<td>19</td>
+</tr>
+<tr>
+<td rowspan="4">35.</td>
+<td rowspan="4">Айпара-2</td>
+<td rowspan="4">Абай</td>
+<td>1</td>
+<td>78</td>
+<td>58</td>
+<td>55</td>
+<td>48</td>
+<td>59</td>
+<td>47</td>
+<td rowspan="4">4,017</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>78</td>
+<td>59</td>
+<td>11</td>
+<td>48</td>
+<td>59</td>
+<td>47</td>
+</tr>
+<tr>
+<td>3</td>
+<td>78</td>
+<td>59</td>
+<td>11</td>
+<td>48</td>
+<td>59</td>
+<td>43</td>
+</tr>
+<tr>
+<td>4</td>
+<td>78</td>
+<td>58</td>
+<td>55</td>
+<td>48</td>
+<td>59</td>
+<td>43</td>
 </tr>
 </table>
