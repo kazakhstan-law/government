@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/206693/rus/30.01.2023
+source: https://zan.gov.kz/client/#!/doc/206693/rus/23.05.2024
 ---
 
 # Об утверждении положений аппаратов акимов районов города Алматы
