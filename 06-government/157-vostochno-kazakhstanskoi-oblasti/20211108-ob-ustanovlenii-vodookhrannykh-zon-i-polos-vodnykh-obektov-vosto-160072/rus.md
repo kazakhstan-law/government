@@ -1,5 +1,5 @@
 ---
-version_id: '160072_681429'
+version_id: '160072_705257'
 act_code: '160072'
 language: rus
 title: Об установлении водоохранных зон и полос водных объектов Восточно-Казахстанской области и режима их хозяйственного использования
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2021-11-08
-version_date: 2023-12-15
+version_date: 2024-05-24
 registry_number: '160072'
 caused_by:
-  code: '190281'
+  code: '197162'
   title: О внесении изменения в постановление Восточно-Казахстанского областного акимата от 8 ноября 2021 года № 322 «Об установлении водоохранных зон и полос водных объектов Восточно-Казахстанской области и режима их хозяйственного использования»
-  link: https://zan.gov.kz/client/#!/doc/190281/rus
-source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
+  link: https://zan.gov.kz/client/#!/doc/197162/rus
+source: https://zan.gov.kz/client/#!/doc/160072/rus/24.05.2024
 ---
 
 # Об установлении водоохранных зон и полос водных объектов Восточно-Казахстанской области и режима их хозяйственного использования
@@ -58,7 +58,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 
 ## Водоохранные зоны и полосы водных объектов Восточно-Казахстанской области
 
-> *Сноска. Приложение 1 в редакции постановления Восточно-Казахстанского областного акимата от 12.04.2022 № 87 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 23.08.2022 № 202 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 15.12.2022 № 312 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования);от 26.05.2023 № 115 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 01.11.2023 № 233 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 15.12.2023 № 285 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции постановления Восточно-Казахстанского областного акимата от 12.04.2022 № 87 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 23.08.2022 № 202 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 15.12.2022 № 312 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 26.05.2023 № 115 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 01.11.2023 № 233 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 15.12.2023 № 285 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 24.05.2024 № 122 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">Площадь водоохранной зоны (гектар)</td>
 <td>Площадь водоохранной полосы (гектар)</td>
 <td>Ширина водоохранной зоны (метр)</td>
-<td colspan="2">Ширина водоохранной полосы (метр)</td>
+<td>Ширина водоохранной полосы (метр)</td>
 </tr>
 <tr>
 <td colspan="8">город Усть-Каменогорск</td>
@@ -86,7 +86,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">4,2771</td>
 <td>0,2925</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
 <td>2</td>
@@ -105,7 +105,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">0,8429</td>
 <td>0,1905</td>
 <td>142-185</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>4</td>
@@ -117,7 +117,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">5,6266</td>
 <td>0,3326</td>
 <td>568-598</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>5</td>
@@ -126,7 +126,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">4,4268</td>
 <td>0,7584</td>
 <td>183-240</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>6</td>
@@ -138,7 +138,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">-</td>
 <td>0,2914</td>
 <td>-</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>7</td>
@@ -150,7 +150,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">11,1704</td>
 <td>0,2809</td>
 <td>500-631</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>8</td>
@@ -162,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">24,457</td>
 <td>9,024</td>
 <td>212-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
 <td>9</td>
@@ -174,7 +174,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,7</td>
 <td>0,1</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>10</td>
@@ -186,7 +186,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">7,73</td>
 <td>0,11</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>11</td>
@@ -198,7 +198,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">3,3924</td>
 <td>0,1061</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
 <td>12</td>
@@ -221,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,6631</td>
 <td>0,1929</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>14</td>
@@ -233,7 +233,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">-</td>
 <td>0,1853</td>
 <td>-</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>15</td>
@@ -242,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,6052</td>
 <td>0,1172</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>16</td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">3,74</td>
 <td>0,26</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>17</td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 -
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
@@ -291,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">13,17</td>
 <td>2,71</td>
 <td>500</td>
-<td colspan="2">35-100</td>
+<td>35-100</td>
 </tr>
 <tr>
 <td>19</td>
@@ -303,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">154,76</td>
 <td>71,47</td>
 <td>400-1600</td>
-<td colspan="2">30-500</td>
+<td>30-500</td>
 </tr>
 <tr>
 <td>20</td>
@@ -312,7 +312,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">34,34</td>
 <td>3,84</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>21</td>
@@ -320,7 +320,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 река Ертис
 левый берег
 </td>
-<td rowspan="2">
+<td rowspan="14">
 в 0,55 километрах
 северо-западнее
 села Ново-Явленка
@@ -328,7 +328,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">73,3897</td>
 <td>2,6020</td>
 <td rowspan="2">500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
 <td>22</td>
@@ -337,7 +337,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 левый берег
 </td>
 <td>5,0707</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>23</td>
@@ -345,15 +345,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 река Ертис
 левый берег
 </td>
-<td rowspan="2">
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2" rowspan="2">84,1791</td>
 <td>2,8821</td>
 <td rowspan="2">500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
 <td>24</td>
@@ -362,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 правый берег
 </td>
 <td>5,1560</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>25</td>
@@ -370,15 +365,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 река Ертис
 левый берег
 </td>
-<td>
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2">101,5606</td>
 <td>13,9150</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
 <td>26</td>
@@ -386,15 +376,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 протока Тихая
 левый берег
 </td>
-<td>
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2">26,0863</td>
 <td>2,0967</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>27</td>
@@ -402,15 +387,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 подводящий канал
 правый берег
 </td>
-<td rowspan="3">
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2" rowspan="3">87,4432</td>
 <td>5,0624</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
 <td>28</td>
@@ -434,15 +414,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 подводящий канал
 левый берег
 </td>
-<td rowspan="2">
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2" rowspan="2">109,7614</td>
 <td>5,2086</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
 <td>31</td>
@@ -458,15 +433,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 отводной канал
 левый берег
 </td>
-<td>
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2">17,3965</td>
 <td>1,6536</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>33</td>
@@ -474,15 +444,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 протока Тихая
 левый берег
 </td>
-<td rowspan="2">
-в 0,55 километрах
-северо-западнее
-села Ново-Явленка
-</td>
 <td colspan="2" rowspan="2">5,1197</td>
 <td>0,4606</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
 <td>34</td>
@@ -512,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 760-977
 264-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
@@ -527,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">6,9</td>
 <td>0,6</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
 <td>37</td>
@@ -535,14 +500,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 река Аблакетка
 левый берег
 </td>
-<td>
+<td rowspan="2">
 на территории города
 Усть-Каменогорск
 </td>
 <td colspan="2">67,5</td>
 <td>10</td>
 <td>500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
 <td>38</td>
@@ -550,10 +515,6 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 ручей без названия
 правый берег
 левый берег
-</td>
-<td>
-на территории города
-Усть-Каменогорск
 </td>
 <td colspan="2">
 108,3
@@ -567,16 +528,184 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td colspan="9">город Риддер</td>
+<td>39</td>
+<td>
+протока Комендантка
+правый берег
+</td>
+<td>
+на территории города
+Усть-Каменогорск
+</td>
+<td colspan="2">0,0425</td>
+<td>0,2</td>
+<td>300-357</td>
+<td>77</td>
 </tr>
 <tr>
-<td>39</td>
+<td>40</td>
+<td>
+река Березовка
+правый берег
+левый берег
+</td>
+<td rowspan="7">на территории учетного квартала 05-085-142</td>
+<td colspan="2">
+113,6
+84,6
+</td>
+<td>
+16,5
+10,3
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+35
+</td>
+</tr>
+<tr>
+<td>41</td>
+<td>
+ручей Березовый Лог
+правый берег
+левый берег
+</td>
+<td colspan="2">
+131,2
+162,2
+</td>
+<td>
+19,7
+19,5
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>42</td>
+<td>
+ручей Каратай
+правый берег
+левый берег
+</td>
+<td colspan="2">
+212,6
+180
+</td>
+<td>
+21,4
+20,9
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>43</td>
+<td>
+ручей без названия №1
+правый берег
+левый берег
+</td>
+<td colspan="2">
+63,6
+61,2
+</td>
+<td>
+8,4
+8,2
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>44</td>
+<td>
+ручей без названия №2
+правый берег
+левый берег
+</td>
+<td colspan="2">
+44,6
+27,8
+</td>
+<td>
+5,5
+5,4
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>45</td>
+<td>
+ручей без названия №3
+правый берег
+левый берег
+</td>
+<td colspan="2">
+37,2
+18,1
+</td>
+<td>
+4,3
+4
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>46</td>
+<td>родник №1</td>
+<td colspan="2">18,5</td>
+<td>0,3</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td colspan="8">город Риддер</td>
+</tr>
+<tr>
+<td>47</td>
 <td>
 река Чесноковка
 правый берег
@@ -595,13 +724,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 320-500
 50-215
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>40</td>
+<td>48</td>
 <td>
 река Малая Поперечная
 левый берег
@@ -613,10 +742,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">120</td>
 <td>-</td>
 <td>500</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>41</td>
+<td>49</td>
 <td>
 река Чесноковка
 правый берег
@@ -624,10 +753,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">48,8</td>
 <td>4,4</td>
 <td>270-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>42</td>
+<td>50</td>
 <td>
 ручей без названия
 правый берег
@@ -645,22 +774,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 130-500
 -
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>43</td>
+<td>51</td>
 <td>река Ульба</td>
 <td>садоводческое общество «Казахстан»</td>
 <td colspan="2">0,313</td>
 <td>0,051</td>
 <td>220-222</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>44</td>
+<td>52</td>
 <td>
 река Белая Уба
 левый берег
@@ -669,10 +798,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">25,53</td>
 <td>1,35</td>
 <td rowspan="2">209-413</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>45</td>
+<td>53</td>
 <td>
 река Большая Разливанка
 левый берег
@@ -680,16 +809,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>0,87</td>
 </tr>
 <tr>
-<td>46</td>
+<td>54</td>
 <td>река Тихая</td>
 <td>Лениногорский лесхоз, улица Лесхозная</td>
 <td colspan="2">0,2909</td>
 <td>0,08</td>
 <td>138</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>47</td>
+<td>55</td>
 <td>
 река Ульба
 левый берег
@@ -698,10 +827,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">8,867</td>
 <td>1,351</td>
 <td>167-323</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>48</td>
+<td>56</td>
 <td>
 река Луговатая
 левый берег
@@ -720,13 +849,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 150-500
 150-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>49</td>
+<td>57</td>
 <td>
 притоки по левому берегу реки Луговатая
 левый берег
@@ -744,13 +873,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 50
 50
 </td>
 </tr>
 <tr>
-<td>50</td>
+<td>58</td>
 <td>
 притоки по правому берегу реки Луговатая
 левый берег
@@ -768,13 +897,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>51</td>
+<td>59</td>
 <td>
 река Позднопаловка
 левый берег
@@ -787,10 +916,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">52,79</td>
 <td>4,6</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>52</td>
+<td>60</td>
 <td>
 ручей без названия
 правый берег
@@ -799,10 +928,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">138,9</td>
 <td>24,33</td>
 <td>500-761</td>
-<td colspan="2">55-70</td>
+<td>55-70</td>
 </tr>
 <tr>
-<td>53</td>
+<td>61</td>
 <td>
 ручей Шубин
 левый берег
@@ -824,25 +953,29 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 153,7-483
 55
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>54</td>
+<td>62</td>
 <td>
 ручей Ванявка
 левый берег
 </td>
-<td>в 9,8 километрах северо-восточнее села Ливино</td>
+<td>
+в 9,8 километрах
+северо-восточнее
+села Ливино
+</td>
 <td colspan="2">15,2</td>
 <td>0,02</td>
 <td>500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>55</td>
+<td>63</td>
 <td>
 река Чесноковка
 левый берег
@@ -851,10 +984,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">3</td>
 <td>0,21</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>56</td>
+<td>64</td>
 <td>
 ручей Листвяжная
 левый берег
@@ -866,10 +999,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">154,8</td>
 <td>19,5</td>
 <td>500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>57</td>
+<td>65</td>
 <td>
 ручей без названия
 приток ручья Листвяжная
@@ -880,7 +1013,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>400-500</td>
 </tr>
 <tr>
-<td>58</td>
+<td>66</td>
 <td>
 река Белая Уба
 левый берег
@@ -892,10 +1025,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">46</td>
 <td>3,1</td>
 <td>320-400</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>59</td>
+<td>67</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -913,13 +1046,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 220-500
 200-310
 </td>
-<td colspan="2">
-55
-55
-</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>60</td>
+<td>68</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -927,10 +1057,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">2,5</td>
 <td>2,6</td>
 <td>150</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>61</td>
+<td>69</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -939,10 +1068,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">8,4</td>
 <td>2,3</td>
 <td>45-209</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>62</td>
+<td>70</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -952,65 +1081,72 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>45-204</td>
 </tr>
 <tr>
-<td>63</td>
+<td>71</td>
 <td>река Филиповка</td>
 <td rowspan="10">город Риддер</td>
 <td colspan="2">36,6094</td>
 <td>4,5949</td>
 <td rowspan="9">500</td>
-<td colspan="2">35-50</td>
-</tr>
-<tr>
-<td>64</td>
-<td>ручей Первый Сергеевский</td>
-<td colspan="2">34,6639</td>
-<td>2,1969</td>
-<td colspan="2" rowspan="8">35</td>
-</tr>
-<tr>
-<td>65</td>
-<td>ручей Теремок</td>
-<td colspan="2">77,5387</td>
-<td>13,0762</td>
-</tr>
-<tr>
-<td>66</td>
-<td>ручей без названия</td>
-<td colspan="2">62,1923</td>
-<td>996,1</td>
-</tr>
-<tr>
-<td>67</td>
-<td>река Быструха</td>
-<td colspan="2">19,4359</td>
-<td>1,5022</td>
-</tr>
-<tr>
-<td>68</td>
-<td>ручей без названия</td>
-<td colspan="2">315,9844</td>
-<td>21,3032</td>
-</tr>
-<tr>
-<td>69</td>
-<td>ручей без названия № 1</td>
-<td colspan="2">89,9568</td>
-<td>6,8109</td>
-</tr>
-<tr>
-<td>70</td>
-<td>ручей Гагарин Ключ</td>
-<td colspan="2">81,7493</td>
-<td>8,4649</td>
-</tr>
-<tr>
-<td>71</td>
-<td>ручей без названия</td>
-<td colspan="2">30,8593</td>
-<td>6,3435</td>
+<td>35-50</td>
 </tr>
 <tr>
 <td>72</td>
+<td>ручей Первый Сергеевский</td>
+<td colspan="2">34,6639</td>
+<td>2,1969</td>
+<td>35</td>
+</tr>
+<tr>
+<td>73</td>
+<td>ручей Теремок</td>
+<td colspan="2">77,5387</td>
+<td>13,0762</td>
+<td>35</td>
+</tr>
+<tr>
+<td>74</td>
+<td>ручей без названия</td>
+<td colspan="2">62,1923</td>
+<td>996,1</td>
+<td>35</td>
+</tr>
+<tr>
+<td>75</td>
+<td>река Быструха</td>
+<td colspan="2">19,4359</td>
+<td>1,5022</td>
+<td>35</td>
+</tr>
+<tr>
+<td>76</td>
+<td>ручей без названия</td>
+<td colspan="2">315,9844</td>
+<td>21,3032</td>
+<td>35</td>
+</tr>
+<tr>
+<td>77</td>
+<td>ручей без названия № 1</td>
+<td colspan="2">89,9568</td>
+<td>6,8109</td>
+<td>35</td>
+</tr>
+<tr>
+<td>78</td>
+<td>ручей Гагарин Ключ</td>
+<td colspan="2">81,7493</td>
+<td>8,4649</td>
+<td>35</td>
+</tr>
+<tr>
+<td>79</td>
+<td>ручей без названия</td>
+<td colspan="2">30,8593</td>
+<td>6,3435</td>
+<td>35</td>
+</tr>
+<tr>
+<td>80</td>
 <td>
 река Ульба
 правый берег
@@ -1025,10 +1161,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 199,7244
 </td>
 <td>25-500</td>
-<td colspan="2">25-100</td>
+<td>25-100</td>
 </tr>
 <tr>
-<td>73</td>
+<td>81</td>
 <td>
 канал Ловчий
 правый берег
@@ -1047,13 +1183,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 58-500
 10-491
 </td>
-<td colspan="2">
+<td>
 55
 10-100
 </td>
 </tr>
 <tr>
-<td>74</td>
+<td>82</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -1071,13 +1207,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 450-460
 450-460
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>75</td>
+<td>83</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -1095,13 +1231,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 491-564
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>76</td>
+<td>84</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -1119,13 +1255,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 282-500
 282-500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>77</td>
+<td>85</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -1143,13 +1279,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 169-500
 169-500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>78</td>
+<td>86</td>
 <td>
 Быструшинское водохранилище
 правый берег
@@ -1167,13 +1303,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 114-500
 </td>
-<td colspan="2">
+<td>
 100
 17,5
 </td>
 </tr>
 <tr>
-<td>79</td>
+<td>87</td>
 <td>
 река Быструха
 правый берег
@@ -1191,13 +1327,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>80</td>
+<td>88</td>
 <td>
 ручей Гремучий Ключ
 правый берег
@@ -1209,13 +1345,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 2
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>81</td>
+<td>89</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -1227,13 +1363,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 2
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>82</td>
+<td>90</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -1245,13 +1381,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1,8
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>83</td>
+<td>91</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -1263,13 +1399,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 2,1
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>84</td>
+<td>92</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -1281,13 +1417,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1,3
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 -
 </td>
 </tr>
 <tr>
-<td>85</td>
+<td>93</td>
 <td>
 ручей без названия № 5
 правый берег
@@ -1299,13 +1435,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 2,5
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>86</td>
+<td>94</td>
 <td>
 ручей без названия № 6
 правый берег
@@ -1317,16 +1453,111 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1,8
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td colspan="9">район Алтай</td>
+<td>95</td>
+<td>
+река Быструха
+правый берег
+</td>
+<td rowspan="5">на участках расположения объектов товарищества с ограниченной ответственностью «Казцинк»</td>
+<td colspan="2">4,6</td>
+<td>1,8</td>
+<td>55-500</td>
+<td>35</td>
 </tr>
 <tr>
-<td>87</td>
+<td>96</td>
+<td>
+ручей без названия № 7
+правый берег
+левый берег
+</td>
+<td colspan="2">
+39,9
+4,1
+</td>
+<td>
+2,4
+2,3
+</td>
+<td>
+500
+57-85
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>97</td>
+<td>
+река Быструха
+левый берег
+</td>
+<td colspan="2">7,8</td>
+<td>1,1</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>98</td>
+<td>
+ручей без названия № 4
+правый берег
+левый берег
+</td>
+<td colspan="2">-</td>
+<td>
+0,5
+0,4
+</td>
+<td>-</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>99</td>
+<td>
+ручей без названия № 5
+правый берег
+левый берег
+</td>
+<td colspan="2">-</td>
+<td>
+0,8
+0,7
+</td>
+<td>-</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>100</td>
+<td>
+река Ульба
+правый берег
+</td>
+<td>садоводческое общество «Казахстан»</td>
+<td colspan="2">171,9</td>
+<td>12,2</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td colspan="8">район Алтай</td>
+</tr>
+<tr>
+<td>101</td>
 <td>
 река Бухтарма
 правый берег
@@ -1335,10 +1566,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">83</td>
 <td>10,4</td>
 <td>80-500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>88</td>
+<td>102</td>
 <td>
 ручей Красный Яр
 правый берег
@@ -1358,7 +1589,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>89</td>
+<td>103</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -1378,7 +1609,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>90</td>
+<td>104</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -1388,7 +1619,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>170-350</td>
 </tr>
 <tr>
-<td>91</td>
+<td>105</td>
 <td>
 Бухтарминское водохранилище
 правый берег
@@ -1397,10 +1628,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">119,1</td>
 <td>12,95</td>
 <td>290-710</td>
-<td colspan="2">35-75</td>
+<td>35-75</td>
 </tr>
 <tr>
-<td>92</td>
+<td>106</td>
 <td>
 ручей без названия
 правый берег
@@ -1418,13 +1649,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 35
 75
 </td>
 </tr>
 <tr>
-<td>93</td>
+<td>107</td>
 <td>
 река Осиновка
 правый берег
@@ -1436,10 +1667,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">152,187</td>
 <td>28,507</td>
 <td>295-500</td>
-<td colspan="2" rowspan="2">75</td>
+<td rowspan="2">75</td>
 </tr>
 <tr>
-<td>94</td>
+<td>108</td>
 <td>
 правый приток
 реки Осиновка
@@ -1450,7 +1681,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>160-500</td>
 </tr>
 <tr>
-<td>95</td>
+<td>109</td>
 <td>
 река Крутая
 левый берег
@@ -1462,10 +1693,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">15,7</td>
 <td>2</td>
 <td>500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>96</td>
+<td>110</td>
 <td>
 ручей Строганка
 левый берег
@@ -1475,7 +1706,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>340-760</td>
 </tr>
 <tr>
-<td>97</td>
+<td>111</td>
 <td>
 ручей Томиловка
 правый берег
@@ -1494,10 +1725,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 160-700
 80-375
 </td>
-<td colspan="2" rowspan="6">35</td>
+<td rowspan="6">35</td>
 </tr>
 <tr>
-<td>98</td>
+<td>112</td>
 <td>
 ручей Крестьянка
 правый берег
@@ -1517,7 +1748,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>99</td>
+<td>113</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -1537,7 +1768,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>100</td>
+<td>114</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -1557,7 +1788,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>101</td>
+<td>115</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -1577,7 +1808,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>102</td>
+<td>116</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -1597,7 +1828,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>103</td>
+<td>117</td>
 <td>
 река Мельничная
 правый берег
@@ -1616,10 +1847,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 250-750
 500
 </td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>104</td>
+<td>118</td>
 <td>
 ручей Томилин ключ
 правый берег
@@ -1639,7 +1870,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>105</td>
+<td>119</td>
 <td>
 ручей Огневка
 левый берег
@@ -1648,10 +1879,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">51,7</td>
 <td>5,9</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>106</td>
+<td>120</td>
 <td>
 ручей Козлушка
 правый берег
@@ -1667,7 +1898,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>107</td>
+<td>121</td>
 <td>
 ручей Терентьев
 левый берег
@@ -1676,7 +1907,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>7,2</td>
 </tr>
 <tr>
-<td>108</td>
+<td>122</td>
 <td>
 ручей без названия
 правый берег
@@ -1698,13 +1929,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 130-470
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>109</td>
+<td>123</td>
 <td>
 река Бухтарма
 левый берег
@@ -1713,10 +1944,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">27,72</td>
 <td>3,07</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>110</td>
+<td>124</td>
 <td>
 приток № 1
 реки Поперечная
@@ -1729,10 +1960,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="3">19,69</td>
 <td>4,38</td>
 <td rowspan="3">1334-1975</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>111</td>
+<td>125</td>
 <td>
 приток № 2
 реки Поперечная
@@ -1740,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>4,88</td>
 </tr>
 <tr>
-<td>112</td>
+<td>126</td>
 <td>
 приток № 3
 реки Поперечная
@@ -1749,7 +1980,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>4,9</td>
 </tr>
 <tr>
-<td>113</td>
+<td>127</td>
 <td>река Березовка</td>
 <td rowspan="2">
 в 0,1 километре восточнее
@@ -1758,18 +1989,18 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">155,0557</td>
 <td>19,0672</td>
 <td>500-783</td>
-<td colspan="2">35-178</td>
+<td>35-178</td>
 </tr>
 <tr>
-<td>114</td>
+<td>128</td>
 <td>река Мяконькая</td>
 <td colspan="2">48,0160</td>
 <td>7,1255</td>
 <td>500-598</td>
-<td colspan="2">55-207</td>
+<td>55-207</td>
 </tr>
 <tr>
-<td>115</td>
+<td>129</td>
 <td>
 река Хамир
 правый берег
@@ -1778,10 +2009,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">159,2</td>
 <td>5,8</td>
 <td>500-710</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>116</td>
+<td>130</td>
 <td>
 ручей
 Филимоновский
@@ -1802,7 +2033,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>117</td>
+<td>131</td>
 <td>
 ручей Мартыновский
 левый берег
@@ -1812,33 +2043,33 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>118</td>
+<td>132</td>
 <td>река Березовка</td>
 <td rowspan="3">северо-восточнее села Соловьево</td>
 <td colspan="2" rowspan="3">128,1707</td>
 <td>7,7209</td>
 <td>212-500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>119</td>
+<td>133</td>
 <td>река Мяконькая</td>
 <td>19,7313</td>
 <td>212-500</td>
-<td colspan="2">55-310</td>
+<td>55-310</td>
 </tr>
 <tr>
-<td>120</td>
+<td>134</td>
 <td>
 приток № 1
 реки Березовка
 </td>
 <td>7,5467</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>121</td>
+<td>135</td>
 <td>
 Бухтарминское водохранилище
 правый берег
@@ -1850,10 +2081,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">119,1</td>
 <td>12,95</td>
 <td>290-710</td>
-<td colspan="2">35-75</td>
+<td>35-75</td>
 </tr>
 <tr>
-<td>122</td>
+<td>136</td>
 <td>
 ручей без названия
 правый берег
@@ -1871,13 +2102,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 35
 75
 </td>
 </tr>
 <tr>
-<td>123</td>
+<td>137</td>
 <td>истоки ручья Крестовка</td>
 <td>
 в 6 километрах восточнее
@@ -1886,10 +2117,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">83,5</td>
 <td>8,4</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>124</td>
+<td>138</td>
 <td>Бухтарминское водохранилище</td>
 <td>
 на территории
@@ -1899,10 +2130,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">13928,7166</td>
 <td>3144,5465</td>
 <td>35-1070</td>
-<td colspan="2">35-100</td>
+<td>35-100</td>
 </tr>
 <tr>
-<td>125</td>
+<td>139</td>
 <td>
 Бухтарминское водохранилище
 правый берег
@@ -1911,10 +2142,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">32,7</td>
 <td>8,2</td>
 <td>500-710</td>
-<td colspan="2">35-138</td>
+<td>35-138</td>
 </tr>
 <tr>
-<td>126</td>
+<td>140</td>
 <td>
 река Березовка
 левый берег
@@ -1923,10 +2154,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">54</td>
 <td>4,5</td>
 <td>300-470</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>127</td>
+<td>141</td>
 <td>
 Усть-Каменогорское водохранилище
 правый берег (село Ермаковка)
@@ -1957,7 +2188,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 35
 55-100
 35
@@ -1965,7 +2196,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>128</td>
+<td>142</td>
 <td>
 истоки ручья
 без названия
@@ -1985,25 +2216,26 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>129</td>
+<td>143</td>
 <td>река Чистополька правый берег</td>
 <td rowspan="2">
 в 5 километрах
-северо-восточнее села Александровка
+северо-восточнее
+села Александровка
 </td>
 <td colspan="2" rowspan="2">184,04</td>
 <td>10,83</td>
 <td rowspan="2">859-1780</td>
-<td colspan="2" rowspan="2">50</td>
+<td rowspan="2">50</td>
 </tr>
 <tr>
-<td>130</td>
+<td>144</td>
 <td>
 ручей Березовка
 левый берег
@@ -2011,7 +2243,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>14,87</td>
 </tr>
 <tr>
-<td>131</td>
+<td>145</td>
 <td>истоки реки Малая Мякотиха</td>
 <td rowspan="6">
 на территории учетных кварталов 05-070-059 и
@@ -2019,11 +2251,11 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 <td colspan="2">1289,2</td>
 <td>230,1</td>
-<td rowspan="5">500</td>
-<td colspan="2" rowspan="6">55</td>
+<td>500</td>
+<td rowspan="6">55</td>
 </tr>
 <tr>
-<td>132</td>
+<td>146</td>
 <td>
 река Поперечная
 левый берег
@@ -2037,9 +2269,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 134
 33
 </td>
+<td>
+500
+500
+</td>
 </tr>
 <tr>
-<td>133</td>
+<td>147</td>
 <td>
 река Березовка
 левый берег
@@ -2053,9 +2289,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 128,7
 116,6
 </td>
+<td>
+500
+500
+</td>
 </tr>
 <tr>
-<td>134</td>
+<td>148</td>
 <td>
 река Урунхайка
 левый берег
@@ -2069,15 +2309,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 23,8
 28,4
 </td>
+<td>
+500
+500
+</td>
 </tr>
 <tr>
-<td>135</td>
+<td>149</td>
 <td>истоки реки Таловка</td>
 <td colspan="2">424,1</td>
 <td>38,8</td>
+<td>500</td>
 </tr>
 <tr>
-<td>136</td>
+<td>150</td>
 <td>
 ручей Уфимцев
 левый берег
@@ -2097,7 +2342,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>137</td>
+<td>151</td>
 <td>ручей Поклонный</td>
 <td>
 в 7,5 километрах
@@ -2106,19 +2351,18 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">92</td>
 <td>8</td>
 <td>570-730</td>
-<td colspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>138</td>
+<td>152</td>
 <td>ручей без названия</td>
 <td>в 2,5 километрах восточнее села Северное</td>
 <td colspan="2">12,3</td>
 <td>2,3</td>
 <td>270-310</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>139</td>
+<td>153</td>
 <td>
 река Медведка
 правый берег
@@ -2126,29 +2370,31 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td rowspan="8">на территории учетного квартала 05-070-053</td>
 <td colspan="2">72,1</td>
 <td>7,7</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="8">55</td>
+<td>500</td>
+<td rowspan="8">55</td>
 </tr>
 <tr>
-<td>140</td>
+<td>154</td>
 <td>
 река Чистополька
 правый берег
 </td>
 <td colspan="2">70,3</td>
 <td>13,1</td>
+<td>500</td>
 </tr>
 <tr>
-<td>141</td>
+<td>155</td>
 <td>
 ручей без названия № 1
 левый берег
 </td>
 <td colspan="2">108,6</td>
 <td>13,9</td>
+<td>500</td>
 </tr>
 <tr>
-<td>142</td>
+<td>156</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -2168,7 +2414,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>143</td>
+<td>157</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -2188,28 +2434,28 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>144</td>
+<td>158</td>
 <td>исток родника № 1</td>
 <td colspan="2">26,2</td>
 <td>1,5</td>
 <td>320</td>
 </tr>
 <tr>
-<td>145</td>
+<td>159</td>
 <td>исток родника № 2</td>
 <td colspan="2">26</td>
 <td>1,2</td>
 <td>230</td>
 </tr>
 <tr>
-<td>146</td>
+<td>160</td>
 <td>исток родника № 3</td>
 <td colspan="2">40,5</td>
 <td>0,8</td>
 <td>430-500</td>
 </tr>
 <tr>
-<td>147</td>
+<td>161</td>
 <td>
 ручей Шувалов
 левый берег
@@ -2218,10 +2464,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">25,8</td>
 <td>3,2</td>
 <td>500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>148</td>
+<td>162</td>
 <td>
 ручей без названия
 левый берег
@@ -2231,7 +2477,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>110-420</td>
 </tr>
 <tr>
-<td>149</td>
+<td>163</td>
 <td>
 река Бобровка
 правый берег
@@ -2240,10 +2486,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">113,2</td>
 <td>13</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>150</td>
+<td>164</td>
 <td>
 река Березовка
 левый берег
@@ -2255,10 +2501,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">116,02</td>
 <td>13,1</td>
 <td>174-500</td>
-<td colspan="2">35-130</td>
+<td>35-130</td>
 </tr>
 <tr>
-<td>151</td>
+<td>165</td>
 <td>
 река Топтушка
 правый берег
@@ -2266,10 +2512,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">-</td>
 <td>2,9</td>
 <td>-</td>
-<td colspan="2" rowspan="3">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>152</td>
+<td>166</td>
 <td>
 река Крестовка
 левый берег
@@ -2278,9 +2524,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">56,3</td>
 <td>3,7</td>
 <td>500</td>
+<td>35</td>
 </tr>
 <tr>
-<td>153</td>
+<td>167</td>
 <td>
 ручей Басов
 левый берег
@@ -2288,9 +2535,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">82,51</td>
 <td>6,5</td>
 <td>500</td>
+<td>35</td>
 </tr>
 <tr>
-<td>154</td>
+<td>168</td>
 <td>
 река Осиновка
 левый берег
@@ -2308,10 +2556,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 200-440
 100-465
 </td>
-<td colspan="2" rowspan="4">100</td>
+<td>
+100
+100
+</td>
 </tr>
 <tr>
-<td>155</td>
+<td>169</td>
 <td>
 река Пихтовка
 правый берег
@@ -2329,9 +2580,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 198-500
 </td>
+<td>
+100
+100
+</td>
 </tr>
 <tr>
-<td>156</td>
+<td>170</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -2339,9 +2594,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">22</td>
 <td>10,4</td>
 <td>100-460</td>
+<td>100</td>
 </tr>
 <tr>
-<td>157</td>
+<td>171</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -2349,9 +2605,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">76</td>
 <td>11,5</td>
 <td>100-500</td>
+<td>100</td>
 </tr>
 <tr>
-<td>158</td>
+<td>172</td>
 <td>
 родник Клементьев Лог
 левый берег
@@ -2364,10 +2621,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">143,5</td>
 <td>12,5</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>159</td>
+<td>173</td>
 <td>
 ручей Дарабайкин
 правый берег
@@ -2376,7 +2633,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>18,4</td>
 </tr>
 <tr>
-<td>160</td>
+<td>174</td>
 <td>
 ручей Березовский
 левый берег
@@ -2385,22 +2642,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">315,8</td>
 <td>33,1</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>161</td>
+<td>175</td>
 <td>истоки ручья Маралий</td>
 <td colspan="2">146</td>
 <td>12,8</td>
 </tr>
 <tr>
-<td>162</td>
+<td>176</td>
 <td>родник</td>
 <td colspan="2">65,1</td>
 <td>3,8</td>
 </tr>
 <tr>
-<td>163</td>
+<td>177</td>
 <td>
 река Проходная
 левый берег
@@ -2412,10 +2669,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">34,4967</td>
 <td>4,8180</td>
 <td>165-418</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>164</td>
+<td>178</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -2435,7 +2692,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>165</td>
+<td>179</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -2445,7 +2702,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>202-198</td>
 </tr>
 <tr>
-<td>166</td>
+<td>180</td>
 <td>
 река Мякотиха
 левый берег
@@ -2457,10 +2714,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">853</td>
 <td>14,7</td>
 <td>500</td>
-<td colspan="2" rowspan="10">55</td>
+<td rowspan="10">55</td>
 </tr>
 <tr>
-<td>167</td>
+<td>181</td>
 <td>
 река Малая Мякотиха
 левый берег
@@ -2474,7 +2731,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>168</td>
+<td>182</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -2488,7 +2745,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>380-500</td>
 </tr>
 <tr>
-<td>169</td>
+<td>183</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -2502,7 +2759,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>170-500</td>
 </tr>
 <tr>
-<td>170</td>
+<td>184</td>
 <td>
 ручей без названия № 3
 левый берег
@@ -2519,7 +2776,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>171</td>
+<td>185</td>
 <td>
 ручей без названия № 4
 левый берег
@@ -2529,7 +2786,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>172</td>
+<td>186</td>
 <td>
 ручей без названия № 5
 левый берег
@@ -2546,7 +2803,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>280-500</td>
 </tr>
 <tr>
-<td>173</td>
+<td>187</td>
 <td>
 ручей без названия № 6
 левый берег
@@ -2563,7 +2820,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>290-500</td>
 </tr>
 <tr>
-<td>174</td>
+<td>188</td>
 <td>
 ручей без названия № 7
 левый берег
@@ -2573,7 +2830,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>330-500</td>
 </tr>
 <tr>
-<td>175</td>
+<td>189</td>
 <td>
 ручей без названия № 8
 левый берег
@@ -2590,7 +2847,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>300-500</td>
 </tr>
 <tr>
-<td>176</td>
+<td>190</td>
 <td>
 река Березовка
 левый берег
@@ -2614,13 +2871,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 290-600
 190-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>177</td>
+<td>191</td>
 <td>
 река Бухтарма
 правый берег
@@ -2632,10 +2889,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">62,8</td>
 <td>6,7</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>178</td>
+<td>192</td>
 <td>
 река Бухтарма
 левый берег
@@ -2643,11 +2900,11 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td rowspan="4">на территории учетного квартала 05-070-010</td>
 <td colspan="2">94,9</td>
 <td>7,4</td>
-<td>500</td>
-<td colspan="2">35</td>
+<td rowspan="4">500</td>
+<td>35</td>
 </tr>
 <tr>
-<td>179</td>
+<td>193</td>
 <td>
 ручей без названия
 приток реки Бухтарма
@@ -2655,22 +2912,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 <td colspan="2">87,3</td>
 <td>9,3</td>
-<td>500</td>
-<td colspan="2">35-55</td>
+<td>35-55</td>
 </tr>
 <tr>
-<td>180</td>
+<td>194</td>
 <td>
 река Погуляйка
 правый берег
 </td>
 <td colspan="2">104,6</td>
 <td>11,6</td>
-<td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>181</td>
+<td>195</td>
 <td>
 ручей без названия
 приток реки Погуляйка
@@ -2686,46 +2941,46 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 7,9
 </td>
 <td>
-500
-500
-</td>
-<td colspan="2">
 55
 55
 </td>
 </tr>
 <tr>
-<td>182</td>
+<td>196</td>
 <td>ручей Бурнашевка</td>
 <td>в 6,4 километрах северо-западнее села Никольск</td>
 <td colspan="2">53,1</td>
 <td>6,5</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>183</td>
+<td>197</td>
 <td>река Тополевка</td>
-<td rowspan="3">в 8,7 километрах юго-восточнее села Бедаревка</td>
+<td rowspan="3">
+в 8,7 километрах
+юго-восточнее
+села Бедаревка
+</td>
 <td colspan="2" rowspan="3">311</td>
 <td>16,88</td>
 <td rowspan="3">450-524</td>
-<td colspan="2">145</td>
+<td>145</td>
 </tr>
 <tr>
-<td>184</td>
+<td>198</td>
 <td>река Теплый Ключ</td>
 <td>6,49</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>185</td>
+<td>199</td>
 <td>ручей без названия</td>
 <td>8,59</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>186</td>
+<td>200</td>
 <td>
 река Мельничная
 левый берег
@@ -2734,34 +2989,37 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">0,33</td>
 <td>3,8</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>187</td>
+<td>201</td>
 <td>ручей без названия № 1</td>
-<td rowspan="4">в 10 километрах юго-восточнее села Северное</td>
+<td rowspan="4">
+в 10 километрах
+юго-восточнее села Северное
+</td>
 <td colspan="2" rowspan="4">893,9175</td>
 <td>28,1895</td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>188</td>
+<td>202</td>
 <td>ручей без названия № 2</td>
 <td>27,0972</td>
 </tr>
 <tr>
-<td>189</td>
+<td>203</td>
 <td>ручей без названия № 3</td>
 <td>9,2380</td>
 </tr>
 <tr>
-<td>190</td>
+<td>204</td>
 <td>ручей без названия № 4</td>
 <td>15,0025</td>
 </tr>
 <tr>
-<td>191</td>
+<td>205</td>
 <td>
 ручей Топнушка
 правый берег
@@ -2770,10 +3028,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">25</td>
 <td>-</td>
 <td>500</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>192</td>
+<td>206</td>
 <td>
 ручей без названия
 левый берег
@@ -2781,10 +3039,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">37</td>
 <td>9,1</td>
 <td>500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>193</td>
+<td>207</td>
 <td>
 родник
 правый берег
@@ -2802,13 +3060,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>194</td>
+<td>208</td>
 <td>ручей Канавочка правый берег</td>
 <td>
 в 3 километрах севернее
@@ -2817,10 +3075,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">105,5</td>
 <td>9,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>195</td>
+<td>209</td>
 <td>
 река Бухтарма
 левый берег
@@ -2832,39 +3090,39 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">67,3242</td>
 <td>7,5402</td>
 <td rowspan="4">500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>196</td>
+<td>210</td>
 <td>
 река Мельничная
 правый берег
 </td>
 <td colspan="2">64,7710</td>
 <td>6,6298</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>197</td>
+<td>211</td>
 <td>
 река Бухтарма
 левый берег
 </td>
 <td colspan="2" rowspan="2">31,9420</td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>198</td>
+<td>212</td>
 <td>
 река Мельничная
 правый берег
 </td>
 <td>-</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>199</td>
+<td>213</td>
 <td>
 река Осочиха
 левый берег
@@ -2876,10 +3134,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">50,85</td>
 <td>4,62</td>
 <td>125-500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>200</td>
+<td>214</td>
 <td>
 ручей Миновский правый берег
 левый берег
@@ -2898,14 +3156,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>201</td>
+<td>215</td>
 <td>ручей без названия правый берег</td>
 <td colspan="2">47,38</td>
 <td>10,63</td>
 <td>80-500</td>
 </tr>
 <tr>
-<td>202</td>
+<td>216</td>
 <td>
 река Осочиха
 левый берег
@@ -2917,16 +3175,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">73,80</td>
 <td>6,05</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>203</td>
+<td>217</td>
 <td>ручей без названия правый берег</td>
 <td colspan="2">51,09</td>
 <td>5,35</td>
 </tr>
 <tr>
-<td>204</td>
+<td>218</td>
 <td>
 река Бобровка
 левый берег
@@ -2938,10 +3196,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">35,4</td>
 <td>5,2</td>
 <td>450-500</td>
-<td colspan="2">70-85</td>
+<td>70-85</td>
 </tr>
 <tr>
-<td>205</td>
+<td>219</td>
 <td>
 ручей Холодный
 левый берег
@@ -2949,15 +3207,15 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">8,2</td>
 <td>1,8</td>
 <td>136-260</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>206</td>
+<td>220</td>
 <td>
 Усть-Каменогорское водохранилище
 участок № 1
 участок № 2
-участок № 3
+участок № 2
 </td>
 <td>
 город Серебрянск, район Алтай
@@ -2975,10 +3233,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 21,259
 </td>
 <td>500</td>
-<td colspan="2">35-100</td>
+<td>35-100</td>
 </tr>
 <tr>
-<td>207</td>
+<td>221</td>
 <td>река Бухтарма</td>
 <td>
 в 3 километрах севернее
@@ -2987,19 +3245,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">48,6</td>
 <td>5,1</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>208</td>
+<td>222</td>
 <td>река Серебрянка</td>
 <td rowspan="2">в 10,4 километрах северо-восточнее села Александровка</td>
 <td colspan="2" rowspan="2">162,383</td>
 <td>8,12</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>209</td>
+<td>223</td>
 <td>
 река Медведка
 правый берег
@@ -3007,7 +3265,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>4,04</td>
 </tr>
 <tr>
-<td>210</td>
+<td>224</td>
 <td>
 река Бухтарма
 левый берег
@@ -3019,50 +3277,56 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">27,4</td>
 <td>6,4</td>
 <td rowspan="4">500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>211</td>
+<td>225</td>
 <td>
 ручей Александров
 правый берег
 </td>
 <td colspan="2">39,6</td>
 <td>6,3</td>
-<td colspan="2" rowspan="3">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>212</td>
+<td>226</td>
 <td>
 ручей Долгий Ключ
 левый берег
 </td>
 <td colspan="2">30,3</td>
 <td>3,3</td>
+<td>55</td>
 </tr>
 <tr>
-<td>213</td>
+<td>227</td>
 <td>
 ручей без названия
 правый берег
 </td>
 <td colspan="2">29,6</td>
 <td>2</td>
+<td>55</td>
 </tr>
 <tr>
-<td>214</td>
+<td>228</td>
 <td>
 ручей Лазариха
 правый берег
 </td>
-<td>в 7 километрах северо-восточнее села Путинцево</td>
+<td>
+в 7 километрах
+северо-восточнее
+села Путинцево
+</td>
 <td colspan="2">86,4</td>
 <td>6,6</td>
 <td>275-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>215</td>
+<td>229</td>
 <td>река Тургусун</td>
 <td rowspan="4">
 на территории учетных кварталов 05-070-007 и
@@ -3071,28 +3335,28 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">182,2</td>
 <td>2,2</td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">35</td>
+<td rowspan="4">35</td>
 </tr>
 <tr>
-<td>216</td>
+<td>230</td>
 <td>ручей без названия № 1</td>
 <td colspan="2">59,8</td>
 <td>2,4</td>
 </tr>
 <tr>
-<td>217</td>
+<td>231</td>
 <td>река Таволжанка</td>
 <td colspan="2">41,8</td>
 <td>0,8</td>
 </tr>
 <tr>
-<td>218</td>
+<td>232</td>
 <td>приток ручья без названия</td>
 <td colspan="2">38,7</td>
 <td>3,5</td>
 </tr>
 <tr>
-<td>219</td>
+<td>233</td>
 <td>
 река Таловка
 левый берег
@@ -3101,16 +3365,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">3,4</td>
 <td>0,4</td>
 <td>265-360</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>220</td>
+<td>234</td>
 <td>
 река Бухтарминка
 правый берег
 левый берег
 </td>
-<td>в 4 километрах северо-восточнее села Никольск</td>
+<td>
+в 4 километрах
+северо-восточнее
+села Никольск
+</td>
 <td colspan="2">
 171,95
 187,05
@@ -3123,13 +3391,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>221</td>
+<td>235</td>
 <td>
 река Бухтарма
 правый берег
@@ -3138,41 +3406,41 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">25</td>
 <td>3,6</td>
 <td rowspan="3">500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>222</td>
+<td>236</td>
 <td>
 ручей Пихтовка
 правый берег
 </td>
 <td colspan="2">66</td>
 <td>9,8</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>223</td>
+<td>237</td>
 <td>ручей Моисеев Лог правый берег</td>
 <td colspan="2">57,5</td>
 <td>5,2</td>
 </tr>
 <tr>
-<td>224</td>
+<td>238</td>
 <td>ручей без названия № 1</td>
 <td rowspan="2">на территории учетного квартала 05-070-013</td>
 <td colspan="2">44,9634</td>
 <td>1,3166</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>225</td>
+<td>239</td>
 <td>ручей без названия № 2</td>
 <td colspan="2">15,2496</td>
 <td>4,9013</td>
 </tr>
 <tr>
-<td>226</td>
+<td>240</td>
 <td>
 река Осочиха
 правый берег
@@ -3191,10 +3459,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 80-500
 500
 </td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>227</td>
+<td>241</td>
 <td>
 ручей Долгий
 левый берег
@@ -3204,7 +3472,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>80-500</td>
 </tr>
 <tr>
-<td>228</td>
+<td>242</td>
 <td>
 ручей без названия
 левый берег
@@ -3214,7 +3482,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>229</td>
+<td>243</td>
 <td>
 река Осочиха
 левый берег
@@ -3223,10 +3491,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">60,75</td>
 <td>6,39</td>
 <td>35-500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>230</td>
+<td>244</td>
 <td>
 ручей Миновский
 правый берег
@@ -3246,7 +3514,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>231</td>
+<td>245</td>
 <td>
 ручей без названия
 правый берег
@@ -3266,7 +3534,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>232</td>
+<td>246</td>
 <td>
 река Бухтарма
 правый берег
@@ -3285,13 +3553,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 170-500
 180-1200
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>233</td>
+<td>247</td>
 <td>
 река Моховушка
 правый берег
@@ -3310,13 +3578,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 150-500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>234</td>
+<td>248</td>
 <td>
 ручей Капитанов Лог
 правый берег
@@ -3335,13 +3603,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 50-350
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>235</td>
+<td>249</td>
 <td>
 ручей Пьянкин Лог
 правый берег
@@ -3360,13 +3628,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 50-250
 50-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>236</td>
+<td>250</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -3375,10 +3643,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">99</td>
 <td>8,68</td>
 <td>270-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>237</td>
+<td>251</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -3397,13 +3665,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 270-500
 340-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>238</td>
+<td>252</td>
 <td>
 река Осочиха
 левый берег
@@ -3415,10 +3683,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">73,43</td>
 <td>5,36</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>239</td>
+<td>253</td>
 <td>
 ручей Каменный
 левый берег
@@ -3427,10 +3695,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">74,72</td>
 <td>16,05</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">100</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>240</td>
+<td>254</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -3439,7 +3707,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>9,07</td>
 </tr>
 <tr>
-<td>241</td>
+<td>255</td>
 <td>
 ручей Шириккайын
 правый берег
@@ -3448,10 +3716,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">171,2325</td>
 <td>36,7545</td>
 <td rowspan="7">500</td>
-<td colspan="2" rowspan="7">100</td>
+<td rowspan="7">100</td>
 </tr>
 <tr>
-<td>242</td>
+<td>256</td>
 <td>
 ручей Казкен ключ
 правый берег
@@ -3461,7 +3729,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>25,25</td>
 </tr>
 <tr>
-<td>243</td>
+<td>257</td>
 <td>
 ручей без названия
 правый берег
@@ -3477,7 +3745,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>244</td>
+<td>258</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -3493,7 +3761,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>245</td>
+<td>259</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -3509,7 +3777,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>246</td>
+<td>260</td>
 <td>
 ручей Саркырама
 правый берег
@@ -3525,7 +3793,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>247</td>
+<td>261</td>
 <td>
 ручей Дальняя Таволжанка
 правый берег
@@ -3541,7 +3809,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>248</td>
+<td>262</td>
 <td>
 ручей Березовка
 правый берег
@@ -3550,10 +3818,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">28,2</td>
 <td>4,6</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>249</td>
+<td>263</td>
 <td>
 ручей без названия
 правый берег
@@ -3562,7 +3830,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>8,6</td>
 </tr>
 <tr>
-<td>250</td>
+<td>264</td>
 <td>
 ручей Бобровка
 правый берег
@@ -3571,10 +3839,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">50,2</td>
 <td>3,8</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>251</td>
+<td>265</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -3583,7 +3851,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>2,3</td>
 </tr>
 <tr>
-<td>252</td>
+<td>266</td>
 <td>река Березовка</td>
 <td rowspan="2">
 в 13,3 километрах
@@ -3592,26 +3860,26 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">385,050784</td>
 <td>37,645834</td>
 <td>280-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>253</td>
+<td>267</td>
 <td>ручей без названия</td>
 <td colspan="2">-</td>
 <td>10,2778</td>
 <td>-</td>
 </tr>
 <tr>
-<td>254</td>
+<td>268</td>
 <td>река Мироновка</td>
 <td>в 9,5 километрах севернее села Дородница</td>
 <td colspan="2">110,9</td>
 <td>6,1</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>255</td>
+<td>269</td>
 <td>
 река Берёзовка
 правый берег
@@ -3620,16 +3888,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">213</td>
 <td>12</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">70</td>
+<td rowspan="2">70</td>
 </tr>
 <tr>
-<td>256</td>
+<td>270</td>
 <td>ручей без названия левый берег</td>
 <td colspan="2">278</td>
 <td>11,5</td>
 </tr>
 <tr>
-<td>257</td>
+<td>271</td>
 <td>
 ручей Топнушка
 правый берег
@@ -3641,26 +3909,26 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">75,2</td>
 <td>7,1</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>258</td>
+<td>272</td>
 <td>река Солоновка</td>
 <td rowspan="2">в 5,2 километрах юго-западнее села Бородино</td>
 <td colspan="2">807,85515</td>
 <td>11,350435</td>
 <td>180-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>259</td>
+<td>273</td>
 <td>ручья без названия № 1</td>
 <td colspan="2">-</td>
 <td>10,093823</td>
 <td>-</td>
 </tr>
 <tr>
-<td>260</td>
+<td>274</td>
 <td>
 река Большая Феклистка
 левый берег
@@ -3671,29 +3939,31 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 <td colspan="2">191,1</td>
 <td>13,3</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="4">55</td>
+<td>500</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>261</td>
+<td>275</td>
 <td>
 ручей Чахлов
 правый берег
 </td>
 <td colspan="2">69,95</td>
 <td>7,9</td>
+<td>500</td>
 </tr>
 <tr>
-<td>262</td>
+<td>276</td>
 <td>
 ручей без названия № 1
 правый берег
 </td>
 <td colspan="2">86,9</td>
 <td>9,7</td>
+<td>500</td>
 </tr>
 <tr>
-<td>263</td>
+<td>277</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -3707,7 +3977,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>264</td>
+<td>278</td>
 <td>
 ручей Мироновка
 правый берег
@@ -3723,10 +3993,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 6,8375
 </td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">35</td>
+<td rowspan="4">35</td>
 </tr>
 <tr>
-<td>265</td>
+<td>279</td>
 <td>
 ручей Таволжанка
 правый берег
@@ -3742,7 +4012,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>266</td>
+<td>280</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -3758,7 +4028,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>267</td>
+<td>281</td>
 <td>
 ручей без названия
 правый берег
@@ -3774,7 +4044,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>268</td>
+<td>282</td>
 <td>
 река Бухтарма
 правый берег
@@ -3783,10 +4053,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">34,54</td>
 <td>2,47</td>
 <td>500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>269</td>
+<td>283</td>
 <td>
 ручей без названия
 левый берег
@@ -3796,16 +4066,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>270-500</td>
 </tr>
 <tr>
-<td>270</td>
+<td>284</td>
 <td>река Бухтарма</td>
 <td>район Алтай</td>
 <td colspan="2">4996,6712</td>
 <td>555,1941</td>
 <td>1-500</td>
-<td colspan="2">1-100</td>
+<td>1-100</td>
 </tr>
 <tr>
-<td>271</td>
+<td>285</td>
 <td>
 река Тихонов
 правый берег
@@ -3814,16 +4084,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">14,3</td>
 <td>1,7</td>
 <td rowspan="2">500-875</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>272</td>
+<td>286</td>
 <td>ручей без названия левый берег</td>
 <td colspan="2">16,5</td>
 <td>2,1</td>
 </tr>
 <tr>
-<td>273</td>
+<td>287</td>
 <td>
 река Таловка
 правый берег
@@ -3832,10 +4102,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">171,1</td>
 <td>10,63</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>274</td>
+<td>288</td>
 <td>
 река Березовка
 левый берег
@@ -3844,10 +4114,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">35,94027</td>
 <td>5,0236</td>
 <td>432-500</td>
-<td colspan="2" rowspan="2">35-75</td>
+<td>35-75</td>
 </tr>
 <tr>
-<td>275</td>
+<td>289</td>
 <td>
 ручей без названия
 правый берег
@@ -3855,9 +4125,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">42,2476</td>
 <td>5,00022</td>
 <td>500</td>
+<td>35-75</td>
 </tr>
 <tr>
-<td>276</td>
+<td>290</td>
 <td>
 ручей Рыковский Лог
 правый берег
@@ -3872,39 +4143,39 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 36,793
 </td>
 <td>40-500</td>
-<td colspan="2">19-75</td>
+<td>19-75</td>
 </tr>
 <tr>
-<td>277</td>
+<td>291</td>
 <td>река Березовка</td>
 <td rowspan="5">в 8 километрах северо-восточнее села Березовка</td>
 <td colspan="2" rowspan="5">276,8</td>
 <td>16,78</td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">55</td>
+<td rowspan="5">55</td>
 </tr>
 <tr>
-<td>278</td>
+<td>292</td>
 <td>ручей без названия № 1</td>
 <td>2,04</td>
 </tr>
 <tr>
-<td>279</td>
+<td>293</td>
 <td>ручей без названия № 2</td>
 <td>7,71</td>
 </tr>
 <tr>
-<td>280</td>
+<td>294</td>
 <td>ручей без названия № 3</td>
 <td>1,1</td>
 </tr>
 <tr>
-<td>281</td>
+<td>295</td>
 <td>ручей без названия № 4</td>
 <td>11,85</td>
 </tr>
 <tr>
-<td>282</td>
+<td>296</td>
 <td>
 река Селезневка
 правый берег
@@ -3926,31 +4197,231 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td colspan="9">Глубоковский район</td>
+<td>297</td>
+<td>
+река Подстепная
+правый берег
+левый берег
+</td>
+<td>на территории района Алтай</td>
+<td colspan="2">187,5</td>
+<td>
+8,3
+7,3
+</td>
+<td>500</td>
+<td>
+35
+35
+</td>
 </tr>
 <tr>
-<td>283</td>
+<td>298</td>
+<td>
+ручей Александров
+правый берег
+левый берег
+</td>
+<td>на территории района Алтай</td>
+<td colspan="2">255,5</td>
+<td>
+10,7
+19,1
+</td>
+<td>500</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>299</td>
+<td>река Березовка</td>
+<td rowspan="2">7,5 километров северо-восточнее села Березовка</td>
+<td colspan="2" rowspan="2">54</td>
+<td>5,9</td>
+<td rowspan="2">500</td>
+<td>75</td>
+</tr>
+<tr>
+<td>300</td>
+<td>ручей без названия</td>
+<td>2,2</td>
+<td>75</td>
+</tr>
+<tr>
+<td>301</td>
+<td>
+река Топнушка
+правый берег
+</td>
+<td rowspan="3">в 0,4 километрах южнее села Подорленок</td>
+<td colspan="2">11,4</td>
+<td>0,9</td>
+<td>333-370</td>
+<td>35</td>
+</tr>
+<tr>
+<td>302</td>
+<td>
+ручей без названия № 1
+левый берег
+</td>
+<td colspan="2">30,5</td>
+<td>8,1</td>
+<td>100-500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>303</td>
+<td>
+ручей без названия № 2
+правый берег
+левый берег
+</td>
+<td colspan="2">
+16,2
+9,4
+</td>
+<td>
+5,8
+2,4
+</td>
+<td>
+100-500
+215,5-500
+</td>
+<td>
+100
+100
+</td>
+</tr>
+<tr>
+<td>304</td>
+<td>
+ручей Капитанов Лог
+правый берег
+левый берег
+</td>
+<td>на территории района Алтай</td>
+<td colspan="2">
+105,1
+93,4
+</td>
+<td>
+8
+8
+</td>
+<td>
+280-500
+260-500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>305</td>
+<td>
+ручей Рыковский Лог
+правый берег
+левый берег
+</td>
+<td>на территории района Алтай</td>
+<td colspan="2">
+77,9
+41
+</td>
+<td>
+6,7
+1,5
+</td>
+<td>
+460-500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>306</td>
+<td>
+река Козловка
+правый берег
+</td>
+<td>на территории учетного квартала 05-070-053</td>
+<td colspan="2">49,9</td>
+<td>8,8</td>
+<td>500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>307</td>
+<td>река Бухтарма</td>
+<td>месторождение «Снегиревское»</td>
+<td colspan="2">48,6</td>
+<td>5,1</td>
+<td>500</td>
+<td>50</td>
+</tr>
+<tr>
+<td>308</td>
+<td>река Погорелка</td>
+<td>в 10 километрах северо-западнее села Путинцево</td>
+<td colspan="2">111,52</td>
+<td>12,19</td>
+<td>500</td>
+<td>50</td>
+</tr>
+<tr>
+<td>309</td>
+<td>
+ручей без названия № 1
+левый берег
+</td>
+<td rowspan="2">на территории района Алтай</td>
+<td colspan="2" rowspan="2">58,9</td>
+<td>1,7</td>
+<td rowspan="2">500</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>310</td>
+<td>
+ручей без названия № 2
+правый берег
+</td>
+<td>4,7</td>
+</tr>
+<tr>
+<td colspan="8">Глубоковский район</td>
+</tr>
+<tr>
+<td>311</td>
 <td>река Красноярка правый берег</td>
 <td rowspan="2">северо-восточнее поселка Верхнеберезовка</td>
 <td colspan="2">66,253</td>
 <td>5,96</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>284</td>
+<td>312</td>
 <td>ручей Березовский левый берег</td>
 <td colspan="2">60,567</td>
 <td>4,29</td>
 </tr>
 <tr>
-<td>285</td>
+<td>313</td>
 <td>
 река Ертис
 правый берег
@@ -3959,10 +4430,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">24,32</td>
 <td>3,44</td>
 <td>500-580</td>
-<td colspan="2">248-301</td>
+<td>248-301</td>
 </tr>
 <tr>
-<td>286</td>
+<td>314</td>
 <td>река Черемшанка</td>
 <td rowspan="2">
 село Черемшанка,
@@ -3971,16 +4442,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">3,136</td>
 <td>1,1733</td>
 <td rowspan="2">112</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>287</td>
+<td>315</td>
 <td>ручей Первая</td>
 <td colspan="2">3,136</td>
 <td>0,616</td>
 </tr>
 <tr>
-<td>288</td>
+<td>316</td>
 <td>
 река Левая Убинка
 левый берег
@@ -3989,40 +4460,40 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">43,1</td>
 <td>4,8</td>
 <td>380-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>289</td>
+<td>317</td>
 <td>ручей без названия</td>
 <td>
-в 0,9 километрах южнее
+в 0,9 километре южнее
 села Новая Ульба
 </td>
 <td colspan="2">14,5889</td>
 <td>1,0217</td>
 <td>500-575</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>290</td>
+<td>318</td>
 <td>ручей Березовский</td>
 <td>поселок Верхнеберезовка</td>
 <td colspan="2">15,973</td>
 <td>1,137</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>291</td>
+<td>319</td>
 <td>река Первая</td>
 <td>село Черемшанка</td>
 <td colspan="2">5,73</td>
 <td>1,88</td>
 <td>50-217</td>
-<td colspan="2">35-65</td>
+<td>35-65</td>
 </tr>
 <tr>
-<td>292</td>
+<td>320</td>
 <td>
 протока реки Ертис
 правый берег
@@ -4031,17 +4502,17 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">86,6</td>
 <td>13</td>
 <td>500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>293</td>
+<td>321</td>
 <td>озеро без названия</td>
 <td colspan="2">-</td>
 <td>1,4</td>
 <td>-</td>
 </tr>
 <tr>
-<td>294</td>
+<td>322</td>
 <td>
 река Малая Ульба
 левый берег
@@ -4050,10 +4521,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,0826</td>
 <td>0,078</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>295</td>
+<td>323</td>
 <td>
 пруд на реке Маховка
 левый берег
@@ -4072,13 +4543,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 90-413
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>296</td>
+<td>324</td>
 <td>
 река Пихтовка
 левый берег
@@ -4097,10 +4568,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 50-500
 </td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>297</td>
+<td>325</td>
 <td>
 ручей Андрониха
 правый берег
@@ -4110,30 +4581,30 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>140-500</td>
 </tr>
 <tr>
-<td>298</td>
+<td>326</td>
 <td>река Гремячий</td>
 <td rowspan="2">в 6,7 километрах восточнее села Ушаново</td>
 <td colspan="2" rowspan="2">754,54</td>
 <td>231,67</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>299</td>
+<td>327</td>
 <td>ручей без названия</td>
 <td>4,03</td>
 </tr>
 <tr>
-<td>300</td>
+<td>328</td>
 <td>ручей Богородский ключ</td>
 <td>в 2,9 километрах восточнее села Ушаново</td>
 <td colspan="2">14,46</td>
 <td>1,52</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>301</td>
+<td>329</td>
 <td>
 река Поскакуха
 правый берег
@@ -4142,10 +4613,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">12,547</td>
 <td>0,398</td>
 <td>252-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>302</td>
+<td>330</td>
 <td>
 река Левая Убинка
 правый берег
@@ -4155,10 +4626,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">80,75</td>
 <td>69,5</td>
 <td rowspan="2">500-977</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>303</td>
+<td>331</td>
 <td>
 река Бусиниха
 правый берег
@@ -4167,7 +4638,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>36,15</td>
 </tr>
 <tr>
-<td>304</td>
+<td>332</td>
 <td>
 река Лосьевка
 правый берег
@@ -4178,7 +4649,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td rowspan="2">423-500</td>
 </tr>
 <tr>
-<td>305</td>
+<td>333</td>
 <td>
 река Чесноковка правый берег
 левый берег
@@ -4186,7 +4657,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>21,9</td>
 </tr>
 <tr>
-<td>306</td>
+<td>334</td>
 <td>
 ручей Железный
 правый берег
@@ -4198,10 +4669,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">7,9683</td>
 <td>0,0305</td>
 <td>127-391</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>307</td>
+<td>335</td>
 <td>
 река Веселовка
 левый берег
@@ -4210,10 +4681,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">69,24</td>
 <td>4,5</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>308</td>
+<td>336</td>
 <td>
 протока реки Бобровка
 правый берег
@@ -4222,10 +4693,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">2,1</td>
 <td>0,198</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>309</td>
+<td>337</td>
 <td>
 река Красноярка
 правый берег
@@ -4240,24 +4711,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 10,767
 2,202
 </td>
-<td>
-500
-500
-</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">500</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>310</td>
+<td>338</td>
 <td>
 ручей Березовский
 правый берег
 </td>
 <td colspan="2">243,920</td>
 <td>6,519</td>
-<td>500</td>
 </tr>
 <tr>
-<td>311</td>
+<td>339</td>
 <td>
 ручей без названия
 правый берег
@@ -4265,10 +4732,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 <td colspan="2">21,241</td>
 <td>1,539</td>
-<td>500</td>
 </tr>
 <tr>
-<td>312</td>
+<td>340</td>
 <td>
 река Черемшанка
 правый берег
@@ -4277,10 +4743,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">2,6</td>
 <td>0,5</td>
 <td>185</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>313</td>
+<td>341</td>
 <td>
 ручей без названия
 левый берег
@@ -4290,7 +4756,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>285-305</td>
 </tr>
 <tr>
-<td>314</td>
+<td>342</td>
 <td>
 ручей Бобровочка
 левый берег
@@ -4299,10 +4765,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">38,9</td>
 <td>3,9</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>315</td>
+<td>343</td>
 <td>
 ручей Вороний
 правый берег
@@ -4311,7 +4777,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>1</td>
 </tr>
 <tr>
-<td>316</td>
+<td>344</td>
 <td>
 река Быструха
 правый берег
@@ -4323,10 +4789,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">138,883</td>
 <td>15,085</td>
 <td rowspan="2">174-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>317</td>
+<td>345</td>
 <td>
 ручей без названия
 правый берег
@@ -4335,7 +4801,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>3,027</td>
 </tr>
 <tr>
-<td>318</td>
+<td>346</td>
 <td>
 ручей Мазанкина
 левый берег
@@ -4354,13 +4820,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-320
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>319</td>
+<td>347</td>
 <td>
 ручей без названия
 правый берег
@@ -4368,19 +4831,18 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">40</td>
 <td>9,1</td>
 <td>500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>320</td>
+<td>348</td>
 <td>река Малая Ульба</td>
 <td>село Ново-Ульбинка</td>
 <td colspan="2">6,6740</td>
 <td>0,4717</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>321</td>
+<td>349</td>
 <td>ручей без названия</td>
 <td>
 в 1,3 километрах
@@ -4389,19 +4851,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">7,475</td>
 <td>0,5455</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>322</td>
+<td>350</td>
 <td>ручей без названия</td>
 <td>на территории учетного квартала 05-068-023</td>
 <td colspan="2">61,3529</td>
 <td>5,7411</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>323</td>
+<td>351</td>
 <td>
 река Обдериха
 правый берег
@@ -4414,63 +4876,63 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="9">304,1798</td>
 <td>11,4379</td>
 <td rowspan="9">1590-2673</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>324</td>
+<td>352</td>
 <td>
 ручей Изотов
 левый берег
 </td>
 <td>2,7916</td>
-<td colspan="2" rowspan="8">55</td>
+<td rowspan="8">55</td>
 </tr>
 <tr>
-<td>325</td>
+<td>353</td>
 <td>ручей без названия № 1</td>
 <td>3,1679</td>
 </tr>
 <tr>
-<td>326</td>
+<td>354</td>
 <td>ручей без названия № 2</td>
 <td>1,8352</td>
 </tr>
 <tr>
-<td>327</td>
+<td>355</td>
 <td>ручей без названия № 3</td>
 <td>2,3997</td>
 </tr>
 <tr>
-<td>328</td>
+<td>356</td>
 <td>ручей без названия № 4</td>
 <td>5,0822</td>
 </tr>
 <tr>
-<td>329</td>
+<td>357</td>
 <td>ручей без названия № 5</td>
 <td>13,5397</td>
 </tr>
 <tr>
-<td>330</td>
+<td>358</td>
 <td>ручей без названия № 6</td>
 <td>9,1936</td>
 </tr>
 <tr>
-<td>331</td>
+<td>359</td>
 <td>ручей без названия № 7</td>
 <td>1,6676</td>
 </tr>
 <tr>
-<td>332</td>
+<td>360</td>
 <td>река Малая Ульба</td>
 <td>на территории учетного квартала 05-068-100</td>
 <td colspan="2">10,3881</td>
 <td>1,6778</td>
 <td>165-246</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>333</td>
+<td>361</td>
 <td>
 река Секисовка
 правый берег
@@ -4479,10 +4941,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">34,4</td>
 <td>5,3</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>334</td>
+<td>362</td>
 <td>
 река Красноярка
 правый берег
@@ -4491,10 +4953,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">98,722</td>
 <td>6,280</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>335</td>
+<td>363</td>
 <td>
 река Веселовка
 левый берег
@@ -4502,7 +4964,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>3,155</td>
 </tr>
 <tr>
-<td>336</td>
+<td>364</td>
 <td>
 река Левая Убинка
 левый берег
@@ -4514,10 +4976,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="4">264,3</td>
 <td>12,4</td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>337</td>
+<td>365</td>
 <td>
 река Сипатиха
 правый берег
@@ -4526,7 +4988,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>21,4</td>
 </tr>
 <tr>
-<td>338</td>
+<td>366</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -4535,7 +4997,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>7,3</td>
 </tr>
 <tr>
-<td>339</td>
+<td>367</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -4543,20 +5005,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>7,9</td>
 </tr>
 <tr>
-<td>340</td>
+<td>368</td>
 <td>река Малая Ульба</td>
 <td rowspan="2">село Новая Ульба</td>
 <td colspan="2" rowspan="2">5,7477</td>
 <td rowspan="2">0,4159</td>
 <td rowspan="2">457-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>341</td>
+<td>369</td>
 <td>ручей без названия</td>
 </tr>
 <tr>
-<td>342</td>
+<td>370</td>
 <td>
 река Маховка
 левый берег
@@ -4565,10 +5027,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">8,28</td>
 <td>0,172</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>343</td>
+<td>371</td>
 <td>река Глубочанка</td>
 <td rowspan="3">
 северо-западнее
@@ -4577,22 +5039,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">49,8</td>
 <td>31,78</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>344</td>
+<td>372</td>
 <td>река Антипов ключ</td>
 <td colspan="2">119,7</td>
 <td>18,49</td>
 </tr>
 <tr>
-<td>345</td>
+<td>373</td>
 <td>ручей без названия</td>
 <td colspan="2">38,31</td>
 <td>2,26</td>
 </tr>
 <tr>
-<td>346</td>
+<td>374</td>
 <td>
 река Бобровка
 правый берег
@@ -4601,10 +5063,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">24,5</td>
 <td>2,75</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>347</td>
+<td>375</td>
 <td>
 река Березовка
 левый берег
@@ -4613,10 +5075,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">13</td>
 <td>5,1</td>
 <td>115-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>348</td>
+<td>376</td>
 <td>
 ручей без названия
 левый берег
@@ -4626,25 +5088,25 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>155-500</td>
 </tr>
 <tr>
-<td>349</td>
+<td>377</td>
 <td>река Глубочанка</td>
 <td>село Белоусовка</td>
 <td colspan="2">8,1553</td>
 <td>0,574</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>350</td>
+<td>378</td>
 <td>река Топиха</td>
 <td>село Топиха</td>
 <td colspan="2">0,6867</td>
 <td>0,0650</td>
 <td>387-389</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>351</td>
+<td>379</td>
 <td>
 река Черемшанка
 правый берег
@@ -4653,10 +5115,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">7,2762</td>
 <td>0,7408</td>
 <td>500-560</td>
-<td colspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>352</td>
+<td>380</td>
 <td>
 река Поскакуха
 левый берег
@@ -4664,10 +5126,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">4,7448</td>
 <td>0,6208</td>
 <td>500</td>
-<td colspan="2">35</td>
 </tr>
 <tr>
-<td>353</td>
+<td>381</td>
 <td>
 река Черемшанка
 правый берег
@@ -4675,17 +5136,17 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">2,7868</td>
 <td rowspan="2">-</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">-</td>
+<td rowspan="2">-</td>
 </tr>
 <tr>
-<td>354</td>
+<td>382</td>
 <td>
 река Поскакуха
 левый берег
 </td>
 </tr>
 <tr>
-<td>355</td>
+<td>383</td>
 <td>
 река Топкуша
 правый берег
@@ -4694,10 +5155,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">11,7516</td>
 <td>2,1538</td>
 <td>300-412</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>356</td>
+<td>384</td>
 <td>
 река Ульба
 правый берег
@@ -4709,10 +5170,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">8,89</td>
 <td>1,9506</td>
 <td>391-311</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>357</td>
+<td>385</td>
 <td>
 протоки реки Ульба
 левый берег
@@ -4722,22 +5183,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>358</td>
+<td>386</td>
 <td>река Глубочанка</td>
 <td rowspan="2">поселок Белоусовка</td>
 <td colspan="2">0,1778</td>
 <td>0,1105</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>359</td>
+<td>387</td>
 <td>ручей без названия</td>
 <td colspan="2">0,3102</td>
 <td>0,2181</td>
 </tr>
 <tr>
-<td>360</td>
+<td>388</td>
 <td>
 река Ульба
 правый берег
@@ -4746,10 +5207,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">7,4</td>
 <td>0,3</td>
 <td>564,5-579,4</td>
-<td colspan="2">99,5-114,4</td>
+<td>99,5-114,4</td>
 </tr>
 <tr>
-<td>361</td>
+<td>389</td>
 <td>
 проток реки Ульба
 левый берег
@@ -4761,10 +5222,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,06</td>
 <td>0,07</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>362</td>
+<td>390</td>
 <td>
 река Сипатиха
 левый берег
@@ -4773,33 +5234,32 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">48,7</td>
 <td>0,9</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>363</td>
+<td>391</td>
 <td>река Варначка</td>
 <td rowspan="3">севернее села Бобровка</td>
 <td colspan="2">269,54</td>
 <td>3,74</td>
-<td>180-830</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="2">180-830</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>364</td>
+<td>392</td>
 <td>река Деюшкин ключ</td>
 <td colspan="2">269,54</td>
 <td>19,71</td>
-<td>180-830</td>
 </tr>
 <tr>
-<td>365</td>
+<td>393</td>
 <td>река Гурьев лог</td>
 <td colspan="2">229,67</td>
 <td>16,52</td>
 <td>500</td>
 </tr>
 <tr>
-<td>366</td>
+<td>394</td>
 <td>
 проток реки Малая Убинка
 левый берег
@@ -4808,10 +5268,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">4,3</td>
 <td>0,7</td>
 <td>553-583</td>
-<td colspan="2">88-118</td>
+<td>88-118</td>
 </tr>
 <tr>
-<td>367</td>
+<td>395</td>
 <td>
 ручей Переплюйка
 правый берег
@@ -4820,19 +5280,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">6,9</td>
 <td>0,8</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>368</td>
+<td>396</td>
 <td>река Гребенюшка</td>
 <td>в районе улицы Горная</td>
 <td colspan="2">2,5130</td>
 <td>0,1879</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>369</td>
+<td>397</td>
 <td>
 река Глубочанка
 левый берег
@@ -4841,16 +5301,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1,6</td>
 <td>0,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>370</td>
+<td>398</td>
 <td>
 река Малая Таловка
 правый берег
 левый берег
 </td>
-<td>в 5,5 километрах от села Черемшанка</td>
+<td>в 5,5 километрах села Черемшанка</td>
 <td colspan="2">
 58,9
 35,6
@@ -4863,13 +5323,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 420-500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>371</td>
+<td>399</td>
 <td>
 река Бобровка
 правый берег
@@ -4888,10 +5348,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 120-500
 </td>
-<td colspan="2" rowspan="4">35</td>
+<td rowspan="4">35</td>
 </tr>
 <tr>
-<td>372</td>
+<td>400</td>
 <td>
 ручей Горюшка
 правый берег
@@ -4901,7 +5361,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>373</td>
+<td>401</td>
 <td>
 ручей Самара
 правый берег
@@ -4921,7 +5381,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>374</td>
+<td>402</td>
 <td>
 ручей без названия
 правый берег
@@ -4941,7 +5401,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>375</td>
+<td>403</td>
 <td>
 река Ульба
 правый берег
@@ -4954,13 +5414,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 0,4786
 </td>
 <td>311-431</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>376</td>
+<td>404</td>
 <td>
 река Малая Ульба
 левый берег
@@ -4969,10 +5429,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">0,21</td>
 <td>0,111</td>
 <td>110</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>377</td>
+<td>405</td>
 <td>
 река Ульба
 правый берег
@@ -4981,10 +5441,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">2,7658</td>
 <td>0,5504</td>
 <td>177-216</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>378</td>
+<td>406</td>
 <td>
 ручей без названия
 левый берег
@@ -4994,7 +5454,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>379</td>
+<td>407</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -5003,20 +5463,442 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">70,9</td>
 <td>3,4</td>
 <td>500-840</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>380</td>
+<td>408</td>
 <td>ручей без названия № 2</td>
 <td colspan="2">-</td>
 <td>3,2</td>
 <td>-</td>
 </tr>
 <tr>
-<td colspan="9">Зайсанский район</td>
+<td>409</td>
+<td>
+река Обдериха
+правый берег
+левый берег
+</td>
+<td rowspan="7">на территории учетного квартала 05-068-098</td>
+<td colspan="2">
+13,9
+13,2
+</td>
+<td>
+1
+1
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
 </tr>
 <tr>
-<td>381</td>
+<td>410</td>
+<td>
+река Березовка
+правый берег
+левый берег
+</td>
+<td colspan="2">
+15,3
+4,1
+</td>
+<td>
+2,2
+2,2
+</td>
+<td>
+300
+200
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>411</td>
+<td>
+ручей Волчиха
+правый берег
+левый берег
+</td>
+<td colspan="2">
+12
+11,8
+</td>
+<td>
+1
+1
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>412</td>
+<td>
+ручей Пинегин
+правый берег
+левый берег
+</td>
+<td colspan="2">
+4,1
+13,7
+</td>
+<td>
+1,2
+1,2
+</td>
+<td>
+200
+400
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>413</td>
+<td>
+ручей Топиха
+правый берег
+левый берег
+</td>
+<td colspan="2">
+13,4
+7,7
+</td>
+<td>
+1
+1
+</td>
+<td>
+500
+300
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>414</td>
+<td>
+ручей Железный
+правый берег
+левый берег
+</td>
+<td colspan="2">
+7
+8,5
+</td>
+<td>
+0,7
+0,7
+</td>
+<td>
+500
+280-500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>415</td>
+<td>
+ручей Земляной
+правый берег
+левый берег
+</td>
+<td colspan="2">
+8,9
+9,2
+</td>
+<td>
+0,7
+0,7
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>416</td>
+<td>
+ручей без названия
+левый берег
+</td>
+<td>поселок Алтайский</td>
+<td colspan="2">3,6</td>
+<td>0,4</td>
+<td>360-380</td>
+<td>35</td>
+</tr>
+<tr>
+<td>417</td>
+<td>река Глубочанка</td>
+<td>севернее села Глубокое</td>
+<td colspan="2">9,3177</td>
+<td>0,3606</td>
+<td>400-560</td>
+<td>35</td>
+</tr>
+<tr>
+<td>418</td>
+<td>
+ручей без названия
+правый берег
+</td>
+<td>в 1 километре северо-западнее села Предгорное</td>
+<td colspan="2">60,7</td>
+<td>12,2</td>
+<td>500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>419</td>
+<td>
+ручей Висловка
+левый берег
+</td>
+<td rowspan="3">на территории учетного квартала 05 -068-017</td>
+<td colspan="2">163,3</td>
+<td>23,1</td>
+<td>500</td>
+<td>35-100</td>
+</tr>
+<tr>
+<td>420</td>
+<td>
+ручей Чеков ключ
+правый берег
+</td>
+<td colspan="2">89,3</td>
+<td>6,1</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>421</td>
+<td>
+ручей без названия
+правый берег
+левый берег
+</td>
+<td colspan="2">
+6,4
+24,5
+</td>
+<td>
+1,1
+1,2
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>422</td>
+<td>река Глубочанка</td>
+<td rowspan="2">на территории Глубоковского района</td>
+<td colspan="2">204,7</td>
+<td>16,2</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>423</td>
+<td>
+ручей без названия
+левый берег
+</td>
+<td colspan="2">63,9</td>
+<td>4,3</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>424</td>
+<td>ручей без названия №1</td>
+<td rowspan="2">на территории учетного квартала 05-068-090</td>
+<td colspan="2" rowspan="2">0,6947</td>
+<td>0,1787</td>
+<td rowspan="2">160-183</td>
+<td>35</td>
+</tr>
+<tr>
+<td>425</td>
+<td>ручей без названия №2</td>
+<td>0,1744</td>
+<td>35</td>
+</tr>
+<tr>
+<td>426</td>
+<td>
+река Малая Ульба
+левый берег
+</td>
+<td>садоводческое товарищество Металлист-3</td>
+<td colspan="2">2,271</td>
+<td>0,160</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>427</td>
+<td>ручей без названия №1</td>
+<td>поселок Верхнеберезовка</td>
+<td colspan="2">20,1</td>
+<td>2,4</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>428</td>
+<td>
+ручей без названия №1
+левый берег
+</td>
+<td>село Ушаново</td>
+<td colspan="2">5,7876</td>
+<td>0,2192</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>429</td>
+<td>
+ручей Висловка
+левый берег
+</td>
+<td rowspan="3">в 2,6 километров северо-восточнее села Календарка</td>
+<td colspan="2">163,3</td>
+<td>23,1</td>
+<td>500</td>
+<td>35-100</td>
+</tr>
+<tr>
+<td>430</td>
+<td>
+ручей Чеков ключ
+правый берег
+</td>
+<td colspan="2">89,3</td>
+<td>6,1</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>431</td>
+<td>
+ручей без названия №1
+правый берег
+левый берег
+</td>
+<td colspan="2">
+6,4
+24,5
+</td>
+<td>
+1,1
+1,2
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>432</td>
+<td>река Глубочанка</td>
+<td>на территории учетного квартала 05-068-047</td>
+<td colspan="2">0,188</td>
+<td>0,7064</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>433</td>
+<td>
+ручей Переплюйка
+левый берег
+</td>
+<td>село Предгорное</td>
+<td colspan="2">38,6</td>
+<td>4,1</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>434</td>
+<td>
+река Уланка
+правый берег
+</td>
+<td>в 1,1 километре юго-западнее села Украинка</td>
+<td colspan="2">46,86</td>
+<td>3,46</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>435</td>
+<td>
+ручей без названия
+правый берег
+левый берег
+</td>
+<td>в 1,1 километре юго-западнее села Украинка</td>
+<td colspan="2">
+7,78
+42,08
+</td>
+<td>
+2,28
+5,48
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td colspan="8">Зайсанский район</td>
+</tr>
+<tr>
+<td>436</td>
 <td>
 река Ертис
 левый берег
@@ -5025,13 +5907,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">3847,8926</td>
 <td>316,5145</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td colspan="9">Катон-карагайский район</td>
+<td colspan="8">Катон-Карагайский район</td>
 </tr>
 <tr>
-<td>382</td>
+<td>437</td>
 <td>
 река Куркиреме
 левый берег
@@ -5040,108 +5922,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">52,37</td>
 <td>5,18</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>383</td>
-<td>река Кокбастау</td>
-<td>в 7 километрах юго-западнее села Уштобе</td>
-<td colspan="2">250,7</td>
-<td>17,3</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>384</td>
-<td>ручей Кондратьев левый берег</td>
-<td>в 1 километре юго-западнее села Бесюй</td>
-<td colspan="2">32,03</td>
-<td>4,74</td>
-<td>500</td>
-<td colspan="2">75</td>
-</tr>
-<tr>
-<td>385</td>
-<td>
-ручей без названия
-правый берег
-левый берег
-</td>
-<td>в 5 километрах восточнее села Кундыз</td>
-<td colspan="2">
-21,29
-26,51
-</td>
-<td>
-1,65
-1,66
-</td>
-<td>
-500
-500
-</td>
-<td colspan="2">
-35
-35
-</td>
-</tr>
-<tr>
-<td>386</td>
-<td>
-река Черемошка правый берег
-левый берег
-</td>
-<td rowspan="3">
-в 4,3 километрах
-юго-восточнее села Ушбулак
-</td>
-<td colspan="2" rowspan="3">734,2</td>
-<td>35,7</td>
-<td rowspan="3">248-795</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>387</td>
-<td>
-река Саврасовка правый берег
-левый берег
-</td>
-<td>79,7</td>
-</tr>
-<tr>
-<td>388</td>
-<td>
-ручей без названия
-левый берег
-</td>
-<td>10,6</td>
-</tr>
-<tr>
-<td>389</td>
-<td>
-река Черемошка правый берег
-левый берег
-</td>
-<td rowspan="2">в 3,5 километрах восточнее села Ушбулак</td>
-<td colspan="2">
-143,5
-137,31
-</td>
-<td>
-24,5
-19,5
-</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">75</td>
-</tr>
-<tr>
-<td>390</td>
-<td>река Солоновочка левый берег</td>
-<td colspan="2">120,87</td>
-<td>17,8</td>
-</tr>
-<tr>
-<td>391</td>
+<td>438</td>
 <td>
 приток № 1
 реки Назариха
@@ -5153,10 +5937,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="3">77,3954</td>
 <td>8,7495</td>
 <td rowspan="3">427-1242</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>392</td>
+<td>439</td>
 <td>
 приток № 2
 реки Назариха
@@ -5164,7 +5948,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>1,7930</td>
 </tr>
 <tr>
-<td>393</td>
+<td>440</td>
 <td>
 приток № 3
 реки Назариха
@@ -5172,54 +5956,26 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>3,0744</td>
 </tr>
 <tr>
-<td>394</td>
-<td>
-ручей Сауншат
-правый берег
-</td>
-<td>
-в 4,6 километрах
-северо-западнее села Коктерек
-</td>
-<td colspan="2">18,71</td>
-<td>2,1</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>395</td>
-<td>
-река Тускайын
-правый берег
-левый берег
-</td>
-<td>в 5,3 километрах севернее села Алыбай</td>
-<td colspan="2">260,116</td>
-<td>23,153</td>
-<td>110-500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>396</td>
+<td>441</td>
 <td>река Бухтарма</td>
 <td rowspan="3">в 1,6 километрах восточнее села Шынгыстай</td>
 <td colspan="2" rowspan="3">81,188</td>
 <td>0,0842</td>
 <td rowspan="3">478-654</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>397</td>
+<td>442</td>
 <td>река Байберды</td>
 <td>1,4147</td>
 </tr>
 <tr>
-<td>398</td>
+<td>443</td>
 <td>ручей без названия</td>
 <td>1,125</td>
 </tr>
 <tr>
-<td>399</td>
+<td>444</td>
 <td>
 река Язовая
 левый берег
@@ -5228,10 +5984,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="3">196,29</td>
 <td>10,6</td>
 <td rowspan="3">500-840</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>400</td>
+<td>445</td>
 <td>
 ручей без названия № 1 правый берег
 левый берег
@@ -5239,21 +5995,21 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>15,8</td>
 </tr>
 <tr>
-<td>401</td>
+<td>446</td>
 <td>ручей без названия № 2 правый берег</td>
 <td>5,98</td>
 </tr>
 <tr>
-<td>402</td>
+<td>447</td>
 <td>ручей без названия</td>
 <td>в 0,8 километре северо-западнее села Жана Ульга</td>
 <td colspan="2">27,2</td>
 <td>1,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>403</td>
+<td>448</td>
 <td>ручей Костобе-булак</td>
 <td rowspan="2">
 в 7 километрах
@@ -5262,120 +6018,34 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">45,7</td>
 <td>4,3</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>404</td>
+<td>449</td>
 <td>ручей Устюмка</td>
 <td colspan="2">51,8</td>
 <td>1,7</td>
 </tr>
 <tr>
-<td>405</td>
-<td>ручей Докторский</td>
-<td>в 2,2 километрах юго-восточнее села Новополяковка</td>
-<td colspan="2">18</td>
-<td>3,7</td>
-<td>500</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td>406</td>
-<td>
-река Малая Нарын
-правый берег
-</td>
-<td rowspan="2">
-в 0,7 километрах
-северо-восточнее села
-Малонарымка
-</td>
-<td colspan="2">40,997</td>
-<td>4,651</td>
-<td>181-675</td>
-<td colspan="2" rowspan="2">35</td>
-</tr>
-<tr>
-<td>407</td>
-<td>
-река Солоновка
-левый берег
-правый берег
-</td>
-<td colspan="2">
-40,997
-16,347
-</td>
-<td>
-5,386
-1,927
-</td>
-<td>
-181-675
-500
-</td>
-</tr>
-<tr>
-<td>408</td>
-<td>река Малая Нарын</td>
-<td rowspan="4">
-в 13,5 километрах севернее
-села Алтынбел
-</td>
-<td colspan="2" rowspan="4">362</td>
-<td>7</td>
-<td rowspan="4">292-1982</td>
-<td colspan="2" rowspan="4">35</td>
-</tr>
-<tr>
-<td>409</td>
-<td>река Рахманов Ключ</td>
-<td>12</td>
-</tr>
-<tr>
-<td>410</td>
-<td>ручей без названия</td>
-<td>5</td>
-</tr>
-<tr>
-<td>411</td>
-<td>река Перфилов Ключ</td>
-<td>4,86</td>
-</tr>
-<tr>
-<td>412</td>
-<td>река Нарым</td>
-<td rowspan="2">в 3 километрах юго-западнее села Солдатово</td>
-<td colspan="2" rowspan="2">20,4</td>
-<td>2,8</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">50</td>
-</tr>
-<tr>
-<td>413</td>
-<td>ручей без названия</td>
-<td>3,8</td>
-</tr>
-<tr>
-<td>414</td>
+<td>450</td>
 <td>река Карасу</td>
 <td>севернее села Катон-Карагай</td>
 <td colspan="2">542,1</td>
 <td>59,74</td>
 <td>500-1024</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>415</td>
+<td>451</td>
 <td>ручей без названия</td>
 <td>в 1,5 километрах восточнее села Солоновка</td>
 <td colspan="2">119</td>
 <td>7,75</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>416</td>
+<td>452</td>
 <td>река Карасу</td>
 <td rowspan="2">
 в 3,4 километрах северо-восточнее села
@@ -5384,50 +6054,29 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">49,588</td>
 <td>0,15</td>
 <td rowspan="2">427-700</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>417</td>
+<td>453</td>
 <td>ручей без названия</td>
 <td>0,11</td>
 </tr>
 <tr>
-<td>418</td>
-<td>река Рахманов Ключ</td>
-<td rowspan="3">в 13,6 километрах севернее села Алтынбел</td>
-<td colspan="2" rowspan="3">270,45</td>
-<td>10,3</td>
-<td rowspan="3">500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>419</td>
-<td>ручей без названия</td>
-<td>9,8</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>420</td>
-<td>река Перфилов Ключ</td>
-<td>4,4</td>
-<td colspan="2">35-50</td>
-</tr>
-<tr>
-<td>421</td>
+<td>454</td>
 <td>ручей без названия № 1</td>
 <td rowspan="2">в 6 километрах северо-восточнее села Шынгыстай</td>
 <td colspan="2" rowspan="2">181,8</td>
 <td>135,3</td>
 <td rowspan="2">500-620</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>422</td>
+<td>455</td>
 <td>ручей без названия № 2</td>
 <td>63,4</td>
 </tr>
 <tr>
-<td>423</td>
+<td>456</td>
 <td>ручей без названия</td>
 <td>
 в 2,5 километрах
@@ -5436,63 +6085,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">39,9</td>
 <td>5,8</td>
 <td>500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>424</td>
-<td>
-река Шириккайын
-левый берег
-правый берег
-</td>
-<td rowspan="2">
-в 3 километрах
-юго-восточнее
-села Ново-Хайрузовка
-</td>
-<td colspan="2">
-13
-13,6
-</td>
-<td>
-4,4
-3,8
-</td>
-<td>
-45-500
-20-233,6
-</td>
-<td colspan="2">
-35
-20-35
-</td>
-</tr>
-<tr>
-<td>425</td>
-<td>
-левый рукав реки Шириккайын
-левый берег
-правый берег
-</td>
-<td colspan="2">
-65,6
-7,4
-</td>
-<td>
-4,2
-3,7
-</td>
-<td>
-500
-73-137
-</td>
-<td colspan="2">
-35
-35
-</td>
-</tr>
-<tr>
-<td>426</td>
+<td>457</td>
 <td>
 река Карасу
 левый берег
@@ -5515,61 +6111,21 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 35-500
 </td>
-<td colspan="2">
+<td>
 35
 35-50
 </td>
 </tr>
 <tr>
-<td>427</td>
+<td>458</td>
 <td>заболоченный участок</td>
 <td colspan="2">43,4</td>
 <td>3,8</td>
 <td>50-500</td>
-<td colspan="2">35-50</td>
+<td>35-50</td>
 </tr>
 <tr>
-<td>428</td>
-<td>
-ручей Михайлов Ключ
-левый берег
-правый берег
-</td>
-<td rowspan="2">
-в 9 километрах севернее
-села Ново-Хайрузовка
-</td>
-<td colspan="2">
-361,2
-185,1
-</td>
-<td>
-76,1
-34,5
-</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">100</td>
-</tr>
-<tr>
-<td>429332</td>
-<td>
-ручей Борисов Ключ
-правый берег
-</td>
-<td colspan="2">110,4</td>
-<td>23,6</td>
-</tr>
-<tr>
-<td>430</td>
-<td>ручей без названия</td>
-<td>в 13 километрах севернее села Солоновка</td>
-<td colspan="2">138,1</td>
-<td>8,257</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>431</td>
+<td>459</td>
 <td>
 ручей без названия
 левый берег
@@ -5578,128 +6134,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">68,8</td>
 <td>15,1</td>
 <td>500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>432</td>
-<td>
-река Нарым
-левый берег
-</td>
-<td rowspan="3">в 4 километрах юго-западнее села Солдатово</td>
-<td colspan="2">14,9</td>
-<td>4,6</td>
-<td>85-450</td>
-<td colspan="2">35-147</td>
-</tr>
-<tr>
-<td>433</td>
-<td>
-ручей без названия № 1
-левый берег
-</td>
-<td colspan="2">9,7</td>
-<td>3,1</td>
-<td>65-210</td>
-<td colspan="2">35-123</td>
-</tr>
-<tr>
-<td>434</td>
-<td>
-ручей без названия № 2
-правый берег
-</td>
-<td colspan="2">2,5</td>
-<td>-</td>
-<td>56-112</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>435</td>
-<td>река Нарым</td>
-<td>в 1 километре юго-западнее села Малонарымка</td>
-<td colspan="2">27,5</td>
-<td>2,3</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>436</td>
-<td>
-река Бухтарма
-левый берег
-</td>
-<td rowspan="5">
-в 4 километрах
-северо-западнее села Сенное
-</td>
-<td colspan="2">85,4</td>
-<td>12,8</td>
-<td>209-500</td>
-<td colspan="2" rowspan="5">100</td>
-</tr>
-<tr>
-<td>437</td>
-<td>
-ручей Кривушка
-правый берег
-</td>
-<td colspan="2">241</td>
-<td>59</td>
-<td>200-500</td>
-</tr>
-<tr>
-<td>438</td>
-<td>
-ручей без названия № 1
-правый берег
-</td>
-<td colspan="2">76,9</td>
-<td>14,3</td>
-<td>500</td>
-</tr>
-<tr>
-<td>439</td>
-<td>
-ручей без названия № 2
-правый берег
-левый берег
-</td>
-<td colspan="2">
-55,3
-73,2
-</td>
-<td>
-11,6
-12,2
-</td>
-<td>
-500
-500
-</td>
-</tr>
-<tr>
-<td>440</td>
-<td>
-ручей без названия № 3
-правый берег
-левый берег
-</td>
-<td colspan="2">
-54,2
-79,2
-</td>
-<td>
-18,1
-17,3
-</td>
-<td>
-200-500
-500
-</td>
-</tr>
-<tr>
-<td>441</td>
+<td>460</td>
 <td>
 река Черновая
 левый берег
@@ -5708,10 +6146,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">50,5</td>
 <td>8,2</td>
 <td>202-500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>442</td>
+<td>461</td>
 <td>
 ручей Путевочная
 правый берег
@@ -5719,10 +6157,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">37,5</td>
 <td>1,4</td>
 <td>214-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>443</td>
+<td>462</td>
 <td>
 река Бухтарма
 правый берег
@@ -5731,27 +6169,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">6,5</td>
 <td>1,3</td>
 <td>500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>444</td>
-<td>река Нарын</td>
-<td rowspan="2">в 0,9 километрах севернее села Кокбастау</td>
-<td colspan="2">159,6</td>
-<td>30,89</td>
-<td>500</td>
-<td colspan="2">35-320</td>
-</tr>
-<tr>
-<td>445</td>
-<td>река Нижняя Теректы</td>
-<td colspan="2">159,6</td>
-<td>6,797</td>
-<td>180-140</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>446</td>
+<td>463</td>
 <td>
 ручей Чесноковая
 правый берег
@@ -5760,10 +6181,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">0,67</td>
 <td>0,19</td>
 <td>112-132</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>447</td>
+<td>464</td>
 <td>
 река Черновая
 правый берег
@@ -5772,10 +6193,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">59</td>
 <td>15,6</td>
 <td>100-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>448</td>
+<td>465</td>
 <td>
 река Архиповка
 левый берег
@@ -5793,13 +6214,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 245-500
 500
 </td>
-<td colspan="2">
+<td>
 100
 55-100
 </td>
 </tr>
 <tr>
-<td>449</td>
+<td>466</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -5807,10 +6228,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">74,1</td>
 <td>12,4</td>
 <td>500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>450</td>
+<td>467</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -5818,10 +6239,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">30</td>
 <td>13,4</td>
 <td>115-437</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>451</td>
+<td>468</td>
 <td>
 река Бухтарма
 правый берег
@@ -5830,10 +6251,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">98,1</td>
 <td>13,7</td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>452</td>
+<td>469</td>
 <td>
 река Белая
 правый берег
@@ -5842,7 +6263,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>23,15</td>
 </tr>
 <tr>
-<td>453</td>
+<td>470</td>
 <td>
 ручей без названия
 левый берег
@@ -5851,7 +6272,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>13,3</td>
 </tr>
 <tr>
-<td>454</td>
+<td>471</td>
 <td>
 ручей Колматиха
 правый берег
@@ -5867,22 +6288,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>455</td>
-<td>ручей Трактовый</td>
-<td>в 9,5 километрах севернее села Солоновка</td>
-<td colspan="2">23,7</td>
-<td>
-1,7
-0,766
-</td>
-<td>180-500</td>
-<td colspan="2">
-35
-35
-</td>
-</tr>
-<tr>
-<td>456</td>
+<td>472</td>
 <td>
 ручей Костобе-булак
 правый берег
@@ -5891,10 +6297,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">17,9</td>
 <td>-</td>
 <td>500</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>457</td>
+<td>473</td>
 <td>
 ручей без названия
 правый берег
@@ -5903,122 +6309,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">11,9</td>
 <td>0,3</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>458</td>
-<td>
-река Маймыр
-правый берег
-левый берег
-</td>
-<td>в 9 километрах южнее села Солдатово</td>
-<td colspan="2">
-20,8
-12,3
-</td>
-<td>
-1,2
-1,3
-</td>
-<td>
-500
-500
-</td>
-<td colspan="2">
-35
-35
-</td>
-</tr>
-<tr>
-<td>459</td>
-<td>
-ручей без названия № 1
-правый берег
-левый берег
-</td>
-<td rowspan="2">в 8 километрах южнее села Ульяновка</td>
-<td colspan="2">
-149,1
-152,6
-</td>
-<td>
-27,3
-27,2
-</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">100</td>
-</tr>
-<tr>
-<td>460</td>
-<td>
-ручей без названия № 2
-правый берег
-левый берег
-</td>
-<td colspan="2">
-69,3
-130,1
-</td>
-<td>
-16,2
-18,4
-</td>
-</tr>
-<tr>
-<td>461</td>
-<td>ручей Трактовый</td>
-<td rowspan="5">в 9,5 и 9 километрах севернее села Солоновка</td>
-<td colspan="2">23,7</td>
-<td>1,70</td>
-<td>180-500</td>
-<td colspan="2" rowspan="5">35</td>
-</tr>
-<tr>
-<td>462</td>
-<td>ручей Сидоров</td>
-<td colspan="2">-</td>
-<td>0,766</td>
-<td>-</td>
-</tr>
-<tr>
-<td>463</td>
-<td>
-река Сурка
-левый берег
-</td>
-<td colspan="2">33,82</td>
-<td>4,2</td>
-<td>204-570</td>
-</tr>
-<tr>
-<td>464</td>
-<td>
-ручей без названия № 1 правый берег
-левый берег
-</td>
-<td colspan="2">
--
-7,9
-</td>
-<td>
-3,36
-0,54
-</td>
-<td>
--
-500
-</td>
-</tr>
-<tr>
-<td>465</td>
-<td>ручей без названия № 2 левый берег</td>
-<td colspan="2">-</td>
-<td>1,28</td>
-<td>-</td>
-</tr>
-<tr>
-<td>466</td>
+<td>474</td>
 <td>
 река Бобровка
 левый берег
@@ -6027,10 +6321,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">2,4</td>
 <td>0,8</td>
 <td>210-360</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>467</td>
+<td>475</td>
 <td>ручей без названия</td>
 <td>
 на территории
@@ -6039,19 +6333,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">34,4</td>
 <td>1,2</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>468</td>
-<td>река Нарым</td>
-<td>северо-восточнее села Кокбастау</td>
-<td colspan="2">23,81</td>
-<td>3,24</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>469</td>
+<td>476</td>
 <td>
 река Бухтарма
 правый берег
@@ -6073,13 +6358,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1313,1
 828,78
 </td>
-<td colspan="2">
+<td>
 35-100
 35-100
 </td>
 </tr>
 <tr>
-<td>470</td>
+<td>477</td>
 <td>
 река Коробиха
 левый берег
@@ -6088,10 +6373,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">27</td>
 <td>2,87</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>471</td>
+<td>478</td>
 <td>
 ручей без названия
 левый берег
@@ -6100,10 +6385,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">17,71</td>
 <td>2,02</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>472</td>
+<td>479</td>
 <td>
 ручей без названия
 правый берег
@@ -6112,22 +6397,297 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">21,68</td>
 <td>1,93</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td colspan="9">Курчумский район</td>
+<td>480</td>
+<td>
+ручей без названия
+правый берег
+левый берег
+</td>
+<td>в 1 километре юго-западнее села Урыль</td>
+<td colspan="2">
+6,2
+8,9
+</td>
+<td>
+0,4
+0,9
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
 </tr>
 <tr>
-<td>473</td>
+<td>481</td>
+<td>
+ручей без названия
+правый берег
+</td>
+<td rowspan="5">на территории учетного квартала 05-071-015</td>
+<td colspan="2">10,49</td>
+<td>0,81</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>482</td>
+<td>родник №1</td>
+<td colspan="2">3,9</td>
+<td>0,16</td>
+<td>342-500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>483</td>
+<td>родник №2</td>
+<td colspan="2">4,11</td>
+<td>0,11</td>
+<td>325-399</td>
+<td>35</td>
+</tr>
+<tr>
+<td>484</td>
+<td>родник №3</td>
+<td colspan="2">4,5</td>
+<td>0,07</td>
+<td>395-500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>485</td>
+<td>родник №4</td>
+<td colspan="2">1,67</td>
+<td>0,05</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>486</td>
+<td>ручей Ушкунгей</td>
+<td>в 3,9 километрах западнее села Катон-Карагай</td>
+<td colspan="2">86,41</td>
+<td>6,3</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>487</td>
+<td>
+река Унго
+правый берег
+левый берег
+</td>
+<td rowspan="5">в 0,2 километрах южнее села Согорное</td>
+<td colspan="2">
+37,5
+6,5
+</td>
+<td>
+4,5
+4,5
+</td>
+<td>
+75-500
+7-149
+</td>
+<td>
+35
+7-35
+</td>
+</tr>
+<tr>
+<td>488</td>
+<td>
+протока реки Унго
+правый берег
+левый берег
+</td>
+<td colspan="2">
+32,2
+1
+</td>
+<td>
+2,4
+1
+</td>
+<td>
+35-500
+12-35
+</td>
+<td>
+35
+12-35
+</td>
+</tr>
+<tr>
+<td>489</td>
+<td>
+рукав реки Унго
+правый берег
+левый берег
+</td>
+<td colspan="2">
+2,4
+2,4
+</td>
+<td>
+2,4
+2,4
+</td>
+<td>-</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>490</td>
+<td>
+рукав протоки реки Унго
+правый берег
+левый берег
+</td>
+<td colspan="2">
+12,9
+0,3
+</td>
+<td>
+0,9
+0,3
+</td>
+<td>
+500
+5-35
+</td>
+<td>
+35
+5-35
+</td>
+</tr>
+<tr>
+<td>491</td>
+<td>ручей без названия правый берег</td>
+<td colspan="2">4,3</td>
+<td>4,3</td>
+<td>7-35</td>
+<td>7-35</td>
+</tr>
+<tr>
+<td>492</td>
+<td>
+ручей Карагай
+правый берег
+левый берег
+</td>
+<td rowspan="3">в 10 километрах северо-восточнее села Урыль</td>
+<td colspan="2">
+12,6
+41,8
+</td>
+<td>
+2,7
+6,1
+</td>
+<td>
+500
+500
+</td>
+<td>
+75
+75
+</td>
+</tr>
+<tr>
+<td>493р</td>
+<td>
+ручей без названия № 1
+правый берег
+</td>
+<td colspan="2">14</td>
+<td>0,4</td>
+<td>500</td>
+<td>75</td>
+</tr>
+<tr>
+<td>494</td>
+<td>
+ручей без названия № 2
+правый берег
+</td>
+<td colspan="2">6,5</td>
+<td>0,6</td>
+<td>280-375</td>
+<td>75</td>
+</tr>
+<tr>
+<td>495</td>
+<td>ручей без названия № 1</td>
+<td rowspan="4">на территории учетного квартала 05-071-018</td>
+<td colspan="2" rowspan="4">86,4158</td>
+<td>4,4567</td>
+<td rowspan="4">500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>496</td>
+<td>ручей без названия № 2</td>
+<td>2,1084</td>
+<td>35</td>
+</tr>
+<tr>
+<td>497</td>
+<td>ручей без названия № 3</td>
+<td>1,2511</td>
+<td>35</td>
+</tr>
+<tr>
+<td>498</td>
+<td>ручей без названия № 4</td>
+<td>1,2910</td>
+<td>35</td>
+</tr>
+<tr>
+<td>499</td>
+<td>
+ручей без названия
+левый берег
+</td>
+<td>в 4,6 километрах восточнее села Шынгыстай</td>
+<td colspan="2">15,7</td>
+<td>3,35</td>
+<td>80-280</td>
+<td>35</td>
+</tr>
+<tr>
+<td>500</td>
+<td>река Бухтарма</td>
+<td>в 3,3 километрах юго-восточнее Села Коробиха</td>
+<td colspan="2">21,11</td>
+<td>2,32</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td colspan="8">Курчумский район</td>
+</tr>
+<tr>
+<td>501</td>
 <td>ручей Ортенбулак левый берег</td>
 <td rowspan="5">село Майтерек</td>
 <td colspan="2">406,8</td>
 <td>61,7</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>474</td>
+<td>502</td>
 <td>
 ручей Тесиккия
 правый берег
@@ -6145,13 +6705,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>475</td>
+<td>503</td>
 <td>
 ручей Узынбулак с его притоками
 правый берег
@@ -6169,13 +6729,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 270-590
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>476</td>
+<td>504</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -6193,13 +6753,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 -
 -
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>477</td>
+<td>505</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -6207,10 +6767,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">537,8</td>
 <td>15,2</td>
 <td>-</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>478</td>
+<td>506</td>
 <td>
 ручей без названия
 правый берег
@@ -6233,14 +6793,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 50
 50
 50
 </td>
 </tr>
 <tr>
-<td>479</td>
+<td>507</td>
 <td>
 река Караагаш
 с притоками
@@ -6249,10 +6809,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">1926,65</td>
 <td>348,29</td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>480</td>
+<td>508</td>
 <td>
 река Коныржайлау
 с левыми притоками
@@ -6261,19 +6821,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>107,270</td>
 </tr>
 <tr>
-<td>481</td>
+<td>509</td>
 <td>истоки правых притоков реки Шукыркальжир</td>
 <td colspan="2">865,25</td>
 <td>43,801</td>
 </tr>
 <tr>
-<td>482</td>
+<td>510</td>
 <td>истоки реки Сулушокы</td>
 <td colspan="2">124,5</td>
 <td>10,86</td>
 </tr>
 <tr>
-<td>483</td>
+<td>511</td>
 <td>
 река Путочная
 правый берег
@@ -6282,10 +6842,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">510</td>
 <td>76,4</td>
 <td rowspan="5">370-1190</td>
-<td colspan="2" rowspan="5">75</td>
+<td rowspan="5">75</td>
 </tr>
 <tr>
-<td>484</td>
+<td>512</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -6294,7 +6854,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>155,2</td>
 </tr>
 <tr>
-<td>485</td>
+<td>513</td>
 <td>
 река Поперечная
 левый берег
@@ -6303,7 +6863,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>328,1</td>
 </tr>
 <tr>
-<td>486</td>
+<td>514</td>
 <td>
 река Озерная
 правый берег
@@ -6319,7 +6879,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>487</td>
+<td>515</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -6335,7 +6895,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>488</td>
+<td>516</td>
 <td>
 река Маралиха
 правый берег
@@ -6351,10 +6911,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 31,7
 </td>
 <td rowspan="8">500</td>
-<td colspan="2" rowspan="8">55</td>
+<td rowspan="8">55</td>
 </tr>
 <tr>
-<td>489</td>
+<td>517</td>
 <td>
 река Кумырза
 правый берег
@@ -6370,7 +6930,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>490</td>
+<td>518</td>
 <td>
 река Тополевка
 левый берег
@@ -6379,7 +6939,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>14,2</td>
 </tr>
 <tr>
-<td>491</td>
+<td>519</td>
 <td>
 ручей Караоткель
 правый берег
@@ -6395,7 +6955,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>492</td>
+<td>520</td>
 <td>
 ручей Репьев
 правый берег
@@ -6411,7 +6971,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>493</td>
+<td>521</td>
 <td>
 ручей Карагайлы
 правый берег
@@ -6427,10 +6987,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>494</td>
+<td>522</td>
 <td>
-ручей
-без названия
+Ручей без названия
 правый берег
 левый берег
 </td>
@@ -6444,7 +7003,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>495</td>
+<td>523</td>
 <td>
 ручей Хлебный
 правый берег
@@ -6460,7 +7019,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>496</td>
+<td>524</td>
 <td>
 река Киынсу
 правый берег
@@ -6479,10 +7038,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>497</td>
+<td>525</td>
 <td>
 ручей без названия
 левый берег
@@ -6502,7 +7061,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>498</td>
+<td>526</td>
 <td>
 ручей Туюкбулак
 левый берег
@@ -6522,7 +7081,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>499</td>
+<td>527</td>
 <td>
 ручей Канат
 правый берег
@@ -6532,31 +7091,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>500</td>
-<td>
-река Карашат
-левый берег
-</td>
-<td rowspan="3">в 13,8 километрах северо-восточнее села Акбулак</td>
-<td colspan="2" rowspan="3">224,091</td>
-<td>6,132</td>
-<td rowspan="3">200-1400</td>
-<td colspan="2">55</td>
-</tr>
-<tr>
-<td>501</td>
-<td>ручей без названия</td>
-<td>7,408</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td>502</td>
-<td>ручей Медвежий и его левый приток</td>
-<td>37,318</td>
-<td colspan="2">100</td>
-</tr>
-<tr>
-<td>503</td>
+<td>528</td>
 <td>
 река Куансай
 с притоками
@@ -6565,118 +7100,55 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="6">5795,16</td>
 <td>146,05</td>
 <td rowspan="6">500</td>
-<td colspan="2">55</td>
+<td rowspan="6">55</td>
 </tr>
 <tr>
-<td>504</td>
+<td>529</td>
 <td>
 река Избасар
 с притоками
 </td>
 <td>в границах геологических блоков М-45-122-(10б-5а-14, 15), (10б-5б-11, 12)</td>
 <td>125,10</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>505</td>
+<td>530</td>
 <td>
 река Кашкымбай
 с притоками
 </td>
 <td>в границах геологических блоков М-45-122-(10б-5б-12, 13), (10б-5б-6, 7, 8)</td>
 <td>96,25</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>506</td>
+<td>531</td>
 <td>
 река Байс
 с притоками
 </td>
 <td>в границах геологических блоков М-45-122-(10б-5б-3, 7, 8, 9, 10, 14, 15)</td>
 <td>138,76</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>507</td>
+<td>532</td>
 <td>
 река Койшилик
 с притоками
 </td>
 <td>в границах геологических блоков М-45-122-(10б-5б-3, 4,9)</td>
 <td>57,27</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>508</td>
+<td>533</td>
 <td>
 река Киынсу
 с притоками
 </td>
 <td>в границах геологических блоков М-45-122-(10б-5б-5, 10), (10в-5а-1, 2, 3, 6, 7, 8)</td>
 <td>216,28</td>
-<td colspan="2">55</td>
 </tr>
 <tr>
-<td>509</td>
-<td>
-ручей Сакрома
-левый берег
-</td>
-<td rowspan="4">на территории учетного квартала 05-072-049</td>
-<td colspan="2">107,5</td>
-<td>17,6</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>510</td>
-<td>
-река Бас Теректы
-правый берег
-</td>
-<td colspan="2">53,6</td>
-<td>9,7</td>
-<td>500</td>
-<td colspan="2">55</td>
-</tr>
-<tr>
-<td>511</td>
-<td>
-ручей Верхняя Теректы
-левый берег
-правый берег
-</td>
-<td colspan="2">
--
-115,1
-</td>
-<td>
-7,3
-7,8
-</td>
-<td>
--
-500
-</td>
-<td colspan="2">
-55
-55
-</td>
-</tr>
-<tr>
-<td>512</td>
-<td>
-ручей без названия
-правый берег
-</td>
-<td colspan="2">115,2</td>
-<td>13,7</td>
-<td>500</td>
-<td colspan="2">55</td>
-</tr>
-<tr>
-<td>513</td>
+<td>534</td>
 <td>
 озеро Сарыолен
 северо-восточный берег
@@ -6695,13 +7167,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 50
 50
 </td>
 </tr>
 <tr>
-<td>514</td>
+<td>535</td>
 <td>
 река Кыстау-Курчум
 правый берег
@@ -6720,13 +7192,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 200-500
 </td>
-<td colspan="2">
+<td>
 50-55
 50-55
 </td>
 </tr>
 <tr>
-<td>515</td>
+<td>536</td>
 <td>
 ручей Саукабай
 правый берег
@@ -6744,13 +7216,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>516</td>
+<td>537</td>
 <td>
 ручей Кольдененбулак
 правый берег
@@ -6762,13 +7234,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 3,5
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>517</td>
+<td>538</td>
 <td>
 ручей Кашкынбай
 правый берег
@@ -6780,13 +7252,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 4,4
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>518</td>
+<td>539</td>
 <td>
 ручей Куансай
 правый берег
@@ -6798,13 +7270,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 4,1
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>519</td>
+<td>540</td>
 <td>
 ручей без названия
 правый берег
@@ -6816,398 +7288,54 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 3,1
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>520</td>
+<td>541</td>
 <td>озеро № 1</td>
 <td colspan="2">-</td>
 <td>5</td>
 <td>-</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>521</td>
+<td>542</td>
 <td>озеро № 2</td>
 <td colspan="2">-</td>
 <td>3</td>
 <td>-</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>522</td>
+<td>543</td>
 <td>ручей без названия № 1</td>
 <td rowspan="5">на территории учетного квартала 05-072-010</td>
 <td colspan="2" rowspan="5">1012,1438</td>
 <td rowspan="5">294,5685</td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">75</td>
-</tr>
-<tr>
-<td>523</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>524</td>
-<td>ручей без названия № 3</td>
-</tr>
-<tr>
-<td>525</td>
-<td>ручей без названия № 4</td>
-</tr>
-<tr>
-<td>526</td>
-<td>ручей без названия № 5</td>
-</tr>
-<tr>
-<td>527</td>
-<td>река Таловочка</td>
-<td rowspan="3">на территории учетного квартала 05-072-015-2</td>
-<td colspan="2" rowspan="3">158,0019</td>
-<td rowspan="3">34,5193</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>528</td>
-<td>ручей Наумов ключ</td>
-</tr>
-<tr>
-<td>529</td>
-<td>река Теректи</td>
-</tr>
-<tr>
-<td>530</td>
-<td>ручей без названия № 1</td>
-<td rowspan="3">на территории учетного квартала 05-072-019</td>
-<td colspan="2" rowspan="3">309,1133</td>
-<td rowspan="3">77,6572</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">75</td>
-</tr>
-<tr>
-<td>531</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>532</td>
-<td>ручей без названия № 3</td>
-</tr>
-<tr>
-<td>533</td>
-<td>река Терисайрык</td>
-<td rowspan="3">на территории учетного квартала 05-072-036-1</td>
-<td colspan="2" rowspan="3">740,2033</td>
-<td rowspan="3">69,9174</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">35</td>
-</tr>
-<tr>
-<td>534</td>
-<td>ручей без названия № 3</td>
-</tr>
-<tr>
-<td>535</td>
-<td>ручей без названия № 4</td>
-</tr>
-<tr>
-<td>536</td>
-<td>река Кояндыбулак</td>
-<td rowspan="3">на территории учетного квартала 05-072-036-2</td>
-<td colspan="2" rowspan="3">177,3075</td>
-<td rowspan="3">19,5418</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>537</td>
-<td>ручей без названия № 8</td>
-</tr>
-<tr>
-<td>538</td>
-<td>ручей без названия № 9</td>
-</tr>
-<tr>
-<td>539</td>
-<td>ручей без названия № 1</td>
-<td rowspan="2">на территории учетного квартала 05-072-036-3</td>
-<td colspan="2" rowspan="2">494,5461</td>
-<td rowspan="2">78,3147</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">50</td>
-</tr>
-<tr>
-<td>540</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>541</td>
-<td>река Акмурат</td>
-<td rowspan="4">на территории учетного квартала 05-072-036-4</td>
-<td colspan="2" rowspan="4">948,5743</td>
-<td rowspan="4">224,3184</td>
-<td rowspan="4">500</td>
-<td colspan="2" rowspan="4">75</td>
-</tr>
-<tr>
-<td>542</td>
-<td>ручей без названия № 5</td>
-</tr>
-<tr>
-<td>543</td>
-<td>ручей без названия № 6</td>
+<td rowspan="5">75</td>
 </tr>
 <tr>
 <td>544</td>
-<td>ручей без названия № 7</td>
+<td>ручей без названия № 2</td>
 </tr>
 <tr>
 <td>545</td>
-<td>река Мойылды</td>
-<td rowspan="3">на территории учетного квартала 05-072-044-1</td>
-<td colspan="2" rowspan="3">600,5878</td>
-<td rowspan="3">102,8761</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">75</td>
+<td>ручей без названия № 3</td>
 </tr>
 <tr>
 <td>546</td>
-<td>ручей без названия № 1</td>
-</tr>
-<tr>
-<td>547</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>548</td>
-<td>река Киинсу</td>
-<td rowspan="3">на территории учетного квартала 05-072-044-2</td>
-<td colspan="2" rowspan="3">513,6524</td>
-<td rowspan="3">89,9019</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">75</td>
-</tr>
-<tr>
-<td>549</td>
-<td>река Койшилик</td>
-</tr>
-<tr>
-<td>550</td>
-<td>ручей без названия</td>
-</tr>
-<tr>
-<td>551</td>
-<td>река Карасу</td>
-<td>на территории учетного квартала 05-072-049</td>
-<td colspan="2">45,4216</td>
-<td>3,5838</td>
-<td>500</td>
-<td colspan="2">35</td>
-</tr>
-<tr>
-<td>552</td>
-<td>река Такыр</td>
-<td rowspan="4">на территории учетного квартала 05-072-069-1</td>
-<td colspan="2" rowspan="4">1014,2311</td>
-<td rowspan="4">278,1217</td>
-<td rowspan="4">500</td>
-<td colspan="2" rowspan="4">75</td>
-</tr>
-<tr>
-<td>553</td>
-<td>ручей без названия № 6</td>
-</tr>
-<tr>
-<td>554</td>
-<td>ручей без названия № 7</td>
-</tr>
-<tr>
-<td>555</td>
-<td>ручей без названия № 8</td>
-</tr>
-<tr>
-<td>556</td>
-<td>река Жалпакагаш</td>
-<td rowspan="3">на территории учетного квартала 05-07269-2</td>
-<td colspan="2" rowspan="3">1393,2994</td>
-<td rowspan="3">251,4885</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>557</td>
-<td>ручей без названия № 1</td>
-</tr>
-<tr>
-<td>558</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>559</td>
-<td>ручей без названия № 3</td>
-<td rowspan="3">на территории учетного квартала 05-072-069-3</td>
-<td colspan="2" rowspan="3">1393,2994</td>
-<td rowspan="3">251,4885</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>560</td>
 <td>ручей без названия № 4</td>
 </tr>
 <tr>
-<td>561</td>
+<td>547</td>
 <td>ручей без названия № 5</td>
 </tr>
 <tr>
-<td>562</td>
-<td>ручей без названия № 9</td>
-<td rowspan="3">на территории учетного квартала 05-072-069-4</td>
-<td colspan="2" rowspan="3">795,1671</td>
-<td rowspan="3">147,3194</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">75</td>
-</tr>
-<tr>
-<td>563</td>
-<td>
-ручей без названия
-№ 10
-</td>
-</tr>
-<tr>
-<td>564</td>
-<td>
-ручей без названия
-№ 11
-</td>
-</tr>
-<tr>
-<td>565</td>
-<td>ручей без названия № 3</td>
-<td rowspan="4">на территории учетного квартала 05-072-073-1</td>
-<td colspan="2" rowspan="4">1395,0833</td>
-<td rowspan="4">281,0868</td>
-<td rowspan="4">500</td>
-<td colspan="2" rowspan="4">50</td>
-</tr>
-<tr>
-<td>566</td>
-<td>ручей без названия № 3</td>
-</tr>
-<tr>
-<td>567</td>
-<td>ручей без названия № 5</td>
-</tr>
-<tr>
-<td>568</td>
-<td>ручей без названия № 6</td>
-</tr>
-<tr>
-<td>569</td>
-<td>ручей без названия № 1</td>
-<td rowspan="3">на территории учетного квартала 05-072-073-2</td>
-<td colspan="2" rowspan="3">1395,0833</td>
-<td rowspan="3">281,0868</td>
-<td rowspan="3">500</td>
-<td colspan="2" rowspan="3">50</td>
-</tr>
-<tr>
-<td>570</td>
-<td>ручей без названия № 2</td>
-</tr>
-<tr>
-<td>571</td>
-<td>ручей без названия № 3</td>
-</tr>
-<tr>
-<td>572</td>
-<td>река Караган</td>
-<td rowspan="2">на территории учетного квартала 05-072-073-3</td>
-<td colspan="2" rowspan="2">894,9623</td>
-<td rowspan="2">76,0486</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
-</tr>
-<tr>
-<td>573</td>
-<td>ручей без названия № 7</td>
-</tr>
-<tr>
-<td>574</td>
-<td>
-река Жинишке
-правый берег
-</td>
-<td rowspan="3">на территории учетного квартала 05-072-010</td>
-<td colspan="2">86,7</td>
-<td>10,9</td>
-<td rowspan="2">500</td>
-<td colspan="2" rowspan="3">55</td>
-</tr>
-<tr>
-<td>575</td>
-<td>
-ручей без названия № 1
-левый берег
-</td>
-<td colspan="2">139,2</td>
-<td>21</td>
-</tr>
-<tr>
-<td>576</td>
-<td>
-ручей без названия № 2
-левый берег
-правый берег
-</td>
-<td colspan="2">
-57,8
--
-</td>
-<td>
-3,5
-3,7
-</td>
-<td>
-500
--
-</td>
-</tr>
-<tr>
-<td>577</td>
-<td>
-река Жинишке
-левый берег
-правый берег
-</td>
-<td rowspan="2">на территории учетного квартала 05-072-004</td>
-<td colspan="2">
-10,4
-41
-</td>
-<td>
-3,4
-3,6
-</td>
-<td>
-110-440
-500
-</td>
-<td colspan="2" rowspan="2">50</td>
-</tr>
-<tr>
-<td>578</td>
-<td>озеро</td>
-<td colspan="2">-</td>
-<td>1,1</td>
-<td>-</td>
-</tr>
-<tr>
-<td>579</td>
+<td>548</td>
 <td>
 река Сулушокы
 правый берег
@@ -7226,13 +7354,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>580</td>
+<td>549</td>
 <td>
 ручей № 1
 правый берег
@@ -7251,13 +7379,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>581</td>
+<td>550</td>
 <td>
 ручей № 2
 правый берег
@@ -7276,13 +7404,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 170-580
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>582</td>
+<td>551</td>
 <td>
 река Узынбулак
 правый берег
@@ -7291,10 +7419,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">110,1</td>
 <td>6,8</td>
 <td>380-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>583</td>
+<td>552</td>
 <td>
 река Караагаш
 правый берег
@@ -7313,13 +7441,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 320-650
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>584</td>
+<td>553</td>
 <td>
 река Кайынды
 правый берег
@@ -7328,37 +7456,37 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">312,7537</td>
 <td>47,3321</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>585</td>
+<td>554</td>
 <td>приток № 1 реки Кайынды</td>
 <td>в пределах Курчумского района</td>
 <td colspan="2">45,3155</td>
 <td>5,9939</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>586</td>
+<td>555</td>
 <td>приток № 2 реки Кайынды</td>
 <td>в пределах Курчумского района</td>
 <td colspan="2">182,7813</td>
 <td>4,8929</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>587</td>
+<td>556</td>
 <td>приток № 3 реки Кайынды</td>
 <td>в пределах Курчумского района</td>
 <td colspan="2">160,2879</td>
 <td>3,765</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>588</td>
+<td>557</td>
 <td>
 приток № 4 реки Кайынды
 левый берег
@@ -7367,10 +7495,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">41,959</td>
 <td>0,7938</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>589</td>
+<td>558</td>
 <td>
 река Актас
 правый берег
@@ -7379,76 +7507,76 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">192,637</td>
 <td>14,1822</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>590</td>
+<td>559</td>
 <td>ручей без названия № 1</td>
 <td>в пределах Курчумского района</td>
 <td colspan="2">186,0484</td>
 <td>13,422</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>591</td>
+<td>560</td>
 <td>канал Саратовский</td>
 <td>в пределах Курчумского района</td>
 <td colspan="2">50,5199</td>
 <td>3,6886</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>592</td>
+<td>561</td>
 <td>канал Торетогам</td>
 <td rowspan="2">в пределах Курчумского района</td>
 <td colspan="2" rowspan="2">160,6999</td>
 <td>5,6076</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>593</td>
+<td>562</td>
 <td>болота</td>
 <td>6,7955</td>
 </tr>
 <tr>
-<td>594</td>
+<td>563</td>
 <td>ручей без названия № 1</td>
 <td rowspan="6">в пределах Курчумского района</td>
 <td colspan="2" rowspan="6">1045,9917</td>
 <td>62,6267</td>
 <td rowspan="6">500</td>
-<td colspan="2" rowspan="6">35</td>
+<td rowspan="6">35</td>
 </tr>
 <tr>
-<td>595</td>
+<td>564</td>
 <td>ручей без названия № 2</td>
 <td>45,1714</td>
 </tr>
 <tr>
-<td>596</td>
+<td>565</td>
 <td>ручей без названия № 3</td>
 <td>47,366</td>
 </tr>
 <tr>
-<td>597</td>
+<td>566</td>
 <td>ручей без названия № 4</td>
 <td>26,7303</td>
 </tr>
 <tr>
-<td>598</td>
+<td>567</td>
 <td>ручей без названия № 5</td>
 <td>29,2746</td>
 </tr>
 <tr>
-<td>599</td>
+<td>568</td>
 <td>ручей без названия № 6</td>
 <td>18,8599</td>
 </tr>
 <tr>
-<td>600</td>
+<td>569</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -7457,129 +7585,15 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="2">696,7274</td>
 <td>19,2264</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>601</td>
+<td>570</td>
 <td>ручей без названия № 2</td>
 <td>43,1523</td>
 </tr>
 <tr>
-<td>602</td>
-<td>река Алкабек</td>
-<td rowspan="6">в пределах Курчумского района</td>
-<td colspan="2" rowspan="6">533,8942</td>
-<td>10,612</td>
-<td rowspan="6">500</td>
-<td colspan="2" rowspan="6">35</td>
-</tr>
-<tr>
-<td>603</td>
-<td>приток № 1 реки Алкабек</td>
-<td>9,7874</td>
-</tr>
-<tr>
-<td>604</td>
-<td>приток № 2 реки Алкабек</td>
-<td>11,2384</td>
-</tr>
-<tr>
-<td>605</td>
-<td>ручей без названия № 1</td>
-<td>8,7409</td>
-</tr>
-<tr>
-<td>606</td>
-<td>ручей без названия № 2</td>
-<td>8,5604</td>
-</tr>
-<tr>
-<td>607</td>
-<td>приток реки Теректи</td>
-<td>6,6392</td>
-</tr>
-<tr>
-<td>608</td>
-<td>приток реки Балакалжир</td>
-<td rowspan="7">в пределах Курчумского района</td>
-<td colspan="2" rowspan="7">745,0075</td>
-<td>10,6481</td>
-<td rowspan="7">500</td>
-<td colspan="2" rowspan="7">35</td>
-</tr>
-<tr>
-<td>609</td>
-<td>ручей без названия № 1</td>
-<td>8,9005</td>
-</tr>
-<tr>
-<td>610</td>
-<td>ручей без названия № 2</td>
-<td>14,6974</td>
-</tr>
-<tr>
-<td>611</td>
-<td>ручей без названия № 3</td>
-<td>30,1146</td>
-</tr>
-<tr>
-<td>612</td>
-<td>ручей без названия № 4</td>
-<td>19,1349</td>
-</tr>
-<tr>
-<td>613</td>
-<td>ручей без названия № 5</td>
-<td>18,0904</td>
-</tr>
-<tr>
-<td>614</td>
-<td>ручей без названия № 6</td>
-<td>8,3011</td>
-</tr>
-<tr>
-<td>615</td>
-<td>
-приток
-реки Шет Теректы
-левый берег
-</td>
-<td rowspan="6">в пределах Курчумского района</td>
-<td colspan="2" rowspan="6">577,2704</td>
-<td>11,204</td>
-<td rowspan="6">500</td>
-<td colspan="2" rowspan="6">35</td>
-</tr>
-<tr>
-<td>616</td>
-<td>
-ручей Орта Теректы
-правый берег
-</td>
-<td>11,2826</td>
-</tr>
-<tr>
-<td>617</td>
-<td>приток № 1 ручья Орта Теректы</td>
-<td>12,6516</td>
-</tr>
-<tr>
-<td>618</td>
-<td>приток № 2 ручья Орта Теректы</td>
-<td>14,4019</td>
-</tr>
-<tr>
-<td>619</td>
-<td>приток № 3 ручья Орта Теректы</td>
-<td>13,2368</td>
-</tr>
-<tr>
-<td>620</td>
-<td>приток № 4 ручья Орта Теректы</td>
-<td>10,7275</td>
-</tr>
-<tr>
-<td>621</td>
+<td>571</td>
 <td>
 река Узынбулак
 левый берег
@@ -7588,10 +7602,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2" rowspan="3">105,6834</td>
 <td>5,5</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>622</td>
+<td>572</td>
 <td>
 приток реки Узынбулак
 правый берег
@@ -7599,12 +7613,12 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>4,9565</td>
 </tr>
 <tr>
-<td>623</td>
+<td>573</td>
 <td>ручей без названия</td>
 <td>6,8619</td>
 </tr>
 <tr>
-<td>624</td>
+<td>574</td>
 <td>
 река Киынсу
 правый берег
@@ -7613,10 +7627,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">130</td>
 <td>9,7</td>
 <td>500</td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>625</td>
+<td>575</td>
 <td>
 ручей без названия № 1
 исток
@@ -7626,7 +7640,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>310-500</td>
 </tr>
 <tr>
-<td>626</td>
+<td>576</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -7646,13 +7660,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>627</td>
+<td>577</td>
 <td>
 ручей Танаш
 левый берег
 правый берег
 </td>
 <td colspan="2">
+
 114,2
 139,3
 </td>
@@ -7666,7 +7681,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>628</td>
+<td>578</td>
 <td>
 ручей Таловочка
 правый берег
@@ -7675,10 +7690,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">42,5</td>
 <td>4,1</td>
 <td>500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>629</td>
+<td>579</td>
 <td>
 ручей Наумов ключ
 правый берег
@@ -7698,7 +7713,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>630</td>
+<td>580</td>
 <td>
 ручей Танаш
 левый берег
@@ -7717,10 +7732,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 280-500
 250-500
 </td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>631</td>
+<td>581</td>
 <td>
 ручей без названия
 левый берег
@@ -7740,22 +7755,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>632</td>
+<td>582</td>
 <td>ручей Асусай</td>
 <td rowspan="2">на территории учетного кваратала 05-072-010</td>
 <td colspan="2">155,6</td>
 <td>18</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>633</td>
+<td>583</td>
 <td>ручей без названия</td>
 <td colspan="2">61,2</td>
 <td>7,7</td>
 </tr>
 <tr>
-<td>634</td>
+<td>584</td>
 <td>
 ручей Кашкынбай
 правый берег
@@ -7771,10 +7786,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 17,6
 </td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>635</td>
+<td>585</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -7790,7 +7805,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>636</td>
+<td>586</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -7799,7 +7814,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>6,5</td>
 </tr>
 <tr>
-<td>637</td>
+<td>587</td>
 <td>
 река Киынсу
 левый берег
@@ -7818,10 +7833,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 390-470
 340-740
 </td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>638</td>
+<td>588</td>
 <td>
 ручей Туюкбулак
 левый берег
@@ -7841,7 +7856,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>639</td>
+<td>589</td>
 <td>
 ручей без названия
 левый берег
@@ -7861,7 +7876,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>640</td>
+<td>590</td>
 <td>
 ручей Карагая
 левый берег
@@ -7870,10 +7885,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">166,7</td>
 <td>13,6</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>641</td>
+<td>591</td>
 <td>
 ручей без названия
 левый берег
@@ -7889,7 +7904,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>642</td>
+<td>592</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -7898,10 +7913,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">133,5</td>
 <td>9,2</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>643</td>
+<td>593</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -7913,10 +7928,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 3,7
 </td>
 <td>-</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>644</td>
+<td>594</td>
 <td>
 ручей без названия № 3
 левый берег
@@ -7930,16 +7945,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>645</td>
+<td>595</td>
 <td>ручей Катыш</td>
 <td>южнее села Егиндыбулак</td>
 <td colspan="2">116,7</td>
 <td>12,8</td>
 <td>500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>646</td>
+<td>596</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -7958,10 +7973,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 340-530
 </td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>647</td>
+<td>597</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -7981,7 +7996,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>648</td>
+<td>598</td>
 <td>
 ручей Кояндыбулак
 левый берег
@@ -7993,10 +8008,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">306,8</td>
 <td>24,7</td>
 <td>500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>649</td>
+<td>599</td>
 <td>
 ручей без названия
 правый берег
@@ -8016,34 +8031,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>650</td>
+<td>600</td>
 <td>
-река Верхние Теректы
-правый берег
-левый берег
-</td>
-<td>на участке «Манка» разведки золотосодержащих руд</td>
-<td colspan="2">
-140,43
-160,85
-</td>
-<td>
-18,82
-20,21
-</td>
-<td>
-500
-500
-</td>
-<td colspan="2">
-55
-55
-</td>
-</tr>
-<tr>
-<td>651</td>
-<td>
-родник №1
+родник № 1
 правый берег
 левый берег
 </td>
@@ -8054,12 +8044,12 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 0,8
 </td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">35</td>
+<td rowspan="5">35</td>
 </tr>
 <tr>
-<td>652</td>
+<td>601</td>
 <td>
-родник №2
+родник № 2
 правый берег
 левый берег
 </td>
@@ -8070,7 +8060,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>653</td>
+<td>602</td>
 <td>
 ручей без названия
 правый берег
@@ -8086,19 +8076,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>654</td>
+<td>603</td>
 <td>озеро № 1</td>
 <td colspan="2">59,3</td>
 <td>1,5</td>
 </tr>
 <tr>
-<td>655</td>
+<td>604</td>
 <td>озеро № 2</td>
 <td colspan="2">59,3</td>
 <td>1,7</td>
 </tr>
 <tr>
-<td>656</td>
+<td>605</td>
 <td>
 ручей Танаш
 левый берег
@@ -8117,10 +8107,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 440-650
 160-790
 </td>
-<td colspan="2" rowspan="5">55</td>
+<td rowspan="5">55</td>
 </tr>
 <tr>
-<td>657</td>
+<td>606</td>
 <td>
 ручей Куансай
 правый берег
@@ -8140,7 +8130,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>658</td>
+<td>607</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -8160,7 +8150,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>659</td>
+<td>608</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -8170,7 +8160,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>660</td>
+<td>609</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -8184,7 +8174,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>661</td>
+<td>610</td>
 <td>
 река Кызылагаш
 правый берег
@@ -8205,16 +8195,17 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 <td>
 500
+500
 -
 </td>
-<td colspan="2">
+<td>
 55
 55
 55
 </td>
 </tr>
 <tr>
-<td>662</td>
+<td>611</td>
 <td>
 ручей Караозек
 правый берег
@@ -8230,10 +8221,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 23,8
 </td>
 <td rowspan="4">500</td>
-<td colspan="2" rowspan="4">50</td>
+<td rowspan="4">50</td>
 </tr>
 <tr>
-<td>663</td>
+<td>612</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -8249,7 +8240,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>664</td>
+<td>613</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -8262,7 +8253,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>665</td>
+<td>614</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -8275,40 +8266,40 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>666</td>
+<td>615</td>
 <td>озеро Такырколь</td>
 <td rowspan="5">в 6,7 километров северо-западнее села Жылытау</td>
 <td colspan="2">90,3</td>
 <td>9,4</td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">50</td>
+<td rowspan="5">50</td>
 </tr>
 <tr>
-<td>667</td>
+<td>616</td>
 <td>озеро без названия № 1</td>
 <td colspan="2">263,6</td>
 <td>9,4</td>
 </tr>
 <tr>
-<td>668</td>
+<td>617</td>
 <td>озеро без названия № 2</td>
 <td colspan="2">263,6</td>
 <td>1,98</td>
 </tr>
 <tr>
-<td>669</td>
+<td>618</td>
 <td>озеро без названия № 3</td>
 <td colspan="2">263,6</td>
 <td>0,7</td>
 </tr>
 <tr>
-<td>670</td>
+<td>619</td>
 <td>озеро без названия № 4</td>
 <td colspan="2">79,7</td>
 <td>2,4</td>
 </tr>
 <tr>
-<td>671</td>
+<td>620</td>
 <td>
 ручей Куансай
 правый берег
@@ -8324,13 +8315,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 16,3
 </td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>672</td>
+<td>621</td>
 <td>
 ручей без названия
-правый берег
+првый берег
 левый берег
 </td>
 <td colspan="2">
@@ -8343,7 +8334,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>673</td>
+<td>622</td>
 <td>
 ручей Каражал
 правый берег
@@ -8362,10 +8353,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 400-500
 500-800
 </td>
-<td colspan="2" rowspan="5">55</td>
+<td rowspan="5">55</td>
 </tr>
 <tr>
-<td>674</td>
+<td>623</td>
 <td>
 ручей Кунакпай
 правый берег
@@ -8379,34 +8370,40 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 15,6
 20,2
 </td>
-<td rowspan="4">500</td>
+<td>
+500
+500
+</td>
 </tr>
 <tr>
-<td>675</td>
+<td>624</td>
 <td>родник</td>
 <td colspan="2">946,9</td>
 <td>103,1</td>
+<td>500</td>
 </tr>
 <tr>
-<td>676</td>
+<td>625</td>
 <td>
 река Киынсу
 правый берег
 </td>
 <td colspan="2">242</td>
 <td>29,8</td>
+<td>500</td>
 </tr>
 <tr>
-<td>677</td>
+<td>626</td>
 <td>
 река Шуршутсу
 левый берег
 </td>
 <td colspan="2">223</td>
 <td>37,7</td>
+<td>500</td>
 </tr>
 <tr>
-<td>678</td>
+<td>627</td>
 <td>
 река Караагаш
 правый берег
@@ -8425,13 +8422,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 400-660
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>679</td>
+<td>628</td>
 <td>
 ручей Кашкынбай
 правый исток
@@ -8450,38 +8447,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 170-460
 500
 </td>
-<td colspan="2">
+<td>
 50
 50
 </td>
 </tr>
 <tr>
-<td>680</td>
-<td>река Алкабек</td>
-<td rowspan="3">в 25,7 километров северо-восточнее села Маркаколь</td>
-<td colspan="2">68,2</td>
-<td>-</td>
-<td>500</td>
-<td colspan="2">-</td>
-</tr>
-<tr>
-<td>681</td>
-<td>правый исток</td>
-<td colspan="2">-</td>
-<td>3,1</td>
-<td>-</td>
-<td colspan="2">55</td>
-</tr>
-<tr>
-<td>682</td>
-<td>левый исток</td>
-<td colspan="2">-</td>
-<td>4,9</td>
-<td>-</td>
-<td colspan="2">55</td>
-</tr>
-<tr>
-<td>683</td>
+<td>629</td>
 <td>
 река Киынбулак
 правый берег
@@ -8500,13 +8472,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 -
 </td>
-<td colspan="2">
+<td>
 55
 55
 </td>
 </tr>
 <tr>
-<td>684</td>
+<td>630</td>
 <td>
 ручей без названия
 правый берег
@@ -8515,44 +8487,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">111</td>
 <td>12</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>685</td>
-<td>
-река Шыбынды
-левый берег
-правый берег
-</td>
-<td>в 4 километрах северо-западнее села Тоскайын</td>
-<td colspan="2">
-73,6
-395,9
-</td>
-<td>
-15,5
-41,55
-</td>
-<td>
-500
-500
-</td>
-<td colspan="2">
-55
-55
-</td>
-</tr>
-<tr>
-<td>686</td>
+<td>631</td>
 <td>река Киынсу</td>
 <td>в 10,5 километрах севернее села Майтерек</td>
 <td colspan="2">954,5</td>
 <td>129,6</td>
 <td>270-500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>687</td>
+<td>632</td>
 <td>
 родник и ручей
 правый берег
@@ -8571,13 +8518,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 365-500
 150-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>688</td>
+<td>633</td>
 <td>
 река Карасу
 правый берег
@@ -8586,47 +8533,41 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">103,1</td>
 <td>7,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>689</td>
+<td>634</td>
 <td>
 ручей Тентек
 правый берег
 левый берег
 </td>
 <td>на территори учетного квартала 05-072-015</td>
-<td colspan="2">
-972,5
--
-</td>
+<td colspan="2">972,5</td>
 <td>
-42,4
-43,4
+11,83
+12,43
 </td>
 <td>
 440-500
--
+440-500
 </td>
-<td colspan="2">
-35
-35
-</td>
+<td>35</td>
 </tr>
 <tr>
-<td>690</td>
+<td>635</td>
 <td>
-ручья Кашкынбай
+ручей Кашкынбай
 левый берег
 </td>
 <td rowspan="2">в 13,3 километрах восточнее села Кыстау-Курчум</td>
 <td colspan="2">194,5</td>
 <td>25,2</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>691</td>
+<td>636</td>
 <td>
 ручей Избасар
 правый берег
@@ -8635,10 +8576,953 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>44</td>
 </tr>
 <tr>
-<td colspan="9">район Самар</td>
+<td>637</td>
+<td>
+ручей Кунакпай
+правый берег
+левый берег
+</td>
+<td>на территории Курчумского района</td>
+<td colspan="2">374,6</td>
+<td>
+32
+32,5
+</td>
+<td>380-500</td>
+<td>
+50
+50
+</td>
+</tr>
+<tr>
+<td>638</td>
+<td>
+река Березовка
+правый берег
+левый берег
+</td>
+<td rowspan="4">в 19,2 километров юго-восточнее села Ушбулак</td>
+<td colspan="2">
+278,5
+242,2
+</td>
+<td>
+32,3
+32,1
+</td>
+<td>
+100-650
+100-670
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>639</td>
+<td>родник №1</td>
+<td colspan="2">45,7</td>
+<td>3,9</td>
+<td>200-500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>640</td>
+<td>родник №2</td>
+<td colspan="2">108,5</td>
+<td>3,2</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>641</td>
+<td>родник №3</td>
+<td colspan="2">45</td>
+<td>2,2</td>
+<td>250-550</td>
+<td>55</td>
+</tr>
+<tr>
+<td>642</td>
+<td>ручей без названия №1</td>
+<td rowspan="3">на территории Курчумского района</td>
+<td colspan="2">105,5</td>
+<td>11</td>
+<td>180-700</td>
+<td>55</td>
+</tr>
+<tr>
+<td>643</td>
+<td>
+ручей без названия №2
+правый берег
+левый берег
+</td>
+<td colspan="2">
+50
+100,8
+</td>
+<td>
+10,7
+9
+</td>
+<td>
+280-500
+280-610
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>644</td>
+<td>
+ручей без названия №3
+правый берег
+левый берег
+</td>
+<td colspan="2">
+20
+104
+</td>
+<td>
+2
+21,9
+</td>
+<td>
+340-500
+300-400
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>645</td>
+<td>река Кызылагаш</td>
+<td>на территории Курчумского района</td>
+<td colspan="2">361,6</td>
+<td>49</td>
+<td>180-500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>646</td>
+<td>
+ручей без названия
+правый берег
+левый берег
+</td>
+<td>на территории Курчумского района</td>
+<td colspan="2">
+133,2
+215
+</td>
+<td>
+16,6
+26,4
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>647</td>
+<td>
+ручей Карагаш
+правый берег
+левый берег
+</td>
+<td rowspan="3">на территории учетного квартала 05-072-069</td>
+<td colspan="2">615,7</td>
+<td>
+39
+52,2
+</td>
+<td>180-600</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>648</td>
+<td>
+ручей без названия №1
+правый берег
+левый берег
+</td>
+<td colspan="2">78,2</td>
+<td>
+7,1
+4,1
+</td>
+<td>350-540</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>649</td>
+<td>
+ручей без названия №2
+правый берег
+левый берег
+</td>
+<td colspan="2">153,2</td>
+<td>
+7,1
+20,1
+</td>
+<td>260-500</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>650</td>
+<td>
+ручей Егинбулак
+правый берег
+</td>
+<td rowspan="2">на территории Курчумского района</td>
+<td colspan="2">60</td>
+<td>3,7</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>651</td>
+<td>
+ручей без названия
+левый берег
+</td>
+<td colspan="2">70</td>
+<td>8,5</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>652</td>
+<td>
+ручей Жигаловский ключ
+правый берег
+левый берег
+</td>
+<td>7 километров юго-западнее села Ушбулак</td>
+<td colspan="2">
+15,1313
+14,8441
+</td>
+<td>
+1,7430
+1,7836
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td colspan="8">Маркакольский район</td>
+</tr>
+<tr>
+<td>653</td>
+<td>
+ручей Сакрома
+левый берег
+</td>
+<td rowspan="4">на территории учетного квартала 05-072-049</td>
+<td colspan="2">107,5</td>
+<td>17,6</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>654</td>
+<td>
+река Бас Теректы
+правый берег
+</td>
+<td colspan="2">53,6</td>
+<td>9,7</td>
+<td>500</td>
+<td rowspan="3">55</td>
+</tr>
+<tr>
+<td>655</td>
+<td>
+ручей Верхняя Теректы
+левый берег
+правый берег
+</td>
+<td colspan="2">
+-
+115,1
+</td>
+<td>
+7,3
+7,8
+</td>
+<td>
+-
+500
+</td>
+</tr>
+<tr>
+<td>656</td>
+<td>
+ручей без названия
+правый берег
+</td>
+<td colspan="2">115,2</td>
+<td>13,7</td>
+<td>500</td>
+</tr>
+<tr>
+<td>657</td>
+<td>река Таловочка</td>
+<td rowspan="3">на территории учетного квартала 05-072-015-2</td>
+<td colspan="2" rowspan="3">158,0019</td>
+<td rowspan="3">34,5193</td>
+<td rowspan="3">500</td>
+<td rowspan="3">50</td>
+</tr>
+<tr>
+<td>658</td>
+<td>ручей Наумов ключ</td>
+</tr>
+<tr>
+<td>659</td>
+<td>река Теректи</td>
+</tr>
+<tr>
+<td>660</td>
+<td>
+река Карашат
+левый берег
+</td>
+<td rowspan="3">в 13,8 километрах северо-восточнее села Акбулак</td>
+<td colspan="2" rowspan="3">224,091</td>
+<td>6,132</td>
+<td rowspan="3">200-1400</td>
+<td>55</td>
+</tr>
+<tr>
+<td>661</td>
+<td>ручей без названия</td>
+<td>7,408</td>
+<td rowspan="2">100</td>
+</tr>
+<tr>
+<td>662</td>
+<td>ручей Медвежий и его левый приток</td>
+<td>37,318</td>
+</tr>
+<tr>
+<td>663</td>
+<td>река Алкабек</td>
+<td rowspan="3">в 25,7 километров северо-восточнее села Маркаколь</td>
+<td colspan="2">68,2</td>
+<td>-</td>
+<td>500</td>
+<td>-</td>
+</tr>
+<tr>
+<td>664</td>
+<td>правый исток</td>
+<td colspan="2">-</td>
+<td>3,1</td>
+<td>-</td>
+<td>55</td>
+</tr>
+<tr>
+<td>665</td>
+<td>левый исток</td>
+<td colspan="2">-</td>
+<td>4,9</td>
+<td>-</td>
+<td>55</td>
+</tr>
+<tr>
+<td>666</td>
+<td>
+река Шыбынды
+левый берег
+правый берег
+</td>
+<td>в 4 километрах северо-западнее села Тоскайын</td>
+<td colspan="2">
+73,6
+395,9
+</td>
+<td>
+15,5
+41,55
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>667</td>
+<td>ручей без названия № 1</td>
+<td rowspan="3">на территории учетного квартала 05-072-019</td>
+<td colspan="2" rowspan="3">309,1133</td>
+<td rowspan="3">77,6572</td>
+<td rowspan="3">500</td>
+<td rowspan="3">75</td>
+</tr>
+<tr>
+<td>668</td>
+<td>ручей без названия № 2</td>
+</tr>
+<tr>
+<td>669</td>
+<td>ручей без названия № 3</td>
+</tr>
+<tr>
+<td>670</td>
+<td>река Терисайрык</td>
+<td rowspan="3">на территории учетного квартала 05-072-036-1</td>
+<td colspan="2" rowspan="3">740,2033</td>
+<td rowspan="3">69,9174</td>
+<td rowspan="3">500</td>
+<td rowspan="3">35</td>
+</tr>
+<tr>
+<td>671</td>
+<td>ручей без названия № 3</td>
+</tr>
+<tr>
+<td>672</td>
+<td>ручей без названия № 4</td>
+</tr>
+<tr>
+<td>673</td>
+<td>река Кояндыбулак</td>
+<td rowspan="3">на территории учетного квартала 05-072-036-2</td>
+<td colspan="2" rowspan="3">177,3075</td>
+<td rowspan="3">19,5418</td>
+<td rowspan="3">500</td>
+<td rowspan="3">50</td>
+</tr>
+<tr>
+<td>674</td>
+<td>ручей без названия № 8</td>
+</tr>
+<tr>
+<td>675</td>
+<td>ручей без названия № 9</td>
+</tr>
+<tr>
+<td>676</td>
+<td>ручей без названия № 1</td>
+<td rowspan="2">на территории учетного квартала 05-072-036-3</td>
+<td colspan="2" rowspan="2">494,5461</td>
+<td rowspan="2">78,3147</td>
+<td rowspan="2">500</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>677</td>
+<td>ручей без названия № 2</td>
+</tr>
+<tr>
+<td>678</td>
+<td>река Акмурат</td>
+<td rowspan="4">на территории учетного квартала 05-072-036-4</td>
+<td colspan="2" rowspan="4">948,5743</td>
+<td rowspan="4">224,3184</td>
+<td rowspan="4">500</td>
+<td rowspan="4">75</td>
+</tr>
+<tr>
+<td>679</td>
+<td>ручей без названия № 5</td>
+</tr>
+<tr>
+<td>680</td>
+<td>ручей без названия № 6</td>
+</tr>
+<tr>
+<td>681</td>
+<td>ручей без названия № 7</td>
+</tr>
+<tr>
+<td>682</td>
+<td>река Мойылды</td>
+<td rowspan="3">на территории учетного квартала 05-072-044-1</td>
+<td colspan="2" rowspan="3">600,5878</td>
+<td rowspan="3">102,8761</td>
+<td rowspan="3">500</td>
+<td rowspan="3">75</td>
+</tr>
+<tr>
+<td>683</td>
+<td>ручей без названия № 1</td>
+</tr>
+<tr>
+<td>684</td>
+<td>ручей без названия № 2</td>
+</tr>
+<tr>
+<td>685</td>
+<td>река Киинсу</td>
+<td rowspan="3">на территории учетного квартала 05-072-044-2</td>
+<td colspan="2" rowspan="3">513,6524</td>
+<td rowspan="3">89,9019</td>
+<td rowspan="3">500</td>
+<td rowspan="3">75</td>
+</tr>
+<tr>
+<td>686</td>
+<td>река Койшилик</td>
+</tr>
+<tr>
+<td>687</td>
+<td>ручей без названия</td>
+</tr>
+<tr>
+<td>688</td>
+<td>река Карасу</td>
+<td>на территории учетного квартала 05-072-049</td>
+<td colspan="2">45,4216</td>
+<td>3,5838</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>689</td>
+<td>река Такыр</td>
+<td rowspan="4">на территории учетного квартала 05-072-069-1</td>
+<td colspan="2" rowspan="4">1014,2311</td>
+<td rowspan="4">278,1217</td>
+<td rowspan="4">500</td>
+<td rowspan="4">75</td>
+</tr>
+<tr>
+<td>690</td>
+<td>ручей без названия № 6</td>
+</tr>
+<tr>
+<td>691</td>
+<td>ручей без названия № 7</td>
 </tr>
 <tr>
 <td>692</td>
+<td>ручей без названия № 8</td>
+</tr>
+<tr>
+<td>693</td>
+<td>река Жалпакагаш</td>
+<td rowspan="3">на территории учетного квартала 05-072-69-2</td>
+<td colspan="2" rowspan="3">1393,2994</td>
+<td rowspan="3">251,4885</td>
+<td rowspan="3">500</td>
+<td rowspan="3">50</td>
+</tr>
+<tr>
+<td>694</td>
+<td>ручей без названия № 1</td>
+</tr>
+<tr>
+<td>695</td>
+<td>ручей без названия № 2</td>
+</tr>
+<tr>
+<td>696</td>
+<td>ручей без названия № 3</td>
+<td rowspan="3">на территории учетного квартала 05-072-069-3</td>
+<td colspan="2" rowspan="3">1393,2994</td>
+<td rowspan="3">251,4885</td>
+<td rowspan="3">500</td>
+<td rowspan="3">50</td>
+</tr>
+<tr>
+<td>697</td>
+<td>ручей без названия № 4</td>
+</tr>
+<tr>
+<td>698</td>
+<td>ручей без названия № 5</td>
+</tr>
+<tr>
+<td>699</td>
+<td>ручей без названия № 9</td>
+<td rowspan="3">на территории учетного квартала 05-072-069-4</td>
+<td colspan="2" rowspan="3">795,1671</td>
+<td rowspan="3">147,3194</td>
+<td rowspan="3">500</td>
+<td rowspan="3">75</td>
+</tr>
+<tr>
+<td>700</td>
+<td>
+ручей без названия
+№ 10
+</td>
+</tr>
+<tr>
+<td>701</td>
+<td>
+ручей без названия
+№ 11
+</td>
+</tr>
+<tr>
+<td>702</td>
+<td>ручей без названия № 3</td>
+<td rowspan="4">на территории учетного квартала 05-072-073-1</td>
+<td colspan="2" rowspan="4">1395,0833</td>
+<td rowspan="4">281,0868</td>
+<td rowspan="4">500</td>
+<td rowspan="4">50</td>
+</tr>
+<tr>
+<td>703</td>
+<td>ручей без названия № 3</td>
+</tr>
+<tr>
+<td>704</td>
+<td>ручей без названия № 5</td>
+</tr>
+<tr>
+<td>705</td>
+<td>ручей без названия № 6</td>
+</tr>
+<tr>
+<td>706</td>
+<td>ручей без названия № 1</td>
+<td rowspan="3">на территории учетного квартала 05-072-073-2</td>
+<td colspan="2" rowspan="3">1395,0833</td>
+<td rowspan="3">281,0868</td>
+<td rowspan="3">500</td>
+<td rowspan="3">50</td>
+</tr>
+<tr>
+<td>707</td>
+<td>ручей без названия № 2</td>
+</tr>
+<tr>
+<td>708</td>
+<td>ручей без названия № 3</td>
+</tr>
+<tr>
+<td>709</td>
+<td>река Караган</td>
+<td rowspan="2">на территории учетного квартала 05-072-073-3</td>
+<td colspan="2" rowspan="2">894,9623</td>
+<td rowspan="2">76,0486</td>
+<td rowspan="2">500</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>710</td>
+<td>ручей без названия № 7</td>
+</tr>
+<tr>
+<td>711</td>
+<td>
+река Жинишке
+правый берег
+</td>
+<td rowspan="3">на территории учетного квартала 05-072-010</td>
+<td colspan="2">86,7</td>
+<td>10,9</td>
+<td>500</td>
+<td rowspan="3">55</td>
+</tr>
+<tr>
+<td>712</td>
+<td>
+ручей без названия № 1
+левый берег
+</td>
+<td colspan="2">139,2</td>
+<td>21</td>
+<td>500</td>
+</tr>
+<tr>
+<td>713</td>
+<td>
+ручей без названия № 2
+левый берег
+правый берег
+</td>
+<td colspan="2">
+57,8
+-
+</td>
+<td>
+3,5
+3,7
+</td>
+<td>
+500
+-
+</td>
+</tr>
+<tr>
+<td>714</td>
+<td>
+река Жинишке
+левый берег
+правый берег
+</td>
+<td rowspan="2">на территории учетного квартала 05-072-004</td>
+<td colspan="2">
+10,4
+41
+</td>
+<td>
+3,4
+3,6
+</td>
+<td>
+110-440
+500
+</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>715</td>
+<td>озеро</td>
+<td colspan="2">-</td>
+<td>1,1</td>
+<td>-</td>
+</tr>
+<tr>
+<td>716</td>
+<td>река Алкабек</td>
+<td rowspan="6">в пределах Маркакольского района</td>
+<td colspan="2" rowspan="6">533,8942</td>
+<td>10,612</td>
+<td rowspan="6">500</td>
+<td rowspan="6">35</td>
+</tr>
+<tr>
+<td>717</td>
+<td>приток № 1 реки Алкабек</td>
+<td>9,7874</td>
+</tr>
+<tr>
+<td>718</td>
+<td>приток № 2 реки Алкабек</td>
+<td>11,2384</td>
+</tr>
+<tr>
+<td>719</td>
+<td>ручей без названия № 1</td>
+<td>8,7409</td>
+</tr>
+<tr>
+<td>720</td>
+<td>ручей без названия № 2</td>
+<td>8,5604</td>
+</tr>
+<tr>
+<td>721</td>
+<td>приток реки Теректи</td>
+<td>6,6392</td>
+</tr>
+<tr>
+<td>722</td>
+<td>приток реки Балакалжир</td>
+<td rowspan="7">в пределах Маркакольского района</td>
+<td colspan="2" rowspan="7">745,0075</td>
+<td>10,6481</td>
+<td rowspan="7">500</td>
+<td rowspan="7">35</td>
+</tr>
+<tr>
+<td>723</td>
+<td>ручей без названия № 1</td>
+<td>8,9005</td>
+</tr>
+<tr>
+<td>724</td>
+<td>ручей без названия № 2</td>
+<td>14,6974</td>
+</tr>
+<tr>
+<td>725</td>
+<td>ручей без названия № 3</td>
+<td>30,1146</td>
+</tr>
+<tr>
+<td>726</td>
+<td>ручей без названия № 4</td>
+<td>19,1349</td>
+</tr>
+<tr>
+<td>727</td>
+<td>ручей без названия № 5</td>
+<td>18,0904</td>
+</tr>
+<tr>
+<td>728</td>
+<td>ручей без названия № 6</td>
+<td>8,3011</td>
+</tr>
+<tr>
+<td>729</td>
+<td>
+приток
+реки Шет Теректы
+левый берег
+</td>
+<td rowspan="6">в пределах Маркакольского района</td>
+<td colspan="2" rowspan="6">577,2704</td>
+<td>11,204</td>
+<td rowspan="6">500</td>
+<td rowspan="6">35</td>
+</tr>
+<tr>
+<td>730</td>
+<td>
+ручей Орта Теректы
+правый берег
+</td>
+<td>11,2826</td>
+</tr>
+<tr>
+<td>731</td>
+<td>приток № 1 ручья Орта Теректы</td>
+<td>12,6516</td>
+</tr>
+<tr>
+<td>732</td>
+<td>приток № 2 ручья Орта Теректы</td>
+<td>14,4019</td>
+</tr>
+<tr>
+<td>733</td>
+<td>приток № 3 ручья Орта Теректы</td>
+<td>13,2368</td>
+</tr>
+<tr>
+<td>734</td>
+<td>приток № 4 ручья Орта Теректы</td>
+<td>10,7275</td>
+</tr>
+<tr>
+<td>735</td>
+<td>
+река Верхние Теректы
+правый берег
+левый берег
+</td>
+<td>на участке «Манка» разведки золотосодержащих руд</td>
+<td colspan="2">
+140,43
+160,85
+</td>
+<td>
+18,82
+20,21
+</td>
+<td>
+500
+500
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>736</td>
+<td>река Кызылащы</td>
+<td rowspan="4">в 12,3 километрах восточнее села Мойылды</td>
+<td colspan="2">737,98</td>
+<td>47,087</td>
+<td>500-530</td>
+<td>35</td>
+</tr>
+<tr>
+<td>737</td>
+<td>река Кандырла</td>
+<td colspan="2">954,60</td>
+<td>26,675</td>
+<td>500-1000</td>
+<td>35</td>
+</tr>
+<tr>
+<td>738</td>
+<td>река Деминшык</td>
+<td colspan="2">622,48</td>
+<td>17,803</td>
+<td>500-960</td>
+<td>35</td>
+</tr>
+<tr>
+<td>739</td>
+<td>
+ручьи без названия
+№ 1-№ 11
+</td>
+<td colspan="2">2183,16</td>
+<td>96,488</td>
+<td>500-1280</td>
+<td>35</td>
+</tr>
+<tr>
+<td>740</td>
+<td>
+река Киинсу
+левый берег
+</td>
+<td rowspan="2">в пределах Маркакольского района</td>
+<td colspan="2">57,9</td>
+<td>8,9</td>
+<td>330-410</td>
+<td rowspan="2">55</td>
+</tr>
+<tr>
+<td>741</td>
+<td>
+ручей Туюкбулак
+правый берег
+левый берег
+</td>
+<td colspan="2">
+78,1
+83,4
+</td>
+<td>
+7,5
+7,5
+</td>
+<td>
+440-610
+510-660
+</td>
+</tr>
+<tr>
+<td colspan="8">район Самар</td>
+</tr>
+<tr>
+<td>742</td>
 <td>
 река Кулынжун
 правый берег
@@ -8657,10 +9541,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 17
 </td>
 <td rowspan="12">500</td>
-<td colspan="2" rowspan="12">55</td>
+<td rowspan="12">55</td>
 </tr>
 <tr>
-<td>693</td>
+<td>743</td>
 <td>
 ручей Коншубай
 правый берег
@@ -8676,7 +9560,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>694</td>
+<td>744</td>
 <td>
 ручей Аюкашкан
 правый берег
@@ -8692,7 +9576,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>695</td>
+<td>745</td>
 <td>
 ручей Глубокий
 правый берег
@@ -8708,7 +9592,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>696</td>
+<td>746</td>
 <td>
 ручей Байша
 правый берег
@@ -8724,7 +9608,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>697</td>
+<td>747</td>
 <td>
 ручей Топольки
 правый берег
@@ -8740,7 +9624,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>698</td>
+<td>748</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -8756,7 +9640,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>699</td>
+<td>749</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -8772,7 +9656,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>700</td>
+<td>750</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -8788,7 +9672,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>701</td>
+<td>751</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -8804,7 +9688,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>702</td>
+<td>752</td>
 <td>
 ручей без названия № 5
 правый берег
@@ -8820,7 +9704,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>703</td>
+<td>753</td>
 <td>
 река Аксеновка
 правый берег
@@ -8836,7 +9720,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>704</td>
+<td>754</td>
 <td>
 ручей Капрли
 правый берег
@@ -8855,51 +9739,60 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 260-335
 500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>705</td>
+<td>755</td>
 <td>река Кулынжун</td>
-<td rowspan="2">в 3,9 километрах юго-восточнее села Кулынжун</td>
+<td rowspan="2">в 3,9 километрах юго-восточнее села Кулынжон</td>
 <td colspan="2">21,4</td>
 <td>1,34</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>706</td>
+<td>756</td>
 <td>озеро Казнаковка</td>
 <td colspan="2">32,5</td>
 <td>7,31</td>
 <td>500-590</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>707</td>
+<td>757</td>
 <td>Бухтарминское водохранилище</td>
 <td>напротив села Палатцы на участке с ПК 1690+00 до 1707-17</td>
 <td colspan="2">98,2633</td>
 <td>23,2123</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td colspan="9">Тарбагатайский район</td>
+<td>758</td>
+<td>озеро Казнаковка</td>
+<td>в 5 километрах юго-восточнее села Кулынжол</td>
+<td colspan="2">115</td>
+<td>21,7</td>
+<td>500</td>
+<td>100</td>
 </tr>
 <tr>
-<td>708</td>
+<td colspan="8">Тарбагатайский район</td>
+</tr>
+<tr>
+<td>759</td>
 <td>озеро Зайсан</td>
 <td>село Тугыл</td>
 <td colspan="2">9794,2183</td>
 <td>3144,5465</td>
 <td>460-513</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>709</td>
+<td>760</td>
 <td>
 река Ортауласты
 правый берег
@@ -8921,10 +9814,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2" rowspan="4">75</td>
+<td rowspan="4">75</td>
 </tr>
 <tr>
-<td>710</td>
+<td>761</td>
 <td>
 ручей без названия
 правый берег
@@ -8944,7 +9837,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>711</td>
+<td>762</td>
 <td>
 арык Кызылкесек
 правый берег
@@ -8964,7 +9857,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>712</td>
+<td>763</td>
 <td>
 арык Каратоган
 правый берег
@@ -8984,7 +9877,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>713</td>
+<td>764</td>
 <td>
 река Кандысу
 правый берег
@@ -8996,10 +9889,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">102,3</td>
 <td>8,6</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>714</td>
+<td>765</td>
 <td>река Курайлы</td>
 <td>
 в 6,1 километрах
@@ -9008,19 +9901,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">519,469</td>
 <td>1,22</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>715</td>
+<td>766</td>
 <td>река Тайжузген</td>
 <td>в 19 километрах юго-западнее села Тугыл</td>
 <td colspan="2">18,0332</td>
 <td>1,6497</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>716</td>
+<td>767</td>
 <td>
 арык Жанатоган
 правый берег
@@ -9029,10 +9922,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td colspan="2">85,7</td>
 <td>5,5</td>
 <td>500</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>717</td>
+<td>768</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -9046,7 +9939,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>718</td>
+<td>769</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -9060,19 +9953,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>719</td>
+<td>770</td>
 <td>река Тайжузген</td>
 <td>в 9 километрах северо-западнее села Тугыл</td>
 <td colspan="2">13,012</td>
 <td>0,9828</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td colspan="9">Уланский район</td>
+<td colspan="8">Уланский район</td>
 </tr>
 <tr>
-<td>720</td>
+<td>771</td>
 <td>
 река Большая Буконь
 левый берег
@@ -9084,10 +9977,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>87,7</td>
 <td>34,8</td>
 <td>160-500</td>
-<td colspan="2" rowspan="6">100</td>
+<td rowspan="6">100</td>
 </tr>
 <tr>
-<td>721</td>
+<td>772</td>
 <td>
 река Актасты
 левый берег
@@ -9097,7 +9990,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>100</td>
 </tr>
 <tr>
-<td>722</td>
+<td>773</td>
 <td>
 ручей Тогум
 левый берег
@@ -9107,7 +10000,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>352-470</td>
 </tr>
 <tr>
-<td>723</td>
+<td>774</td>
 <td>
 ручей Наурузбай
 правый берег
@@ -9127,7 +10020,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>724</td>
+<td>775</td>
 <td>
 ручей Бесбастау правый берег
 левый берег
@@ -9146,14 +10039,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>725</td>
+<td>776</td>
 <td>ручей Шалакбулак правый берег</td>
 <td>88,8</td>
 <td>22,8</td>
 <td>216-500</td>
 </tr>
 <tr>
-<td>726</td>
+<td>777</td>
 <td>
 река Сартымбет
 правый берег
@@ -9175,13 +10068,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 86-718
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>727</td>
+<td>778</td>
 <td>
 река Унгирли
 правый берег
@@ -9203,10 +10096,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2" rowspan="2">100</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>728</td>
+<td>779</td>
 <td>
 ручей без названия
 правый берег
@@ -9226,7 +10119,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>729</td>
+<td>780</td>
 <td>
 река Кызылсу
 правый берег
@@ -9245,13 +10138,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 250-500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>730</td>
+<td>781</td>
 <td>
 река Актасты
 правый берег
@@ -9269,21 +10162,21 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55-100
 55-100
 </td>
 </tr>
 <tr>
-<td>731</td>
+<td>782</td>
 <td>ручей Талдыайрык левый берег</td>
 <td>118,8</td>
 <td>25,1</td>
 <td>350-500</td>
-<td colspan="2">75-100</td>
+<td>75-100</td>
 </tr>
 <tr>
-<td>732</td>
+<td>783</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -9291,10 +10184,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>35,5</td>
 <td>16</td>
 <td>170-420</td>
-<td colspan="2">100</td>
+<td rowspan="9">100</td>
 </tr>
 <tr>
-<td>733</td>
+<td>784</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -9302,10 +10195,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>76,1</td>
 <td>11,8</td>
 <td>370-500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>734</td>
+<td>785</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -9323,13 +10215,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>735</td>
+<td>786</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -9347,13 +10235,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 350-370
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>736</td>
+<td>787</td>
 <td>
 ручей без названия № 5
 правый берег
@@ -9371,13 +10255,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 180-230
 350-370
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>737</td>
+<td>788</td>
 <td>
 ручей без названия № 6
 левый берег
@@ -9385,10 +10265,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>8,8</td>
 <td>4,3</td>
 <td>180-230</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>738</td>
+<td>789</td>
 <td>
 ручей без названия № 7
 правый берег
@@ -9406,13 +10285,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 250-270
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>739</td>
+<td>790</td>
 <td>
 ручей без названия № 8
 правый берег
@@ -9430,13 +10305,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 150-500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>740</td>
+<td>791</td>
 <td>
 ручей без названия № 9
 правый берег
@@ -9454,13 +10325,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>741</td>
+<td>792</td>
 <td>
 ручей без названия № 10
 правый берег
@@ -9478,13 +10345,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 150-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>742</td>
+<td>793</td>
 <td>
 ручей без названия № 11
 правый берег
@@ -9502,13 +10369,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
+<td rowspan="3">100</td>
 </tr>
 <tr>
-<td>743</td>
+<td>794</td>
 <td>
 ручей без названия № 12
 правый берег
@@ -9526,13 +10390,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>744</td>
+<td>795</td>
 <td>
 ручей без названия № 13
 правый берег
@@ -9540,10 +10400,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>6,2</td>
 <td>5</td>
 <td>500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>745</td>
+<td>796</td>
 <td>
 ручей без названия
 левый берег
@@ -9555,26 +10414,26 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>70,1</td>
 <td>5,6</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>746</td>
+<td>797</td>
 <td>ручей Канжигабулак правый берег</td>
 <td colspan="2" rowspan="3">в 4,4 километрах восточнее села Мурзат</td>
 <td>0,5</td>
 <td>0,1</td>
 <td>260</td>
-<td colspan="2" rowspan="3">35</td>
+<td rowspan="3">35</td>
 </tr>
 <tr>
-<td>747</td>
+<td>798</td>
 <td>заболоченный участок с пастбищными угодьями</td>
 <td>7,8</td>
 <td>1,8</td>
 <td>111-338</td>
 </tr>
 <tr>
-<td>748</td>
+<td>799</td>
 <td>
 ручей без названия
 правый берег
@@ -9594,7 +10453,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>749</td>
+<td>800</td>
 <td>
 ручей Маралушка
 правый берег
@@ -9613,54 +10472,54 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 320-400
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>750</td>
+<td>801</td>
 <td>река Сарыбулак</td>
 <td colspan="2" rowspan="5">
 в границах лицензионной территории товарищества
-с ограниченной
+с ограниченой
 ответственностью «QuazarEnergy», село Бозанбай
 </td>
 <td>232,9</td>
 <td>40,7187</td>
 <td>520</td>
-<td colspan="2" rowspan="5">67,5</td>
+<td rowspan="5">67,5</td>
 </tr>
 <tr>
-<td>751</td>
+<td>802</td>
 <td>река Бердыбай</td>
 <td>52,7</td>
 <td>17,5387</td>
 <td>560</td>
 </tr>
 <tr>
-<td>752</td>
+<td>803</td>
 <td>ручей Койшибай</td>
 <td>302,3</td>
 <td>102,6691</td>
 <td>484</td>
 </tr>
 <tr>
-<td>753</td>
+<td>804</td>
 <td>ручей Бутагора</td>
 <td>460</td>
 <td>115,2328</td>
 <td>520</td>
 </tr>
 <tr>
-<td>754</td>
+<td>805</td>
 <td>ручей без названия</td>
 <td>212,5</td>
 <td>50,2286</td>
 <td>593</td>
 </tr>
 <tr>
-<td>755</td>
+<td>806</td>
 <td>
 ручей Топтал
 правый берег
@@ -9672,10 +10531,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>84,2</td>
 <td>2,5</td>
 <td>140-500</td>
-<td colspan="2" rowspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>756</td>
+<td>807</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -9683,9 +10542,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>35,901</td>
 <td>4,5</td>
 <td>120-500</td>
+<td>100</td>
 </tr>
 <tr>
-<td>757</td>
+<td>808</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -9703,13 +10563,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 384-500
 500
 </td>
-<td colspan="2">
+<td>
 55-100
 100
 </td>
 </tr>
 <tr>
-<td>758</td>
+<td>809</td>
 <td>
 река Дресвянка
 правый берег
@@ -9728,13 +10588,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 220,5
 </td>
 <td rowspan="3">500</td>
-<td colspan="2">
+<td>
 35-50
 35-75
 </td>
 </tr>
 <tr>
-<td>759</td>
+<td>810</td>
 <td>
 ручей Тасоткель
 правый берег
@@ -9748,13 +10608,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 64,4
 96,3
 </td>
-<td colspan="2">
+<td>
 50
 50-75
 </td>
 </tr>
 <tr>
-<td>760</td>
+<td>811</td>
 <td>
 Каменское водохранилище
 северный,
@@ -9768,13 +10628,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 42,3
 57,1
 </td>
-<td colspan="2">
+<td>
 75
 50
 </td>
 </tr>
 <tr>
-<td>761</td>
+<td>812</td>
 <td>
 река Торе
 левый берег
@@ -9786,17 +10646,17 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>84,2</td>
 <td>16,3</td>
 <td rowspan="2">500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>762</td>
+<td>813</td>
 <td>родник без названия</td>
 <td>18,3</td>
 <td>0,1</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>763</td>
+<td>814</td>
 <td>
 река Кызылсу
 правый берег
@@ -9805,18 +10665,18 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>108,4</td>
 <td>31,6</td>
 <td>130-500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>764</td>
+<td>815</td>
 <td>ручей Ертенбулак правый берег</td>
 <td>39,3</td>
 <td>8,4</td>
 <td>500</td>
-<td colspan="2">75-100</td>
+<td>75-100</td>
 </tr>
 <tr>
-<td>765</td>
+<td>816</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -9834,13 +10694,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 340-500
 130-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>766</td>
+<td>817</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -9858,21 +10718,21 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 120-500
 250-500
 </td>
-<td colspan="2">
+<td>
 100
 75
 </td>
 </tr>
 <tr>
-<td>767</td>
+<td>818</td>
 <td>заболоченный участок</td>
 <td>92,6</td>
 <td>8,6</td>
 <td>200-500</td>
-<td colspan="2">35-100</td>
+<td>35-100</td>
 </tr>
 <tr>
-<td>768</td>
+<td>819</td>
 <td>
 ручей Бокенбай
 правый берег
@@ -9881,10 +10741,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>296,8</td>
 <td>36,9</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>769</td>
+<td>820</td>
 <td>
 ручей Майлысай
 правый берег
@@ -9899,10 +10759,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 11,5
 </td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">55</td>
+<td rowspan="3">55</td>
 </tr>
 <tr>
-<td>770</td>
+<td>821</td>
 <td>
 истоки ручья Шыбынды
 правый берег
@@ -9918,7 +10778,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>771</td>
+<td>822</td>
 <td>
 ручей без названия
 левый берег
@@ -9927,7 +10787,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>16,5</td>
 </tr>
 <tr>
-<td>772</td>
+<td>823</td>
 <td>
 ручей Узунбулак
 левый берег
@@ -9936,10 +10796,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>56,3</td>
 <td>15,9</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">100</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>773</td>
+<td>824</td>
 <td>
 ручей без названия
 правый берег
@@ -9955,7 +10815,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>774</td>
+<td>825</td>
 <td>
 ручей Бозанбай
 правый берег
@@ -9964,10 +10824,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>71</td>
 <td>20,8</td>
 <td>146-500</td>
-<td colspan="2">75-100</td>
+<td>75-100</td>
 </tr>
 <tr>
-<td>775</td>
+<td>826</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -9985,13 +10845,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 213-500
 115-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>776</td>
+<td>827</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -10009,13 +10869,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 75-500
 100-500
 </td>
-<td colspan="2">
+<td>
 75
 75-100
 </td>
 </tr>
 <tr>
-<td>777</td>
+<td>828</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -10033,13 +10893,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 160-500
 75-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>778</td>
+<td>829</td>
 <td>
 ручей без названия № 4
 левый берег
@@ -10047,10 +10907,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>17,1</td>
 <td>6,6</td>
 <td>75-500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>779</td>
+<td>830</td>
 <td>
 река Кызылсу
 левый берег
@@ -10059,10 +10919,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>158,8</td>
 <td>32</td>
 <td>500</td>
-<td colspan="2">75-100</td>
+<td>75-100</td>
 </tr>
 <tr>
-<td>780</td>
+<td>831</td>
 <td>
 ручей Узынбулак правый берег
 левый берег
@@ -10079,13 +10939,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>781</td>
+<td>832</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -10103,13 +10963,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>782</td>
+<td>833</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -10127,13 +10987,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>783</td>
+<td>834</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -10151,13 +11011,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75-100
 </td>
 </tr>
 <tr>
-<td>784</td>
+<td>835</td>
 <td>
 ручей без названия № 4
 правый берег
@@ -10175,13 +11035,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>785</td>
+<td>836</td>
 <td>
 ручей без названия № 5
 правый берег
@@ -10199,13 +11059,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>786</td>
+<td>837</td>
 <td>
 ручей без названия № 6
 правый берег
@@ -10223,13 +11083,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 121-500
 112-500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>787</td>
+<td>838</td>
 <td>
 ручей без названия № 7
 правый берег
@@ -10247,13 +11107,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>788</td>
+<td>839</td>
 <td>
 ручей без названия № 8
 правый берег
@@ -10271,13 +11131,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>789</td>
+<td>840</td>
 <td>
 ручей без названия № 9
 правый берег
@@ -10295,13 +11155,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 114-355
 353-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>790</td>
+<td>841</td>
 <td>
 ручей без названия № 10
 правый берег
@@ -10319,13 +11179,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 122-500
 166-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>791</td>
+<td>842</td>
 <td>
 ручей без названия № 11
 правый берег
@@ -10343,13 +11203,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 231-500
 500
 </td>
-<td colspan="2">
+<td>
 75
 55-75
 </td>
 </tr>
 <tr>
-<td>792</td>
+<td>843</td>
 <td>
 ручей без названия № 12
 правый берег
@@ -10367,13 +11227,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 145-500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>793</td>
+<td>844</td>
 <td>
 ручей без названия № 13
 правый берег
@@ -10391,13 +11251,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>794</td>
+<td>845</td>
 <td>
 ручей без названия № 14
 правый берег
@@ -10415,13 +11275,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 380-500
 500
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>795</td>
+<td>846</td>
 <td>
 ручей без названия № 15
 правый берег
@@ -10439,13 +11299,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>796</td>
+<td>847</td>
 <td>
 ручей без названия № 16
 правый берег
@@ -10463,13 +11323,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 75
 </td>
 </tr>
 <tr>
-<td>797</td>
+<td>848</td>
 <td>
 ручей без названия № 17
 правый берег
@@ -10487,13 +11347,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>798</td>
+<td>849</td>
 <td>
 ручей Кызылсу
 левый берег
@@ -10505,10 +11365,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>110,8</td>
 <td>14,5</td>
 <td>500</td>
-<td colspan="2">75</td>
+<td>75</td>
 </tr>
 <tr>
-<td>799</td>
+<td>850</td>
 <td>
 ручей без названия
 правый берег
@@ -10516,19 +11376,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>59,8</td>
 <td>12,1</td>
 <td>440-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>800</td>
+<td>851</td>
 <td>Бухтарминское водохранилище</td>
 <td colspan="2">село Манат</td>
 <td>10,4773</td>
 <td>0,4350</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>801</td>
+<td>852</td>
 <td>
 река Ертис
 правый берег
@@ -10550,13 +11410,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 209-3080
 134-1064
 </td>
-<td colspan="2">
+<td>
 35-100
 35-55
 </td>
 </tr>
 <tr>
-<td>802</td>
+<td>853</td>
 <td>
 река Сартымбет
 правый берег
@@ -10575,13 +11435,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 157,4-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>803</td>
+<td>854</td>
 <td>
 река Сартымбет
 правый берег
@@ -10603,13 +11463,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 105-500
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>804</td>
+<td>855</td>
 <td>
 ручей Поперечный
 левый берег
@@ -10622,10 +11482,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>32,7</td>
 <td>9,4</td>
 <td>150-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>805</td>
+<td>856</td>
 <td>
 река Черновая
 левый берег
@@ -10634,10 +11494,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>154</td>
 <td>40,1</td>
 <td>100-500</td>
-<td colspan="2" rowspan="4">100</td>
+<td rowspan="4">100</td>
 </tr>
 <tr>
-<td>806</td>
+<td>857</td>
 <td>
 ручей Капыбай
 левый берег
@@ -10657,7 +11517,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>807</td>
+<td>858</td>
 <td>
 ручей Салак
 левый берег
@@ -10677,7 +11537,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>808</td>
+<td>859</td>
 <td>
 ручей без названия
 левый берег
@@ -10697,7 +11557,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>809</td>
+<td>860</td>
 <td>
 река Тульский
 левый берег
@@ -10716,10 +11576,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 500
 </td>
-<td colspan="2" rowspan="4">100</td>
+<td rowspan="4">100</td>
 </tr>
 <tr>
-<td>810</td>
+<td>861</td>
 <td>
 река Варначий
 левый берег
@@ -10739,7 +11599,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>811</td>
+<td>862</td>
 <td>
 ручей Кочевной
 правый берег
@@ -10749,7 +11609,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>812</td>
+<td>863</td>
 <td>
 ручей без названия
 правый берег
@@ -10759,16 +11619,16 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>813</td>
+<td>864</td>
 <td>река Кенесбай</td>
 <td colspan="2">в 9,7 километрах западнее села Баяш Утепов</td>
 <td>122,57</td>
 <td>13,062</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>814</td>
+<td>865</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -10780,10 +11640,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>28</td>
 <td>6,3</td>
 <td>182-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>815</td>
+<td>866</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -10801,21 +11661,21 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 203-500
 136-172
 </td>
-<td colspan="2">
+<td>
 55-100
 75-100
 </td>
 </tr>
 <tr>
-<td>816</td>
+<td>867</td>
 <td>ручей Жельдикезен правый берег</td>
 <td>2,5</td>
 <td>-</td>
 <td>140-174</td>
-<td colspan="2">-</td>
+<td>-</td>
 </tr>
 <tr>
-<td>817</td>
+<td>868</td>
 <td>
 ручей Актасты
 левый берег
@@ -10824,10 +11684,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>298,9</td>
 <td>38,4</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>818</td>
+<td>869</td>
 <td>
 ручей Шерпак
 левый берег
@@ -10836,10 +11696,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>87,6</td>
 <td>9,5</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">55</td>
+<td rowspan="2">55</td>
 </tr>
 <tr>
-<td>819</td>
+<td>870</td>
 <td>
 ручей Байжан
 правый берег
@@ -10855,7 +11715,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>820</td>
+<td>871</td>
 <td>
 ручей без названия
 правый берег
@@ -10874,13 +11734,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 77,8-114,2
 285-300
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>821</td>
+<td>872</td>
 <td>
 река Уланка
 правый берег
@@ -10889,10 +11749,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>1,15</td>
 <td>0,12</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>822</td>
+<td>873</td>
 <td>
 ручей без названия
 левый берег
@@ -10901,7 +11761,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>0,08</td>
 </tr>
 <tr>
-<td>823</td>
+<td>874</td>
 <td>
 река Черновая
 правый берег
@@ -10910,20 +11770,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>264,5</td>
 <td>32,4</td>
 <td rowspan="2">500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>824</td>
+<td>875</td>
 <td>
 ручей без названия
 левый берег
 </td>
 <td>150,2</td>
 <td>11,4</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>825</td>
+<td>876</td>
 <td>
 ручей Курык
 левый берег
@@ -10932,10 +11792,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>100</td>
 <td>6,9</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>826</td>
+<td>877</td>
 <td>
 ручей без названия
 левый берег
@@ -10951,7 +11811,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>827</td>
+<td>878</td>
 <td>
 река Таинты
 левый берег
@@ -10960,15 +11820,15 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td rowspan="2">125,6599</td>
 <td>3,8267</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>828</td>
+<td>879</td>
 <td>ручей без названия</td>
 <td>7,0021</td>
 </tr>
 <tr>
-<td>829</td>
+<td>880</td>
 <td>
 ручей Байжан
 левый берег
@@ -10977,10 +11837,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>66,7</td>
 <td>5,1</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>830</td>
+<td>881</td>
 <td>
 река Унгирли
 правый берег
@@ -10992,10 +11852,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>27,5</td>
 <td>8</td>
 <td>100-500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>831</td>
+<td>882</td>
 <td>
 протока реки Жиланды
 правый берег
@@ -11007,10 +11867,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>10,8</td>
 <td>0,8</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>832</td>
+<td>883</td>
 <td>
 ручей Шерпак
 левый берег
@@ -11019,10 +11879,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>20,7</td>
 <td>1,2</td>
 <td>100-500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>833</td>
+<td>884</td>
 <td>
 ручей без названия
 левый берег
@@ -11040,13 +11900,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 230-500
 100-500
 </td>
-<td colspan="2">
+<td>
 50
 35-50
 </td>
 </tr>
 <tr>
-<td>834</td>
+<td>885</td>
 <td>
 река Киши-Коке
 левый берег
@@ -11068,13 +11928,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55
 55-100
 </td>
 </tr>
 <tr>
-<td>835</td>
+<td>886</td>
 <td>
 ручей Калбинский
 левый берег
@@ -11092,13 +11952,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
-100
-100
-</td>
+<td rowspan="5">100</td>
 </tr>
 <tr>
-<td>836</td>
+<td>887</td>
 <td>
 ручей Арыкбай
 правый берег
@@ -11116,13 +11973,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 313-500
 150-500
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>837</td>
+<td>888</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -11140,13 +11993,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 112-500
 195-402
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>838</td>
+<td>889</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -11164,10 +12013,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>839</td>
+<td>890</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -11175,10 +12023,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>40,3</td>
 <td>9,2</td>
 <td>500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>840</td>
+<td>891</td>
 <td>
 ручей Акшатыр
 левый берег
@@ -11194,10 +12041,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 86,6
 </td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">55</td>
+<td rowspan="5">55</td>
 </tr>
 <tr>
-<td>841</td>
+<td>892</td>
 <td>
 ручей Карабалапан
 левый берег
@@ -11206,7 +12053,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>12,3</td>
 </tr>
 <tr>
-<td>842</td>
+<td>893</td>
 <td>
 ручей Малый Шыбынды
 левый берег
@@ -11222,7 +12069,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>843</td>
+<td>894</td>
 <td>
 ручей Большой Шыбынды
 правый берег
@@ -11231,7 +12078,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>16,9</td>
 </tr>
 <tr>
-<td>844</td>
+<td>895</td>
 <td>
 ручей Жалдыарык
 левый берег
@@ -11247,7 +12094,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>845</td>
+<td>896</td>
 <td>ручей Ащы</td>
 <td colspan="2">
 в 7,5 километрах
@@ -11257,10 +12104,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>426,62</td>
 <td>60,82</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>846</td>
+<td>897</td>
 <td>
 река Песчанка
 правый берег
@@ -11279,13 +12126,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 300-436
 </td>
-<td colspan="2">
+<td>
 50
 50
 </td>
 </tr>
 <tr>
-<td>847</td>
+<td>898</td>
 <td>
 река Большая Буконь
 левый берег
@@ -11297,10 +12144,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>59</td>
 <td>19,7</td>
 <td>100-500</td>
-<td colspan="2" rowspan="4">100</td>
+<td rowspan="4">100</td>
 </tr>
 <tr>
-<td>848</td>
+<td>899</td>
 <td>
 ручей Шолакбулак
 левый берег
@@ -11310,7 +12157,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>100-500</td>
 </tr>
 <tr>
-<td>849</td>
+<td>900</td>
 <td>
 река Данебулак
 левый берег
@@ -11330,7 +12177,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>850</td>
+<td>901</td>
 <td>
 ручей без названия
 правый берег
@@ -11340,7 +12187,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>261-500</td>
 </tr>
 <tr>
-<td>851</td>
+<td>902</td>
 <td>
 река Уланка
 правый берег
@@ -11352,10 +12199,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>1,67</td>
 <td>0,12</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>852</td>
+<td>903</td>
 <td>
 ручей без названия
 левый берег
@@ -11364,7 +12211,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>0,05</td>
 </tr>
 <tr>
-<td>853</td>
+<td>904</td>
 <td>ручей без названия</td>
 <td colspan="2">
 в 0,5 километрах западнее
@@ -11373,10 +12220,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>9,939</td>
 <td>0,3852</td>
 <td>523</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>854</td>
+<td>905</td>
 <td>
 река Алибек
 левый берег
@@ -11385,10 +12232,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>13,2</td>
 <td>6,5</td>
 <td>500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>855</td>
+<td>906</td>
 <td>
 ручей без названия
 правый берег
@@ -11406,13 +12253,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>856</td>
+<td>907</td>
 <td>
 река Жинишке
 правый берег
@@ -11421,10 +12268,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>11,9</td>
 <td>11,9</td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">100</td>
+<td rowspan="3">100</td>
 </tr>
 <tr>
-<td>857</td>
+<td>908</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -11433,7 +12280,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>7,2</td>
 </tr>
 <tr>
-<td>858</td>
+<td>909</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -11449,7 +12296,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>859</td>
+<td>910</td>
 <td>
 река Песчанка
 левый берег
@@ -11468,13 +12315,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 320-610
 500
 </td>
-<td colspan="2">
+<td>
 35
 75
 </td>
 </tr>
 <tr>
-<td>860</td>
+<td>911</td>
 <td>
 родник
 левый берег
@@ -11492,13 +12339,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 350-500
 -
 </td>
-<td colspan="2">
+<td>
 75
 75
 </td>
 </tr>
 <tr>
-<td>861</td>
+<td>912</td>
 <td>
 пруд на реке Тугулька
 правый берег
@@ -11517,10 +12364,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500-550
 </td>
-<td colspan="2" rowspan="4">50</td>
+<td rowspan="4">50</td>
 </tr>
 <tr>
-<td>862</td>
+<td>913</td>
 <td>
 река Тугулька
 правый берег
@@ -11534,7 +12381,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>863</td>
+<td>914</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -11548,7 +12395,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>864</td>
+<td>915</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -11562,7 +12409,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>-</td>
 </tr>
 <tr>
-<td>865</td>
+<td>916</td>
 <td>
 река Уланка
 левый берег
@@ -11571,28 +12418,28 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>20,7</td>
 <td>1,6</td>
 <td>500-570</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>866</td>
+<td>917</td>
 <td>ручей Базарбай</td>
 <td colspan="2">на территории учетного квартала 05-079-009</td>
 <td>270,4</td>
 <td>35</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>867</td>
+<td>918</td>
 <td>река Таинты</td>
 <td colspan="2">село Нижние Таинты</td>
 <td>4,8917</td>
 <td>0,3431</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>868</td>
+<td>919</td>
 <td>
 река Таинты
 левый берег
@@ -11604,10 +12451,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>10,6</td>
 <td>2,4</td>
 <td>511-561</td>
-<td colspan="2">111-161</td>
+<td>111-161</td>
 </tr>
 <tr>
-<td>869</td>
+<td>920</td>
 <td>
 река Унгирли
 правый берег
@@ -11615,10 +12462,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>13,3</td>
 <td>4,9</td>
 <td>500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>870</td>
+<td>921</td>
 <td>река Таинты</td>
 <td colspan="2" rowspan="6">
 на территории учетных кварталов 05-079-020 и
@@ -11627,10 +12474,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>157,1</td>
 <td>35,8</td>
 <td>500</td>
-<td colspan="2">100-156</td>
+<td>100-156</td>
 </tr>
 <tr>
-<td>871</td>
+<td>922</td>
 <td>
 протока реки Таинты
 правый берег
@@ -11638,10 +12485,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>5,4</td>
 <td>3,5</td>
 <td>500</td>
-<td colspan="2">156-223</td>
+<td>156-223</td>
 </tr>
 <tr>
-<td>872</td>
+<td>923</td>
 <td>
 ручей Жельке
 правый берег
@@ -11659,13 +12506,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 145-500
 </td>
-<td colspan="2">
-100
-100
-</td>
+<td rowspan="4">100</td>
 </tr>
 <tr>
-<td>873</td>
+<td>924</td>
 <td>
 ручей без названия
 правый берег
@@ -11683,29 +12527,23 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-251
 135-338
 </td>
-<td colspan="2">
-100
-100
-</td>
 </tr>
 <tr>
-<td>874</td>
+<td>925</td>
 <td>карьер № 1</td>
 <td>91,1</td>
 <td>12,7</td>
 <td>500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>875</td>
+<td>926</td>
 <td>карьер № 2</td>
 <td>59,2</td>
 <td>6,1</td>
 <td>500</td>
-<td colspan="2">100</td>
 </tr>
 <tr>
-<td>876</td>
+<td>927</td>
 <td>
 река Таргын
 левый берег
@@ -11724,13 +12562,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 65-810
 320-500
 </td>
-<td colspan="2">
+<td>
 55
 35
 </td>
 </tr>
 <tr>
-<td>877</td>
+<td>928</td>
 <td>
 ручей Кайындыбулак
 левый берег
@@ -11738,10 +12576,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>56</td>
 <td>8,5</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>878</td>
+<td>929</td>
 <td>
 ручей Акшатыр
 левый берег
@@ -11760,10 +12598,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 147-495
 </td>
-<td colspan="2" rowspan="4">100</td>
+<td rowspan="4">100</td>
 </tr>
 <tr>
-<td>879</td>
+<td>930</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -11783,7 +12621,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>880</td>
+<td>931</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -11803,7 +12641,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>881</td>
+<td>932</td>
 <td>
 ручей без названия № 3
 левый берег
@@ -11813,9 +12651,9 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>215-500</td>
 </tr>
 <tr>
-<td>882</td>
+<td>933</td>
 <td>
-ручей Гнилая балка
+ручей Гнилая Балка
 левый берег
 </td>
 <td colspan="2">
@@ -11826,10 +12664,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>148,1</td>
 <td>11</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>883</td>
+<td>934</td>
 <td>
 река Таинты
 правый берег
@@ -11842,20 +12680,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>46,9</td>
 <td>7,1</td>
 <td rowspan="2">500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>884</td>
+<td>935</td>
 <td>
 ручей Шерен
 левый берег
 </td>
 <td>43,4</td>
 <td>9,1</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>885</td>
+<td>936</td>
 <td>
 река Аюды
 правый берег
@@ -11875,10 +12713,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 34
 </td>
 <td rowspan="3">500</td>
-<td colspan="2" rowspan="3">100</td>
+<td rowspan="3">100</td>
 </tr>
 <tr>
-<td>886</td>
+<td>937</td>
 <td>
 ручей без названия
 левый берег
@@ -11887,7 +12725,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>9,7</td>
 </tr>
 <tr>
-<td>887</td>
+<td>938</td>
 <td>
 ручей Малая Аюды
 правый берег
@@ -11896,7 +12734,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>21,2</td>
 </tr>
 <tr>
-<td>888</td>
+<td>939</td>
 <td>
 водохранилище на реке Уланка
 левый берег
@@ -11915,13 +12753,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 200-500
 500
 </td>
-<td colspan="2">
+<td>
 35-75
 35
 </td>
 </tr>
 <tr>
-<td>889</td>
+<td>940</td>
 <td>
 река Уланка
 левый берег
@@ -11933,13 +12771,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 4,2
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>890</td>
+<td>941</td>
 <td>
 ручей без названия
 левый берег
@@ -11951,13 +12789,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1,9
 </td>
 <td>-</td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>891</td>
+<td>942</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -11966,10 +12804,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>21</td>
 <td>2,4</td>
 <td>118-500</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>892</td>
+<td>943</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -11979,7 +12817,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>88-500</td>
 </tr>
 <tr>
-<td>893</td>
+<td>944</td>
 <td>
 река Актасты
 левый берег
@@ -11995,17 +12833,17 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 16,1
 </td>
 <td rowspan="3">500</td>
-<td colspan="2">
+<td>
 75-100
 100
 </td>
 </tr>
 <tr>
-<td>894</td>
+<td>945</td>
 <td>
 ручей без названия
 левый берег
-правый берег
+првый берег
 </td>
 <td>
 72
@@ -12015,20 +12853,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 15,5
 3,5
 </td>
-<td colspan="2">
+<td>
 75-100
 75-100
 </td>
 </tr>
 <tr>
-<td>895</td>
+<td>946</td>
 <td>родник</td>
 <td>20,5</td>
 <td>3,1</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>896</td>
+<td>947</td>
 <td>
 река Жартас
 правый берег
@@ -12037,10 +12875,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>94,8</td>
 <td>7</td>
 <td rowspan="2">500</td>
-<td colspan="2">35-55</td>
+<td>35-55</td>
 </tr>
 <tr>
-<td>897</td>
+<td>948</td>
 <td>
 ручей без названия
 левый берег
@@ -12054,13 +12892,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 1,3
 1,4
 </td>
-<td colspan="2">
+<td>
 35
 35
 </td>
 </tr>
 <tr>
-<td>898</td>
+<td>949</td>
 <td>
 река Карабалапан
 левый берег
@@ -12069,14 +12907,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>315,5</td>
 <td>71,9</td>
 <td>100-500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>899</td>
+<td>950</td>
 <td>
 река Салдырмабулак
 левый берег
-правый берег
+првый берег
 </td>
 <td>
 230,8
@@ -12090,13 +12928,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 55-100
 100
 </td>
 </tr>
 <tr>
-<td>900</td>
+<td>951</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -12114,10 +12952,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 273-500
 224-500
 </td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>901</td>
+<td>952</td>
 <td>
 ручей без названия № 2
 левый берег
@@ -12135,13 +12973,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>902</td>
+<td>953</td>
 <td>
 ручей без названия № 3
 левый берег
@@ -12159,13 +12997,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>903</td>
+<td>954</td>
 <td>
 ручей без названия № 4
 левый берег
@@ -12183,13 +13021,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>904</td>
+<td>955</td>
 <td>
 ручей без названия № 5
 левый берег
@@ -12207,13 +13045,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 320-500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>905</td>
+<td>956</td>
 <td>
 ручей без названия № 6
 левый берег
@@ -12231,13 +13069,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 139-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>906</td>
+<td>957</td>
 <td>
 ручей без названия № 7
 правый берег
@@ -12245,10 +13083,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>37,3</td>
 <td>4,7</td>
 <td>500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>907</td>
+<td>958</td>
 <td>
 ручей без названия № 8
 левый берег
@@ -12266,13 +13104,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 191,5-500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>908</td>
+<td>959</td>
 <td>
 ручей без названия № 9
 левый берег
@@ -12290,13 +13128,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>909</td>
+<td>960</td>
 <td>
 ручей без названия № 10
 левый берег
@@ -12314,13 +13152,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 157-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>910</td>
+<td>961</td>
 <td>
 ручей без названия № 11
 левый берег
@@ -12338,13 +13176,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 239-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>911</td>
+<td>962</td>
 <td>
 ручей без названия № 12
 левый берег
@@ -12362,13 +13200,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 124-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>912</td>
+<td>963</td>
 <td>
 ручей без названия № 13
 левый берег
@@ -12386,13 +13224,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 100-500
 231-500
 </td>
-<td colspan="2">
+<td>
 100
 100
 </td>
 </tr>
 <tr>
-<td>913</td>
+<td>964</td>
 <td>
 ручей без названия № 14
 левый берег
@@ -12410,13 +13248,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 262-500
 158-228,5
 </td>
-<td colspan="2">
+<td>
 55
 100
 </td>
 </tr>
 <tr>
-<td>914</td>
+<td>965</td>
 <td>
 ручей без названия № 15
 левый берег
@@ -12424,19 +13262,19 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>18,7</td>
 <td>4,4</td>
 <td>298-487</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>915</td>
+<td>966</td>
 <td>ручей без названия</td>
 <td colspan="2">на территории учетного квартала 05-079-020</td>
 <td>24,2</td>
 <td>0,5</td>
 <td>153-500</td>
-<td colspan="2">50</td>
+<td>50</td>
 </tr>
 <tr>
-<td>916</td>
+<td>967</td>
 <td>
 река Сибинка
 правый берег
@@ -12445,10 +13283,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>1,1265</td>
 <td>0,1129</td>
 <td>385-394</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>917</td>
+<td>968</td>
 <td>
 ручей Большая Бесбала
 левый берег
@@ -12467,10 +13305,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 100-500
 </td>
-<td colspan="2" rowspan="3">100</td>
+<td rowspan="3">100</td>
 </tr>
 <tr>
-<td>918</td>
+<td>969</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -12480,7 +13318,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>100-320</td>
 </tr>
 <tr>
-<td>919</td>
+<td>970</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -12490,7 +13328,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>294-400</td>
 </tr>
 <tr>
-<td>920</td>
+<td>971</td>
 <td>
 река Таинты
 левый берег
@@ -12499,10 +13337,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>12,4</td>
 <td>3,3</td>
 <td>72-342,2</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>921</td>
+<td>972</td>
 <td>
 ручей без названия
 правый берег
@@ -12510,28 +13348,28 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>5,5</td>
 <td>3,3</td>
 <td>100-275,7</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>922</td>
+<td>973</td>
 <td>река Таинты</td>
 <td colspan="2">в 0,27 километрах северо-восточнее Таинтинского водохранилища</td>
 <td>5,6039</td>
 <td>0,4041</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>923</td>
+<td>974</td>
 <td>озеро Шыбындыколь</td>
 <td colspan="2">в 8 километрах южнее села Таинты</td>
 <td>-</td>
 <td>4,2</td>
 <td>-</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>924</td>
+<td>975</td>
 <td>
 ручей Березовый Лог
 левый берег
@@ -12540,10 +13378,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>61,1</td>
 <td>15,4</td>
 <td rowspan="2">500</td>
-<td colspan="2" rowspan="2">100</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>925</td>
+<td>976</td>
 <td>
 ручей без названия
 левый берег
@@ -12552,7 +13390,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>6,5</td>
 </tr>
 <tr>
-<td>926</td>
+<td>977</td>
 <td>
 река Жартас
 левый берег
@@ -12561,20 +13399,20 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>188,8</td>
 <td>49,6</td>
 <td rowspan="2">500</td>
-<td colspan="2">100</td>
+<td>100</td>
 </tr>
 <tr>
-<td>927</td>
+<td>978</td>
 <td>
 водохранилище на реке Жартас
 левый берег
 </td>
 <td>134,2</td>
 <td>27</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>928</td>
+<td>979</td>
 <td>
 река Карабалапан
 правый берег
@@ -12583,10 +13421,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>210,8</td>
 <td>23,6</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>929</td>
+<td>980</td>
 <td>
 ручей без названия № 1
 левый берег
@@ -12594,10 +13432,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>168,5</td>
 <td>28,6</td>
 <td>386-500</td>
-<td colspan="2">55-100</td>
+<td>55-100</td>
 </tr>
 <tr>
-<td>930</td>
+<td>981</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -12615,13 +13453,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 430-500
 180-500
 </td>
-<td colspan="2">
+<td>
 100
 55-100
 </td>
 </tr>
 <tr>
-<td>931</td>
+<td>982</td>
 <td>
 ручей без названия № 3
 правый берег
@@ -12629,10 +13467,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>25,5</td>
 <td>2,8</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>932</td>
+<td>983</td>
 <td>
 река Курык
 левый берег
@@ -12641,10 +13479,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>20,5</td>
 <td>1,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>933</td>
+<td>984</td>
 <td>
 ручей Айркезен
 правый берег
@@ -12663,10 +13501,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 101-115
 335-500
 </td>
-<td colspan="2" rowspan="4">55</td>
+<td rowspan="4">55</td>
 </tr>
 <tr>
-<td>934</td>
+<td>985</td>
 <td>
 ручей без названия № 1
 правый берег
@@ -12686,7 +13524,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>935</td>
+<td>986</td>
 <td>
 ручей без названия № 2
 правый берег
@@ -12706,14 +13544,14 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>936</td>
+<td>987</td>
 <td>ручей без названия № 3</td>
 <td>4,5</td>
 <td>2</td>
 <td>115-125</td>
 </tr>
 <tr>
-<td>937</td>
+<td>988</td>
 <td>
 река Курык
 левый берег
@@ -12722,10 +13560,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>122,7</td>
 <td>14,3</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>938</td>
+<td>989</td>
 <td>
 река Байтеке
 левый берег
@@ -12734,10 +13572,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>158,8</td>
 <td>11,8</td>
 <td>500</td>
-<td colspan="2">35-55</td>
+<td>35-55</td>
 </tr>
 <tr>
-<td>939</td>
+<td>990</td>
 <td>
 ручей Вермберг
 левый берег
@@ -12749,10 +13587,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>39,1</td>
 <td>10,7</td>
 <td>500</td>
-<td colspan="2" rowspan="2">100</td>
+<td rowspan="2">100</td>
 </tr>
 <tr>
-<td>940</td>
+<td>991</td>
 <td>
 ручей без названия
 правый берег
@@ -12772,7 +13610,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 </td>
 </tr>
 <tr>
-<td>941</td>
+<td>992</td>
 <td>
 ручей Шелекты
 левый берег
@@ -12781,22 +13619,22 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>44,5</td>
 <td>3,5</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>942</td>
+<td>993</td>
 <td>
 река Уланка
 правый берег
 </td>
-<td colspan="2">садоводческое товарищество «Восточник-Степной</td>
+<td colspan="2">садоводческое товарищество «Восточник-Степной»</td>
 <td>8,18</td>
 <td>0,66</td>
 <td>500-562</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>943</td>
+<td>994</td>
 <td>
 река Сарыозек
 правый берег
@@ -12815,13 +13653,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 50-75
 50-75
 </td>
 </tr>
 <tr>
-<td>944</td>
+<td>995</td>
 <td>
 река Каскабулак
 правый берег
@@ -12840,13 +13678,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35-75
 35-75
 </td>
 </tr>
 <tr>
-<td>945</td>
+<td>996</td>
 <td>
 ручей Тайынбай
 правый берег
@@ -12858,10 +13696,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>45,01</td>
 <td>4,05</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>946</td>
+<td>997</td>
 <td>
 река Таинты
 правый берег
@@ -12873,10 +13711,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>51,53</td>
 <td>5,93</td>
 <td>500</td>
-<td colspan="2">55</td>
+<td>55</td>
 </tr>
 <tr>
-<td>947</td>
+<td>998</td>
 <td>
 река Жиланды № 1
 правый берег
@@ -12895,13 +13733,13 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35-100
 35-100
 </td>
 </tr>
 <tr>
-<td>948</td>
+<td>999</td>
 <td>
 река Жиланды № 2
 правый берег
@@ -12920,16 +13758,994 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 500
 500
 </td>
-<td colspan="2">
+<td>
 35-100
 35-100
 </td>
 </tr>
 <tr>
-<td colspan="9">Шемонаихинский район</td>
+<td>1000</td>
+<td>ручей без названия</td>
+<td colspan="2">в 6,5 километров юго-западнее села Уланское</td>
+<td>197,3</td>
+<td>14,2</td>
+<td>500</td>
+<td>35</td>
 </tr>
 <tr>
-<td>949</td>
+<td>1001</td>
+<td>
+ручей без названия
+правый берег
+</td>
+<td colspan="2">
+на территории
+учетного квартала 05-079-057
+</td>
+<td>67,1</td>
+<td>8,34</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1002</td>
+<td>
+ручей Жалдыарык
+правый берег
+</td>
+<td colspan="2" rowspan="2">на территории учетного квартала 05-079-020</td>
+<td>35,6</td>
+<td>4</td>
+<td>172-410</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1003</td>
+<td>
+ручей без названия
+левый берег
+</td>
+<td>32,2</td>
+<td>4,3</td>
+<td>249-410,4</td>
+<td>35-50</td>
+</tr>
+<tr>
+<td>1004</td>
+<td>
+река Караозек
+правый берег
+левый берег
+</td>
+<td colspan="2">3,2 километра восточнее села Алмасай</td>
+<td>
+933,8916
+807,8906
+</td>
+<td>
+88,1482
+93,8168
+</td>
+<td>
+500
+500
+</td>
+<td>
+35-50
+35-100
+</td>
+</tr>
+<tr>
+<td>1005</td>
+<td>
+ручей Бесбастау
+правый берег
+левый берег
+</td>
+<td colspan="2" rowspan="3">в 26 километров юго-западнее села Верхняя Тайынта</td>
+<td>
+121,6
+113,5
+</td>
+<td>
+25,3
+24,8
+</td>
+<td>
+500
+384-500
+</td>
+<td>
+100
+100
+</td>
+</tr>
+<tr>
+<td>1006</td>
+<td>
+ручей Наурузбай
+левый берег
+</td>
+<td>132,3</td>
+<td>26,6</td>
+<td>500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1007</td>
+<td>
+ручей Шалакбулак
+правый берег
+</td>
+<td>25,2</td>
+<td>6</td>
+<td>210-500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1008</td>
+<td>
+ручей без названия №3
+правый берег
+</td>
+<td colspan="2" rowspan="21">на территории земельного участка 05-079-017-430</td>
+<td rowspan="21">166,1777</td>
+<td>0,511</td>
+<td rowspan="21">500</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1009</td>
+<td>
+ручей без названия №6
+правый берег
+</td>
+<td>6,1296</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1010</td>
+<td>
+ручей без названия №7
+левый берег
+</td>
+<td>1,5434</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1011</td>
+<td>
+ручей без названия №6
+левый берег
+</td>
+<td rowspan="2">1,234</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1012</td>
+<td>
+ручей без названия №7
+правый берег
+</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1013</td>
+<td>
+ручей без названия №6
+левый берег
+</td>
+<td>11,8803</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1014</td>
+<td>
+родник №1
+левый берег
+</td>
+<td>0,719</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1015</td>
+<td>
+ручей без названия №11
+правый берег
+</td>
+<td>0,9362</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1016</td>
+<td>
+ручей без названия № 9
+правый берег
+</td>
+<td rowspan="2">0,3892</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1017</td>
+<td>
+ручей без названия №11
+левый берег
+</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1018р</td>
+<td>
+ручей без названия №9
+правый берег
+левый берег
+</td>
+<td>
+7,9862
+9,3908
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>1019</td>
+<td>
+ручей без названия №10
+правый берег
+левый берег
+</td>
+<td>
+1,8778
+2,077
+</td>
+<td>
+55
+55
+</td>
+</tr>
+<tr>
+<td>1020</td>
+<td>
+родник №1
+правый берег
+</td>
+<td rowspan="2">0,7348</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1021</td>
+<td>ручей без названия №8</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1022</td>
+<td>
+ручей без названия №3
+левый берег
+</td>
+<td rowspan="5">3,0774</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1023</td>
+<td>
+ручей без названия №4
+левый берег
+</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1024</td>
+<td>
+ручей без названия №6
+правый берег
+</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1025</td>
+<td>ручей без названия №12</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1026</td>
+<td>ручей без названия №13</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1027</td>
+<td>
+ручей без названия №6
+левый берег
+</td>
+<td rowspan="2">1,2181</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1028</td>
+<td>
+ручей без названия №9
+правый берег
+</td>
+<td>55</td>
+</tr>
+<tr>
+<td>1029</td>
+<td>озеро Макетколь</td>
+<td colspan="2">в 3,1 километрах северо-западнее села Сартымбет</td>
+<td>204,1</td>
+<td>11,3</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1030</td>
+<td>
+река Шикубай
+левый берег
+</td>
+<td colspan="2" rowspan="2">в 10 километрах юго-восточнее села Алгабас</td>
+<td>123,8</td>
+<td>19,7</td>
+<td>500</td>
+<td>55-100</td>
+</tr>
+<tr>
+<td>1031</td>
+<td>
+ручей Сатыбай
+правый берег
+</td>
+<td>50</td>
+<td>9,1</td>
+<td>500</td>
+<td>55-100</td>
+</tr>
+<tr>
+<td>1032</td>
+<td>родник № 2</td>
+<td colspan="2">на территории учетного квартала 05-079-002</td>
+<td>9,6</td>
+<td>0,3</td>
+<td>500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1033</td>
+<td>
+ручей Былкылдак
+правый берег
+левый берег
+</td>
+<td colspan="2" rowspan="2">на территории Уланского района</td>
+<td>
+56,4
+80,6
+</td>
+<td>
+7,2
+8,7
+</td>
+<td rowspan="2">500</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>1034</td>
+<td>
+ручей Тастыкара
+правый берег
+левый берег
+</td>
+<td>
+44,6
+48,4
+</td>
+<td>
+15,9
+15,5
+</td>
+</tr>
+<tr>
+<td colspan="8">район Улкен-Нарын</td>
+</tr>
+<tr>
+<td>1035</td>
+<td>
+ручей без названия
+правый берег
+левый берег
+</td>
+<td colspan="2">в 5 километрах восточнее села Кундыз</td>
+<td>
+21,29
+26,51
+</td>
+<td>
+1,65
+1,66
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>1036</td>
+<td>
+ручей Сауншат
+правый берег
+</td>
+<td colspan="2">
+в 4,6 километрах
+северо-западнее села Коктерек
+</td>
+<td>18,71</td>
+<td>2,1</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1037</td>
+<td>
+река Тускайын
+правый берег
+левый берег
+</td>
+<td colspan="2">в 5,3 километрах севернее села Алыбай</td>
+<td>260,116</td>
+<td>23,153</td>
+<td>110-500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1038</td>
+<td>ручей Докторский</td>
+<td colspan="2">в 2,2 километрах юго-восточнее села Новополяковка</td>
+<td>18</td>
+<td>3,7</td>
+<td>500</td>
+<td>100</td>
+</tr>
+<tr>
+<td>1039</td>
+<td>
+река Малая Нарым
+правый берег
+</td>
+<td colspan="2" rowspan="2">
+в 0,7 километрах
+северо-восточнее села
+Малонарымка
+</td>
+<td>40,997</td>
+<td>4,651</td>
+<td>181-675</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>1040</td>
+<td>
+река Солоновка
+левый берег
+правый берег
+</td>
+<td>
+40,997
+16,347
+</td>
+<td>
+5,386
+1,927
+</td>
+<td>
+181-675
+500
+</td>
+</tr>
+<tr>
+<td>1041</td>
+<td>
+река Шириккайын
+левый берег
+правый берег
+</td>
+<td colspan="2" rowspan="2">
+в 3 километрах
+юго-восточнее
+села Ново-Хайрузовка
+</td>
+<td>
+13
+13,6
+</td>
+<td>
+4,4
+3,8
+</td>
+<td>
+45-500
+20-233,6
+</td>
+<td>
+35
+20-35
+</td>
+</tr>
+<tr>
+<td>1042</td>
+<td>
+левый рукав реки Шириккайын
+левый берег
+правый берег
+</td>
+<td>
+65,6
+7,4
+</td>
+<td>
+4,2
+3,7
+</td>
+<td>
+500
+73-137
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>1043</td>
+<td>
+ручей Михайлов Ключ
+левый берег
+правый берег
+</td>
+<td colspan="2" rowspan="2">
+в 9 километрах севернее
+села Ново-Хайрузовка
+</td>
+<td>
+361,2
+185,1
+</td>
+<td>
+76,1
+34,5
+</td>
+<td rowspan="2">500</td>
+<td rowspan="2">100</td>
+</tr>
+<tr>
+<td>1044</td>
+<td>
+ручей Борисов Ключ
+правый берег
+</td>
+<td>110,4</td>
+<td>23,6</td>
+</tr>
+<tr>
+<td>1045</td>
+<td>ручей без названия</td>
+<td colspan="2">в 13 километрах севернее села Солоновка</td>
+<td>138,1</td>
+<td>8,257</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1046</td>
+<td>
+река Нарым
+левый берег
+</td>
+<td colspan="2" rowspan="3">в 4 километрах юго-западнее села Солдатово</td>
+<td>14,9</td>
+<td>4,6</td>
+<td>85-450</td>
+<td>35-147</td>
+</tr>
+<tr>
+<td>1047</td>
+<td>
+ручей без названия № 1
+левый берег
+</td>
+<td>9,7</td>
+<td>3,1</td>
+<td>65-210</td>
+<td>35-123</td>
+</tr>
+<tr>
+<td>1048</td>
+<td>
+ручей без названия № 2
+правый берег
+</td>
+<td>2,5</td>
+<td>-</td>
+<td>56-112</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1049</td>
+<td>река Нарым</td>
+<td colspan="2">в 1 километре юго-западнее села Малонарымка</td>
+<td>27,5</td>
+<td>2,3</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1050</td>
+<td>
+река Бухтарма
+левый берег
+</td>
+<td colspan="2" rowspan="5">
+в 4 километрах
+северо-западнее села Сенное
+</td>
+<td>85,4</td>
+<td>12,8</td>
+<td>209-500</td>
+<td rowspan="5">100</td>
+</tr>
+<tr>
+<td>1051</td>
+<td>
+ручей Кривушка
+правый берег
+</td>
+<td>241</td>
+<td>59</td>
+<td>200-500</td>
+</tr>
+<tr>
+<td>1052</td>
+<td>
+ручей без названия № 1
+правый берег
+</td>
+<td>76,9</td>
+<td>14,3</td>
+<td>500</td>
+</tr>
+<tr>
+<td>1053</td>
+<td>
+ручей без названия № 2
+правый берег
+левый берег
+</td>
+<td>
+55,3
+73,2
+</td>
+<td>
+11,6
+12,2
+</td>
+<td>
+500
+500
+</td>
+</tr>
+<tr>
+<td>1054</td>
+<td>
+ручей без названия № 3
+правый берег
+левый берег
+</td>
+<td>
+54,2
+79,2
+</td>
+<td>
+18,1
+17,3
+</td>
+<td>
+200-500
+500
+</td>
+</tr>
+<tr>
+<td>1055</td>
+<td>река Нарым</td>
+<td colspan="2" rowspan="2">в 0,9 километрах севернее села Кокбастау</td>
+<td>159,6</td>
+<td>30,89</td>
+<td>500</td>
+<td>35-320</td>
+</tr>
+<tr>
+<td>1056</td>
+<td>река Нижняя Теректы</td>
+<td>159,6</td>
+<td>6,797</td>
+<td>180-140</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1057</td>
+<td>
+река Маймыр
+правый берег
+левый берег
+</td>
+<td colspan="2">в 9 километрах южнее села Солдатово</td>
+<td>
+20,8
+12,3
+</td>
+<td>
+1,2
+1,3
+</td>
+<td>
+500
+500
+</td>
+<td>
+35
+35
+</td>
+</tr>
+<tr>
+<td>1058</td>
+<td>
+ручей без названия № 1
+правый берег
+левый берег
+</td>
+<td colspan="2" rowspan="2">в 8 километрах южнее села Ульяновка</td>
+<td>
+149,1
+152,6
+</td>
+<td>
+27,3
+27,2
+</td>
+<td rowspan="2">500</td>
+<td rowspan="2">100</td>
+</tr>
+<tr>
+<td>1059</td>
+<td>
+ручей без названия № 2
+правый берег
+левый берег
+</td>
+<td>
+69,3
+130,1
+</td>
+<td>
+16,2
+18,4
+</td>
+</tr>
+<tr>
+<td>1060</td>
+<td>ручей Трактовый</td>
+<td colspan="2" rowspan="5">в 9,5 и 9 километрах севернее села Солоновка</td>
+<td>23,7</td>
+<td>1,7</td>
+<td>180-500</td>
+<td rowspan="5">35</td>
+</tr>
+<tr>
+<td>1061</td>
+<td>ручей Сидоров</td>
+<td>-</td>
+<td>0,766</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1062</td>
+<td>
+река Сурка
+левый берег
+</td>
+<td>33,82</td>
+<td>4,2</td>
+<td>204-570</td>
+</tr>
+<tr>
+<td>1063</td>
+<td>
+ручей без названия № 1 правый берег
+левый берег
+</td>
+<td>
+-
+7,9
+</td>
+<td>
+3,36
+0,54
+</td>
+<td>
+-
+500
+</td>
+</tr>
+<tr>
+<td>1064</td>
+<td>ручей без названия № 2 левый берег</td>
+<td>-</td>
+<td>1,28</td>
+<td>-</td>
+</tr>
+<tr>
+<td>1065</td>
+<td>река Нарым</td>
+<td colspan="2">северо-восточнее села Кокбастау</td>
+<td>23,81</td>
+<td>3,24</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1066</td>
+<td>
+река Песчанка
+правый берег
+</td>
+<td colspan="2" rowspan="2">Улкен-Нарынский сельский округ</td>
+<td>17,2</td>
+<td>1,18</td>
+<td rowspan="2">500</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>1067</td>
+<td>ручей без названия</td>
+<td>14,7</td>
+<td>0,69</td>
+</tr>
+<tr>
+<td>1068</td>
+<td>река Кокбастау</td>
+<td colspan="2">в 7 километрах юго-западнее села Уштобе</td>
+<td>250,7</td>
+<td>17,3</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1069</td>
+<td>ручей Кондратьев левый берег</td>
+<td colspan="2">в 1 километре юго-западнее села Бесюй</td>
+<td>32,03</td>
+<td>4,74</td>
+<td>500</td>
+<td>75</td>
+</tr>
+<tr>
+<td>1070</td>
+<td>река Малая Нарым</td>
+<td colspan="2" rowspan="4">
+в 13,5 километрах севернее
+села Алтынбел
+</td>
+<td rowspan="4">362</td>
+<td>7</td>
+<td rowspan="4">292-1982</td>
+<td rowspan="4">35</td>
+</tr>
+<tr>
+<td>1071</td>
+<td>река Рахманов Ключ</td>
+<td>12</td>
+</tr>
+<tr>
+<td>1072</td>
+<td>ручей без названия</td>
+<td>5</td>
+</tr>
+<tr>
+<td>1073</td>
+<td>река Перфилов Ключ</td>
+<td>4,86</td>
+</tr>
+<tr>
+<td>1074</td>
+<td>река Нарым</td>
+<td colspan="2" rowspan="2">в 3 километрах юго-западнее села Солдатово</td>
+<td rowspan="2">20,4</td>
+<td>2,8</td>
+<td rowspan="2">500</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>1075</td>
+<td>ручей без названия</td>
+<td>3,8</td>
+</tr>
+<tr>
+<td>1076</td>
+<td>ручей без названия</td>
+<td colspan="2">в 1,5 километрах восточнее села Солоновка</td>
+<td>119</td>
+<td>7,75</td>
+<td>500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1077</td>
+<td>река Рахманов Ключ</td>
+<td colspan="2" rowspan="3">в 13,6 километрах севернее села Алтынбел</td>
+<td rowspan="3">270,45</td>
+<td>10,3</td>
+<td rowspan="3">500</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1078</td>
+<td>ручей без названия</td>
+<td>9,8</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1079</td>
+<td>река Перфилов Ключ</td>
+<td>4,4</td>
+<td>35-50</td>
+</tr>
+<tr>
+<td>1080</td>
+<td>
+ручей Нижние Теректы
+правый берег
+левый берег
+</td>
+<td colspan="2" rowspan="2">в 2 километрах северо-западнее села Уштобе</td>
+<td>
+84,3
+103,2
+</td>
+<td>
+6,9
+7,2
+</td>
+<td rowspan="2">500</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>1081</td>
+<td>родник</td>
+<td>0,3</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>1082</td>
+<td>
+ручей Нижние Теректы
+левый берег
+</td>
+<td colspan="2">в 0,5 километрах юго-западнее села Уштобе</td>
+<td>26,24</td>
+<td>3,41</td>
+<td>500</td>
+<td>55</td>
+</tr>
+<tr>
+<td colspan="8">Шемонаихинский район</td>
+</tr>
+<tr>
+<td>1083</td>
 <td>
 река Уба
 правый берег
@@ -12941,10 +14757,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>17,3</td>
 <td>3,6</td>
 <td>500-530</td>
-<td colspan="2">100-130</td>
+<td>100-130</td>
 </tr>
 <tr>
-<td>950</td>
+<td>1084</td>
 <td>
 протока реки Уба
 правый берег
@@ -12952,10 +14768,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>73,8</td>
 <td>27,7</td>
 <td>500-950</td>
-<td colspan="2">120-500</td>
+<td>120-500</td>
 </tr>
 <tr>
-<td>951</td>
+<td>1085</td>
 <td>
 река Спорный Ключ правый берег
 левый берег
@@ -12964,10 +14780,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>259,84</td>
 <td>17,8</td>
 <td>500-847</td>
-<td colspan="2" rowspan="2">35</td>
+<td rowspan="2">35</td>
 </tr>
 <tr>
-<td>952</td>
+<td>1086</td>
 <td>
 река Уба
 правый берег
@@ -12977,7 +14793,7 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>500</td>
 </tr>
 <tr>
-<td>953</td>
+<td>1087</td>
 <td>
 река Уба
 левый берег
@@ -12986,10 +14802,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>17,9</td>
 <td>0,9</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>954</td>
+<td>1088</td>
 <td>
 река Кандыковка
 правый берег
@@ -12998,10 +14814,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>50,3</td>
 <td>3,4</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>955</td>
+<td>1089</td>
 <td>
 река Уба
 левый берег
@@ -13013,30 +14829,30 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td rowspan="5">378,1</td>
 <td>11</td>
 <td rowspan="5">500</td>
-<td colspan="2" rowspan="5">35</td>
+<td rowspan="5">35</td>
 </tr>
 <tr>
-<td>956</td>
+<td>1090</td>
 <td>озеро № 1</td>
 <td>5,4</td>
 </tr>
 <tr>
-<td>957</td>
+<td>1091</td>
 <td>озеро № 2</td>
 <td>7,4</td>
 </tr>
 <tr>
-<td>958</td>
+<td>1092</td>
 <td>озеро № 3</td>
 <td>0,5</td>
 </tr>
 <tr>
-<td>959</td>
+<td>1093</td>
 <td>озеро № 4</td>
 <td>4,6</td>
 </tr>
 <tr>
-<td>960</td>
+<td>1094</td>
 <td>
 река Уба
 левый берег
@@ -13045,10 +14861,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>60,8</td>
 <td>7</td>
 <td>500-703</td>
-<td colspan="2">35-174</td>
+<td>35-174</td>
 </tr>
 <tr>
-<td>961</td>
+<td>1095</td>
 <td>
 ручей без названия
 левый берег
@@ -13056,10 +14872,10 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>38,8</td>
 <td>2,5</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>962</td>
+<td>1096</td>
 <td>
 ручей без названия
 правый берег
@@ -13068,25 +14884,49 @@ source: https://zan.gov.kz/client/#!/doc/160072/rus/15.12.2023
 <td>18,3</td>
 <td>1,8</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>963</td>
+<td>1097</td>
 <td>река Таловка</td>
 <td colspan="2">в 5 километрах восточнее села Рулиха</td>
 <td>108,6</td>
 <td>8,1</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
 </tr>
 <tr>
-<td>964</td>
+<td>1098</td>
 <td>река Андреевка</td>
 <td colspan="2">в 6,9 километрах южнее села Рулиха</td>
 <td>449,5</td>
 <td>32,6</td>
 <td>500</td>
-<td colspan="2">35</td>
+<td>35</td>
+</tr>
+<tr>
+<td>1099</td>
+<td>
+река Уба
+правый берег
+</td>
+<td colspan="2">в 3,5 километров северо-восточнее села Камышенка</td>
+<td>33,5</td>
+<td>4,6</td>
+<td>330-500</td>
+<td>35-75</td>
+</tr>
+<tr>
+<td>1100</td>
+<td>
+река Лосиха
+левый берег
+</td>
+<td colspan="2">на террритории учетного квартала 05-080-024</td>
+<td>5,3347</td>
+<td>0,3405</td>
+<td>500-542</td>
+<td>35-42</td>
 </tr>
 </table>
 
