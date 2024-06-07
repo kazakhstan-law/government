@@ -1,0 +1,17 @@
+act_code: '198013'
+requisite: Постановление Правительства Республики Казахстан от 7 июня 2024 года № 447
+title:
+  rus: Об установлении изъятия из национального режима
+  kaz: Ұлттық режимнен алып тастауды белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2024-06-07
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2024-06-07
+  rus: 2024-06-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/198013/kaz/07.06.2024
+  rus: https://zan.gov.kz/client/#!/doc/198013/rus/07.06.2024
