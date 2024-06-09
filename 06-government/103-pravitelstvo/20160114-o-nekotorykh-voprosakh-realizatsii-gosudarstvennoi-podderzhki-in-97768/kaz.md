@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97768/kaz/15.05.2024
+source: https://zan.gov.kz/client/#!/doc/97768/kaz/09.06.2024
 ---
 
 # Инвестицияларды мемлекеттік қолдауды іске асырудың кейбiр мәселелерi туралы
