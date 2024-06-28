@@ -1,5 +1,5 @@
 ---
-version_id: '190062_709353'
+version_id: '190062_712428'
 act_code: '190062'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-06-19
+version_date: 2024-06-28
 registry_number: '190062'
 caused_by:
-  code: '198424'
-  title: О внесении изменений и дополнений в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
-  link: https://zan.gov.kz/client/#!/doc/198424/rus
-source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
+  code: '198695'
+  title: О корректировке показателей республиканского бюджета на 2024 год и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
+  link: https://zan.gov.kz/client/#!/doc/198695/rus
+source: https://zan.gov.kz/client/#!/doc/190062/rus/28.06.2024
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 08.04.2024 № 259 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 08.04.2024 № 259 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Всего:</th>
-<th colspan="3">2 281 644 666</th>
+<th colspan="3">2 282 192 883</th>
 <th colspan="4">996 572 394</th>
 <th colspan="4">105 457 677</th>
 </tr>
@@ -181,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">I. Республиканские бюджетные инвестиционные проекты</th>
-<th colspan="3">270 977 849</th>
+<th colspan="3">272 627 639</th>
 <th colspan="4">116 475 775</th>
 <th colspan="4">72 432 302</th>
 </tr>
@@ -191,7 +191,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Государственные услуги общего характера</th>
-<th colspan="3">45 723 301</th>
+<th colspan="3">45 922 228</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -362,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Управление материально-технического обеспечения</th>
-<th colspan="3">1 956 865</th>
+<th colspan="3">2 155 792</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -450,6 +450,39 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td></td>
 <td colspan="2">Строительство автономной котельной в г. Астане, район Есиль, район улиц Е 181, Е 706. Модернизация и перенос существующего котельного оборудования</td>
 <td colspan="3">822 309</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4">106</td>
+<td></td>
+<td colspan="2">Создание единой информационной системы Парламента</td>
+<td colspan="3">198 927</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Прочие</td>
+<td colspan="3">198 927</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Создание единой информационной системы Парламента</td>
+<td colspan="3">198 927</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -674,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</th>
-<th colspan="3">7 482 994</th>
+<th colspan="3">10 832 562</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -684,7 +717,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство внутренних дел Республики Казахстан</th>
-<th colspan="3">2 022 423</th>
+<th colspan="3">5 371 991</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -760,7 +793,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Организация деятельности уголовно-исполнительной системы</td>
-<td colspan="3">9 537</td>
+<td colspan="3">3 359 105</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -771,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">102</td>
 <td></td>
 <td colspan="2">Строительство, реконструкция объектов уголовно-исполнительной системы</td>
-<td colspan="3">9 537</td>
+<td colspan="3">3 359 105</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -783,6 +816,39 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td></td>
 <td colspan="2">в том числе инвестиционные проекты:</td>
 <td colspan="3"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Акмолинская область</td>
+<td colspan="3">2 333 928</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство двух жилых блоков с общим лимитом наполнения до 280 мест в двух жилых блоках (по 140 мест в каждом жилом блоке) в РГУ «Учреждение № 2», Акмолинская область, Аршалинский район, п. Аршалы</td>
+<td colspan="3">1 160 846</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство двух жилых блоков с общим лимитом наполнения до 280 мест в двух жилых блоках (по 140 мест в каждом жилом блоке) в РГУ «Учреждение № 7», Акмолинская область, Зерендинский район, Конысбайский с.о., п. Гранитный</td>
+<td colspan="3">1 173 082</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -871,6 +937,28 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td></td>
 <td colspan="2">Разработка ПСД с получением заключения государственной экспертизы по объекту «Строительство специализированного исправительного учреждения со смешанным видом содержания (средней и максимальной безопасности) с лимитом наполнения 840 мест на базе учреждения ГМ-172/6 в г. Актау Мангистауской области. Привязка зданий и сооружений» из типового проекта «Специализированное исправительное учреждение на 1500 мест» для ІVA, IVГ климатических подрайонов с обычными геологическими условиями ТП РК 1500 СИУ (ІVA, IVГ) - 2.2-2012»</td>
 <td colspan="3">3 345</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Павлодарская область</td>
+<td colspan="3">1 015 640</td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="10"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="2">Строительство двух жилых блоков с общим лимитом наполнения до 280 мест в учреждении АП-162/2 КУИС МВД РК. Привязка</td>
+<td colspan="3">1 015 640</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -1939,7 +2027,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Транспорт и коммуникации</th>
-<th colspan="3">80 865 566</th>
+<th colspan="3">79 980 531</th>
 <th colspan="4">65 550 814</th>
 <th colspan="4">57 061 561</th>
 </tr>
@@ -2099,7 +2187,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Министерство транспорта Республики Казахстан</th>
-<th colspan="3">54 860 990</th>
+<th colspan="3">53 975 955</th>
 <th colspan="4">65 550 814</th>
 <th colspan="4">57 061 561</th>
 </tr>
@@ -2394,7 +2482,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">207</td>
 <td colspan="4"></td>
 <td colspan="3">Проектирование и строительство пограничных отделений</td>
-<td colspan="3">1 040 000</td>
+<td colspan="3">154 965</td>
 <td colspan="4">16 000 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2405,7 +2493,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">030</td>
 <td></td>
 <td colspan="2">За счет средств республиканского бюджета</td>
-<td colspan="3">1 040 000</td>
+<td colspan="3">154 965</td>
 <td colspan="4">16 000 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2427,7 +2515,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Актюбинская область</th>
-<th colspan="3">104 000</th>
+<th colspan="3">15 496</th>
 <th colspan="4">1 600 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2438,7 +2526,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Айке» по Актюбинской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2449,7 +2537,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Киялы» по Актюбинской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2460,7 +2548,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Восточно-Казахстанская область</th>
-<th colspan="3">156 000</th>
+<th colspan="3">23 245</th>
 <th colspan="4">2 400 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2471,7 +2559,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Орталасты» по Восточно-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2482,7 +2570,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Хамир» по Восточно-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2493,7 +2581,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Балыкты булак» по Восточно-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 749</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2504,7 +2592,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Костанайская область</th>
-<th colspan="3">208 000</th>
+<th colspan="3">30 993</th>
 <th colspan="4">3 200 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2515,7 +2603,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Караколь» по Костанайской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2526,7 +2614,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Акбалшык» по Костанайской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2537,7 +2625,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Желкуар» по Костанайской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2548,7 +2636,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Хозрет» по Костанайской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 749</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2559,7 +2647,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Область Абай</th>
-<th colspan="3">260 000</th>
+<th colspan="3">38 741</th>
 <th colspan="4">4 000 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2570,7 +2658,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Жезкент» по области Абай»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2581,7 +2669,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Кызыл ауыл» по области Абай»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2592,7 +2680,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Аксакал» по области Абай»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2603,7 +2691,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Коянбай» по области Абай»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2614,7 +2702,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Шагантога» по области Абай»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 749</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2625,7 +2713,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Павлодарская область</th>
-<th colspan="3">156 000</th>
+<th colspan="3">23 245</th>
 <th colspan="4">2 400 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2636,7 +2724,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Рахат» по Павлодарской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2647,7 +2735,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Баянауыл» по Павлодарской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2658,7 +2746,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Амангельды» по Павлодарской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 749</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2669,7 +2757,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">Северо-Казахстанская область</th>
-<th colspan="3">156 000</th>
+<th colspan="3">23 245</th>
 <th colspan="4">2 400 000</th>
 <th colspan="4"></th>
 </tr>
@@ -2680,7 +2768,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Уялы» по Северо-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2691,7 +2779,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Якуш» по Северо-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 748</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2702,7 +2790,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Разработка ПСД по проекту «Строительство пограничного отделения «Аткол» по Северо-Казахстанской области»</td>
-<td colspan="3">52 000</td>
+<td colspan="3">7 749</td>
 <td colspan="4">800 000</td>
 <td colspan="4"></td>
 </tr>
@@ -2832,7 +2920,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Прочие</th>
-<th colspan="3">81 162 435</th>
+<th colspan="3">80 148 765</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -2842,7 +2930,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Управление Делами Президента Республики Казахстан</th>
-<th colspan="3">81 162 435</th>
+<th colspan="3">80 148 765</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -2852,7 +2940,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">008</td>
 <td colspan="4"></td>
 <td colspan="3">Строительство и реконструкция объектов Управления Делами Президента Республики Казахстан</td>
-<td colspan="3">81 162 435</td>
+<td colspan="3">80 148 765</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -2874,7 +2962,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th></th>
 <th colspan="2">город Астана</th>
-<th colspan="3">81 162 435</th>
+<th colspan="3">80 148 765</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -2885,7 +2973,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 <td></td>
 <td colspan="2">Для служебного пользования</td>
-<td colspan="3">80 880 535</td>
+<td colspan="3">79 866 865</td>
 <td colspan="4"></td>
 <td colspan="4"></td>
 </tr>
@@ -3062,7 +3150,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">III. Целевые трансферты на развитие</th>
-<th colspan="6">155 737 123</th>
+<th colspan="6">154 635 550</th>
 <th colspan="4">879 959 290</th>
 <th colspan="4">32 888 046</th>
 </tr>
@@ -4493,7 +4581,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</th>
-<th colspan="6">13 870 369</th>
+<th colspan="6">12 768 796</th>
 <th colspan="4">18 838 719</th>
 <th colspan="4"></th>
 </tr>
@@ -4503,7 +4591,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">Министерство экологии и природных ресурсов Республики Казахстан</th>
-<th colspan="6">6 073 544</th>
+<th colspan="6">5 348 957</th>
 <th colspan="4">3 311 905</th>
 <th colspan="4"></th>
 </tr>
@@ -4513,7 +4601,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">037</td>
 <td colspan="7"></td>
 <td colspan="8">Стабилизация и улучшение качества окружающей среды</td>
-<td colspan="6">5 573 544</td>
+<td colspan="6">4 848 957</td>
 <td colspan="4">3 311 905</td>
 <td colspan="4"></td>
 </tr>
@@ -4524,7 +4612,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7">105</td>
 <td></td>
 <td colspan="7">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на строительство и реконструкцию объектов охраны окружающей среды за счет средств республиканского бюджета</td>
-<td colspan="6">5 573 544</td>
+<td colspan="6">4 848 957</td>
 <td colspan="4">3 311 905</td>
 <td colspan="4"></td>
 </tr>
@@ -4557,7 +4645,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th></th>
 <th colspan="7">Мангистауская область</th>
-<th colspan="6">3 829 058</th>
+<th colspan="6">3 104 471</th>
 <th colspan="4">2 307 066</th>
 <th colspan="4"></th>
 </tr>
@@ -4610,7 +4698,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">Министерство водных ресурсов и ирригации Республики Казахстан</th>
-<th colspan="6">7 796 825</th>
+<th colspan="6">7 419 839</th>
 <th colspan="4">15 526 814</th>
 <th colspan="4"></th>
 </tr>
@@ -4620,7 +4708,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4">254</td>
 <td colspan="7"></td>
 <td colspan="8">Эффективное управление водными ресурсами</td>
-<td colspan="6">7 796 825</td>
+<td colspan="6">7 419 839</td>
 <td colspan="4">15 526 814</td>
 <td colspan="4"></td>
 </tr>
@@ -4664,7 +4752,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7">115</td>
 <td></td>
 <td colspan="7">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на увеличение водности поверхностных водных ресурсов за счет средств республиканского бюджета</td>
-<td colspan="6">2 296 825</td>
+<td colspan="6">1 919 839</td>
 <td colspan="4">13 006 508</td>
 <td colspan="4"></td>
 </tr>
@@ -4686,7 +4774,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th></th>
 <th colspan="7">Алматинская область</th>
-<th colspan="6">1 796 825</th>
+<th colspan="6">1 419 839</th>
 <th colspan="4">4 913 462</th>
 <th colspan="4"></th>
 </tr>
@@ -5944,7 +6032,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Акмолинская область</th>
-<th colspan="5">7 704 007</th>
+<th colspan="5">5 474 095</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -5955,7 +6043,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция участка Нуринского группового водопровода от с. Егиндыколь до ХПП Степняк Егиндыкольского района Акмолинской области</td>
-<td colspan="5">300 791</td>
+<td colspan="5">68 298</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -5966,7 +6054,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство группового водопровода в селах Красная поляна, Петриковка и Арбузинка Сандыктауского района Акмолинской области</td>
-<td colspan="5">403 216</td>
+<td colspan="5">363 055</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -5988,7 +6076,84 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция защитной дамбы города Астаны с устройством катастрофического водосброса с отводящим каналом</td>
-<td colspan="5">3 000 000</td>
+<td colspan="5">995 918</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство Есильского контррегулятора на реке Есиль в Акмолинской области»</td>
+<td colspan="5">11 309</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство сооружений для подпитки Астанинского водохранилища» 2 очередь</td>
+<td colspan="5">1 265</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Нуринского группового водопровода протяженностью 337 км Акмолинской области»</td>
+<td colspan="5">10 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Корректировка ПСД «Реконструкция защитной дамбы г. Астаны с устройством катастрофического водосброса с отводящим каналом»</td>
+<td colspan="5">16 750</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция головного сооружения лиманного орошения Алва Акмолинской области»</td>
+<td colspan="5">2 500</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Подлесненского водохранилища в Акмолинской области»</td>
+<td colspan="5">2 500</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Кояндинского водохранилища»</td>
+<td colspan="5">2 500</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -5999,7 +6164,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Актюбинская область</th>
-<th colspan="5">539 911</th>
+<th colspan="5">542 911</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6015,13 +6180,24 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Каргалинского водохранилища на реке Каргалы»</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th></th>
 <th colspan="2"></th>
 <th colspan="3"></th>
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Алматинская область</th>
-<th colspan="5">674 500</th>
+<th colspan="5">941 713</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6037,13 +6213,170 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">РП Строительство Каскеленского группового водовода в Карасайском районе Алматинской области 1 очередь (2 пусковой комплекс) строительства. Корректировка</td>
+<td colspan="5">157 307</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство Каскеленского группового водовода в Карасайском районе Алматинской области. I очередь (3-й пусковой комплекс) строительства. Корректировка</td>
+<td colspan="5">100 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и повышение сейсмоустойчивости плотины Бартогайского водохранилища в Алматинской области»</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Курам Енбекшиказахского района»</td>
+<td colspan="5">347</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Малыбай-1 Енбекшиказахского района»</td>
+<td colspan="5">266</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Малыбай-2 Енбекшиказахского района»</td>
+<td colspan="5">919</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Ульчук Енбекшиказахского района»</td>
+<td colspan="5">100</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Мулушечный Енбекшиказахского района»</td>
+<td colspan="5">389</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Шамсутдинский Енбекшиказахского района»</td>
+<td colspan="5">342</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Байсеитский Енбекшиказахского района»</td>
+<td colspan="5">857</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Правобережного магистрального канала на реке Курты Илийского района»</td>
+<td colspan="5">266</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Левобережного магистрального канала на реке Курты Илийского района»</td>
+<td colspan="5">420</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и модернизация сооружении канала БАК им. Д.Кунаева»</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9"></td>
+<td colspan="5"></td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
 <th></th>
 <th colspan="2"></th>
 <th colspan="3"></th>
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Атырауская область</th>
-<th colspan="5">3 921 752</th>
+<th colspan="5">3 243 249</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6065,7 +6398,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка проектно-сметной документации на реконструкцию канала «Кобяково-Забурунье» Курмангазинского района Атырауской области</td>
-<td colspan="5">483 325</td>
+<td colspan="5">361 550</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6076,7 +6409,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция канала «Қурайлы сай» Индерского района Атырауской области</td>
-<td colspan="5">548 360</td>
+<td colspan="5">436 116</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6086,8 +6419,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="3"></td>
 <td colspan="7"></td>
 <td colspan="2"></td>
-<td colspan="9">Реконструкция гидротехнических сооружений находящихся на «Ералинском» гидроузле в с. Миялы Кызылкогинского района Атырауской области</td>
-<td colspan="5">441 361</td>
+<td colspan="9">Реконструкция гидротехнических сооружений, находящихся на «Ералинском» гидроузле в с. Миялы Кызылкогинского района Атырауской области</td>
+<td colspan="5">396 877</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6109,7 +6442,1327 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство магистрального водопровода «Тайсойган-Миялы» Кызылкогинского района Атырауской области</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">1 100 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Восточно-Казахстанская область</td>
+<td colspan="5">21 500</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство водохранилища на реке Каргыба Восточно-Казахстанской области»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция сооружений Кандысуйского водохранилища Тарбагатайского района»</td>
+<td colspan="5">1 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция гидроузла Кандысу с магистральными каналами ЛМК и Есенгелды на реке Кандысу Тарбагатайского района»</td>
+<td colspan="5">500</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохозяйственных систем и сооружений для обеспечения орошаемых земель 6 каналов (Бегетай, Казакбай, Караша, Болат, Каратоган, Бурымбет) Тарбагатайского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водозаборного узла с магистральными каналами Торе Тагам и Есенгелды на реке Курчум Курчумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохозяйственных систем и сооружений для обеспечения орошаемых земель 22 каналов Курчумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Жамбылская область</td>
+<td colspan="5">200 819</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохранилища Терс-Ащибулак в Жуалынском районе Жамбылской области»</td>
+<td colspan="5">13 750</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Караконызского водохранилища в Кордайском районе Жамбылской области»</td>
+<td colspan="5">13 700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство водохранилища Ргайты на реке Ргайты в Кордайском районе Жамбылской области»</td>
+<td colspan="5">13 378</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство водохранилища Калгуты на реке Калгуты в Кордайском районе Жамбылской области»</td>
+<td colspan="5">7 864</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство водохранилища Акмола на реке Талас на границе Таласского и Байзакского районов Жамбылской области»</td>
+<td colspan="5">7 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Тама Жамбылского района»</td>
+<td colspan="5">720</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Байбарак Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Кокжелек Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Кушаман Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Алайгыр Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Акиык Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МХК Онгарбай Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МХК Коминтерн Мойынкумского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МХК Сануй Мойынкумского района»</td>
+<td colspan="5">2 960</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-7»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-13»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-15»</td>
+<td colspan="5">1 440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-17-1»</td>
+<td colspan="5">440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-17-2»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района 4250 ВХК Р-21»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК МР-2»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Шаха»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Ошакбай-1»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Наурызбай»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кумжота»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кокарык»</td>
+<td colspan="5">1 440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Ошакбай-2»</td>
+<td colspan="5">600</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жолдыбай»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Рыстамбет»</td>
+<td colspan="5">1 400</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Карымсак»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Текей»</td>
+<td colspan="5">2 215</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Елшибай»</td>
+<td colspan="5">3 120</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Конезавод»</td>
+<td colspan="5">1 440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кейкиман»</td>
+<td colspan="5">1 520</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жанасаз»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Сармык»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кумбел»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Тажибай»</td>
+<td colspan="5">2 644</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кенес»</td>
+<td colspan="5">2 048</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Бузау»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Безымянный лоток»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Безымянный земляной»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кудайкул-1»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кудайкул-2»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Орта»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жана»</td>
+<td colspan="5">1 400</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Тлеуболат-1»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кабан»</td>
+<td colspan="5">1 320</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кабан хвостовой»</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жумахан»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Байбаба»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кыдырбай»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жамбас»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Назарбек-1»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Сагындык»</td>
+<td colspan="5">2 680</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Отарбек»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Болпан»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Анар»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Утелбалык»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Туймекент»</td>
+<td colspan="5">2 720</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Донсары»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Утеген»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Узын»</td>
+<td colspan="5">3 080</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Каражон»</td>
+<td colspan="5">1 360</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Шахан»</td>
+<td colspan="5">2 600</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Сарыбарак»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Шалке»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Акбулын»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-2»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Левый отвод»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Правый отвод»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-4-1»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-4-2»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-4-2 водослив»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Нефтебаза»</td>
+<td colspan="5">200</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Степновский»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Калгутинский»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-6»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-8»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-8-2»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-10»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-12»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-14»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-16»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК КХ-1»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК КХ-3»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК КХ-5»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-20»</td>
+<td colspan="5">2 160</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-20*»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-30»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 1»</td>
+<td colspan="5">160</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 2»</td>
+<td colspan="5">220</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 3»</td>
+<td colspan="5">140</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 4»</td>
+<td colspan="5">140</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Полевой 3»</td>
+<td colspan="5">140</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-112»</td>
+<td colspan="5">480</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-114»</td>
+<td colspan="5">340</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сортопытный»</td>
+<td colspan="5">220</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-116»</td>
+<td colspan="5">1 400</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118»</td>
+<td colspan="5">880</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118*»</td>
+<td colspan="5">1 480</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118а»</td>
+<td colspan="5">440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-120»</td>
+<td colspan="5">680</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122а»</td>
+<td colspan="5">720</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122б»</td>
+<td colspan="5">340</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122в»</td>
+<td colspan="5">340</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-124»</td>
+<td colspan="5">440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-124а»</td>
+<td colspan="5">440</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-126»</td>
+<td colspan="5">960</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-128»</td>
+<td colspan="5">960</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-128а»</td>
+<td colspan="5">560</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-128б»</td>
+<td colspan="5">740</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6120,7 +7773,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Западно-Казахстанская область</th>
-<th colspan="5">4 030 840</th>
+<th colspan="5">3 869 916</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6131,7 +7784,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Урдинского группового водопровода ЗКО V очередь (водовод Муратсай-Жанибек) по месту расположения: Республика Казахстан, Западно-Казахстанская область, Жанибекский р-н</td>
-<td colspan="5">1 738 746</td>
+<td colspan="5">1 525 208</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6158,13 +7811,255 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Строительство водохранилища на реке Большой Узень у п. Жалпактал Западно-Казахстанской области»</td>
+<td colspan="5">4 576</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Битикского водохранилища Западно-Казахстанской области»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Донгулюкского водохранилища Западно-Казахстанской области»</td>
+<td colspan="5">3 400</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Пятимарского водохранилища»</td>
+<td colspan="5">2 600</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Кушумский»</td>
+<td colspan="5">4 168</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Первомайского»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Тайпакского»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Фурмановского»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Санкибайского»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Айдарханского»</td>
+<td colspan="5">2 670</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Бударинский»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ТЭО «Строительство водохранилища на реке Малый Узень у п. Сексенбай Западно-Казахстанской области»</td>
+<td colspan="5">5 200</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Карагандинская область</td>
+<td colspan="5">38 531</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Завершение разработки ТЭО «Строительство водохранилища Садовое на реке Үлкен-Құндызды Карагандинская область»</td>
+<td colspan="5">5 151</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и техническое перевооружение гидроузла Самаркандского водохранилища Карагандинской области со строительством малой МГЭС мощностью 1 МВт»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Очистка чащи Жартасского водохранилища, 10,5 млн.м3»</td>
+<td colspan="5">4 250</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального трубопровода с/о Жанаталап»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Шокайского магистрального канала, Баймырза с/о-магистральный и внутрихозяйственный канал»</td>
+<td colspan="5">1 920</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального трубопровода с/о КАРАЖАРСКИЙ»</td>
+<td colspan="5">1 980</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального трубопровода с/о Тузды»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Самарского магистрального канала, Самарский с/о-подпорное сооружение оросительная система на реке Нура»</td>
+<td colspan="5">4 030</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ТЭО «Строительство водохранилища на реке Нура Ынталинский с/о Каркаралинский район Карагандинская область»</td>
+<td colspan="5">6 200</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th></th>
 <th colspan="2"></th>
 <th colspan="3"></th>
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Костанайская область</th>
-<th colspan="5">356 371</th>
+<th colspan="5">316 045</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6175,7 +8070,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция плотины «Албарбогет» Джангельдинского района Костанайской области</td>
-<td colspan="5">356 371</td>
+<td colspan="5">316 045</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6186,7 +8081,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Кызылординская область</th>
-<th colspan="5">4 818 737</th>
+<th colspan="5">6 965 908</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6208,7 +8103,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">РП «Строительство ветки подключения Аральск-Токабай-Абай Арало-Сарыбулакского группового водопровода и водоснабжение населенных пунктов Токабай, Абай Аральского района Кызылординской области»</td>
-<td colspan="5">1 200 000</td>
+<td colspan="5">1 400 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6224,13 +8119,266 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="4"></td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство второй линии магистрального водовода от головного водозабора «Такырколь» до насосной станций № 1 в Жанакорганском районе Кызылординской области</td>
+<td colspan="5">303 554</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство второй линии магистрального водовода от головного водозабора «Такырколь» до насосной станций № 3 в Шиелинском районе Кызылординской области</td>
+<td colspan="5">951 574</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">РП «Строительство ветки подключения к Косаман-Акбасты Арало-Сарыбулакского группового водопровода и водоснабжение населенного пункта Акбасты Аральского района Кызылординской области»</td>
+<td colspan="5">376 263</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство и расширение существующего Талапского группового водопровода Жанаркорганского района Кызылординской области (бурение 5 новых скважин)</td>
+<td colspan="5">26 331</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">РП «Реконструкция Кызылординского гидроузла Кызылординской области. I очередь»</td>
+<td colspan="5">260 073</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Цифровизация 3-х каналов «Келинтюбинский, Айтек, Сунаката» Кызылординской области</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция 26 магистральных и межхозяйственных каналов («Новошиели МК», о-2, Р-7, «Келтөбе МК», «Қызылорда оң жағалауы МК», Р-12, Қазалы оң жағалауы МК, Әйтек, Сүнақата, Қамыстықак, Жаңаорық, Р-1, ЛМК-9, ЛМК-11в, ЛМК-15В, ЛМК - 17а, ботабай, Жетікөл-Жарма, Шонық, Левая ветка, Коммунизм, Құрайлы, Правая ветка, Наурызбай, Балжарма)»</td>
+<td colspan="5">10 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Сумагар в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Тайпаккуль в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Куркуреуик в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Новосулутюбинск в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Ботабай в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Жетикуль-жарма в Кызылординской области</td>
+<td colspan="5">1 394</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Коксу в Кызылординской области</td>
+<td colspan="5">100</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Жанадария в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Жана-арық в Кызылординской области</td>
+<td colspan="5">782</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Сауранбай в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию Кызылординского Правобережного магистрального канала в Кызылординской области</td>
+<td colspan="5">900</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию Кызылординского левобережного магистрального канала в Кызылординской области</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Басыкара в Кызылординской области</td>
+<td colspan="5">700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию канала Аксай в Кызылординской области</td>
+<td colspan="5">800</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию Казалинского правобережного магистрального канала в Кызылординской области</td>
+<td colspan="5">900</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД ПИР на автоматизацию Казалинского левобережного магистрального канала в Кызылординской области</td>
+<td colspan="5">900</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th></th>
 <th colspan="2"></th>
 <th colspan="3"></th>
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Мангистауская область</th>
-<th colspan="5">240 085</th>
+<th colspan="5">107 929</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6240,8 +8388,107 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="3"></td>
 <td colspan="7"></td>
 <td colspan="2"></td>
-<td colspan="9">«Реконструкция водопроводных сетей населенных пунктов Акшымырау и Кызан группового водопровода «Казба-Акшымырау- Кызан» 2-ой этап строительства (Строительство второй нити водовода между селами Акшымырау -Кызан)» (корректировка)</td>
-<td colspan="5">240 085</td>
+<td colspan="9">«Реконструкция водопроводных сетей населенных пунктов Акшымырау и Кызан группового водопровода «Казба-Акшымырау- Кызан» 2-ой этап строительства (строительство второй нити водовода между селами Акшымырау -Кызан)» (корректировка)</td>
+<td colspan="5">107 929</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Область Абай</td>
+<td colspan="5">39 240</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Завершение строительства Каракольского водохранилища Урджарского района области Абай»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция плотинного гидроузла с магистральными каналами Актоган, Татарский, Белбастау на реке Карабута Урдарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция плотинного гидроузла с магистральными каналами Бургон и Жанбас на реке Коктерек Урдарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция плотинного гидроузла с магистральными каналами Правобережный и Левобережный на реке Каракол Урдарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция гидроузла на реке Баканас с магистральными каналами Актоган в Аягозском районе»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и восстановление водохозяйственных систем и сооружений для обеспечения водой орошаемых земель района Акусат 2 канала Даулетбай, Жанбике»</td>
+<td colspan="5">4 240</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и восстановление водохозяйственных систем и сооружений для обеспечения водой орошаемых земель Урдарского района 10 каналов (Отгонный, Назар-Орал, Токтыбай, Соединительный, Амангельды, Алмалы, Шошкалы, Кызылшокы, Акбастау, Жанай)»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и восстановление водохозяйственных систем и сооружений для обеспечения водой орошаемых земель Жарминского района 5 каналов (Гольцовский, Богенбай, Корыкшар, Трудовой, Актоган)»</td>
+<td colspan="5">5 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6252,7 +8499,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Область Жетісу</th>
-<th colspan="5">1 500 000</th>
+<th colspan="5">1 232 859</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6263,7 +8510,73 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">РП «Строительство Кызылагашского массива орошения Аксуского района Алматинской области»</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">1 211 589</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохранилища Акешки с МК Акешки области Жетісу»</td>
+<td colspan="5">2 480</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохранилища Ащыбулак с МК Ащыбулак»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водохранилища Алмалы с МК Алмалы»</td>
+<td colspan="5">790</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция гидроузла на р. Биен»</td>
+<td colspan="5">3 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция водозаборного гидроузла на р. Тентек в Алакольском районе области Жетісу»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Уштобинский в Каратальском районе области Жетісу»</td>
+<td colspan="5">5 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6274,7 +8587,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Область Ұлытау</th>
-<th colspan="5">5 779 803</th>
+<th colspan="5">7 241 939</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6285,7 +8598,29 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция насосной станции II-го подъёма Уйтас-Айдосского водозабора со строительством водовода до ХПОС г.Жезказган</td>
-<td colspan="5">5 779 803</td>
+<td colspan="5">6 962 800</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Строительство Эскулинского водовода с учетом водоснабжения г. Жезказган Карагандинской области (корректировка 2)</td>
+<td colspan="5">273 575</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Жездинский г.Жезказган, с/о Талап»</td>
+<td colspan="5">5 564</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6296,7 +8631,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Северо-Казахстанская область</th>
-<th colspan="5">12 674 818</th>
+<th colspan="5">11 418 706</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6317,8 +8652,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="3"></td>
 <td colspan="7"></td>
 <td colspan="2"></td>
-<td colspan="9">РП «Строительство водоводов, отводов к сельским населенным пунктам, подключенных к Кокшетаускому групповому водопроводу в Северо- Казахстанской области»</td>
-<td colspan="5">1 500 000</td>
+<td colspan="9">РП «Строительство водоводов, отводов к сельским населенным пунктам, подключенных к Кокшетаускому групповому водопроводу в Северо-Казахстанской области»</td>
+<td colspan="5">2 000 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6329,7 +8664,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Булаевского группового водопровода в Северо-Казахстанской области. III-очередь</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">1 700 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6351,7 +8686,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Пресновского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="5">742 455</td>
+<td colspan="5">670 171</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6361,8 +8696,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="3"></td>
 <td colspan="7"></td>
 <td colspan="2"></td>
-<td colspan="9">Реконструкция технологического оборудования насосной станции IV подъема №1 «Замотаевка» Булаевского группового водопровода</td>
-<td colspan="5">332 363</td>
+<td colspan="9">Реконструкция технологического оборудования насосной станции IV подъема № 1 «Замотаевка» Булаевского группового водопровода</td>
+<td colspan="5">353 823</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6373,7 +8708,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Пресновского группового водопровода в Северо-Казахстанской области (І очередь). Корректировка</td>
-<td colspan="5">1 300 000</td>
+<td colspan="5">1 550 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6384,7 +8719,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Кокшетауского группового водопровода, третья очередь строительства. Участок от насосной станции четвертого подъёма до насосной станции седьмого подъёма (первый этап) Айыртауского района и района Шал акына Северо-Казахстанской области</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">100 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6395,7 +8730,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Булаевского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">1 119 006</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6406,7 +8741,40 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Ишимского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">1 114 006</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция отводов к сельским населенным пунктам, подключенных к Ишимскому групповому водопроводу в Северо-Казахстанской области»</td>
+<td colspan="5">1 700</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция головных сооружений Ишимского группового водопровода в Северо-Казахстанской области»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция головных сооружений Булаевского группового водопровода в Северо-Казахстанской области»</td>
+<td colspan="5">5 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6417,7 +8785,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Туркестанская область</th>
-<th colspan="5">4 738 449</th>
+<th colspan="5">5 323 913</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6483,7 +8851,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция магистрального водовода для подпитки Сарыагашского группового водопровода с подключением близлежащих сельских населенных пунктов Сарыагашского района Южно-Казахстанской области. 1-очередь 1-й пусковой комплекс</td>
-<td colspan="5">1 906 064</td>
+<td colspan="5">2 206 064</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6506,6 +8874,864 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Кызылкумского магистрального канала с автоматизацией водоучета и водораспределения Шардаринского и Арысского районов Южно-Казахстанской области (3-очередь)</td>
 <td colspan="5">100 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Реконструкция Капчагайского водохранилища Байдибекского района ЮКО</td>
+<td colspan="5">120 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Ремонт и реконструкция Коксарайского контррегулятора»</td>
+<td colspan="5">5 895</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Бадамского водохранилища в Туркестанской области»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция очистного сооружения систем водоснабжения г. Арысь»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала «Машинная водоподача из Шардаринского водохранилища на орошаемые земли Махтаральского района ЮКО имени 20 лет независимости Казахстана»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Кызылкумского магистрального канала 4 очередь»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция 5 каналов (4Р-1, 4Р-2, 4Р-3,4Р-4, СР-1) Шардаринского района в с/о Алатау батыр, Суткент с/о, Кызылкум с/о»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция 12 каналов Жетысайского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов БКМК»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов Ханым»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов Зах»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов В-15»</td>
+<td colspan="5">1 800</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов В-24»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов Ачинау»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция трансграничных каналов МКХ Аккойлы»</td>
+<td colspan="5">1 392</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Кокмардан Отырарского района»</td>
+<td colspan="5">2 200</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция нового отвода канала Көкмардан Отырарского района»</td>
+<td colspan="5">877</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Берди Отырарского района»</td>
+<td colspan="5">3 132</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция подводяшего канала Сарыкол Отырарского района»</td>
+<td colspan="5">1 212</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Коктобе-1 Отырарского района»</td>
+<td colspan="5">161</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Жаман тобе Отырарского района»</td>
+<td colspan="5">245</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Мирный Отырарского района»</td>
+<td colspan="5">1 162</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Кантогай-1 Отырарского района»</td>
+<td colspan="5">431</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Амантай Отырарского района»</td>
+<td colspan="5">900</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Коккел Отырарского района»</td>
+<td colspan="5">4 615</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Жамантал Отырарского района»</td>
+<td colspan="5">1 117</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Ески курылыс Отырарского района»</td>
+<td colspan="5">227</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Бесторангыл Отырарского района»</td>
+<td colspan="5">2 067</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Түйе ауыл Отырарского района»</td>
+<td colspan="5">78</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Шамши Отырарского района»</td>
+<td colspan="5">486</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Сарыбел Отырарского района»</td>
+<td colspan="5">3 193</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Абилда Отырарского района»</td>
+<td colspan="5">125</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Кудайберген Отырарского района»</td>
+<td colspan="5">1 321</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Коларык Отырарского района»</td>
+<td colspan="5">1 426</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Беларык Отырарского района»</td>
+<td colspan="5">1 549</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Сулыарык Отырарского района»</td>
+<td colspan="5">3 591</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Шенгелди Отырарского района»</td>
+<td colspan="5">940</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Коксарай Отырарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Маякум-1 Отырарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Соркол Отырарского района»</td>
+<td colspan="5">2 142</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Балтабай Отырарского района»</td>
+<td colspan="5">418</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Бактыбай Отырарского района»</td>
+<td colspan="5">1 566</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Маякум-2 Отырарского района»</td>
+<td colspan="5">1 253</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Калкабай Отырарского района»</td>
+<td colspan="5">708</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Терекарык Отырарского района»</td>
+<td colspan="5">688</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Макибай Отырарского района»</td>
+<td colspan="5">517</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Сумагар Отырарского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Мұңайтпас Отырарского района»</td>
+<td colspan="5">676</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Аккол Отырарского района»</td>
+<td colspan="5">1 256</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция канала Кебірлі Шығанақ-ІІ Отырарского района»</td>
+<td colspan="5">1 425</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Бересек с плотинным водозабором Сузакского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Ушбас Сузакского района»</td>
+<td colspan="5">2 030</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Аксумбе Сузакского района»</td>
+<td colspan="5">1 099</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция МК Бакырлы Сузакского района»</td>
+<td colspan="5">1 077</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция Шардаринский МХК Шардаринского района»</td>
+<td colspan="5">5 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ақшығанақ»</td>
+<td colspan="5">522</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Т. Әйменов (КМ-1/КМ-2)»</td>
+<td colspan="5">1 566</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Жақсыбаев»</td>
+<td colspan="5">338</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ш-7»</td>
+<td colspan="5">1 464</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ш-11-А»</td>
+<td colspan="5">469</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Бозарық-1»</td>
+<td colspan="5">604</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Бозарық-2»</td>
+<td colspan="5">1 221</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Аштархан»</td>
+<td colspan="5">1 110</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Бақтыбай ІІ»</td>
+<td colspan="5">2 259</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Балтабай ІІ»</td>
+<td colspan="5">1 409</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Қонай»</td>
+<td colspan="5">2 886</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ақынбек»</td>
+<td colspan="5">365</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ебелек»</td>
+<td colspan="5">2 158</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Хайрулла»</td>
+<td colspan="5">426</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Бірлік-2005»</td>
+<td colspan="5">1 536</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Жубанис каналы»</td>
+<td colspan="5">1 401</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Жайықбек»</td>
+<td colspan="5">1 369</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Ысқабай»</td>
+<td colspan="5">1 525</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Тас жүрек»</td>
+<td colspan="5">1 624</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Кебірлі шығанақ»</td>
+<td colspan="5">1 912</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Тінейқұл»</td>
+<td colspan="5">1 386</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Керейарық»</td>
+<td colspan="5">1 392</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция каналов Отырарского района МХК Әлдеш»</td>
+<td colspan="5">1 525</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -9327,7 +12553,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7">109</td>
 <td colspan="2"></td>
 <td colspan="9">Целевые трансферты на развитие областным бюджетам на реализацию бюджетных инвестиционных проектов в малых и моногородах за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td colspan="5">18 000 000</td>
+<td colspan="5">19 197 575</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -9371,7 +12597,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Жамбылская область</th>
-<th colspan="5">2 283 905</th>
+<th colspan="5">2 864 692</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9382,7 +12608,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Западно-Казахстанская область</th>
-<th colspan="5">991 775</th>
+<th colspan="5">929 070</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9426,7 +12652,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Павлодарская область</th>
-<th colspan="5">1 625 000</th>
+<th colspan="5">2 304 493</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9448,7 +12674,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7">110</td>
 <td colspan="2"></td>
 <td colspan="9">Целевые трансферты на развитие областным бюджетам на развитие инженерной и транспортной (благоустройство) инфраструктуры в областных центрах за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td colspan="5">30 305 160</td>
+<td colspan="5">29 548 014</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -9492,7 +12718,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Западно-Казахстанская область</th>
-<th colspan="5">1 048 046</th>
+<th colspan="5">970 393</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9547,7 +12773,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Павлодарская область</th>
-<th colspan="5">2 589 568</th>
+<th colspan="5">1 910 075</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9569,7 +12795,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td colspan="7">113</td>
 <td colspan="2"></td>
 <td colspan="9">Целевые трансферты на развитие областным бюджетам на развитие социальной и инженерной инфраструктуры в сельских населенных пунктах в рамках проекта «Ауыл – Ел бесігі» за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td colspan="5">50 000 000</td>
+<td colspan="5">49 559 571</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -9646,7 +12872,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Жамбылская область</th>
-<th colspan="5">5 818 060</th>
+<th colspan="5">5 237 273</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9657,7 +12883,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Западно-Казахстанская область</th>
-<th colspan="5">817 206</th>
+<th colspan="5">957 564</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -9838,16 +13064,17 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 </tr>
 </table>
 
-> *Для служебного пользования*  
+> *Для служебного пользования*
+
 > *Приложение 2*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « 12 » декабря 2023 года*  
+> *от 12 декабря 2023 года*  
 > *№ 1108*
 
 ## Перечень приоритетных республиканских бюджетных инвестиций министерств по чрезвычайным ситуациям, обороны, Управления Делами Президента Республики Казахстан
 
-> *Сноска. Приложение 2 в редакции постановлений Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 2 в редакции постановлений Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -9884,9 +13111,10 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/19.06.2024
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td colspan="9">___________________________________________________________</td>
+</tr>
 </table>
-
-__________________________________________________
 
 > *Приложение 3*  
 > *к постановлению Правительства*  
@@ -10258,12 +13486,12 @@ __________________________________________________
 > *Приложение 7*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от «12» декабря 2023 года*  
+> *от 12 декабря 2023 года*  
 > *№ 1108*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на обеспечение прав и улучшение качества жизни лиц с инвалидностью в Республике Казахстан
 
-> *Сноска. Приложение 7 в редакции постановления Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 7 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -10278,12 +13506,12 @@ __________________________________________________
 <td>санаторно-курортное лечение детям с ментальными нарушениями</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td>18 674 227</td>
-<td>732 124</td>
-<td>16 050 555</td>
-<td>1 891 548</td>
+<th></th>
+<th>Всего</th>
+<th>17 960 676</th>
+<th>661 939</th>
+<th>16 024 855</th>
+<th>1 273 882</th>
 </tr>
 <tr>
 <td>1.</td>
@@ -10296,26 +13524,26 @@ __________________________________________________
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>787 347</td>
+<td>727 435</td>
 <td>31 832</td>
 <td>676 184</td>
-<td>79 331</td>
+<td>19 419</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>1 044 625</td>
+<td>957 443</td>
 <td>28 938</td>
 <td>887 187</td>
-<td>128 500</td>
+<td>41 318</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>658 077</td>
+<td>627 089</td>
 <td>28 938</td>
 <td>585 755</td>
-<td>43 384</td>
+<td>12 396</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -10344,26 +13572,26 @@ __________________________________________________
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>1 183 184</td>
-<td>23 150</td>
-<td>1 088 141</td>
-<td>71 893</td>
+<td>1 087 290</td>
+<td>20 415</td>
+<td>1 063 528</td>
+<td>3 347</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>670 420</td>
-<td>49 194</td>
+<td>669 526</td>
+<td>48 300</td>
 <td>561 315</td>
 <td>59 911</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>1 319 110</td>
+<td>1 222 425</td>
 <td>28 938</td>
 <td>1 146 798</td>
-<td>143 374</td>
+<td>46 689</td>
 </tr>
 <tr>
 <td>11.</td>
@@ -10384,10 +13612,10 @@ __________________________________________________
 <tr>
 <td>13.</td>
 <td>Область Жетісу</td>
-<td>542 044</td>
+<td>539 979</td>
 <td>2 894</td>
 <td>522 210</td>
-<td>16 940</td>
+<td>14 875</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -10400,26 +13628,26 @@ __________________________________________________
 <tr>
 <td>15.</td>
 <td>Павлодарская область</td>
-<td>762 885</td>
+<td>751 729</td>
 <td>23 150</td>
 <td>691 392</td>
-<td>48 343</td>
+<td>37 187</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Северо-Казахстанская область</td>
-<td>561 808</td>
+<td>537 996</td>
 <td>14 469</td>
-<td>489 080</td>
-<td>58 259</td>
+<td>487 993</td>
+<td>35 534</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Туркестанская область</td>
-<td>2 054 290</td>
-<td>112 857</td>
+<td>1 914 615</td>
+<td>75 238</td>
 <td>1 803 430</td>
-<td>138 003</td>
+<td>35 947</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -10432,22 +13660,23 @@ __________________________________________________
 <tr>
 <td>19.</td>
 <td>Город Астана</td>
-<td>1 165 693</td>
+<td>1 029 342</td>
 <td>69 450</td>
 <td>868 992</td>
-<td>227 251</td>
+<td>90 900</td>
 </tr>
 <tr>
 <td>20.</td>
 <td>Город Шымкент</td>
-<td>1 612 011</td>
-<td>66 556</td>
+<td>1 583 074</td>
+<td>37 619</td>
 <td>1 439 268</td>
 <td>106 187</td>
 </tr>
+<tr>
+<td colspan="6">___________________________________________________________</td>
+</tr>
 </table>
-
-_______________________________
 
 > *Приложение 8*  
 > *к постановлению Правительства*  
@@ -11034,28 +14263,41 @@ _______________________________
 > *Приложение 15*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от « » 2023 года №*
+> *от 12 декабря 2023 года*  
+> *№ 1108*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам, бюджетам городов республиканского значения, столицы на изъятие земельных участков для государственных нужд
+
+> *Сноска. Приложение 15 в редакции постановления Правительства РК от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
 <td>№ п/п</td>
-<td colspan="8">Наименование области</td>
-<td colspan="6">Сумма, тыс. тенге</td>
+<td>Наименование областей</td>
+<td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
 <th></th>
-<th colspan="8">Всего</th>
-<th colspan="6">124 351</th>
+<th>Всего</th>
+<th>124 351</th>
 </tr>
 <tr>
 <td>1.</td>
-<td colspan="8">Алматинская область</td>
-<td colspan="6">124 351</td>
+<td>Алматинская область</td>
+<td>46 734</td>
 </tr>
 <tr>
-<td colspan="15">_________________________</td>
+<td>2.</td>
+<td>Жамбылская область</td>
+<td>21 357</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Павлодарская область</td>
+<td>56 260</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
 
@@ -11269,115 +14511,113 @@ _______________________________
 > *Приложение 20*  
 > *к постановлению Правительства*  
 > *Республики Казахстан*  
-> *от «12» декабря 2023 года*  
+> *от 12 декабря 2023 года*  
 > *№ 1108*
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на обеспечение и проведение выборов акимов районов (городов областного значения)
 
-> *Сноска. Приложение 20 в редакции постановления Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 20 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
-<td>
-№
-п/п
-</td>
+<td>№ п/п</td>
 <td>Наименование областей</td>
 <td>Сумма, тыс. тенге</td>
 </tr>
 <tr>
-<td></td>
-<td>Всего</td>
-<td>3 206 724</td>
+<th></th>
+<th>Всего</th>
+<th>2 886 051</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>334 821</td>
+<td>301 339</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>144 193</td>
+<td>129 774</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>198 487</td>
+<td>178 638</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>111 132</td>
+<td>100 019</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>199 700</td>
+<td>179 730</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>188 141</td>
+<td>169 327</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>186 117</td>
+<td>167 505</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>158 760</td>
+<td>142 884</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>357 532</td>
+<td>321 779</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>134 366</td>
+<td>120 929</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>74 617</td>
+<td>67 155</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Область Абай</td>
-<td>83 856</td>
+<td>75 470</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Область Жетісу</td>
-<td>161 605</td>
+<td>145 444</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Область Ұлытау</td>
-<td>50 748</td>
+<td>45 673</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Павлодарская область</td>
-<td>162 345</td>
+<td>146 111</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Северо-Казахстанская область</td>
-<td>186 142</td>
+<td>167 528</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Туркестанская область</td>
-<td>474 162</td>
+<td>426 746</td>
+</tr>
+<tr>
+<td colspan="3">___________________________________</td>
 </tr>
 </table>
-
-_______________________________
 
 > *Приложение 21*  
 > *к постановлению Правительства*  
@@ -12364,7 +15604,7 @@ _______________________________
 
 ## Перечень государственных заданий на 2024 год
 
-> *Сноска. Приложение 29 с изменениями, внесенными постановлениями Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 19.06.2024 № 482 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 29 с изменениями, внесенными постановлениями Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 19.06.2024 № 482 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024).*
 
 тыс. тенге
 
@@ -12444,8 +15684,11 @@ _______________________________
 <td>Кохлеарная имплантация (далее - КИ) является единственным эффективным методом реабилитации детей с тяжелыми нарушениями слуха (глухотой). Но операция КИ совершенно неэффективна без слухоречевой реабилитации (адаптации). Проведение ее обязательно для развития слуха и речи ребенка с кохлеарным имплантом. Цель слухоречевой адаптации – научить ребенка воспринимать звуковые сигналы (неречевые и речевые), понимать их и использовать новые слуховые ощущения для развития устной речи.</td>
 <td>Министерство труда и социальной защиты населения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный научный центр развития сферы социальной защиты»</td>
-<td>058 «Оказание социальной защиты и помощи населению на республиканском уровне, а также совершенствование системы социальной защиты и развитие инфраструктуры» 102 «Слухоречевая адаптация детей с нарушением слуха после кохлеарной имплантации»</td>
-<td>369 788</td>
+<td>
+058 «Оказание социальной защиты и помощи населению на республиканском уровне, а также совершенствование системы социальной защиты и развитие инфраструктуры»,
+102 «Слухоречевая адаптация детей с нарушением слуха после кохлеарной имплантации»
+</td>
+<td>610160</td>
 </tr>
 <tr>
 <td>7</td>
@@ -12631,6 +15874,42 @@ _______________________________
 <td></td>
 </tr>
 <tr>
+<td>14-7</td>
+<td>Услуги по формированию тестовых заданий и проведению оценки знаний педагогов организаций дошкольного образования (ОЗП ОДО)</td>
+<td>Формирование базы тестовых заданий и проведение оценки знаний педагогов организаций образования, реализующих общеобразовательные учебные программы дошкольного воспитания и обучения</td>
+<td>Министерство просвещения Республики Казахстан</td>
+<td>РГП на ПХВ «Национальный центр тестирования»</td>
+<td>
+003 «Обеспечение доступности дошкольного воспитания и обучения»,
+100 «Методологическое обеспечение в сфере дошкольного образования»
+</td>
+<td>26 091</td>
+</tr>
+<tr>
+<td>14-8</td>
+<td>Услуги по формированию тестовых заданий и проведению оценки знаний педагогов организаций среднего образования (ОЗП ОСО)</td>
+<td>Формирование базы тестовых заданий и проведение оценки знаний педагогов организаций образования, реализующих общеобразовательные учебные программы среднего образования</td>
+<td>Министерство просвещения Республики Казахстан</td>
+<td>РГП на ПХВ «Национальный центр тестирования»</td>
+<td>
+004 «Обеспечение доступности качественного школьного образования»,
+107 «Проведение внешней оценки качества образования»
+</td>
+<td>172 893</td>
+</tr>
+<tr>
+<td>14-9</td>
+<td>Услуги по формированию тестовых заданий и проведению оценки знаний педагогов организаций образования, реализующих образовательные программы технического и профессионального, послесреднего образования (ОЗП ТиПО)</td>
+<td>Формирование базы тестовых заданий и проведение оценки знаний педагогов организаций образования, реализующих образовательные программы технического и профессионального, послесреднего образования (ОЗП ТиПО).</td>
+<td>Министерство просвещения Республики Казахстан</td>
+<td>РГП на ПХВ «Национальный центр тестирования»</td>
+<td>
+006 «Обеспечение кадрами с техническим и профессиональным образованием»,
+101 «Проведение внешней оценки качества технического и профессионального образования»
+</td>
+<td>270 564</td>
+</tr>
+<tr>
 <td>15</td>
 <td>Услуги по сбору и обработке данных статистических наблюдений в области здравоохранения</td>
 <td>Предоставление уполномоченному органу оперативной, ситуационной, медико-cтатистической, аналитической информации на квартальной основе, проведение мониторинга оказанной специализированной медицинской помощи в амбулаторных и стационарных условиях, в том числе деятельности медицинских организаций на уровне сельского здравоохранения</td>
@@ -12760,6 +16039,18 @@ _______________________________
 <td>168 620</td>
 </tr>
 <tr>
+<td>18-1</td>
+<td>Услуги по сопровождению некоторых программных комплексов и электронных регистров (информационных систем) в области здравоохранения, обеспечению эксплуатации национальной телемедицинской сети Республики Казахстан</td>
+<td>Сопровождение программных комплексов (информационных систем) в области здравоохранения</td>
+<td>Министерство здравоохранения Республики Казахстан</td>
+<td>РГП на ПХВ «Республиканский центр электронного здравоохранения»</td>
+<td>
+001 «Формирование государственной политики в области здравоохранения»,
+104 «Обеспечение функционирования информационных систем и информационно-техническое обеспечение государственного органа»
+</td>
+<td>2 593 616</td>
+</tr>
+<tr>
 <td>19</td>
 <td>Организация работы по развитию санитарной авиации Республики Казахстан</td>
 <td>Организация экстренной медицинской помощи населению Республики Казахстан с использованием воздушного транспорта (медицинской авиации). Организация и координация деятельности региональных отделений медицинской авиации. Развитие службы медицинской авиации в Республике Казахстан на основе международных стандартов</td>
@@ -12812,50 +16103,34 @@ _______________________________
 <tr>
 <td>22</td>
 <td>Обеспечение санитарно-эпидемиологического благополучия населения на территориях особо опасных природных очагов инфекции</td>
-<td rowspan="3">
+<td>
 1. Обеспечение биобезопасности и снижение уровня воздействия опасных биологических факторов на здоровье населения Республики Казахстан:
-1.1 Мониторинг и анализ эпизоотического состояния природных очагов чумы на территории Республики Казахстан и санитарно-профилактических мероприятий, проведенных на энзоотичной по чуме территории;
-1.2 Мониторинг и анализ проводимых мероприятий по холере на территории Республики Казахстан;
-1.3 Анализ лабораторных исследований на наличие возбудителей особо опасных и зоонозных инфекций для оценки эпидемиологической ситуации обследуемой территории;
-1.4 Проведение тренировочных учений, инструктажей с сотрудниками звеньев первичной медико-санитарной помощи по городу Алматы по вопросам повышения готовности к реагированию на биологические угрозы и методам личной биологической защиты от заражения при контакте с больным,
-подозрительным на заболевание особо опасной инфекцией человеком, и (или) сельскохозяйственными животными.
-2. Оценка биологических рисков в природных очагах особо опасных инфекций:
-2.1 Сбор и агрегирование информации, официальных данных Всемирной организации здравоохранения, международной информационной сети ProMed и других доступных источников, оценка и подготовка ежемесячного анализа заболеваемости особо опасными инфекциями в мире;
-2.2 Создание в геоинформационных системах аналитических, ситуационных и прогнозных электронных карт эпизоотологического состояния Республики Казахстан по особо опасным инфекциям.
+1.1. Мониторинг и анализ эпизоотического состояния природных очагов чумы на территории Республики Казахстан и санитарно-профилактических мероприятий, проведенных на энзоотичной по чуме территории.
+1.2. Мониторинг и анализ проводимых мероприятий по холере на территории Республики Казахстан.
+1.3. Анализ лабораторных исследований на наличие возбудителей особо опасных и зоонозных инфекций для оценки эпидемиологической ситуации обследуемой территории.
+1.4. Проведение тренировочных учений, инструктажей с сотрудниками звеньев первичной медико-санитарной помощи по городу Алматы и другим городам, областям по вопросам повышения готовности к реагированию на биологические угрозы и методы личной биологической защиты от заражения при контакте с больным, подозрительным на заболевание особо опасной инфекцией человеком и (или) сельскохозяйственными животными.
+1.5. Лабораторные исследования материала от больных и контактных лиц с подозрением на особо опасные инфекции (бактериологические, иммунологические, молекулярно-генетические). Синтез праймеров для детекции специфичных генов ДНК возбудителей особо опасных инфекций.
+2. Оценка биологических рисков в природных очагах особо опасных инфекции:
+2.1. Сбор и агрегирование информации, официальных данных Всемирной организации здравоохранения, международной информационной сети ProMed и других доступных источников, оценка и подготовка ежемесячного анализа заболеваемости особо опасными инфекциями в мире.
+2.2. Создание в геоинформационных системах аналитических, ситуационных и прогнозных электронных карт эпизоотологического состояния Республики Казахстан по особо опасным инфекциям.
 3. Научно-исследовательские и производственные работы:
-3.1 Молекулярно-генетическое изучение штаммов возбудителей особо опасных инфекций методом полимеразной цепной реакции. Генетическое типирование штаммов возбудителей особо опасных инфекций с использованием мультилокусного VNTR анализа (MLVA) и по SNP локусам с помощью метода Melt-MAMA для внутривидовой дифференциации штаммов возбудителей особо опасных инфекций, выделенных на территории Республики Казахстан. Синтез специфичных олигонуклеотидов для проведения полимеразной цепной реакции и детекции единичных нуклеотидных замен (SNP) методом Melt MAMA, подбор оптимальных параметров амплификации;
-3.2 Приготовление иммунобиологических и диагностических препаратов для диагностики особо опасных инфекций согласно заявок противочумных станций на 2024 год;
-3.3 Подготовка инструктивно-методических документов, используемых при работе с возбудителями инфекций I-II групп патогенности.
+3.1. Молекулярно-генетическое изучение штаммов возбудителей особо опасных инфекций методом полимеразной цепной реакции. Генетическое типирование штаммов возбудителей особо опасных инфекций с использованием мультилокусного VNTR анализа (MLVA) и по SNP локусам с помощью метода Melt-MAMA для внутривидовой дифференциации штаммов возбудителей особо опасных инфекций, выделенных на территории Республики Казахстан. Синтез специфичных олигонуклеотидов для проведения полимеразной цепной реакции и детекции единичных нуклеотидных замен (SNP) методом Melt MAMA, подбор оптимальных параметров амплификации.
+3.2. Приготовление иммунобиологических и диагностических препаратов для диагностики особо опасных инфекций согласно заявок противочумных станций на 2024 год.
+3.3. Подготовка инструктивно-методических документов, используемых при работе с возбудителями инфекций I-II групп патогенности.
 4. Услуги по поддержанию жизнеспособности национальной и рабочей коллекций микроорганизмов:
-4.1 Паспортизация свежевыделенных штаммов особо опасных и зоонозных инфекций;
-4.2 Депонирование коллекционных штаммов особо опасных инфекций;
-4.3 Поддержание жизнеспособности и контроль основных биологических свойств штаммов коллекции микроорганизмов.
-5. Анализ и оценка деятельности ГУ «Противочумные станции» Комитета санитарно-эпидемиологического контроля Министерства здравоохранения Республики Казахстан по обеспечению биобезопасности в сфере здравоохранения:
-5.1 Анализ и оценка деятельности противочумных станций по организационно-методической работе, состоянию физической защищенности объектов по оценке биологических рисков в лабораториях.
+4.1. Паспортизация свежевыделенных штаммов особо опасных и зоонозных инфекций.
+4.2. Депонирование коллекционных штаммов особо опасных инфекций.
+4.3. Поддержание жизнеспособности и контроль основных биологических свойств штаммов коллекции микроорганизмов.
+5. Анализ и оценка деятельности государственного учреждения «Противочумные станции» Комитета санитарно-эпидемиологического контроля Министерства здравоохранения Республики Казахстан по обеспечению биобезопасности в сфере здравоохранения:
+5.1. Анализ и оценка деятельности противочумных станций по организационно-методической работе, состоянию физической защищенности объектов по оценке биологических рисков в лабораториях.
 </td>
 <td>Министерство здравоохранения Республики Казахстан</td>
 <td>РГП на ПХВ «Национальный научный центр особо опасных инфекций имени Масгута Айкимбаева»</td>
 <td>
-070 «Охрана общественного здоровья»
+070 «Охрана общественного здоровья»,
 100 «Обеспечение санитарно-эпидемиологического благополучия населения»
 </td>
-<td>689 582</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1 014 600</td>
 </tr>
 <tr>
 <td>23</td>
@@ -13049,11 +16324,14 @@ _______________________________
 <tr>
 <td>37</td>
 <td>Предоставление услуг в сфере развития государственного языка и других языков народа Казахстана</td>
-<td>Проведение мероприятий по реализации Государственной языковой политики в Республике Казахстан.</td>
+<td>Проведение мероприятий по реализации Государственной языковой политики в Республике Казахстан</td>
 <td>Министерство науки и высшего образования Республики Казахстан</td>
 <td>НАО «Национальный научно-практический центр «Тіл-Қазына» имени Шайсултана Шаяхметова»</td>
-<td>230 «Развитие государственного языка и других языков народа Казахстана» подпрограмма 100 «Обеспечение развития государственного языка и других языков народа Казахстана»</td>
-<td>1 093 186</td>
+<td>
+230 «Развитие государственного языка и других языков народа Казахстана»,
+100 «Обеспечение развития государственного языка и других языков народа Казахстана»
+</td>
+<td>1 084 020</td>
 </tr>
 <tr>
 <td>38</td>
