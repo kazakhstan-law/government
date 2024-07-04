@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/188313/rus/19.03.2024
+source: https://zan.gov.kz/client/#!/doc/188313/rus/04.07.2024
 ---
 
 # Некоторые вопросы Министерства транспорта Республики Казахстан
