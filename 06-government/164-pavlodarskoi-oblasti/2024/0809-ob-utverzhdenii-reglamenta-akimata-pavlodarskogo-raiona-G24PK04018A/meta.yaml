@@ -1,0 +1,25 @@
+key: G24PK04018A
+akn: /akn/kz/act/2024-08-09/G24PK04018A
+act_code: '199702'
+requisite: Постановление акимата Павлодарского района Павлодарской области от 9 августа 2024 года № 401/8
+title:
+  rus: Об утверждении регламента акимата Павлодарского района
+  kaz: Павлодар ауданы әкімдігінің регламентін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- РЕГЛ
+approved_on: 2024-08-09
+approved_by:
+- '164014000001'
+versions:
+- date: 2024-08-09
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2024-08-09
+  rus: 2024-08-09
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/199702/kaz/09.08.2024
+  rus: https://zan.gov.kz/client/#!/doc/199702/rus/09.08.2024
