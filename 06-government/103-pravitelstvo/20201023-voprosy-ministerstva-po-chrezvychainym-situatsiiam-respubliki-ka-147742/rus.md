@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/147742/rus/17.07.2024
+source: https://zan.gov.kz/client/#!/doc/147742/rus/29.08.2024
 ---
 
 # Вопросы Министерства по чрезвычайным ситуациям Республики Казахстан
