@@ -1,0 +1,17 @@
+act_code: '200388'
+requisite: Постановление Правительства Республики Казахстан от 29 августа 2024 года № 707
+title:
+  rus: О создании акционерного общества «Теңіз жасағы»
+  kaz: «Теңіз жасағы» акционерлік қоғамын құру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2024-08-29
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2024-08-29
+  rus: 2024-08-29
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/200388/kaz/29.08.2024
+  rus: https://zan.gov.kz/client/#!/doc/200388/rus/29.08.2024
