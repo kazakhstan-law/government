@@ -1,5 +1,5 @@
 ---
-version_id: '190062_720537'
+version_id: '190062_724504'
 act_code: '190062'
 language: kaz
 title: «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-08-28
+version_date: 2024-09-25
 registry_number: '190062'
 caused_by:
-  code: '200182'
+  code: '201606'
   title: 2024 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2023 жылғы 12 желтоқсандағы № 1108 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/200182/kaz
-source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
+  link: https://zan.gov.kz/client/#!/doc/201606/kaz
+source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 ---
 
 # «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 
 ## Басым республикалық бюджеттік инвестициялардың тізбесі
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 08.04.2024 № 259 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 09.08.2024 № 643 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 08.04.2024 № 259 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 09.08.2024 № 643 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Барлығы:</th>
-<th colspan="6">2 280 972 580</th>
+<th colspan="6">2 277 765 250</th>
 <th colspan="2">996 572 394</th>
 <th>105 457 677</th>
 </tr>
@@ -181,7 +181,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">I. Республикалық бюджеттік инвестициялық жобалар</th>
-<th colspan="6">272 596 328</th>
+<th colspan="6">270 113 585</th>
 <th colspan="2">116 475 775</th>
 <th>72 432 302</th>
 </tr>
@@ -492,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қорғаныс</th>
-<th colspan="6">45 710 329</th>
+<th colspan="6">45 873 239</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -502,7 +502,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Төтенше жағдайлар министрлігі</th>
-<th colspan="6">29 536 595</th>
+<th colspan="6">29 699 505</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -512,7 +512,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>006</td>
 <td colspan="3"></td>
 <td colspan="4">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
-<td colspan="6">29 536 595</td>
+<td colspan="6">29 699 505</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -523,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">100</td>
 <td></td>
 <td colspan="3">Табиғи және техногендік сипаттағы төтенше жағдайлардан қорғау объектілерін салу және реконструкциялау</td>
-<td colspan="6">29 536 595</td>
+<td colspan="6">29 699 505</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -590,6 +590,28 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td></td>
 <td colspan="3">Алматы облысы Панфилов ауданында «Қорғас» шекара маңы ынтымақтастығы халықаралық орталығы (ШЫХО), «Қорғас-Шығыс қақпасы» шекара маңы сауда-экономикалық аймағы (ШСЭА), Басқыншы, Қорғас кенттері және шекара маңы бекеті учаскелерінде Қорғас өзені бойынша арна қалыптастыру және қорғау құрылыстары</td>
 <td colspan="6">4 915 713</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Астана қаласы</td>
+<td colspan="6">162 910</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Қазақстан Республикасы Төтенше жағдайлар министрлігі М. Ғабдуллин атындағы Азаматтық қорғау академиясының жаңа кешенін салуға арналған ЖСҚ әзірлеу</td>
+<td colspan="6">162 910</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -707,7 +729,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</th>
-<th colspan="6">10 832 562</th>
+<th colspan="6">10 829 137</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -717,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Ішкі істер министрлігі</th>
-<th colspan="6">5 371 991</th>
+<th colspan="6">5 369 443</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -793,7 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қылмыстық-атқару жүйесінің қызметін ұйымдастыру</td>
-<td colspan="6">3 359 105</td>
+<td colspan="6">3 356 557</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -804,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">102</td>
 <td></td>
 <td colspan="3">Қылмыстық-атқару жүйесінің объектілерін салу, реконструкциялау</td>
-<td colspan="6">3 359 105</td>
+<td colspan="6">3 356 557</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -826,7 +848,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Ақмола облысы</td>
-<td colspan="6">2 333 928</td>
+<td colspan="6">2 329 023</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -837,7 +859,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Ақмола облысы, Аршалы ауданы, Аршалы кенті «№ 2 мекемесі» РММ-де жалпы толтыру лимиті 280 орынға дейінгі екі тұрғын үй блогының құрылысы (әр тұрғын блокта 140 орыннан)</td>
-<td colspan="6">1 160 846</td>
+<td colspan="6">1 157 165</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -848,7 +870,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Ақмола облысы, Зеренді ауданы, Қонысбай ауылдық округі, Гранитный кенті «№ 7 мекемесі» РММ-де жалпы толтыру лимиті 280 орынға дейінгі екі тұрғын үй блогының құрылысы (әр тұрғын блокта 140 орыннан)</td>
-<td colspan="6">1 173 082</td>
+<td colspan="6">1 171 858</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -859,7 +881,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Шығыс Қазақстан облысы</td>
-<td colspan="6">2 854</td>
+<td colspan="6">4 496</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -870,7 +892,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«ШҚО Өскемен қаласындағы Грейдерная көшесі бойында 1500 орындық тергеу изоляторы» объектісі бойынша мемлекеттік сараптама қорытындысын ала отырып, ЖСҚ түзету</td>
-<td colspan="6">2 854</td>
+<td colspan="6">4 496</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -881,7 +903,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қарағанды облысы</td>
-<td colspan="6">2 095</td>
+<td colspan="6">2 969</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -892,7 +914,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«ҚР ТЖ 1500 МТМ (ІВ, IIIА)-2.2-2012) қалыпты геологиялық жағдайлармен ІВ, IIIА климаттық кіші аудандары үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған «АК-159/6 мекемесінде» жалпы толтыру лимиті 276 орындық үш тұрғын блогын (модульдік қазандық орнатумен) салу» объектісі бойынша мемлекеттік сараптама қорытындысын ала отырып, ЖСҚ әзірлеу</td>
-<td colspan="6">2 095</td>
+<td colspan="6">2 969</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -903,7 +925,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қостанай облысы</td>
-<td colspan="6">1 243</td>
+<td colspan="6">1 922</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -914,7 +936,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«(ҚР ТЖ 1500 МТМ (IВ, IIIA)-2.2-2012) қалыпты геологиялық жағдайлармен (IВ, ША) климаттық кіші аудандары үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған ҚР ІІМ ҚАЖК «УК-161/3 мекемесі» РММ жалпы толтыру лимиті 92 орындық тұрғын блогын салу» объектісі бойынша мемлекеттік сараптама қорытындысын ала отырып, ЖСҚ әзірлеу</td>
-<td colspan="6">1 243</td>
+<td colspan="6">1 922</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -925,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Маңғыстау облысы</td>
-<td colspan="6">3 345</td>
+<td colspan="6">6 057</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -936,7 +958,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«Маңғыстау облысының Ақтау қаласындағы ГМ-172/6 мекемесінің базасында 840 орындық толтыру лимитімен ұстаудың аралас түрі бар мамандандырылған түзеу мекемесін салу (қауіпсіздігі орташа және барынша жоғары) (ТЖ ҚР 1500 МТМ (ІVA, IVГ)-2.2-2012) қалыпты геологиялық жағдайлармен ІVA, IVГ климаттық кіші аудандары үшін «1500 орынға арналған мамандандырылған түзеу мекемесі» үлгілік жобасынан алынған ғимараттар мен құрылыстарды жергілікті жерге байланыстыру» объектісі бойынша мемлекеттік сараптама қорытындысын ала отырып, ЖСҚ әзірлеу</td>
-<td colspan="6">3 345</td>
+<td colspan="6">6 057</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -947,7 +969,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Павлодар облысы</td>
-<td colspan="6">1 015 640</td>
+<td colspan="6">1 012 090</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -958,7 +980,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">ҚР ІІМ ҚАЖК АП-162/2 мекемесінде жалпы толтыру лимиті 280 орынға дейінгі екі тұрғын үй блогының құрылысы. Байланыстыру</td>
-<td colspan="6">1 015 640</td>
+<td colspan="6">1 012 090</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1119,7 +1141,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Бас прокуратурасы</th>
-<th colspan="6">301 037</th>
+<th colspan="6">300 160</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -1129,7 +1151,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>015</td>
 <td colspan="3"></td>
 <td colspan="4">Құқықтық статистикалық ақпаратпен қамтамасыз етудің жедел жүйесін құру</td>
-<td colspan="6">301 037</td>
+<td colspan="6">300 160</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1140,7 +1162,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">104</td>
 <td></td>
 <td colspan="3">Ақпараттық жүйелерін құру, дамыту</td>
-<td colspan="6">301 037</td>
+<td colspan="6">300 160</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1162,7 +1184,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Өзгелер</th>
-<th colspan="6">301 037</th>
+<th colspan="6">300 160</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -1173,7 +1195,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қазақстан Республикасы Бас прокуратурасының Бірыңғай ақпараттық-талдау жүйесін дамыту</td>
-<td colspan="6">301 037</td>
+<td colspan="6">300 160</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1374,7 +1396,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Мәдениет, спорт, туризм және ақпараттық кеңістiк</th>
-<th colspan="6">4 534 480</th>
+<th colspan="6">1 963 301</th>
 <th colspan="2">14 260 662</th>
 <th>15 370 741</th>
 </tr>
@@ -1385,7 +1407,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Қазақстан Республикасы Туризм және спорт министрлігі</th>
-<th colspan="6">643 294</th>
+<th colspan="6">652 058</th>
 <th colspan="2">14 260 662</th>
 <th>15 370 741</th>
 </tr>
@@ -1395,7 +1417,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>036</td>
 <td colspan="3"></td>
 <td colspan="4">Жоғары жетістіктер спортын дамыту</td>
-<td colspan="6">643 294</td>
+<td colspan="6">652 058</td>
 <td colspan="2">14 260 662</td>
 <td>15 370 741</td>
 </tr>
@@ -1406,7 +1428,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">101</td>
 <td></td>
 <td colspan="3">Республикалық бюджет қаражаты есебінен спорт объектілерін салу, реконструкциялау</td>
-<td colspan="6">643 294</td>
+<td colspan="6">652 058</td>
 <td colspan="2">14 260 662</td>
 <td>15 370 741</td>
 </tr>
@@ -1428,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="6">643 294</th>
+<th colspan="6">652 058</th>
 <th colspan="2">14 260 662</th>
 <th>15 370 741</th>
 </tr>
@@ -1439,7 +1461,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">«Астана қаласындағы олимпиадалық дайындық орталығы» көп функционалды спорт кешені» базасында Қазақстан Республикасының Ұлттық спорт университетін салу. І кезек (сыртқы инженерлік желілерсіз)</td>
-<td colspan="6">618 621</td>
+<td colspan="6">627 385</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1460,7 +1482,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Мәдениет және ақпарат министрлігі</th>
-<th colspan="6">3 891 186</th>
+<th colspan="6">1 311 243</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -1470,7 +1492,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>033</td>
 <td colspan="3"></td>
 <td colspan="4">Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру</td>
-<td colspan="6">3 891 186</td>
+<td colspan="6">1 311 243</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1481,7 +1503,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">102</td>
 <td></td>
 <td colspan="3">Республикалық бюджет қаражаты есебінен мәдениет объектілерін салу, реконструкциялау</td>
-<td colspan="6">3 891 186</td>
+<td colspan="6">1 311 243</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -1497,13 +1519,68 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Түркістан облысы</td>
+<td colspan="6">136 274</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Түркістан облысы, Түркістан қаласы «Әзірет Сұлтан» мемлекеттік тарихи-мәдени музей-қорығының «Гаухар ана» кесенесі аймағында қызметкерлерге арналған жатақханасы бар Сапар орталығының құрылысы</td>
+<td colspan="6">44 325</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Түркістан облысы, Ордабасы ауданы, Ордабасы ауылы, «Ордабасы» сапар орталығының құрылысы (түзету)</td>
+<td colspan="6">91 949</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">Алматы қаласы</td>
+<td colspan="6">1 635</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
+<td colspan="3">«Орталық мемлекеттік архив» РММ қосымша архив сақтау орны құрылысының жобалау-сметалық құжаттамасын әзірлеу</td>
+<td colspan="6">1 635</td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
 <th></th>
 <th></th>
 <th></th>
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="6">3 891 186</th>
+<th colspan="6">1 173 334</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -1514,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Нұр-Сұлтан қаласындағы, «Есіл» ауданындағы, «Ильинка» тұрғын алабының солтүстігіндегі объектінің жұмыс істеуі үшін қажетті сыртқы желілер мен инженерлік құрылыстарды әзірлей отырып «Көне Бозоқ қалашығының археологиялық қазба жұмыстары негізінде ашық аспан астындағы Ұлттық парктің орта ғасыр сәулет стиліндегі қоршауын салу</td>
-<td colspan="6">3 891 186</td>
+<td colspan="6">1 173 334</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2049,7 +2126,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Көлiк және коммуникация</th>
-<th colspan="6">79 980 531</th>
+<th colspan="6">79 928 531</th>
 <th colspan="2">65 550 814</th>
 <th>57 061 561</th>
 </tr>
@@ -2059,7 +2136,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Цифрлық даму, инновациялар жəне аэроғарыш өнеркəсібі министрлігі</th>
-<th colspan="6">26 004 576</th>
+<th colspan="6">25 952 576</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -2069,7 +2146,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>007</td>
 <td colspan="3"></td>
 <td colspan="4">Елімізді мемлекеттік геодезиялық және картографиялық қамтамасыз ету деңгейін арттыру</td>
-<td colspan="6">4 304 576</td>
+<td colspan="6">4 252 576</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2080,7 +2157,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">102</td>
 <td></td>
 <td colspan="3">Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
-<td colspan="6">4 304 576</td>
+<td colspan="6">4 252 576</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2102,7 +2179,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Өзгелер</th>
-<th colspan="6">4 304 576</th>
+<th colspan="6">4 252 576</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -2113,7 +2190,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру</td>
-<td colspan="6">4 304 576</td>
+<td colspan="6">4 252 576</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2942,7 +3019,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Басқалар</th>
-<th colspan="6">80 117 454</th>
+<th colspan="6">80 098 405</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -2952,7 +3029,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Қазақстан Республикасы Президентiнiң Іс Басқармасы</th>
-<th colspan="6">80 117 454</th>
+<th colspan="6">80 098 405</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -2962,7 +3039,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td>008</td>
 <td colspan="3"></td>
 <td colspan="4">Қазақстан Республикасы Президенті Іс Басқармасының объектілерін салу және реконструкциялау</td>
-<td colspan="6">80 117 454</td>
+<td colspan="6">80 098 405</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -2984,7 +3061,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="6">80 117 454</th>
+<th colspan="6">80 098 405</th>
 <th colspan="2"></th>
 <th></th>
 </tr>
@@ -2995,7 +3072,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Қызмет бабында пайдалану үшін</td>
-<td colspan="6">79 835 554</td>
+<td colspan="6">79 816 505</td>
 <td colspan="2"></td>
 <td></td>
 </tr>
@@ -3172,7 +3249,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">III. Нысаналы даму трансферттері</th>
-<th colspan="8">153 446 558</th>
+<th colspan="8">152 721 971</th>
 <th colspan="2">879 959 290</th>
 <th colspan="2">32 888 046</th>
 </tr>
@@ -4035,7 +4112,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Қарағанды облысы</th>
-<th colspan="8">378 432</th>
+<th colspan="8">359 126</th>
 <th colspan="2">1 955 061</th>
 <th colspan="2"></th>
 </tr>
@@ -4046,7 +4123,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Қостанай облысы</th>
-<th colspan="8">300 000</th>
+<th colspan="8">319 306</th>
 <th colspan="2">4 336 031</th>
 <th colspan="2"></th>
 </tr>
@@ -4602,7 +4679,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</th>
-<th colspan="8">12 044 209</th>
+<th colspan="8">11 319 622</th>
 <th colspan="2">18 838 719</th>
 <th colspan="2"></th>
 </tr>
@@ -4612,7 +4689,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">Қазақстан Республикасы Экология және табиғи ресурстар министрлігі</th>
-<th colspan="8">4 624 370</th>
+<th colspan="8">3 899 783</th>
 <th colspan="2">3 311 905</th>
 <th colspan="2"></th>
 </tr>
@@ -4622,7 +4699,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3">037</td>
 <td colspan="4"></td>
 <td colspan="9">Қоршаған ортаның сапасын тұрақтандыру және жақсарту</td>
-<td colspan="8">4 124 370</td>
+<td colspan="8">3 399 783</td>
 <td colspan="2">3 311 905</td>
 <td colspan="2"></td>
 </tr>
@@ -4633,7 +4710,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="4">105</td>
 <td colspan="7"></td>
 <td colspan="2">Республикалық бюджет қаражаты есебінен облыстық бюджеттерге, республикалық маңызы бар қалалардың, астана бюджеттеріне қоршаған ортаны қорғау объектілерін салуға және реконструкциялауға берілетін нысаналы даму трансферттері</td>
-<td colspan="8">4 124 370</td>
+<td colspan="8">3 399 783</td>
 <td colspan="2">3 311 905</td>
 <td colspan="2"></td>
 </tr>
@@ -4666,7 +4743,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Маңғыстау облысы</th>
-<th colspan="8">2 379 884</th>
+<th colspan="8">1 655 297</th>
 <th colspan="2">2 307 066</th>
 <th colspan="2"></th>
 </tr>
@@ -5214,7 +5291,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="4">102</td>
 <td colspan="7"></td>
 <td colspan="2">Облыстық бюджеттерге облыс орталықтарына инженерлік және көлік (аббаттандыру) инфрақұрылымын дамытуға берілетін нысаналы даму трансферттері</td>
-<td colspan="8">5 915 102</td>
+<td colspan="8">5 945 680</td>
 <td colspan="2">4 406 870</td>
 <td colspan="2">162 522</td>
 </tr>
@@ -5247,7 +5324,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Атырау облысы</th>
-<th colspan="8">2 185 102</th>
+<th colspan="8">2 085 102</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -5258,7 +5335,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Шығыс Қазақстан облысы</th>
-<th colspan="8"></th>
+<th colspan="8">130 578</th>
 <th colspan="2">211 471</th>
 <th colspan="2">162 522</th>
 </tr>
@@ -5313,7 +5390,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="4">108</td>
 <td colspan="7"></td>
 <td colspan="2">Облыстық бюджеттерге «Ауыл-Ел бесігі» жобасы шеңберінде ауылдық елді мекендердегі әлеуметтік және инженерлік инфрақұрылымдарды дамытуға берілетін нысаналы даму трансферттері</td>
-<td colspan="8">28 600 000</td>
+<td colspan="8">28 569 422</td>
 <td colspan="2">4 573 083</td>
 <td colspan="2"></td>
 </tr>
@@ -5489,7 +5566,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Павлодар облысы</th>
-<th colspan="8">1 673 720</th>
+<th colspan="8">1 643 142</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -9813,7 +9890,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Республикалық маңызы бар «Үшарал - Достық» автожолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="8">3 822 961</td>
+<td colspan="8">7 822 961</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -9857,7 +9934,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Ақтөбе - Қарабұтақ - Ұлғайсын» автомобиль жолын реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="8">16 000 000</td>
+<td colspan="8">11 823 300</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -9890,7 +9967,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Республикалық маңызы бар «Астана - Петропавл» автомобиль жолының «Бурабай - Көкшетау-Петропавл - РФ шекарасы» транзиттік дәлізін реконструкциялау және жобалау-іздестіру жұмыстары</td>
-<td colspan="8">6 417 846</td>
+<td colspan="8">3 594 546</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -9901,7 +9978,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Өскемен - Зырян - Үлкен Нарын - Қатонқарағай - Рахман қайнары» автомобиль жолынын реконструкциялау және жобалау-іздестіру</td>
-<td colspan="8">5 000 000</td>
+<td colspan="8">8 000 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -10295,7 +10372,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қазақстан-Ресей шекарасындағы «Сырым» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td colspan="8">2 643 008</td>
+<td colspan="8">3 464 511</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -10306,7 +10383,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қазақстан-Ресей шекарасындағы «Әлімбет» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td colspan="8">997 909</td>
+<td colspan="8">1 997 910</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -10327,8 +10404,8 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td colspan="7"></td>
-<td colspan="3">Қазақстан-Ресей шекарасындағы «Қосақ» автомобиль өткізу пунктінің жобалау-іздестіру жұмыстары, жаңғырту және реконструкциялау</td>
-<td colspan="8">2 643 007</td>
+<td colspan="3"></td>
+<td colspan="8"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -10350,7 +10427,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Бесағаш» автомобиль өткізу пунктін салу</td>
-<td colspan="8">3 412 779</td>
+<td colspan="8">4 234 282</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -10423,7 +10500,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақмола облысы</th>
-<th colspan="8">35 124 082</th>
+<th colspan="8">40 338 069</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10434,7 +10511,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақтөбе облысы</th>
-<th colspan="8">28 379 692</th>
+<th colspan="8">25 642 549</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10445,7 +10522,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Алматы облысы</th>
-<th colspan="8">74 972 512</th>
+<th colspan="8">63 754 672</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10456,7 +10533,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Атырау облысы</th>
-<th colspan="8">22 149 708</th>
+<th colspan="8">27 038 225</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10467,7 +10544,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Шығыс Қазақстан облысы</th>
-<th colspan="8">14 857 879</th>
+<th colspan="8">17 949 330</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10489,7 +10566,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Батыс Қазақстан облысы</th>
-<th colspan="8">19 212 771</th>
+<th colspan="8">17 562 087</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10511,7 +10588,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қостанай облысы</th>
-<th colspan="8">15 228 906</th>
+<th colspan="8">16 069 055</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10522,7 +10599,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қызылорда облысы</th>
-<th colspan="8">24 520 280</th>
+<th colspan="8">21 257 976</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10533,7 +10610,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Маңғыстау облысы</th>
-<th colspan="8">23 211 743</th>
+<th colspan="8">21 289 716</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10544,7 +10621,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Абай облысы</th>
-<th colspan="8">12 092 984</th>
+<th colspan="8">12 137 058</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10555,7 +10632,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жетісу облысы</th>
-<th colspan="8">11 066 901</th>
+<th colspan="8">8 248 533</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10566,7 +10643,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ұлытау облысы</th>
-<th colspan="8">5 195 564</th>
+<th colspan="8">2 580 797</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10577,7 +10654,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Павлодар облысы</th>
-<th colspan="8">8 975 449</th>
+<th colspan="8">4 698 150</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10588,7 +10665,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Солтүстік Қазақстан облысы</th>
-<th colspan="8">6 981 765</th>
+<th colspan="8">6 474 878</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10599,7 +10676,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Түркістан облысы</th>
-<th colspan="8">84 707 881</th>
+<th colspan="8">84 414 280</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10610,7 +10687,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Шымкент қаласы</th>
-<th colspan="8">42 206 339</th>
+<th colspan="8">53 695 310</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10621,7 +10698,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Алматы қаласы</th>
-<th colspan="8">63 233 698</th>
+<th colspan="8">66 435 010</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -10632,7 +10709,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="8">118 617 683</th>
+<th colspan="8">121 150 142</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11282,7 +11359,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Батыс Қазақстан облысы</th>
-<th colspan="8">3 498 672</th>
+<th colspan="8">3 536 370</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11293,7 +11370,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қарағанды облысы</th>
-<th colspan="8">4 536 494</th>
+<th colspan="8">3 821 577</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11337,7 +11414,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жетісу облысы</th>
-<th colspan="8">6 325 265</th>
+<th colspan="8">7 002 484</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11403,7 +11480,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақмола облысы</th>
-<th colspan="8">3 993 633</th>
+<th colspan="8">3 983 229</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11458,7 +11535,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қостанай облысы</th>
-<th colspan="8">7 762 234</th>
+<th colspan="8">7 732 661</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11480,7 +11557,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Маңғыстау облысы</th>
-<th colspan="8">6 914 001</th>
+<th colspan="8">7 803 736</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11524,7 +11601,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Солтүстік Қазақстан облысы</th>
-<th colspan="8">4 210 394</th>
+<th colspan="8">3 360 636</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11667,7 +11744,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қарағанды облысы</th>
-<th colspan="8">3 407 990</th>
+<th colspan="8">3 349 216</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11678,7 +11755,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қостанай облысы</th>
-<th colspan="8">5 364 706</th>
+<th colspan="8">5 423 480</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11884,7 +11961,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жамбыл облысы</th>
-<th colspan="8">4 111 259</th>
+<th colspan="8">3 611 259</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11895,7 +11972,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қарағанды облысы</th>
-<th colspan="8">4 285 089</th>
+<th colspan="8">3 148 369</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11939,7 +12016,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жетісу облысы</th>
-<th colspan="8">4 139 729</th>
+<th colspan="8">4 604 134</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11950,7 +12027,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ұлытау облысы</th>
-<th colspan="8">3 924 772</th>
+<th colspan="8">1 077 163</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -11961,7 +12038,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Түркістан облысы</th>
-<th colspan="8">4 695 623</th>
+<th colspan="8">8 715 547</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12323,7 +12400,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Алматы облысы</th>
-<th colspan="8">4 437 903</th>
+<th colspan="8">3 752 409</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12367,7 +12444,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қарағанды облысы</th>
-<th colspan="8">1 483 329</th>
+<th colspan="8">933 329</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12411,7 +12488,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жетісу облысы</th>
-<th colspan="8">4 482 567</th>
+<th colspan="8">5 032 567</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12433,7 +12510,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Павлодар облысы</th>
-<th colspan="8">3 503 186</th>
+<th colspan="8">3 431 366</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12455,7 +12532,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Шымкент қаласы</th>
-<th colspan="8">5 811 730</th>
+<th colspan="8">6 809 766</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12477,7 +12554,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="8">2 568 923</th>
+<th colspan="8">2 328 201</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12520,7 +12597,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қарағанды облысы</th>
-<th colspan="8">3 413 490</th>
+<th colspan="8">4 327 145</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12531,7 +12608,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Павлодар облысы</th>
-<th colspan="8">5 706 510</th>
+<th colspan="8">4 792 855</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -13044,7 +13121,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақмола облысы</th>
-<th colspan="8">7 500 000</th>
+<th colspan="8">9 200 000</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -13066,7 +13143,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Астана қаласы</th>
-<th colspan="8">5 000 000</th>
+<th colspan="8">3 300 000</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -13082,7 +13159,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/28.08.2024
 
 ## Қазақстан Республикасы Төтенше жағдай, Қорғаныс министрліктерінің, Президентi Іс басқармасының басым республикалық бюджеттік инвестицияларының тізбесі
 
-> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 2-қосымша жаңа редакцияда - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -13372,6 +13449,8 @@ _______________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне ауыл шаруашылығы жануарларын сәйкестендіруді жүргізуге арналған құралдарды (бұйымдарды) және атрибуттарды сатып алуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
+> *Ескерту. 6-қосымшаға өзгеріс енгізілді - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
 <td colspan="3">Р/с №</td>
@@ -13381,7 +13460,7 @@ _______________________________
 <tr>
 <th colspan="3"></th>
 <th colspan="12">Барлығы</th>
-<th colspan="5">1 367 031</th>
+<th colspan="5">1 361 681</th>
 </tr>
 <tr>
 <td colspan="3">1.</td>
@@ -13411,7 +13490,7 @@ _______________________________
 <tr>
 <td colspan="3">6.</td>
 <td colspan="12">Жамбыл облысы</td>
-<td colspan="5">187 072</td>
+<td colspan="5">186 065</td>
 </tr>
 <tr>
 <td colspan="3">7.</td>
@@ -13466,7 +13545,7 @@ _______________________________
 <tr>
 <td colspan="3">17.</td>
 <td colspan="12">Түркістан облысы</td>
-<td colspan="5">228 586</td>
+<td colspan="5">224 243</td>
 </tr>
 <tr>
 <td colspan="3">18.</td>
@@ -13495,13 +13574,13 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2023 жылғы 12 желтоқсандағы*  
+> *2023 жылғы «12» желтоқсандағы*  
 > *№ 1108 қаулысына*  
 > *7-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне Қазақстан Республикасында мүгедектігі бар адамдардың құқықтарын қамтамасыз етуге және өмір сүру сапасын жақсартуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 7-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 7-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -13518,18 +13597,18 @@ _______________________________
 <tr>
 <th></th>
 <th>Барлығы</th>
-<th>17 960 676</th>
-<th>661 939</th>
-<th>16 024 855</th>
-<th>1 273 882</th>
+<th>16 739 069</th>
+<th>623 938</th>
+<th>15 390 131</th>
+<th>725 000</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>623 639</td>
-<td>20 256</td>
+<td>564 032</td>
+<td>18 524</td>
 <td>528 184</td>
-<td>75 199</td>
+<td>17 324</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -13550,18 +13629,18 @@ _______________________________
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>627 089</td>
-<td>28 938</td>
+<td>612 315</td>
+<td>26 560</td>
 <td>585 755</td>
-<td>12 396</td>
+<td>0</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>819 233</td>
-<td>31 831</td>
-<td>594 445</td>
-<td>192 957</td>
+<td>620 088</td>
+<td>16 858</td>
+<td>591 787</td>
+<td>11 443</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -13582,18 +13661,18 @@ _______________________________
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>1 087 290</td>
+<td>724 976</td>
 <td>20 415</td>
-<td>1 063 528</td>
+<td>701 214</td>
 <td>3 347</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>669 526</td>
-<td>48 300</td>
-<td>561 315</td>
-<td>59 911</td>
+<td>617 632</td>
+<td>41 258</td>
+<td>559 649</td>
+<td>16 725</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -13606,18 +13685,18 @@ _______________________________
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>1 096 977</td>
-<td>37 619</td>
+<td>962 844</td>
+<td>35 585</td>
 <td>915 157</td>
-<td>144 201</td>
+<td>12 102</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Абай облысы</td>
-<td>545 333</td>
-<td>20 257</td>
-<td>504 830</td>
-<td>20 246</td>
+<td>265 242</td>
+<td>13 612</td>
+<td>238 100</td>
+<td>13 530</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -13638,18 +13717,18 @@ _______________________________
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>751 729</td>
-<td>23 150</td>
+<td>740 509</td>
+<td>20 406</td>
 <td>691 392</td>
-<td>37 187</td>
+<td>28 711</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
-<td>537 996</td>
-<td>14 469</td>
-<td>487 993</td>
-<td>35 534</td>
+<td>507 102</td>
+<td>14 016</td>
+<td>486 637</td>
+<td>6 449</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -13670,10 +13749,10 @@ _______________________________
 <tr>
 <td>19.</td>
 <td>Астана қаласы</td>
-<td>1 029 342</td>
+<td>951 807</td>
 <td>69 450</td>
 <td>868 992</td>
-<td>90 900</td>
+<td>13 365</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -13690,11 +13769,139 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
+> *7-1-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне арнаулы әлеуметтік қызметтер көрсету орталықтарындағы медицина қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. Қаулы 7-1-қосымшамен толықтырылды - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<th></th>
+<th>Барлығы</th>
+<th>3 047 694</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>169 742</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>68 377</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>89 288</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>83 654</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>216 756</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>213 851</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>170 339</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>237 304</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>163 041</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>186 808</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>76 307</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>171 625</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>195 320</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>14 426</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>214 669</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>144 353</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>151 631</td>
+</tr>
+<tr>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>205 519</td>
+</tr>
+<tr>
+<td>19.</td>
+<td>Астана қаласы</td>
+<td>130 536</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>144 148</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
 > *2023 жылғы « »*  
 > *№ қаулысына*  
 > *8-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне еңбек мобильділігі орталықтарының қызметін қамтамасыз етуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. 8-қосымшаға өзгеріс енгізілді - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
@@ -13705,7 +13912,7 @@ _______________________________
 <tr>
 <th colspan="4"></th>
 <th colspan="12">Барлығы</th>
-<th colspan="5">2 452 787</th>
+<th colspan="5">2 424 760</th>
 </tr>
 <tr>
 <td colspan="4">1.</td>
@@ -13745,7 +13952,7 @@ _______________________________
 <tr>
 <td colspan="4">8.</td>
 <td colspan="12">Қарағанды облысы</td>
-<td colspan="5">127 108</td>
+<td colspan="5">112 855</td>
 </tr>
 <tr>
 <td colspan="4">9.</td>
@@ -13760,7 +13967,7 @@ _______________________________
 <tr>
 <td colspan="4">11.</td>
 <td colspan="12">Маңғыстау облысы</td>
-<td colspan="5">107 112</td>
+<td colspan="5">93 338</td>
 </tr>
 <tr>
 <td colspan="4">12.</td>
@@ -13814,125 +14021,127 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2023 жылғы « »*  
-> *№ қаулысына*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
 > *9-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік бюджет қаражаты есебінен ұсталатын азаматтық қызметшілердің жекелеген санаттарының, ұйымдар жұмыскерлерінің, қазыналық кәсіпорындар жұмыскерлерінің жалақысын арттыруға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
+> *Ескерту. 9-қосымша жаңа редакцияда - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="4">Р/с №</td>
-<td colspan="12">Облыстар мен қалалардың атауы</td>
-<td colspan="5">Сомасы, мың теңге</td>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<th colspan="4"></th>
-<th colspan="12">Барлығы</th>
-<th colspan="5">4 410 935</th>
+<th></th>
+<th>Барлығы</th>
+<th>4 243 186</th>
 </tr>
 <tr>
-<td colspan="4">1.</td>
-<td colspan="12">Ақмола облысы</td>
-<td colspan="5">224 069</td>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>199 887</td>
 </tr>
 <tr>
-<td colspan="4">2.</td>
-<td colspan="12">Ақтөбе облысы</td>
-<td colspan="5">218 140</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>218 140</td>
 </tr>
 <tr>
-<td colspan="4">3.</td>
-<td colspan="12">Алматы облысы</td>
-<td colspan="5">227 073</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>227 073</td>
 </tr>
 <tr>
-<td colspan="4">4.</td>
-<td colspan="12">Атырау облысы</td>
-<td colspan="5">158 285</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>126 490</td>
 </tr>
 <tr>
-<td colspan="4">5.</td>
-<td colspan="12">Шығыс Қазақстан облысы</td>
-<td colspan="5">174 458</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>171 036</td>
 </tr>
 <tr>
-<td colspan="4">6.</td>
-<td colspan="12">Жамбыл облысы</td>
-<td colspan="5">284 705</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>284 705</td>
 </tr>
 <tr>
-<td colspan="4">7.</td>
-<td colspan="12">Батыс Қазақстан облысы</td>
-<td colspan="5">216 099</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>216 099</td>
 </tr>
 <tr>
-<td colspan="4">8.</td>
-<td colspan="12">Қарағанды облысы</td>
-<td colspan="5">286 518</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>282 237</td>
 </tr>
 <tr>
-<td colspan="4">9.</td>
-<td colspan="12">Қостанай облысы</td>
-<td colspan="5">241 532</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>183 379</td>
 </tr>
 <tr>
-<td colspan="4">10.</td>
-<td colspan="12">Қызылорда облысы</td>
-<td colspan="5">296 148</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>296 148</td>
 </tr>
 <tr>
-<td colspan="4">11.</td>
-<td colspan="12">Маңғыстау облысы</td>
-<td colspan="5">160 746</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>156 020</td>
 </tr>
 <tr>
-<td colspan="4">12.</td>
-<td colspan="12">Абай облысы</td>
-<td colspan="5">134 521</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>131 094</td>
 </tr>
 <tr>
-<td colspan="4">13.</td>
-<td colspan="12">Жетісу облысы</td>
-<td colspan="5">178 797</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>175 712</td>
 </tr>
 <tr>
-<td colspan="4">14.</td>
-<td colspan="12">Ұлытау облысы</td>
-<td colspan="5">57 644</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>53 325</td>
 </tr>
 <tr>
-<td colspan="4">15.</td>
-<td colspan="12">Павлодар облысы</td>
-<td colspan="5">261 513</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>256 049</td>
 </tr>
 <tr>
-<td colspan="4">16.</td>
-<td colspan="12">Солтүстік Қазақстан облысы</td>
-<td colspan="5">213 130</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>213 130</td>
 </tr>
 <tr>
-<td colspan="4">17.</td>
-<td colspan="12">Түркістан облысы</td>
-<td colspan="5">704 898</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>698 228</td>
 </tr>
 <tr>
-<td colspan="4">18.</td>
-<td colspan="12">Алматы қаласы</td>
-<td colspan="5">162 172</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>153 072</td>
 </tr>
 <tr>
-<td colspan="4">19.</td>
-<td colspan="12">Астана қаласы</td>
-<td colspan="5">106 412</td>
+<td>19.</td>
+<td>Астана қаласы</td>
+<td>97 287</td>
 </tr>
 <tr>
-<td colspan="4">20.</td>
-<td colspan="12">Шымкент қаласы</td>
-<td colspan="5">104 075</td>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>104 075</td>
 </tr>
 <tr>
-<td colspan="21">_________________________</td>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
 
@@ -14111,125 +14320,196 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2023 жылғы « »*  
-> *№ қаулысына*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
 > *12-қосымша*
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне техникалық және кәсіптік, орта білімнен кейінгі білім беру ұйымдарында білім алушыларға мемлекеттік стипендияның мөлшерін ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
+> *Ескерту. 12-қосымша жаңа редакцияда - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
-<td colspan="4">Р/с №</td>
-<td colspan="12">Облыстар мен қалалардың атауы</td>
-<td colspan="5">Сомасы, мың теңге</td>
+<td rowspan="2">Р/с №</td>
+<td rowspan="2">Облыстар мен қалалардың атауы</td>
+<td rowspan="2">Сомасы, мың теңге</td>
+<td colspan="3">оның ішінде</td>
 </tr>
 <tr>
-<th colspan="4"></th>
-<th colspan="12">Барлығы</th>
-<th colspan="5">49 441 348</th>
+<td>білім беру саласында</td>
+<td>денсаулық сақтау саласында</td>
+<td>туризм және спорт саласында</td>
 </tr>
 <tr>
-<td colspan="4">1.</td>
-<td colspan="12">Ақмола облысы</td>
-<td colspan="5">2 460 256</td>
+<th></th>
+<th>Барлығы</th>
+<th>52 742 052</th>
+<th>48 919 720</th>
+<th>3 794 167</th>
+<th>28 165</th>
 </tr>
 <tr>
-<td colspan="4">2.</td>
-<td colspan="12">Ақтөбе облысы</td>
-<td colspan="5">2 684 283</td>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>2 547 630</td>
+<td>2 460 256</td>
+<td>87 374</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">3.</td>
-<td colspan="12">Алматы облысы</td>
-<td colspan="5">1 703 973</td>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>2 789 718</td>
+<td>2 491 848</td>
+<td>297 870</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">4.</td>
-<td colspan="12">Атырау облысы</td>
-<td colspan="5">1 528 579</td>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>1 773 456</td>
+<td>1 703 973</td>
+<td>69 483</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">5.</td>
-<td colspan="12">Шығыс Қазақстан облысы</td>
-<td colspan="5">2 196 433</td>
+<td>4.</td>
+<td>Атырау облысы</td>
+<td>1 535 549</td>
+<td>1 385 648</td>
+<td>149 901</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">6.</td>
-<td colspan="12">Жамбыл облысы</td>
-<td colspan="5">2 422 145</td>
+<td>5.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>2 269 092</td>
+<td>2 196 433</td>
+<td>72 659</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">7.</td>
-<td colspan="12">Батыс Қазақстан облысы</td>
-<td colspan="5">1 575 063</td>
+<td>6.</td>
+<td>Жамбыл облысы</td>
+<td>2 781 944</td>
+<td>2 422 145</td>
+<td>359 799</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">8.</td>
-<td colspan="12">Қарағанды облысы</td>
-<td colspan="5">3 236 096</td>
+<td>7.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>1 542 987</td>
+<td>1 388 801</td>
+<td>154 186</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">9.</td>
-<td colspan="12">Қостанай облысы</td>
-<td colspan="5">2 662 829</td>
+<td>8.</td>
+<td>Қарағанды облысы</td>
+<td>3 439 391</td>
+<td>3 236 096</td>
+<td>198 142</td>
+<td>5 153</td>
 </tr>
 <tr>
-<td colspan="4">10.</td>
-<td colspan="12">Қызылорда облысы</td>
-<td colspan="5">2 151 548</td>
+<td>9.</td>
+<td>Қостанай облысы</td>
+<td>2 875 714</td>
+<td>2 662 829</td>
+<td>212 885</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">11.</td>
-<td colspan="12">Маңғыстау облысы</td>
-<td colspan="5">2 403 775</td>
+<td>10.</td>
+<td>Қызылорда облысы</td>
+<td>2 296 256</td>
+<td>2 151 548</td>
+<td>144 708</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">12.</td>
-<td colspan="12">Абай облысы</td>
-<td colspan="5">1 915 922</td>
+<td>11.</td>
+<td>Маңғыстау облысы</td>
+<td>2 634 008</td>
+<td>2 403 775</td>
+<td>230 233</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">13.</td>
-<td colspan="12">Жетісу облысы</td>
-<td colspan="5">1 395 526</td>
+<td>12.</td>
+<td>Абай облысы</td>
+<td>2 002 572</td>
+<td>1 915 922</td>
+<td>86 650</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">14.</td>
-<td colspan="12">Ұлытау облысы</td>
-<td colspan="5">718 186</td>
+<td>13.</td>
+<td>Жетісу облысы</td>
+<td>1 398 040</td>
+<td>1 395 526</td>
+<td></td>
+<td>2 514</td>
 </tr>
 <tr>
-<td colspan="4">15.</td>
-<td colspan="12">Павлодар облысы</td>
-<td colspan="5">2 516 143</td>
+<td>14.</td>
+<td>Ұлытау облысы</td>
+<td>819 856</td>
+<td>718 186</td>
+<td>101 670</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">16.</td>
-<td colspan="12">Солтүстік Қазақстан облысы</td>
-<td colspan="5">1 278 044</td>
+<td>15.</td>
+<td>Павлодар облысы</td>
+<td>2 684 229</td>
+<td>2 516 143</td>
+<td>157 403</td>
+<td>10 683</td>
 </tr>
 <tr>
-<td colspan="4">17.</td>
-<td colspan="12">Түркістан облысы</td>
-<td colspan="5">4 009 487</td>
+<td>16.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>1 356 572</td>
+<td>1 278 044</td>
+<td>68 713</td>
+<td>9 815</td>
 </tr>
 <tr>
-<td colspan="4">18.</td>
-<td colspan="12">Алматы қаласы</td>
-<td colspan="5">5 945 068</td>
+<td>17.</td>
+<td>Түркістан облысы</td>
+<td>4 358 803</td>
+<td>4 009 487</td>
+<td>349 316</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">19.</td>
-<td colspan="12">Астана қаласы</td>
-<td colspan="5">2 881 031</td>
+<td>18.</td>
+<td>Алматы қаласы</td>
+<td>6 409 726</td>
+<td>5 945 068</td>
+<td>464 658</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="4">20.</td>
-<td colspan="12">Шымкент қаласы</td>
-<td colspan="5">3 756 961</td>
+<td>19.</td>
+<td>Астана қаласы</td>
+<td>2 977 448</td>
+<td>2 881 031</td>
+<td>96 417</td>
+<td></td>
 </tr>
 <tr>
-<td colspan="21">_________________________</td>
+<td>20.</td>
+<td>Шымкент қаласы</td>
+<td>4 249 061</td>
+<td>3 756 961</td>
+<td>492 100</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6">_________________________</td>
 </tr>
 </table>
 
@@ -14274,6 +14554,198 @@ _______________________________
 </tr>
 <tr>
 <td colspan="21">_________________________</td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
+> *14-1-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жергілікті атқарушы органдардың денсаулық сақтау саласындағы ұйымдары қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. Қаулы 14-1-қосымшамен толықтырылды - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстар мен қалалардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<th></th>
+<th>Барлығы</th>
+<th>1 168 623</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақтөбе облысы</td>
+<td>51 635</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Алматы облысы</td>
+<td>125 687</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Атырау облысы</td>
+<td>52 365</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Жамбыл облысы</td>
+<td>114 052</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>53 973</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Қарағанды облысы</td>
+<td>201 416</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Қостанай облысы</td>
+<td>20 420</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қызылорда облысы</td>
+<td>103 277</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Маңғыстау облысы</td>
+<td>29 315</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Абай облысы</td>
+<td>66 668</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Жетісу облысы</td>
+<td>103 139</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Ұлытау облысы</td>
+<td>35 525</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Павлодар облысы</td>
+<td>94 702</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>56 574</td>
+</tr>
+<tr>
+<td>15.</td>
+<td>Түркістан облысы</td>
+<td>17 527</td>
+</tr>
+<tr>
+<td>16.</td>
+<td>Астана қаласы</td>
+<td>25 635</td>
+</tr>
+<tr>
+<td>17.</td>
+<td>Шымкент қаласы</td>
+<td>16 713</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
+> *14-2-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жергілікті атқарушы органдардың денсаулық сақтау саласындағы ұйымдары медицина қызметкерлерінің кәсіптік жауапкершілігінің сақтандыру сыйлықақыларына (жарналарына) берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. Қаулы 14-2-қосымшамен толықтырылды - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<th></th>
+<th>Барлығы</th>
+<th>3 863</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Алматы облысы</td>
+<td>492</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Атырау облысы</td>
+<td>242</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Жамбыл облысы</td>
+<td>563</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Қарағанды облысы</td>
+<td>949</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Қостанай облысы</td>
+<td>621</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Қызылорда облысы</td>
+<td>294</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Абай облысы</td>
+<td>217</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Жетісу облысы</td>
+<td>120</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Ұлытау облысы</td>
+<td>167</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>198</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
 
@@ -14355,6 +14827,8 @@ _______________________________
 
 ## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне халықтың әлеуметтік осал топтары үшін коммуналдық тұрғын үй қорынан тұрғын үй сатып алуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
+> *Ескерту. 17-қосымшаға өзгеріс енгізілді - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
 <table>
 <tr>
 <td colspan="4">Р/с №</td>
@@ -14364,7 +14838,7 @@ _______________________________
 <tr>
 <th colspan="4"></th>
 <th colspan="12">Барлығы</th>
-<th colspan="5">66 777 600</th>
+<th colspan="5">65 776 309</th>
 </tr>
 <tr>
 <td colspan="4">1.</td>
@@ -14374,7 +14848,7 @@ _______________________________
 <tr>
 <td colspan="4">2.</td>
 <td colspan="12">Ақтөбе облысы</td>
-<td colspan="5">3 628 800</td>
+<td colspan="5">2 627 509</td>
 </tr>
 <tr>
 <td colspan="4">3.</td>
@@ -14507,6 +14981,102 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
+> *2023 жылғы «12» желтоқсандағы*  
+> *№ 1108 қаулысына*  
+> *18-1-қосымша*
+
+## Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне мемлекеттік дене шынықтыру және спорт ұйымдарының медицина қызметкерлерінің еңбекақысын төлеуді ұлғайтуға берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
+
+> *Ескерту. Қаулы 18-1-қосымшамен толықтырылды - ҚР Үкіметінің 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулысымен.*
+
+<table>
+<tr>
+<td>Р/с №</td>
+<td>Облыстардың атауы</td>
+<td>Сомасы, мың теңге</td>
+</tr>
+<tr>
+<th></th>
+<th>Барлығы</th>
+<th>619 911</th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Ақмола облысы</td>
+<td>19 889</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Ақтөбе облысы</td>
+<td>35 215</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Алматы облысы</td>
+<td>30 813</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Шығыс Қазақстан облысы</td>
+<td>34 593</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Батыс Қазақстан облысы</td>
+<td>19 837</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Қарағанды облысы</td>
+<td>116 344</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Қостанай облысы</td>
+<td>16 010</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Қызылорда облысы</td>
+<td>46 984</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Абай облысы</td>
+<td>43 499</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Жетісу облысы</td>
+<td>51 108</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Ұлытау облысы</td>
+<td>3 415</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Павлодар облысы</td>
+<td>67 142</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>Солтүстік Қазақстан облысы</td>
+<td>18 098</td>
+</tr>
+<tr>
+<td>14.</td>
+<td>Түркістан облысы</td>
+<td>116 964</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
+</tr>
+</table>
+
+> *Қазақстан Республикасы*  
+> *Үкіметінің*  
 > *2023 жылғы « »*  
 > *№ қаулысына*  
 > *19-қосымша*
@@ -14536,13 +15106,13 @@ _______________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2023 жылғы 12 желтоқсандағы*  
+> *2023 жылғы «12» желтоқсандағы*  
 > *№ 1108 қаулысына*  
 > *20-қосымша*
 
 ## Облыстық бюджеттерге аудандардың (облыстық маңызы бар қалалардың) әкімдерін сайлауды қамтамасыз етуге және өткізуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -14551,98 +15121,99 @@ _______________________________
 <td>Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td>Барлығы</td>
-<td>2 597 446</td>
+<th></th>
+<th>Барлығы</th>
+<th>2 241 143</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>271 205</td>
+<td>234 003</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Ақтөбе облысы</td>
-<td>116 797</td>
+<td>100 776</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>160 774</td>
+<td>138 720</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>90 017</td>
+<td>77 669</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>161 757</td>
+<td>139 568</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбыл облысы</td>
-<td>152 394</td>
+<td>131 489</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>150 754</td>
+<td>130 074</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>128 596</td>
+<td>110 956</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>289 601</td>
+<td>249 875</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>108 836</td>
+<td>93 906</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>60 439</td>
+<td>52 148</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Абай облысы</td>
-<td>67 923</td>
+<td>58 606</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Жетісу облысы</td>
-<td>130 900</td>
+<td>112 944</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Ұлытау облысы</td>
-<td>41 106</td>
+<td>35 467</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>131 500</td>
+<td>113 462</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
-<td>150 775</td>
+<td>130 093</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>384 072</td>
+<td>331 387</td>
+</tr>
+<tr>
+<td colspan="3">_________________________</td>
 </tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -15183,56 +15754,57 @@ _________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
-> *2023 жылғы 12 желтоқсандағы*  
+> *2023 жылғы «12» желтоқсандағы*  
 > *№ 1108 қаулысына*  
 > *26-қосымша*
 
 ## Қазақстан Республикасының Үкіметі резервінің сомаларын бөлу
 
-> *Ескерту. 26-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі; 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 26-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі; 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
-<td colspan="3">Әкімші</td>
+<td>Әкімші</td>
+<td></td>
+<td></td>
 <td rowspan="3">Атауы</td>
 <td rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="2">Бағдарлама</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Кіші бағдарлама</td>
+<td colspan="2">Кіші бағдарлама</td>
 </tr>
 <tr>
-<td>217</td>
-<td></td>
-<td></td>
-<td>Қазақстан Республикасы Қаржы министрлігі</td>
-<td>500 968 115</td>
+<th>217</th>
+<th></th>
+<th></th>
+<th>Қазақстан Республикасы Қаржы министрлігі</th>
+<th>522 182 515</th>
 </tr>
 <tr>
 <td></td>
 <td>010</td>
 <td></td>
 <td>Қазақстан Республикасы Үкiметiнiң резервi</td>
-<td>500 968 115</td>
+<td>522 182 515</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>100</td>
 <td>Қазақстан Республикасының және басқа мемлекеттердің аумағындағы табиғи және техногендік сипаттағы төтенше жағдайларды жоюға арналған Қазақстан Республикасы Үкіметінің төтенше резерві</td>
-<td>59 368 358</td>
+<td>51 368 358</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>101</td>
 <td>Қазақстан Республикасы Үкіметінің шұғыл шығындарға арналған резерві</td>
-<td>439 249 757</td>
+<td>468 464 157</td>
 </tr>
 <tr>
 <td></td>
@@ -15248,9 +15820,24 @@ _________________________
 <td>Қазақстан Республикасы Үкіметінің табиғи және техногендік сипаттағы төтенше жағдайларды жою кезінде халықтың тіршілігін қамтамасыз етуге арналған резерві</td>
 <td>350 000</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">_________________________</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
-
-_________________________
 
 > *Қазақстан Республикасы*  
 > *Үкіметінің*  
@@ -15649,7 +16236,7 @@ _________________________
 
 ## 2024 жылға арналған мемлекеттік тапсырмалардың тізбесі
 
-> *Ескерту. 29-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 19.06.2024 № 482 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 29-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 19.06.2024 № 482 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 мың теңге
 
@@ -15770,14 +16357,16 @@ _________________________
 <td>Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымы</td>
 <td>
 1. Қазақстан Республикасы мемлекеттік геодезиялық қамтамасыз ету жүйесін жаңғырту:
-1.1 Мемлекеттік геодезиялық желіні (МГЖ) жаңғырту, оның ішінде:
-- 1, 2 сыныпты астрономиялық-геодезиялық желілер (АГЖ 1, 2);
-- 3, 4 сыныпты геодезиялық жиілету желілері (ГЖЖ 3, 4).
-1.2 Мемлекетік нивелирлік желіні (МНЖ) жаңғырту, оның ішінде:
-- І сыныпты мемлекеттік нивелирлік желі (МНЖ І); - ІІ сыныпты мемлекеттік нивелирлік желі (МНЖ ІІ); - ІІІ-ІV сыныпты мемлекеттік нивелирлік желілер (МНЖ ІІІ-ІV).
-1.3 Мемлекеттік гравиметриялық желіні (МГрЖ) жаңғырту, оның ішінде:
-- мемлекеттік іргелі гравиметриялық желі (МІГЖ); - 1-сыныпты мемлекеттік гравиметриялық желі (МГрЖ-1). 2. Қазақстан Республикасының Кеңістік дерекқорларының Ұлттық инфрақұрылымын енгізу: 2.1. Мемлекеттік геодезиялық қамтамасыз етудің ақпараттық жүйесін құру;
-2.2. Базалық кеңістіктік деректердің ақпараттық жүйесін құру; 2.3. Масштабы 1: 25 000 топографиялық карталарды Қазақстан Республикасының ашық пайдаланудағы цифрлық картасына түрлендіру;
+1.1 Мемлекеттік геодезиялық желіні (МГЖ) жаңғырту, оның ішінде: - 1, 2 сыныпты астрономиялық-геодезиялық желілер (АГЖ 1, 2); - 3, 4 сыныпты геодезиялық жиілету желілері (ГЖЖ 3, 4).
+1.2 Мемлекетік нивелирлік желіні (МНЖ) жаңғырту, оның ішінде: - І сыныпты мемлекеттік нивелирлік желі (МНЖ І); - ІІ сыныпты мемлекеттік нивелирлік желі (МНЖ ІІ); - ІІІ-ІV сыныпты мемлекеттік нивелирлік желілер (МНЖ ІІІ-ІV).
+1.3 Мемлекеттік гравиметриялық желіні (МГрЖ) жаңғырту, оның ішінде: - мемлекеттік іргелі гравиметриялық желі (МІГЖ); - 1-сыныпты мемлекеттік гравиметриялық желі (МГрЖ-1).
+2. Қазақстан Республикасының Кеңістік дерекқорларының Ұлттық инфрақұрылымын енгізу:
+2.1. Мемлекеттік геодезиялық қамтамасыз етудің ақпараттық жүйесін құру.
+2.2. Базалық кеңістіктік деректердің ақпараттық жүйесін құру.
+2.3. Масштабы 1: 25 000 топографиялық карталарды Қазақстан Республикасының ашық пайдаланудағы цифрлық картасына түрлендіру.
+2.4. Қалалар мен аудан орталықтарының масштабы 1:2 000 цифрлық топографиялық жоспарларын қалалар мен аудан орталықтарының ашық пайдаланудағы цифрлық жоспарларына түрлендіру.
+2.5. Аэроғарыштық түсірілім материалдарын Қазақстан Республиасының бірыңғай ортофотомозаикасына түрлендіру.
+3. Жобаны басқару.
 </td>
 <td>Қазақстан Республикасы Цифрлық даму, инновациялар және аэроғарыш өнеркәсібі министрлігі</td>
 <td>«Ұлттық геодезия және кеңістік ақпарат орталығы» ШЖҚ РМК</td>
@@ -15785,16 +16374,7 @@ _________________________
 007 «Елімізді мемлекеттік геодезиялық және картографиялық қамтамасыз ету деңгейін арттыру»
 102 «Қазақстан Республикасының Ұлттық кеңістіктік деректер инфрақұрылымын құру»
 </td>
-<td>4 304 576</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>2.4. Қалалар мен аудан орталықтарының масштабы 1:2 000 цифрлық топографиялық жоспарларын қалалар мен аудан орталықтарының ашық пайдаланудағы цифрлық жоспарларына түрлендіру; 2.5. Аэроғарыштық түсірілім материалдарын Қазақстан Республиасының бірыңғай ортофотомозаикасына түрлендіру. 3. Жобаны басқару.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>4 252 576</td>
 </tr>
 <tr>
 <td>9</td>
@@ -16133,18 +16713,14 @@ _________________________
 <tr>
 <td>19</td>
 <td>Қазақстан Республикасының санитариялық авиациясын дамыту жөніндегі жұмысты ұйымдастыру</td>
-<td>
-Әуе көлігін (медициналық авиацияны) пайдалана отырып, Қазақстан Республикасының халқына шұғыл медициналық көмек көрсетуді ұйымдастыру.
-Медициналық авиацияның өңірлік бөлімшелерінің қызметін ұйымдастыру және үйлестіру.
-Халықаралық стандарттар негізінде Қазақстан Республикасында медициналық авиация қызметін дамыту
-</td>
+<td>Әуе көлігін (медициналық авиацияны) пайдалана отырып, Қазақстан Республикасының халқына шұғыл медициналық көмек көрсетуді ұйымдастыру. Медициналық авиацияның өңірлік бөлімшелерінің қызметін ұйымдастыру және үйлестіру. Халықаралық стандарттар негізінде Қазақстан Республикасында медициналық авиация қызметін дамыту</td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Ұлттық шұғыл медицинаны үйлестіру орталығы» ШЖҚ РМК</td>
 <td>
 067 «Тегін медициналық көмектің кепілдік берілген көлемін қамтамасыз ету»
 107 «Санитариялық авиация нысанында медициналық көмек көрсету»
 </td>
-<td>11 821 952</td>
+<td>12 148 562</td>
 </tr>
 <tr>
 <td>20</td>
@@ -16166,32 +16742,22 @@ _________________________
 5. Санитариялық-эпидемиологиялық бақылау комитеті және ынтымақтасатын министрліктердің (ведомстволардың) өңірлік мамандарының кадрлық әлеуетін республикалық семинарлар, дөңгелек үстелдер, вебинарлар, тренингтер өткізу және жұмыс орындарында оқыту әдісімен арттыру.
 6. Қазақстан Республикасында микробқа қарсы төзімділікті шолғыншы эпидемиологиялық қадағалау және бақылау ұлттық жүйесін енгізу.
 7. Қоғамдық денсаулық сақтау саласындағы Төтенше жағдайлар жөніндегі жедел орталықтың қызметін қамтамасыз ету.
+8. Әдістемелік ұсынымдар мен Әдістемелік нұсқаулықтарды әзірлеу (қайта қарау) есепке алу жөніндегі ақпараттық жүйені (АЖ) әзірлеу және енгізу.
+9. «Инфекциялардың алдын алу және инфекциялық бақылау жүйесін жетілдіру туралы» 2022 –2027 жылдарға арналған жоспардың іске асырылуына және оның санитариялық-эпидемиологиялық саламаттылық саласындағы тиімділігіне мониторинг жүргізу.
+10. Қазақстанда айналымдағы тұмау және қызылша вирустарын секвенирлеу әдісімен генетикалық талдау жүргізу.
+11. Қазақстан Республикасының халқын иммундау ұлттық жүйесін жетілдірудің 2023 – 2025 жылдарға арналған кешенді жоспарына сәйкес иммунопрофилактика және иммундау мониторингі жөніндегі іс-шараларды ұйымдастыру.
 </td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Қоғамдық денсаулық сақтау ұлттық орталығы» ШЖҚ РМК</td>
-<td>070 «Қоғамдық денсаулықты сақтау» 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»</td>
-<td>1 229 180</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>
-8. Әдістемелік ұсынымдар мен Әдістемелік нұсқаулықтарды әзірлеу (қайта қарау) есепке алу жөніндегі ақпараттық жүйені (АЖ) әзірлеу және енгізу.
-9. «Инфекциялардың алдын алу және инфекциялық бақылау жүйесін жетілдіру туралы» 2022-2027 жылдарға арналған жоспардың іске асырылуына және оның санитариялық-эпидемиологиялық саламаттылық саласындағы тиімділігіне мониторинг жүргізу.
-10. Қазақстанда айналымдағы тұмау және қызылша вирустарын секвенирлеу әдісімен генетикалық талдау жүргізу.
-11. Қазақстан Республикасының халқын иммундау ұлттық жүйесін жетілдірудің 2023-2025 жылдарға арналған кешенді жоспарына сәйкес иммунопрофилактика және иммундау мониторингі жөніндегі іс-шараларды ұйымдастыру.
+070 «Қоғамдық денсаулықты сақтау»,
+100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>1 321 602</td>
 </tr>
 <tr>
 <td>22</td>
-<td>
-Инфекцияның аса қауіпті табиғи ошақтары аумақтарында халықтың
-санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету
-</td>
+<td>Инфекцияның аса қауіпті табиғи ошақтары аумақтарында халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету</td>
 <td>
 1. Биоқауіпсіздікті қамтамасыз ету және Қазақстан Республикасындағы халықтың денсаулығына қауіпті биологиялық факторлардың әсер ету деңгейін төмендету:
 1.1. Қазақстан Республикасының аумағындағы табиғи оба ошақтарының эпизоотиялық жай-күйіне және оба бойынша энзоотиялық аумақта жүргізілген санитариялық-профилактикалық іс-шараларға мониторинг жүргізу және талдау.
@@ -16216,24 +16782,24 @@ _________________________
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Масғұт Айқымбаев атындағы аса қауіпті инфекциялар ұлттық ғылыми орталығы» ШЖҚ РМК</td>
 <td>
-070 «Қоғамдық денсаулықты сақтау»,
+070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>1 014 600</td>
+<td>1 463 229</td>
 </tr>
 <tr>
 <td>23</td>
 <td>Ғылым саласында биологиялық қауіпсіздікті қамтамасыз ету жөніндегі көрсетілетін қызметтер</td>
 <td>
-1) Түркістан облысының аса қауіпті инфекциялар бойынша эпидемиялық жағдайын бағалау: Ку-қызба, бруцеллез; олардың шығу тегін болжау және республиканың биологиялық қауіпсіздігіне әсерін болжау;
-2) Түркістан облысында айналымдағы Ку-қызба және бруцеллез қоздырғыштарын бөліп алу; олардың биологиялық және молекулалық-генетикалық қасиеттерін зерделеу;
-3) биологиялық қауіпсіздікті қамтамасыз ету үшін аса қауіпті инфекциялар қоздырғыштарының коллекциялық, өндірістік және вакциналық штаммдарының негізгі биологиялық қасиеттерін бақылау ұстап тұру, өміршеңдігін қолдау және бақылау;
-4) аса қауіпті инфекциялар қоздырғыштарының коллекциялық және вакциналық штаммдарын жаңарту үшін жасуша желілерінің банкін ұстап тұру;
-5) Түркістан облысының аумағында аса қауіпті инфекция қоздырғышы – Конго-Қырым геморрагиялық қызба вирусының табиғи резервуарларын зерттеу;
-6) вакциналарды әзірлеуде қолдану үшін тұмау вирусының штаммдық құрамын өзектілендіру.
+1. Түркістан облысының аса қауіпті инфекциялар бойынша эпидемиялық жағдайын бағалау: ку-қызба, бруцеллез, олардың шығу тегін болжау және республиканың биологиялық қауіпсіздігіне әсерін болжау.
+2. Түркістан облысында айналымдағы ку-қызба және бруцеллез қоздырғыштарын бөліп алу, олардың биологиялық және молекулалық-генетикалық қасиеттерін зерделеу.
+3. Биологиялық қауіпсіздікті қамтамасыз ету үшін аса қауіпті инфекциялар қоздырғыштарының коллекциялық, өндірістік және вакциналық штаммдарының негізгі биологиялық қасиеттерін бақылау ұстап тұру, өміршеңдігін қолдау және бақылау.
+4. Аса қауіпті инфекциялар қоздырғыштарының коллекциялық және вакциналық штаммдарын жаңарту үшін жасуша желілерінің банкін ұстап тұру.
+5. Түркістан облысының аумағында аса қауіпті инфекция қоздырғышы – Конго-Қырым геморрагиялық қызба вирусының табиғи резервуарларын зерттеу.
+6. Вакциналарды әзірлеуде қолдану үшін тұмау вирусының штаммдық құрамын өзектілендіру.
 </td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
-<td>«Биологиялық қауіпсіздік проблемаларының ғылыми-зерттеу институты» ШЖҚ РМК</td>
+<td>«Биологиялық қауіпсіздік проблемаларының ғылыми-зерттеу институты» ЖШС</td>
 <td>
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
@@ -16267,17 +16833,13 @@ _________________________
 </tr>
 <tr>
 <td>25</td>
-<td>
-Возрождение аралының қазақстандық бөлігінде және Арал теңізіне
-іргелес (жағалау маңындағы) материктік аумақта эпизоотологиялық мониторингті
-қамтамасыз ету
-</td>
+<td>Возрождение аралының қазақстандық бөлігінде және Арал теңізіне іргелес (жағалау маңындағы) материктік аумақта эпизоотологиялық мониторингті қамтамасыз ету</td>
 <td>
 1. Таратушылар мен жұқтырушылар деңгейінің жай-күйін, санының серпінін бағалап, Возрождение аралы және Арал теңізіне іргелес құрлық (жағалау маңындағы) аумағын эпизоотиялық зерделеуді қамтамасыз ету, осы аумақта тұрақты және уақытша тұратын тұрғындарды эпидемиологиялық бақылау:
-1.1. Бактериологиялық зерттеу әдістерін пайдаланып, Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан жеткізілген топырақ сынамасын сібір жарасы қоздырғышының болуына зертханалық зерттеу;
-1.2. Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан жеткізілген топырақ сынамасына сібір жарасы қоздырғышының болуына молекулярлық-генетикалық зерттеу (полимеразды тізбекті реакция);
-1.3. Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан аса қауіпті инфекцияға жиналған далалық материал сынамасын (кеміргіштер, эктопаразиттер) молекулярлық-генетикалық зерттеу (полимеразды тізбекті реакция);
-1.4. Возрождение аралының қазақстандық бөлігінен Арал теңізіне іргелес құрлық (жағалау маңындағы) аумақтан аса қауіпті инфекцияларға бөлінген күдікті дақылдарды зертханалық зерттеу (сәйкестендіру);
+1.1. Бактериологиялық зерттеу әдістерін пайдаланып, Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан жеткізілген топырақ сынамасын сібір жарасы қоздырғышының болуына зертханалық зерттеу.
+1.2. Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан жеткізілген топырақ сынамасына сібір жарасы қоздырғышының болуына молекулярлық-генетикалық зерттеу (полимеразды тізбекті реакция).
+1.3. Возрождение аралының қазақстандық бөлігінен және оған іргелес аумақтан аса қауіпті инфекцияға жиналған далалық материал сынамасын (кеміргіштер, эктопаразиттер) молекулярлық-генетикалық зерттеу (полимеразды тізбекті реакция).
+1.4. Возрождение аралының қазақстандық бөлігінен Арал теңізіне іргелес құрлық (жағалау маңындағы) аумақтан аса қауіпті инфекцияларға бөлінген күдікті дақылдарды зертханалық зерттеу (сәйкестендіру).
 1.5. Жүргізілген мониторинг және зерттеулер нәтижелері бойынша Возрождение аралының қазақстандық бөлігінде санитариялық-эпидемиологиялық саламаттылықты қамтамасыз ету бойынша ұсыныстар әзірлеу.
 </td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
@@ -16286,7 +16848,7 @@ _________________________
 070 «Қоғамдық денсаулықты сақтау»
 100 «Халықтың санитариялық-эпидемиологиялық саламаттылығын қамтамасыз ету»
 </td>
-<td>32 860</td>
+<td>35 335</td>
 </tr>
 <tr>
 <td>26</td>
@@ -16315,8 +16877,11 @@ _________________________
 <td>АИТВ-инфекциясы бойынша ахуалды эпидемиологиялық мониторингтеу, АИТВ-инфекциясымен өмір сүретін адамдардың диспансерлік бақылауын, емделуін және оның тиімділігін клиникалық мониторингтеу, тұрғындар мен негізгі топтар арасындағы профилактикалық іс-шараларды мониторингтеу, Қазақстан Республикасында АИТВ-инфекциясы бойынша эпидемиологиялық, профилактикалық және клиникалық іс-шараларды ұйымдық-әдістемелік сүйемелдеу</td>
 <td>Қазақстан Республикасы Денсаулық сақтау министрлігі</td>
 <td>«Қазақ дерматология және инфекциялық аурулар ғылыми орталығы» ШЖҚ РМК</td>
-<td>070 «Қоғамдық денсаулықты сақтау» 105 «ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыру»</td>
-<td>182 883</td>
+<td>
+070 «Қоғамдық денсаулықты сақтау»
+105 «ЖИТС профилактикасы және оған қарсы күрес жөніндегі іс-шараларды іске асыру»
+</td>
+<td>210 192</td>
 </tr>
 <tr>
 <td>28</td>
@@ -16434,7 +16999,7 @@ _________________________
 230 «Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамыту»,
 100 «Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамытуды қамтамасыз ету»
 </td>
-<td>1 084 020</td>
+<td>1 066 020</td>
 </tr>
 <tr>
 <td>38</td>
@@ -16444,9 +17009,9 @@ _________________________
 <td>«Ұлттық тестілеу орталығы» ШЖҚ РМК</td>
 <td>
 230 «Мемлекеттік тілді және Қазақстан халқының басқа да тілдерін дамыту»
-101«Қазақстан Республикасы азаматтарының қазақ тілін білу деңгейін бағалау»
+101 «Қазақстан Республикасы азаматтарының қазақ тілін білу деңгейін бағалау»
 </td>
-<td>42 352</td>
+<td>60 352</td>
 </tr>
 <tr>
 <td>39</td>
@@ -16468,12 +17033,9 @@ _________________________
 <td>«ҚазАвтоЖол» ұлттық компаниясы» АҚ</td>
 <td>
 091 «Ортақ пайдаланымдағы автомобиль жолдарын жөндеу және олардың сапасын жақсартуға бағытталған күтіп-ұстауды ұйымдастыру»
-108 «Республикалық бюджет қаражат есебінен
-республикалық маңызы бар автомобиль жолдарын күрделі, орташа және ағымдағы
-жөндеу, күтіп-ұстау, көгалдандыру,диагности
-калау және аспаптық құралдармен тексеру»
+108 «Республикалық бюджет қаражат есебінен республикалық маңызы бар автомобиль жолдарын күрделі, орташа және ағымдағы жөндеу, күтіп-ұстау, көгалдандыру,диагности калау және аспаптық құралдармен тексеру»
 </td>
-<td>122 692 160</td>
+<td>122 401 301</td>
 </tr>
 <tr>
 <td>41</td>
@@ -16489,9 +17051,12 @@ _________________________
 <td>Ішкі су жолында қауіпсіз кеме қатынасын қамтамасыз ету</td>
 <td>Баутино порты су айдынындағы кеме қатынасы қауіпсіздігін, Ертіс және Орал-Каспий алабында, Іле өзені, Қапшағай суқоймасы мен Балқаш көлі ішкі су жолының кеме қатынайтын учаскесінде кепілдік габаритті навигациялық жабдық белгілерін қою (алу) және күтіп-ұстау, түп тереңдету, тегістеу, түп тазалау, арналық жобалық зерттеу, навигациялық құралдар мен жабдық белгілерін жасау және жөндеу, кеме қозғалысын басқару жүйесі, кеме қатынасы шлюзі мен техникалық флот кемесін күтіп-ұстау және жөндеу, техникалық флот кемесін жаңарту және жаңғырту жөніндегі іс-шараларды іске асыру арқылы қамтамасыз ету</td>
 <td>Қазақстан Республикасы Көлік министрлігі</td>
-<td>Қазақстан Республикасы Көлік министрлігі Теміржол және су көлігі комитетінің «Қазақстан су жолдары» республикалық мемлекеттік қазыналық кәсіпорны</td>
-<td>092 «Су көлігін және су инфрақұрылымын күтіп-ұстау» 100 «Су жолдарының кеме жүретін жағдайда болуын қамтамасыз ету және шлюздерді күтіп-ұстау»</td>
-<td>26 740 474</td>
+<td>«Қазақстан су жолдары» РМҚК</td>
+<td>
+092 «Су көлігін және су инфрақұрылымын дамыту, күтіп-ұстау»
+100 «Су жолдарының кеме жүретін жағдайда болуын қамтамасыз ету және шлюздерді күтіп-ұстау»
+</td>
+<td>26 571 919</td>
 </tr>
 <tr>
 <td>43</td>
@@ -16499,8 +17064,11 @@ _________________________
 <td>Шекараның барлық ұзындығында, әсіресе аса назар аудару және шекара қызметінің жеке құрамы үшін тиісті жағдай жасау талап етілетін қол жеткізу қиын кесіндіде инфрақұрылымдық объектілерді түбегейлі кезең-кезеңімен жаңғырту мақсатында</td>
 <td>Қазақстан Республикасы Көлік министрлігі</td>
 <td>«ҚазАвтоЖол» ұлттық компаниясы» АҚ</td>
-<td>207 «Шекара бөлімшелерін жобалау және салу» 030 «Республикалық бюджет қаражат есебінен»</td>
-<td>1 040 000</td>
+<td>
+207 «Шекара бөлімшелерін жобалау және салу»
+030 «Республикалық бюджеттің қаражаты есебінен»
+</td>
+<td>154 965</td>
 </tr>
 <tr>
 <td>44</td>
@@ -16570,20 +17138,26 @@ _________________________
 </tr>
 <tr>
 <td>51</td>
-<td>«ҚР Ұлттық ядролық орталығы» РМК-ның геофизикалық қондырғысының жұмыс істеуін қамтамасыз ету бойынша көрсетілетін қызмет</td>
+<td>«Қазақстан Республикасының Ұлттық ядролық орталығы» РМК-ның геофизикалық қондырғыларының жұмыс істеуін қамтамасыз ету бойынша көрсетілетін қызметтер</td>
 <td>Ғылыми-техникалық бағдарламаларды, халықаралық жобаларды табысты орындау үшін геофизикалық қондырғының үздіксіз жұмыс істеуі бойынша көрсетілетін қызметтер кешені (техникалық қызмет көрсету, жабдық пен инженерлік жүйені, көлікті жоспарлы-алдын ала жөндеу, ғимараттарды, үй-жайларды күтіп-ұстау және қызмет көрсету, ақауды бақылау және анықтау, персоналдың еңбегіне ақы, салық төлеу, рұқсаттар мен басқа да құжаттарды ресімдеу, материалдар сатып алу)</td>
 <td>Қазақстан Республикасы Энергетика министрлігі</td>
-<td>«Ядролық физика институты» ШЖҚРМК</td>
-<td>036 «Атомдық және энергетикалық жобаларды дамыту» 101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»</td>
-<td>318 228</td>
+<td>«Қазақстан Республикасының Ұлттық ядролық орталығы» ШЖҚ РМК</td>
+<td>
+036 «Атомдық және энергетикалық жобаларды дамыту»
+101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»
+</td>
+<td>317 667</td>
 </tr>
 <tr>
 <td>52</td>
 <td>Төтенше радиациялық қауіпті аймаққа жатқызылған аумақты кешенді экологиялық тексеру</td>
 <td>Төтенше радиациялық қауіпті аймаққа жатқызылған аумақта кешенді экологиялық зерттеу жүргізу және топырақ-өсімдік жамылғысының, су және ауа ортасының, фаунаның радиациялық жай-күйі туралы жаңа ғылыми-негізделген деректер алу</td>
 <td>Қазақстан Республикасы Энергетика министрлігі</td>
-<td>«Ядролық физика институты» ШЖҚРМК</td>
-<td>036 «Атомдық және энергетикалық жобаларды дамыту» 101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»</td>
+<td>«Қазақстан Республикасының Ұлттық ядролық орталығы» ШЖҚ РМК</td>
+<td>
+036 «Атомдық және энергетикалық жобаларды дамыту»
+101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»
+</td>
 <td>121 850</td>
 </tr>
 <tr>
@@ -16591,18 +17165,21 @@ _________________________
 <td>Семей сынақ полигонының радиациялық қауіпті аумағындағы қоршаған ортаның жай-күйін мониторингтеу</td>
 <td>Қоршаған ортаны қорғау және радиациялық қауіпсіздігі, жер қойнауын ұтымды пайдалану міндеттерін шешу үшін қоршаған ортаның радиациялық жай-күйі туралы деректерді жинаудың, жинақтаудың, сақтаудың, өңдеудің кешенді жүйесі</td>
 <td>Қазақстан Республикасы Энергетика министрлігі</td>
-<td>«Ядролық физика институты» ШЖҚРМК</td>
-<td>036 «Атомдық және энергетикалық жобаларды дамыту» 101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»</td>
+<td>«Қазақстан Республикасының Ұлттық ядролық орталығы» ШЖҚ РМК</td>
+<td>
+036 «Атомдық және энергетикалық жобаларды дамыту»
+101 «Қазақстан Республикасы аумағында радиациялық қауіпсіздікті қамтамасыз ету»
+</td>
 <td>57 800</td>
 </tr>
 <tr>
 <td>54</td>
 <td>Халықаралық шарттар мен келісімдерді қолдау үшін қазақстандық ядролық мониторинг жүйесінің жұмыс істеуін қамтамасыз ету</td>
-<td>Ядролық сынақ пен жер сілкінісінің мониторингін қолдау үшін сейсмикалық, инфрадыбыстық және магниттік стационарлық станцияның, деректер орталығының және коммуникация жүйесінің үздіксіз жұмыс істеуін қамтамасыз етуді (сейсмикалық станцияның тобын талаптар мен кестелерге сәйкес калибрлеу, деректерді берудің ашық жұмыс істейтін арнасын қамтамасыз ету, тораптың жай-күйін бақылау, техникалық проблемаларды жою), станцияның деректерін жинауды, жіберуді және қабылдауды, бюллетень жасап, сандық деректер базасын толықтырып мониторингтеу деректерін өңдеу мен түсіндіруді, халықаралық және ұлттық деректер орталықтарымен деректер алмасуды, станцияда еңбек қауіпсіздігін және еңбекті қорғауды, экологиялық талаптардың орындалуын қамтамасыз етуді және т.б. қамтитын көрсетілетін қызметтер кешені</td>
+<td>Ядролық сынақтар мен жер сілкінісінің мониторингін қолдау үшін сейсмикалық, инфрадыбыстық және магниттік стационарлық станциялардың, деректер орталығының және коммуникация жүйесінің үздіксіз жұмыс істеуін қамтамасыз етуді қамтитын көрсетілетін қызметтер кешені (сейсмикалық станцияларды талаптар мен кестелерге сәйкес калибрлеу, тіркеуші және таратушы жабдықтардың пайдалану параметрлерін бақылау, тіркеуші және таратушы жабдыққа қызмет көрсету және ақаулықтарды жою, станцияларда деректерді жинау, оларды деректер орталығына беру, қызмет көрсетілетін желіден түсетін деректердің көлемі мен сапасын бағалау; мониторинг деректерін өңдеу, ақпараттық өнімдерді шығару, деректер базасын толықтыру, халықаралық және басқа да ұлттық деректер орталықтарымен деректер алмасу)</td>
 <td>Қазақстан Республикасы Энергетика министрлігі</td>
-<td>«Ядролық физика институты» ШЖҚРМК</td>
+<td>«Қазақстан Республикасының Ұлттық ядролық орталығы» ШЖҚ РМК</td>
 <td>
-036 «Атом және энергетикалық жобаларды дамыту»
+036 «Атомдық және энергетикалық жобаларды дамыту»
 102 «Ядролық сынақтар мониторингі»
 </td>
 <td>100 678</td>
@@ -16734,7 +17311,7 @@ _________________________
 001 «Инвестициялар тарту жөніндегі мемлекеттік саясатты қалыптастыру, экономикалық саясатты дамыту, табиғи монополиялар субъектілерінің қызметін peттеу, өңірлік даму және кәсіпкерлікті дамыту саласындағы қызметті үйлестіру жөніндегі көрсетілетін қызметтер»
 115 «Қазақстан Республикасы заң жобаларының ғылыми экономикалық сараптамасы»
 </td>
-<td>91 631</td>
+<td>55 049</td>
 </tr>
 <tr>
 <td>55-11</td>
@@ -16801,14 +17378,10 @@ _________________________
 </tr>
 <tr>
 <td>62</td>
-<td>
-Қазақстанды діни қызмет саласында конфессияаралық
-және өркениетаралық диалогты қамтамасыз ететін
-халықаралық орталықтың бірі ретінде ілгерілету бойынша көрсетілетін қызмет
-</td>
+<td>Қазақстанды діни қызмет саласында конфессияаралық және өркениетаралық диалогты қамтамасыз ететін халықаралық орталықтың бірі ретінде ілгерілету бойынша көрсетілетін қызмет</td>
 <td>
 1. Әлемдегі діни ахуалдың жай-күйі мен даму серпінін мониторингтеу және талдау.
-2. Әлемдік және дәстүрлі діндер лидерлері VIII съезінің, XXI хатшылығы съезінің, хатшылық жұмыс тобының базалық тұжырымдамалық құжаттары мен материалдарын дайындау мен қалыптастыруды қамтамасыз ету.
+2. Әлемдік және дәстүрлі діндер лидерлері VIII съезінің, XXII хатшылығы съезінің, хатшылық жұмыс тобының базалық тұжырымдамалық құжаттары мен материалдарын дайындау мен қалыптастыруды қамтамасыз ету.
 3. Әлемдік және дәстүрлі діндер лидерлерінің съезі институттарының отырыстын ұйымдастыру мен өткізу.
 4. Әлемдік және дәстүрлі діндер лидерлерінің съезі мен институттарының бастамаларын жүзеге асыруға және ілгерілетуге жәрдемдесу.
 5. Халықаралық құрылымдармен дінаралық және мәдениетаралық диалог мәселелері бойынша өзара іс-қимыл.
@@ -16818,26 +17391,16 @@ _________________________
 9. Қазақстан Республикасындағы діни ахуалды талдау.
 10. Мемлекеттік-конфессиялық қатынас саласындағы әдістемелік материалды, оқу құралдары мен басқа да оқу-әдістемелік әдебиеттер дайындау жұмысын ұйымдастыру.
 11. «Қоғам өмірінің діни-этникалық факторы: өзара негізділік, проблемалық аспектілер мен даму үрдісі» тақырыбында зерттеу жүргізу.
+12. «Қазақстанда діни білім беруді дамыту: нысандары, түрлері, әдістері, мақсатты аудиториясы» тақырыбында зерттеу жүргізу.
+13. Діни және дінтану терминдерінің қазақ-орыс-ағылшын сөздігін жасау.
 </td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
-<td>
-«Конфессияаралық және өркениетаралық диалогты дамыту жөніндегі
-Н.Назарбаев орталығы» КЕАҚ
-</td>
+<td>«Конфессияаралық және өркениетаралық диалогты дамыту жөніндегі Н.Назарбаев орталығы» КЕАҚ</td>
 <td>
 002 «Қоғамдық келісім саласындағы мемлекеттік саясатты іске асыру»
 102 «Конфессияаралық келісімді нығайту бойынша мемлекеттік саясатты іске асыру»
 </td>
-<td>763 955</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>12. «Қазақстанда діни білім беруді дамыту: нысандары, түрлері, әдістері, мақсатты аудиториясы» тақырыбында зерттеу жүргізу. 13. Діни және дінтану терминдерінің қазақ-орыс-ағылшын сөздігін жасау.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>952 858</td>
 </tr>
 <tr>
 <td>63</td>
@@ -16845,8 +17408,11 @@ _________________________
 <td>«Хабар», «Хабар24», «Ел арна» телеарналары арқылы мемлекеттік ақпараттық саясатты жүргізу бойынша көрсетілетін қызмет</td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
 <td>«Хабар» агенттігі» АҚ</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>19 333 080</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>19 782 204</td>
 </tr>
 <tr>
 <td>64</td>
@@ -16854,8 +17420,11 @@ _________________________
 <td>«Қазақстан», «Балапан», «KazSport», «Первый канал Евразия», «Абай» телеарналары, облыстық телеарналар, «Қазақ радиосы», «Шалқар», «Астана», «Classic» радиолары арқылы мемлекеттік ақпараттық саясатты жүргізу бойынша көрсетілетін қызмет</td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
 <td>«Қазақстан» республикалық телерадиокорпорациясы» АҚ</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>29 380 165</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>30 161 431</td>
 </tr>
 <tr>
 <td>65</td>
@@ -16893,8 +17462,11 @@ _________________________
 <td>Бұқаралық ақпарат құралдарын мониторингтеуді техникалық және әдістемелік қамтамасыз ету жұмыстарын жүргізу бойынша көрсетілетін қызмет</td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
 <td>«Талдау және ақпарат орталығы» ШЖҚ РМК</td>
-<td>003 «Мемлекеттік ақпараттық саясатты жүргізу» 100 «Мемлекеттік ақпараттық тапсырысты орналастыру»</td>
-<td>1 469 145</td>
+<td>
+003 «Мемлекеттік ақпараттық саясатты жүргізу»
+100 «Мемлекеттік ақпараттық тапсырысты орналастыру»
+</td>
+<td>1 506 877</td>
 </tr>
 <tr>
 <td>69</td>
@@ -16929,12 +17501,12 @@ _________________________
 <td>Қоғамдық даму үшін балалар мемлекеттік тілде тұтынатын контентті ұлғайту үшін мультипликациясы бар балаларға арналған танымал арналарды қазақ тіліне аудару</td>
 <td>Балалар мемлекеттік тілде тұтынатын контентті ұлғайту үшін мультипликациясы бар балаларға арналған танымал арналарға құқық алу және оларды қазақ тіліне аудару</td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
-<td>«Қазақстандық қоғамдық даму институты» КеАҚ</td>
+<td>«Қазақстандық қоғамдық даму институты» КЕАҚ</td>
 <td>
 004 «Азаматтық қоғам институттары мен мемлекеттің өзара қарым-қатынасын нығайтуды қамтамасыз ету, қоғамдық сананы жаңғырту»
 102 «Қоғамдық сананы жаңғырту саласындағы іс-шараларды өткізу»
 </td>
-<td>507 261</td>
+<td>181 503</td>
 </tr>
 <tr>
 <td>72</td>
@@ -16976,7 +17548,7 @@ _________________________
 033 «Мәдениет және өнер саласындағы бәсекелестікті жоғарылату, қазақстандық мәдени мұраны сақтау, зерделеу мен насихаттау және архив ісінің іске асырылу тиімділігін арттыру»
 105 «Әлеуметтік маңызы бар және мәдени іс-шаралар өткізу»
 </td>
-<td>5 551 604</td>
+<td>6 551 604</td>
 </tr>
 <tr>
 <td>76</td>
@@ -17005,8 +17577,11 @@ _________________________
 <td>Оқу процесін даярлауды ұйымдастыру және білім беру қызметін ұсыну</td>
 <td>Қазақстан Республикасы Мәдениет және ақпарат министрлігі</td>
 <td>«Қазақ ұлттық хореография академиясы» ШЖҚ РМК</td>
-<td>041 «Мәдениет пен өнер саласында кадрлар даярлау» 103 «Хореография саласындағы білім беру үрдісін қамтамасыз ету»</td>
-<td>1 196 662</td>
+<td>
+041 «Мәдениет пен өнер саласында кадрлар даярлау»
+103 «Хореография саласындағы білім беру үрдісін қамтамасыз ету»
+</td>
+<td>1 241 010</td>
 </tr>
 <tr>
 <td>79</td>
