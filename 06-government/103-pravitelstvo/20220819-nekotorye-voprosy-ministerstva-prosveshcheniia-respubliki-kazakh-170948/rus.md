@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/170948/rus/28.06.2024
+source: https://zan.gov.kz/client/#!/doc/170948/rus/27.09.2024
 ---
 
 # Некоторые вопросы Министерства просвещения Республики Казахстан
