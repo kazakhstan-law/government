@@ -1,5 +1,5 @@
 ---
-version_id: '190062_724504'
+version_id: '190062_726964'
 act_code: '190062'
 language: kaz
 title: «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-09-25
+version_date: 2024-10-31
 registry_number: '190062'
 caused_by:
-  code: '201606'
-  title: 2024 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2023 жылғы 12 желтоқсандағы № 1108 қаулысына өзгерістер мен толықтырулар енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/201606/kaz
-source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
+  code: '202171'
+  title: 2024 жылға арналған республикалық бюджеттің көрсеткіштерін түзету және «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы» Қазақстан Республикасы Үкіметінің 2023 жылғы 12 желтоқсандағы № 1108 қаулысына өзгерістер мен толықтыру енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/202171/kaz
+source: https://zan.gov.kz/client/#!/doc/190062/kaz/31.10.2024
 ---
 
 # «2024 – 2026 жылдарға арналған республикалық бюджет туралы» Қазақстан Республикасының Заңын іске асыру туралы
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 
 ## Басым республикалық бюджеттік инвестициялардың тізбесі
 
-> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 08.04.2024 № 259 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 09.08.2024 № 643 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 1-қосымшаға өзгерістер енгізілді - ҚР Үкіметінің 07.03.2024 № 155 (01.01.2024 бастап қолданысқа енгiзiледi); 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 08.04.2024 № 259 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 09.08.2024 № 643 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі); 31.10.2024 № 911 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th></th>
 <th colspan="3"></th>
 <th colspan="4">Барлығы:</th>
-<th colspan="6">2 277 765 250</th>
+<th colspan="6">2 272 042 302</th>
 <th colspan="2">996 572 394</th>
 <th>105 457 677</th>
 </tr>
@@ -3249,7 +3249,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">III. Нысаналы даму трансферттері</th>
-<th colspan="8">152 721 971</th>
+<th colspan="8">146 999 023</th>
 <th colspan="2">879 959 290</th>
 <th colspan="2">32 888 046</th>
 </tr>
@@ -4463,7 +4463,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">Отын-энергетика кешенi және жер қойнауын пайдалану</th>
-<th colspan="8">30 921 141</th>
+<th colspan="8">25 198 193</th>
 <th colspan="2">21 563 921</th>
 <th colspan="2">12 995 059</th>
 </tr>
@@ -4473,7 +4473,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="3"></th>
 <th colspan="4"></th>
 <th colspan="9">Қазақстан Республикасы Энергетика министрлігі</th>
-<th colspan="8">30 921 141</th>
+<th colspan="8">25 198 193</th>
 <th colspan="2">21 563 921</th>
 <th colspan="2">12 995 059</th>
 </tr>
@@ -4614,7 +4614,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="3">041</td>
 <td colspan="4"></td>
 <td colspan="9">Жылу-электр энергетикасын дамыту</td>
-<td colspan="8">24 782 783</td>
+<td colspan="8">19 059 835</td>
 <td colspan="2">876 224</td>
 <td colspan="2"></td>
 </tr>
@@ -4625,7 +4625,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="4">101</td>
 <td colspan="7"></td>
 <td colspan="2">Облыстық бюджеттерге, республикалық маңызы бар қалалардың, астананың бюджеттеріне жылу-энергетика жүйесін дамытуға берілетін нысаналы даму трансферттері</td>
-<td colspan="8">24 782 783</td>
+<td colspan="8">19 059 835</td>
 <td colspan="2">876 224</td>
 <td colspan="2"></td>
 </tr>
@@ -4669,7 +4669,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="2">Астана қаласы</th>
-<th colspan="8">24 482 783</th>
+<th colspan="8">18 759 835</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6131,7 +6131,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақмола облысы</th>
-<th colspan="8">5 474 095</th>
+<th colspan="8">2 885 029</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6153,7 +6153,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Ақмола облысы Сандықтау ауданының Красная поляна, Петриковка және Арбузинка ауылдарында топтық су құбырын салу</td>
-<td colspan="8">363 055</td>
+<td colspan="8">167 471</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6164,7 +6164,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Покровкалық жер асты сулары кен орнынан Ақмола облысы Целиноград ауданының Талапкер және Қажымұқан ауылдарына дейін су таратқыш салу. 1-кезек</td>
-<td colspan="8">4 000 000</td>
+<td colspan="8">2 250 459</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6175,7 +6175,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Астана қаласының қорғаныш бөгетін бұрма каналы бар апаттық су ағызғыш орната отырып реконструкциялау</td>
-<td colspan="8">995 918</td>
+<td colspan="8">291 403</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6186,7 +6186,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Ақмола облысындағы Есіл өзенінде Есіл қарсы реттегішінің құрылысы» ЖСҚ әзірлеу</td>
-<td colspan="8">11 309</td>
+<td colspan="8">3 383</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6224,15 +6224,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Ақмола облысының Алуа жайылма суарудың бас құрылысын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">2 500</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6257,26 +6249,29 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="7"></td>
+<td colspan="3">«Ақмола облысындағы Астана су қоймасының құрылысжайларын реконструкциялау мен жаңғырту» ЖСҚ әзірлеу</td>
+<td colspan="8">71 000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3"></th>
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақтөбе облысы</th>
-<th colspan="8">542 911</th>
+<th colspan="8">502 183</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қарғалы өзеніндегі Қарғалы су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">3 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6285,7 +6280,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Ақтөбе облысының Елек өзеніндегі Ақтөбе су қоймасын реконструкциялау</td>
-<td colspan="8">539 911</td>
+<td colspan="8">502 183</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6296,7 +6291,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Алматы облысы</th>
-<th colspan="8">941 713</th>
+<th colspan="8">1 722 194</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6307,7 +6302,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Алматы облысы Еңбекшіқазақ ауданы «Д. Қонаев атындағы ҮАК» магистральды каналының авариялық учаскелерін ПК-130-дан ПК-138+86-ға дейін; ПК-166+70-тен ПК-170+14-ге дейін; ПК-223-тен ПК-226-ға дейін реконструкциялау</td>
-<td colspan="8">674 500</td>
+<td colspan="8">778 339</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6318,7 +6313,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Алматы облысы Қарасай ауданында Қаскелең топтық суағарының құрылысы 1-кезек (2-іске қосу кешені) ЖЖ. Түзету</td>
-<td colspan="8">157 307</td>
+<td colspan="8">617 303</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6329,20 +6324,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Алматы облысы Қарасай ауданында Қаскелең топтық суағарының құрылысы. Құрылыстың I кезегі (3-іске қосу кешені). Түзету</td>
-<td colspan="8">100 000</td>
+<td colspan="8">319 646</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Алматы облысындағы Бартоғай су қоймасы бөгетінің сейсмикалық тұрақтылығын реконструкциялау және арттыру» ЖСҚ әзірлеу</td>
-<td colspan="8">3 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6461,7 +6448,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Атырау облысы</th>
-<th colspan="8">3 243 249</th>
+<th colspan="8">1 680 117</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -6472,7 +6459,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Атырау облысы Индер ауданының «Бағырлай» каналын реконструкциялау</td>
-<td colspan="8">500 000</td>
+<td colspan="8">141 781</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6483,7 +6470,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Атырау облысы Құрманғазы ауданындағы, «Кобяков-Забұрын» каналын жаңғырту үшін жобалау сметалық құжаттамасын жасақтау</td>
-<td colspan="8">361 550</td>
+<td colspan="8">125 230</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6494,7 +6481,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Атырау облысы Индер ауданының «Құрайлы сай» каналын реконструкциялау</td>
-<td colspan="8">436 116</td>
+<td colspan="8">134 049</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6505,7 +6492,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Атырау облысы Қызылқоға ауданының Миялы ауылында «Ералы» гидроторабындағы гидротехникалық құрылыстарды реконструкциялау</td>
-<td colspan="8">396 877</td>
+<td colspan="8">114 486</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6527,7 +6514,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Атырау облысы Қызылқоға ауданының «Тайсойған-Миялы» магистральды су құбырын салу</td>
-<td colspan="8">1 100 000</td>
+<td colspan="8">715 865</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6538,7 +6525,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Шығыс Қазақстан облысы</td>
-<td colspan="8">21 500</td>
+<td colspan="8">150 500</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6560,7 +6547,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Тарбағатай ауданы Қандысу су қоймасының құрылыстарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">1 000</td>
+<td colspan="8">80 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6571,7 +6558,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Тарбағатай ауданы Қандысу өзеніндегі СЖМ және Есенгелді магистральдық каналдары бар Қандысу су торабын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">500</td>
+<td colspan="8">50 500</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6615,7 +6602,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Жамбыл облысы</td>
-<td colspan="8">200 819</td>
+<td colspan="8">142 404</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6626,7 +6613,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Жамбыл облысы Жуалы ауданындағы Теріс-Ащыбұлақ су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">13 750</td>
+<td colspan="8">3 170</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6637,20 +6624,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Жамбыл облысы Қордай ауданындағы Қарақоңыз су қоймасын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">13 700</td>
+<td colspan="8">4 197</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Жамбыл облысы Қордай ауданындағы Ырғайты өзеніндегі Ырғайты су қоймасының құрылысы» ЖСҚ әзірлеу</td>
-<td colspan="8">13 378</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6659,7 +6638,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Жамбыл облысы Қордай ауданындағы Қалғұты өзеніндегі Қалғұты су қоймасының құрылысы» ЖСҚ әзірлеу</td>
-<td colspan="8">7 864</td>
+<td colspan="8">3 564</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6670,7 +6649,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Жамбыл облысы Талас және Байзақ аудандарының шекарасындағы Талас өзенінде Ақмола су қоймасының құрылысы» ЖСҚ әзірлеу</td>
-<td colspan="8">7 000</td>
+<td colspan="8">4 045</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -6807,15 +6786,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Р-17-1 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">440</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6873,15 +6844,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Наурызбай ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6906,15 +6869,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Ошақбай-2 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">600</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6939,15 +6894,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Қарымсақ ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -6994,15 +6941,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Жаңасаз ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7071,37 +7010,13 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Безымянный земляной ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Құдайқұл-1 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Құдайқұл-2 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7203,15 +7118,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Байзақ ауданының Назарбек-1 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7390,15 +7297,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Оң тармақ ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7434,15 +7333,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Мұнай базасы ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">200</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7555,15 +7446,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының ШҚ-3 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7610,92 +7493,28 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Сельский 1 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">160</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Сельский 2 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">220</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Сельский 3 ШІК каналдарын реконструкциялау » ЖСҚ әзірлеу</td>
-<td colspan="8">140</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Сельский 4 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">140</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Полевой 3 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">140</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-112 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">480</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-114 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">340</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Сортопытный ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">220</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7709,15 +7528,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-118 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7726,97 +7537,33 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Қордай ауданының Р-118* ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">1 480</td>
+<td colspan="8">1 321</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-118а ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">440</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-120 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">680</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-122а ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">720</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-122б ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">340</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-122в ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">340</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-124 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">440</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-124а ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">440</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-126 ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">960</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -7830,26 +7577,10 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-128а ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">560</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Қордай ауданының Р-128б ШІК каналдарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">740</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <th colspan="4"></th>
@@ -7858,7 +7589,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Батыс Қазақстан облысы</th>
-<th colspan="8">3 869 916</th>
+<th colspan="8">1 990 411</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -7869,7 +7600,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қазақстан Республикасы, Батыс Қазақстан облысы, Жәнібек ауданы мекенжайында орналасқан БҚО Орда топтық су құбырын реконструкциялау V кезегі (Мұратсай-Жәнібек су таратқышы)</td>
-<td colspan="8">1 525 208</td>
+<td colspan="8">723 695</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -7880,7 +7611,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Батыс Қазақстан облысы Ақжайық ауданының Тоған кентіндегі Киров су қоймасын реконструкциялау</td>
-<td colspan="8">1 292 094</td>
+<td colspan="8">953 694</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -7891,7 +7622,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Батыс Қазақстан облысы Орал-Көшім ССЖ Шаған тармағы және Көшім магистральды каналын механикаландырылған тазарту</td>
-<td colspan="8">1 000 000</td>
+<td colspan="8">260 408</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8034,7 +7765,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қарағанды облысы</td>
-<td colspan="8">38 531</td>
+<td colspan="8">29 518</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8045,7 +7776,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Қарағанды облысы Үлкен-Құндызды өзеніндегі Садовое су қоймасының құрылысы» ТЭН әзірлеуді аяқтау</td>
-<td colspan="8">5 151</td>
+<td colspan="8">1 404</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8133,7 +7864,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Қарағанды облысы Қарқаралы ауданы Ынталы а/о Нұра өзенінде су қоймасының құрылысы» ТЭН әзірлеу</td>
-<td colspan="8">6 200</td>
+<td colspan="8">934</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8144,7 +7875,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қостанай облысы</th>
-<th colspan="8">316 045</th>
+<th colspan="8">265 609</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -8155,7 +7886,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қостанай облысы Жангелдин ауданының «Албарбөгет» бөгетін реконструкциялау</td>
-<td colspan="8">316 045</td>
+<td colspan="8">265 609</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8166,7 +7897,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қызылорда облысы</th>
-<th colspan="8">6 965 908</th>
+<th colspan="8">7 484 216</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -8210,7 +7941,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қызылорда облысы Жаңақорған ауданындағы «Тақыркөл» бас су қабылдағышынан № 1 сорғы станциясына дейін магистральдық су тартқыштың екінші желісін салу</td>
-<td colspan="8">303 554</td>
+<td colspan="8">429 073</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8221,7 +7952,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қызылорда облысы Шиелі ауданындағы «Тақыркөл» бас су қабылдағышынан № 3 сорғы станциясына дейін магистральдық су құбырының екінші желісін салу</td>
-<td colspan="8">951 574</td>
+<td colspan="8">1 357 363</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8270,15 +8001,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«26 магистралды және шаруашылықаралық арналарды реконструкциялау («Новошиели МК», о-2, Р-7, «Келтөбе МК», «Қызылорда оң жағалауы МК», Р-12, Қазалы оң жағалауы МК, Әйтек, Сүнақата, Қамыстықак, Жаңаорық, Р-1, ЛМК-9, ЛМК-11В, ЛМК-15В, ЛМК - 17а, Ботабай, Жетікөл-Жарма, Шонық, Сол тармақ, Коммунизм, Құрайлы, Оң тармақ, Наурызбай, Балжарма)» ЖСҚ әзірлеу</td>
-<td colspan="8">10 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -8402,15 +8125,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">Қызылорда облысында Қызылорда сол жағалауы магистральдық каналын автоматтандыруға арналған ЖІЖ ЖСҚ әзірлеу</td>
-<td colspan="8">3 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -8485,20 +8200,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Абай облысы</td>
-<td colspan="8">39 240</td>
+<td colspan="8">264 240</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Абай облысы Үржар ауданы Қаракөл су қоймасының құрылысын аяқтау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -8507,7 +8214,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Үржар ауданының Қарабұта өзеніндегі Ақтоған, Татар, Белбастау магистральдық каналдары бар бөгеттік су торабын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">45 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8518,7 +8225,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Үржар ауданы Көктерек өзеніндегі Бұрғон және Жанбас магистральдық каналдары бар бөгеттік гидроторапты реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">45 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8562,7 +8269,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Үржар ауданы ауданының суармалы жерлерін сумен қамтамасыз ету үшін су шаруашылығы жүйелері мен құрылыстарын реконструкциялау және қалпына келтіру 10 канал (Отгонный, Назар-Орал, Тоқтыбай, Соединительный, Амангелді, Алмалы, Шошқалы) Қызылшоқы, Ақбастау, Жанай)» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">105 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8573,7 +8280,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Жарма ауданы ауданының суармалы жерлерін сумен қамтамасыз ету үшін су шаруашылығы жүйелері мен құрылыстарын реконструкциялау және қалпына келтіру 5 канал (Гольцовский, Бөгенбай, Қорықшар, Трудовой, Ақтоған)» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">55 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8672,7 +8379,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ұлытау облысы</th>
-<th colspan="8">7 241 939</th>
+<th colspan="8">10 311 244</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -8683,7 +8390,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Жезқазған қ. ШАТИ дейін су таратқыш сала отырып, Үйтас-Айдос су жинағышының ІІ көтергіш сорғы станциясын реконструкциялау</td>
-<td colspan="8">6 962 800</td>
+<td colspan="8">9 909 203</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8694,20 +8401,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Қарағанды облысының Жезқазған қаласын сумен жабдықтауды ескере отырып, Есқұла су құбырын салу (Түзету 2)</td>
-<td colspan="8">273 575</td>
+<td colspan="8">402 041</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Жезқазған қаласы, Талап а/о Жезді магистральдық каналын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 564</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <th colspan="4"></th>
@@ -8716,7 +8415,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Солтүстік Қазақстан облысы</th>
-<th colspan="8">11 418 706</th>
+<th colspan="8">12 218 706</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -8727,7 +8426,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Соколов топтық су құбырын реконструкциялау және ауылдық елді мекендерді қосып таратушы желілерді салу. 2-ші кезек</td>
-<td colspan="8">1 500 000</td>
+<td colspan="8">857 887</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8749,7 +8448,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысындағы Булаево топтық су құбырының авариялық учаскелерін реконструкциялау. III кезек</td>
-<td colspan="8">1 700 000</td>
+<td colspan="8">2 200 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8760,7 +8459,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысындағы Есіл су құбырының авариялық учаскелерін реконструкциялау. III кезек</td>
-<td colspan="8">1 300 000</td>
+<td colspan="8">1 942 113</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8798,15 +8497,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">Көкшетау топтық су құбырын реконструкциялау, құрылыстың үшінші кезегі. Солтүстік Қазақстан облысы Айыртау ауданы мен Шал ақын ауданының төртінші көтеру сорғы станциясынан жетінші көтеру сорғы станциясына дейінгі учаске (бірінші кезең)</td>
-<td colspan="8">100 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -8815,7 +8506,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысындағы Булаево топтық су құбырының авариялық учаскелерін реконструкциялау</td>
-<td colspan="8">1 119 006</td>
+<td colspan="8">89 270</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8826,7 +8517,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Солтүстік Қазақстан облысындағы Есіл су құбырының авариялық учаскелерін реконструкциялау</td>
-<td colspan="8">1 114 006</td>
+<td colspan="8">2 143 742</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8848,7 +8539,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Солтүстік Қазақстан облысындағы Есіл топтық су құбырының бас құрылыстарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">205 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8859,7 +8550,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Солтүстік Қазақстан облысындағы Булаев топтық су құбырының бас құрылыстарын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">205 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8870,7 +8561,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Түркістан облысы</th>
-<th colspan="8">5 323 913</th>
+<th colspan="8">5 992 114</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -8881,7 +8572,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Тоғыс су қоймасының инженерлік-техникалық нығайтылуын, қауіпсіздікті қамтамасыз ету жүйесінің құрылғысын жаңғырту</td>
-<td colspan="8">97 689</td>
+<td colspan="8">116 049</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8892,7 +8583,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">Оңтүстік Қазақстан облысы Түлкібас ауданының суару жүйесінің бірінші кезектегі магистральды каналдарын қалпына келтіру және реконстукциялау</td>
-<td colspan="8">1 027 223</td>
+<td colspan="8">2 027 223</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8908,15 +8599,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Түркістан облысы Ордабасы ауданындағы «Р-6» каналын реконструкциялау» ЖЖ</td>
-<td colspan="8">252 218</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -8925,7 +8608,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Түркістан облысы Ордабасы ауданындағы «Қазыналық» каналын реконструкциялау» ЖЖ</td>
-<td colspan="8">255 255</td>
+<td colspan="8">257 314</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -8941,26 +8624,10 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">ОҚО Мақтаарал ауданында суды есептеу және суды таратуды автоматтандырумен гидротехникалық құрылыстары бар К-30 шаруашылықаралық каналын реконструкциялау. Түзету</td>
-<td colspan="8">100 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
-<td colspan="4"></td>
-<td colspan="4"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="7"></td>
-<td colspan="3">«Оңтүстік Қазақстан облысы Шардара және Арыс аудандарындағы Қызылқұм магистральді каналын суды бөлуді және суды есептеуді автоматтандырып қайта құру (III кезек)» Түзету</td>
-<td colspan="8">100 000</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="35"></td>
 </tr>
 <tr>
 <td colspan="4"></td>
@@ -9002,7 +8669,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <td colspan="2"></td>
 <td colspan="7"></td>
 <td colspan="3">«Арыс қаласын сумен жабдықтау жүйелерінің тазарту құрылысын реконструкциялау» ЖСҚ әзірлеу</td>
-<td colspan="8">5 000</td>
+<td colspan="8">105 000</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 </tr>
@@ -12249,7 +11916,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Ақмола облысы</th>
-<th colspan="8">170 303</th>
+<th colspan="8">179 575</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12260,7 +11927,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Алматы облысы</th>
-<th colspan="8">4 300 000</th>
+<th colspan="8">2 950 000</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12282,7 +11949,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Жамбыл облысы</th>
-<th colspan="8">1 847 078</th>
+<th colspan="8">2 088 035</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12293,7 +11960,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Қызылорда облысы</th>
-<th colspan="8">1 196 502</th>
+<th colspan="8">1 167 356</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12315,7 +11982,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Павлодар облысы</th>
-<th colspan="8">1 561 016</th>
+<th colspan="8">1 731 172</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -12326,7 +11993,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/kaz/25.09.2024
 <th colspan="2"></th>
 <th colspan="7"></th>
 <th colspan="3">Түркістан облысы</th>
-<th colspan="8">4 248 912</th>
+<th colspan="8">5 207 673</th>
 <th colspan="2"></th>
 <th colspan="2"></th>
 </tr>
@@ -15112,7 +14779,7 @@ _______________________________
 
 ## Облыстық бюджеттерге аудандардың (облыстық маңызы бар қалалардың) әкімдерін сайлауды қамтамасыз етуге және өткізуге берілетін ағымдағы нысаналы трансферттердің сомаларын бөлу
 
-> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 20-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 28.06.2024 № 515 (01.01.2024 бастап қолданысқа енгізіледі); 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі); 31.10.2024 № 911 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15123,92 +14790,92 @@ _______________________________
 <tr>
 <th></th>
 <th>Барлығы</th>
-<th>2 241 143</th>
+<th>1 884 840</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Ақмола облысы</td>
-<td>234 003</td>
+<td>196 801</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Ақтөбе облысы</td>
-<td>100 776</td>
+<td>84 755</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматы облысы</td>
-<td>138 720</td>
+<td>116 666</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырау облысы</td>
-<td>77 669</td>
+<td>65 321</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Шығыс Қазақстан облысы</td>
-<td>139 568</td>
+<td>117 379</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбыл облысы</td>
-<td>131 489</td>
+<td>110 584</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Батыс Қазақстан облысы</td>
-<td>130 074</td>
+<td>109 394</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Қарағанды облысы</td>
-<td>110 956</td>
+<td>93 316</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Қостанай облысы</td>
-<td>249 875</td>
+<td>210 149</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Қызылорда облысы</td>
-<td>93 906</td>
+<td>78 976</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Маңғыстау облысы</td>
-<td>52 148</td>
+<td>43 857</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Абай облысы</td>
-<td>58 606</td>
+<td>49 289</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Жетісу облысы</td>
-<td>112 944</td>
+<td>94 988</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Ұлытау облысы</td>
-<td>35 467</td>
+<td>29 828</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Павлодар облысы</td>
-<td>113 462</td>
+<td>95 424</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Солтүстік Қазақстан облысы</td>
-<td>130 093</td>
+<td>109 411</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Түркістан облысы</td>
-<td>331 387</td>
+<td>278 702</td>
 </tr>
 <tr>
 <td colspan="3">_________________________</td>
@@ -15760,7 +15427,7 @@ _______________________________
 
 ## Қазақстан Республикасының Үкіметі резервінің сомаларын бөлу
 
-> *Ескерту. 26-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі; 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. 26-қосымша жаңа редакцияда - ҚР Үкіметінің 30.03.2024 № 244 (01.01.2024 бастап қолданысқа енгiзiледi); 02.05.2024 № 353 (01.01.2024 бастап қолданысқа енгізіледі; 28.08.2024 № 701 (01.01.2024 бастап қолданысқа енгізіледі); 25.09.2024 № 777 (01.01.2024 бастап қолданысқа енгізіледі); 31.10.2024 № 911 (01.01.2024 бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -15783,14 +15450,14 @@ _______________________________
 <th></th>
 <th></th>
 <th>Қазақстан Республикасы Қаржы министрлігі</th>
-<th>522 182 515</th>
+<th>567 301 402</th>
 </tr>
 <tr>
 <td></td>
 <td>010</td>
 <td></td>
 <td>Қазақстан Республикасы Үкiметiнiң резервi</td>
-<td>522 182 515</td>
+<td>567 301 402</td>
 </tr>
 <tr>
 <td></td>
@@ -15804,7 +15471,7 @@ _______________________________
 <td></td>
 <td>101</td>
 <td>Қазақстан Республикасы Үкіметінің шұғыл шығындарға арналған резерві</td>
-<td>468 464 157</td>
+<td>513 583 044</td>
 </tr>
 <tr>
 <td></td>

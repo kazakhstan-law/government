@@ -1,5 +1,5 @@
 ---
-version_id: '190062_724505'
+version_id: '190062_726965'
 act_code: '190062'
 language: rus
 title: О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '103000000000'
 approval_date: 2023-12-12
-version_date: 2024-09-25
+version_date: 2024-10-31
 registry_number: '190062'
 caused_by:
-  code: '201606'
-  title: О корректировке показателей республиканского бюджета на 2024 год и внесении изменений и дополнений в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
-  link: https://zan.gov.kz/client/#!/doc/201606/rus
-source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
+  code: '202171'
+  title: О корректировке показателей республиканского бюджета на 2024 год и внесении изменений и дополнения в постановление Правительства Республики Казахстан от 12 декабря 2023 года № 1108 «О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
+  link: https://zan.gov.kz/client/#!/doc/202171/rus
+source: https://zan.gov.kz/client/#!/doc/190062/rus/31.10.2024
 ---
 
 # О реализации Закона Республики Казахстан «О республиканском бюджете на 2024 – 2026 годы»
@@ -139,7 +139,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 
 ## Перечень приоритетных республиканских бюджетных инвестиций
 
-> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 08.04.2024 № 259 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024): от 09.08.2024 № 643 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 с изменениями, внесенными постановлениями Правительства РК от 07.03.2024 № 155 (вводится в действие с 01.01.2024); от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 08.04.2024 № 259 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024): от 09.08.2024 № 643 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024); от 31.10.2024 № 911 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -171,7 +171,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="4"></th>
 <th colspan="4"></th>
 <th colspan="3">Всего:</th>
-<th colspan="3">2 277 765 250</th>
+<th colspan="3">2 272 042 302</th>
 <th colspan="4">996 572 394</th>
 <th colspan="4">105 457 677</th>
 </tr>
@@ -3227,7 +3227,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">III. Целевые трансферты на развитие</th>
-<th colspan="6">152 721 971</th>
+<th colspan="6">146 999 023</th>
 <th colspan="4">879 959 290</th>
 <th colspan="4">32 888 046</th>
 </tr>
@@ -4442,7 +4442,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">Топливно-энергетический комплекс и недропользование</th>
-<th colspan="6">30 921 141</th>
+<th colspan="6">25 198 193</th>
 <th colspan="4">21 563 921</th>
 <th colspan="4">12 995 059</th>
 </tr>
@@ -4452,7 +4452,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="4"></th>
 <th colspan="7"></th>
 <th colspan="8">Министерство энергетики Республики Казахстан</th>
-<th colspan="6">30 921 141</th>
+<th colspan="6">25 198 193</th>
 <th colspan="4">21 563 921</th>
 <th colspan="4">12 995 059</th>
 </tr>
@@ -4593,7 +4593,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4">041</td>
 <td colspan="7"></td>
 <td colspan="8">Развитие тепло-, электроэнергетики</td>
-<td colspan="6">24 782 783</td>
+<td colspan="6">19 059 835</td>
 <td colspan="4">876 224</td>
 <td colspan="4"></td>
 </tr>
@@ -4604,7 +4604,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7">101</td>
 <td></td>
 <td colspan="7">Целевые трансферты на развитие областным бюджетам, бюджетам городов республиканского значения, столицы на развитие теплоэнергетической системы</td>
-<td colspan="6">24 782 783</td>
+<td colspan="6">19 059 835</td>
 <td colspan="4">876 224</td>
 <td colspan="4"></td>
 </tr>
@@ -4648,7 +4648,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th></th>
 <th colspan="7">город Астана</th>
-<th colspan="6">24 482 783</th>
+<th colspan="6">18 759 835</th>
 <th colspan="4"></th>
 <th colspan="4"></th>
 </tr>
@@ -6109,7 +6109,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Акмолинская область</th>
-<th colspan="5">5 474 095</th>
+<th colspan="5">2 885 029</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6131,7 +6131,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство группового водопровода в селах Красная поляна, Петриковка и Арбузинка Сандыктауского района Акмолинской области</td>
-<td colspan="5">363 055</td>
+<td colspan="5">167 471</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6142,7 +6142,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство водовода Покровского месторождения подземных вод до сел Талапкер и Кажымукан Целиноградского района Акмолинской области. 1-я очередь</td>
-<td colspan="5">4 000 000</td>
+<td colspan="5">2 250 459</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6153,7 +6153,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция защитной дамбы города Астаны с устройством катастрофического водосброса с отводящим каналом</td>
-<td colspan="5">995 918</td>
+<td colspan="5">291 403</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6164,7 +6164,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Строительство Есильского контррегулятора на реке Есиль в Акмолинской области»</td>
-<td colspan="5">11 309</td>
+<td colspan="5">3 383</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6202,15 +6202,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция головного сооружения лиманного орошения Алва Акмолинской области»</td>
-<td colspan="5">2 500</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6235,13 +6227,24 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="7"></td>
+<td colspan="2"></td>
+<td colspan="9">Разработка ПСД «Реконструкция и модернизация сооружений Астанинского водохранилища в Акмолинской области»</td>
+<td colspan="5">71 000</td>
+<td colspan="5"></td>
+<td colspan="4"></td>
+</tr>
+<tr>
 <th></th>
 <th colspan="2"></th>
 <th colspan="3"></th>
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Актюбинская область</th>
-<th colspan="5">542 911</th>
+<th colspan="5">502 183</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6252,20 +6255,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Актюбинского водохранилища на реке Илек в Актюбинской области</td>
-<td colspan="5">539 911</td>
+<td colspan="5">502 183</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция Каргалинского водохранилища на реке Каргалы»</td>
-<td colspan="5">3 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <th></th>
@@ -6274,7 +6269,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Алматинская область</th>
-<th colspan="5">941 713</th>
+<th colspan="5">1 722 194</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6285,7 +6280,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков магистрального канала «БАК им.Д.Кунаева» с ПК-130 по ПК-138+86; с ПК-166+70 по ПК-170+14; с ПК-223 по ПК-226 Енбекшиказахского района Алматинской области</td>
-<td colspan="5">674 500</td>
+<td colspan="5">778 339</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6296,7 +6291,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">РП Строительство Каскеленского группового водовода в Карасайском районе Алматинской области 1 очередь (2 пусковой комплекс) строительства. Корректировка</td>
-<td colspan="5">157 307</td>
+<td colspan="5">617 303</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6307,20 +6302,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство Каскеленского группового водовода в Карасайском районе Алматинской области. I очередь (3-й пусковой комплекс) строительства. Корректировка</td>
-<td colspan="5">100 000</td>
+<td colspan="5">319 646</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция и повышение сейсмоустойчивости плотины Бартогайского водохранилища в Алматинской области»</td>
-<td colspan="5">3 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6453,7 +6440,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Атырауская область</th>
-<th colspan="5">3 243 249</th>
+<th colspan="5">1 680 117</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -6464,7 +6451,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция канала «Багырлай» Индерского района Атырауской области</td>
-<td colspan="5">500 000</td>
+<td colspan="5">141 781</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6475,7 +6462,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка проектно-сметной документации на реконструкцию канала «Кобяково-Забурунье» Курмангазинского района Атырауской области</td>
-<td colspan="5">361 550</td>
+<td colspan="5">125 230</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6486,7 +6473,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция канала «Қурайлы сай» Индерского района Атырауской области</td>
-<td colspan="5">436 116</td>
+<td colspan="5">134 049</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6497,7 +6484,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция гидротехнических сооружений, находящихся на «Ералинском» гидроузле в с. Миялы Кызылкогинского района Атырауской области</td>
-<td colspan="5">396 877</td>
+<td colspan="5">114 486</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6519,7 +6506,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство магистрального водопровода «Тайсойган-Миялы» Кызылкогинского района Атырауской области</td>
-<td colspan="5">1 100 000</td>
+<td colspan="5">715 865</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6530,7 +6517,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Восточно-Казахстанская область</td>
-<td colspan="5">21 500</td>
+<td colspan="5">150 500</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6552,7 +6539,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция сооружений Кандысуйского водохранилища Тарбагатайского района»</td>
-<td colspan="5">1 000</td>
+<td colspan="5">80 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6563,7 +6550,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция гидроузла Кандысу с магистральными каналами ЛМК и Есенгелды на реке Кандысу Тарбагатайского района»</td>
-<td colspan="5">500</td>
+<td colspan="5">50 500</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6607,7 +6594,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Жамбылская область</td>
-<td colspan="5">200 819</td>
+<td colspan="5">142 404</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6618,7 +6605,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция водохранилища Терс-Ащибулак в Жуалынском районе Жамбылской области»</td>
-<td colspan="5">13 750</td>
+<td colspan="5">3 170</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6629,20 +6616,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция Караконызского водохранилища в Кордайском районе Жамбылской области»</td>
-<td colspan="5">13 700</td>
+<td colspan="5">4 197</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Строительство водохранилища Ргайты на реке Ргайты в Кордайском районе Жамбылской области»</td>
-<td colspan="5">13 378</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6651,7 +6630,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Строительство водохранилища Калгуты на реке Калгуты в Кордайском районе Жамбылской области»</td>
-<td colspan="5">7 864</td>
+<td colspan="5">3 564</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6662,7 +6641,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Строительство водохранилища Акмола на реке Талас на границе Таласского и Байзакского районов Жамбылской области»</td>
-<td colspan="5">7 000</td>
+<td colspan="5">4 045</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -6799,15 +6778,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Р-17-1»</td>
-<td colspan="5">440</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6865,15 +6836,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Наурызбай»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6898,15 +6861,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Ошакбай-2»</td>
-<td colspan="5">600</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6931,15 +6886,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Карымсак»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -6986,15 +6933,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Жанасаз»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7063,37 +7002,13 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Безымянный земляной»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кудайкул-1»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Кудайкул-2»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7195,15 +7110,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Байзакского района ВХК Назарбек-1»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7382,15 +7289,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Правый отвод»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7426,15 +7325,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Нефтебаза»</td>
-<td colspan="5">200</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7547,15 +7438,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК КХ-3»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7602,92 +7485,28 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 1»</td>
-<td colspan="5">160</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 2»</td>
-<td colspan="5">220</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 3»</td>
-<td colspan="5">140</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сельский 4»</td>
-<td colspan="5">140</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Полевой 3»</td>
-<td colspan="5">140</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-112»</td>
-<td colspan="5">480</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-114»</td>
-<td colspan="5">340</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Сортопытный»</td>
-<td colspan="5">220</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7701,15 +7520,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118»</td>
-<td colspan="5">880</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7718,97 +7529,33 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118*»</td>
-<td colspan="5">1 480</td>
+<td colspan="5">1 321</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-118а»</td>
-<td colspan="5">440</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-120»</td>
-<td colspan="5">680</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122а»</td>
-<td colspan="5">720</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122б»</td>
-<td colspan="5">340</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-122в»</td>
-<td colspan="5">340</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-124»</td>
-<td colspan="5">440</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-124а»</td>
-<td colspan="5">440</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-126»</td>
-<td colspan="5">960</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -7822,26 +7569,10 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-128а»</td>
-<td colspan="5">560</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция каналов Кордайского района ВХК Р-128б»</td>
-<td colspan="5">740</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <th></th>
@@ -7850,7 +7581,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Западно-Казахстанская область</th>
-<th colspan="5">3 869 916</th>
+<th colspan="5">1 990 411</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -7861,7 +7592,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Урдинского группового водопровода ЗКО V очередь (водовод Муратсай-Жанибек) по месту расположения: Республика Казахстан, Западно-Казахстанская область, Жанибекский р-н</td>
-<td colspan="5">1 525 208</td>
+<td colspan="5">723 695</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -7872,7 +7603,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Кировского водохранилища в пос. Тоган Акжаикского района Западно-Казахстанской области</td>
-<td colspan="5">1 292 094</td>
+<td colspan="5">953 694</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -7883,7 +7614,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Механизированная очистка протоки Чаган и Кушумского магистрального канала Урало-Кушумской ООС, ЗКО</td>
-<td colspan="5">1 000 000</td>
+<td colspan="5">260 408</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8026,7 +7757,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Карагандинская область</td>
-<td colspan="5">38 531</td>
+<td colspan="5">29 518</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8037,7 +7768,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Завершение разработки ТЭО «Строительство водохранилища Садовое на реке Үлкен-Құндызды Карагандинская область»</td>
-<td colspan="5">5 151</td>
+<td colspan="5">1 404</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8125,7 +7856,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ТЭО «Строительство водохранилища на реке Нура Ынталинский с/о Каркаралинский район Карагандинская область»</td>
-<td colspan="5">6 200</td>
+<td colspan="5">934</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8136,7 +7867,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Костанайская область</th>
-<th colspan="5">316 045</th>
+<th colspan="5">265 609</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -8147,7 +7878,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция плотины «Албарбогет» Джангельдинского района Костанайской области</td>
-<td colspan="5">316 045</td>
+<td colspan="5">265 609</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8158,7 +7889,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Кызылординская область</th>
-<th colspan="5">6 965 908</th>
+<th colspan="5">7 484 216</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -8202,7 +7933,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство второй линии магистрального водовода от головного водозабора «Такырколь» до насосной станций № 1 в Жанакорганском районе Кызылординской области</td>
-<td colspan="5">303 554</td>
+<td colspan="5">429 073</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8213,7 +7944,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство второй линии магистрального водовода от головного водозабора «Такырколь» до насосной станций № 3 в Шиелинском районе Кызылординской области</td>
-<td colspan="5">951 574</td>
+<td colspan="5">1 357 363</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8262,15 +7993,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция 26 магистральных и межхозяйственных каналов («Новошиели МК», о-2, Р-7, «Келтөбе МК», «Қызылорда оң жағалауы МК», Р-12, Қазалы оң жағалауы МК, Әйтек, Сүнақата, Қамыстықак, Жаңаорық, Р-1, ЛМК-9, ЛМК-11в, ЛМК-15В, ЛМК - 17а, ботабай, Жетікөл-Жарма, Шонық, Левая ветка, Коммунизм, Құрайлы, Правая ветка, Наурызбай, Балжарма)»</td>
-<td colspan="5">10 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8394,15 +8117,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД ПИР на автоматизацию Кызылординского левобережного магистрального канала в Кызылординской области</td>
-<td colspan="5">3 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8477,20 +8192,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Область Абай</td>
-<td colspan="5">39 240</td>
+<td colspan="5">264 240</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Завершение строительства Каракольского водохранилища Урджарского района области Абай»</td>
-<td colspan="5">5 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8499,7 +8206,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция плотинного гидроузла с магистральными каналами Актоган, Татарский, Белбастау на реке Карабута Урдарского района»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">45 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8510,7 +8217,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция плотинного гидроузла с магистральными каналами Бургон и Жанбас на реке Коктерек Урдарского района»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">45 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8554,7 +8261,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция и восстановление водохозяйственных систем и сооружений для обеспечения водой орошаемых земель Урдарского района 10 каналов (Отгонный, Назар-Орал, Токтыбай, Соединительный, Амангельды, Алмалы, Шошкалы, Кызылшокы, Акбастау, Жанай)»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">105 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8565,7 +8272,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция и восстановление водохозяйственных систем и сооружений для обеспечения водой орошаемых земель Жарминского района 5 каналов (Гольцовский, Богенбай, Корыкшар, Трудовой, Актоган)»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">55 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8664,7 +8371,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Область Ұлытау</th>
-<th colspan="5">7 241 939</th>
+<th colspan="5">10 311 244</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -8675,7 +8382,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция насосной станции II-го подъёма Уйтас-Айдосского водозабора со строительством водовода до ХПОС г.Жезказган</td>
-<td colspan="5">6 962 800</td>
+<td colspan="5">9 909 203</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8686,20 +8393,12 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Строительство Эскулинского водовода с учетом водоснабжения г. Жезказган Карагандинской области (корректировка 2)</td>
-<td colspan="5">273 575</td>
+<td colspan="5">402 041</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Разработка ПСД «Реконструкция магистрального канала Жездинский г.Жезказган, с/о Талап»</td>
-<td colspan="5">5 564</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <th></th>
@@ -8708,7 +8407,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Северо-Казахстанская область</th>
-<th colspan="5">11 418 706</th>
+<th colspan="5">12 218 706</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -8719,7 +8418,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция Соколовского группового водопровода и строительство разводящих сетей сельских населенных пунктов с подключением. 2-я очередь</td>
-<td colspan="5">1 500 000</td>
+<td colspan="5">857 887</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8741,7 +8440,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Булаевского группового водопровода в Северо-Казахстанской области. III-очередь</td>
-<td colspan="5">1 700 000</td>
+<td colspan="5">2 200 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8752,7 +8451,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Ишимского группового водопровода в Северо-Казахстанской области. III-очередь</td>
-<td colspan="5">1 300 000</td>
+<td colspan="5">1 942 113</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8790,15 +8489,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Реконструкция Кокшетауского группового водопровода, третья очередь строительства. Участок от насосной станции четвертого подъёма до насосной станции седьмого подъёма (первый этап) Айыртауского района и района Шал акына Северо-Казахстанской области</td>
-<td colspan="5">100 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8807,7 +8498,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Булаевского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="5">1 119 006</td>
+<td colspan="5">89 270</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8818,7 +8509,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Реконструкция аварийных участков Ишимского группового водопровода в Северо-Казахстанской области</td>
-<td colspan="5">1 114 006</td>
+<td colspan="5">2 143 742</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8840,7 +8531,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция головных сооружений Ишимского группового водопровода в Северо-Казахстанской области»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">205 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8851,7 +8542,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция головных сооружений Булаевского группового водопровода в Северо-Казахстанской области»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">205 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8862,7 +8553,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Туркестанская область</th>
-<th colspan="5">5 323 913</th>
+<th colspan="5">5 992 114</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -8873,7 +8564,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Модернизация инженерно-технической укрепленности водохранилища Тогус, устройство системы обеспечения безопасности</td>
-<td colspan="5">97 689</td>
+<td colspan="5">116 049</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8884,7 +8575,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Восстановление и реконструкция первоочередных магистральных каналов оросительной системы Тюлькубасского района ЮКО</td>
-<td colspan="5">1 027 223</td>
+<td colspan="5">2 027 223</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8900,15 +8591,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">РП «Реконструкция канала «Р-6» в Ордабасинском районе Туркестанской области»</td>
-<td colspan="5">252 218</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8917,7 +8600,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">РП «Реконструкция канала «Казыналык» в Ордабасинском районе Туркестанской области»</td>
-<td colspan="5">255 255</td>
+<td colspan="5">257 314</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -8933,26 +8616,10 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="4"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Реконструкция межхозяйственного канала К-30 с гидротехническими сооружениями с внедрением автоматизации водоучета и водораспределения в Мактаральском районе ЮКО</td>
-<td colspan="5">100 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="7"></td>
-<td colspan="2"></td>
-<td colspan="9">Реконструкция Кызылкумского магистрального канала с автоматизацией водоучета и водораспределения Шардаринского и Арысского районов Южно-Казахстанской области (3-очередь)</td>
-<td colspan="5">100 000</td>
-<td colspan="5"></td>
-<td colspan="4"></td>
+<td colspan="38"></td>
 </tr>
 <tr>
 <td></td>
@@ -8994,7 +8661,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <td colspan="7"></td>
 <td colspan="2"></td>
 <td colspan="9">Разработка ПСД «Реконструкция очистного сооружения систем водоснабжения г. Арысь»</td>
-<td colspan="5">5 000</td>
+<td colspan="5">105 000</td>
 <td colspan="5"></td>
 <td colspan="4"></td>
 </tr>
@@ -12238,7 +11905,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Акмолинская область</th>
-<th colspan="5">170 303</th>
+<th colspan="5">179 575</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -12249,7 +11916,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Алматинская область</th>
-<th colspan="5">4 300 000</th>
+<th colspan="5">2 950 000</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -12271,7 +11938,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Жамбылская область</th>
-<th colspan="5">1 847 078</th>
+<th colspan="5">2 088 035</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -12282,7 +11949,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Кызылординская область</th>
-<th colspan="5">1 196 502</th>
+<th colspan="5">1 167 356</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -12304,7 +11971,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Павлодарская область</th>
-<th colspan="5">1 561 016</th>
+<th colspan="5">1 731 172</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -12315,7 +11982,7 @@ source: https://zan.gov.kz/client/#!/doc/190062/rus/25.09.2024
 <th colspan="7"></th>
 <th colspan="2"></th>
 <th colspan="9">Туркестанская область</th>
-<th colspan="5">4 248 912</th>
+<th colspan="5">5 207 673</th>
 <th colspan="5"></th>
 <th colspan="4"></th>
 </tr>
@@ -15087,7 +14754,7 @@ __________________________________________________
 
 ## Распределение сумм целевых текущих трансфертов областным бюджетам на обеспечение и проведение выборов акимов районов (городов областного значения)
 
-> *Сноска. Приложение 20 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 20 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 28.06.2024 № 515 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024); от 31.10.2024 № 911 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -15098,92 +14765,92 @@ __________________________________________________
 <tr>
 <th></th>
 <th>Всего</th>
-<th>2 241 143</th>
+<th>1 884 840</th>
 </tr>
 <tr>
 <td>1.</td>
 <td>Акмолинская область</td>
-<td>234 003</td>
+<td>196 801</td>
 </tr>
 <tr>
 <td>2.</td>
 <td>Актюбинская область</td>
-<td>100 776</td>
+<td>84 755</td>
 </tr>
 <tr>
 <td>3.</td>
 <td>Алматинская область</td>
-<td>138 720</td>
+<td>116 666</td>
 </tr>
 <tr>
 <td>4.</td>
 <td>Атырауская область</td>
-<td>77 669</td>
+<td>65 321</td>
 </tr>
 <tr>
 <td>5.</td>
 <td>Восточно-Казахстанская область</td>
-<td>139 568</td>
+<td>117 379</td>
 </tr>
 <tr>
 <td>6.</td>
 <td>Жамбылская область</td>
-<td>131 489</td>
+<td>110 584</td>
 </tr>
 <tr>
 <td>7.</td>
 <td>Западно-Казахстанская область</td>
-<td>130 074</td>
+<td>109 394</td>
 </tr>
 <tr>
 <td>8.</td>
 <td>Карагандинская область</td>
-<td>110 956</td>
+<td>93 316</td>
 </tr>
 <tr>
 <td>9.</td>
 <td>Костанайская область</td>
-<td>249 875</td>
+<td>210 149</td>
 </tr>
 <tr>
 <td>10.</td>
 <td>Кызылординская область</td>
-<td>93 906</td>
+<td>78 976</td>
 </tr>
 <tr>
 <td>11.</td>
 <td>Мангистауская область</td>
-<td>52 148</td>
+<td>43 857</td>
 </tr>
 <tr>
 <td>12.</td>
 <td>Область Абай</td>
-<td>58 606</td>
+<td>49 289</td>
 </tr>
 <tr>
 <td>13.</td>
 <td>Область Жетісу</td>
-<td>112 944</td>
+<td>94 988</td>
 </tr>
 <tr>
 <td>14.</td>
 <td>Область Ұлытау</td>
-<td>35 467</td>
+<td>29 828</td>
 </tr>
 <tr>
 <td>15.</td>
 <td>Павлодарская область</td>
-<td>113 462</td>
+<td>95 424</td>
 </tr>
 <tr>
 <td>16.</td>
 <td>Северо-Казахстанская область</td>
-<td>130 093</td>
+<td>109 411</td>
 </tr>
 <tr>
 <td>17.</td>
 <td>Туркестанская область</td>
-<td>331 387</td>
+<td>278 702</td>
 </tr>
 <tr>
 <td colspan="3">___________________________________</td>
@@ -15714,7 +15381,7 @@ __________________________________________________
 
 ## Распределение сумм резерва Правительства Республики Казахстан
 
-> *Сноска. Приложение 26 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 26 в редакции постановлений Правительства РК от 30.03.2024 № 244 (вводится в действие с 01.01.2024); от 02.05.2024 № 353 (вводится в действие с 01.01.2024); от 28.08.2024 № 701 (вводится в действие с 01.01.2024); от 25.09.2024 № 777 (вводится в действие с 01.01.2024); от 31.10.2024 № 911 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -15736,14 +15403,14 @@ __________________________________________________
 <th></th>
 <th></th>
 <th>Министерство финансов Республики Казахстан</th>
-<th>522 182 515</th>
+<th>567 301 402</th>
 </tr>
 <tr>
 <td></td>
 <td>010</td>
 <td></td>
 <td>Резерв Правительства Республики Казахстан</td>
-<td>522 182 515</td>
+<td>567 301 402</td>
 </tr>
 <tr>
 <td></td>
@@ -15757,7 +15424,7 @@ __________________________________________________
 <td></td>
 <td>101</td>
 <td>Резерв Правительства Республики Казахстан на неотложные затраты</td>
-<td>468 464 157</td>
+<td>513 583 044</td>
 </tr>
 <tr>
 <td></td>
