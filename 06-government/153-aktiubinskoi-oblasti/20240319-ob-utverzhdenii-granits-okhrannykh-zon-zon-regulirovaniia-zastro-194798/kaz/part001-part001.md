@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/194798/kaz/19.03.2024
+source: https://zan.gov.kz/client/#!/doc/194798/kaz/01.11.2024
 ---
 
 ## (ХVІІІ – ХХ ғасырдың басы)
