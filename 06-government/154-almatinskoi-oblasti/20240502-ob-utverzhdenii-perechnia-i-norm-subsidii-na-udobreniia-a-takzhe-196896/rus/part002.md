@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/196896/rus/02.05.2024
+source: https://zan.gov.kz/client/#!/doc/196896/rus/06.11.2024
 ---
 
 > *Приложение 2 к постановлению акимата Алматинской области от 2 мая 2024 года № 165*

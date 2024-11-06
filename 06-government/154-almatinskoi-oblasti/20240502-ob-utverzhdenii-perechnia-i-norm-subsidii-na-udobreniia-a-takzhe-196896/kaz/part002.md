@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/196896/kaz/02.05.2024
+source: https://zan.gov.kz/client/#!/doc/196896/kaz/06.11.2024
 ---
 
 > *Алматы облысы әкімдігінің 2024 жылғы 2 мамырдағы*  
