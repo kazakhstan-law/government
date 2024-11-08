@@ -10,15 +10,15 @@ approved_on: 2023-02-20
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2023-09-01
-  rus: 2023-09-01
+  kaz: 2024-11-08
+  rus: 2024-11-08
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/178755/kaz/01.09.2023
-  rus: https://zan.gov.kz/client/#!/doc/178755/rus/01.09.2023
+  kaz: https://zan.gov.kz/client/#!/doc/178755/kaz/08.11.2024
+  rus: https://zan.gov.kz/client/#!/doc/178755/rus/08.11.2024
 caused_by:
-  code: '185740'
-  requisite: Постановление Правительства Республики Казахстан от 1 сентября 2023 года № 758
+  code: '202444'
+  requisite: Постановление Правительства Республики Казахстан от 8 ноября 2024 года № 938
   title:
     rus: О признании утратившими силу некоторых решений Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдерінің күші жойылды деп тану туралы
-  link: https://zan.gov.kz/client/#!/doc/185740/rus
+  link: https://zan.gov.kz/client/#!/doc/202444/rus
