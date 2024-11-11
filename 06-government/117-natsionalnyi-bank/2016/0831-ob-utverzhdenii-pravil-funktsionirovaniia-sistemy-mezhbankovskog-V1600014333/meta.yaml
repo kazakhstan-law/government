@@ -38,12 +38,19 @@ versions:
   cause:
     code: '198250'
     key: V2400034671
+- date: 2024-11-11
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '198250'
+    key: V2400034671
 version_date:
-  kaz: 2024-06-28
-  rus: 2024-06-28
+  kaz: 2024-11-11
+  rus: 2024-11-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/106989/kaz/28.06.2024
-  rus: https://zan.gov.kz/client/#!/doc/106989/rus/28.06.2024
+  kaz: https://zan.gov.kz/client/#!/doc/106989/kaz/11.11.2024
+  rus: https://zan.gov.kz/client/#!/doc/106989/rus/11.11.2024
 caused_by:
   code: '198250'
   key: V2400034671
