@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/160072/rus/29.08.2024
+source: https://zan.gov.kz/client/#!/doc/160072/rus/02.12.2024
 ---
 
 > *Приложение 2 к постановлению*  
