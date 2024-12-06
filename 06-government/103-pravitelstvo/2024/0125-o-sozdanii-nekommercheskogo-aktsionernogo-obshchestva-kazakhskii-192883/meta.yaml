@@ -10,8 +10,15 @@ approved_on: 2024-01-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2024-01-25
-  rus: 2024-01-25
+  kaz: 2024-12-06
+  rus: 2024-12-06
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/192883/kaz/25.01.2024
-  rus: https://zan.gov.kz/client/#!/doc/192883/rus/25.01.2024
+  kaz: https://zan.gov.kz/client/#!/doc/192883/kaz/06.12.2024
+  rus: https://zan.gov.kz/client/#!/doc/192883/rus/06.12.2024
+caused_by:
+  code: '203788'
+  requisite: Постановление Правительства Республики Казахстан от 6 декабря 2024 года № 1031
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкiметiнiң кейбiр шешiмдерiне өзгерiстер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/203788/rus
