@@ -1,5 +1,5 @@
 ---
-version_id: '198486_709016'
+version_id: '198486_735042'
 act_code: '198486'
 language: rus
 title: Об утверждении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2024-2025 учебный год
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '158000000001'
 approval_date: 2024-07-02
-version_date: 2024-07-02
+version_date: 2024-12-12
 registry_number: '198486'
-source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
+caused_by:
+  code: '204161'
+  title: О внесении изменений в постановление акимата Жамбылской области от 2 июля 2024 года № 159 «Об утверждении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2024-2025 учебный год»
+  link: https://zan.gov.kz/client/#!/doc/204161/rus
+source: https://zan.gov.kz/client/#!/doc/198486/rus
 ---
 
 # Об утверждении государственного образовательного заказа на подготовку кадров с техническим и профессиональным, послесредним образованием на 2024-2025 учебный год
@@ -33,9 +37,11 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 
 > *Приложение 1 к постановлению*  
 > *акимата Жамбылской области*  
-> *от «__»_______2024 года №___*
+> *от «12» 12 2024 года №292*
 
 ## Государственный образовательный заказ на подготовку кадров с техническим и профессиональным образованием на 2024-2025 учебный год
+
+> *Сноска. Приложение 1 в редакции постановлением акимата Жамбылской области от 12.12.2024 № 292 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -65,7 +71,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>1.</td>
 <td colspan="2">01120100 Дошкольное воспитание и обучение</td>
-<td>240</td>
+<td>243</td>
 <td colspan="2">132700</td>
 <td>265400</td>
 <td>148267</td>
@@ -74,7 +80,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>2.</td>
 <td colspan="2">01140100 Педагогика и методика начального обучения</td>
-<td>282</td>
+<td>328</td>
 <td colspan="2">132700</td>
 <td>265400</td>
 <td>148267</td>
@@ -92,7 +98,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>4.</td>
 <td colspan="2">01140500 Физическая культура и спорт</td>
-<td>254</td>
+<td>274</td>
 <td colspan="2">132700</td>
 <td>265400</td>
 <td>148267</td>
@@ -101,7 +107,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>5.</td>
 <td colspan="2">01140600 Педагогика и методика преподавания языка и литературы основного среднего образования</td>
-<td>140</td>
+<td>139</td>
 <td colspan="2">132700</td>
 <td>265400</td>
 <td>148267</td>
@@ -109,7 +115,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td>934</td>
+<td>1002</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -151,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>9.</td>
 <td colspan="2">02150100 Инструментальное исполнительство (по видам инструментов)</td>
-<td>36</td>
+<td>35</td>
 <td colspan="2">403133</td>
 <td>806267</td>
 <td></td>
@@ -205,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>15.</td>
 <td colspan="2">02310100 Переводческое дело (по видам)</td>
-<td>50</td>
+<td>75</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -213,7 +219,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td>323</td>
+<td>347</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -269,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>18.</td>
 <td colspan="2">06120100 Вычислительная техника и информационные сети (по видам)</td>
-<td>200</td>
+<td>253</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -278,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>19.</td>
 <td colspan="2">06120200 Системы информационной безопасности</td>
-<td>60</td>
+<td>75</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -287,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>20.</td>
 <td colspan="2">06130100 Программное обеспечение (по видам)</td>
-<td>665</td>
+<td>717</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -295,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td>925</td>
+<td>1045</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -307,7 +313,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>21.</td>
 <td colspan="2">07110100 Химическая технология и производство (по видам)</td>
-<td>190</td>
+<td>175</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
@@ -334,7 +340,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>24.</td>
 <td colspan="2">07130100 Электрооборудование (по видам и отраслям)</td>
-<td>170</td>
+<td>165</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
@@ -343,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>25.</td>
 <td colspan="2">07130200 Электроснабжение (по отраслям)</td>
-<td>135</td>
+<td>85</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
@@ -370,7 +376,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>28.</td>
 <td colspan="2">07140100 Автоматизация и управление технологическими процессами (по профилю)</td>
-<td>40</td>
+<td>25</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -411,7 +417,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>32.</td>
 <td colspan="2">07140900 Радиотехника, электроника и телекоммуникации</td>
-<td>80</td>
+<td>79</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -438,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>35.</td>
 <td colspan="2">07150500 Сварочное дело (по видам)</td>
-<td>478</td>
+<td>442</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
@@ -502,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>41.</td>
 <td colspan="2">07161300 Техническое обслуживание, ремонт и эксплуатация автомобильного транспорта</td>
-<td>496</td>
+<td>481</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
@@ -511,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>42.</td>
 <td colspan="2">07161600 Механизация сельского хозяйства</td>
-<td>240</td>
+<td>225</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -519,18 +525,6 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td>43.</td>
-<td colspan="2">
-07210100 Производство мяса
-и мясных продуктов
-</td>
-<td>10</td>
-<td colspan="2">135000</td>
-<td>270000</td>
-<td>152367</td>
-<td>304733</td>
-</tr>
-<tr>
-<td>44.</td>
 <td colspan="2">07210300 Хлебопекарное, макаронное и кондитерское производство</td>
 <td>65</td>
 <td colspan="2">147667</td>
@@ -539,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>45.</td>
+<td>44.</td>
 <td colspan="2">07221400 Мебельное производство</td>
 <td>75</td>
 <td colspan="2">147667</td>
@@ -548,16 +542,16 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>46.</td>
+<td>45.</td>
 <td colspan="2">07230100 Швейное производство и моделирование одежды</td>
-<td>240</td>
+<td>185</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
 <td>326400</td>
 </tr>
 <tr>
-<td>47.</td>
+<td>46.</td>
 <td colspan="2">07240200 Маркшейдерское дело</td>
 <td>25</td>
 <td colspan="2">147667</td>
@@ -566,16 +560,16 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>48.</td>
+<td>47.</td>
 <td colspan="2">07240300 Открытая разработка месторождений полезных ископаемых</td>
-<td>40</td>
+<td>20</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
 <td>326400</td>
 </tr>
 <tr>
-<td>49.</td>
+<td>48.</td>
 <td colspan="2">
 07240500 Обогащение полезных
 ископаемых (рудообогащение)
@@ -587,7 +581,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>49.</td>
 <td colspan="2">07310100 Архитектура</td>
 <td>25</td>
 <td colspan="2">147667</td>
@@ -596,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>51.</td>
+<td>50.</td>
 <td colspan="2">07310300 Землеустройство</td>
 <td>20</td>
 <td colspan="2">147667</td>
@@ -605,7 +599,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>52.</td>
+<td>51.</td>
 <td colspan="2">07310200 Геодезия и картография</td>
 <td>50</td>
 <td colspan="2">147667</td>
@@ -614,16 +608,16 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>53.</td>
+<td>52.</td>
 <td colspan="2">07320100 Строительство и эксплуатация зданий и сооружений</td>
-<td>150</td>
+<td>125</td>
 <td colspan="2">147667</td>
 <td>295333</td>
 <td>163200</td>
 <td>326400</td>
 </tr>
 <tr>
-<td>54.</td>
+<td>53.</td>
 <td colspan="2">
 07320700 Строительство и
 эксплуатация
@@ -638,7 +632,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td>3352</td>
+<td>3090</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -648,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td colspan="9">08. Сельское, лесное, рыболовное хозяйство и ветеринария</td>
 </tr>
 <tr>
-<td>55.</td>
+<td>54.</td>
 <td colspan="2">08110100 Агрономия</td>
 <td>50</td>
 <td colspan="2">135000</td>
@@ -657,16 +651,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>304733</td>
 </tr>
 <tr>
-<td>56.</td>
-<td colspan="2">08110300 Плодоовощеводство</td>
-<td>20</td>
-<td colspan="2">135000</td>
-<td>270000</td>
-<td>152367</td>
-<td>304733</td>
-</tr>
-<tr>
-<td>57.</td>
+<td>55.</td>
 <td colspan="2">08110500 Зоотехния</td>
 <td>20</td>
 <td colspan="2">135000</td>
@@ -675,16 +660,16 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>304733</td>
 </tr>
 <tr>
-<td>58.</td>
+<td>56.</td>
 <td colspan="2">08110700 Рыбное хозяйство (по видам)</td>
-<td>13</td>
+<td>20</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
 <td>304733</td>
 </tr>
 <tr>
-<td>59.</td>
+<td>57.</td>
 <td colspan="2">08210100 Лесное хозяйство</td>
 <td>25</td>
 <td colspan="2">135000</td>
@@ -693,9 +678,9 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>304733</td>
 </tr>
 <tr>
-<td>60.</td>
+<td>58.</td>
 <td colspan="2">08410100 Ветеринария</td>
-<td>175</td>
+<td>155</td>
 <td colspan="2">135000</td>
 <td>270000</td>
 <td>152367</td>
@@ -703,7 +688,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td>303</td>
+<td>270</td>
 <td colspan="2">-</td>
 <td>-</td>
 <td>-</td>
@@ -713,44 +698,44 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td colspan="9">09. Здравоохранение и социальное обеспечение</td>
 </tr>
 <tr>
-<td>61.</td>
+<td>59.</td>
 <td colspan="2">09120100 Лечебное дело</td>
-<td colspan="2">134 500</td>
+<td colspan="2">392</td>
+<td>134 500</td>
 <td>269 000</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td>60.</td>
+<td colspan="2">09130100 Сестринское дело</td>
+<td colspan="2">306</td>
+<td>134 500</td>
+<td>269 000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>61.</td>
+<td colspan="2">09130200 Акушерское дело</td>
+<td colspan="2">47</td>
+<td>134 500</td>
+<td>269 000</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>62.</td>
-<td colspan="2">09130100 Сестринское дело</td>
-<td colspan="2">134 500</td>
-<td>269 000</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>63.</td>
-<td colspan="2">09130200 Акушерское дело</td>
-<td colspan="2">134 500</td>
-<td>269 000</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>64.</td>
 <td colspan="2">09160100 Фармация</td>
-<td colspan="2">134 500</td>
+<td colspan="2">48</td>
+<td>134 500</td>
 <td>269 000</td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td colspan="2">800</td>
+<td colspan="2">793</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -760,34 +745,25 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td colspan="9">10. Службы</td>
 </tr>
 <tr>
-<td>65.</td>
+<td>63.</td>
 <td colspan="2">10120100 Парикмахерское искусство</td>
-<td colspan="2">140</td>
+<td colspan="2">124</td>
 <td>147667</td>
 <td>295333</td>
 <td>163200</td>
 <td>326400</td>
 </tr>
 <tr>
-<td>66.</td>
-<td colspan="2">10130100 Гостиничный бизнес</td>
-<td colspan="2">25</td>
-<td>135000</td>
-<td>270000</td>
-<td>152367</td>
-<td>304733</td>
-</tr>
-<tr>
-<td>67.</td>
+<td>64.</td>
 <td colspan="2">10130300 Организация питания</td>
-<td colspan="2">445</td>
+<td colspan="2">519</td>
 <td>147667</td>
 <td>295333</td>
 <td>163200</td>
 <td>326400</td>
 </tr>
 <tr>
-<td>68.</td>
+<td>65.</td>
 <td colspan="2">10150100 Туризм</td>
 <td colspan="2">50</td>
 <td>135000</td>
@@ -796,7 +772,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>304733</td>
 </tr>
 <tr>
-<td>69.</td>
+<td>66.</td>
 <td colspan="2">
 10320200 Защита в чрезвычайных
 ситуациях (по профилю)
@@ -808,7 +784,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <td>326400</td>
 </tr>
 <tr>
-<td>70.</td>
+<td>67.</td>
 <td colspan="2">
 10410200 Организация перевозок
 и управление движением на железнодорожном
@@ -822,7 +798,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Итого:</td>
-<td colspan="2">730</td>
+<td colspan="2">763</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -830,7 +806,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="3">Всего:</td>
-<td colspan="2">7415</td>
+<td colspan="2">7358</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
@@ -840,9 +816,11 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 
 > *Приложение 2 к постановлению*  
 > *акимата Жамбылской области*  
-> *от «__»______2024 года № ____*
+> *от «12» 12 2024 года № 292*
 
-## Государственный образовательный заказ на подготовку кадров с послесредним образованием на 2024 – 2025 учебный год
+## Государственный образовательный заказ на подготовку кадров с послесредним образованием на 2024 - 2025 учебный год
+
+> *Сноска. Приложение 2 в редакции постановлением акимата Жамбылской области от 12.12.2024 № 292 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -872,7 +850,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 <tr>
 <td>1.</td>
 <td>09130100 Сестринское дело</td>
-<td>50</td>
+<td>128</td>
 <td>134 500</td>
 <td>269 000</td>
 <td></td>
@@ -880,7 +858,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="2">Итого:</td>
-<td>50</td>
+<td>128</td>
 <td>134 500</td>
 <td>269 000</td>
 <td></td>
@@ -888,7 +866,7 @@ source: https://zan.gov.kz/client/#!/doc/198486/rus/02.07.2024
 </tr>
 <tr>
 <td colspan="2">Всего:</td>
-<td>50</td>
+<td>128</td>
 <td>134 500</td>
 <td>269 000</td>
 <td>-</td>
