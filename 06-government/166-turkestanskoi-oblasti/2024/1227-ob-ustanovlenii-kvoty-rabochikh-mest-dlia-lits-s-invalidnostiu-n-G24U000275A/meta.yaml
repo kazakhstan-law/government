@@ -1,0 +1,24 @@
+key: G24U000275A
+akn: /akn/kz/act/2024-12-27/G24U000275A
+act_code: '205954'
+requisite: Постановление акимата Туркестанской области от 27 декабря 2024 года № 275
+title:
+  rus: Об установлении квоты рабочих мест для лиц с инвалидностью на 2025 год
+  kaz: 2025 жылға мүгедектігі бар адамдар үшін жұмыс орындарына квота белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2024-12-27
+approved_by:
+- '166000000001'
+versions:
+- date: 2024-12-27
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2024-12-27
+  rus: 2024-12-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/205954/kaz/27.12.2024
+  rus: https://zan.gov.kz/client/#!/doc/205954/rus/27.12.2024
