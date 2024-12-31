@@ -1,0 +1,24 @@
+key: G24C000421A
+akn: /akn/kz/act/2024-12-31/G24C000421A
+act_code: '206612'
+requisite: Постановление акимата Актюбинской области от 31 декабря 2024 года № 421
+title:
+  rus: Об утверждении сумм по социально значимым субсидируемым сообщениям
+  kaz: Әлеуметтік маңызы бар субсидияланатын қатынастар сомаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2024-12-31
+approved_by:
+- '153000000001'
+versions:
+- date: 2024-12-31
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2024-12-31
+  rus: 2024-12-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/206612/kaz/31.12.2024
+  rus: https://zan.gov.kz/client/#!/doc/206612/rus/31.12.2024
