@@ -1,0 +1,17 @@
+act_code: '207201'
+requisite: Постановление Правительства Республики Казахстан от 8 января 2025 года № 3
+title:
+  rus: О создании специальной экономической зоны «Актобе»
+  kaz: «Ақтөбе» арнайы экономикалық аймағын құру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-01-08
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2025-01-08
+  rus: 2025-01-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/207201/kaz/08.01.2025
+  rus: https://zan.gov.kz/client/#!/doc/207201/rus/08.01.2025
