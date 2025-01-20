@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/192854/kaz/22.01.2024
   rus: https://zan.gov.kz/client/#!/doc/192854/rus/22.01.2024
+repealed_on: 2025-01-22
+repealed_by:
+  code: '206727'
+  key: G25I000012A
+  requisite: Постановление акимата области Жетісу от 20 января 2025 года № 12
+  title:
+    rus: Об установлении карантинной зоны с введением карантинного режима на территории области
+    kaz: Облыс аумағында карантиндік режимді енгізе отырып, карантиндік аймақты белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/206727/rus
