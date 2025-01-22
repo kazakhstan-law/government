@@ -42,7 +42,7 @@
 
 ## Абай облысы бойынша кен іздеушілікке арналған аумақтар
 
-> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.05.2024 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.08.2024 № 161 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.05.2024 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.08.2024 № 161 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 22.01.2025 № 10 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -1556,5 +1556,2096 @@
 <td>49</td>
 <td>26</td>
 <td>25</td>
+</tr>
+<tr>
+<td rowspan="4">37.</td>
+<td rowspan="4">№ 9 учаскесі</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>47</td>
+<td>40</td>
+<td>58</td>
+<td>82</td>
+<td>00</td>
+<td>56</td>
+<td rowspan="4">4.5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>47</td>
+<td>40</td>
+<td>57</td>
+<td>82</td>
+<td>00</td>
+<td>56</td>
+</tr>
+<tr>
+<td>3</td>
+<td>47</td>
+<td>40</td>
+<td>19</td>
+<td>82</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>47</td>
+<td>40</td>
+<td>20</td>
+<td>82</td>
+<td>2</td>
+<td>6</td>
+</tr>
+<tr>
+<td rowspan="4">38.</td>
+<td rowspan="4">Қызыл Кесік</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>47</td>
+<td>41</td>
+<td>02</td>
+<td>82</td>
+<td>01</td>
+<td>15</td>
+<td rowspan="4">4,24</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>47</td>
+<td>41</td>
+<td>08</td>
+<td>82</td>
+<td>01</td>
+<td>31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>47</td>
+<td>41</td>
+<td>05</td>
+<td>82</td>
+<td>01</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>47</td>
+<td>40</td>
+<td>59</td>
+<td>82</td>
+<td>01</td>
+<td>17,97</td>
+</tr>
+<tr>
+<td rowspan="4">39.</td>
+<td rowspan="4">Учаске</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>48</td>
+<td>13</td>
+<td>22</td>
+<td>81</td>
+<td>36</td>
+<td>47</td>
+<td rowspan="4">4,59</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>48</td>
+<td>13</td>
+<td>22</td>
+<td>81</td>
+<td>36</td>
+<td>38</td>
+</tr>
+<tr>
+<td>3</td>
+<td>48</td>
+<td>13</td>
+<td>30</td>
+<td>81</td>
+<td>36</td>
+<td>38</td>
+</tr>
+<tr>
+<td>4</td>
+<td>48</td>
+<td>13</td>
+<td>30</td>
+<td>81</td>
+<td>36</td>
+<td>47</td>
+</tr>
+<tr>
+<td rowspan="4">40.</td>
+<td rowspan="4">№ 1 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>27,116</td>
+<td>78</td>
+<td>51</td>
+<td>25,2918</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>27,1382</td>
+<td>78</td>
+<td>52</td>
+<td>16,3413</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>25,5193</td>
+<td>78</td>
+<td>52</td>
+<td>16,3607</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>25,497</td>
+<td>78</td>
+<td>51</td>
+<td>25,3113</td>
+</tr>
+<tr>
+<td rowspan="4">41.</td>
+<td rowspan="4">№ 2 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>25,497</td>
+<td>78</td>
+<td>51</td>
+<td>25,3113</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>25,5193</td>
+<td>78</td>
+<td>52</td>
+<td>16,3607</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>23,9</td>
+<td>78</td>
+<td>52</td>
+<td>16,3801</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>23,8781</td>
+<td>78</td>
+<td>51</td>
+<td>25,3308</td>
+</tr>
+<tr>
+<td rowspan="4">42.</td>
+<td rowspan="4">№ 3 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>23,8781</td>
+<td>78</td>
+<td>51</td>
+<td>25,3308</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>23,9</td>
+<td>78</td>
+<td>52</td>
+<td>16,3801</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>22,2818</td>
+<td>78</td>
+<td>52</td>
+<td>16,3995</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>22,2595</td>
+<td>78</td>
+<td>51</td>
+<td>25,3498</td>
+</tr>
+<tr>
+<td rowspan="4">43.</td>
+<td rowspan="4">№ 4 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>22,2595</td>
+<td>78</td>
+<td>51</td>
+<td>25,3498</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>22,2818</td>
+<td>78</td>
+<td>52</td>
+<td>16,3995</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>20,6628</td>
+<td>78</td>
+<td>52</td>
+<td>16,419</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>20,6406</td>
+<td>78</td>
+<td>51</td>
+<td>25,3693</td>
+</tr>
+<tr>
+<td rowspan="4">44.</td>
+<td rowspan="4">№ 5 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>20,6406</td>
+<td>78</td>
+<td>51</td>
+<td>25,3693</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>20,6628</td>
+<td>78</td>
+<td>52</td>
+<td>16,419</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>19,0439</td>
+<td>78</td>
+<td>52</td>
+<td>16,4384</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>19,0217</td>
+<td>78</td>
+<td>51</td>
+<td>25,3888</td>
+</tr>
+<tr>
+<td rowspan="4">45.</td>
+<td rowspan="4">№ 6 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>19,0217</td>
+<td>78</td>
+<td>51</td>
+<td>25,3888</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>19,0439</td>
+<td>78</td>
+<td>52</td>
+<td>16,4384</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>17,425</td>
+<td>78</td>
+<td>52</td>
+<td>16,4578</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>17,4027</td>
+<td>78</td>
+<td>51</td>
+<td>25,4083</td>
+</tr>
+<tr>
+<td rowspan="4">46.</td>
+<td rowspan="4">№ 7 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>17,4057</td>
+<td>78</td>
+<td>51</td>
+<td>31,0043</td>
+<td rowspan="4">4,47</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>17,425</td>
+<td>78</td>
+<td>52</td>
+<td>16,4578</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>15,806</td>
+<td>78</td>
+<td>52</td>
+<td>16,4772</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>15,7867</td>
+<td>78</td>
+<td>51</td>
+<td>31,0238</td>
+</tr>
+<tr>
+<td rowspan="4">47.</td>
+<td rowspan="4">№ 8 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>15,7901</td>
+<td>78</td>
+<td>51</td>
+<td>39,8076</td>
+<td rowspan="4">3,609</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>15,806</td>
+<td>78</td>
+<td>52</td>
+<td>16,4772</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>14,1871</td>
+<td>78</td>
+<td>52</td>
+<td>16,4967</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>14,1712</td>
+<td>78</td>
+<td>51</td>
+<td>39,8269</td>
+</tr>
+<tr>
+<td rowspan="4">48.</td>
+<td rowspan="4">№ 9 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>14,1755</td>
+<td>78</td>
+<td>51</td>
+<td>49,7962</td>
+<td rowspan="4">2,628</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>14,1871</td>
+<td>78</td>
+<td>52</td>
+<td>16,4967</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>12,5682</td>
+<td>78</td>
+<td>52</td>
+<td>16,5161</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>12,5565</td>
+<td>78</td>
+<td>51</td>
+<td>49,8155</td>
+</tr>
+<tr>
+<td rowspan="4">49.</td>
+<td rowspan="4">№ 10 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>12,5602</td>
+<td>78</td>
+<td>51</td>
+<td>58,6016</td>
+<td rowspan="4">1,756</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>12,5682</td>
+<td>78</td>
+<td>52</td>
+<td>16,5161</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>10,9489</td>
+<td>78</td>
+<td>52</td>
+<td>16,5355</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>10,9413</td>
+<td>78</td>
+<td>51</td>
+<td>58,6208</td>
+</tr>
+<tr>
+<td rowspan="4">50.</td>
+<td rowspan="4">№ 11 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>28,7572</td>
+<td>78</td>
+<td>52</td>
+<td>16,3218</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>28,7793</td>
+<td>78</td>
+<td>53</td>
+<td>7,3713</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>27,1604</td>
+<td>78</td>
+<td>53</td>
+<td>7,3906</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>27,1382</td>
+<td>78</td>
+<td>52</td>
+<td>16,3413</td>
+</tr>
+<tr>
+<td rowspan="4">51.</td>
+<td rowspan="4">№ 12 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>27,1382</td>
+<td>78</td>
+<td>52</td>
+<td>16,3413</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>27,1604</td>
+<td>78</td>
+<td>53</td>
+<td>7,3906</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>25,5414</td>
+<td>78</td>
+<td>53</td>
+<td>7,41</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>25,5193</td>
+<td>78</td>
+<td>52</td>
+<td>16,3607</td>
+</tr>
+<tr>
+<td rowspan="4">52.</td>
+<td rowspan="4">№ 13 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>25,5193</td>
+<td>78</td>
+<td>52</td>
+<td>16,3607</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>25,5414</td>
+<td>78</td>
+<td>53</td>
+<td>7,41</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>23,9229</td>
+<td>78</td>
+<td>53</td>
+<td>7,4294</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>23,9</td>
+<td>78</td>
+<td>52</td>
+<td>16,3801</td>
+</tr>
+<tr>
+<td rowspan="4">53.</td>
+<td rowspan="4">№ 16 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>20,6628</td>
+<td>78</td>
+<td>52</td>
+<td>16,419</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>20,685</td>
+<td>78</td>
+<td>53</td>
+<td>7,4685</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>19,0661</td>
+<td>78</td>
+<td>53</td>
+<td>7,4878</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>19,0439</td>
+<td>78</td>
+<td>52</td>
+<td>16,4384</td>
+</tr>
+<tr>
+<td rowspan="4">54.</td>
+<td rowspan="4">№ 19 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>15,806</td>
+<td>78</td>
+<td>52</td>
+<td>16,4772</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>15,8282</td>
+<td>78</td>
+<td>53</td>
+<td>7,5265</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>14,2093</td>
+<td>78</td>
+<td>53</td>
+<td>7,5459</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>14,1871</td>
+<td>78</td>
+<td>52</td>
+<td>16,4967</td>
+</tr>
+<tr>
+<td rowspan="4">55.</td>
+<td rowspan="4">№ 20 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>14,1871</td>
+<td>78</td>
+<td>52</td>
+<td>16,4967</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>14,2093</td>
+<td>78</td>
+<td>53</td>
+<td>7,5459</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>12,5903</td>
+<td>78</td>
+<td>53</td>
+<td>7,5657</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>12,5682</td>
+<td>78</td>
+<td>52</td>
+<td>16,5161</td>
+</tr>
+<tr>
+<td rowspan="4">56.</td>
+<td rowspan="4">№ 21 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>12,5682</td>
+<td>78</td>
+<td>52</td>
+<td>16,5161</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>12,5903</td>
+<td>78</td>
+<td>53</td>
+<td>7,5657</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>10,9713</td>
+<td>78</td>
+<td>53</td>
+<td>7,585</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>10,9489</td>
+<td>78</td>
+<td>52</td>
+<td>16,5355</td>
+</tr>
+<tr>
+<td rowspan="4">57.</td>
+<td rowspan="4">№ 22 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>10,9489</td>
+<td>78</td>
+<td>52</td>
+<td>16,5355</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>10,9713</td>
+<td>78</td>
+<td>53</td>
+<td>7,585</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>9,3521</td>
+<td>78</td>
+<td>53</td>
+<td>7,6044</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>9,33</td>
+<td>78</td>
+<td>52</td>
+<td>16,5549</td>
+</tr>
+<tr>
+<td rowspan="4">58.</td>
+<td rowspan="4">№ 23 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>9,33</td>
+<td>78</td>
+<td>52</td>
+<td>16,5549</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>9,3521</td>
+<td>78</td>
+<td>53</td>
+<td>7,6044</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>7,7332</td>
+<td>78</td>
+<td>53</td>
+<td>7,6237</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>7,711</td>
+<td>78</td>
+<td>52</td>
+<td>16,5743</td>
+</tr>
+<tr>
+<td rowspan="4">59.</td>
+<td rowspan="4">№ 24 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>7,7169</td>
+<td>78</td>
+<td>52</td>
+<td>28,5953</td>
+<td rowspan="4">3,826</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>7,7332</td>
+<td>78</td>
+<td>53</td>
+<td>7,6237</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>6,1143</td>
+<td>78</td>
+<td>53</td>
+<td>7,6435</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>6,098</td>
+<td>78</td>
+<td>52</td>
+<td>28,6141</td>
+</tr>
+<tr>
+<td rowspan="4">60.</td>
+<td rowspan="4">№ 25 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>6,1049</td>
+<td>78</td>
+<td>52</td>
+<td>44,5325</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>6,1298</td>
+<td>78</td>
+<td>53</td>
+<td>35,5817</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>4,5109</td>
+<td>78</td>
+<td>53</td>
+<td>35,6012</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>4,4859</td>
+<td>78</td>
+<td>52</td>
+<td>44,5521</td>
+</tr>
+<tr>
+<td rowspan="4">61.</td>
+<td rowspan="4">№ 26 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>27,1604</td>
+<td>78</td>
+<td>53</td>
+<td>7,3906</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>27,1828</td>
+<td>78</td>
+<td>53</td>
+<td>58,44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>25,5638</td>
+<td>78</td>
+<td>53</td>
+<td>58,4597</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>25,5414</td>
+<td>78</td>
+<td>53</td>
+<td>7,41</td>
+</tr>
+<tr>
+<td rowspan="4">62.</td>
+<td rowspan="4">№ 27 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>25,5414</td>
+<td>78</td>
+<td>53</td>
+<td>7,41</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>25,5638</td>
+<td>78</td>
+<td>53</td>
+<td>58,4597</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>23,9449</td>
+<td>78</td>
+<td>53</td>
+<td>58,479</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>23,9229</td>
+<td>78</td>
+<td>53</td>
+<td>7,4294</td>
+</tr>
+<tr>
+<td rowspan="4">63.</td>
+<td rowspan="4">№ 28 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>23,9229</td>
+<td>78</td>
+<td>53</td>
+<td>7,4294</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>23,9449</td>
+<td>78</td>
+<td>53</td>
+<td>58,479</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>22,236</td>
+<td>78</td>
+<td>53</td>
+<td>58,4983</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>22,3039</td>
+<td>78</td>
+<td>53</td>
+<td>7,4487</td>
+</tr>
+<tr>
+<td rowspan="4">64.</td>
+<td rowspan="4">№ 29 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>22,3039</td>
+<td>78</td>
+<td>53</td>
+<td>7,4487</td>
+<td rowspan="4">4,85</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>22,236</td>
+<td>78</td>
+<td>53</td>
+<td>58,4983</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>20,707</td>
+<td>78</td>
+<td>53</td>
+<td>58,518</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>20,685</td>
+<td>78</td>
+<td>53</td>
+<td>7,4685</td>
+</tr>
+<tr>
+<td rowspan="4">65.</td>
+<td rowspan="4">№ 30 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>20,685</td>
+<td>78</td>
+<td>53</td>
+<td>7,4685</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>20,707</td>
+<td>78</td>
+<td>53</td>
+<td>58,518</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>19,0881</td>
+<td>78</td>
+<td>53</td>
+<td>58,5372</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>19,0661</td>
+<td>78</td>
+<td>53</td>
+<td>7,4878</td>
+</tr>
+<tr>
+<td rowspan="4">66.</td>
+<td rowspan="4">№ 33 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>15,8282</td>
+<td>78</td>
+<td>53</td>
+<td>7,5265</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>15,8503</td>
+<td>78</td>
+<td>53</td>
+<td>58,5762</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>14,2313</td>
+<td>78</td>
+<td>53</td>
+<td>58,5955</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>14,2093</td>
+<td>78</td>
+<td>53</td>
+<td>7,5459</td>
+</tr>
+<tr>
+<td rowspan="4">67.</td>
+<td rowspan="4">№ 34 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>14,2093</td>
+<td>78</td>
+<td>53</td>
+<td>7,5459</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>14,2313</td>
+<td>78</td>
+<td>53</td>
+<td>58,5955</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>12,6124</td>
+<td>78</td>
+<td>53</td>
+<td>58,6148</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>12,5903</td>
+<td>78</td>
+<td>53</td>
+<td>7,5657</td>
+</tr>
+<tr>
+<td rowspan="4">68.</td>
+<td rowspan="4">№ 35 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>12,5903</td>
+<td>78</td>
+<td>53</td>
+<td>7,5657</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>12,6124</td>
+<td>78</td>
+<td>53</td>
+<td>58,6148</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>10,9935</td>
+<td>78</td>
+<td>53</td>
+<td>58,6345</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>10,9714</td>
+<td>78</td>
+<td>53</td>
+<td>7,585</td>
+</tr>
+<tr>
+<td rowspan="4">69.</td>
+<td rowspan="4">№ 36 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>10,9714</td>
+<td>78</td>
+<td>53</td>
+<td>7,585</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>10,9935</td>
+<td>78</td>
+<td>53</td>
+<td>58,6345</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>9,3745</td>
+<td>78</td>
+<td>53</td>
+<td>58,6538</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>9,3521</td>
+<td>78</td>
+<td>53</td>
+<td>7,6044</td>
+</tr>
+<tr>
+<td rowspan="4">70.</td>
+<td rowspan="4">№ 37 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>9,3521</td>
+<td>78</td>
+<td>53</td>
+<td>7,6044</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>9,3745</td>
+<td>78</td>
+<td>53</td>
+<td>58,6538</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>7,7556</td>
+<td>78</td>
+<td>53</td>
+<td>58,6735</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>7,7332</td>
+<td>78</td>
+<td>53</td>
+<td>7,6237</td>
+</tr>
+<tr>
+<td rowspan="4">71.</td>
+<td rowspan="4">№ 38 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>7,7332</td>
+<td>78</td>
+<td>53</td>
+<td>7,6237</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>7,7556</td>
+<td>78</td>
+<td>53</td>
+<td>58,6735</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>6,1364</td>
+<td>78</td>
+<td>53</td>
+<td>58,6928</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>6,1143</td>
+<td>78</td>
+<td>53</td>
+<td>7,6435</td>
+</tr>
+<tr>
+<td rowspan="4">72.</td>
+<td rowspan="4">№ 39 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>25,5638</td>
+<td>78</td>
+<td>53</td>
+<td>58,4597</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>25,5858</td>
+<td>78</td>
+<td>54</td>
+<td>49,5089</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>23,9672</td>
+<td>78</td>
+<td>54</td>
+<td>49,5285</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>23,9449</td>
+<td>78</td>
+<td>53</td>
+<td>58,479</td>
+</tr>
+<tr>
+<td rowspan="4">73.</td>
+<td rowspan="4">№ 40 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>23,9449</td>
+<td>78</td>
+<td>53</td>
+<td>58,479</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>23,9672</td>
+<td>78</td>
+<td>54</td>
+<td>49,5285</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>22,3483</td>
+<td>78</td>
+<td>54</td>
+<td>49,5477</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>22,326</td>
+<td>78</td>
+<td>53</td>
+<td>58,4983</td>
+</tr>
+<tr>
+<td rowspan="4">74.</td>
+<td rowspan="4">№ 41 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>22,326</td>
+<td>78</td>
+<td>53</td>
+<td>58,4983</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>22,3483</td>
+<td>78</td>
+<td>54</td>
+<td>49,5477</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>20,7294</td>
+<td>78</td>
+<td>54</td>
+<td>49,5674</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>20,707</td>
+<td>78</td>
+<td>53</td>
+<td>58,518</td>
+</tr>
+<tr>
+<td rowspan="4">75.</td>
+<td rowspan="4">№ 42 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>20,707</td>
+<td>78</td>
+<td>53</td>
+<td>58,518</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>20,7294</td>
+<td>78</td>
+<td>54</td>
+<td>49,5674</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>19,1104</td>
+<td>78</td>
+<td>54</td>
+<td>49,5866</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>19,0881</td>
+<td>78</td>
+<td>53</td>
+<td>58,5372</td>
+</tr>
+<tr>
+<td rowspan="4">76.</td>
+<td rowspan="4">№ 43 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>19,0881</td>
+<td>78</td>
+<td>53</td>
+<td>58,5372</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>19,1104</td>
+<td>78</td>
+<td>54</td>
+<td>49,5866</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>17,4915</td>
+<td>78</td>
+<td>54</td>
+<td>49,6062</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>17,4692</td>
+<td>78</td>
+<td>53</td>
+<td>58,5565</td>
+</tr>
+<tr>
+<td rowspan="4">77.</td>
+<td rowspan="4">№ 44 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>17,4692</td>
+<td>78</td>
+<td>53</td>
+<td>58,5565</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>17,4915</td>
+<td>78</td>
+<td>54</td>
+<td>49,6062</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>15,8726</td>
+<td>78</td>
+<td>54</td>
+<td>49,6254</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>15,8502</td>
+<td>78</td>
+<td>53</td>
+<td>58,5762</td>
+</tr>
+<tr>
+<td rowspan="4">78.</td>
+<td rowspan="4">№ 45 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>15,8502</td>
+<td>78</td>
+<td>53</td>
+<td>58,5762</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>15,8726</td>
+<td>78</td>
+<td>54</td>
+<td>49,6254</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>14,2537</td>
+<td>78</td>
+<td>54</td>
+<td>49,645</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>14,2313</td>
+<td>78</td>
+<td>53</td>
+<td>58,5955</td>
+</tr>
+<tr>
+<td rowspan="4">79.</td>
+<td rowspan="4">№ 46 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>14,2313</td>
+<td>78</td>
+<td>53</td>
+<td>58,5955</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>14,2537</td>
+<td>78</td>
+<td>54</td>
+<td>49,645</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>12,6347</td>
+<td>78</td>
+<td>54</td>
+<td>49,6643</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>12,6124</td>
+<td>78</td>
+<td>53</td>
+<td>58,6148</td>
+</tr>
+<tr>
+<td rowspan="4">80.</td>
+<td rowspan="4">№ 47 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>12,6124</td>
+<td>78</td>
+<td>53</td>
+<td>58,6148</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>12,6347</td>
+<td>78</td>
+<td>54</td>
+<td>49,6643</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>11,0158</td>
+<td>78</td>
+<td>54</td>
+<td>49,6839</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>10,9935</td>
+<td>78</td>
+<td>53</td>
+<td>58,6345</td>
+</tr>
+<tr>
+<td rowspan="4">81.</td>
+<td rowspan="4">№ 48 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>10,9935</td>
+<td>78</td>
+<td>53</td>
+<td>58,6345</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>11,0158</td>
+<td>78</td>
+<td>54</td>
+<td>49,6839</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>9,3966</td>
+<td>78</td>
+<td>54</td>
+<td>49,7031</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>9,3745</td>
+<td>78</td>
+<td>53</td>
+<td>58,65382</td>
+</tr>
+<tr>
+<td rowspan="4">82.</td>
+<td rowspan="4">№ 49 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>9,3745</td>
+<td>78</td>
+<td>53</td>
+<td>58,65382</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>9,3966</td>
+<td>78</td>
+<td>54</td>
+<td>49,7031</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>7,7776</td>
+<td>78</td>
+<td>54</td>
+<td>49,7228</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>7,7556</td>
+<td>78</td>
+<td>53</td>
+<td>58,6735</td>
+</tr>
+<tr>
+<td rowspan="4">83.</td>
+<td rowspan="4">№ 50 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>19,1104</td>
+<td>78</td>
+<td>54</td>
+<td>49,5866</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>19,1327</td>
+<td>78</td>
+<td>55</td>
+<td>40,6362</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>17,5138</td>
+<td>78</td>
+<td>55</td>
+<td>40,6554</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>17,4915</td>
+<td>78</td>
+<td>54</td>
+<td>49,6062</td>
+</tr>
+<tr>
+<td rowspan="4">84.</td>
+<td rowspan="4">№ 51 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>17,4915</td>
+<td>78</td>
+<td>54</td>
+<td>49,6062</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>17,5138</td>
+<td>78</td>
+<td>55</td>
+<td>40,6554</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>15,8949</td>
+<td>78</td>
+<td>55</td>
+<td>40,6749</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>15,8726</td>
+<td>78</td>
+<td>54</td>
+<td>49,6254</td>
+</tr>
+<tr>
+<td rowspan="4">85.</td>
+<td rowspan="4">№ 52 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>15,8726</td>
+<td>78</td>
+<td>54</td>
+<td>49,6254</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>15,8949</td>
+<td>78</td>
+<td>55</td>
+<td>40,6749</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>14,2759</td>
+<td>78</td>
+<td>55</td>
+<td>40,6945</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>14,2537</td>
+<td>78</td>
+<td>54</td>
+<td>49,6451</td>
+</tr>
+<tr>
+<td rowspan="4">86.</td>
+<td rowspan="4">№ 53 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>14,2537</td>
+<td>78</td>
+<td>54</td>
+<td>49,6451</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>14,2759</td>
+<td>78</td>
+<td>55</td>
+<td>40,6945</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>12,657</td>
+<td>78</td>
+<td>55</td>
+<td>40,7137</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>12,6347</td>
+<td>78</td>
+<td>54</td>
+<td>49,6643</td>
+</tr>
+<tr>
+<td rowspan="4">87.</td>
+<td rowspan="4">№ 54 учаскесі</td>
+<td rowspan="4">Бесқарағай</td>
+<td>1</td>
+<td>50</td>
+<td>38</td>
+<td>12,6347</td>
+<td>78</td>
+<td>54</td>
+<td>49,6643</td>
+<td rowspan="4">5</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50</td>
+<td>38</td>
+<td>12,657</td>
+<td>78</td>
+<td>55</td>
+<td>40,7137</td>
+</tr>
+<tr>
+<td>3</td>
+<td>50</td>
+<td>38</td>
+<td>11,0378</td>
+<td>78</td>
+<td>55</td>
+<td>40,7333</td>
+</tr>
+<tr>
+<td>4</td>
+<td>50</td>
+<td>38</td>
+<td>11,0158</td>
+<td>78</td>
+<td>54</td>
+<td>49,6839</td>
 </tr>
 </table>
