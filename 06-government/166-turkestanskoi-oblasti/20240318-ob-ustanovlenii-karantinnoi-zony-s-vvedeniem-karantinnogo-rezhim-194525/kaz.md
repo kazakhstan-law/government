@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
+source: https://zan.gov.kz/client/#!/doc/194525/kaz/20.02.2025
 ---
 
 # Түркістан облысының ауыл шаруашылығы алқаптарында карантиндік режим енгізе отырып, карантиндік аймақ белгілеу туралы
@@ -23,31 +23,31 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 **Д. Сатыбалды**
 
 > *Түркістан облысы әкімдігінің*  
-> *2024 жылғы 18 наурыздағы*  
+> *2024 жылғы «18» наурыздағы*  
 > *№ 58 қаулысына қосымша*
 
 ## Түркістан облысының ауыл шаруашылығы алқаптарында карантиндік режим енгізілетін аймақ
+
+> *Ескерту. Қосымша жаңа редакцияда - Түркістан облысы әкiмдiгiнiң 20.02.2025 № 37 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
 <td rowspan="3">№</td>
 <td rowspan="3">Аудан, қала атауы</td>
-<td colspan="7">карантинді обьектілер атауы</td>
+<td colspan="8">карантинді обьектілер атауы</td>
 </tr>
 <tr>
 <td colspan="2">зиянкестер</td>
-<td colspan="3">аурулар</td>
+<td colspan="4">аурулар</td>
 <td colspan="2">арамшөптер</td>
 </tr>
 <tr>
 <td>оңтүстік америкалық қызанақ күйесі, гектар</td>
 <td>қауын шыбыны, гектар</td>
-<td>
-жеміс ағаштарының бактериялық күйігі,
-гектар
-</td>
+<td>жеміс ағаштарының бактериялық күйігі, гектар</td>
 <td>қызанақ жемісінің қоңыр қатпарлы вирусы, гектар</td>
 <td>қызанақтың дақты солу вирусы, гектар</td>
+<td>шығыс жеміс жемірі, гектар</td>
 <td>жатаған у кекіре, гектар</td>
 <td>арамсояу, гектар</td>
 </tr>
@@ -55,18 +55,20 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td>1</td>
 <td>Арыс</td>
 <td></td>
-<td>1679</td>
+<td>1009</td>
 <td></td>
 <td></td>
 <td></td>
-<td>669</td>
+<td></td>
+<td>619</td>
 <td>140</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Кентау</td>
 <td></td>
-<td>177</td>
+<td>125</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,8 +83,9 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
-<td>178,96</td>
-<td>6</td>
+<td></td>
+<td>160,4</td>
+<td>4</td>
 </tr>
 <tr>
 <td>4</td>
@@ -92,14 +95,16 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
-<td>359,72</td>
-<td>129,07</td>
+<td></td>
+<td>364,7</td>
+<td>130,7</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Жетісай</td>
 <td></td>
-<td>665,32</td>
+<td>221,1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -110,12 +115,13 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td>6</td>
 <td>Мақтаарал</td>
 <td></td>
-<td>1532,44</td>
+<td>1699,3</td>
 <td></td>
 <td>2</td>
 <td>3</td>
 <td></td>
-<td>10,45</td>
+<td></td>
+<td>17,0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -125,19 +131,21 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
-<td>503</td>
-<td>42,2</td>
+<td></td>
+<td>493</td>
+<td>36,2</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Отырар</td>
 <td></td>
-<td>679</td>
+<td>452</td>
 <td></td>
 <td></td>
 <td></td>
-<td>3</td>
-<td>10,03</td>
+<td></td>
+<td>5</td>
+<td>6,3</td>
 </tr>
 <tr>
 <td>9</td>
@@ -148,33 +156,37 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
-<td>14,03</td>
+<td>1</td>
+<td>16,0</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Сарыағаш</td>
-<td>10,22</td>
+<td>12,2</td>
 <td></td>
 <td></td>
 <td>3</td>
 <td></td>
-<td>233,7</td>
-<td>61,661</td>
+<td></td>
+<td>208,7</td>
+<td>55,4</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Сауран</td>
-<td>1,63</td>
-<td>42</td>
+<td>1,6</td>
+<td>216</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td>125</td>
-<td>5,9</td>
+<td>6,4</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Созақ</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,13 +198,14 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <tr>
 <td>13</td>
 <td>Келес</td>
-<td>3,5</td>
+<td>2,6</td>
 <td>36</td>
 <td></td>
 <td></td>
 <td></td>
-<td>53</td>
-<td>95,473</td>
+<td></td>
+<td>51,5</td>
+<td>88,1</td>
 </tr>
 <tr>
 <td>14</td>
@@ -202,8 +215,9 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td>1</td>
 <td></td>
 <td></td>
-<td>123,75</td>
-<td>153,205</td>
+<td>24</td>
+<td>123,7</td>
+<td>195,6</td>
 </tr>
 <tr>
 <td>15</td>
@@ -213,8 +227,9 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
-<td>116</td>
-<td>11,5</td>
+<td></td>
+<td>122</td>
+<td>13,5</td>
 </tr>
 <tr>
 <td>16</td>
@@ -224,18 +239,19 @@ source: https://zan.gov.kz/client/#!/doc/194525/kaz/18.03.2024
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>1920</td>
-<td>342,36</td>
+<td>312,3</td>
 </tr>
 <tr>
-<td></td>
-<td>Жиыны:</td>
-<td>21,35</td>
-<td>5206,76</td>
+<td colspan="2">Жиыны:</td>
+<td>22,4</td>
+<td>4206,4</td>
 <td>1</td>
 <td>5</td>
 <td>3</td>
-<td>4479,94</td>
-<td>1031,019</td>
+<td>24</td>
+<td>4388,8</td>
+<td>1030,6</td>
 </tr>
 </table>
