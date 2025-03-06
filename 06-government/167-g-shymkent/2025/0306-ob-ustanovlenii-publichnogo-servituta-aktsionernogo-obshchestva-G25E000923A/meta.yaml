@@ -1,0 +1,24 @@
+key: G25E000923A
+akn: /akn/kz/act/2025-03-06/G25E000923A
+act_code: '209521'
+requisite: Постановление акимата города Шымкент от 6 марта 2025 года № 923
+title:
+  rus: Об установлении публичного сервитута акционерного общества «Казахтелеком»
+  kaz: «Қазақтелеком» акционерлік қоғамына қоғамдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-03-06
+approved_by:
+- '167000000001'
+versions:
+- date: 2025-03-06
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-03-06
+  rus: 2025-03-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/209521/kaz/06.03.2025
+  rus: https://zan.gov.kz/client/#!/doc/209521/rus/06.03.2025
