@@ -1,5 +1,5 @@
 ---
-version_id: '154477_695683'
+version_id: '154477_749562'
 act_code: '154477'
 language: rus
 title: Об установлении карантинной зоны с введением карантинного режима
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '153000000001'
 approval_date: 2021-04-09
-version_date: 2024-04-11
+version_date: 2025-03-11
 registry_number: '154477'
 caused_by:
-  code: '195667'
+  code: '208019'
   title: О внесении изменения в постановление акимата Актюбинской области от 9 апреля 2021 года № 110 «Об установлении карантинной зоны с введением карантинного режима»
-  link: https://zan.gov.kz/client/#!/doc/195667/rus
-source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
+  link: https://zan.gov.kz/client/#!/doc/208019/rus
+source: https://zan.gov.kz/client/#!/doc/154477/rus/11.03.2025
 ---
 
 # Об установлении карантинной зоны с введением карантинного режима
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 
 # Хозяйствующие субъекты, на которые устанавливается карантинная зона с введением карантинного режима по горчаку ползучего
 
-> *Сноска. Приложение 1 в редакции постановлений акимата Актюбинской области от 15.04.2022 № 110 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 29.03.2023 № 80 (вводится в действие после дня его первого официального опубликования); от 11.04.2024 № 85 (вводится в действие после дня его первого официального опубликования).*
+> *Сноска. Приложение 1 в редакции постановлений акимата Актюбинской области от 15.04.2022 № 110 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 29.03.2023 № 80 (вводится в действие после дня его первого официального опубликования); от 11.04.2024 № 85 (вводится в действие после дня его первогоо фициального опубликования); от 11.03.2025 № 43 (вводится в действие после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -61,10 +61,10 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="2">Площадь под обработку, гектар</td>
 </tr>
 <tr>
-<td>2023 год</td>
 <td>2024 год</td>
-<td>2023 год</td>
+<td>2025 год</td>
 <td>2024 год</td>
+<td>2025 год</td>
 </tr>
 <tr>
 <td colspan="9">Айтекебийский район</td>
@@ -73,7 +73,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Актастинский сельский округ</td>
 <td>6809</td>
 <td>6809</td>
-<td>127</td>
+<td>126,5</td>
 <td>126,5</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Производственный кооператив «Әсем-Наз»</td>
 <td>1534</td>
 <td>1534</td>
-<td>36</td>
+<td>35,5</td>
 <td>35,5</td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>4</td>
-<td colspan="4">Крестьянское хозяйство «Алға»</td>
+<td colspan="4">Крестьянское хозяйство«Алға»</td>
 <td>1106</td>
 <td>1106</td>
 <td>3</td>
@@ -142,7 +142,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Жамбылский сельский округ</td>
 <td>3264</td>
 <td>3264</td>
-<td>28,9</td>
+<td>28,4</td>
 <td>28,4</td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>8</td>
-<td colspan="4">Крестьянское хозяйство «Талмұринд»</td>
+<td colspan="4">Товарищество с ограниченной ответственностью «Талмұринд»</td>
 <td>306</td>
 <td>306</td>
 <td>1</td>
@@ -166,7 +166,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Товарищество с ограниченной ответственностью «Ай-ауылым»</td>
 <td>1794</td>
 <td>1794</td>
-<td>21,5</td>
+<td>21</td>
 <td>21</td>
 </tr>
 <tr>
@@ -177,11 +177,11 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Сельский округ Т.Жургенова</td>
+<td colspan="5">Сельский округ Т.Жүргенова</td>
 <td>18523,566</td>
-<td>18523,566</td>
+<td>17347,5</td>
 <td>130,366</td>
-<td>130,366</td>
+<td>163,3</td>
 </tr>
 <tr>
 <td>10</td>
@@ -195,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>11</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Ақтөбе-Айдар»</td>
 <td>2090</td>
-<td>2090</td>
+<td>2015</td>
 <td>5,2</td>
 <td>5,2</td>
 </tr>
@@ -209,9 +209,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>13</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «Бұлақ-Агро»</td>
+<td colspan="4">«Товарищество с ограниченной ответственностью «Бұлақ-Агро»</td>
 <td>3205</td>
-<td>3205</td>
+<td>3168</td>
 <td>33,6</td>
 <td>33,6</td>
 </tr>
@@ -221,7 +221,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>400</td>
 <td>400</td>
 <td>1</td>
-<td>1</td>
+<td>32</td>
 </tr>
 <tr>
 <td>15</td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>18</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Комсомол»</td>
 <td>4154</td>
-<td>4154</td>
+<td>3170</td>
 <td>31</td>
 <td>31</td>
 </tr>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>19</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Еңбек-Агро»</td>
 <td>1581</td>
-<td>1581</td>
+<td>1589</td>
 <td>39,2</td>
 <td>39,2</td>
 </tr>
@@ -281,7 +281,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>22</td>
-<td colspan="4">Крестьянское хозяйство «Тереңсай»</td>
+<td colspan="4">Крестьянское хозяйство «Теренсай»</td>
 <td>150</td>
 <td>150</td>
 <td>0,5</td>
@@ -299,24 +299,24 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>24</td>
 <td colspan="4">Крестьянское хозяйство «Ақ-тілек»</td>
 <td>510</td>
-<td>510</td>
+<td>420</td>
 <td>2,3</td>
 <td>2,3</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="4">Крестьянское хозяйство «Жаңа-Таң»</td>
+<td colspan="4">Крестьянское хозяйство «Жана-Тан»</td>
 <td>1565</td>
 <td>1565</td>
 <td>2,5</td>
 <td>2,5</td>
 </tr>
 <tr>
-<td colspan="5">Другие земли сельского округа (внутри села)</td>
+<td colspan="5">Другие земли сельского округа(внутри села)</td>
 <td>0,266</td>
+<td>2,2</td>
 <td>0,266</td>
-<td>0,266</td>
-<td>0,266</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
@@ -341,24 +341,24 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Сулукольский сельский округ</td>
-<td>3885</td>
 <td>2590</td>
-<td>27,3</td>
+<td>2745</td>
+<td>26,6</td>
 <td>26,6</td>
 </tr>
 <tr>
 <td>26</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Алтынсарин»</td>
-<td>3662</td>
 <td>2367</td>
-<td>7,9</td>
+<td>2367</td>
+<td>7,2</td>
 <td>7,2</td>
 </tr>
 <tr>
 <td>27</td>
 <td colspan="4">Крестьянское хозяйство «Нұрлыбек»</td>
 <td>210</td>
-<td>210</td>
+<td>365</td>
 <td>6,4</td>
 <td>6,4</td>
 </tr>
@@ -377,14 +377,14 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>7</td>
 </tr>
 <tr>
-<td colspan="5">Т.Жургенов -Сулуколь</td>
+<td colspan="5">Комсомол -Сұлукөл</td>
 <td>1,6</td>
 <td>1,6</td>
 <td>1,6</td>
 <td>1,6</td>
 </tr>
 <tr>
-<td colspan="5">Карабутак - Ярослав</td>
+<td colspan="5">Қарабұтақ - Ярослав</td>
 <td>5,4</td>
 <td>5,4</td>
 <td>5,4</td>
@@ -392,26 +392,26 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Итого по Айтекебийскому району:</td>
-<td>34878,066</td>
 <td>33583,066</td>
-<td>474,366</td>
+<td>32562</td>
 <td>472,666</td>
+<td>505,6</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">27 хозяйств</td>
-<td>34711</td>
+<td colspan="3">2024 год 27 хозяйств, 2025 год 27 хозяйств</td>
 <td>33416</td>
-<td>307,3</td>
+<td>32393</td>
 <td>305,6</td>
+<td>336,6</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">другие земли сельского округа</td>
+<td colspan="2" rowspan="2">Другие земли сельского округа</td>
 <td>внутри села</td>
 <td>0,266</td>
+<td>2,2</td>
 <td>0,266</td>
-<td>0,266</td>
-<td>0,266</td>
+<td>2,2</td>
 </tr>
 <tr>
 <td>вдоль дорог</td>
@@ -432,16 +432,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">внутри города Алга</td>
-<td>0</td>
 <td>0,5</td>
-<td>0</td>
+<td>0,5</td>
+<td>0,5</td>
 <td>0,5</td>
 </tr>
 <tr>
 <td colspan="5">Акайский сельский округ</td>
 <td>645</td>
 <td>645</td>
-<td>5</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Абылай»</td>
 <td>645</td>
 <td>645</td>
-<td>5</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
@@ -457,7 +457,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>240</td>
 <td>240</td>
 <td>27</td>
-<td>27</td>
+<td>11</td>
 </tr>
 <tr>
 <td>2</td>
@@ -465,7 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>200</td>
 <td>200</td>
 <td>26</td>
-<td>26</td>
+<td>10</td>
 </tr>
 <tr>
 <td>3</td>
@@ -477,25 +477,25 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Карабулакский сельский округ</td>
-<td>1260</td>
 <td>0</td>
-<td>1</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="4">Крестьянское хозяйство «Реймқұл»</td>
-<td>1260</td>
+<td colspan="4">«Реймқұл» шаруа қожалығы</td>
 <td>0</td>
-<td>1</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Карагашский сельский округ</td>
 <td>1636</td>
-<td>1636</td>
-<td>133</td>
+<td>1361</td>
 <td>129</td>
+<td>93</td>
 </tr>
 <tr>
 <td>5</td>
@@ -503,7 +503,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>236</td>
 <td>236</td>
 <td>4</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>6</td>
@@ -511,15 +511,15 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>126</td>
 <td>126</td>
 <td>11</td>
-<td>11</td>
+<td>5</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="4">Крестьянское хозяйство «Рассвет-2»</td>
 <td>411</td>
-<td>411</td>
+<td>111</td>
 <td>63</td>
-<td>63</td>
+<td>15</td>
 </tr>
 <tr>
 <td>8</td>
@@ -527,34 +527,42 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>286</td>
 <td>286</td>
 <td>7</td>
-<td>7</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="4">Крестьянское хозяйство «Патимат»</td>
 <td>577</td>
 <td>577</td>
-<td>48</td>
 <td>44</td>
+<td>40</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Государственный земельный фонд</td>
+<td>0</td>
+<td>25</td>
+<td>0</td>
+<td>25</td>
 </tr>
 <tr>
 <td colspan="5">Каракобдинский сельский округ</td>
 <td>291</td>
 <td>291</td>
-<td>8</td>
 <td>5</td>
+<td>2</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="4">Крестьянское хозяйство «Ад-Ал»</td>
 <td>291</td>
 <td>291</td>
-<td>8</td>
 <td>5</td>
+<td>2</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="4">Крестьянское хозяйство «Айнұр»</td>
+<td colspan="4">Крестьянское хозяйство «Айнур»</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -562,10 +570,10 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Каракудыкский сельский округ</td>
-<td>2003</td>
 <td>1793</td>
-<td>384</td>
+<td>1771</td>
 <td>340</td>
+<td>304</td>
 </tr>
 <tr>
 <td>12</td>
@@ -581,15 +589,15 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>140</td>
 <td>140</td>
 <td>5</td>
-<td>5</td>
+<td>4</td>
 </tr>
 <tr>
 <td>14</td>
 <td colspan="4">Крестьянское хозяйство «Восток»</td>
 <td>205</td>
 <td>205</td>
-<td>12</td>
 <td>10</td>
+<td>7</td>
 </tr>
 <tr>
 <td>15</td>
@@ -597,67 +605,67 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>40</td>
 <td>40</td>
 <td>5</td>
-<td>5</td>
+<td>4</td>
 </tr>
 <tr>
 <td>16</td>
 <td colspan="4">Крестьянское хозяйство «Эльвира»</td>
-<td>517</td>
 <td>332</td>
-<td>112</td>
+<td>332</td>
 <td>58</td>
+<td>53</td>
 </tr>
 <tr>
 <td>17</td>
 <td colspan="4">Крестьянское хозяйство «Ринат»</td>
 <td>408</td>
 <td>408</td>
-<td>81</td>
 <td>61</td>
+<td>59</td>
 </tr>
 <tr>
-<td colspan="5">Сорт испытательный участок</td>
+<td colspan="5">(Сорт сынау учаскесі)</td>
 <td>466</td>
 <td>466</td>
-<td>5</td>
 <td>3</td>
+<td>2</td>
 </tr>
 <tr>
-<td colspan="5">Другие земли сельского округа (внутри села)</td>
+<td colspan="5">Ауылдық округтің басқа жерлері (ауыл іші)</td>
 <td>6</td>
 <td>6</td>
 <td>2</td>
-<td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
-<td>221</td>
 <td>196</td>
-<td>162</td>
+<td>174</td>
 <td>196</td>
+<td>174</td>
 </tr>
 <tr>
 <td colspan="5">Маржанбулакский сельский округ</td>
-<td>5371</td>
 <td>4464,3</td>
-<td>389</td>
+<td>3125,3</td>
 <td>335</td>
+<td>286,8</td>
 </tr>
 <tr>
 <td>18</td>
 <td colspan="4">Крестьянское хозяйство «Асеке»</td>
 <td>160</td>
-<td>160</td>
-<td>33</td>
+<td>0</td>
 <td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>19</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Маржанбұлақ»</td>
 <td>487</td>
 <td>487</td>
-<td>37</td>
 <td>36</td>
+<td>30</td>
 </tr>
 <tr>
 <td>20</td>
@@ -665,7 +673,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>313</td>
 <td>313</td>
 <td>4</td>
-<td>4</td>
+<td>3</td>
 </tr>
 <tr>
 <td>21</td>
@@ -673,52 +681,52 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>2119</td>
 <td>2119</td>
 <td>240</td>
-<td>240</td>
+<td>223</td>
 </tr>
 <tr>
 <td>22</td>
 <td colspan="4">Агропромышленный кооператив «Орынбай-1»</td>
-<td>1834</td>
 <td>1179</td>
-<td>30</td>
+<td>0</td>
 <td>7</td>
+<td>0</td>
 </tr>
 <tr>
 <td>23</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «Ақтөбе-Шарко»</td>
-<td>250</td>
+<td colspan="4">ТОО» Актобе-Шарко &quot; (бывший ПК Жусупова)</td>
+<td>132,3</td>
 <td>132,3</td>
 <td>23</td>
-<td>23</td>
+<td>14</td>
 </tr>
 <tr>
 <td>24</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «Элит Квартал»</td>
-<td>205</td>
+<td colspan="4">ТОО «Элит Квартал» (бывший ПК Нұрмұхамедова )</td>
+<td>71</td>
 <td>71</td>
 <td>21</td>
-<td>21</td>
+<td>16</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
 <td>3</td>
 <td>3</td>
 <td>1</td>
-<td>1</td>
+<td>0,8</td>
 </tr>
 <tr>
 <td colspan="5">Сарыкобдинский сельский округ</td>
-<td>274</td>
+<td>28</td>
 <td>28</td>
 <td>27,2</td>
 <td>27,2</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="4">«Ақ-Агро» Агропромышленный кооператив</td>
-<td>273</td>
+<td colspan="4">Агропромышленный кооператив &quot; Ак-Агро &quot; (Акимата Алгинского района № 234 . Возвращен в Государственный земельный фонд на основании постановления от 07.09.2022)</td>
 <td>0</td>
-<td>27</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
@@ -729,34 +737,34 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,2</td>
 </tr>
 <tr>
-<td colspan="5">Государственный земельный фонд</td>
-<td>0</td>
+<td colspan="5">Государственный земельный фонд( (бывший «Ақ-Агро» АК)</td>
 <td>27</td>
-<td>0</td>
+<td>27</td>
+<td>27</td>
 <td>27</td>
 </tr>
 <tr>
 <td colspan="5">Тамдинский сельский округ</td>
 <td>2281,1</td>
-<td>2281,1</td>
-<td>81,9</td>
+<td>2281,07</td>
 <td>70,9</td>
+<td>47,37</td>
 </tr>
 <tr>
 <td>26</td>
 <td colspan="4">Крестьянское хозяйство «Алғабас-Батпақты»</td>
 <td>927</td>
 <td>927</td>
-<td>35</td>
 <td>29</td>
+<td>21</td>
 </tr>
 <tr>
 <td>27</td>
-<td colspan="4">Крестьянское хозяйство Аманжол</td>
+<td colspan="4">Крестьянское хозяйство «Алға –Ескендір»</td>
 <td>870</td>
 <td>870</td>
 <td>14</td>
-<td>14</td>
+<td>10</td>
 </tr>
 <tr>
 <td>28</td>
@@ -779,8 +787,8 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Әлжан»</td>
 <td>379</td>
 <td>379</td>
-<td>31</td>
 <td>26</td>
+<td>15</td>
 </tr>
 <tr>
 <td>31</td>
@@ -788,40 +796,40 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>100</td>
 <td>100</td>
 <td>1</td>
-<td>1</td>
+<td>0,8</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
 <td>5</td>
 <td>5</td>
 <td>0,8</td>
-<td>0,8</td>
+<td>0,5</td>
 </tr>
 <tr>
-<td colspan="5">Государственный земельный фонд</td>
+<td colspan="5">Государственный земельный фонд (Талдысай ауылының жайылымы)</td>
 <td>0,1</td>
+<td>0,07</td>
 <td>0,1</td>
-<td>0,1</td>
-<td>0,1</td>
+<td>0,07</td>
 </tr>
 <tr>
 <td colspan="5">Ушкудыкский сельский округ</td>
-<td>2862</td>
 <td>2460</td>
-<td>683,7</td>
+<td>2364</td>
 <td>670,7</td>
+<td>545,2</td>
 </tr>
 <tr>
 <td>32</td>
 <td colspan="4">Крестьянское хозяйство «Петровка-1»</td>
 <td>1738</td>
-<td>1738</td>
+<td>1642</td>
 <td>603</td>
-<td>603</td>
+<td>485</td>
 </tr>
 <tr>
 <td>33</td>
-<td colspan="4">Крестьянское хозяйство «Өте-Мұр-АС»</td>
+<td colspan="4">Крестьянское хозяйство «Өте-Мұр-АС» (Акимата Алгинского района № 219 . Возвращен в Государственный земельный фонд на основании постановления от 01.09.2022.)</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -833,22 +841,22 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>367</td>
 <td>367</td>
 <td>59</td>
-<td>59</td>
+<td>55</td>
 </tr>
 <tr>
 <td>35</td>
 <td colspan="4">Крестьянское хозяйство «Энергия»</td>
 <td>340</td>
 <td>340</td>
-<td>6</td>
 <td>4</td>
+<td>2</td>
 </tr>
 <tr>
 <td>36</td>
 <td colspan="4">Крестьянское хозяйство «Ажар»</td>
-<td>402</td>
 <td>0</td>
-<td>11</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
@@ -856,7 +864,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>15</td>
 <td>15</td>
 <td>4,7</td>
-<td>4,7</td>
+<td>3,2</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
@@ -868,9 +876,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Дороги</td>
 <td>2,5</td>
+<td>1</td>
 <td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="5">Алга-Ушкудык</td>
@@ -880,7 +888,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,2</td>
 </tr>
 <tr>
-<td colspan="5">Актобе - Кандыагаш</td>
+<td colspan="5">Актобе - Кандагаш</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -896,83 +904,83 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Алга - Токмансай</td>
 <td>2</td>
+<td>0,5</td>
 <td>2</td>
-<td>2</td>
-<td>2</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td colspan="5">Итого по Алгинскому району:</td>
-<td>16865,6</td>
 <td>13841,4</td>
-<td>1742,3</td>
+<td>12 107,87</td>
 <td>1608,8</td>
+<td>1319,07</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="5">в том числе</td>
-<td colspan="3">36 хозяйств</td>
-<td>16146</td>
+<td colspan="3">2024 год 36 хозяйств, 2025 год 36 хозяйств</td>
 <td>13119,3</td>
-<td>1564</td>
+<td>11 384</td>
 <td>1371</td>
+<td>1083,8</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3">другие земли сельского округа</td>
-<td>внутри села</td>
+<td>внутри города</td>
 <td>30</td>
 <td>30</td>
 <td>8,7</td>
-<td>8,7</td>
+<td>5,7</td>
 </tr>
 <tr>
-<td>внутри города</td>
-<td>0</td>
+<td>внутри села</td>
 <td>0,5</td>
-<td>0</td>
+<td>0,5</td>
+<td>0,5</td>
 <td>0,5</td>
 </tr>
 <tr>
 <td>вдоль дорог</td>
 <td>2,5</td>
+<td>1</td>
 <td>2,5</td>
-<td>2,5</td>
-<td>2,5</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="3">государственный земельный фонд</td>
-<td>687,1</td>
 <td>689,1</td>
-<td>167,1</td>
+<td>692,07</td>
 <td>226,1</td>
+<td>228,07</td>
 </tr>
 <tr>
 <td colspan="9">Иргизский район</td>
 </tr>
 <tr>
-<td colspan="5">Иргизский сельский округ</td>
-<td>207</td>
+<td colspan="5">Ырғыз ауылдық округі</td>
 <td>203</td>
-<td>6,03</td>
+<td>207</td>
+<td>2,03</td>
 <td>2,03</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
-<td>5</td>
 <td>1</td>
 <td>5</td>
 <td>1</td>
+<td>2,03</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли селького округа (вдоль дорог)</td>
 <td>202</td>
 <td>202</td>
 <td>1,03</td>
-<td>1,03</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5">Итого по Иргизскому району:</td>
-<td>207</td>
 <td>203</td>
-<td>6,03</td>
+<td>207</td>
+<td>2,03</td>
 <td>2,03</td>
 </tr>
 <tr>
@@ -980,17 +988,17 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Другие земли селького округа (вдоль дорог)</td>
-<td>3</td>
 <td>5</td>
+<td>0</td>
 <td>3</td>
-<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5">Итого по Уилскому району:</td>
-<td>3</td>
 <td>5</td>
+<td>0</td>
 <td>3</td>
-<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="9">Каргалинский район</td>
@@ -999,24 +1007,24 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Алимбетовский сельский округ</td>
 <td>1604,7</td>
 <td>1604,7</td>
-<td>223,7</td>
 <td>163,7</td>
+<td>103,7</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4">Крестьянское хозяйство «Фар»</td>
 <td>1101</td>
 <td>1101</td>
-<td>160</td>
 <td>120</td>
+<td>80</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="4">Крестьянское хозяйство «Алим»</td>
 <td>500</td>
 <td>500</td>
-<td>60</td>
 <td>40</td>
+<td>20</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -1034,9 +1042,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Ащелисайский сельский округ</td>
-<td>2444,4</td>
 <td>2444,41</td>
-<td>4,41</td>
+<td>2444,41</td>
+<td>3,41</td>
 <td>3,41</td>
 </tr>
 <tr>
@@ -1044,7 +1052,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Товарищество с ограниченной ответственностью «DZHAN +»</td>
 <td>2444</td>
 <td>2444</td>
-<td>4</td>
+<td>3</td>
 <td>3</td>
 </tr>
 <tr>
@@ -1058,16 +1066,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Бадамшинский сельский округ</td>
 <td>404</td>
 <td>404</td>
-<td>4,6</td>
 <td>4,4</td>
+<td>4,2</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="4">Крестьянское хозяйство «Табыс»</td>
 <td>400</td>
 <td>400</td>
-<td>0,6</td>
 <td>0,4</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -1080,8 +1088,8 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Велиховский сельский округ</td>
 <td>2677</td>
 <td>2677</td>
-<td>15,1</td>
 <td>15</td>
+<td>10,9</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1089,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>2081</td>
 <td>2081</td>
 <td>14</td>
-<td>14</td>
+<td>10</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1104,23 +1112,23 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Товарищество с ограниченной ответственностью «Велиховка»</td>
 <td>271</td>
 <td>271</td>
-<td>0,3</td>
 <td>0,2</td>
+<td>0,1</td>
 </tr>
 <tr>
 <td colspan="5">Желтауский сельский округ</td>
 <td>6919,04</td>
 <td>6919,04</td>
-<td>36,64</td>
 <td>29,64</td>
+<td>22,34</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="4">Крестьянское хозяйство «Жарық»</td>
 <td>300</td>
 <td>300</td>
-<td>7</td>
 <td>6</td>
+<td>5</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1128,23 +1136,23 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>300</td>
 <td>300</td>
 <td>0,6</td>
-<td>0,6</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>10</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «INTER AGRO FOOD»</td>
+<td colspan="4">ТОО &quot; INTER AGRO FOOD &quot;</td>
 <td>4555</td>
 <td>4555</td>
-<td>25</td>
 <td>20</td>
+<td>15</td>
 </tr>
 <tr>
 <td>11</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Интер-Агро»</td>
 <td>1764</td>
 <td>1764</td>
-<td>4</td>
 <td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -1154,40 +1162,40 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,04</td>
 </tr>
 <tr>
-<td colspan="5">Кимперсайский сельский округ</td>
-<td>111,5</td>
+<td colspan="5">Кемпирсайский сельский округ</td>
 <td>110</td>
-<td>2</td>
+<td>110</td>
 <td>0,4</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td>12</td>
 <td colspan="4">Крестьянское хозяйство «Кудря»</td>
 <td>110</td>
 <td>110</td>
-<td>0,5</td>
 <td>0,4</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
-<td>1,5</td>
 <td>0</td>
-<td>1,5</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Кос-Истекский сельский округ</td>
 <td>6531,2</td>
-<td>6531,2</td>
-<td>61,4</td>
+<td>6 531,2</td>
 <td>50,5</td>
+<td>42,1</td>
 </tr>
 <tr>
 <td>13</td>
 <td colspan="4">Крестьянское хозяйство «Алтын–Дала»</td>
 <td>550</td>
 <td>550</td>
-<td>0,4</td>
+<td>0,3</td>
 <td>0,3</td>
 </tr>
 <tr>
@@ -1201,9 +1209,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td>15</td>
 <td colspan="4">Крестьянское хозяйство «Нива»</td>
-<td>155</td>
 <td>0</td>
-<td>4,8</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1220,23 +1228,23 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>200</td>
 <td>200</td>
 <td>0,4</td>
-<td>0,4</td>
+<td>0,3</td>
 </tr>
 <tr>
 <td>18</td>
 <td colspan="4">Крестьянское хозяйство «Қуаныш»</td>
-<td>193</td>
 <td>348</td>
-<td>0,8</td>
+<td>348</td>
 <td>4,8</td>
+<td>2</td>
 </tr>
 <tr>
 <td>19</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Қос-Истек Агро»</td>
 <td>4871</td>
 <td>4871</td>
-<td>50</td>
 <td>40</td>
+<td>35</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1244,7 +1252,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>210</td>
 <td>210</td>
 <td>1,5</td>
-<td>1,5</td>
+<td>1</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
@@ -1263,73 +1271,73 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">сельский округ Степной</td>
 <td>6837</td>
-<td>6837</td>
-<td>43,8</td>
+<td>6 837</td>
 <td>36,6</td>
+<td>21</td>
 </tr>
 <tr>
 <td>21</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Қайрақты»</td>
 <td>5845</td>
 <td>5845</td>
-<td>43</td>
 <td>36</td>
+<td>21</td>
 </tr>
 <tr>
 <td>22</td>
 <td colspan="4">Крестьянское хозяйство «Әнуар»</td>
 <td>494</td>
 <td>494</td>
-<td>0,4</td>
 <td>0,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>23</td>
 <td colspan="4">Крестьянское хозяйство «Нұртас»</td>
 <td>498</td>
 <td>498</td>
-<td>0,4</td>
 <td>0,3</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5">Вдоль дорог</td>
-<td>16,75</td>
 <td>0,95</td>
-<td>16,75</td>
+<td>0,95</td>
+<td>0,95</td>
 <td>0,95</td>
 </tr>
 <tr>
 <td colspan="5">Итого по Каргалинскому району:</td>
-<td>27545,6</td>
 <td>27528,3</td>
-<td>408,4</td>
+<td>27528,3</td>
 <td>304,6</td>
+<td>208,8</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">23 хозяйств</td>
+<td colspan="3">в 2024 году 23 хозяйства,в 2025 год 23 хозяйства</td>
 <td>27517</td>
 <td>27517</td>
-<td>379,8</td>
 <td>293,3</td>
+<td>197,5</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">другие земли сельского округа</td>
 <td>внутри села</td>
-<td>9,25</td>
 <td>7,75</td>
-<td>9,25</td>
+<td>7,75</td>
+<td>7,75</td>
 <td>7,75</td>
 </tr>
 <tr>
 <td>вдоль дорог</td>
-<td>16,75</td>
 <td>0,95</td>
-<td>16,75</td>
+<td>0,95</td>
+<td>0,95</td>
 <td>0,95</td>
 </tr>
 <tr>
-<td colspan="3">осударственный земельный фонд</td>
+<td colspan="3">государственный земельный фонд</td>
 <td>2,6</td>
 <td>2,6</td>
 <td>2,6</td>
@@ -1341,7 +1349,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Бегалинский сельский округ</td>
 <td>305</td>
-<td>305</td>
+<td>303</td>
 <td>4</td>
 <td>4</td>
 </tr>
@@ -1356,7 +1364,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
 <td>5</td>
-<td>5</td>
+<td>3</td>
 <td>3</td>
 <td>3</td>
 </tr>
@@ -1377,17 +1385,25 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Отекский сельский округ</td>
 <td>452</td>
-<td>452</td>
+<td>471</td>
 <td>44</td>
-<td>44</td>
+<td>60,3</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="4">Крестьянское хозяйство «Жеңіс-2»</td>
 <td>400</td>
-<td>400</td>
+<td>328</td>
 <td>1</td>
-<td>1</td>
+<td>0,3</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="4">Крестьянское хозяйство «Шөмекей»</td>
+<td>0</td>
+<td>17</td>
+<td>0</td>
+<td>17</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -1399,7 +1415,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
 <td>51</td>
-<td>51</td>
+<td>125</td>
 <td>42</td>
 <td>42</td>
 </tr>
@@ -1439,19 +1455,19 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,6</td>
 </tr>
 <tr>
-<td colspan="5">Итого по Кобдинскому району:</td>
+<td colspan="5">Итого по Кобдинскому району</td>
 <td>1101,6</td>
-<td>1101,6</td>
+<td>1118,6</td>
 <td>392,6</td>
-<td>392,6</td>
+<td>408,9</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">2 хозяйства</td>
+<td colspan="3">в 2024 году 2 хозяйства,в 2025 год 3 хозяйства</td>
 <td>700</td>
-<td>700</td>
+<td>645</td>
 <td>2</td>
-<td>2</td>
+<td>18,3</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">другие земли сельского округа</td>
@@ -1471,7 +1487,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="3">государственный земельный фонд</td>
 <td>398</td>
-<td>398</td>
+<td>470</td>
 <td>387</td>
 <td>387</td>
 </tr>
@@ -1550,9 +1566,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Байторасайский сельский округ</td>
-<td>3315</td>
 <td>3079</td>
-<td>34,5</td>
+<td>3079</td>
+<td>31</td>
 <td>31</td>
 </tr>
 <tr>
@@ -1590,17 +1606,17 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td>12</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «МәртөкАгросервис»</td>
-<td>1576</td>
 <td>1500</td>
-<td>20</td>
+<td>1500</td>
+<td>17</td>
 <td>17</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="4">Крестьянское хозяйство«Рубин-5»</td>
-<td>160</td>
+<td colspan="4">Крестьянское хозяйство «Рубин-5»</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
@@ -1614,7 +1630,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Хазретовский сельский округ</td>
 <td>2936</td>
 <td>2936</td>
-<td>61</td>
+<td>36</td>
 <td>36</td>
 </tr>
 <tr>
@@ -1627,7 +1643,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>15</td>
-<td colspan="4">Крестьянское хозяйство «Березовка»</td>
+<td colspan="4">К/Х &quot;Березовка&quot; (бывший КХ &quot;Болашак-Березовка&quot;)</td>
 <td>699</td>
 <td>699</td>
 <td>3</td>
@@ -1635,10 +1651,10 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>16</td>
-<td colspan="4">Товарищество с ограниченной ответственностью Агрофирма «Коквест»</td>
+<td colspan="4">ТОО «Агрофирма» Коквест &quot;(бывшее крестьянское хозяйство &quot;Коквест&quot;)</td>
 <td>1247</td>
 <td>1247</td>
-<td>50</td>
+<td>25</td>
 <td>25</td>
 </tr>
 <tr>
@@ -1673,7 +1689,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Карашайский сельский округ</td>
 <td>1228,5</td>
 <td>1228,5</td>
-<td>6</td>
+<td>4</td>
 <td>4</td>
 </tr>
 <tr>
@@ -1681,7 +1697,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Әлем»</td>
 <td>1097</td>
 <td>1097</td>
-<td>5</td>
+<td>3</td>
 <td>3</td>
 </tr>
 <tr>
@@ -1715,9 +1731,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Кызылжарский сельский округ</td>
-<td>538,1</td>
 <td>528,1</td>
-<td>28,1</td>
+<td>528,1</td>
+<td>16,1</td>
 <td>16,1</td>
 </tr>
 <tr>
@@ -1725,7 +1741,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Жансерік»</td>
 <td>235</td>
 <td>235</td>
-<td>2</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
@@ -1733,7 +1749,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Дәулен»</td>
 <td>279</td>
 <td>279</td>
-<td>2</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
@@ -1745,9 +1761,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
-<td>24</td>
 <td>14</td>
-<td>24</td>
+<td>14</td>
+<td>14</td>
 <td>14</td>
 </tr>
 <tr>
@@ -1827,7 +1843,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>26</td>
-<td colspan="4">Крестьянское хозяйство «Сәби»</td>
+<td colspan="4">Крестьянское хозяйство «Саби»</td>
 <td>132</td>
 <td>132</td>
 <td>2</td>
@@ -1885,17 +1901,17 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Итого по Мартукскому району:</td>
-<td>12213,6</td>
 <td>11967,6</td>
-<td>190,6</td>
+<td>11 967,6</td>
+<td>148,1</td>
 <td>148,1</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">27 хозяйств</td>
-<td>12170</td>
+<td colspan="3">в 2024 году 27 хозяйства,в 2025 год 27 хозяйства</td>
 <td>11934</td>
-<td>147</td>
+<td>11934</td>
+<td>114,5</td>
 <td>114,5</td>
 </tr>
 <tr>
@@ -1915,28 +1931,28 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="3">государственный земельный фонд</td>
-<td>32</td>
 <td>22</td>
-<td>32</td>
 <td>22</td>
+<td>22</td>
+<td>22,0</td>
 </tr>
 <tr>
 <td colspan="9">Мугалжарский район</td>
 </tr>
 <tr>
 <td colspan="5">Енбекский сельский округ</td>
-<td>964</td>
 <td>863</td>
-<td>160,5</td>
+<td>865</td>
 <td>159,5</td>
+<td>158,5</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4">Крестьянское хозяйство «Жарасқан»</td>
-<td>395</td>
+<td>295</td>
 <td>295</td>
 <td>4</td>
-<td>4</td>
+<td>1</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1948,16 +1964,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
-<td>156</td>
 <td>155</td>
-<td>156</td>
+<td>157</td>
 <td>155</td>
+<td>157</td>
 </tr>
 <tr>
 <td colspan="5">город Кандыагаш</td>
-<td>1,3</td>
 <td>1</td>
-<td>1,3</td>
+<td>1</td>
+<td>1</td>
 <td>1</td>
 </tr>
 <tr>
@@ -1996,7 +2012,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">город Қандыагаш (дорога)</td>
+<td colspan="5">город Кандыагаш (дорога)</td>
 <td>0,1</td>
 <td>0,1</td>
 <td>0,1</td>
@@ -2004,18 +2020,18 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Итого по Мугалжарскому району:</td>
-<td>965,3</td>
 <td>864,3</td>
-<td>161,8</td>
+<td>866,3</td>
 <td>160,8</td>
+<td>159,8</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">2 хозяйства</td>
-<td>808</td>
+<td colspan="3">в 2024 году 2 хозяйства, в 2025 год 2 хозяйства</td>
+<td>708</td>
 <td>708</td>
 <td>4,5</td>
-<td>4,5</td>
+<td>1,5</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="2">другие земли сельского округа</td>
@@ -2034,10 +2050,10 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="3">государственный земельный фонд</td>
-<td>156</td>
 <td>155</td>
-<td>156</td>
+<td>157</td>
 <td>155</td>
+<td>157</td>
 </tr>
 <tr>
 <td colspan="9">Хромтауский район</td>
@@ -2046,16 +2062,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Абайский сельский округ</td>
 <td>3606</td>
 <td>3606</td>
-<td>144</td>
 <td>142</td>
+<td>113,8</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="4">Крестьянское хозяйство «Айнұр»</td>
+<td colspan="4">Крестьянское хозяйство «Айнур»</td>
 <td>301</td>
 <td>301</td>
 <td>5</td>
-<td>5</td>
+<td>3</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2078,7 +2094,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Наурыз»</td>
 <td>622</td>
 <td>622</td>
-<td>10</td>
+<td>9</td>
 <td>9</td>
 </tr>
 <tr>
@@ -2086,8 +2102,8 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Крестьянское хозяйство «Жантізер»</td>
 <td>1930</td>
 <td>1930</td>
-<td>63</td>
 <td>62</td>
+<td>61</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2102,37 +2118,37 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>53</td>
 <td>53</td>
 <td>53</td>
-<td>53</td>
+<td>27,8</td>
 </tr>
 <tr>
 <td colspan="5">Аккудыкский сельский округ</td>
 <td>3534,8</td>
-<td>3534,8</td>
-<td>159,8</td>
+<td>3567,8</td>
 <td>158</td>
+<td>183</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="4">Крестьянское хозяйство «Дихан»</td>
 <td>586,8</td>
 <td>586,8</td>
-<td>2,8</td>
 <td>2</td>
+<td>1</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="4">Крестьянское хозяйство «Қайнар»</td>
 <td>2932</td>
 <td>2932</td>
-<td>141</td>
 <td>140</td>
+<td>139</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
 <td>15</td>
+<td>48</td>
 <td>15</td>
-<td>15</td>
-<td>15</td>
+<td>42</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -2145,16 +2161,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Акжарский сельский округ</td>
 <td>5530</td>
 <td>5530</td>
-<td>340</td>
 <td>339</td>
+<td>338</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Ақжар Агро»</td>
 <td>5063</td>
 <td>5063</td>
-<td>291</td>
 <td>290</td>
+<td>289</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2174,24 +2190,24 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Кудыксайский сельский округ</td>
-<td>1903</td>
 <td>0</td>
-<td>11</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="4">Товарищество с ограниченной ответственностью «Актюбинский мясной кластер»</td>
-<td>1903</td>
+<td colspan="4">ТОО» Актюбинское Племенное Предприятие &quot;бывшее ТОО&quot; Актюбинский мясной кластер»</td>
 <td>0</td>
-<td>11</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Кызылсуский сельский округ</td>
 <td>3108</td>
 <td>3108</td>
-<td>34</td>
+<td>33</td>
 <td>33</td>
 </tr>
 <tr>
@@ -2199,7 +2215,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="4">Акционерное общество «Көктас Ақтөбе»</td>
 <td>3108</td>
 <td>3108</td>
-<td>34</td>
+<td>33</td>
 <td>33</td>
 </tr>
 <tr>
@@ -2207,7 +2223,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>4971</td>
 <td>4971</td>
 <td>304</td>
-<td>304</td>
+<td>300</td>
 </tr>
 <tr>
 <td>14</td>
@@ -2215,7 +2231,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>2172</td>
 <td>2172</td>
 <td>150</td>
-<td>150</td>
+<td>149</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2223,7 +2239,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>1299</td>
 <td>1299</td>
 <td>50</td>
-<td>50</td>
+<td>48</td>
 </tr>
 <tr>
 <td>16</td>
@@ -2247,7 +2263,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>590</td>
 <td>590</td>
 <td>95</td>
-<td>95</td>
+<td>94</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд</td>
@@ -2260,16 +2276,16 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="5">Табанталский сельский округ</td>
 <td>994</td>
 <td>994</td>
-<td>4</td>
 <td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td>19</td>
 <td colspan="4">Товарищество с ограниченной ответственностью «Елім Табантал»</td>
 <td>994</td>
 <td>994</td>
-<td>4</td>
 <td>3</td>
+<td>2</td>
 </tr>
 <tr>
 <td colspan="5">Дороги</td>
@@ -2294,18 +2310,18 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">Итого по Хромтаускому району:</td>
-<td>23650</td>
 <td>21747</td>
-<td>1000</td>
+<td>21 780,0</td>
 <td>982,2</td>
+<td>973,0</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">19 хозяйств</td>
-<td>23576,8</td>
+<td colspan="3">в 2024 году 19 хозяйства, в 2025 год 19 хозяйства</td>
 <td>21673,8</td>
-<td>926,8</td>
+<td>21 673,8</td>
 <td>909</td>
+<td>898</td>
 </tr>
 <tr>
 <td rowspan="2">другие земли сельского округа</td>
@@ -2325,9 +2341,9 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <tr>
 <td colspan="3">государственный земельный фонд</td>
 <td>69</td>
+<td>102</td>
 <td>69</td>
-<td>69</td>
-<td>69</td>
+<td>70,8</td>
 </tr>
 <tr>
 <td colspan="9">Шалкарский район</td>
@@ -2347,7 +2363,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Итого по Шалкарскому району</td>
+<td colspan="5">итого по Шалкарскому району</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2355,7 +2371,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="2">в том числе</td>
-<td colspan="3">государственный земельный фонд</td>
+<td colspan="3">другие земли сельского округа</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2366,18 +2382,18 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td colspan="5">район Алматы</td>
-<td>1353,6</td>
 <td>1353,606</td>
+<td>864,746</td>
 <td>525,605</td>
-<td>525,605</td>
+<td>175,825</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="4">Крестьянское хозяйство «Анисан»</td>
 <td>1331,6</td>
-<td>1331,6</td>
+<td>831,5</td>
 <td>520</td>
-<td>520</td>
+<td>170</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2395,32 +2411,32 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>5</td>
 </tr>
 <tr>
-<td colspan="5">вдоль дорог</td>
+<td colspan="5">Вдоль дорог</td>
 <td>7,006</td>
-<td>7,006</td>
+<td>28,246</td>
 <td>0,405</td>
-<td>0,405</td>
+<td>0,825</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
-<td>10</td>
 <td>0</td>
-<td>0,2</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="5">Государственный земельный фонд (внутри села Белогорка)</td>
-<td>0</td>
 <td>10</td>
 <td>0</td>
 <td>0,2</td>
+<td>0</td>
 </tr>
 <tr>
 <td colspan="5">район Астана</td>
 <td>558</td>
-<td>558</td>
+<td>546,7625</td>
 <td>5,2</td>
-<td>5,2</td>
+<td>2,30162</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2428,7 +2444,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>30</td>
 <td>30</td>
 <td>3</td>
-<td>3</td>
+<td>0,8368</td>
 </tr>
 <tr>
 <td>4</td>
@@ -2436,7 +2452,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>500</td>
 <td>500</td>
 <td>1,5</td>
-<td>1,5</td>
+<td>0,661</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2455,11 +2471,19 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
+<td>7</td>
+<td colspan="4">«Темір Тұлпар Батыс» ЖШС</td>
+<td>0</td>
+<td>9,76118</td>
+<td>0</td>
+<td>0,0025</td>
+</tr>
+<tr>
 <td colspan="5">Вдоль дорог</td>
 <td>28</td>
-<td>28</td>
+<td>7,00132</td>
 <td>0,7</td>
-<td>0,7</td>
+<td>0,80132</td>
 </tr>
 <tr>
 <td colspan="5">Другие земли сельского округа (внутри села)</td>
@@ -2469,88 +2493,89 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Итого по городу Актобе:</td>
+<td colspan="5">Итого по Актюбинской области</td>
 <td>1911,606</td>
-<td>1911,606</td>
+<td>1411,5085</td>
 <td>530,805</td>
-<td>530,805</td>
+<td>178,12662</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="4">в том числе</td>
-<td colspan="3">6 хозяйств</td>
+<td colspan="3">7 хозяйств</td>
 <td>1861,6</td>
-<td>1861,6</td>
+<td>1371,26118</td>
 <td>524,5</td>
-<td>524,5</td>
+<td>171,5003</td>
 </tr>
 <tr>
-<td rowspan="2">другие земли сельского округа</td>
-<td colspan="2">вдоль дорог</td>
+<td colspan="3">вдоль дорог</td>
 <td>35,006</td>
-<td>35,006</td>
+<td>35,24732</td>
 <td>1,105</td>
-<td>1,105</td>
+<td>1,62632</td>
 </tr>
 <tr>
-<td colspan="2">внутри села</td>
-<td>10</td>
+<td colspan="3">другие земли сельского округа</td>
 <td>0</td>
-<td>0,2</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="3">государственный земельный фонд</td>
-<td>5</td>
 <td>15</td>
 <td>5</td>
 <td>5,2</td>
+<td>5</td>
 </tr>
 <tr>
-<td colspan="5">Итого по Актюбинской области 142 хозяйств</td>
-<td>117490,4</td>
-<td>110929,7</td>
-<td>3860,1</td>
+<td colspan="5">Всего по Актюбинской области в 2024 году 142 хозяйства - в 2025 году 144 хозяйства</td>
+<td>109906,7</td>
+<td>107 626,36118</td>
 <td>3524,4</td>
+<td>2821,7003</td>
 </tr>
 <tr>
 <td colspan="2" rowspan="3">другие земли сельского округа</td>
 <td colspan="3">другие земли всего</td>
-<td>336,472</td>
 <td>311,672</td>
-<td>66,301</td>
+<td>307,347</td>
 <td>53,501</td>
+<td>47,42632</td>
 </tr>
 <tr>
 <td colspan="3">внутри села, внутри города</td>
-<td>59,916</td>
 <td>48,916</td>
-<td>27,816</td>
+<td>50,85</td>
 <td>27,616</td>
+<td>26,55</td>
 </tr>
 <tr>
 <td colspan="3">вдоль дорог</td>
-<td>276,556</td>
 <td>262,756</td>
-<td>38,485</td>
+<td>256,497</td>
 <td>25,885</td>
+<td>20,87632</td>
 </tr>
 <tr>
-<td colspan="5">Государственный земельный фонд</td>
-<td>1514,5</td>
+<td colspan="2">Государственный земельный фонд</td>
+<td colspan="3">Государственный земельный фонд</td>
 <td>1511,5</td>
-<td>983,5</td>
+<td>1 615,47</td>
 <td>1027,7</td>
+<td>1 034,3</td>
 </tr>
 <tr>
-<td colspan="5">Всего по области:</td>
-<td>119341,372</td>
-<td>112752,872</td>
-<td>4909,901</td>
+<td colspan="2">Всего по области:</td>
+<td colspan="3">Всего по области:</td>
+<td>111729,872</td>
+<td>109549,17850</td>
 <td>4605,601</td>
+<td>3 903,42662</td>
 </tr>
 </table>
 
-## Перечень на которых устанавливается карантинная зона с введением карантинного режима вдоль дорогах зараженных повиликой по Актюбинской области на 1 января 2024 года
+# Перечень на которых устанавливается карантинная зона с введением карантинного режима вдоль дорогах зараженных повиликой по Актюбинской области на 1 января 2025 года
 
 <table>
 <tr>
@@ -2560,21 +2585,21 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="2">Площадь под обработку, гектар</td>
 </tr>
 <tr>
-<td>2023 год</td>
 <td>2024 год</td>
-<td>2023 год</td>
+<td>2025 год</td>
 <td>2024 год</td>
+<td>2025 год</td>
 </tr>
 <tr>
 <td colspan="2">Айтекебийский район</td>
 <td>1,5</td>
+<td>1,512</td>
 <td>1,5</td>
-<td>1,5</td>
-<td>1,5</td>
+<td>1,512</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Вдоль дорог Жамбыл-Қарабутак</td>
+<td>Вдоль дорог Жамбыл-Карабутак</td>
 <td>0,3</td>
 <td>0,3</td>
 <td>0,3</td>
@@ -2582,19 +2607,27 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>2</td>
-<td>Вдоль дорог Т.Жургенов- Қарабутак</td>
+<td>Вдоль дорог Т.Жүргенов- Карабутак</td>
 <td>0,7</td>
+<td>0,5</td>
 <td>0,7</td>
-<td>0,7</td>
-<td>0,7</td>
+<td>0,5</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Вдоль дорог Т.Жургенов- Айке</td>
+<td>Вдоль дорог Т.Жүргенов- Айке</td>
 <td>0,5</td>
+<td>0,7</td>
 <td>0,5</td>
-<td>0,5</td>
-<td>0,5</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Сельский вдоль дорог (Т. Жургенов)</td>
+<td>0</td>
+<td>0,012</td>
+<td>0</td>
+<td>0,012</td>
 </tr>
 <tr>
 <td colspan="2">Алгинский район</td>
@@ -2605,11 +2638,19 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>4</td>
-<td>Вдоль дорог Алға – Қарабулак</td>
+<td>Вдоль дорог Алга – Карабулак</td>
 <td>0,4</td>
+<td>0,2</td>
 <td>0,4</td>
-<td>0,4</td>
-<td>0,4</td>
+<td>0,2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Город Алга вдоль дорог</td>
+<td>0</td>
+<td>0,2</td>
+<td>0</td>
+<td>0,2</td>
 </tr>
 <tr>
 <td colspan="2">Каргалинский район</td>
@@ -2619,7 +2660,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,02</td>
 </tr>
 <tr>
-<td>5</td>
+<td>7</td>
 <td>Вдоль дорог Бадамша- Рожденственка</td>
 <td>0,01</td>
 <td>0,01</td>
@@ -2627,7 +2668,7 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,01</td>
 </tr>
 <tr>
-<td>6</td>
+<td>8</td>
 <td>Вдоль дорог Кос Естек-Алимбет</td>
 <td>0,01</td>
 <td>0,01</td>
@@ -2635,30 +2676,45 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0,01</td>
 </tr>
 <tr>
+<td colspan="2">Мугалжарский район</td>
+<td>0</td>
+<td>0,01</td>
+<td>0</td>
+<td>0,01</td>
+</tr>
+<tr>
+<td>9</td>
+<td>внутри города Кандыагаш</td>
+<td>0</td>
+<td>0,01</td>
+<td>0</td>
+<td>0,01</td>
+</tr>
+<tr>
 <td colspan="2">город Актобе, район Астана, Алматы</td>
-<td>8,5531</td>
 <td>9,1808</td>
-<td>3,0036</td>
+<td>9,78472</td>
 <td>3,6313</td>
+<td>4,25772</td>
 </tr>
 <tr>
 <td></td>
 <td>Внутри города Актобе</td>
-<td>8,5531</td>
 <td>9,1808</td>
-<td>3,0036</td>
+<td>9,78472</td>
 <td>3,6313</td>
+<td>4,25772</td>
 </tr>
 <tr>
 <td colspan="2">Итого:</td>
-<td>10,4731</td>
 <td>11,1008</td>
-<td>4,9236</td>
+<td>11,72672</td>
 <td>5,5513</td>
+<td>6,19972</td>
 </tr>
 </table>
 
-## Перечень хозяйствующих субъектов в отношении которых устанавливается карантинная зона с введением карантинного режима на землях зараженных Южноамериканскими томатными мольями по Актюбинской области на 1 января 2024 года
+# Перечень хозяйствующих субъектов в отношении которых устанавливается карантинная зона с введением карантинного режима на землях зараженных Южноамериканскими томатными мольями по Актюбинской области на 1 января 2025 года
 
 <table>
 <tr>
@@ -2668,30 +2724,30 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td colspan="2">Площадь под обработку, гектар</td>
 </tr>
 <tr>
-<td>2023 год</td>
-<td>2024 год</td>
-<td>2023 год</td>
-<td>2024 год</td>
+<td>2024ж</td>
+<td>2025ж</td>
+<td>2024ж</td>
+<td>2025ж</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Товарищество с ограниченной ответственностью «Greenhause Kazakhatan» (теплица)</td>
+<td>Товарищество с ограниченной ответственностью (теплица) «Greenhause Kazakhstan»</td>
 <td>5,3</td>
+<td>10</td>
 <td>5,3</td>
-<td>5,3</td>
-<td>5,3</td>
+<td>10</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Крестьянское хозяйство «Амир Агро» (теплица)</td>
-<td>1</td>
+<td>Товарищество с ограниченной ответственностью (теплица) «Амир Агро»</td>
 <td>0</td>
-<td>1</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Крестьянское хозяйство «Жанаконыс» (теплица)</td>
+<td>Товарищество с ограниченной ответственностью (теплица) «Жаңақоныс»</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2699,15 +2755,15 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>4</td>
-<td>Товарищество с ограниченной ответственностью «Агрофирма Көктем» (теплица)</td>
-<td>1</td>
+<td>Товарищество с ограниченной ответственностью (теплица) «Агрофирма Көктем»</td>
 <td>0</td>
-<td>1</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Крестьянское хозяйство «Демеугалиев» (теплица)</td>
+<td>Крестьянское хозяйство (теплица) «Демеугалиев»</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -2715,18 +2771,18 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>6</td>
-<td>Крестьянское хозяйство «Алманов» (теплица)</td>
-<td>0,25</td>
+<td>Крестьянское хозяйство (теплица) «Алманов»</td>
 <td>0</td>
-<td>0,25</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td colspan="2">Итого теплицы:</td>
-<td>7,55</td>
 <td>5,3</td>
-<td>7,55</td>
+<td>10</td>
 <td>5,3</td>
+<td>10</td>
 </tr>
 <tr>
 <td>7</td>
@@ -2738,35 +2794,35 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 </tr>
 <tr>
 <td>8</td>
-<td>Крестьянское хозяйство «Жана-Тау»</td>
-<td>1</td>
+<td>Крестьянское хозяйство «Жаңа-Тау»</td>
 <td>0</td>
 <td>1</td>
 <td>0</td>
+<td>1</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Крестьянское хозяйство «Квант»</td>
-<td>10</td>
 <td>0</td>
-<td>10</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Крестьянское хозяйство «Бұтақ»</td>
-<td>2,56</td>
 <td>0</td>
-<td>2,56</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Крестьянское хозяйство «Победа»</td>
-<td>2</td>
 <td>0</td>
-<td>2</td>
+<td>3,5</td>
 <td>0</td>
+<td>3,5</td>
 </tr>
 <tr>
 <td>12</td>
@@ -2777,18 +2833,34 @@ source: https://zan.gov.kz/client/#!/doc/154477/rus/11.04.2024
 <td>0</td>
 </tr>
 <tr>
+<td>13</td>
+<td>ИП «Алманов»</td>
+<td>0</td>
+<td>1,5</td>
+<td>0</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td>14</td>
+<td>ИП «Дидар»</td>
+<td>0</td>
+<td>1,5</td>
+<td>0</td>
+<td>1,5</td>
+</tr>
+<tr>
 <td colspan="2">Итого: открытый грунт</td>
-<td>15,56</td>
 <td>0</td>
-<td>15,56</td>
+<td>7,5</td>
 <td>0</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td colspan="2">Итого:</td>
-<td>23,11</td>
 <td>5,3</td>
-<td>23,11</td>
+<td>17,5</td>
 <td>5,3</td>
+<td>17,5</td>
 </tr>
 </table>
 
