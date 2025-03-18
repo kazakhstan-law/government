@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/166994/kaz/27.12.2024
+source: https://zan.gov.kz/client/#!/doc/166994/kaz/18.03.2025
 ---
 
 > *Шарбақты ауданы*  
