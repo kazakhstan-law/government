@@ -11,11 +11,11 @@ approved_on: 2019-11-12
 approved_by:
 - '117000000000'
 version_date:
-  kaz: 2024-12-31
-  rus: 2024-12-31
+  kaz: 2025-04-01
+  rus: 2025-04-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/136234/kaz/31.12.2024
-  rus: https://zan.gov.kz/client/#!/doc/136234/rus/31.12.2024
+  kaz: https://zan.gov.kz/client/#!/doc/136234/kaz/01.04.2025
+  rus: https://zan.gov.kz/client/#!/doc/136234/rus/01.04.2025
 caused_by:
   code: '205614'
   requisite: Постановление Правления Агентства Республики Казахстан по регулированию и развитию финансового рынка от 31 декабря 2024 года № 96. Зарегистрировано в Министерстве юстиции Республики Казахстан 31 декабря 2024 года № 35612
