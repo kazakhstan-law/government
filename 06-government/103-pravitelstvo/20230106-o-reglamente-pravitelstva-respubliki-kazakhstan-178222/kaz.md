@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/178222/kaz/03.04.2025
+source: https://zan.gov.kz/client/#!/doc/178222/kaz/05.05.2025
 ---
 
 # Қазақстан Республикасы Үкіметінің регламенті туралы
