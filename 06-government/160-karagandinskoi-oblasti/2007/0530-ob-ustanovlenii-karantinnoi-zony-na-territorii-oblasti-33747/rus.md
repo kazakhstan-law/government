@@ -25,1115 +25,1046 @@
 
 > *Сноска. План мероприятий исключен постановлением акимата Карагандинской области от 21.07.2009 N 20/02.*
 
-> *Приложение к постановлению*  
-> *акимата Карагандинской области*  
-> *от 30 мая 2007 года № 12/03*
+> *Приложение*  
+> *к постановлению акимата*  
+> *Карагандинской области*  
+> *от «30» мая 2007 года*  
+> *№ 12/03*
 
 ## Перечень объектов государственного контроля в области карантина растений, где устанавливается карантинная зона с введением карантинного режима
 
-> *Сноска. Приложение - в редакции постановлений акимата Карагандинской области от 09.01.2015 N 01/03 (вводится в действие со дня его первого официального опубликования); от 31.01.2020 № 05/01 (вводится в действие со дня его первого официального опубликования); от 20.06.2023 № 41/15 (вводится в действие со дня его первого официального опубликования); от 10.05.2024 № 30/01 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Приложение – в редакции постановлений акимата Карагандинской области от 09.01.2015 № 01/03 (вводится в действие со дня его первого официального опубликования); от 31.01.2020 № 05/01 (вводится в действие со дня его первого официального опубликования); от 20.06.2023 № 41/15 (вводится в действие со дня его первого официального опубликования); от 10.05.2024 № 30/01 (вводится в действие со дня его первого официального опубликования); от 16.05.2025 № 27/05 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td rowspan="2">№ п/п</td>
 <td colspan="2" rowspan="2">Наименование хозяйствущих субъектов, иных объектов, категория земельных участков</td>
 <td colspan="2" rowspan="2">Наименование района (города), сельских округов и населенных пунктов</td>
-<td colspan="6">заражено (засорено)</td>
-<td colspan="3" rowspan="2">Дата выявления очага (по актам), примечания</td>
+<td colspan="3">заражено (засорено)</td>
+<td colspan="2" rowspan="2">Дата выявления очага (по актам), примечания</td>
 </tr>
 <tr>
-<td colspan="4">участков (полей)</td>
+<td>участков (полей)</td>
 <td colspan="2">площадь, гектар</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">2</td>
 <td colspan="2">3</td>
-<td colspan="4">4</td>
+<td>4</td>
 <td colspan="2">5</td>
-<td colspan="3">6</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
-<td colspan="14">Г о р ч а к р о з о в ы й (Acroptilon repens L.D.C.)</td>
+<td colspan="10">Г о р ч а к р о з о в ы й (Acroptilon repens L.D.C.)</td>
 </tr>
 <tr>
 <td>I.</td>
-<td colspan="5">Абайский район</td>
-<td colspan="2">36</td>
-<td colspan="3">3829,976</td>
-<td colspan="3"></td>
+<td colspan="4">Абайский район</td>
+<td>38</td>
+<td colspan="2">3829,976</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">Карагандинский областной филиал АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="3" rowspan="2">с/о Кулайгырский</td>
-<td colspan="2">1</td>
-<td colspan="3">23</td>
-<td colspan="3">28 мая 2010 года</td>
+<td colspan="2" rowspan="2">с/о Кулайгырский</td>
+<td>1</td>
+<td colspan="2">23</td>
+<td colspan="2">28 мая 2010 года</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">ТОО «Февраль-2020», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">237,5</td>
-<td colspan="3">Переоформлено, бывший земле- пользователь –ТОО «Алтай и К»</td>
+<td>1</td>
+<td colspan="2">237,5</td>
+<td colspan="2">Переоформлено, бывший земле- пользователь –ТОО «Алтай и К»</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">ГУ «Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции Абайского района», полоса отвода автодорог районного значения</td>
-<td colspan="3">с/о Коксуский</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
-<td colspan="3">10 июня 2010 года</td>
+<td colspan="2">с/о Коксуский</td>
+<td>4</td>
+<td colspan="2">5</td>
+<td colspan="2">10 июня 2010 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">ТОО «Топарские теплицы» с/х угодья</td>
-<td colspan="3">поселок Топар</td>
-<td colspan="2">2</td>
-<td colspan="3">115</td>
-<td colspan="3">17 июня 2010 года</td>
+<td colspan="2">поселок Топар</td>
+<td>2</td>
+<td colspan="2">115</td>
+<td colspan="2">17 июня 2010 года</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">Карагандинское погрузочно-транспортное управление (КПТУ) №7 УД АО «Арселор Миттал Темиртау», полоса отвода железных дорог</td>
-<td colspan="3">город Абай</td>
-<td colspan="2">1</td>
-<td colspan="3">3</td>
-<td colspan="3">22 июня 2010 года</td>
+<td colspan="2">город Абай</td>
+<td>1</td>
+<td colspan="2">3</td>
+<td colspan="2">22 июня 2010 года</td>
 </tr>
 <tr>
-<td rowspan="2">6</td>
-<td colspan="2" rowspan="2">ТОО «Достық KAZ», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Карагандинский</td>
-<td colspan="2" rowspan="2">1</td>
-<td colspan="3">104</td>
-<td colspan="3">10 июня 2010 года, бывший землепользова- тель – ТОО «Qar Onimderi»</td>
+<td rowspan="3">6</td>
+<td colspan="2" rowspan="3">ТОО «Достық KAZ», с/х угодья</td>
+<td colspan="2" rowspan="3">с/о Карагандинский</td>
+<td rowspan="3">3</td>
+<td colspan="2">104</td>
+<td colspan="2">10 июня 2010 года, бывший землепользова- тель – ТОО «Qar Onimderi»</td>
 </tr>
 <tr>
-<td colspan="3">225</td>
-<td colspan="3">13 июля 2018 года, бывший землепользова- тель – ТОО «Qar Onimderi»</td>
+<td colspan="2">225</td>
+<td colspan="2">13 июля 2018 года, бывший землепользова- тель – ТОО «Qar Onimderi»</td>
+</tr>
+<tr>
+<td colspan="2">59,22</td>
+<td colspan="2">Переоформ-лено,09 ноябрь 2024 года</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">к/х «Надежда», с/х угодья</td>
-<td colspan="3">с/о Мичуринский</td>
-<td colspan="2">1</td>
-<td colspan="3">50</td>
-<td colspan="3">25 июня 2007 года, бывший землепользова- тель – ф/х «Ташимова Л»</td>
+<td colspan="2">с/о Мичуринский</td>
+<td>1</td>
+<td colspan="2">50</td>
+<td colspan="2">25 июня 2007 года</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">ПК «Жанат», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Ильичевский</td>
-<td colspan="2">1</td>
-<td colspan="3">30</td>
-<td colspan="3">19 июня 2015 года</td>
+<td colspan="2" rowspan="2">с/о Ильичевский</td>
+<td>1</td>
+<td colspan="2">30</td>
+<td colspan="2">19 июня 2015 года, бывший землепользова- тель – ф/х «Ташимова Л»</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">ГУ «Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции Абайского района», полоса отвода автодорог районного значения</td>
-<td colspan="2">1</td>
-<td colspan="3">0,1</td>
-<td colspan="3">09 августа 2023 года</td>
+<td>1</td>
+<td colspan="2">0,1</td>
+<td colspan="2">09 августа 2023 года</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3" rowspan="3">с/о Мичуринский</td>
-<td colspan="2">1</td>
-<td colspan="3">7,5</td>
-<td colspan="3">10 августа 2015 года</td>
+<td colspan="2" rowspan="3">с/о Мичуринский</td>
+<td>1</td>
+<td colspan="2">7,5</td>
+<td colspan="2">10 августа 2015 года</td>
 </tr>
 <tr>
 <td>11</td>
 <td colspan="2">к/х «Барс», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">12,5</td>
-<td colspan="3">25 августа 2016 года</td>
+<td>1</td>
+<td colspan="2">12,5</td>
+<td colspan="2">25 августа 2016 года</td>
 </tr>
 <tr>
 <td>12</td>
 <td colspan="2">к/х «Қарлығаш», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">18,99</td>
-<td colspan="3">04 августа 2017 года</td>
+<td>1</td>
+<td colspan="2">18,99</td>
+<td colspan="2">04 августа 2017 года</td>
 </tr>
 <tr>
 <td>13</td>
 <td colspan="2">к/х «Керекеша В.Е.», с/х угодья</td>
-<td colspan="3" rowspan="5">с/о Карагандинский</td>
-<td colspan="2">1</td>
-<td colspan="3">107</td>
-<td colspan="3">25 августа 2016 года</td>
+<td colspan="2" rowspan="4">с/о Карагандинский</td>
+<td>1</td>
+<td colspan="2">107</td>
+<td colspan="2">25 августа 2016 года</td>
 </tr>
 <tr>
 <td>14</td>
 <td colspan="2">к/х «Олжас», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">31,1</td>
-<td colspan="3">25 августа 2016 года</td>
+<td>1</td>
+<td colspan="2">31,1</td>
+<td colspan="2">25 августа 2016 года</td>
 </tr>
 <tr>
 <td rowspan="2">15</td>
 <td colspan="2" rowspan="2">к/х «Шевченко», с/х угодья</td>
-<td colspan="2" rowspan="2">1</td>
-<td colspan="3">98</td>
-<td colspan="3">25 августа 2016 года</td>
+<td rowspan="2">2</td>
+<td colspan="2">98</td>
+<td colspan="2">25 августа 2016 года</td>
 </tr>
 <tr>
-<td colspan="3">835</td>
-<td colspan="3">03 июля 2018 года</td>
+<td colspan="2">835</td>
+<td colspan="2">03 июля 2018 года</td>
 </tr>
 <tr>
 <td>16</td>
-<td colspan="2">к/х «Тайаткан», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">59,22</td>
-<td colspan="3">03 июля 2018 года</td>
+<td colspan="2">к/х «Хоменко» ,с/х угодья</td>
+<td colspan="2" rowspan="7">с/о Есенгельдинский</td>
+<td>1</td>
+<td colspan="2">151,32</td>
+<td colspan="2">23 июня 2020 года</td>
 </tr>
 <tr>
 <td>17</td>
-<td colspan="2">к/х «Хоменко» ,с/х угодья</td>
-<td colspan="3" rowspan="7">с/о Есенгельдинский</td>
-<td colspan="2">1</td>
-<td colspan="3">151,32</td>
-<td colspan="3">23 июня 2020 года</td>
+<td colspan="2">ТОО «ТАS 2009» ,с/х угодья</td>
+<td>1</td>
+<td colspan="2">147</td>
+<td colspan="2">06 октября 2023 года, перео-формлено, быв-ший землепо-льзователь - к/х «Колесникова»</td>
 </tr>
 <tr>
 <td>18</td>
-<td colspan="2">ТОО «ТАS 2009» ,с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">147</td>
-<td colspan="3">06 октября 2023 года, перео-формлено, быв-ший землепо-льзователь - к/х «Колесникова»</td>
+<td colspan="2">к/х «Татуин», с/х угодья</td>
+<td>1</td>
+<td colspan="2">140</td>
+<td colspan="2">23 июня 2020 года</td>
 </tr>
 <tr>
 <td>19</td>
-<td colspan="2">к/х «Татуин», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">140</td>
-<td colspan="3">23 июня 2020 года</td>
+<td colspan="2">Аким сельского округа, земли запаса</td>
+<td>1</td>
+<td colspan="2">920</td>
+<td colspan="2">04 августа 2021 года</td>
 </tr>
 <tr>
 <td>20</td>
-<td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">920</td>
-<td colspan="3">04 августа 2021 года</td>
+<td colspan="2">ИП «Жевлакова А.Н.» с/х угодья</td>
+<td>1</td>
+<td colspan="2">45,39</td>
+<td colspan="2">Переоформ-лено,04 сентябрь 2023 года</td>
 </tr>
 <tr>
 <td>21</td>
-<td colspan="2">ИП «Арман» с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">45,39</td>
-<td colspan="3">04 августа 2021 года</td>
+<td colspan="2">ф/х «Сарыбұлақ», с/х угодья</td>
+<td>1</td>
+<td colspan="2">6</td>
+<td colspan="2">04 августа 2021 года</td>
 </tr>
 <tr>
 <td>22</td>
-<td colspan="2">ф/х «Сарыбұлақ», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">6</td>
-<td colspan="3">04 августа 2021 года</td>
+<td colspan="2">к/х «Крухинец», с/х угодья</td>
+<td>1</td>
+<td colspan="2">5,9</td>
+<td colspan="2">04 августа 2021 года</td>
 </tr>
 <tr>
 <td>23</td>
-<td colspan="2">к/х «Крухинец», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">5,9</td>
-<td colspan="3">04 августа 2021 года</td>
+<td colspan="2">ГУ «Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции Абайского района», полоса отвода автодорог</td>
+<td colspan="2">с/о Карагандинский</td>
+<td>1</td>
+<td colspan="2">2,4</td>
+<td colspan="2">05 августа 2021года.</td>
 </tr>
 <tr>
-<td>24</td>
-<td colspan="2">ГУ «Отдел жилищно-коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции Абайского района», полоса отвода автодорог</td>
-<td colspan="3">с/о Карагандинский</td>
-<td colspan="2">1</td>
-<td colspan="3">2,4</td>
-<td colspan="3">05 августа 2021года.</td>
+<td rowspan="3">24</td>
+<td colspan="2" rowspan="3">ИП «Бунтовский Илья Николаевич», с/х угодья</td>
+<td colspan="2" rowspan="3">с/о Ильичевский</td>
+<td>1</td>
+<td colspan="2">168</td>
+<td colspan="2">Переоформ-лено,17 июль 2024 года</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">76</td>
+<td colspan="2" rowspan="2">14 июля 2022 года</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">204</td>
 </tr>
 <tr>
 <td>25</td>
-<td colspan="2">к/х «Дюба», с/х угодья</td>
-<td colspan="3" rowspan="3">с/о Ильичевский</td>
-<td colspan="2">1</td>
-<td colspan="3">168</td>
-<td colspan="3">14 июля 2022 года</td>
+<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения, (Кызылорда-Павлодар)</td>
+<td colspan="2">с/о Дубовский</td>
+<td>1</td>
+<td colspan="2">0,03</td>
+<td colspan="2">01 тамыз 2022 года</td>
 </tr>
 <tr>
-<td rowspan="2">26</td>
-<td colspan="2" rowspan="2">ИП «Бунтовский Илья Николаевич», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">76</td>
-<td colspan="3" rowspan="2">14 июля 2022 года</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="3">204</td>
+<td>26</td>
+<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения, (Кызылорда-Павлодар)</td>
+<td colspan="2">поселок Южный</td>
+<td>1</td>
+<td colspan="2">1,2</td>
+<td colspan="2">01 тамыз 2022 года</td>
 </tr>
 <tr>
 <td>27</td>
-<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения, (Кызылорда-Павлодар)</td>
-<td colspan="3">с/о Дубовский</td>
-<td colspan="2">1</td>
-<td colspan="3">0,03</td>
-<td colspan="3">01 тамыз 2022 года</td>
+<td colspan="2">ГУ «Апарат акимат город Абай», земли населенного пункта</td>
+<td colspan="2">ул. Промышленная 28А</td>
+<td>1</td>
+<td colspan="2">0,05</td>
+<td colspan="2">15 августа 2023 года</td>
 </tr>
 <tr>
 <td>28</td>
-<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения, (Кызылорда-Павлодар)</td>
-<td colspan="3">поселок Южный</td>
-<td colspan="2">1</td>
-<td colspan="3">1,2</td>
-<td colspan="3">01 тамыз 2022 года</td>
+<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
+<td colspan="2">с/о Курминский</td>
+<td>1</td>
+<td colspan="2">0,5</td>
+<td colspan="2">15 августа 2023 года</td>
 </tr>
 <tr>
 <td>29</td>
-<td colspan="2">ГУ «Апарат акимат город Абай», земли населенного пункта</td>
-<td colspan="3">ул. Промышленная 28А</td>
-<td colspan="2">1</td>
-<td colspan="3">0,05</td>
-<td colspan="3">15 августа 2023 года</td>
-</tr>
-<tr>
-<td>30</td>
-<td colspan="2">Карагандинский областной филиал КОФ АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="3">с/о Курминский</td>
-<td colspan="2">1</td>
-<td colspan="3">0,5</td>
-<td colspan="3">15 августа 2023 года</td>
-</tr>
-<tr>
-<td>31</td>
 <td colspan="2">ТОО «КТЖ-Грузовые перевозки» Карабас КЗХ 675407 железнодорожная станция</td>
-<td colspan="3">поселок Карабас</td>
-<td colspan="2">1</td>
-<td colspan="3">0,276</td>
-<td colspan="3">11 июля 2023 года</td>
+<td colspan="2">поселок Карабас</td>
+<td>1</td>
+<td colspan="2">0,276</td>
+<td colspan="2">11 июля 2023 года</td>
 </tr>
 <tr>
 <td>II.</td>
-<td colspan="5">Актогайский район</td>
-<td colspan="2">5</td>
-<td colspan="3">1530</td>
-<td colspan="3"></td>
+<td colspan="4">Актогайский район</td>
+<td>5</td>
+<td colspan="2">1530</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">к/х «Думан», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Карабулакский</td>
-<td colspan="2">2</td>
-<td colspan="3">700</td>
-<td colspan="3">30 мая 2007 года</td>
+<td colspan="2" rowspan="2">с/о Карабулакский</td>
+<td>2</td>
+<td colspan="2">700</td>
+<td colspan="2">30 мая 2007 года</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области», полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">1</td>
-<td colspan="3">208</td>
-<td colspan="3">10 августа 2008 года</td>
+<td>1</td>
+<td colspan="2">208</td>
+<td colspan="2">10 августа 2008 года</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3">с/о Жидебайский</td>
-<td colspan="2">1</td>
-<td colspan="3">400</td>
-<td colspan="3">23 августа 2019 года</td>
+<td colspan="2">с/о Жидебайский</td>
+<td>1</td>
+<td colspan="2">400</td>
+<td colspan="2">23 августа 2019 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3">с/о Абайский</td>
-<td colspan="2">1</td>
-<td colspan="3">222</td>
-<td colspan="3">11 сентября 2020 года</td>
+<td colspan="2">с/о Абайский</td>
+<td>1</td>
+<td colspan="2">222</td>
+<td colspan="2">11 сентября 2020 года</td>
 </tr>
 <tr>
 <td>III.</td>
-<td colspan="5">Бухар жырауский район</td>
-<td colspan="2">14</td>
-<td colspan="3">2248,43</td>
-<td colspan="3"></td>
+<td colspan="4">Бухар жырауский район</td>
+<td>15</td>
+<td colspan="2">2328,43</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">ТОО «Агрохолдинг ВЕREKE», с/х угодья</td>
-<td colspan="3">с/о Ростовский</td>
-<td colspan="2">1</td>
-<td colspan="3">268</td>
-<td colspan="3">22 декабря 2022 года, перео-формлено бывший землепользова- тель – ТОО ПК «Кирова»</td>
+<td colspan="2">с/о Ростовский</td>
+<td>1</td>
+<td colspan="2">268</td>
+<td colspan="2">22 декабря 2022 года, перео-формлено бывший землепользова- тель – ТОО ПК «Кирова»</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="2">ПК «Асыл», с/х угодья</td>
-<td colspan="3">с/о Каражарский</td>
-<td colspan="2">2</td>
-<td colspan="3">686</td>
-<td colspan="3">7 июля 2006 года</td>
+<td colspan="2">с/о Каражарский</td>
+<td>2</td>
+<td colspan="2">686</td>
+<td colspan="2">7 июля 2006 года</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">ТОО «Дизель плюс», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Тузды</td>
-<td colspan="2">1</td>
-<td colspan="3">590</td>
-<td colspan="3">03 сентября 2010 года</td>
+<td colspan="2" rowspan="2">с/о Тузды</td>
+<td>1</td>
+<td colspan="2">590</td>
+<td colspan="2">03 сентября 2010 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">40</td>
-<td colspan="3">02 сентября 2019 года</td>
+<td>1</td>
+<td colspan="2">40</td>
+<td colspan="2">02 сентября 2019 года</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3">с/о Доскейский</td>
-<td colspan="2">1</td>
-<td colspan="3">290</td>
-<td colspan="3">28 июня 2016 года</td>
+<td colspan="2">с/о Доскейский</td>
+<td>1</td>
+<td colspan="2">290</td>
+<td colspan="2">28 июня 2016 года</td>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="2">Аким поселкового округа, земли населенного пункта</td>
-<td colspan="3">поселок имени Г.Мустафина</td>
-<td colspan="2">3</td>
-<td colspan="3">200</td>
-<td colspan="3">12 августа 2016 года</td>
+<td colspan="2">поселок имени Г.Мустафина</td>
+<td>3</td>
+<td colspan="2">200</td>
+<td colspan="2">12 августа 2016 года</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2">Карагандинский областной филиал АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения, Бастау-Актау-Темиртау 25-27 км</td>
-<td colspan="3">с/о Тузды</td>
-<td colspan="2">1</td>
-<td colspan="3">120</td>
-<td colspan="3">25 августа 2016 года</td>
+<td colspan="2">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области» полоса отвода автодорог областного и районного значения, Бастау-Актау-Темиртау 25-27 км</td>
+<td colspan="2">с/о Тузды</td>
+<td>1</td>
+<td colspan="2">120</td>
+<td colspan="2">Перео-формлено</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">ТОО &quot;Ак-Нура ХПП&quot;, территория предприятия</td>
-<td colspan="3">поселок имени Г.Мустафина</td>
-<td colspan="2">1</td>
-<td colspan="3">8,2</td>
-<td colspan="3">23 августа 2016 года</td>
+<td colspan="2">поселок имени Г.Мустафина</td>
+<td>1</td>
+<td colspan="2">8,2</td>
+<td colspan="2">23 августа 2016 года</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">Аким сельского округа, земли населенного пункта</td>
-<td colspan="3">с/о Доскейский</td>
-<td colspan="2">1</td>
-<td colspan="3">0,23</td>
-<td colspan="3">25 августа 2021 года</td>
+<td colspan="2">с/о Доскейский</td>
+<td>1</td>
+<td colspan="2">0,23</td>
+<td colspan="2">25 августа 2021 года</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="2">ГУ &quot;Управление пассажирского транспорта и автомобильных дорог Карагандинской области&quot;, полоса отвода автодорог областного, районного значения (Караганда-Аягөз-Бөғаз)</td>
-<td colspan="3" rowspan="2">с/о Кокпектинский</td>
-<td colspan="2">1</td>
-<td colspan="3">21</td>
-<td colspan="3">04 августа 2022 года</td>
+<td colspan="2" rowspan="2">с/о Кокпектинский</td>
+<td>1</td>
+<td colspan="2">21</td>
+<td colspan="2">04 августа 2022 года</td>
 </tr>
 <tr>
 <td>11</td>
 <td colspan="2">Аким сельского округа, земли населенного пункта</td>
-<td colspan="2">1</td>
-<td colspan="3">25</td>
-<td colspan="3">09 августа 2022 года</td>
+<td>1</td>
+<td colspan="2">25</td>
+<td colspan="2">09 августа 2022 года</td>
 </tr>
 <tr>
-<td>V.</td>
-<td colspan="5">Каркаралинский район</td>
-<td colspan="2">11</td>
-<td colspan="3">3972,13</td>
-<td colspan="3"></td>
+<td>12</td>
+<td colspan="2">Аким сельского округа, земли населенного пункта</td>
+<td colspan="2">с/о Петровский</td>
+<td>1</td>
+<td colspan="2">80</td>
+<td colspan="2">14 августа 2024 года</td>
+</tr>
+<tr>
+<td>IV.</td>
+<td colspan="4">Каркаралинский район</td>
+<td>12</td>
+<td colspan="2">4727,13</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3" rowspan="2">с/о Тегисшилдикский</td>
-<td colspan="2">2</td>
-<td colspan="3">770</td>
-<td colspan="3">переоформлено</td>
+<td colspan="2" rowspan="3">с/о Тегисшилдикский</td>
+<td>1</td>
+<td colspan="2">455</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="2">к/х «Шокпартас», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">330</td>
-<td colspan="3">29 июня 2006 года</td>
+<td rowspan="2">2</td>
+<td colspan="2" rowspan="2">к/х «Шокпартас», с/х угодья</td>
+<td rowspan="2">2</td>
+<td colspan="2">330</td>
+<td colspan="2">29 июня 2006 года</td>
+</tr>
+<tr>
+<td colspan="2">315</td>
+<td colspan="2">06 июня 2024 года</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">Карагандинский областной филиал АО «НК» ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="3">с/о Каршыгалинский</td>
-<td colspan="2">1</td>
-<td colspan="3">99</td>
-<td colspan="3">16 июня 2011 года</td>
+<td colspan="2">с/о Каршыгалинский</td>
+<td>1</td>
+<td colspan="2">99</td>
+<td colspan="2">16 июня 2011 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области» полоса отвода автодорог областного и районного значения</td>
-<td colspan="3">с/о имени Н.Абдирова</td>
-<td colspan="2">1</td>
-<td colspan="3">83,2</td>
-<td colspan="3">15 июня 2011 года</td>
+<td colspan="2">с/о имени Н.Абдирова</td>
+<td>1</td>
+<td colspan="2">83,2</td>
+<td colspan="2">15 июня 2011 года</td>
 </tr>
 <tr>
 <td rowspan="2">5</td>
 <td colspan="2" rowspan="2">к/х «Елдос», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Тегисшилдикский</td>
-<td colspan="2">1</td>
-<td colspan="3">1257,23</td>
-<td colspan="3" rowspan="2">06 сентября 2019 года.</td>
+<td colspan="2" rowspan="2">с/о Тегисшилдикский</td>
+<td>1</td>
+<td colspan="2">1257,23</td>
+<td colspan="2" rowspan="2">06 сентября 2019 года.</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="3">332,7</td>
+<td>1</td>
+<td colspan="2">332,7</td>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="2">к/х «Әбу», с/х угодья</td>
-<td colspan="3" rowspan="4">с/о Томарский</td>
-<td colspan="2">1</td>
-<td colspan="3">150</td>
-<td colspan="3">09 сентября 2021 года</td>
+<td colspan="2" rowspan="5">с/о Томарский</td>
+<td>1</td>
+<td colspan="2">150</td>
+<td colspan="2">09 сентября 2021 года</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">к/х «Әлішер», с/х угодья,</td>
-<td colspan="2">1</td>
-<td colspan="3">150</td>
-<td colspan="3" rowspan="3">29 августа 2023 года</td>
+<td>1</td>
+<td colspan="2">150</td>
+<td colspan="2">29 августа 2023 года</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">к/х «Алпан», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">200</td>
+<td>1</td>
+<td colspan="2">200</td>
+<td colspan="2">29 августа 2023 года</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">Акимат сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">600</td>
+<td>1</td>
+<td colspan="2">600</td>
+<td colspan="2">29 августа 2023 года</td>
 </tr>
 <tr>
-<td>VI.</td>
-<td colspan="5">Нуринский район</td>
-<td colspan="2">40</td>
-<td colspan="3">9287,8</td>
-<td colspan="3"></td>
+<td>10</td>
+<td colspan="2">к/х «Байназар», с/х угодья</td>
+<td>1</td>
+<td colspan="2">755</td>
+<td colspan="2">06 июня 2024 года</td>
+</tr>
+<tr>
+<td>V.</td>
+<td colspan="4">Нуринский район</td>
+<td>40</td>
+<td colspan="2">9287,8</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2">ТОО «Черниговский и К», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Кобетейский</td>
-<td colspan="2">4</td>
-<td colspan="3">900</td>
-<td colspan="3">переоформлено</td>
+<td colspan="2" rowspan="2">с/о Кобетейский</td>
+<td>4</td>
+<td colspan="2">900</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="2">Карагандинский областной филиал АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="2">2</td>
-<td colspan="3">158,7</td>
-<td colspan="3">06 июня 2012 года</td>
+<td colspan="2">Карагандинский областной филиал АО «НК « ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
+<td>2</td>
+<td colspan="2">158,7</td>
+<td colspan="2">06 июня 2012 года</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="2">ТОО «Отқанжар», с/х угодья</td>
-<td colspan="3">с/о Изендинский</td>
-<td colspan="2">3</td>
-<td colspan="3">1171</td>
-<td colspan="3">06 августа 2004 года</td>
+<td colspan="2">с/о Изендинский</td>
+<td>3</td>
+<td colspan="2">1171</td>
+<td colspan="2">06 августа 2004 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="2">Аким сельского округа, земли запаса</td>
-<td colspan="3" rowspan="3">с/о Кертиндинский</td>
-<td colspan="2">1</td>
-<td colspan="3">43</td>
-<td colspan="3">16 июня 2006 года</td>
+<td colspan="2" rowspan="3">с/о Кертиндинский</td>
+<td>1</td>
+<td colspan="2">43</td>
+<td colspan="2">16 июня 2006 года</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">к/х «Михайлев А.Н.», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">160</td>
-<td colspan="3">14 июля 2004 года</td>
+<td>1</td>
+<td colspan="2">160</td>
+<td colspan="2">14 июля 2004 года</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="2">ф/х «Таимбеков А.А.», с/х угодья (бывшие земли ТОО «Сары-Арқа»)</td>
-<td colspan="2">6</td>
-<td colspan="3">1209</td>
-<td colspan="3">переоформлено</td>
+<td colspan="2">ф/х «Алгабас-Агро», с/х угодья</td>
+<td>6</td>
+<td colspan="2">1209</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">ТОО «Карой» , с/х угодья</td>
-<td colspan="3">с/о Каройский</td>
-<td colspan="2">2</td>
-<td colspan="3">671</td>
-<td colspan="3">12 июля 2006 года</td>
+<td colspan="2">с/о Каройский</td>
+<td>2</td>
+<td colspan="2">671</td>
+<td colspan="2">12 июля 2006 года</td>
 </tr>
 <tr>
 <td>8</td>
 <td colspan="2">ТОО «Тассуат-Агро», с/х угодья</td>
-<td colspan="3">с/о Тассуатский</td>
-<td colspan="2">5</td>
-<td colspan="3">855</td>
-<td colspan="3">переоформлено, бывший землепользова-тель – ПК &quot;Индустриаль-ный&quot;</td>
+<td colspan="2">с/о Тассуатский</td>
+<td>5</td>
+<td colspan="2">855</td>
+<td colspan="2">переоформлено, бывший землепользова-тель – ПК &quot;Индустриаль-ный&quot;</td>
 </tr>
 <tr>
 <td>9</td>
 <td colspan="2">к/х «Альдеран», с/х угодья</td>
-<td colspan="3">с/о Акмешитский</td>
-<td colspan="2">2</td>
-<td colspan="3">114</td>
-<td colspan="3">12 июня 2013 года</td>
+<td colspan="2">с/о Акмешитский</td>
+<td>2</td>
+<td colspan="2">114</td>
+<td colspan="2">12 июня 2013 года</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="2">ф/х «Полеводин Л.Н.», с/х угодья</td>
-<td colspan="3" rowspan="2">с/о Заречный</td>
-<td colspan="2">3</td>
-<td colspan="3">957</td>
-<td colspan="3">12 июня 2007 года</td>
+<td colspan="2" rowspan="2">с/о Заречный</td>
+<td>3</td>
+<td colspan="2">957</td>
+<td colspan="2">12 июня 2007 года</td>
 </tr>
 <tr>
 <td>11</td>
 <td colspan="2">к/х «Шортанов Е.Ж.», с/х угодья</td>
-<td colspan="2">4</td>
-<td colspan="3">674</td>
-<td colspan="3">20 июня 2007 года</td>
+<td>4</td>
+<td colspan="2">674</td>
+<td colspan="2">20 июня 2007 года</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">ТОО «Кайнар», с/х угодья</td>
+<td colspan="2">с/о Кайнарский</td>
+<td>5</td>
+<td colspan="2">2048</td>
+<td colspan="2">09 июля 2008 года</td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2">ТОО «Кайнар», с/х угодья</td>
-<td colspan="3">с/о Кайнарский</td>
-<td colspan="2">5</td>
-<td colspan="3">2048</td>
-<td colspan="3">09 июля 2008 года</td>
+<td colspan="2">ТОО «Пржевальское», с/х угодья</td>
+<td colspan="2">с/о Музбел</td>
+<td>1</td>
+<td colspan="2">327</td>
+<td colspan="2">14 августа 2020 года</td>
 </tr>
 <tr>
 <td>14</td>
-<td colspan="2">ТОО «Пржевальское», с/х угодья</td>
-<td colspan="3">с/о Музбел</td>
-<td colspan="2">1</td>
-<td colspan="3">327</td>
-<td colspan="3">14 августа 2020 года</td>
-</tr>
-<tr>
-<td>15</td>
 <td colspan="2">ГУ &quot;Управление пассажирского транспорта и автомобильных дорог Карагандинской области&quot;, полоса отвода автодорог областного и районного значения (Караганды - Шахтинск-Есенгелди - Кайнар – Нура, 144-165 км)</td>
-<td colspan="3">с/о Изендинский</td>
-<td colspan="2">1</td>
-<td colspan="3">0,1</td>
-<td colspan="3">19 июня.2023 года</td>
+<td colspan="2">с/о Изендинский</td>
+<td>1</td>
+<td colspan="2">0,1</td>
+<td colspan="2">19 июня.2023 года</td>
 </tr>
 <tr>
-<td>VII.</td>
-<td colspan="5">Осакаровский район</td>
-<td colspan="2">6</td>
-<td colspan="3">722,1</td>
-<td colspan="3"></td>
+<td>VI.</td>
+<td colspan="4">Осакаровский район</td>
+<td>6</td>
+<td colspan="2">722,1</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="3">к/х «Жумадилов» с/х угодья</td>
+<td colspan="2">к/х «Жумадилов» с/х угодья</td>
 <td colspan="2">с/о Сункар</td>
-<td colspan="2">1</td>
-<td colspan="3">133,5</td>
-<td colspan="3">переоформлено</td>
+<td>1</td>
+<td colspan="2">133,5</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="3">к/х «Бірлік», с/х угодья</td>
+<td colspan="2">к/х «Бірлік», с/х угодья</td>
 <td colspan="2">с/о Сарыозек</td>
-<td colspan="2">1</td>
-<td colspan="3">87</td>
-<td colspan="3">14 августа 2013 года</td>
+<td>1</td>
+<td colspan="2">87</td>
+<td colspan="2">14 августа 2013 года</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="3">ТОО «TAVRIDA 1» с/х угодья</td>
+<td colspan="2">ТОО «TAVRIDA 1» с/х угодья</td>
 <td colspan="2" rowspan="2">с/о Николаевский</td>
-<td colspan="2">2</td>
-<td colspan="3">308</td>
-<td colspan="3">переоформлено</td>
+<td>2</td>
+<td colspan="2">308</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="3" rowspan="2">ГУ &quot;Управление пассажирского транспорта и автомобильных дорог Карагандинской области&quot;, полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">1</td>
-<td colspan="3">66</td>
-<td colspan="3">19 июля 2006 года</td>
+<td colspan="2" rowspan="2">ГУ &quot;Управление пассажирского транспорта и автомобильных дорог Карагандинской области&quot;, полоса отвода автодорог областного и районного значения</td>
+<td>1</td>
+<td colspan="2">66</td>
+<td colspan="2">19 июля 2006 года</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="2">с/о Пионерский</td>
-<td colspan="2">1</td>
-<td colspan="3">127,6</td>
-<td colspan="3">19 июля 2006 года</td>
+<td>1</td>
+<td colspan="2">127,6</td>
+<td colspan="2">19 июля 2006 года</td>
 </tr>
 <tr>
-<td>VIII.</td>
-<td colspan="5">Шетский район</td>
-<td colspan="2">47</td>
-<td colspan="3">8234,5</td>
-<td colspan="3"></td>
+<td>VII.</td>
+<td colspan="4">Шетский район</td>
+<td>24</td>
+<td colspan="2">4151</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">к/х «Денис», с/х угодья</td>
-<td colspan="2" rowspan="2">с/о Краснополянский</td>
-<td colspan="2">1</td>
-<td colspan="3">251</td>
-<td colspan="3">26 июля 2007 года</td>
+<td>с/о Краснополянский</td>
+<td>1</td>
+<td colspan="2">251</td>
+<td colspan="2">26 июля 2007 года</td>
 </tr>
 <tr>
 <td>2</td>
-<td colspan="3">к/х «Жандос», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">241,5</td>
-<td colspan="3">26 июня 2007 года</td>
+<td colspan="3">к/х «Кайракты», с/х угодья</td>
+<td rowspan="6">с/о Таглинский</td>
+<td>4</td>
+<td colspan="2">531</td>
+<td colspan="2">14 июня 2013 года</td>
 </tr>
 <tr>
 <td>3</td>
-<td colspan="3">к/х «Кайракты», с/х угодья</td>
-<td colspan="2" rowspan="10">с/о Таглинский</td>
-<td colspan="2">7</td>
-<td colspan="3">1507</td>
-<td colspan="3">14 июня 2013 года</td>
+<td colspan="3">к/х «Сарыжал», с/х угодья</td>
+<td>2</td>
+<td colspan="2">315</td>
+<td colspan="2">14 июня 2013 года</td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="3">к/х «Сарыжал», с/х угодья</td>
-<td colspan="2">2</td>
-<td colspan="3">315</td>
-<td colspan="3">14 июня 2013 года</td>
+<td colspan="3">к/х «Кайнар», с/х угодья</td>
+<td>1</td>
+<td colspan="2">108</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
 <td>5</td>
-<td colspan="3">к/х «Ерзат», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">31</td>
-<td colspan="3">10 мая 2008 года</td>
+<td colspan="3">к/х «Тағылы», с/х угодья</td>
+<td>1</td>
+<td colspan="2">31</td>
+<td colspan="2">14 июня 2013 года</td>
 </tr>
 <tr>
 <td>6</td>
-<td colspan="3">к/х «Кайнар», с/х угодья</td>
-<td colspan="2">3</td>
-<td colspan="3">204</td>
-<td colspan="3">переоформлено</td>
+<td colspan="3">к/х «Нұр», с/х угодья</td>
+<td>1</td>
+<td colspan="2">127</td>
+<td colspan="2">20 июля 2012 года</td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="3">к/х «Тағылы», с/х угодья</td>
-<td colspan="2">4</td>
-<td colspan="3">403</td>
-<td colspan="3">14 июня 2013 года</td>
+<td colspan="3">Аким сельского округа, земли запаса</td>
+<td>4</td>
+<td colspan="2">944</td>
+<td colspan="2">14 июня 2013 года</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="3">к/х «Алтын дән», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">29</td>
-<td colspan="3">20 июля 2012 года</td>
+<td colspan="3">к/х «Дружба», с/х угодья</td>
+<td>с/о Коктен-кольский</td>
+<td>6</td>
+<td colspan="2">1426</td>
+<td colspan="2">12 июня 2013 года</td>
 </tr>
 <tr>
 <td>9</td>
-<td colspan="3">к/х «Нұр», с/х угодья</td>
-<td colspan="2">3</td>
-<td colspan="3">276</td>
-<td colspan="3">20 июля 2012 года</td>
+<td colspan="3">Аким сельского округа, земли запаса</td>
+<td rowspan="4">с/о Шетский</td>
+<td>1</td>
+<td colspan="2">66</td>
+<td colspan="2">02 июля 2013 года</td>
 </tr>
 <tr>
 <td>10</td>
 <td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2">5</td>
-<td colspan="3">1657</td>
-<td colspan="3">14 июня 2013 года</td>
+<td>1</td>
+<td colspan="2">16</td>
+<td colspan="2">14 августа 2015 года</td>
 </tr>
 <tr>
 <td>11</td>
-<td colspan="3">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области», полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">1</td>
-<td colspan="3">18</td>
-<td colspan="3">16 июня 2011 года</td>
+<td colspan="3">Аким сельского округа, земли запаса</td>
+<td>1</td>
+<td colspan="2">290</td>
+<td colspan="2">29 июля 2014 года</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="3">к/х «Ушкын», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">185</td>
-<td colspan="3">11 июня 2012 года</td>
-</tr>
-<tr>
-<td>13</td>
-<td colspan="3">к/х «Дружба», с/х угодья</td>
-<td colspan="2" rowspan="4">с/о Коктенкольский</td>
-<td colspan="2">6</td>
-<td colspan="3">1426</td>
-<td colspan="3">12 июня 2013 года</td>
-</tr>
-<tr>
-<td>14</td>
-<td colspan="3">к/х «Луч Надежды», с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">392</td>
-<td colspan="3">переоформлено</td>
-</tr>
-<tr>
-<td>15</td>
-<td colspan="3">к/х «Сағындық», с/х угодья</td>
-<td colspan="2">2</td>
-<td colspan="3">457</td>
-<td colspan="3">25 июля 2013 года</td>
-</tr>
-<tr>
-<td>16</td>
-<td colspan="3">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области», полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">1</td>
-<td colspan="3">136</td>
-<td colspan="3">25 июля 2013 года</td>
-</tr>
-<tr>
-<td>17</td>
-<td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2" rowspan="2">с/о Шетский</td>
-<td colspan="2">1</td>
-<td colspan="3">66,6</td>
-<td colspan="3">02 июля 2013 года</td>
-</tr>
-<tr>
-<td>18</td>
-<td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">88</td>
-<td colspan="3">03 июля 2013 года</td>
-</tr>
-<tr>
-<td>19</td>
-<td colspan="3">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области», полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">поселок Агадырь</td>
-<td colspan="2">1</td>
-<td colspan="3">69</td>
-<td colspan="3">16 июня 2011 года</td>
-</tr>
-<tr>
-<td>20</td>
-<td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2" rowspan="4">с/о Шетский</td>
-<td colspan="2">1</td>
-<td colspan="3">16</td>
-<td colspan="3">14 августа 2015 года</td>
-</tr>
-<tr>
-<td>21</td>
-<td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">290</td>
-<td colspan="3">29 июля 2014 года</td>
-</tr>
-<tr>
-<td>22</td>
-<td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2">1</td>
-<td colspan="3">131</td>
-<td colspan="3">31 июля 2014 года</td>
-</tr>
-<tr>
-<td>23</td>
 <td colspan="3">к/х «Үңірек» ,с/х угодья</td>
-<td colspan="2">1</td>
-<td colspan="3">45,4</td>
-<td colspan="3">19 августа 2021 года</td>
+<td>1</td>
+<td colspan="2">45,4</td>
+<td colspan="2">19 августа 2021 года</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">ИТОГО по районам:</td>
-<td colspan="2">159</td>
-<td colspan="3">29824,936</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="3">5</td>
-<td colspan="3">6</td>
+<td colspan="4">ИТОГО по районам:</td>
+<td>140</td>
+<td colspan="2">26576,436</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>I.</td>
-<td colspan="5">город Балхаш</td>
-<td colspan="2">8</td>
-<td colspan="3">388</td>
-<td colspan="3"></td>
+<td colspan="4">город Балхаш</td>
+<td>8</td>
+<td colspan="2">388</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="4">1</td>
 <td colspan="3" rowspan="4">ГУ «Отдел жилищно - коммунального зозяйства, пассажирского транспорта и автомобильных дорог г.Балхаш», земли населенного пункта</td>
-<td colspan="2">парк 30 лет ВЛКСМ</td>
-<td colspan="2">1</td>
-<td colspan="3">12,3</td>
-<td colspan="3">20 мая 2004 года</td>
+<td>парк 30 лет ВЛКСМ</td>
+<td>1</td>
+<td colspan="2">12,3</td>
+<td colspan="2">20 мая 2004 года</td>
 </tr>
 <tr>
-<td colspan="2">ул. Жезказганская</td>
-<td colspan="2">1</td>
-<td colspan="3">13,7</td>
-<td colspan="3">20 мая 2004 года</td>
+<td>ул. Жезказганская</td>
+<td>1</td>
+<td colspan="2">13,7</td>
+<td colspan="2">20 мая 2004 года</td>
 </tr>
 <tr>
-<td colspan="2">территория старых дач</td>
-<td colspan="2">1</td>
-<td colspan="3">15</td>
-<td colspan="3">20 мая 2004 года</td>
+<td>территория старых дач</td>
+<td>1</td>
+<td colspan="2">15</td>
+<td colspan="2">20 мая 2004 года</td>
 </tr>
 <tr>
-<td colspan="2">Балхаш - Конырат вдоль дороги</td>
-<td colspan="2">1</td>
-<td colspan="3">9</td>
-<td colspan="3">16 мая 2011 года</td>
+<td>Балхаш - Конырат вдоль дороги</td>
+<td>1</td>
+<td colspan="2">9</td>
+<td colspan="2">16 мая 2011 года</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="3">Аким сельского округа, земли запаса</td>
-<td colspan="2">село Шубар-Тюбек</td>
-<td colspan="2">1</td>
-<td colspan="3">100</td>
-<td colspan="3">26 мая 2004 года</td>
+<td>село Шубар-Тюбек</td>
+<td>1</td>
+<td colspan="2">100</td>
+<td colspan="2">26 мая 2004 года</td>
 </tr>
 <tr>
 <td rowspan="2">3</td>
 <td colspan="3" rowspan="2">Карагандинский областной филиал АО &quot;НК &quot;ҚазАвтоЖол&quot; полоса отвода автодорог республиканского значения</td>
-<td colspan="2">г.Балхаш- поселок Гульшат</td>
-<td colspan="2">1</td>
-<td colspan="3">210</td>
-<td colspan="3">14 июня 2010 года</td>
+<td>г.Балхаш- поселок Гульшат</td>
+<td>1</td>
+<td colspan="2">210</td>
+<td colspan="2">14 июня 2010 года</td>
 </tr>
 <tr>
-<td colspan="2">г. Балхаш– подъезд к дом отдыху Бектау–Ата</td>
-<td colspan="2">1</td>
-<td colspan="3">18</td>
-<td colspan="3">14 июня 2010 года</td>
+<td>г. Балхаш– подъезд к дом отдыху Бектау–Ата</td>
+<td>1</td>
+<td colspan="2">18</td>
+<td colspan="2">14 июня 2010 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="3">ГУ «Отдел жилищно-комунального хозяйства, пассажирского транспорта и автомобильных дорог г.Балхаш» , земли населенного пункта</td>
-<td colspan="2">Парк молодоженов</td>
-<td colspan="2">1</td>
-<td colspan="3">10</td>
-<td colspan="3">17 августа 2022 года</td>
+<td>Парк молодоженов</td>
+<td>1</td>
+<td colspan="2">10</td>
+<td colspan="2">17 августа 2022 года</td>
 </tr>
 <tr>
 <td>II.</td>
-<td colspan="5">город Приозерск</td>
-<td colspan="2">7</td>
-<td colspan="3">24,9</td>
-<td colspan="3"></td>
+<td colspan="4">город Приозерск</td>
+<td>7</td>
+<td colspan="2">24,9</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="4">1</td>
 <td colspan="3" rowspan="4">ГУ «Отдел жилищно - коммунального хозяйства, пассажирского транспорта и автомобильных дорог г.Приозерска», земли населенного пункта</td>
-<td colspan="2">ул. Абая</td>
-<td colspan="2">1</td>
-<td colspan="3">1,2</td>
-<td colspan="3">переоформлено</td>
+<td>ул. Абая</td>
+<td>1</td>
+<td colspan="2">1,2</td>
+<td colspan="2">переоформлено</td>
 </tr>
 <tr>
-<td colspan="2">пустыри в прибрежной зоне</td>
+<td>пустыри в прибрежной зоне</td>
+<td>4</td>
+<td colspan="2">15,7</td>
+<td colspan="2">13 июня 2012 года</td>
+</tr>
+<tr>
+<td>территория ТВ</td>
+<td>1</td>
 <td colspan="2">4</td>
-<td colspan="3">15,7</td>
-<td colspan="3">13 июня 2012 года</td>
+<td colspan="2">05 августа 2020 года</td>
 </tr>
 <tr>
-<td colspan="2">территория ТВ</td>
-<td colspan="2">1</td>
-<td colspan="3">4</td>
-<td colspan="3">05 августа 2020 года</td>
-</tr>
-<tr>
-<td colspan="2">ул. Достык</td>
-<td colspan="2">1</td>
-<td colspan="3">4</td>
-<td colspan="3">05 августа 2020 года</td>
+<td>ул. Достык</td>
+<td>1</td>
+<td colspan="2">4</td>
+<td colspan="2">05 августа 2020 года</td>
 </tr>
 <tr>
 <td>III.</td>
-<td colspan="5">город Сарань</td>
-<td colspan="2">8</td>
-<td colspan="3">12,789</td>
-<td colspan="3"></td>
+<td colspan="4">город Сарань</td>
+<td>8</td>
+<td colspan="2">12,789</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td rowspan="2">1</td>
 <td colspan="3" rowspan="2">ГУ «Отдел жилищно - коммунального хозяйства, пассажирского транспорта и автомобильных дорог г.Сарань», земли населенного пункта</td>
-<td colspan="2">ул. Шахтерская</td>
-<td colspan="2">1</td>
-<td colspan="3">2,9</td>
-<td colspan="3">17 июня 2010 года</td>
+<td>ул. Шахтерская</td>
+<td>1</td>
+<td colspan="2">2,9</td>
+<td colspan="2">17 июня 2010 года</td>
 </tr>
 <tr>
-<td colspan="2">ул. Чкалова</td>
-<td colspan="2">1</td>
-<td colspan="3">9,3</td>
-<td colspan="3">17 июня 2010 года</td>
+<td>ул. Чкалова</td>
+<td>1</td>
+<td colspan="2">9,3</td>
+<td colspan="2">17 июня 2010 года</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="3">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области», полоса отвода автодорог областного и районного значения</td>
-<td colspan="2">полоса отвода автодорог</td>
-<td colspan="2">1</td>
-<td colspan="3">0,06</td>
-<td colspan="3">08 августа 2022 года</td>
+<td>полоса отвода автодорог</td>
+<td>1</td>
+<td colspan="2">0,06</td>
+<td colspan="2">08 августа 2022 года</td>
 </tr>
 <tr>
 <td>3</td>
 <td colspan="3">Карагандинский областной филиал АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="2">полоса отвода автодорог</td>
-<td colspan="2">1</td>
-<td colspan="3">0,12</td>
-<td colspan="3">08 августа 2022 года</td>
+<td>полоса отвода автодорог</td>
+<td>1</td>
+<td colspan="2">0,12</td>
+<td colspan="2">08 августа 2022 года</td>
 </tr>
 <tr>
 <td>4</td>
 <td colspan="3">Карагандинский областной филиал АО «НК «ҚазАвтоЖол» полоса отвода автодорог республиканского значения</td>
-<td colspan="2">поселок Актас</td>
-<td colspan="2">1</td>
-<td colspan="3">0,08</td>
-<td colspan="3">08 августа 2022 года</td>
+<td>поселок Актас</td>
+<td>1</td>
+<td colspan="2">0,08</td>
+<td colspan="2">08 августа 2022 года</td>
 </tr>
 <tr>
 <td>5</td>
 <td colspan="3">АО «QARMET» шахта им.Кузенбаева, полоса отвода автодорог</td>
-<td colspan="2">полоса отвода автодорог</td>
-<td colspan="2">2</td>
-<td colspan="3">0,279</td>
-<td colspan="3">11 июля 2023 года</td>
+<td>полоса отвода автодорог</td>
+<td>2</td>
+<td colspan="2">0,279</td>
+<td colspan="2">11 июля 2023 года</td>
 </tr>
 <tr>
 <td>6</td>
 <td colspan="3">Угольный департамент «QARMET» полоса отвода железных дорог</td>
-<td colspan="2">полоса отвода железных дорог Сарань-Дубовка</td>
-<td colspan="2">1</td>
-<td colspan="3">0,05</td>
-<td colspan="3">11 июля 2023 года</td>
+<td>полоса отвода железных дорог Сарань-Дубовка</td>
+<td>1</td>
+<td colspan="2">0,05</td>
+<td colspan="2">11 июля 2023 года</td>
 </tr>
 <tr>
 <td>IV.</td>
-<td colspan="5">город Шахтинск</td>
-<td colspan="2">3</td>
-<td colspan="3">0,232</td>
-<td colspan="3"></td>
+<td colspan="4">город Шахтинск</td>
+<td>3</td>
+<td colspan="2">0,232</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="3">ГУ «Управление пассажирского транспорта и автомобильных дорог Карагандинской области» полоса отвода автодорог областного и районного значения, полоса отвода автодорог (Караганда-Шахтинск-Есенгелди-Шербаковский)</td>
-<td colspan="2">полоса отвода автодорог</td>
-<td colspan="2">2</td>
-<td colspan="3">0,112</td>
-<td colspan="3">11 июля 2023 год</td>
+<td>полоса отвода автодорог</td>
+<td>2</td>
+<td colspan="2">0,112</td>
+<td colspan="2">11 июля 2023 год</td>
 </tr>
 <tr>
 <td>2</td>
 <td colspan="3">ГУ «Отдел жилищно - коммунального хозяйства, пассажирского транспорта и автомобильных дорог г.Шахтинск», земли населенного пункта</td>
-<td colspan="2">ул. Парковая</td>
-<td colspan="2">1</td>
-<td colspan="3">0,12</td>
-<td colspan="3">29 июня 2023 года</td>
+<td>ул. Парковая</td>
+<td>1</td>
+<td colspan="2">0,12</td>
+<td colspan="2">29 июня 2023 года</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="5">ИТОГО по городам:</td>
-<td colspan="2">26</td>
-<td colspan="3">425,921</td>
-<td colspan="3"></td>
+<td colspan="4">ИТОГО по городам:</td>
+<td>26</td>
+<td colspan="2">425,921</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="6">ИТОГО по горчаку ползучему (розовый):</td>
-<td colspan="2">185</td>
-<td colspan="3">30250,857</td>
-<td colspan="3"></td>
+<td colspan="5">ИТОГО по горчаку ползучему (розовый):</td>
+<td>166</td>
+<td colspan="2">27002,357</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="14">П о в и л и к а, паразитирующие на травянистой растительности (Cuscuta sp.)</td>
+<td colspan="10">П о в и л и к а, паразитирующие на травянистой растительности (Cuscuta sp.)</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2">2</td>
-<td colspan="3">3</td>
-<td colspan="3">4</td>
-<td colspan="2">5</td>
+<td>3</td>
+<td colspan="2">4</td>
+<td>5</td>
 <td colspan="2">6</td>
 </tr>
 <tr>
 <td colspan="2">I.</td>
-<td colspan="5">Бухар жырауский район</td>
-<td colspan="3">1</td>
-<td colspan="2">8,2</td>
+<td colspan="3">Бухар жырауский район</td>
+<td colspan="2">1</td>
+<td>8,2</td>
 <td colspan="2"></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2">территория предприятия ТОО &quot;Ак Нура ХПП&quot;</td>
-<td colspan="3">поселок имени Г. Мустафина</td>
-<td colspan="3">1</td>
-<td colspan="2">8,2</td>
+<td>поселок имени Г. Мустафина</td>
+<td colspan="2">1</td>
+<td>8,2</td>
 <td colspan="2">23 августа 2016 года</td>
 </tr>
 <tr>
 <td colspan="2">II.</td>
-<td colspan="5">город Приозерск</td>
-<td colspan="3">1</td>
-<td colspan="2">10</td>
+<td colspan="3">город Приозерск</td>
+<td colspan="2">1</td>
+<td>10</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="2">1</td>
 <td colspan="2">ГУ «Отдел жилищно - коммунального хозяйства, пассажирского транспорта, автомобильных дорог и жилищной инспекции города г. Приозерск», земли населенного пункта</td>
-<td colspan="3">ул. Бауржана Момышұлы</td>
-<td colspan="3">1</td>
-<td colspan="2">10</td>
+<td>ул. Бауржана Момышұлы</td>
+<td colspan="2">1</td>
+<td>10</td>
 <td colspan="2">05 августа 2020 года</td>
 </tr>
 <tr>
-<td colspan="7">ИТОГО по повилике:</td>
-<td colspan="3">2</td>
-<td colspan="2">18,2</td>
+<td colspan="5">ИТОГО по повилике:</td>
+<td colspan="2">2</td>
+<td>18,2</td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="14">Вирус Мозайки пепино (Pepinomosaicvirus)</td>
+<td colspan="10">Вирус Мозайки пепино (Pepinomosaicvirus)</td>
 </tr>
 <tr>
 <td colspan="2">І.</td>
-<td colspan="5">Абайский район</td>
-<td colspan="3">1</td>
-<td colspan="3">3</td>
+<td colspan="3">Абайский район</td>
+<td colspan="2">1</td>
+<td colspan="2">3</td>
 <td></td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td colspan="2">ТОО «Топарские теплицы»</td>
-<td colspan="3">поселок Топар</td>
-<td colspan="3">1</td>
-<td colspan="3">3</td>
+<td>поселок Топар</td>
+<td colspan="2">1</td>
+<td colspan="2">3</td>
 <td>25.10.2021 года</td>
 </tr>
 <tr>
-<td colspan="7">ИТОГО по вирус мозайки пепино:</td>
-<td colspan="3">1</td>
-<td colspan="3">3</td>
+<td colspan="5">ИТОГО по вирус мозайки пепино:</td>
+<td colspan="2">1</td>
+<td colspan="2">3</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="7">ВСЕГО по области:</td>
-<td colspan="3">188</td>
-<td colspan="3">30272,057</td>
+<td colspan="5">ВСЕГО по области:</td>
+<td colspan="2">169</td>
+<td colspan="2">27023,557</td>
 <td></td>
 </tr>
 </table>
