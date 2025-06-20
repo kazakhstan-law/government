@@ -49,7 +49,7 @@
 
 ## Территории для старательства по области Абай
 
-> *Сноска. Приложение с изменениями, внесенными постановлениями акимата области Абай от 16.01.2024 № 11 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 23.05.2024 № 98 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 20.08.2024 № 161 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 22.01.2025 № 10 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными постановлениями акимата области Абай от 16.01.2024 № 11 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 23.05.2024 № 98 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 20.08.2024 № 161 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 22.01.2025 № 10 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 20.06.2025 № 93 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -3627,5 +3627,538 @@
 <td>78</td>
 <td>54</td>
 <td>49,6839</td>
+</tr>
+<tr>
+<td rowspan="4">88.</td>
+<td rowspan="4">БОША-2</td>
+<td rowspan="4">Кокпектинский</td>
+<td>1</td>
+<td>82</td>
+<td>35</td>
+<td>17</td>
+<td>49</td>
+<td>0</td>
+<td>41</td>
+<td rowspan="4">4,144</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>35</td>
+<td>28</td>
+<td>49</td>
+<td>0</td>
+<td>41</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>35</td>
+<td>28</td>
+<td>49</td>
+<td>0</td>
+<td>35</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>35</td>
+<td>17</td>
+<td>49</td>
+<td>0</td>
+<td>35</td>
+</tr>
+<tr>
+<td rowspan="4">89.</td>
+<td rowspan="4">ВТ-1</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>12</td>
+<td>28</td>
+<td>50</td>
+<td>3</td>
+<td>50</td>
+<td rowspan="4">4,302</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>12</td>
+<td>42</td>
+<td>50</td>
+<td>3</td>
+<td>50</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>12</td>
+<td>42</td>
+<td>50</td>
+<td>3</td>
+<td>45</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>12</td>
+<td></td>
+<td>50</td>
+<td>3</td>
+<td>45</td>
+</tr>
+<tr>
+<td rowspan="4">90.</td>
+<td rowspan="4">ВТ-2/2</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>13</td>
+<td>24</td>
+<td>50</td>
+<td>3</td>
+<td>48</td>
+<td rowspan="4">2,95</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>13</td>
+<td>28</td>
+<td>50</td>
+<td>3</td>
+<td>48</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>13</td>
+<td>28</td>
+<td>50</td>
+<td>3</td>
+<td>36</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>13</td>
+<td>24</td>
+<td>50</td>
+<td>3</td>
+<td>36</td>
+</tr>
+<tr>
+<td rowspan="4">91.</td>
+<td rowspan="4">ВТ-3</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>14</td>
+<td>25</td>
+<td>50</td>
+<td>4</td>
+<td>49</td>
+<td rowspan="4">4,3</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>14</td>
+<td>32</td>
+<td>50</td>
+<td>4</td>
+<td>49</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>14</td>
+<td>32</td>
+<td>50</td>
+<td>4</td>
+<td>39</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>14</td>
+<td>25</td>
+<td>50</td>
+<td>4</td>
+<td>39</td>
+</tr>
+<tr>
+<td rowspan="4">92.</td>
+<td rowspan="4">ВТ-4</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>16</td>
+<td>35</td>
+<td>50</td>
+<td>4</td>
+<td>23</td>
+<td rowspan="4">4,055</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>16</td>
+<td>46</td>
+<td>50</td>
+<td>4</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>16</td>
+<td>46</td>
+<td>50</td>
+<td>4</td>
+<td>17</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>16</td>
+<td>35</td>
+<td>50</td>
+<td>4</td>
+<td>17</td>
+</tr>
+<tr>
+<td rowspan="4">93.</td>
+<td rowspan="4">ВТ-5</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>6</td>
+<td>50</td>
+<td>4</td>
+<td>45</td>
+<td rowspan="4">3,44</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>13</td>
+<td>50</td>
+<td>4</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>13</td>
+<td>50</td>
+<td>4</td>
+<td>37</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>6</td>
+<td>50</td>
+<td>4</td>
+<td>37</td>
+</tr>
+<tr>
+<td rowspan="4">94.</td>
+<td rowspan="4">ВТ-6</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>36</td>
+<td>50</td>
+<td>5</td>
+<td>31</td>
+<td rowspan="4">4,299</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>46</td>
+<td>50</td>
+<td>5</td>
+<td>31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>46</td>
+<td>50</td>
+<td>5</td>
+<td>24</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>36</td>
+<td>50</td>
+<td>5</td>
+<td>24</td>
+</tr>
+<tr>
+<td rowspan="4">95.</td>
+<td rowspan="4">ВТ-7</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>37</td>
+<td>50</td>
+<td>7</td>
+<td>15</td>
+<td rowspan="4">4,419</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>46</td>
+<td>50</td>
+<td>7</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>46</td>
+<td>50</td>
+<td>7</td>
+<td>7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>37</td>
+<td>50</td>
+<td>7</td>
+<td>7</td>
+</tr>
+<tr>
+<td rowspan="4">96.</td>
+<td rowspan="4">ВТ-8</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>20</td>
+<td>26</td>
+<td>50</td>
+<td>8</td>
+<td>55</td>
+<td rowspan="4">4,662</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>20</td>
+<td>45</td>
+<td>50</td>
+<td>8</td>
+<td>55</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>20</td>
+<td>45</td>
+<td>50</td>
+<td>8</td>
+<td>51</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>20</td>
+<td>26</td>
+<td>50</td>
+<td>8</td>
+<td>51</td>
+</tr>
+<tr>
+<td rowspan="4">97.</td>
+<td rowspan="4">ВТ-9</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>16</td>
+<td>42</td>
+<td>50</td>
+<td>9</td>
+<td>45</td>
+<td rowspan="4">4,293</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>16</td>
+<td>52</td>
+<td>50</td>
+<td>9</td>
+<td>45</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>16</td>
+<td>52</td>
+<td>50</td>
+<td>9</td>
+<td>38</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>16</td>
+<td>42</td>
+<td>50</td>
+<td>9</td>
+<td>38</td>
+</tr>
+<tr>
+<td rowspan="4">98.</td>
+<td rowspan="4">ВТ-10</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>25</td>
+<td>50</td>
+<td>11</td>
+<td>8</td>
+<td rowspan="4">4,904</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>35</td>
+<td>50</td>
+<td>11</td>
+<td>8</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>35</td>
+<td>50</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>25</td>
+<td>50</td>
+<td>11</td>
+<td>0</td>
+</tr>
+<tr>
+<td rowspan="4">99.</td>
+<td rowspan="4">ВТ-11</td>
+<td rowspan="4">Семей</td>
+<td>1</td>
+<td>80</td>
+<td>20</td>
+<td>25</td>
+<td>50</td>
+<td>6</td>
+<td>51</td>
+<td rowspan="4">4,052</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>20</td>
+<td>47</td>
+<td>50</td>
+<td>6</td>
+<td>51</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>20</td>
+<td>47</td>
+<td>50</td>
+<td>6</td>
+<td>48</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>20</td>
+<td>25</td>
+<td>50</td>
+<td>6</td>
+<td>48</td>
+</tr>
+<tr>
+<td rowspan="4">100.</td>
+<td rowspan="4">Участок</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>82</td>
+<td>02</td>
+<td>01.56</td>
+<td>47</td>
+<td>41</td>
+<td>22.35</td>
+<td rowspan="4">3,26</td>
+<td rowspan="4">-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>02</td>
+<td>14.09</td>
+<td>47</td>
+<td>41</td>
+<td>22.08</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>02</td>
+<td>14.15</td>
+<td>47</td>
+<td>41</td>
+<td>18.07</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>02</td>
+<td>01.59</td>
+<td>47</td>
+<td>41</td>
+<td>18.30</td>
 </tr>
 </table>
