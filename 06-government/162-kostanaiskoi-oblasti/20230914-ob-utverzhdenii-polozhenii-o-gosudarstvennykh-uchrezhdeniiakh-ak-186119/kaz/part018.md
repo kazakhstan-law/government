@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/186119/kaz/04.02.2025
+source: https://zan.gov.kz/client/#!/doc/186119/kaz/25.06.2025
 ---
 
 > *Бейімбет Майлин ауданы әкімдігінің*  
