@@ -469,12 +469,19 @@ versions:
   cause:
     code: '209293'
     key: P2500000253
+- date: 2025-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '209293'
+    key: P2500000253
 version_date:
-  kaz: 2025-04-21
-  rus: 2025-04-21
+  kaz: 2025-07-01
+  rus: 2025-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/83247/kaz/21.04.2025
-  rus: https://zan.gov.kz/client/#!/doc/83247/rus/21.04.2025
+  kaz: https://zan.gov.kz/client/#!/doc/83247/kaz/01.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/83247/rus/01.07.2025
 caused_by:
   code: '209293'
   key: P2500000253
