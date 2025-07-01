@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/170948/kaz/08.05.2025
+source: https://zan.gov.kz/client/#!/doc/170948/kaz/01.07.2025
 ---
 
 # Қазақстан Республикасы Оқу-ағарту министрлiгінің кейбiр мәселелерi
