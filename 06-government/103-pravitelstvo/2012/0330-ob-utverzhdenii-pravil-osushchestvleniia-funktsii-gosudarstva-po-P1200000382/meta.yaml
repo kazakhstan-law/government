@@ -52,12 +52,19 @@ versions:
   cause:
     code: '209946'
     key: P2500000320
+- date: 2025-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '209946'
+    key: P2500000320
 version_date:
-  kaz: 2025-05-08
-  rus: 2025-05-08
+  kaz: 2025-07-01
+  rus: 2025-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/64355/kaz/08.05.2025
-  rus: https://zan.gov.kz/client/#!/doc/64355/rus/08.05.2025
+  kaz: https://zan.gov.kz/client/#!/doc/64355/kaz/01.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/64355/rus/01.07.2025
 caused_by:
   code: '209946'
   key: P2500000320
