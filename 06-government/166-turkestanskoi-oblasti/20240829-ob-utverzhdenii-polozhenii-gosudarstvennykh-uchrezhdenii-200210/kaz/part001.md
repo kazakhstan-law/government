@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/200210/kaz/29.08.2024
+source: https://zan.gov.kz/client/#!/doc/200210/kaz/09.07.2025
 ---
 
 > *Қазығұрт ауданы әкімдігінің*  
