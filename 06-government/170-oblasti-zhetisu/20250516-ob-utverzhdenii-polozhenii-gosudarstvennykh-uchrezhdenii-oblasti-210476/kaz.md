@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/210476/kaz/16.05.2025
+source: https://zan.gov.kz/client/#!/doc/210476/kaz/11.07.2025
 ---
 
 # Жетісу облысы мемлекеттік мекемелерінің ережелерін бекіту туралы
