@@ -11,8 +11,15 @@ approved_on: 2022-12-21
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2022-12-21
-  rus: 2022-12-21
+  kaz: 2025-07-19
+  rus: 2025-07-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/175843/kaz/21.12.2022
-  rus: https://zan.gov.kz/client/#!/doc/175843/rus/21.12.2022
+  kaz: https://zan.gov.kz/client/#!/doc/175843/kaz/19.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/175843/rus/19.07.2025
+caused_by:
+  code: '212523'
+  requisite: Постановление Правительства Республики Казахстан от 19 июля 2025 года № 545
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/212523/rus
