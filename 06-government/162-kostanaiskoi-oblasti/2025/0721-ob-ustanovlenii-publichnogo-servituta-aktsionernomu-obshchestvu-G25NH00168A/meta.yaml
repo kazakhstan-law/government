@@ -1,0 +1,25 @@
+key: G25NH00168A
+akn: /akn/kz/act/2025-07-21/G25NH00168A
+act_code: '212754'
+requisite: Постановление акимата Денисовского района Костанайской области от 21 июля 2025 года № 168
+title:
+  rus: Об установлении публичного сервитута акционерному обществу «Алюминий Казахстана»
+  kaz: «Алюминий Казахстана» акционерлік қоғамына қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-07-21
+in_force_from: 2025-08-09
+approved_by:
+- '162006000001'
+versions:
+- date: 2025-07-21
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-07-21
+  rus: 2025-07-21
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/212754/kaz/21.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/212754/rus/21.07.2025
