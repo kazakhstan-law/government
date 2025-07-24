@@ -1,0 +1,25 @@
+key: G25UI00171A
+akn: /akn/kz/act/2025-07-24/G25UI00171A
+act_code: '213032'
+requisite: Постановление акимата Отырарского района Туркестанской области от 24 июля 2025 года № 171
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-07-24
+in_force_from: 2025-08-06
+approved_by:
+- '166007000001'
+versions:
+- date: 2025-07-24
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-07-24
+  rus: 2025-07-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/213032/kaz/24.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/213032/rus/24.07.2025
