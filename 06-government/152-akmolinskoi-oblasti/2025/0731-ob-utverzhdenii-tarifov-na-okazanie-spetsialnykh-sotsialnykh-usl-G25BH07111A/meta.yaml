@@ -1,0 +1,25 @@
+key: G25BH07111A
+akn: /akn/kz/act/2025-07-31/G25BH07111A
+act_code: '214304'
+requisite: Постановление акимата Егиндыкольского района Акмолинской области от 31 июля 2025 года № а-7/111
+title:
+  rus: Об утверждении тарифов на оказание специальных социальных услуг
+  kaz: Арнаулы әлеуметтік қызметтер көрсетуге арналған тарифтерді бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-07-31
+in_force_from: 2025-09-29
+approved_by:
+- '152009000001'
+versions:
+- date: 2025-07-31
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-07-31
+  rus: 2025-07-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/214304/kaz/31.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/214304/rus/31.07.2025

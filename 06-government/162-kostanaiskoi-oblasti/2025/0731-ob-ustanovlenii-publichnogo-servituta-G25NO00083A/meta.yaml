@@ -1,0 +1,25 @@
+key: G25NO00083A
+akn: /akn/kz/act/2025-07-31/G25NO00083A
+act_code: '212993'
+requisite: Постановление акимата Мендыкаринского района Костанайской области от 31 июля 2025 года № 83
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-07-31
+in_force_from: 2025-08-17
+approved_by:
+- '162013000001'
+versions:
+- date: 2025-07-31
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-07-31
+  rus: 2025-07-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/212993/kaz/31.07.2025
+  rus: https://zan.gov.kz/client/#!/doc/212993/rus/31.07.2025
