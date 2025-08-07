@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/101827/kaz/24.06.2025
+source: https://zan.gov.kz/client/#!/doc/101827/kaz/07.08.2025
 ---
 
 > *Мемлекеттік аудит және*  
