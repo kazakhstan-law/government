@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/202034/rus/14.10.2024
+source: https://zan.gov.kz/client/#!/doc/202034/rus/08.08.2025
 ---
 
 > *Приложение -7 к постановлению*  
