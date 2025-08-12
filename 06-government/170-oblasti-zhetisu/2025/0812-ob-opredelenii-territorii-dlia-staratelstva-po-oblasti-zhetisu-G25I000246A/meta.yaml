@@ -1,0 +1,25 @@
+key: G25I000246A
+akn: /akn/kz/act/2025-08-12/G25I000246A
+act_code: '213256'
+requisite: Постановление акимата области Жетісу от 12 августа 2025 года № 246
+title:
+  rus: Об определении территорий для старательства по области Жетісу
+  kaz: Жетісу облысы бойынша кен іздеушілікке арналған аумақтарды айқындау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-08-12
+in_force_from: 2025-08-25
+approved_by:
+- '170000000001'
+versions:
+- date: 2025-08-12
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-08-12
+  rus: 2025-08-12
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/213256/kaz/12.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/213256/rus/12.08.2025
