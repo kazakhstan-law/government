@@ -11,15 +11,15 @@ approved_on: 2023-06-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2024-03-27
-  rus: 2024-03-27
+  kaz: 2025-08-18
+  rus: 2025-08-18
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/183873/kaz/27.03.2024
-  rus: https://zan.gov.kz/client/#!/doc/183873/rus/27.03.2024
+  kaz: https://zan.gov.kz/client/#!/doc/183873/kaz/18.08.2025
+  rus: https://zan.gov.kz/client/#!/doc/183873/rus/18.08.2025
 caused_by:
-  code: '194773'
-  requisite: Постановление Правительства Республики Казахстан от 27 марта 2024 года № 228
+  code: '213341'
+  requisite: Постановление Правительства Республики Казахстан от 18 августа 2025 года № 636
   title:
     rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/194773/rus
+  link: https://zan.gov.kz/client/#!/doc/213341/rus
