@@ -18,12 +18,14 @@
 
 **Е. Булекпаев**
 
-> *Приложение к постановлению*  
-> *Акимата Карагандинской области*  
-> *от 4 апреля 2025 года*  
-> *№ 20/01*
+> *Приложение*  
+> *к постановлению акимата*  
+> *Карагандинской области*  
+> *от 04 апреля 2025 года № 20/01*
 
 ## Перечень субсидируемых видов удобрений (за исключением органических) и нормы субсидий на 1 тонну (литр, килограмм) удобрений, приобретенных у продавца удобрений на 2025 год
+
+> *Сноска. Приложение в редакции постановления акимата Карагандинской области от 05.09.2025 № 51/02 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -37,7 +39,7 @@
 <td>1</td>
 <td>«SEMELE»</td>
 <td>P2O5-32,0%, K2O-23,0%</td>
-<td>2 496</td>
+<td>2496</td>
 <td>литр</td>
 </tr>
 <tr>
@@ -72,7518 +74,8134 @@
 <td>6</td>
 <td>«Удобрение SAMPPI»</td>
 <td>KNO3-6%, C6H8O7-5%, Ca(H2PO4)2-5%, Na2-EDTA·2H2O-3,5%, MnCl2·4H2O-3,2%, NaNO3-2%, FeCl3·6H2O-2%, H3BO3-1%, Cu(NO3)2·3H2O-0,2%, (NH4)6Mo7O24·4H2O-0,2%</td>
-<td>4 322</td>
+<td>4322</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>7</td>
-<td>ADOB BORON</td>
-<td>B-11,1%, N-5,8%</td>
-<td>2 000</td>
+<td>ACID3CONTROL</td>
+<td>Раствор NP (4-15); Содержание: общий азот (N)-4,0%, азот мочевины (N)-4,0%, водорастворимый фосфор (P2O5)-15,0%, pH 1,0-1,5</td>
+<td>2679</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>8</td>
-<td>AGRIKER AMIN B</td>
-<td>B-13.5% Свободные L-аминокислоты-1,3%</td>
-<td>2 288</td>
+<td>ACTIVATOR N</td>
+<td>Органическое вещество-150г/л, N-100г/л, Mg-40г/л, альгиновая кислота-5000ppm, полисахариды морских водорослей-50г/л, у-PGA-1500ppm</td>
+<td>1500</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>9</td>
-<td>AGRIKER Amin Zn</td>
-<td>Zn-10,5%, Свободные L-аминокислоты -7.5%</td>
-<td>1 927</td>
+<td>ADOB BORON</td>
+<td>B-11,1%, N-5,8%</td>
+<td>2000</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>10</td>
-<td>AGRIKER Aqua</td>
-<td>Общий фосфор (P205)-17.5% Общий азот (N)-3.5%</td>
-<td>2 494</td>
+<td>AGRIKER AMIN B</td>
+<td>B-13.5% Свободные L-аминокислоты-1,3%</td>
+<td>2288</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>11</td>
-<td>AGRIKER Grow</td>
-<td>Общий азот (N)-6.0%, Zn-0,9%, Mn-0.6%, B-0,12%, Fe-0,12%, Cu-0,12%, Mo-0,025%, Свободные L-аминокислоты-10%</td>
-<td>2 345</td>
+<td>AGRIKER Amin Zn</td>
+<td>Zn-10,5%, Свободные L-аминокислоты -7.5%</td>
+<td>1927</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>12</td>
-<td>AGRIKER N</td>
-<td>Общий азот (N)-23% Свободные L-аминокислоты -2,3% Zn-0.12%,Fe-0.12%</td>
-<td>1 647</td>
+<td>AGRIKER Aqua</td>
+<td>Общий фосфор (P205)-17.5% Общий азот (N)-3.5%</td>
+<td>2494</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>13</td>
-<td>AGRIKER PK</td>
-<td>Общий фосфор (P205)-42.0% , Общий калий (K2O)-28.0%</td>
-<td>2 803</td>
+<td>AGRIKER Grow</td>
+<td>Общий азот (N)-6.0%, Zn-0,9%, Mn-0.6%, B-0,12%, Fe-0,12%, Cu-0,12%, Mo-0,025%, Свободные L-аминокислоты-10%</td>
+<td>2345</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>14</td>
-<td>AGRIKER Seed</td>
-<td>Общий азот(N)-3.5%, Свободные L- аминокислоты-7,5%</td>
-<td>2 569</td>
+<td>AGRIKER N</td>
+<td>Общий азот (N)-23% Свободные L-аминокислоты -2,3% Zn-0.12%,Fe-0.12%</td>
+<td>1647</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>15</td>
-<td>AGRIKER Top</td>
-<td>Общий азот (N)-8.5%, Аммиачный азот-4,25%, Органический Азот-4,25%, Свободные L-аминокислоты-15%</td>
-<td>2 097</td>
+<td>AGRIKER PK</td>
+<td>Общий фосфор (P205)-42.0% , Общий калий (K2O)-28.0%</td>
+<td>2803</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>16</td>
-<td>AgroArgentum® Forte</td>
-<td>N- 9, P-6</td>
-<td>140 000</td>
+<td>AGRIKER Seed</td>
+<td>Общий азот(N)-3.5%, Свободные L- аминокислоты-7,5%</td>
+<td>2569</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Agroleaf Power Calcium 12-5-19+9CaO+2.5MgO+TE</td>
-<td>N-20, P2O5-5, K2O-19, CaO-9, MgO-2,5</td>
-<td>755 357</td>
-<td>тонна</td>
+<td>AGRIKER Top</td>
+<td>Общий азот (N)-8.5%, Аммиачный азот-4,25%, Органический Азот-4,25%, Свободные L-аминокислоты-15%</td>
+<td>2097</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>18</td>
-<td>Agroleaf Power High K 15-10-31+TE</td>
-<td>N-15, P2O5-10, K2O-31</td>
-<td>755 357</td>
-<td>тонна</td>
+<td>AgroArgentum® Forte</td>
+<td>N- 9, P-6</td>
+<td>140000</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>19</td>
-<td>Agroleaf Power High P 12-52-5+TE</td>
-<td>N-12, P2O5-52, K2O-5</td>
-<td>755 357</td>
+<td>Agroleaf Power Calcium 12-5-19+9CaO+2.5MgO+TE</td>
+<td>N-20, P2O5-5, K2O-19, CaO-9, MgO-2,5</td>
+<td>755357</td>
 <td>тонна</td>
 </tr>
 <tr>
 <td>20</td>
-<td>Agroleaf Power Total 20-20-20+TE</td>
-<td>N-20, P2O5-20, K2O-20</td>
-<td>755 357</td>
+<td>Agroleaf Power High K 15-10-31+TE</td>
+<td>N-15, P2O5-10, K2O-31</td>
+<td>755357</td>
 <td>тонна</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Agrolution pH Low 151 10-50-10+TE</td>
-<td>N-10, P2O5-50, K2O-10</td>
-<td>656 696</td>
+<td>Agroleaf Power High P 12-52-5+TE</td>
+<td>N-12, P2O5-52, K2O-5</td>
+<td>755357</td>
 <td>тонна</td>
 </tr>
 <tr>
 <td>22</td>
-<td>Agrolution pH Low 20-20-20 +TE</td>
+<td>Agroleaf Power Total 20-20-20+TE</td>
 <td>N-20, P2O5-20, K2O-20</td>
-<td>656 696</td>
+<td>755357</td>
 <td>тонна</td>
 </tr>
 <tr>
 <td>23</td>
-<td>Agrolution pHLow 11-10-40+TE</td>
-<td>N-10, P2O5-10, K2O-40</td>
-<td>656 696</td>
+<td>Agrolution pH Low 151 10-50-10+TE</td>
+<td>N-10, P2O5-50, K2O-10</td>
+<td>656696</td>
 <td>тонна</td>
 </tr>
 <tr>
 <td>24</td>
-<td>ALERG</td>
-<td>N-5,206, K2O-4,731, P2O5-6,758, B-0,101, Fe-0,147, Zn-0,101, Mn-0,109, C-3,199</td>
-<td>3 250</td>
-<td>литр</td>
+<td>Agrolution pH Low 20-20-20 +TE</td>
+<td>N-20, P2O5-20, K2O-20</td>
+<td>656696</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>25</td>
-<td>Alga Phosphite K</td>
-<td>P2O5-20, K2O-60, Полисахариды морских водорослей (Seaweed polysaccharides) -1, Лимонная кислота (хелатор), вода +-50, Плотность г/см3, РН (1%) 4-6 органическая составляющая 80г/л</td>
-<td>3 200</td>
-<td>литр</td>
+<td>Agrolution pHLow 11-10-40+TE</td>
+<td>N-11, P2O5-10, K2O-40</td>
+<td>656696</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>26</td>
-<td>ALGA Phosphite K</td>
-<td>Фосфор-20%, Калий-60г/л, Полисахариды морских водорослей-1%, Лимонная кислота, Вода</td>
-<td>3 200</td>
+<td>ALERG</td>
+<td>N-5,206, K2O-4,731, P2O5-6,758, B-0,101, Fe-0,147, Zn-0,101, Mn-0,109, C-3,199</td>
+<td>3250</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>27</td>
+<td>Alga Phosphite K</td>
+<td>P2O5-20, K2O-60, Полисахариды морских водорослей (Seaweed polysaccharides) -1, Лимонная кислота (хелатор), вода +-50, Плотность г/см3, РН (1%) 4-6 органическая составляющая 80г/л</td>
+<td>3200</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>28</td>
+<td>ALGA Phosphite K</td>
+<td>Фосфор-20%, Калий-60г/л, Полисахариды морских водорослей-1%, Лимонная кислота, Вода</td>
+<td>3200</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>29</td>
+<td>ALGASEED</td>
+<td>Массовая доля питательных веществ: общий азот-1% м/м, органическое вещество-20% м/м, органический углерод-11,6% м/м, водорастворимый марганец (Mn)-0,8% м/м, водорастворимый цинк (Zn)-1,2% м/м, свободные аминокислоты-6% м/м, pH 7,3-8,3</td>
+<td>13393</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Amco Cereals</td>
+<td>Азот (N)-13%. оксид магния (MgO)-5%, медь (Cu)-2%, марганец (Mn)-2%</td>
+<td>1339</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Amco Potato</td>
+<td>Азот (N) - 14% Фосфор (P2O5) - 25% Оксид калия (К2О) - 13% Оксид магния (MgO) - 3,2% Цинк (Zn) - 1,8% Серный ангидрид (SО3) - 12,5%</td>
+<td>990</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>32</td>
 <td>Amco Potato 14-25-13 + 3.2 MgO + 1.8 Zn + 12.5 SO3 / Amco Potato</td>
 <td>Aзoт-14%. фocфop-25%. кaлий-13%. мaгний-3.2%. цинк-1.8%. ceра-12.5%</td>
 <td>990</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>28</td>
+<td>33</td>
 <td>Amco Sugar Beet</td>
 <td>MgO-3%, Mn-3%, B-11%</td>
-<td>1 339</td>
+<td>1339</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>29</td>
+<td>34</td>
 <td>AmcoCorn</td>
 <td>N-13%, Mn-5%, Zn-5%</td>
 <td>825</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>30</td>
+<td>35</td>
 <td>Amcofert 5-70-3</td>
 <td>N-5%, P2O5-70%, K2O-3%</td>
-<td>1 260</td>
+<td>1260</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>31</td>
+<td>36</td>
 <td>Amcolon 0-0-50</td>
 <td>K2SO4</td>
 <td>552</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>32</td>
+<td>37</td>
 <td>Amcolon 13-40-13+TE</td>
 <td>Азот 13%, Фосфор 40%, калий 13%, микроэлементы</td>
 <td>864</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>33</td>
+<td>38</td>
 <td>Amcolon 16-8-24</td>
 <td>N-16%, P2O5-8%, K2O-24%</td>
 <td>660</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>34</td>
+<td>39</td>
 <td>Amcolon 20-20-20</td>
 <td>Азот-20%, фосфор-20%, калий-20%, микроэлементы</td>
 <td>750</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>35</td>
+<td>40</td>
 <td>AMINO TURBO</td>
 <td>N-17,5%, NH2-15,3%, органический азот-2,2%, органические вещества (аминокислоты и витамины)-15%</td>
-<td>3 250</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>36</td>
-<td>Amino Zinc</td>
-<td>Органический азот 1,2%, Цинк 12%, аминокислоты 7,5%</td>
-<td>1 307</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>37</td>
-<td>Aminomax 10</td>
-<td>Общий азот (N): 3,2% Органический азот (N): 3,2% Свободные аминокислоты: 10% pH (1% раствора): 4,1</td>
-<td>2 864</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>38</td>
-<td>Aminomax Ca</td>
-<td>Свободные аминокислоты: 12,5%, Общий азот (N): 11%, Нитратный азот (N): 3,1%, Мочевинный азот(N): 3,3%, Органический азот (N): 4,6, % Кальций (CaO): 5,7%</td>
-<td>3 245</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>39</td>
-<td>AMINOQUELANT Fe</td>
-<td>Свободные аминокислоты - 5, Fe - 5, N - 2</td>
-<td>6 798</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>40</td>
-<td>AMINOTOP</td>
-<td>N-31,4, K2O-21, С-17,4, P2O5-6,758, Cu-7,04, Ni-0,41, Zn-4,44, Cr-55,5</td>
-<td>2 500</td>
+<td>3250</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>41</td>
-<td>AryAmin F&amp;V / АРИАМИН F&amp;V</td>
-<td>N-6%, C-23%, аминокислоты-10,5%</td>
-<td>6 306</td>
+<td>Amino Zinc</td>
+<td>Органический азот 1,2%, Цинк 12%, аминокислоты 7,5%</td>
+<td>1307</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>42</td>
-<td>AryAmin С / АРИАМИН С</td>
-<td>N-6, C-18, MgO-1, Mn-0,5, Zn-0,5, аминокислоты-7,5</td>
-<td>6 306</td>
+<td>Aminomax 10</td>
+<td>Общий азот (N): 3,2% Органический азот (N): 3,2% Свободные аминокислоты: 10% pH (1% раствора): 4,1</td>
+<td>2864</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>43</td>
-<td>B Commander</td>
-<td>N-3,61, B-9</td>
-<td>2 180</td>
+<td>Aminomax Ca</td>
+<td>Свободные аминокислоты: 12,5%, Общий азот (N): 11%, Нитратный азот (N): 3,1%, Мочевинный азот(N): 3,3%, Органический азот (N): 4,6, % Кальций (CaO): 5,7%</td>
+<td>3245</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>44</td>
-<td>Besroute</td>
-<td>Общие аминнокислоты - 453,2 г/л Свободные аминокислоты - 9,5 г/л Азот (N) - 79 г/л</td>
-<td>6 600</td>
+<td>AMINOQUELANT Fe</td>
+<td>Свободные аминокислоты - 5, Fe - 5, N - 2</td>
+<td>6798</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>45</td>
-<td>Besular</td>
-<td>Общие аминнокислоты - 423,55 г/л Свободные аминокислоты - 139,29 г/л Азот (N) - 71 г/л Цинк + Бор - 21,9 г/л</td>
-<td>7 480</td>
+<td>AMINOTOP</td>
+<td>N-31,4, K2O-21, С-17,4, P2O5-6,758, Cu-7,04, Ni-0,41, Zn-4,44, Cr-55,5</td>
+<td>2500</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>46</td>
-<td>B-FOL</td>
-<td>бор в форме борэтаноламина (B), 10%(140 г/л) + азот (N), 60 г/л</td>
-<td>2 470</td>
+<td>AryAmin F&amp;V / АРИАМИН F&amp;V</td>
+<td>N-6%, C-23%, аминокислоты-10,5%</td>
+<td>6306</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>47</td>
-<td>BRANDT PROMINO V</td>
-<td>N общий - 6,3%, N органический - 2,1%, органический углерод - 8,4%, аминокислоты - 15%</td>
-<td>2 886</td>
+<td>AryAmin С / АРИАМИН С</td>
+<td>N-6, C-18, MgO-1, Mn-0,5, Zn-0,5, аминокислоты-7,5</td>
+<td>6306</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>48</td>
-<td>BRANDTTM Biomaster</td>
-<td>MgO-2,5%, Mg-1,5%, S-4%, B-0,16%, Fe-3,5%, Mn-0,75%, Zn-0,75%, Mo-0,003%, экстракт водорослей-4%, гуминовые кислоты-1%</td>
-<td>2 600</td>
+<td>B Commander</td>
+<td>N-3,61, B-9</td>
+<td>2180</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>49</td>
-<td>BRANDTTM Humisol</td>
-<td>К2О - 4%, органическое вещество - 5%, гуминовые и фульвокислоты - 12%</td>
-<td>2 600</td>
+<td>Besroute</td>
+<td>Общие аминнокислоты - 453,2 г/л Свободные аминокислоты - 9,5 г/л Азот (N) - 79 г/л</td>
+<td>6600</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>50</td>
-<td>BRANDTTM MANNI-PLEXTM for SMALL GRAINS</td>
-<td>N нитратный-1,8%, N амидный-0,2%, B-0,5%, Mn-1,5%, Zn-1,5%</td>
-<td>2 600</td>
+<td>Besular</td>
+<td>Общие аминнокислоты - 423,55 г/л Свободные аминокислоты - 139,29 г/л Азот (N) - 71 г/л Цинк + Бор - 21,9 г/л</td>
+<td>7480</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>51</td>
-<td>CAL-HIGH</td>
-<td>CaO - 6</td>
-<td>1 568</td>
+<td>B-FOL</td>
+<td>бор в форме борэтаноламина (B), 10%(140 г/л) + азот (N), 60 г/л</td>
+<td>2470</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>52</td>
-<td>Cellerate</td>
-<td>Фосфор -110г/кг Молибден-80г/кг Цинк- 40г/кг</td>
-<td>14 329</td>
+<td>BRANDT PROMINO V</td>
+<td>N общий - 6,3%, N органический - 2,1%, органический углерод - 8,4%, аминокислоты - 15%</td>
+<td>2886</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>53</td>
-<td>Cristaphos</td>
-<td>N: 11% (P205): 30% (K2O): 11% C14H12O8: 2%</td>
-<td>1 900</td>
-<td>килограмм</td>
+<td>BRANDTTM Biomaster</td>
+<td>MgO-2,5%, Mg-1,5%, S-4%, B-0,16%, Fe-3,5%, Mn-0,75%, Zn-0,75%, Mo-0,003%, экстракт водорослей-4%, гуминовые кислоты-1%</td>
+<td>2600</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>54</td>
-<td>ENGROS</td>
-<td>N-8,09, B-0,22, Zn-0,15, CaO-1,92, C-8,77</td>
-<td>4 000</td>
+<td>BRANDTTM Humisol</td>
+<td>К2О - 4%, органическое вещество - 5%, гуминовые и фульвокислоты - 12%</td>
+<td>2600</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>55</td>
-<td>FERRO 9</td>
-<td>Fe-6,3%</td>
-<td>3 825</td>
+<td>BRANDTTM MANNI-PLEXTM for SMALL GRAINS</td>
+<td>N нитратный-1,8%, N амидный-0,2%, B-0,5%, Mn-1,5%, Zn-1,5%</td>
+<td>2600</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>56</td>
-<td>Ferti Boron</td>
-<td>N-10,56, P2O5-13,2, B-9,24, Cu-0,066, Fe-0,132, Mn-0,066, Mo-0,001, Zn-0,066</td>
-<td>2 098</td>
+<td>CAL-HIGH</td>
+<td>CaO - 6</td>
+<td>1568</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>57</td>
-<td>Ferti Fos</td>
-<td>P2O5-39,44, K2O-24,48</td>
-<td>2 950</td>
+<td>Cellerate</td>
+<td>Фосфор -110г/кг Молибден-80г/кг Цинк- 40г/кг</td>
+<td>14329</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>58</td>
-<td>Ferti Green</td>
-<td>N-2,66, B-0,22, Cu-0,22, Fe-1,44, Mn-0,56, Mo-0,022, Zn-0,56</td>
-<td>2 000</td>
-<td>литр</td>
+<td>Cristaphos</td>
+<td>N: 11% (P205): 30% (K2O): 11% C14H12O8: 2%</td>
+<td>1900</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>59</td>
-<td>Ferti Macro</td>
-<td>N-18,6, P2O5-18,6, K2O-18,6, B-0,05, Cu-0,06, Fe-0,15, Mn-0,015, Mo-0,011, Zn-0,045</td>
-<td>2 150</td>
+<td>ENGROS</td>
+<td>N-8,09, B-0,22, Zn-0,15, CaO-1,92, C-8,77</td>
+<td>4000</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>60</td>
-<td>Ferti Macro K</td>
-<td>N-10,00, P2O5-5,00, K2O-25,00, B-0,035, Cu-0,045, Fe-0,10,Mn-0,015, Zn-0,035, Мо-0,007</td>
-<td>2 100</td>
+<td>EXCELAMIN</td>
+<td>Массовая доля питательных веществ: общий азот (N)-7,1% м/м, органический азот (N)-4,2% м/м, мочевинный азот (N)-1,25% м/м, аммиачный азот (N)-1,25% м/м, нитратный азот (N)-0,4% м/м, органическое вещество-44,5% м/м, органический углерод-25,0% м/м, водорастворимый марганец (Mn)-1,5% м/м, водорастворимый цинк (Zn)-0,5% м/м, свободные аминокислоты-28% м/м, pH 6,0-7,0</td>
+<td>4464</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>61</td>
-<td>Ferti Micro</td>
-<td>N-11,6, K2O-14,50, MgO-4,35, SO3-7,98, B-0,51, Cu-0,8, Fe-1,45, Mn-2,18, Mo-0,015, Zn-1,45</td>
-<td>2 650</td>
+<td>FERRO 9</td>
+<td>Fe-6,3%</td>
+<td>3825</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>62</td>
-<td>Ferti Seeds</td>
-<td>N-10,4, P2O5-13, SO3-6,5, Cu-2,3, Mn-1,3, Mo-0,4, Zn-2,3</td>
-<td>2 411</td>
+<td>Ferti Boron</td>
+<td>N-10,56, P2O5-13,2, B-9,24, Cu-0,066, Fe-0,132, Mn-0,066, Mo-0,001, Zn-0,066</td>
+<td>2098</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>63</td>
-<td>Ferti Super 36N</td>
-<td>N – 36,2, MgO-4, B-0,015, Cu-0,261, Fe-0,028, Mn-0,001, Zn-0,008</td>
-<td>1 786</td>
+<td>Ferti Fos</td>
+<td>P2O5-39,44, K2O-24,48</td>
+<td>2950</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>64</td>
-<td>Fertimark Kmg 50:2</td>
-<td>K-50, Mg-2</td>
-<td>140 000</td>
-<td>тонна</td>
+<td>Ferti Green</td>
+<td>N-2,66, B-0,22, Cu-0,22, Fe-1,44, Mn-0,56, Mo-0,022, Zn-0,56</td>
+<td>2000</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>65</td>
-<td>Fertiplant 20/20/20 + 1MgO+TE</td>
-<td>N-20%, P2O5-20%, K2O-20%, B-0,0079%, C-0,0017%, Fe-0,0096%, Mn-0,0148%, Zn-0,0066%</td>
-<td>836 000</td>
-<td>тонна</td>
+<td>Ferti Macro</td>
+<td>N-18,6, P2O5-18,6, K2O-18,6, B-0,05, Cu-0,06, Fe-0,15, Mn-0,015, Mo-0,011, Zn-0,045</td>
+<td>2150</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>66</td>
-<td>Fertiplant® Ca Plus</td>
-<td>Азот 15%; фосфор 10%; калий 14% + Кальций 12%</td>
-<td>1 563</td>
-<td>килограмм</td>
+<td>Ferti Macro K</td>
+<td>N-10,00, P2O5-5,00, K2O-25,00, B-0,035, Cu-0,045, Fe-0,10,Mn-0,015, Zn-0,035, Мо-0,007</td>
+<td>2100</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>67</td>
-<td>Fertiplant® Combi K</td>
-<td>азот 6, фосфор 5, калий 46+МЕ (HCS)</td>
-<td>1 563</td>
-<td>килограмм</td>
+<td>Ferti Micro</td>
+<td>N-11,6, K2O-14,50, MgO-4,35, SO3-7,98, B-0,51, Cu-0,8, Fe-1,45, Mn-2,18, Mo-0,015, Zn-1,45</td>
+<td>2650</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>68</td>
-<td>Fertiplant® Combi P (НСS)</td>
-<td>азот-8, фосфор-56, калий 10+ME (HCS)</td>
-<td>1 563</td>
-<td>килограмм</td>
+<td>Ferti Seeds</td>
+<td>N-10,4, P2O5-13, SO3-6,5, Cu-2,3, Mn-1,3, Mo-0,4, Zn-2,3</td>
+<td>2411</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>69</td>
-<td>Fertiplant® Universal 20+20+20 (HCS)</td>
-<td>азот 20, фосфор 20, калий 20+МЕ (HCS)</td>
-<td>1 652</td>
-<td>килограмм</td>
+<td>Ferti Super 36N</td>
+<td>N – 36,2, MgO-4, B-0,015, Cu-0,261, Fe-0,028, Mn-0,001, Zn-0,008</td>
+<td>1786</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>70</td>
-<td>FERTYAX</td>
-<td>N-6,3%, P2O5-13,2%, SO3-3,4%, B-2,0%, Cu-2,4%, As&lt;60mg/kg, Cd&lt;90mg/kg, Cr&lt;120mg/kg, Hg&lt;2mg/kg, Ni&lt;120mg/kg, Pb&lt;150mg/kg</td>
-<td>5 500</td>
-<td>литр</td>
+<td>Fertimark Kmg 50:2</td>
+<td>K-50, Mg-2</td>
+<td>140000</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>71</td>
-<td>FOLCROP B-Mo</td>
-<td>N-6,40 % w/v, B-0,38 % w/v, Mo-0,21 % w/v, свободные аминокислоты-12,28 % w/v</td>
-<td>2 416</td>
-<td>литр</td>
+<td>Fertiplant 20/20/20 + 1MgO+TE</td>
+<td>N-20%, P2O5-20%, K2O-20%, B-0,0079%, C-0,0017%, Fe-0,0096%, Mn-0,0148%, Zn-0,0066%</td>
+<td>836000</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>72</td>
-<td>FOLCROP Ca-B</td>
-<td>CaO-10,40%w/v, B-0,52%w/v, N-5,59%w/v</td>
-<td>2 148</td>
-<td>литр</td>
+<td>Fertiplant® Ca Plus</td>
+<td>Азот 15%; фосфор 10%; калий 14% + Кальций 12%</td>
+<td>1563</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>73</td>
-<td>FOLCROP COMBI</td>
-<td>B-0,38 % w/v, Cu-0,15 % w/v, Fe-5,10 % w/v, Mn-2,50 % w/v, Mo-0,10 % w/v, Zn-0,21 % w/v</td>
-<td>1 969</td>
-<td>литр</td>
+<td>Fertiplant® Combi K</td>
+<td>азот 6, фосфор 5, калий 46+МЕ (HCS)</td>
+<td>1563</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>74</td>
-<td>FOLCROP STIM</td>
-<td>N-8,06 % w/v, свободные аминокислоты-5,76 % w/v, органическое вещество + стимуляторы-13,40 % w/v</td>
-<td>5 988</td>
-<td>литр</td>
+<td>Fertiplant® Combi P (НСS)</td>
+<td>азот-8, фосфор-56, калий 10+ME (HCS)</td>
+<td>1563</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>75</td>
-<td>FOLCROP TITAN</td>
-<td>Свободные амино-кислоты - 17,16 % w/v; N - 6,00 % w/v; CaO - 4.09 % w/v; B - 0.26 % w/v; SO₃ - 2.31 % w/v; MgO - 0.29 % w/v; Орган-ое вещество - 47.38 % w/v</td>
-<td>2 640</td>
-<td>литр</td>
+<td>Fertiplant® Universal 20+20+20 (HCS)</td>
+<td>азот 20, фосфор 20, калий 20+МЕ (HCS)</td>
+<td>1652</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>76</td>
-<td>FOLIAPLANT K52</td>
-<td>N-3,3%, K2O-52,1%, B-0,03%, Cu-0,0297%, Fe-0,0490%, Mn-0,0396%, Mo-0,0054%, Zn-0,0295%</td>
-<td>2 075</td>
+<td>FERTYAX</td>
+<td>N-6,3%, P2O5-13,2%, SO3-3,4%, B-2,0%, Cu-2,4%, As&lt;60mg/kg, Cd&lt;90mg/kg, Cr&lt;120mg/kg, Hg&lt;2mg/kg, Ni&lt;120mg/kg, Pb&lt;150mg/kg</td>
+<td>5500</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>77</td>
-<td>Folicare 12-46-8</td>
-<td>N-12%; P-46%; K-8%; Mg-0,8%; MgO-1,4%; S-2,1%; SO3-5,3%; B-0,02%; Cu-0,1%; Fe-0,2%; Mn-0,1%; Mo-0,01%; Zn-0,02%</td>
-<td>1 203 750</td>
-<td>тонна</td>
+<td>FOLCROP B-Mo</td>
+<td>N-6,40 % w/v, B-0,38 % w/v, Mo-0,21 % w/v, свободные аминокислоты-12,28 % w/v</td>
+<td>2416</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>78</td>
-<td>Folicare 18-18-18</td>
-<td>N-18%; P-18%; K-18%; Mg-0,9%; MgO-1,5%; S-2,9%; SO3-0,3%; B-0,02%; Cu-0,1%; Fe-0,2%; Mn-0,1%; Mo-0,01%; Zn-0,02%</td>
-<td>1 203 750</td>
-<td>тонна</td>
+<td>FOLCROP Ca-B</td>
+<td>CaO-10,40%w/v, B-0,52%w/v, N-5,59%w/v</td>
+<td>2148</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>79</td>
-<td>FORCROP GOLDEN 10-14-4</td>
-<td>Nобщ – 10,36%,Р2О5 – 14,24%, К2О – 3,88%, MgО в/р – 0,38%, В в/р – 0,14%, Мn – 0,97%, Zn – 0,67%, аминокислоты - 10,61%</td>
-<td>2 327</td>
+<td>FOLCROP COMBI</td>
+<td>B-0,38 % w/v, Cu-0,15 % w/v, Fe-5,10 % w/v, Mn-2,50 % w/v, Mo-0,10 % w/v, Zn-0,21 % w/v</td>
+<td>1969</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>80</td>
-<td>FORCROP K35</td>
-<td>K2O-35,00%w/v</td>
-<td>2 729</td>
+<td>FOLCROP STIM</td>
+<td>N-8,06 % w/v, свободные аминокислоты-5,76 % w/v, органическое вещество + стимуляторы-13,40 % w/v</td>
+<td>5988</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>81</td>
-<td>FORCROP KAMIN</td>
-<td>K2O-36,00% w/v, свободные аминокислоты-10,61% w/v</td>
-<td>2 104</td>
+<td>FOLCROP TITAN</td>
+<td>Свободные амино-кислоты - 17,16 % w/v; N - 6,00 % w/v; CaO - 4.09 % w/v; B - 0.26 % w/v; SO₃ - 2.31 % w/v; MgO - 0.29 % w/v; Орган-ое вещество - 47.38 % w/v</td>
+<td>2640</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>82</td>
-<td>FOSCROP K</td>
-<td>P₂O₅-42,00%w/v, K₂O-28,00%w/v</td>
-<td>3 131</td>
+<td>FOLIAPLANT K52</td>
+<td>N-3,3%, K2O-52,1%, B-0,03%, Cu-0,0297%, Fe-0,0490%, Mn-0,0396%, Mo-0,0054%, Zn-0,0295%</td>
+<td>2075</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>83</td>
-<td>Fostank</td>
-<td>Протеины A-PROTEIN (Enzymatic hydrolysis of proteins) - 400 г/л Zn - 5 г/л В - 15 г/л Fe - 1 г/л N - 6 г/л</td>
-<td>10 120</td>
-<td>литр</td>
+<td>Folicare 12-46-8</td>
+<td>N-12%; P-46%; K-8%; Mg-0,8%; MgO-1,4%; S-2,1%; SO3-5,3%; B-0,02%; Cu-0,1%; Fe-0,2%; Mn-0,1%; Mo-0,01%; Zn-0,02%</td>
+<td>1203750</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>84</td>
-<td>Fruitbooster +</td>
-<td>свободные аминокислоты-11,55%w/v, N-3,46%w/v, K2O-1,96%w/v, B-1,15%w/v, Mo-0,11%w/v, экстракт водорослей-9,47%w/v</td>
-<td>4 827</td>
-<td>литр</td>
+<td>Folicare 18-18-18</td>
+<td>N-18%; P-18%; K-18%; Mg-0,9%; MgO-1,5%; S-2,9%; SO3-0,3%; B-0,02%; Cu-0,1%; Fe-0,2%; Mn-0,1%; Mo-0,01%; Zn-0,02%</td>
+<td>1203750</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>85</td>
-<td>Fulvumin</td>
-<td>Органическое вещество 48,4%, фульвокислоты-28,8%</td>
-<td>1 207</td>
+<td>FORCROP GOLDEN 10-14-4</td>
+<td>Nобщ – 10,36%,Р2О5 – 14,24%, К2О – 3,88%, MgО в/р – 0,38%, В в/р – 0,14%, Мn – 0,97%, Zn – 0,67%, аминокислоты - 10,61%</td>
+<td>2327</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>86</td>
-<td>FURAVIA</td>
-<td>Фосфор не менее 0,07%, Калий не менее 0,38%, Магний не менее 0,07%, Сера не менее 0,44%, Железо не менее 0,11%, Bacillus Licheniformis (RTI184) 3x10 (8) КОЕ/мл</td>
-<td>29 741</td>
+<td>FORCROP K35</td>
+<td>K2O-35,00%w/v</td>
+<td>2729</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>87</td>
-<td>Growway SunBlocker</td>
-<td>B-4, Mn-0,5, Zn-0,5</td>
-<td>1 013</td>
-<td>килограмм</td>
+<td>FORCROP KAMIN</td>
+<td>K2O-36,00% w/v, свободные аминокислоты-10,61% w/v</td>
+<td>2104</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>88</td>
-<td>HAF ALFA 30%</td>
-<td>N -3,5, Mn - 1,5, Zn - 1,5</td>
-<td>3 050</td>
+<td>FOSCROP K</td>
+<td>P₂O₅-42,00%w/v, K₂O-28,00%w/v</td>
+<td>3131</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>89</td>
+<td>Fostank</td>
+<td>Протеины A-PROTEIN (Enzymatic hydrolysis of proteins) - 400 г/л Zn - 5 г/л В - 15 г/л Fe - 1 г/л N - 6 г/л</td>
+<td>10120</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>90</td>
+<td>Fruitbooster +</td>
+<td>свободные аминокислоты-11,55%w/v, N-3,46%w/v, K2O-1,96%w/v, B-1,15%w/v, Mo-0,11%w/v, экстракт водорослей-9,47%w/v</td>
+<td>4827</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>91</td>
+<td>Fulvumin</td>
+<td>Органическое вещество 48,4%, фульвокислоты-28,8%</td>
+<td>1207</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>92</td>
+<td>FURAVIA</td>
+<td>Фосфор не менее 0,07%, Калий не менее 0,38%, Магний не менее 0,07%, Сера не менее 0,44%, Железо не менее 0,11%, Bacillus Licheniformis (RTI184) 3x10 (8) КОЕ/мл</td>
+<td>29741</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>93</td>
+<td>Growway SunBlocker</td>
+<td>B-4, Mn-0,5, Zn-0,5</td>
+<td>1013</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>94</td>
+<td>HAF ALFA 30%</td>
+<td>N -3,5, Mn - 1,5, Zn - 1,5</td>
+<td>3050</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>95</td>
 <td>HAF ANTISAL</td>
 <td>N-7,5, K2O-2, CaO-11, органическое вещество-13</td>
 <td>875</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>90</td>
+<td>96</td>
 <td>HAF Cu</td>
 <td>Cu-4,5, Mn-0,7, Zn-0,5</td>
-<td>2 100</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>91</td>
-<td>HAF K</td>
-<td>K2O-28</td>
-<td>1 425</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>92</td>
-<td>HAF N</td>
-<td>N-25</td>
-<td>1 400</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>93</td>
-<td>HAF N-TEX</td>
-<td>N-5, P-2, органическое вещество-20, свободные L-аминокислоты-6</td>
-<td>4 150</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>94</td>
-<td>HAF P</td>
-<td>N-3, Р2О5-30</td>
-<td>1 400</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>95</td>
-<td>HAF PLUS</td>
-<td>N -5, B - 0,2, KP - 0,05, Fe - 0,1, Mn - 0,05, Zn - 0,07</td>
-<td>3 050</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>96</td>
-<td>HAF VITA Fe</td>
-<td>N-1, Fe-3,5, свободные L-аминокислоты-6</td>
-<td>2 100</td>
+<td>2100</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>97</td>
-<td>Haifa Кальциевая селитра</td>
-<td>N-15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
-<td>187 500</td>
-<td>тонна</td>
+<td>HAF K</td>
+<td>K2O-28</td>
+<td>1425</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>98</td>
-<td>Haifa Монофосфат калия</td>
-<td>P2O5-52, K20-34</td>
-<td>303 571</td>
-<td>тонна</td>
+<td>HAF N</td>
+<td>N-25</td>
+<td>1400</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>99</td>
+<td>HAF N-TEX</td>
+<td>N-5, P-2, органическое вещество-20, свободные L-аминокислоты-6</td>
+<td>4150</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>100</td>
+<td>HAF P</td>
+<td>N-3, Р2О5-30</td>
+<td>1400</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>101</td>
+<td>HAF PLUS</td>
+<td>N -5, B - 0,2, KP - 0,05, Fe - 0,1, Mn - 0,05, Zn - 0,07</td>
+<td>3050</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>102</td>
+<td>HAF VITA Fe</td>
+<td>N-1, Fe-3,5, свободные L-аминокислоты-6</td>
+<td>2100</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>103</td>
+<td>Haifa Кальциевая селитра</td>
+<td>N-15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
+<td>187500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>104</td>
+<td>Haifa Монофосфат калия</td>
+<td>P2O5-52, K20-34</td>
+<td>303571</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>105</td>
 <td>Hanse Premix</td>
 <td>Общий азот (Н): 5,5% Фосфат (Р2О5): 16,0% Кали (К2О): 0,1% Кальций (Са): 7,5% Сера (S): 4,0% Железо (Fe): 0,3% Магний (MgO): 0,2%</td>
 <td>496</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>100</td>
+<td>106</td>
 <td>Harbest</td>
 <td>Азот общий-15%м/м Азот амидный- 15%м/м Оксид кальция- 12%м/м</td>
-<td>2 285</td>
+<td>2285</td>
 <td>литр</td>
-</tr>
-<tr>
-<td>101</td>
-<td>IDROFLORAL PLUS 15-5-30</td>
-<td>Общий азот (N) – 15%, Р2О5 – 5 %, К2О – 30%, MgO – 3%</td>
-<td>1 521</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>102</td>
-<td>IDROFLORAL PLUS 20-20-20</td>
-<td>Общий азот (N) – 20 %, Р2О5 – 20 %, К2О – 20 %</td>
-<td>1 592</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>103</td>
-<td>Kafom K</td>
-<td>P2O5: 30%, K2O: 20%</td>
-<td>3 820</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>104</td>
-<td>Kitower</td>
-<td>Твердые протеины - 272 г/л Органическое вещество - 210 г/л Олигосахариды хитозана - 21,0 г/л Mg - 21,0 г/л Zn - 10,5 г/л N - 22,8 г/л</td>
-<td>8 360</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>105</td>
-<td>Kristalon Red 12-12-36</td>
-<td>N-12, NH4-1,9, NO3-10,1, P2O5-12, K2O-36, MgO-1, SO3-2,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>106</td>
-<td>Kristalon Special 18-18-18</td>
-<td>N-18, NH4-3,3, NO3-4,9, Nкарб- 9,8, P2O5-18, K2O-18, MgO-3, SO3-5, B-0,025, Cu-0,01, Fe- 0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
 </tr>
 <tr>
 <td>107</td>
-<td>LEGUMEFiX SOYA</td>
-<td>Смесь бактериальных штаммов 5,0х109КОЕ/см3-42.58%, N-1,49%, P2O5, K2O, MgO, CaO-3,57%, S-0,43%, Na (B, Co, Fe, Cu, Mn, Mo, Se, Zn, CI)</td>
-<td>7 378</td>
+<td>IDROFLORAL PLUS 15-5-30</td>
+<td>Общий азот (N) – 15%, Р2О5 – 5 %, К2О – 30%, MgO – 3%</td>
+<td>1521</td>
 <td>килограмм</td>
 </tr>
 <tr>
 <td>108</td>
-<td>LIQUIFiX SOYA</td>
-<td>Смесь бактериальных штаммов 5,0х109КОЕ/см3-7,44%, В-2%, Со-0,1%, Fe-5,0%, Cu-2,0%, Mn-2,0%, Mo-1,95%, Se-0,1%, Zn-2,0%, CI-0,2%, (N, P2O2, K2O, MgO, CaO, S, Na)</td>
-<td>7 100</td>
-<td>литр</td>
+<td>IDROFLORAL PLUS 20-20-20</td>
+<td>Общий азот (N) – 20 %, Р2О5 – 20 %, К2О – 20 %</td>
+<td>1592</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>109</td>
-<td>Madram G</td>
-<td>(N): 5% (K2O): 2.5% (Ca): 7.5%</td>
-<td>1 400</td>
+<td>Kafom K</td>
+<td>P2O5: 30%, K2O: 20%</td>
+<td>3820</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>110</td>
-<td>MANNI PLEX B-MOLY</td>
-<td>N мочевинный - 5%, B - 3,3%, Мо - 0,5%</td>
-<td>2 636</td>
+<td>Kitower</td>
+<td>Твердые протеины - 272 г/л Органическое вещество - 210 г/л Олигосахариды хитозана - 21,0 г/л Mg - 21,0 г/л Zn - 10,5 г/л N - 22,8 г/л</td>
+<td>8360</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>111</td>
-<td>MANNI-PLEX Ca</td>
-<td>N нитратный - 8%, Ca - 10%</td>
-<td>2 789</td>
-<td>литр</td>
+<td>Kristalon Red 12-12-36</td>
+<td>N-12, NH4-1,9, NO3-10,1, P2O5-12, K2O-36, MgO-1, SO3-2,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td>343750</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>112</td>
-<td>MANNI-PLEX K</td>
-<td>K2O - 20%</td>
-<td>2 808</td>
-<td>литр</td>
+<td>Kristalon Special 18-18-18</td>
+<td>N-18, NH4-3,3, NO3-4,9, Nкарб- 9,8, P2O5-18, K2O-18, MgO-3, SO3-5, B-0,025, Cu-0,01, Fe- 0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td>343750</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>113</td>
-<td>MANNI-PLEX Zn</td>
-<td>N общий - 3%, в т.ч.нитратный - 2,8%, мочевинный - 0,2%, Zn - 7%</td>
-<td>2 698</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>114</td>
-<td>Mikrom 15-0-5+9 MgO+TE</td>
-<td>Общий азот (N) – 15 %, К2О – 5 %, MgO – 9%, B – 0,1 %, Mn – 5 %, Zn- 4 %</td>
-<td>2 013</td>
+<td>LEGUMEFiX SOYA</td>
+<td>Смесь бактериальных штаммов 5,0х109КОЕ/см3-42.58%, N-1,49%, P2O5, K2O, MgO, CaO-3,57%, S-0,43%, Na (B, Co, Fe, Cu, Mn, Mo, Se, Zn, CI)</td>
+<td>7378</td>
 <td>килограмм</td>
 </tr>
 <tr>
+<td>114</td>
+<td>LIQUIFiX SOYA</td>
+<td>Смесь бактериальных штаммов 5,0х109КОЕ/см3-7,44%, В-2%, Со-0,1%, Fe-5,0%, Cu-2,0%, Mn-2,0%, Mo-1,95%, Se-0,1%, Zn-2,0%, CI-0,2%, (N, P2O2, K2O, MgO, CaO, S, Na)</td>
+<td>7100</td>
+<td>литр</td>
+</tr>
+<tr>
 <td>115</td>
-<td>MKP</td>
-<td>P2O5-51+-1, K2O-34+-1</td>
-<td>303 571</td>
-<td>тонна</td>
+<td>Madram G</td>
+<td>(N): 5% (K2O): 2.5% (Ca): 7.5%</td>
+<td>1400</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>116</td>
-<td>Multicote™ Формулы: Multicote 12-32-5+1,2MgO+ME</td>
-<td>N-12; P2O5-32; K2O-5</td>
-<td>1 325 000</td>
-<td>тонна</td>
+<td>MANNI PLEX B-MOLY</td>
+<td>N мочевинный - 5%, B - 3,3%, Мо - 0,5%</td>
+<td>2636</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>117</td>
-<td>Multicote™ Формулы: Multicote 15-7-15+2MgO+ME</td>
-<td>N-15; P2O5-7; K2O-15</td>
-<td>1 325 000</td>
-<td>тонна</td>
+<td>MANNI-PLEX Ca</td>
+<td>N нитратный - 8%, Ca - 10%</td>
+<td>2789</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>118</td>
-<td>Multicote™ Формулы: Multicote 18-6-12+ME</td>
-<td>N-18; P2O5-6; K2O-12</td>
-<td>1 325 000</td>
-<td>тонна</td>
+<td>MANNI-PLEX K</td>
+<td>K2O - 20%</td>
+<td>2808</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>119</td>
-<td>N.S.Z. 26</td>
-<td>Общий азот (N) – 26 %, SO3 -13 %, Zn – 0,01 %</td>
-<td>1 727</td>
+<td>MANNI-PLEX Zn</td>
+<td>N общий - 3%, в т.ч.нитратный - 2,8%, мочевинный - 0,2%, Zn - 7%</td>
+<td>2698</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>120</td>
-<td>Nano Silica</td>
-<td>NH2-15,6; SiO2-2,25</td>
-<td>7 750</td>
-<td>литр</td>
+<td>Mikrom 15-0-5+9 MgO+TE</td>
+<td>Общий азот (N) – 15 %, К2О – 5 %, MgO – 9%, B – 0,1 %, Mn – 5 %, Zn- 4 %</td>
+<td>2013</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>121</td>
-<td>N-Hance A</td>
-<td>масло семян понгамии</td>
-<td>1 744</td>
-<td>литр</td>
+<td>MKP</td>
+<td>P2O5-51+-1, K2O-34+-1</td>
+<td>303571</td>
+<td>тонна</td>
 </tr>
 <tr>
 <td>122</td>
+<td>Multicote™ Формулы: Multicote 12-32-5+1,2MgO+ME</td>
+<td>N-12; P2O5-32; K2O-5</td>
+<td>1325000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>123</td>
+<td>Multicote™ Формулы: Multicote 15-7-15+2MgO+ME</td>
+<td>N-15; P2O5-7; K2O-15</td>
+<td>1325000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>124</td>
+<td>Multicote™ Формулы: Multicote 18-6-12+ME</td>
+<td>N-18; P2O5-6; K2O-12</td>
+<td>1325000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>125</td>
+<td>N.S.Z. 26</td>
+<td>Общий азот (N) – 26 %, SO3 -13 %, Zn – 0,01 %</td>
+<td>1727</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>126</td>
+<td>Nano Silica</td>
+<td>NH2-15,6; SiO2-2,25</td>
+<td>7750</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>127</td>
+<td>N-Hance A</td>
+<td>масло семян понгамии</td>
+<td>1744</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>128</td>
 <td>N-Hance B</td>
 <td>Всего Азота (N): 2% Доступный фосфор (P2O5): 3% Растворимый Калий (K2O): 0% Кальций (Ca): 7%</td>
 <td>724</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>123</td>
+<td>129</td>
 <td>NIKABOR</td>
 <td>N-15,6%, CaO-26,1%, B-0,25%</td>
-<td>1 072</td>
+<td>1072</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>124</td>
+<td>130</td>
 <td>NITARD GOLD 20-20-20 + 2MgO + TE</td>
 <td>N-20%, P2O5-20%, K2O-20%, MgO-2%, B-0,0070%, Cu-0,0015%, Fe-0,0100%, Mn-0,0150%, Mo-0,0015%, Zn-0,0070%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>125</td>
+<td>131</td>
+<td>NITARD GOLD K 10-10-40+2 MGO+TE</td>
+<td>NO3-9,0%, NH4-1,0%, P2O5-10,0%, K2O-40,0%, MgO-2,0%, SO3-6,0%, B-0,01%, Cu-0,003%, Fe-0,04%, Mn-0,012%, Zn-0,003%</td>
+<td>625</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>132</td>
+<td>NITARD GOLD P 10-44-10+2.5 MGO+TE</td>
+<td>NO3-1,0%, NH4-9,0%, P2O5-44,0%, K2O-10,0%, MgO-3,0%, SO3-10,0%, B-0,01%, Cu-0,003%, Fe-0,04%, Mn-0,012%, Mo-0,005%, Zn-0,003%</td>
+<td>625</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>133</td>
 <td>NOV@GR</td>
 <td>фульвокислоты, гуминовые и аминовые кислоты, органический углерод, оксид калия</td>
 <td>578</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>126</td>
+<td>134</td>
 <td>NOVA SOP</td>
 <td>сульфат калия-более 99</td>
-<td>145 000</td>
+<td>145000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>127</td>
+<td>135</td>
 <td>NPS 20:20 + BMZ(aa)</td>
 <td>N-20, P2O5-20, S-14, B-0,015, Mn-0,001, Zn-0,025, массовая доля свободных аминокислот 0,125</td>
-<td>135 000</td>
+<td>101475</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>128</td>
+<td>136</td>
 <td>NutriBoost</td>
 <td>N-10, Р-45, S-5, Zn-1</td>
-<td>650 000</td>
+<td>650000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>129</td>
+<td>137</td>
 <td>NutriMap</td>
 <td>N-10, P-40, Ca-2, S-4, Zn-0,1</td>
-<td>285 000</td>
+<td>285000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>130</td>
+<td>138</td>
 <td>Nutrivant Универсал</td>
 <td>Дигидрогенортофосфат калия (KH2PO4) -25% Нитрат Калия (KNO3) -10% Карбамид (CH4N2O) -25% Сульфат Магния (MgSO4) -2.5% Борная кислота– 0.5%</td>
-<td>1 220</td>
+<td>1220</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>131</td>
+<td>139</td>
 <td>OLIGOMIX №8</td>
 <td>B-6,21%, Cu-0,93%, Mn-8,80%, Zn-11,05%</td>
-<td>2 425</td>
+<td>2425</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>132</td>
+<td>140</td>
 <td>PLANSTAR 10-46-0+5 SO3+ 0.5 Zn+ 0.6 Mn</td>
 <td>N-10,0%, NH4-10,0%, P2O5-46,0%, P2O5-44,0%, P2O5-45,0%, SO3-5,8%, Mn-0,6000%, Zn-0,5000%</td>
 <td>950</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>133</td>
+<td>141</td>
 <td>PLANSTAR12-43+2MGO+7SO3+0.05CU+1MN+0.2ZN</td>
 <td>P₂O₅-12%, N-43%, MgO-2%, SO3-7%, Cu-0,05%, Mn-1%, Zn-0,2%</td>
-<td>875 600</td>
+<td>875600</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>134</td>
+<td>142</td>
 <td>PLANT START 8-31-4 -export</td>
 <td>N общий - 8%, в т.ч.аммонийный - 8%, Р2О5 - 31%, К2О - 4%, экстракт водорослей - 4%, альгиновая кислота - 0,033%, маннитол - 0,12%</td>
-<td>2 964</td>
+<td>2964</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>135</td>
+<td>143</td>
 <td>PLANTAFIT GOLD</td>
 <td>N-7,2%</td>
-<td>4 000</td>
+<td>4000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>136</td>
+<td>144</td>
 <td>PLANTIN AMINO X</td>
 <td>N-0,8% органический азот-8,2% ,органические вещества смесь аминокислот-51%</td>
-<td>3 250</td>
+<td>3250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>137</td>
+<td>145</td>
 <td>PLANTIN FER 648</td>
 <td>Fe-6,0%</td>
-<td>4 000</td>
+<td>4000</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>138</td>
+<td>146</td>
+<td>PLANTIN PROTECT</td>
+<td>NH2-3%, P2O5-26,9%, K2O-17,9%, B-0,0100%, Cu-0,0184%, Mn-0,0188%, Mo-0,0008%, Zn-0,0184%, органические вещества-1%</td>
+<td>6000</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>147</td>
 <td>PLANTIN ROOT</td>
 <td>N-3,7%, NH4-1,0%, NH2-2,0%, органический азот-0,6%, P2O5-5,1%, K2O-3,2%, SO3-1,6%, Zn-0,1013%, органические вещества (смесь аминокислот и витаминов в водном растворе)-20%</td>
 <td>6 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>139</td>
+<td>148</td>
+<td>PLANTIN SUPER P</td>
+<td>NH2-4,9%, P2O5-18,9%, K2O-4,9%, B-0,0130%, Cu-0,0189%, Mn-0,0242%, Mo-0,0082%, Zn-0,0257%</td>
+<td>3 500</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>149</td>
 <td>Poly Milat</td>
 <td>Свободные аминокислоты - 120,2 г/л Азот (N) - 165,4 г/л Ca - 33,2 г/л</td>
 <td>9 240</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>140</td>
+<td>150</td>
 <td>Poly React</td>
 <td>Протеин - 280 г/кг EDTA кальций динатрий - 220 г/кг Аминокислоты - 200 г/кг Ca - 100 г/кг N - 100 г/кг Mg - 30 г/кг Na - 30 г/кг</td>
 <td>20 240</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>141</td>
-<td>Poly-Feed™ Формулы: Poly-Feed 10-52-10+ME</td>
+<td>151</td>
+<td>Poly-Feed™ Формулалары: Poly-Feed 10-52-10+ME</td>
 <td>N-10; P2O5-52; K2O-10</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>142</td>
+<td>152</td>
+<td>Poly-Feed™ Формулы: Poly-Feed 10-52-10+ME</td>
+<td>N-10; P2O5-52; K2O-10</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>153</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 12-42-8+3MgO+ME</td>
 <td>N-12; P2O5-42; K2O-8</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>143</td>
+<td>154</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 12-45-12+ME</td>
 <td>N-12; P2O5-45; K2O-12</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>144</td>
+<td>155</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 12-9-34+3MgO+ME</td>
 <td>N-12; P2O5-9; K2O-34</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>145</td>
+<td>156</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 16-8-24+ME</td>
 <td>N-16, P2O5-8, K2O-24</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>146</td>
+<td>157</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 18-14-18+2MgO+ME</td>
 <td>N-18, P2O5-14, K2O-18</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>147</td>
+<td>158</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 18-18-18+ME</td>
 <td>N-18, P2O5-18, K2O-18</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>148</td>
+<td>159</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 20-10-10+4MgO+ME</td>
 <td>N-20, P2O5-10, K2O-10</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>149</td>
+<td>160</td>
 <td>Poly-Feed™ Формулы: Poly-Feed 20-10-20+ME</td>
 <td>N-20; P2O5-10; K2O-20</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>150</td>
+<td>161</td>
 <td>POTATO START</td>
 <td>N - 5, P2O5 - 25, K2O - 5</td>
 <td>750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>151</td>
+<td>162</td>
 <td>Premiant Delta Ca, sl</td>
 <td>N-15, Ca-9, B-0,2</td>
 <td>4 468</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>152</td>
+<td>163</td>
 <td>Premiant Omega, sl.</td>
 <td>N-5, Ca-8, Zn-3</td>
 <td>4 468</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>153</td>
+<td>164</td>
 <td>PROMOSTART</td>
 <td>N - 30%</td>
 <td>3 432</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>154</td>
+<td>165</td>
 <td>Protec Al</td>
 <td>Cu - 2,24 % w/v; Fe - 2,56 % w/v; Mn - 0,96 % w/v; Zn - 0,64 % w/v</td>
-<td>2 773</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>155</td>
-<td>QadamFerti AquaLeaf 10-10-40</td>
-<td>Общий Азот (N) – 10%, в т.ч. Нитратный Азот (NO3) – 4%, Амидный Азот (NH2) – 4%, Аммонийный Азот (NH4) – 2%; Водорастворимый Пентоксид Фосфора (P2O5) – 10%; Водорастворимый Оксид Калия (К2О) – 40%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
-<td>1 296</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>156</td>
-<td>QadamFerti AquaLeaf 10-52-10</td>
-<td>Общий Азот (N) – 10%, в т.ч. Аммонийный Азот (NH4) – 10%; Водорастворимый Пентоксид Фосфора (P2O5) – 52%; Водорастворимый Оксид Калия (К2О) – 10%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
-<td>1 296</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>157</td>
-<td>QadamFerti AquaLeaf 20-20-20</td>
-<td>Общий Азот (N) – 20%, в т.ч. Нитратный Азот (NO3) – 2%, Амидный Азот (NH2) – 14%, Аммонийный Азот (NH4) – 4%; Водорастворимый Пентоксид Фосфора (P2O5) – 20%; Водорастворимый Оксид Калия (К2О) – 20%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
-<td>1 296</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>158</td>
-<td>QadamFerti AquaLeaf 25-5-5</td>
-<td>Общий Азот (N) – 25%, в т.ч. Амидный Азот (NH2) – 12%, Аммонийный Азот (NH4) – 13%; Водорастворимый Пентоксид Фосфора (P2O5) – 5%; Водорастворимый Оксид Калия (К2О) – 5%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
-<td>1 296</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>159</td>
-<td>QadamFerti Boromax</td>
-<td>Свободные Аминокислоты – 2%; Общий Азот (N) – 3,2%; Водорастворимый Бор (В) – 6%</td>
-<td>1 920</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>160</td>
-<td>Radix Cal</td>
-<td>CaO - 14,00 % w/v; MgO - 2,80 % w/v; B - 0,14 % w/v; Mo - 0,07 % w/v; Co - 0,007 % w/v</td>
-<td>1 683</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>161</td>
-<td>Radix Cal 5</td>
-<td>CaO - 14,00 % w/v; MgO - 2,80 % w/v; B - 0,14 % w/v; Mo - 0,07 % w/v; Co - 0,007 % w/v</td>
-<td>1 683</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>162</td>
-<td>RADIX TIM FORTE+</td>
-<td>N-3,72 % w/v, P2O5-11,08 % w/v, K2O-4,08 % w/v, Zn-0,50 % w/v, Mn-0,20 % w/v, B-0,20 % w/v, Mo-0,02 % w/v, Fe-0,09 % w/v, свободные аминокислоты-5,76 % w/v</td>
-<td>4 291</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>163</td>
-<td>RedoniQ Антистрес аміно</td>
-<td>N-2,4, Fe-0,22, Mn-0,33, Zn-1,1, Сu-0,55</td>
-<td>8 727</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>164</td>
-<td>RedoniQ Бор</td>
-<td>N-7,8, B-15,5</td>
-<td>2 627</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>165</td>
-<td>RedoniQ Старт</td>
-<td>N-12, Р-24, Fe-0,22, Mn-0,33, Zn-1,1</td>
-<td>3 252</td>
+<td>2773</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>166</td>
-<td>RedoniQ Цинк</td>
-<td>N-4,8, Zn-1,1</td>
-<td>2 627</td>
-<td>литр</td>
+<td>QadamFerti AquaLeaf 10-10-40</td>
+<td>Общий Азот (N) – 10%, в т.ч. Нитратный Азот (NO3) – 4%, Амидный Азот (NH2) – 4%, Аммонийный Азот (NH4) – 2%; Водорастворимый Пентоксид Фосфора (P2O5) – 10%; Водорастворимый Оксид Калия (К2О) – 40%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
+<td>1296</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>167</td>
-<td>Root Promoter</td>
-<td>Экстракт водорослей (Seaweed extract) 200 г/л, Органическое вещество (Organic matter) 80 г/л, Фосфор в пересчете на P2O5 25 г/л, Калий в пересчете на К2О 60 г/л, Азот (N) общий 60 г/л Zn 2 г/л, B 1,8 г/л, Fe 1,4 г/л</td>
-<td>2 550</td>
-<td>литр</td>
+<td>QadamFerti AquaLeaf 10-52-10</td>
+<td>Общий Азот (N) – 10%, в т.ч. Аммонийный Азот (NH4) – 10%; Водорастворимый Пентоксид Фосфора (P2O5) – 52%; Водорастворимый Оксид Калия (К2О) – 10%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
+<td>1296</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>168</td>
-<td>Root Promoter</td>
-<td>Азот - 65,4г/л, Калий 67,5 г/л, Фосфор - 28,6 г/л, Экстракт водорослей - 220 г/л, Органическое вещество- 89,7 г/л, Zn - 2.48 г/л, B - 1.86 г/л, Fe - 1.52 г/л</td>
-<td>2 550</td>
-<td>литр</td>
+<td>QadamFerti AquaLeaf 20-20-20</td>
+<td>Общий Азот (N) – 20%, в т.ч. Нитратный Азот (NO3) – 2%, Амидный Азот (NH2) – 14%, Аммонийный Азот (NH4) – 4%; Водорастворимый Пентоксид Фосфора (P2O5) – 20%; Водорастворимый Оксид Калия (К2О) – 20%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
+<td>1296</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>169</td>
-<td>SALIFORT</td>
-<td>K2O-47; P2O5-24</td>
-<td>4 750</td>
+<td>QadamFerti AquaLeaf 25-5-5</td>
+<td>Общий Азот (N) – 25%, в т.ч. Амидный Азот (NH2) – 12%, Аммонийный Азот (NH4) – 13%; Водорастворимый Пентоксид Фосфора (P2O5) – 5%; Водорастворимый Оксид Калия (К2О) – 5%; Железо (Fe) в хелатной форме (EDTA) – 0,02%; Марганец (Mn) в хелатной форме (EDTA) – 0,01%; Цинк (Zn) в хелатной форме (EDTA) – 0,002%; Медь (Cu) в хелатной форме (EDTA) – 0,002%; Водорастворимый Бор (В) – 0,01%</td>
+<td>1296</td>
 <td>килограмм</td>
 </tr>
 <tr>
 <td>170</td>
-<td>Seafun</td>
-<td>Фосфор (P2O5)≥ 30 г/л, Калий (К2О)≥ 60 г/л, Азот (N)≥ 90 г/л, Экстракт из морских водорослей (Organic Matter)≥ 150 г/л, Альгиновая кислота (Аlginic Acid))≥ 14 г/л, EDTA- Fe 16 г/л, EDTA-Cu 8 г/л, EDTA- Zn 12 г/л, EDTA- Mn 4 г/л</td>
-<td>3 150</td>
+<td>QadamFerti Boromax</td>
+<td>Свободные Аминокислоты – 2%; Общий Азот (N) – 3,2%; Водорастворимый Бор (В) – 6%</td>
+<td>1920</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>171</td>
-<td>Searent</td>
-<td>Альгиновая кислота - 37,38 г/кг Аминокислоты - 5,6 г/кг Органическое вещество - 43,8 г/кг N - 1,49 г/кг К2О - 20,64 г/кг Са - 0,26 г/кг Mg - 0,58 г/кг B - 0,56 г/кг Zn - 0,53 г/кг Fe - 0,64 г/кг</td>
-<td>8 800</td>
+<td>Radix Cal</td>
+<td>CaO - 14,00 % w/v; MgO - 2,80 % w/v; B - 0,14 % w/v; Mo - 0,07 % w/v; Co - 0,007 % w/v</td>
+<td>1683</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>172</td>
-<td>Searole</td>
-<td>Альгиновая кислота -196,55 г/л Органическое вещество - 508,76 г/л К2О - 118,29 г/л N - 0,52 г/л Са - 0,05 г/л Mg - 0,1 г/л</td>
-<td>4 400</td>
+<td>Radix Cal 5</td>
+<td>CaO - 14,00 % w/v; MgO - 2,80 % w/v; B - 0,14 % w/v; Mo - 0,07 % w/v; Co - 0,007 % w/v</td>
+<td>1683</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>173</td>
-<td>Seaweed Boron</td>
-<td>Бор водорастворимый B2O3≥200 г/л, Общий азот (N)≥40 г/л, Экстракт морских водорослей ≥200 г/л, Органические вещества г/л, Вода-Остальное</td>
-<td>3 350</td>
+<td>RADIX TIM FORTE+</td>
+<td>N-3,72 % w/v, P2O5-11,08 % w/v, K2O-4,08 % w/v, Zn-0,50 % w/v, Mn-0,20 % w/v, B-0,20 % w/v, Mo-0,02 % w/v, Fe-0,09 % w/v, свободные аминокислоты-5,76 % w/v</td>
+<td>4291</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>174</td>
-<td>Seaweed Boron</td>
-<td>(B2O2) - 402 г/л,Азот 53 г/л, Экстракт морских водорослей 210 г/л, Органические вещества 206 г/л</td>
-<td>3 350</td>
+<td>RedoniQ Антистрес аміно</td>
+<td>N-2,4, Fe-0,22, Mn-0,33, Zn-1,1, Сu-0,55</td>
+<td>8727</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>175</td>
-<td>Seawinner 818</td>
-<td>Органоминеральный комплекс для активного развития корневой системы</td>
-<td>2 790</td>
+<td>RedoniQ Бор</td>
+<td>N-7,8, B-15,5</td>
+<td>2627</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>176</td>
-<td>SEAWINNER 818</td>
-<td>Экстракт водорослей</td>
-<td>2 790</td>
-<td>килограмм</td>
+<td>RedoniQ Старт</td>
+<td>N-12, Р-24, Fe-0,22, Mn-0,33, Zn-1,1</td>
+<td>3252</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>177</td>
-<td>SEED START A</td>
-<td>Всего Азота (N): 0% Доступный фосфор (P₂O₅): 0% Растворимый Калий (K₂O): 2%</td>
-<td>2 888</td>
+<td>RedoniQ Цинк</td>
+<td>N-4,8, Zn-1,1</td>
+<td>2627</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>178</td>
-<td>Seed Start В</td>
-<td>1.5-2.5-0 4 Ca</td>
-<td>1 067</td>
+<td>Root Promoter</td>
+<td>Экстракт водорослей (Seaweed extract) 200 г/л, Органическое вещество (Organic matter) 80 г/л, Фосфор в пересчете на P2O5 25 г/л, Калий в пересчете на К2О 60 г/л, Азот (N) общий 60 г/л Zn 2 г/л, B 1,8 г/л, Fe 1,4 г/л</td>
+<td>2550</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>179</td>
-<td>Seedspor-C</td>
-<td>Mycorrhiza propagules 100 колоний/мл, Trichoderma &gt;1*10^8 спор/мл, бактерий Bacillus subtilis, Bacillus megaterium &gt;2*10^8 спор/мл, Fe-2% Zn-0,5%, KO2, P2O5, MgO, CaО</td>
-<td>92 400</td>
+<td>Root Promoter</td>
+<td>Азот - 65,4г/л, Калий 67,5 г/л, Фосфор - 28,6 г/л, Экстракт водорослей - 220 г/л, Органическое вещество- 89,7 г/л, Zn - 2.48 г/л, B - 1.86 г/л, Fe - 1.52 г/л</td>
+<td>2550</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>180</td>
-<td>Seedspor-S</td>
-<td>Mycorrhiza propagules 20 колоний/мл, Trichoderma &gt;2*10^7 спор/мл, бактерий Bacillus subtilis, Bacillus megaterium &gt;4*10^7 спор/мл, Fe-2% Zn-0,5% KO2, P2O5, MgO, CaО</td>
-<td>26 518</td>
-<td>литр</td>
+<td>SALIFORT</td>
+<td>K2O-47; P2O5-24</td>
+<td>4750</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>181</td>
-<td>Seedspor-W</td>
-<td>Mycorrhiza propagules 10 колоний/мл, Trichoderma &gt;1*10^7 спор/мл бактерий Bacillus subtilis, Bacillus megaterium &gt;2*10^7 спор/мл, Fe-2% Zn-0,5% KO2, P2O5, MgO, CaО</td>
-<td>5 942</td>
+<td>Seafun</td>
+<td>Фосфор (P2O5)≥ 30 г/л, Калий (К2О)≥ 60 г/л, Азот (N)≥ 90 г/л, Экстракт из морских водорослей (Organic Matter)≥ 150 г/л, Альгиновая кислота (Аlginic Acid))≥ 14 г/л, EDTA- Fe 16 г/л, EDTA-Cu 8 г/л, EDTA- Zn 12 г/л, EDTA- Mn 4 г/л</td>
+<td>3150</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>182</td>
-<td>SHADOR 0+20+33</td>
-<td>P-20%, K-33%, MgO-1%, S-7.5%, Zn-0.03%, B-0.0019%, B-1.4%, Mn-0.14%, Cu-0.005%, Mo-0.001%</td>
-<td>1 072</td>
-<td>килограмм</td>
+<td>Searent</td>
+<td>Альгиновая кислота - 37,38 г/кг Аминокислоты - 5,6 г/кг Органическое вещество - 43,8 г/кг N - 1,49 г/кг К2О - 20,64 г/кг Са - 0,26 г/кг Mg - 0,58 г/кг B - 0,56 г/кг Zn - 0,53 г/кг Fe - 0,64 г/кг</td>
+<td>8800</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>183</td>
-<td>SHADOR 20+20+20</td>
-<td>N-20%, P-20%, K-20%, MgO-1%, S-2.5%, Fe-0.1% ХЕЛАТИРОВЫННЫЙ, Zn-0.03%, B-0.03%, Mn-0.05%, Cu-0.005%, Mo-0.005%</td>
-<td>1 072</td>
-<td>килограмм</td>
+<td>Searole</td>
+<td>Альгиновая кислота -196,55 г/л Органическое вещество - 508,76 г/л К2О - 118,29 г/л N - 0,52 г/л Са - 0,05 г/л Mg - 0,1 г/л</td>
+<td>4400</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>184</td>
-<td>SICOGREEN-B Economy</td>
-<td>N-20%, P-20%, K-20%, MgO-2%, TE</td>
-<td>1 100</td>
-<td>килограмм</td>
+<td>Seaweed Boron</td>
+<td>Бор водорастворимый B2O3≥200 г/л, Общий азот (N)≥40 г/л, Экстракт морских водорослей ≥200 г/л, Органические вещества г/л, Вода-Остальное</td>
+<td>3350</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>185</td>
-<td>SICOGREEN-K Economy</td>
-<td>N-10%, P-10%, K-40%, MgO-2%, TE</td>
-<td>1 100</td>
-<td>килограмм</td>
+<td>Seaweed Boron</td>
+<td>(B2O2) - 402 г/л,Азот 53 г/л, Экстракт морских водорослей 210 г/л, Органические вещества 206 г/л</td>
+<td>3350</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>186</td>
-<td>Sicogreen-L Amino</td>
-<td>N-9%, аминокислоты-766 г/л</td>
-<td>3 675</td>
+<td>Seawinner 818</td>
+<td>Органоминеральный комплекс для активного развития корневой системы</td>
+<td>2790</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>187</td>
-<td>SICOGREEN-L super P</td>
-<td>N-6,5%, P-25%, K-6,5%, TE</td>
-<td>2 050</td>
-<td>литр</td>
+<td>SEAWINNER 818</td>
+<td>Экстракт водорослей</td>
+<td>2790</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>188</td>
-<td>SICOGREEN-P Economy</td>
-<td>N-10%, P-42%, K-10%, MgO-3%, TE</td>
-<td>1 100</td>
-<td>килограмм</td>
+<td>SEAWINNER 818</td>
+<td>N-1%, К2О-20% общее количество аминокислот 4%, альгиновая кислота 30%, органическое вещество 40%, хелатный Са, Mg, Zn, Fe, Mn, B, Mo-2,6%</td>
+<td>2790</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>189</td>
-<td>Silacid</td>
-<td>SiO2: 32%</td>
-<td>4 720</td>
-<td>килограмм</td>
+<td>SEED START A</td>
+<td>Всего Азота (N): 0% Доступный фосфор (P₂O₅): 0% Растворимый Калий (K₂O): 2%</td>
+<td>2888</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>190</td>
-<td>SINERGON 2000</td>
-<td>Азот – 6%, Углерод – 25,2 %</td>
-<td>2 104</td>
+<td>Seed Start В</td>
+<td>1.5-2.5-0 4 Ca</td>
+<td>1067</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>191</td>
+<td>Seedspor-C</td>
+<td>Mycorrhiza propagules 100 колоний/мл, Trichoderma &gt;1*10^8 спор/мл, бактерий Bacillus subtilis, Bacillus megaterium &gt;2*10^8 спор/мл, Fe-2% Zn-0,5%, KO2, P2O5, MgO, CaО</td>
+<td>92400</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>192</td>
+<td>Seedspor-S</td>
+<td>Mycorrhiza propagules 20 колоний/мл, Trichoderma &gt;2*10^7 спор/мл, бактерий Bacillus subtilis, Bacillus megaterium &gt;4*10^7 спор/мл, Fe-2% Zn-0,5% KO2, P2O5, MgO, CaО</td>
+<td>26518</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>193</td>
+<td>Seedspor-W</td>
+<td>Mycorrhiza propagules 10 колоний/мл, Trichoderma &gt;1*10^7 спор/мл бактерий Bacillus subtilis, Bacillus megaterium &gt;2*10^7 спор/мл, Fe-2% Zn-0,5% KO2, P2O5, MgO, CaО</td>
+<td>5942</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>194</td>
+<td>SHADOR 0+20+33</td>
+<td>P-20%, K-33%, MgO-1%, S-7.5%, Zn-0.03%, B-0.0019%, B-1.4%, Mn-0.14%, Cu-0.005%, Mo-0.001%</td>
+<td>1072</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>195</td>
+<td>SHADOR 20+20+20</td>
+<td>N-20%, P-20%, K-20%, MgO-1%, S-2.5%, Fe-0.1% ХЕЛАТИРОВЫННЫЙ, Zn-0.03%, B-0.03%, Mn-0.05%, Cu-0.005%, Mo-0.005%</td>
+<td>1072</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>196</td>
+<td>SICOGREEN-B Economy</td>
+<td>N-20%, P-20%, K-20%, MgO-2%, TE</td>
+<td>1100</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>197</td>
+<td>SICOGREEN-K Economy</td>
+<td>N-10%, P-10%, K-40%, MgO-2%, TE</td>
+<td>1100</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>198</td>
+<td>Sicogreen-L Amino</td>
+<td>N-9%, аминокислоты-766 г/л</td>
+<td>3675</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>199</td>
+<td>SICOGREEN-L super P</td>
+<td>N-6,5%, P-25%, K-6,5%, TE</td>
+<td>2050</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>200</td>
+<td>SICOGREEN-P Economy</td>
+<td>N-10%, P-42%, K-10%, MgO-3%, TE</td>
+<td>1100</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>201</td>
+<td>Silacid</td>
+<td>SiO2: 32%</td>
+<td>4720</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>202</td>
+<td>SINERGON 2000</td>
+<td>Азот – 6%, Углерод – 25,2 %</td>
+<td>2104</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>203</td>
 <td>Smart Start NP</td>
 <td>Суперфосфат-50-75, Тройной суперфосфат 20,5-5, Карбамид 20-30, Сульфат аммония 12-20% N 14 -P 23-K 0.1-S 5-Ca 8.5</td>
 <td>526</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>192</td>
+<td>204</td>
 <td>Smart Start P</td>
 <td>тройной суперфосфат, суперфосфат, N 3.8-P 33-K 0.1-S 2.3-Ca 18</td>
 <td>526</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>193</td>
-<td>SPON</td>
-<td>N-8,148, C-10,103</td>
-<td>3 250</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>194</td>
-<td>Spreybac</td>
-<td>N-4%, P2O5-1%, B-0,1%, Zn-1%</td>
-<td>9 800</td>
-<td>килограмм</td>
-</tr>
-<tr>
-<td>195</td>
-<td>SPRINTALGA</td>
-<td>общий азот 12%, органический азот 3,4%, амидный азот 8,6%, органическое вещество 20,5%, водорослевая суспензия 60%</td>
-<td>3 159</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>196</td>
-<td>Stimax Growth</td>
-<td>Экстракт водорослей Ascophyllum nodosum: 5%, общий азот (N): 8,3%, нитратный азот (N): 8,3%, водорастворимый фосфор (P2O5): 8,3%, водорастворимый калий (K2O): 8,3%, железо (Fe), хелат EDTA: 0,03%, водорастворимый марганец (Mn): 0,02%, водорастворимый молибден (Mo): 0,001%, марганец (Mn), хелат EDTA: 0,02%, водорастворимый бор (B): 0,03%, водорастворимый цинк (Zn): 0,01% , водорастворимая медь (Cu): 0,02%</td>
-<td>4 980</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>197</td>
-<td>Stimax plus</td>
-<td>Экстракт водорослей Ascophyllum nodosum: 10% Свободные аминокислоты: 4% Общий азот (N): 2% Мочевинный азот(N): 0,6% Органический азот (N): 1,4% Водорастворимый фосфор (P2O5): 8% Водорастворимый калий (K2O): 7% Водорастворимый бор (B): 0,15% Водорастворимый молибден (Mo): 0,15%</td>
-<td>5 605</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>198</td>
-<td>Stimax universal</td>
-<td>Экстракт водорослей Ascophyllum nodosum: 15% Общий азот (N): 5,6% Мочевинный азот(N): 5% Органический азот (N): 0,6% Магний (MgO), хелат EDTA: 0,2% Железо (Fe), хелат: 1% Марганец (Mn), хелат: 0,5% Цинк (Zn), хелат: 0,5%</td>
-<td>4 422</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>199</td>
-<td>Stimax Yield</td>
-<td>Экстракт водорослей Ascophyllum nodosum: 12%, свободные аминокислоты: 6%, общий азот (N): 6%, мочевинный азот(N): 3,8%, органический азот (N): 2,2%, фосфор (P2O5): 4%, калий (K2O): 5%, железо (Fe), хелат DTPA: 0,5%, марганец (Mn), хелат EDTA: 0,5%, цинк (Zn), хелат EDTA: 0,5%</td>
-<td>5 130</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>200</td>
-<td>Stoller Excellence</td>
-<td>свободные аминокислоты-28%, общий азот-7%, аммиачный азот-1,3%, органический азот-4,3%, мочевинный азот-1,4%, C-22%, Zn-0,5%, Mn-1,5%</td>
-<td>3 300</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>201</td>
-<td>TALETE/ ТАЛЕТЕ</td>
-<td>N - 5,0%; K2O – 6,0%; C – 7,5%; Mn – 0,2%; Zn – 0,2%</td>
-<td>3 489</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>202</td>
-<td>TECAMIN 31/ ТЕКАМИН 31</td>
-<td>Аминокислоты-33% азот-9%</td>
-<td>2 949</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>203</td>
-<td>TECNOPHYT PH+/ Текнофит РН+</td>
-<td>Поли-гидрокси-карбокси-кислоты - 20%, (этилендиокси)диметанол-0-1%</td>
-<td>3 130</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>204</td>
-<td>TricoBest</td>
-<td>K2O: 7% Trichoderma harzianum, штам IABTH01: 2x107 UFC*/г</td>
-<td>19 315</td>
-<td>килограмм</td>
-</tr>
-<tr>
 <td>205</td>
-<td>Trio</td>
-<td>B - 3%, MgO- 7%, Zn- 2%, Mo-0,05%</td>
-<td>1 965</td>
+<td>SOYAGOLD</td>
+<td>Общий азот 2,7% м/м, органический азот (N)-1,7% м/м, мочевинный азот (N)-0,8% м/м, аммиачный азот-(N) 0,2% м/м, органическое вещество-16% м/м, органический углерод-9% м/м, водорастворимый молибден (Mo)-12% м/м, водорастворимый кобальт (Co)-1,5% м/м, свободные аминокислоты-2% м/м, pH 7,3-8,3</td>
+<td>20089</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>206</td>
-<td>VIGOR SEED</td>
-<td>Водорастворимый цинк-2,5 % м/м, Водорастворимый марганец-2,5 % м/м</td>
-<td>10 500</td>
+<td>SPON</td>
+<td>N-8,148, C-10,103</td>
+<td>3250</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>207</td>
-<td>Vigortem S</td>
-<td>N-6,1%, P2O5-15%, K2O-12,4%, Fe-0,5%</td>
-<td>7 450</td>
+<td>Spreybac</td>
+<td>N-4%, P2O5-1%, B-0,1%, Zn-1%</td>
+<td>9800</td>
 <td>килограмм</td>
 </tr>
 <tr>
 <td>208</td>
-<td>WUXAL Bio Aminoplant</td>
-<td>аминокислота-141.3 г/л, азот 22,6, фосфор 22,6, калий 22,6</td>
-<td>3 000</td>
+<td>SPRINTALGA</td>
+<td>общий азот 12%, органический азот 3,4%, амидный азот 8,6%, органическое вещество 20,5%, водорослевая суспензия 60%</td>
+<td>3159</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>209</td>
-<td>YaraLiva CALCINIT (кальциевая селитра)</td>
-<td>N- 15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
-<td>187 500</td>
-<td>тонна</td>
+<td>Stimax Growth</td>
+<td>Экстракт водорослей Ascophyllum nodosum: 5%, общий азот (N): 8,3%, нитратный азот (N): 8,3%, водорастворимый фосфор (P2O5): 8,3%, водорастворимый калий (K2O): 8,3%, железо (Fe), хелат EDTA: 0,03%, водорастворимый марганец (Mn): 0,02%, водорастворимый молибден (Mo): 0,001%, марганец (Mn), хелат EDTA: 0,02%, водорастворимый бор (B): 0,03%, водорастворимый цинк (Zn): 0,01% , водорастворимая медь (Cu): 0,02%</td>
+<td>4980</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>210</td>
-<td>YaraMila Complex</td>
-<td>N-12%, N-NO3-5%, N-NH4-7%, P2O5-11%, K2O-18%, MgO-2,7%, SO3-20%, B-0,015%, Fe-0,2%, Mn-0,02%, Zn-0,02%</td>
-<td>500 000</td>
-<td>тонна</td>
+<td>Stimax plus</td>
+<td>Экстракт водорослей Ascophyllum nodosum: 10% Свободные аминокислоты: 4% Общий азот (N): 2% Мочевинный азот(N): 0,6% Органический азот (N): 1,4% Водорастворимый фосфор (P2O5): 8% Водорастворимый калий (K2O): 7% Водорастворимый бор (B): 0,15% Водорастворимый молибден (Mo): 0,15%</td>
+<td>5605</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>211</td>
-<td>YaraMila Cropcare 11-11-21</td>
-<td>N-11%, NO3-4,4%, NH4-6,6%, P2O5-10,5%, K2O-21,2%, MgO-2,6%, SO3-25%, B-0,05%, Cu-0,03%, Fe-0,08%, Mn-0,25%, Mo-0,002%, Zn-0,04%</td>
-<td>500 000</td>
-<td>тонна</td>
+<td>Stimax universal</td>
+<td>Экстракт водорослей Ascophyllum nodosum: 15% Общий азот (N): 5,6% Мочевинный азот(N): 5% Органический азот (N): 0,6% Магний (MgO), хелат EDTA: 0,2% Железо (Fe), хелат: 1% Марганец (Mn), хелат: 0,5% Цинк (Zn), хелат: 0,5%</td>
+<td>4422</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>212</td>
-<td>YaraMila Cropcare NPK (Mg S) 8-11-23</td>
-<td>N-8%, NO3-2,6%, NH4-5,4%, P2O5-11,4%, K2O-22,9%, MgO-4,2%, SO3-29,3%, B-0,05%, Cu-0,05%, Mn-0,25%</td>
-<td>500 000</td>
-<td>тонна</td>
+<td>Stimax Yield</td>
+<td>Экстракт водорослей Ascophyllum nodosum: 12%, свободные аминокислоты: 6%, общий азот (N): 6%, мочевинный азот(N): 3,8%, органический азот (N): 2,2%, фосфор (P2O5): 4%, калий (K2O): 5%, железо (Fe), хелат DTPA: 0,5%, марганец (Mn), хелат EDTA: 0,5%, цинк (Zn), хелат EDTA: 0,5%</td>
+<td>5130</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>213</td>
-<td>YaraTera Krista K Plus</td>
-<td>N-13,5%, NO3-13,5%, K2O-45,5%</td>
-<td>357 000</td>
-<td>тонна</td>
+<td>Stoller Excellence</td>
+<td>свободные аминокислоты-28%, общий азот-7%, аммиачный азот-1,3%, органический азот-4,3%, мочевинный азот-1,4%, C-22%, Zn-0,5%, Mn-1,5%</td>
+<td>3300</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>214</td>
-<td>YaraTera Krista SOP (сульфат калия)</td>
-<td>K2O-52%, S-18%, SO3-45%</td>
-<td>145 000</td>
-<td>тонна</td>
+<td>TALETE/ ТАЛЕТЕ</td>
+<td>N - 5,0%; K2O – 6,0%; C – 7,5%; Mn – 0,2%; Zn – 0,2%</td>
+<td>3489</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>215</td>
-<td>YaraTera Kristalon Brown 3+11+38+4</td>
-<td>N-3%, P2O5-11%, K2O-38%, MgO-4%, SO3-5%, B-0,025%, Cu-0,01%, Fe-0,07%, Mn-0,04%, Zn-0,025%, Mo-0,004%</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>TECAMIN 31/ ТЕКАМИН 31</td>
+<td>Аминокислоты-33% азот-9%</td>
+<td>2949</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>216</td>
-<td>YaraTera KRISTALON Brown 3-11-38 (кристалон коричневый)</td>
-<td>N-3, N-NO3-3, P2O5-11, K2O-38, MgO-4, SO3-27,5, B-0,025, CuO-0,01, Fe-0,07, Mn-0,04, Mo-0,004, Zn-0,025</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>TECNOPHYT PH+/ Текнофит РН+</td>
+<td>Поли-гидрокси-карбокси-кислоты - 20%, (этилендиокси)диметанол-0-1%</td>
+<td>3130</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>217</td>
-<td>YaraTera Kristalon Red 12-12-36+1+TE</td>
-<td>N-12, NH4-1,9, NO3-10,1, P2O5-12, K2O-36, MgO-1, SO3-2,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>TricoBest</td>
+<td>K2O: 7% Trichoderma harzianum, штам IABTH01: 2x107 UFC*/г</td>
+<td>19315</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>218</td>
-<td>YaraTera Kristalon Special 18-18-18</td>
-<td>N-18, NH4-3,3, NO3-4,9, Nкарб-9,8, P2O5-18, K2O-18, MgO-3, SO3-5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>Trio</td>
+<td>B - 3%, MgO- 7%, Zn- 2%, Mo-0,05%</td>
+<td>1965</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>219</td>
-<td>YaraTera Kristalon Special 18-18-18+3+TE</td>
-<td>N-18%, NH4-3,3%, NO3-4,9%, Nкарб-9,8%, P2O5-18%, K2O-18%, MgO-3%, SO3-5%, B-0,025%, Cu-0.01%. Fe-0.07%. Mn-0.04%. Zn-0.025%. Mo-0.004%</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>VIGOR SEED</td>
+<td>Водорастворимый цинк-2,5 % м/м, Водорастворимый марганец-2,5 % м/м</td>
+<td>10500</td>
+<td>литр</td>
 </tr>
 <tr>
 <td>220</td>
-<td>YaraTera Kristalon Yellow 13-40-13</td>
-<td>N-13, NH4-8,6, NO3-4,4, P2O5-40, K2O-13, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
+<td>Vigortem S</td>
+<td>N-6,1%, P2O5-15%, K2O-12,4%, Fe-0,5%</td>
+<td>7450</td>
+<td>килограмм</td>
 </tr>
 <tr>
 <td>221</td>
+<td>WUXAL Bio Aminoplant</td>
+<td>аминокислота-141.3 г/л, азот 22,6, фосфор 22,6, калий 22,6</td>
+<td>3000</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>222</td>
+<td>YaraAmplix Optinue</td>
+<td>Гуминовые кислоты – 15%, Mn- 1%, Zn – 1%, K2О-3%</td>
+<td>4850</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>223</td>
+<td>YaraLiva CALCINIT (кальциевая селитра)</td>
+<td>N- 15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
+<td>187500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>224</td>
+<td>YaraMila Complex</td>
+<td>N-12%, N-NO3-5%, N-NH4-7%, P2O5-11%, K2O-18%, MgO-2,7%, SO3-20%, B-0,015%, Fe-0,2%, Mn-0,02%, Zn-0,02%</td>
+<td>500000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>225</td>
+<td>YaraMila Cropcare 11-11-21</td>
+<td>N-11%, NO3-4,4%, NH4-6,6%, P2O5-10,5%, K2O-21,2%, MgO-2,6%, SO3-25%, B-0,05%, Cu-0,03%, Fe-0,08%, Mn-0,25%, Mo-0,002%, Zn-0,04%</td>
+<td>500000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>226</td>
+<td>YaraMila Cropcare NPK (Mg S) 8-11-23</td>
+<td>N-8%, NO3-2,6%, NH4-5,4%, P2O5-11,4%, K2O-22,9%, MgO-4,2%, SO3-29,3%, B-0,05%, Cu-0,05%, Mn-0,25%</td>
+<td>500000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>227</td>
+<td>YaraTera Calcinit (calcium nitrate)</td>
+<td>N-15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
+<td></td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>228</td>
+<td>YaraTera Krista K Plus</td>
+<td>N-13,5%, NO3-13,5%, K2O-45,5%</td>
+<td>357000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>229</td>
+<td>YaraTera Krista SOP (сульфат калия)</td>
+<td>K2O-52%, S-18%, SO3-45%</td>
+<td>145000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>230</td>
+<td>YaraTera Kristalon Brown 3+11+38+4</td>
+<td>N-3%, P2O5-11%, K2O-38%, MgO-4%, SO3-5%, B-0,025%, Cu-0,01%, Fe-0,07%, Mn-0,04%, Zn-0,025%, Mo-0,004%</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>231</td>
+<td>YaraTera KRISTALON Brown 3-11-38 (кристалон коричневый)</td>
+<td>N-3, N-NO3-3, P2O5-11, K2O-38, MgO-4, SO3-27,5, B-0,025, CuO-0,01, Fe-0,07, Mn-0,04, Mo-0,004, Zn-0,025</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>232</td>
+<td>YaraTera Kristalon Red 12-12-36+1+TE</td>
+<td>N-12, NH4-1,9, NO3-10,1, P2O5-12, K2O-36, MgO-1, SO3-2,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>233</td>
+<td>YaraTera Kristalon Special 18-18-18</td>
+<td>N-18, NH4-3,3, NO3-4,9, Nкарб-9,8, P2O5-18, K2O-18, MgO-3, SO3-5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>234</td>
+<td>YaraTera Kristalon Special 18-18-18+3+TE</td>
+<td>N-18%, NH4-3,3%, NO3-4,9%, Nкарб-9,8%, P2O5-18%, K2O-18%, MgO-3%, SO3-5%, B-0,025%, Cu-0.01%. Fe-0.07%. Mn-0.04%. Zn-0.025%. Mo-0.004%</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>235</td>
+<td>YaraTera Kristalon Yellow 13-40-13</td>
+<td>N-13, NH4-8,6, NO3-4,4, P2O5-40, K2O-13, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
+<td>343750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>236</td>
 <td>YaraTera SUPER FK 30</td>
 <td>P2O-18,8, K2O- 6,3, Na2O-5,8</td>
 <td>900</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>222</td>
+<td>237</td>
 <td>YaraVita ACTISIL</td>
 <td>Si-0,5, Ca-2,5</td>
-<td>11 750</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>223</td>
-<td>YaraVita AGRIPHOS</td>
-<td>P2O5-29,1, K2O-6,4, Cu-1, Fe-0,3, Mn-1,4, Zn-1</td>
-<td>2 750</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>224</td>
-<td>YaraVita BORTRAC 150</td>
-<td>N-4,7, B-11</td>
-<td>2 150</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>225</td>
-<td>YaraVita GRAMITREL</td>
-<td>N-3,9%, Mg-9,15%, Cu-3%, Mn-9,1%, Zn-4,9%</td>
-<td>4 163</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>226</td>
-<td>YaraVita Hydromag 500</td>
-<td>N-4,6%, Mg-19,9 %, MgO-33,1%</td>
-<td>2 700</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>227</td>
-<td>YaraVita Mantrac Pro</td>
-<td>N-3,8%, Mn-27,4%</td>
-<td>2 900</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>228</td>
-<td>YaraVita MOLYTRAC 250</td>
-<td>P2O5-15,3, Mo-15,3</td>
-<td>16 150</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>229</td>
-<td>YaraVita ZINTRAC 700</td>
-<td>Zn-40, N-1</td>
-<td>5 625</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>230</td>
-<td>YaraVitaTMBioNUE</td>
-<td>Гуминовые кислоты – 15%, Mn- 1%, Zn – 1%, K2О-3%</td>
-<td>4 850</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>231</td>
-<td>АГРИ М40</td>
-<td>Всего органические вещества -35%, N-1%', P-0,1%, K-2,5%</td>
-<td>2 503</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>232</td>
-<td>Агрифул</td>
-<td>Гуминовый экстракт - 25%; Органические вещества -45%; N - 4,5%; Р - 1%; К - 1%</td>
-<td>2 385</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>233</td>
-<td>Агрифул Антисоль</td>
-<td>Гуминовые вещества - 37%; Гуминовые экстракты (фульвокислоты) -18%; N - 9%; Ca - 10%</td>
-<td>2 296</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>234</td>
-<td>Агрохимикат «ГидроСера»</td>
-<td>N-0,19, P2O5-0,025, K2O-1,52, S-26, CaO-8,2, MgO-0,9, Fe2O3-0,013</td>
-<td>2 325</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>235</td>
-<td>Агрохимикат «Ультрамаг Супер Сера-900»</td>
-<td>SO3-70,0, N-5,0</td>
-<td>3 170</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>236</td>
-<td>Агрохимикат БОРО-Н</td>
-<td>Легкодоступный бор (B) – 150 г/л (11%), аминный азот (N) – 51 г/л (3,7%)</td>
-<td>1 250</td>
-<td>литр</td>
-</tr>
-<tr>
-<td>237</td>
-<td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Железо</td>
-<td>общий азот (N)-13,3%, марганец (Mn)-1,0%, железо (Fe)-15,0%; глицин-10,0%</td>
-<td>2 650</td>
+<td>11750</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>238</td>
-<td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Кальций</td>
-<td>Общий азот (N) –13,0%; Кальций (Ca) 14,0%; глицин 10,0%</td>
-<td>2 650</td>
+<td>YaraVita AGRIPHOS</td>
+<td>P2O5-29,1, K2O-6,4, Cu-1, Fe-0,3, Mn-1,4, Zn-1</td>
+<td>2750</td>
 <td>литр</td>
 </tr>
 <tr>
 <td>239</td>
+<td>YaraVita BORTRAC 150</td>
+<td>N-4,7, B-11</td>
+<td>2150</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>240</td>
+<td>YaraVita GRAMITREL</td>
+<td>N-3,9%, Mg-9,15%, Cu-3%, Mn-9,1%, Zn-4,9%</td>
+<td>4163</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>241</td>
+<td>YaraVita Hydromag 500</td>
+<td>N-4,6%, Mg-19,9 %, MgO-33,1%</td>
+<td>2700</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>242</td>
+<td>YaraVita Mantrac Pro</td>
+<td>N-3,8%, Mn-27,4%</td>
+<td>2900</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>243</td>
+<td>YaraVita MOLYTRAC 250</td>
+<td>P2O5-15,3, Mo-15,3</td>
+<td>16150</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>244</td>
+<td>YaraVita ZINTRAC 700</td>
+<td>Zn-40, N-1</td>
+<td>5625</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>245</td>
+<td>YaraVitaTMBioNUE</td>
+<td>Гуминовые кислоты – 15%, Mn- 1%, Zn – 1%, K2О-3%</td>
+<td>4850</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>246</td>
+<td>АГРИ М40</td>
+<td>Всего органические вещества -35%, N-1%', P-0,1%, K-2,5%</td>
+<td>2503</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>247</td>
+<td>Агрифул</td>
+<td>Гуминовый экстракт - 25%; Органические вещества -45%; N - 4,5%; Р - 1%; К - 1%</td>
+<td>2385</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>248</td>
+<td>Агрифул Антисоль</td>
+<td>Гуминовые вещества - 37%; Гуминовые экстракты (фульвокислоты) -18%; N - 9%; Ca - 10%</td>
+<td>2296</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>249</td>
+<td>Агрохимикат «ГидроСера»</td>
+<td>N-0,19, P2O5-0,025, K2O-1,52, S-26, CaO-8,2, MgO-0,9, Fe2O3-0,013</td>
+<td>2325</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>250</td>
+<td>Агрохимикат «Ультрамаг Супер Сера-900»</td>
+<td>SO3-70,0, N-5,0</td>
+<td>3170</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>251</td>
+<td>Агрохимикат БИОНЕКС КЕМИ РАСТВОРИМЫЙ марка 2:40:27+1,2</td>
+<td>N – 2%; P2O5 – 40%; K2O – 27%; Mg – 1,2%; S – 4%; В – 0,025%; Fe – 0,01%; Cu – 0,01%; Zn – 0,01%; Mn – 0,01%; Mo – 0,005%; Co – 0,001%</td>
+<td>941</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>252</td>
+<td>Агрохимикат БИОНЕКС-КЕМИ ЖИДКИЙ марки 10:10:10</td>
+<td>N – 10%; P2O5 – 10%; K2O – 10%; S – 0,04%; В – 0,01%; Cu – 0,02%; Zn – 0,01%; Mn – 0,01%; Mo – 0,002%; Cо – 0,002%</td>
+<td>1617</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>253</td>
+<td>Агрохимикат БИОНЕКС-КЕМИ ПРОФИ марка 35:1:1,5</td>
+<td>N – 35%; P2O5 – 1%; K2O – 1,5%; Mg – 0,7%; S – 6%; В – 0,025%; Fe – 0,01%; Cu – 0,01%; Mn – 0,01%; Mo – 0,005%; Co – 0,001%; Zn – 0,01%</td>
+<td>941</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>254</td>
+<td>Агрохимикат БИОНЕКС-КЕМИ ПРОФИ марка 40:1,5:2</td>
+<td>N – 40%; P2O5 – 1,5%; K2O – 2%; Mg – 0,7%; S – 2%; В – 0,025%; Fe – 0,01%; Cu – 0,01%; Mn – 0,01%; Mo – 0,005%; Co – 0,001%; Zn – 0,01%</td>
+<td>941</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>255</td>
+<td>Агрохимикат БОРОГУМ</td>
+<td>Гуминовых кислот натриевые соли – 3%; B – 9%</td>
+<td>2405</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>256</td>
+<td>Агрохимикат БОРОГУМ ЭКСТРА марка Mo</td>
+<td>Гуминовых кислот натриевые соли – 3%; B – 7%; Mo – 3%; S – 0,05%; Co – 0,002%; Cu – 0,01%; Zn – 0,01%; Mn – 0,04%; Ni – 0,002%</td>
+<td>5130</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>257</td>
+<td>Агрохимикат БОРОГУМ ЭКСТРА марка Комплексный</td>
+<td>Гуминовых кислот натриевые соли – 1%; B – 4%; Mo – 0,05%; S – 0,17%; Co – 0,005%; Cu – 0,2%; Zn – 0,01%; Mn – 0,02%; Ni – 0,001%; Fe – 0,05%</td>
+<td>2434</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>258</td>
+<td>Агрохимикат БОРО-Н</td>
+<td>Легкодоступный бор (B) – 150 г/л (11%), аминный азот (N) – 51 г/л (3,7%)</td>
+<td>1250</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>259</td>
+<td>Агрохимикат ГУМИ марка ГУМИ-20</td>
+<td>N – 1%; P2O5 – 1,5%; K2O – 2%; Гуминовых кислот натриевые соли – 60%</td>
+<td>921</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>260</td>
+<td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Железо</td>
+<td>общий азот (N)-13,3%, марганец (Mn)-1,0%, железо (Fe)-15,0%; глицин-10,0%</td>
+<td>2650</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>261</td>
+<td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Кальций</td>
+<td>Общий азот (N) –13,0%; Кальций (Ca) 14,0%; глицин 10,0%</td>
+<td>2650</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>262</td>
 <td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Магний</td>
 <td>Общий азот (N) –19,1%; Магний (Mg) 14,0%; глицин 10,0%</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>240</td>
+<td>263</td>
 <td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Марганец</td>
 <td>Общий азот(N) - 13,0, Марганец-14,0, глицин-10,0</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>241</td>
+<td>264</td>
 <td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Медь</td>
 <td>Общий азот (N) –15,0 %; Фосфор (P2O5) 3,3 % Медь (Cu) 14,0 %; Марганец (Mn) 1,0 %; глицин 10,0%</td>
-<td>2 650</td>
+<td>2650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>242</td>
+<td>265</td>
 <td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Молибден</td>
 <td>Общий азот (N) –10,3 %; Фосфор (P2O5) 3,3 %; Бор (B) 1,5 %, Молибден (Mo) 8,5 %, глицин 10,0 %</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>243</td>
+<td>266</td>
 <td>Агрохимикат Микрополидок Моно, марка Микрополидок Моно Сера</td>
 <td>Общий азот (N) –7,4 % Сера (SO3) –14,0 %; глицин - 10,0 %;</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>244</td>
+<td>267</td>
 <td>Агрохимикат монофосфат калия</td>
 <td>P-52, K-34</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>245</td>
+<td>268</td>
 <td>Агрохимикат ПАНЧ</td>
 <td>(свободные аминокислоты, N, P2O5, K2O, S)</td>
 <td>1 518</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>246</td>
+<td>269</td>
 <td>Агрохимикат Селитра аммиачная марка Б</td>
 <td>N-34,0-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>247</td>
+<td>270</td>
 <td>Агрохимикат ФЕРТИКС (марка А)</td>
 <td>N-200 г/л (15,38%), MgO-26,5 г/л (2,04%), SO3-60 г/л (4,62%), Cu-12,45 г/л (0,95%), Fe-10 г/л (0,78%), Mn-14,7 г/л (1,13%), Mo-0,08 г/л (0,01%), Zn-14,3 г/л (1,1%), Ti-0,2 г/л (0,02%)</td>
 <td>1 340</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>248</td>
+<td>271</td>
 <td>Агрохимикат ФЕРТИКС (марка Б)</td>
 <td>N-210 г/л (16,15%), MgO-25 г/л (1,92%), SO3-26,2 г/л (0,02%), Cu-3,9 г/л (0,3%), Fe-4,5 г/л (0,35%), Mn-8,8 г/л (0,68%), Mo-0,08 г/л (0,01%), Zn-7,8 г/л (0,6%), Ti-0,2 г/л (0,02%), В-7,8 г/л (0,6%), Na2O-37,5 г/л (2,88%)</td>
 <td>1 340</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>249</td>
+<td>272</td>
 <td>Азотное удобрение coten</td>
 <td>N-42, N-NH2-42</td>
 <td>1 325 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>250</td>
+<td>273</td>
 <td>Азотно-фосфорное серосодержащее удобрение, марки SiB (модифицированное минеральное удобрение)</td>
 <td>N-20, P-20, S-14, Bacillus subtilis Ч-13-1,7*10^5КОЕ/г</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>251</td>
+<td>274</td>
 <td>Азот-фосфор-сера содержащее удобрение (NPS-удобрение) марки А, Б, В, порошковидное</td>
 <td>NH4-н.м.-6,0, P2O5-11.0, SO3-15.0, CaO-14.0, MgO-0.25</td>
 <td>101 475</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>252</td>
+<td>275</td>
 <td>Азофоска</td>
 <td>N-27±1, P2O5-6, K2O-6, S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>253</td>
+<td>276</td>
 <td>Азофоска (нитроаммофоска) марки NPK (MOP) 16:16:16</td>
 <td>N-16, P-16, K-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>254</td>
+<td>277</td>
 <td>АМИНОМАКС 30</td>
 <td>Общий азот (N): 9%, органический азот (N): 9%, свободные аминокислоты: 30%</td>
 <td>3 835</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>255</td>
+<td>278</td>
 <td>Аминомакс овощной</td>
 <td>Общий азот 2%,Органический азот 2%, Фульвокислоты 20%, Свободные кислоты 6%, Общий гумусный экстракт 20%</td>
 <td>3 835</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>256</td>
+<td>279</td>
 <td>Аммиак безводный сжиженный</td>
 <td>N-82%</td>
 <td>104 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>257</td>
+<td>280</td>
 <td>Аммиак безводный сжиженный</td>
 <td>Аммиак-99,6-99,9</td>
 <td>104 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>258</td>
+<td>281</td>
 <td>Аммиак безводный сжиженный марки Ак</td>
 <td>N-82</td>
 <td>104 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>259</td>
+<td>282</td>
 <td>Аммиачная селитра, марки Б</td>
 <td>N34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>260</td>
+<td>283</td>
 <td>Аммоний кальций нитрат</td>
 <td>N-15,5, CaO-26,6</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>261</td>
+<td>284</td>
 <td>Аммоний кальций нитрат марки А Премиум</td>
 <td>N-15.5%, CaO-26.6%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>262</td>
+<td>285</td>
 <td>Аммоний кальций нитрат марки, В</td>
 <td>N-15.5%, Cao-26.6%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>263</td>
+<td>286</td>
 <td>Аммоний кальций нитрат марки, Д</td>
 <td>N-15.5%, CaO-26.6%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>264</td>
-<td>Аммофос</td>
-<td>N-10, P-46</td>
-<td>100 000</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>265</td>
-<td>Аммофос</td>
-<td>N-12, P-52</td>
-<td>100 000</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>266</td>
+<td>287</td>
 <td>Аммофос</td>
 <td>N-10-12, P-46-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>267</td>
+<td>288</td>
+<td>Аммофос</td>
+<td>N-12, P-52</td>
+<td>100 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>289</td>
+<td>Аммофос</td>
+<td>N-10, P-46</td>
+<td>100 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>290</td>
 <td>Аммофос 12:52, марки Sib (модифицированное минеральное удобрение)</td>
 <td>N-12, P2O5-52, Bacillus subtilis Ч-13-5*10^4КОЕ/г</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>268</td>
+<td>291</td>
 <td>Аммофос 12:52+B</td>
 <td>N-12, P-52, B-0,03</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>269</td>
+<td>292</td>
 <td>АММОФОС 12:52+BMZ</td>
 <td>N-12, P2O5-52, B-0,018, Mn-0,030, Zn-0,060</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>270</td>
+<td>293</td>
 <td>Аммофос 12:52+BMZ(aa)</td>
 <td>N-12, P2O5-52, B-0,015, Mn-0,001, Zn-0,025, массовая доля свободных аминокислот-0,125</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>271</td>
+<td>294</td>
 <td>АММОФОС 12:52+Zn</td>
 <td>N-12, P2O5-52, Zn-0,21</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>272</td>
+<td>295</td>
 <td>Аммофос 12-52</td>
 <td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>273</td>
+<td>296</td>
 <td>Аммофос без добавок и с добавками микроэлементов</td>
 <td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>274</td>
+<td>297</td>
 <td>Аммофос без добавок микроэлементов</td>
 <td>N-10-12, P-46-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>275</td>
+<td>298</td>
 <td>Аммофос высший сорт</td>
 <td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>276</td>
+<td>299</td>
 <td>Аммофос марка 10-46</td>
 <td>N-10, P-46</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>277</td>
+<td>300</td>
+<td>Аммофос марка 12:52</td>
+<td>N-12, P-52</td>
+<td>100 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>301</td>
 <td>Аммофос марка 12-52</td>
 <td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>278</td>
+<td>302</td>
+<td>Аммофос марка 12-52</td>
+<td>N-12, P2O5-52</td>
+<td>100 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>303</td>
 <td>Аммофос марки 10:33</td>
 <td>N-10%, P-33%</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>279</td>
+<td>304</td>
 <td>Аммофос марки 10:36</td>
 <td>N-10, P-36</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>280</td>
+<td>305</td>
 <td>Аммофос марки 10:39</td>
 <td>N-10, P-39</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>281</td>
+<td>306</td>
 <td>Аммофос марки 11:42</td>
 <td>N-11, P-42</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>282</td>
+<td>307</td>
 <td>Аммофос марки 12:52</td>
 <td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>283</td>
-<td>Аммофос Плюс марка А</td>
-<td>N-12%, P-52%</td>
+<td>308</td>
+<td>Аммофос марки 12-52</td>
+<td>N-12, P-52</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>284</td>
+<td>309</td>
+<td>Аммофос Плюс марка А</td>
+<td>N-12%, P-52%</td>
+<td>100000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>310</td>
 <td>Бесхлорное комплексное минеральное удобрение Yara Mila Complex 12-11-18</td>
 <td>N-12, P2O5-11, K2O-18, MgO-2,7, SO3-20, B-0,015, Mn-0,02, Zn-0,02</td>
 <td>500 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>285</td>
+<td>311</td>
 <td>БИГУС</td>
 <td>25 г/л по кислоте гуминовых кислот калиевые соли (фульвовые кислоты, флавоноиды, фитостерины,каротиноиды, аминокислоты, витамины, гумины, липиды, наноразмерный углерод)</td>
 <td>1 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>286</td>
+<td>312</td>
 <td>Водорастворимое NPK удобрение марки: 12:8:31+2MgO+МЭ</td>
 <td>N-12, P-8, K-31+2MgO+МЭ</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>287</td>
+<td>313</td>
 <td>Водорастворимое NPK удобрение марки: 12:8:31+2MgO+МЭ</td>
 <td>N-12, P-8, K-31, MgO-2, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>288</td>
+<td>314</td>
 <td>Водорастворимое NPK удобрение марки: 13:40:13+ МЭ</td>
 <td>N-13, P-40, K-13 + МЭ</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>289</td>
+<td>315</td>
 <td>Водорастворимое NPK удобрение марки: 13:40:13+МЭ</td>
 <td>N-13, P-40, K-13, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>290</td>
+<td>316</td>
 <td>Водорастворимое NPK удобрение марки: 15:15:30 +1,5 MgO +МЭ</td>
 <td>N-15, P-15, K-30, MgO-1,5, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>291</td>
+<td>317</td>
 <td>Водорастворимое NPK удобрение марки: 18:18:18 +3MgO+МЭ</td>
 <td>N-18, P-18, K-18, MgO-3, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>292</td>
+<td>318</td>
 <td>Водорастворимое NPK удобрение марки: 20:20:20+МЭ</td>
 <td>N-20, P-20, K-20, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>293</td>
-<td>Водорастворимое NPK удобрение марки: 3:11:38+3MgО+МЭ</td>
-<td>N-3, P-11, K-38, MgO-2, B-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>294</td>
+<td>319</td>
 <td>Водорастворимое NPK удобрение марки: 3:11:38+3MgО+МЭ</td>
 <td>N-3, P-11, K-38 + 3MgO + МЭ</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>295</td>
+<td>320</td>
+<td>Водорастворимое NPK удобрение марки: 3:11:38+3MgО+МЭ</td>
+<td>N-3, P-11, K-38, MgO-2, B-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>321</td>
 <td>Водорастворимое NPK удобрение марки: 6:14:35+2MgO+МЭ</td>
 <td>N-6, P-14, K-35, MgO-2, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>296</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-12%, P-12%, K-35%, MgO-1,0%, S-0,7%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>297</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-13%, P-41%, K-13%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>298</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-18%, P-18%, K-18%, MgO-2,0%, S-1,5%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>299</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-20%, P-20%, K-20%, MgO-1,7%, S-1,5%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>300</td>
+<td>322</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
 <td>N-3%, P-11%, K-38%, MgO-3,0%, S-9,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>301</td>
+<td>323</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-6%, P-12%, K-36%, MgO-2,0%, S-4,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>N-13%, P-41%, K-13%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>302</td>
+<td>324</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
 <td>N-20%, P-8%, K-8%, MgO-1,5 %, S - 9,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>303</td>
+<td>325</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-19%, P-6%, K-20%, MgO-1,5%, S-1,4%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА) - 0,042%, Мо-0,004%, В-0,02%</td>
+<td>N-12%, P-12%, K-35%, MgO-1,0%, S-0,7%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>304</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-13%, P-5%, K-25%, MgO-2,0%, S-8,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>305</td>
-<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
-<td>N-15%, P-5%, K-30%, MgO-1,7%, S-1,3%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>306</td>
+<td>326</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
 <td>N-14%, P-10%, K-28%, MgO-2,5%, S-1,5%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>307</td>
+<td>327</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-18%, P-18%, K-18%, MgO-2,0%, S-1,5%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>328</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-15%, P-5%, K-30%, MgO-1,7%, S-1,3%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>329</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-19%, P-6%, K-20%, MgO-1,5%, S-1,4%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА) - 0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>330</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-13%, P-5%, K-25%, MgO-2,0%, S-8,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>331</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-20%, P-5%, K-10%, MgO-1,5%, S-8,4%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>332</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-20%, P-20%, K-20%, MgO-1,7%, S-1,5%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>333</td>
+<td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
+<td>N-6%, P-12%, K-36%, MgO-2,0%, S-4,0%, Fe (ДТПА)-0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>334</td>
 <td>Водорастворимое комплексное минеральное удобрение «Акварин» марки с 1 по 16</td>
 <td>N-7%, P-11%, K-30%, MgO-4,0%, S-3,0%, Fe (ДТПА)- 0,054%, Zn (ЭДТА)-0,014%, Cu (ЭДТА)-0,01%, Mn (ЭДТА)-0,042%, Мо-0,004%, В-0,02%</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>308</td>
+<td>335</td>
 <td>Водорастворимое удобрение NPK 12-5-40+TE</td>
 <td>N -12%, P-5%, K-40%, Mg-0,20%, S-0,19%, Fe(EDTA)-0,10%Mn(EDTA)-0,05%, Zn-(EDTA)-0,012%, Сu(EDTA)-0,012%, B0,045%,Mo-0,056%</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>309</td>
+<td>336</td>
 <td>Водорастворимое удобрение NPK 15-7-30+TE</td>
 <td>N -15%, P-7%, K-30%, Mg-0,20%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn-(EDTA)-0,012%, Сu(EDTA)-0,012%, B-0,045%,Mo-0,056%</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>310</td>
+<td>337</td>
 <td>Водорастворимое удобрение NPK 19-19-19+TE</td>
 <td>N -19%, P-19%, K-19%, Mg-0,10%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,015%, Сu(EDTA)-0,012%, B0,02%, Mo-0,07%</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>311</td>
+<td>338</td>
 <td>Водорастворимые NPK удобрение, марки 12:8:31+2MgO+MЭ</td>
 <td>N-12, P-8, K-31, MgO-2, В-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>312</td>
+<td>339</td>
 <td>Водорастворимые NPK удобрения марки: 13:40:13+МЭ</td>
 <td>N-13, P-40, K-13, S-1,3, B-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>313</td>
+<td>340</td>
 <td>Водорастворимые NPK удобрения марки: 18:18:18+3MgO+МЭ</td>
 <td>N-18, P-18, K-18, S-2,5, MgO-3, B-0,02, Cu-0,005, Mn-0,05, Zn-0,01, Fe-0,07, Mo-0,0064</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>314</td>
+<td>341</td>
 <td>Водорастворимые NPK удобрения марки: 3:11:38+3MgO+МЭ</td>
 <td>N-3, P-11, K-38, MgO-3, В-0,025, Cu-0,01, Mn 0,05, Zn-0,025, Fe-0,07, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>315</td>
-<td>Водорастворимые комплексные минеральные удобрения «Акварин»</td>
-<td>3:11:38+3,0+9,0 (N:P:K+MgO+S+м/э)</td>
-<td>343 750</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>316</td>
+<td>342</td>
 <td>Водорастворимые комплексные минеральные удобрения «Акварин»</td>
 <td>20:20:20+1,7+1,5 (N:P:K+MgO+S+м/э)</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>317</td>
+<td>343</td>
+<td>Водорастворимые комплексные минеральные удобрения «Акварин»</td>
+<td>3:11:38+3,0+9,0 (N:P:K+MgO+S+м/э)</td>
+<td>343 750</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>344</td>
 <td>Водорастворимые комплексные минеральные удобрения «Акварин»</td>
 <td>13:41:13+0+0 (N:P:K+MgO+S+м/э)</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>318</td>
+<td>345</td>
 <td>Гидрогель полиэликтролитный, модифицированный микроэлементами,- &quot;ГИСИНАР-М&quot;</td>
 <td>прилипатель (полимер проп-2-еновой кислоты с проп-2- енамидом натриевая соль) - 30-50%, микроэлементы и макроэлементы в хелатной форме - B - 1,3%, Zn - 1,3%, Cu - 1,3%, N - 3,77%, S - 2,475%</td>
 <td>3 080</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>319</td>
+<td>346</td>
 <td>грос Здоровье</td>
 <td>L-α-аминокислоты -8%, фитогормоны-75 ppm</td>
 <td>5 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>320</td>
+<td>347</td>
 <td>ГРОС Квицелиум</td>
 <td>Fe-2,4, Mn-0,6, B-0,24, Zn-0,6, Cu-0,6, Mo-0,02, L-a-aминокислоты-7,5</td>
 <td>5 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>321</td>
+<td>348</td>
 <td>ГРОС Корнерост</td>
 <td>N-3, P2O5 (фосфит) -5, K2O-3, L-a-aминокислоты-3, фитогормоны-22 ррm</td>
 <td>3 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>322</td>
+<td>349</td>
 <td>ГРОС Фосфито -NP</td>
 <td>N-30, P2O5 (фосфит) -60</td>
 <td>3 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>323</td>
+<td>350</td>
 <td>Гумат Актив</td>
 <td>гуминовые кислоты 12%, фульвокислоты 2%, органические низкомолекулярные кислоты</td>
 <td>1 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>324</td>
+<td>351</td>
 <td>Гумат Калия</td>
 <td>K2O-12</td>
 <td>800</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>325</td>
+<td>352</td>
 <td>Гумат калия &quot;Суфлер&quot; марки: ВР 20%</td>
 <td>гумат-40%, К2О-3,0</td>
 <td>660</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>326</td>
+<td>353</td>
+<td>Гумат Калия Гумигрейн Эко Органик</td>
+<td>N-1,2%; P2O5-0,5%; K2O-3%; органические вещества-4,0-7,0; углеводы-3,5-5,5%</td>
+<td>660</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>354</td>
+<td>Гумат Калия Силазем Эко Органик</td>
+<td>N-1,2%; P2O5-0,5%; K2O-3; органические вещества-4,0-7,0%; углеводы-3,5-5,5%</td>
+<td>660</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>355</td>
 <td>Жидкое азотное удобрение марки КАС-32</td>
 <td>N-32</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>327</td>
+<td>356</td>
 <td>Жидкое борное удобрение «BORON»</td>
 <td>N-4, B-9</td>
 <td>1 786</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>328</td>
+<td>357</td>
 <td>Жидкое комплексное микроудобрение «Silver Mix»</td>
 <td>Серебро (Ag)-0,3±0,1; Азот (N)-0,46±0,1; Бор (B)-0,33±0,1; Медь (Cu)-0,45±0,1; Цинк (Zn)-0,8±0,3; Марганец (Mn)-0,8±0,2; Молибден (Mo)-0,1±0,04; Кобальт (Co)-0,03±0,01</td>
 <td>5 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>329</td>
+<td>358</td>
 <td>Жидкое комплексное микроудобрение «Зеромикс»</td>
 <td>Ag-0,3; B-0,33; Cu-0,45; Zn-0,8; Mn-0,8; Mo-0,1; Co-0,03</td>
 <td>7 102</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>330</td>
+<td>359</td>
 <td>Жидкое комплексное минеральное удобрение «Волски Микрокомплекс» марки «Микромак»</td>
 <td>Cu-2,87, Zn-2,62, MgO-1,85, Ni-0,013, Li-0,043, Co-0,19, Fe-0,36, Mn-0,255, SО3-11,12, К2O-3,25, Cr-0,088, Mo-0,54, B-0,35, V-0,076, Se-0,01, Р2О5-0,407, N-4,22</td>
 <td>2 541</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>331</td>
+<td>360</td>
 <td>Жидкое комплексное минеральное удобрение «Волски Микрокомплекс» марки «Микроэл»</td>
 <td>Cu-0,57, Zn-1,21, MgO-1,307, Ni-0,006, Li-0,037, Co-0,075, Fe-0,27, Mn-0,31, SО3-5,86, K2O-0,028, Mo-0,12, B-0,14, N-0,47</td>
 <td>2 925</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>332</td>
+<td>361</td>
 <td>Жидкое комплексное минеральное удобрение «Волски Микрокомплекс» марки «Экомак»</td>
 <td>N-2,0, Р2О5-4,0, К2О-2,0, МgO-0,8, SO3-4,1, Zn-0,99, Cu-0,96, Mo-0,10, Mn-0,62, Co-0,19, Fe-0,23, B-0,39</td>
 <td>2 486</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>333</td>
+<td>362</td>
 <td>Жидкое комплексное минеральное удобрение «Страда» марки «Страда N»</td>
 <td>N-24,0, P2O5-1,7, K2O-2,3, SO3-1,4, MgO-0,12, Mn-0,06, Zn-0,11, В-0,016, Mo-0,04, Fe-0,028, Cu-0,05, Co-0,008, Se-0,0015</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>334</td>
+<td>363</td>
 <td>Жидкое комплексное минеральное удобрение «Страда» марки «Страда К»</td>
 <td>N-3,9, P2O5-4,7, K2O-11,0, SO3-3,4, Mn-0,21, Zn-0,0048, В-0,01, Mo-0,001, Fe-0,016, Cu-0,0048, Co-0,001, Se-0,001</td>
 <td>1 625</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>335</td>
+<td>364</td>
 <td>Жидкое комплексное минеральное удобрение «Страда» марки «Страда Р»</td>
 <td>N-5,0, P2O5-18,0, K2O-4,8, SO3-0,9, MgO-0,19, Mn-0,057, Zn-0,17, В-0,02, Mo-0,055, Fe-0,08, Cu-0,08, Co-0,01, Se-0,0016</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>336</td>
+<td>365</td>
 <td>Жидкое комплексное удобрение (ЖКУ)</td>
 <td>N-11, Р-37</td>
 <td>133 929</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>337</td>
+<td>366</td>
 <td>Жидкое микроудобрение «Волски Моноформы» марки «Волски Моно-Цинк»</td>
 <td>Zn-5,8, N-4,7, P2O5-1,9</td>
 <td>2 555</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>338</td>
+<td>367</td>
 <td>Жидкое минеральное удобрение «Волски Моноформы» марки «Волски Моно-Бор»</td>
 <td>B-9,0, N-4,0</td>
 <td>3 010</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>339</td>
+<td>368</td>
 <td>Жидкое минеральное удобрение «ЕВРО КАС+S»</td>
 <td>N-29-31</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>340</td>
-<td>Жидкое минеральное удобрение «ЕВРО КАС+S»</td>
-<td>N- 27-29</td>
-<td>71 766</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>341</td>
+<td>369</td>
 <td>Жидкое минеральное удобрение «ЕВРО КАС+S»</td>
 <td>N-31-33</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>342</td>
+<td>370</td>
+<td>Жидкое минеральное удобрение «ЕВРО КАС+S»</td>
+<td>N- 27-29</td>
+<td>71 766</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>371</td>
 <td>Жидкое минеральное удобрение «ЗероМаксФос»</td>
 <td>Р2О5 - 3,7%, К2О - 5,8%, Mo-0,13%, Se-0,043 мг/дм3, коллоидное серебро 500 мг/л+полигексаметиленбигуанид гидрохлорида 100 мг/л</td>
 <td>4 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>343</td>
+<td>372</td>
 <td>Жидкое минеральное удобрение «ЗероМаксФос»</td>
 <td>K2O-5,8%, P2O5-3,7%, Ag-500+/-50, Mo-0,13%, Se-0,043%, полигексаметиленбигуанидгидрохлорид≤500мг/л, нитрат серебра≥0,11%, молибдат аммония-0,09%</td>
 <td>4 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>344</td>
-<td>Жидкое минеральное удобрение Лайф Бор</td>
-<td>N-37,1, P-45,5, K-109,2,Mg-3,5, S-31,5, В-0,02, Fe-0,42, Cu-0,84, Zn-0,56, Mn-0,56, Mo-0,105, Co-0,14, Se-0,021, B-0,14</td>
-<td>1 495</td>
+<td>373</td>
+<td>Жидкое минеральное удобрение АКТИВ марки: Азот</td>
+<td>N-20,03, P-2,05, K-2,87, Mg-0,80, Fe-0,8, S-3,07, B-0,05, Cu-0,20, Zn-0,25, Mn-0,05, Mo-0,08, Co-0,04, Se-0,01</td>
+<td>1935</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>345</td>
+<td>374</td>
+<td>Жидкое минеральное удобрение АКТИВ марки: Бор</td>
+<td>N-3,85, B-11,5</td>
+<td>2002</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>375</td>
+<td>Жидкое минеральное удобрение АКТИВ марки: Рост</td>
+<td>N-6,6, P-5,86, K-0,84, Mg-3,19, Fe-0,34, S-9,07, Cu-1,68, Zn-2,09, Mn-0,34, Mo-0,17, Co-0,09, Ni-0,01</td>
+<td>1935</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>376</td>
+<td>Жидкое минеральное удобрение АКТИВ марки: Семена</td>
+<td>N-6,41, P-4,18, K-3,44, Mg-1,98, Fe-0,23, S-7,45, B-0,30, Cu-1,99, Zn-1,99, Mn-0,25, Mo-0,43, Co-0,13, Ni-0,01, L-0,03, Se-0,01, Cr-0,05, V-0,06</td>
+<td>2002</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>377</td>
+<td>Жидкое минеральное удобрение АКТИВ марки: Фосфор</td>
+<td>N-4,6, P-20,40, K-4,60, Mg-0,17, Fe-0,77, S-0,850, B-0,02, Cu-0,77, Zn-0,17, Mn-0,05, Co-0,01</td>
+<td>2672</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>378</td>
 <td>Жидкое минеральное удобрение Лайф Бор</td>
 <td>B-150; N-50</td>
 <td>1 495</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>346</td>
+<td>379</td>
+<td>Жидкое минеральное удобрение Лайф Бор</td>
+<td>N-37,1, P-45,5, K-109,2,Mg-3,5, S-31,5, В-0,02, Fe-0,42, Cu-0,84, Zn-0,56, Mn-0,56, Mo-0,105, Co-0,14, Se-0,021, B-0,14</td>
+<td>1 495</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>380</td>
 <td>Жидкое минеральное удобрение ЛАЙФ марки: Азот Плюс</td>
 <td>Азот общий 171,07 г/л, Фосфор 17,5 г/л, Магний 6,79 г/л, Железо 0,7 г/л, Сера 26,95 г/л, Бор 0,42 г/л, Медь 1,68 г/л, Цинк 2,17 г/л, Марганец 0,42 г/л, Молибден 0,7 г/л, Кобальт 0,35 г/л, Селен 0,35 г/л</td>
 <td>1 345</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>347</td>
+<td>381</td>
 <td>Жидкое минеральное удобрение ЛАЙФ марки: Бобовые</td>
 <td>Азот общий 94,25 г/л, Фосфор 28 г/л, Калий 28 г/л, Магний 28,7 г/л, Железо 0,87 г/л, Бор 1,96 г/л, Сера 26,25 г/л, Медь 0,98 г/л, Цинк 19,6 г/л, Марганец 24,5 г/л, Молибден 7,35 г/л, Кобальт 0,39 г/л</td>
 <td>1 845</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>348</td>
+<td>382</td>
 <td>Жидкое минеральное удобрение ЛАЙФ марки: Калий</td>
 <td>Азот 37,1 г/л, Фосфор 45,5 г/л, Калий 109,2 г/л, Магний 3,5 г/л, Железо 0,42 г/л, Медь 0,84 г/л, Цинк 0,56 г/л, Марганец 0,56 г/л, Молибден 0,105 г/л, Кобальт 0,14 г/л, Сера 31,5 г/л, Селен 0,021 г/л, Бор 0,14 г/л</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>349</td>
+<td>383</td>
 <td>Жидкое минеральное удобрение ЛАЙФ марки: Сера</td>
 <td>Магний 28 г/л, Сера 497 г/л</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>350</td>
+<td>384</td>
+<td>Жидкое органо- минеральное удобрение &quot;ПРОСТОР&quot; марки &quot;Азот&quot;</td>
+<td>N-30, K-4,2, S-2,5, P-2,5, Mg-0,5, Zn-0,30, Cu-0,20, Fe-0,10, Mo-0,10, B-0,05, Co-0,05, Mn-0,05, Se-0,05</td>
+<td>1985</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>385</td>
+<td>Жидкое органо-минеральное удобрение &quot;ПРОСТОР&quot; МАРКИ &quot;Бор&quot;</td>
+<td>B-10,9, Mo-0,5, Zn-0,10, Cu-0,10, Fe-0,10, Mn-0,10, N-0,5, гидролизат растительных белков-3</td>
+<td>2672</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>386</td>
+<td>Жидкое органо-минеральное удобрение &quot;ПРОСТОР&quot; марки &quot;Старт&quot;</td>
+<td>N-7,0, S-15,0, K-4,0, Cu-3,8, Zn-3,4, Mg-2,5, Mo-0,7, B-0,6, Fe-0,6, P-0,6, Mn-0,4, Co-0,2, Cr-0,12, V-0,09 Li-0,06, Ni-0,02, Se-0,02, гидролизат растительных белков-15,0</td>
+<td>2002</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>387</td>
+<td>Жидкое органо-минеральное удобрение &quot;ПРОСТОР&quot; марки &quot;ФосфорКалий&quot;</td>
+<td>N-0,5, P-10, K-10, Zn-0,9, Cu-0,9, Mn-0,9, Fe-0,2, гидролизат растительных белков-10,0</td>
+<td>2672</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>388</td>
+<td>Жидкое органо-минеральные удобрение &quot;ПРОСТОР&quot; марки &quot;Сила&quot;</td>
+<td>N-4,0, S-9,5, P-7,0, Zn-2,5, Mg-2,3, Cu-2,0, K-1,0, Fe-0,4, Mn-0,40, Mo-0,20, Ni-0,006, гидролизат растительных белков-15</td>
+<td>1985</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>389</td>
 <td>Жидкое удобрение КАС+</td>
 <td>N-28-34, K2O-0,052, SO3-0,046, Fe-0,04</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>351</td>
+<td>390</td>
 <td>Калий сернокислый (сульфат калия) очищенный</td>
 <td>K2O-50 SO4-45</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>352</td>
+<td>391</td>
 <td>Калий сернокислый очищенный (сульфат калия)</td>
 <td>K2O-53,0 S-18,0</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>353</td>
-<td>Калий хлористый</td>
-<td>K-60</td>
-<td>113 839</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>354</td>
+<td>392</td>
 <td>Калий хлористый</td>
 <td>K2O-58-60</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>355</td>
+<td>393</td>
+<td>Калий хлористый</td>
+<td>K-60</td>
+<td>113 839</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>394</td>
 <td>Кальциевая селитра Abocol CN</td>
 <td>N-15,5, N-NO3-14,4, CaO-26,5</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>356</td>
+<td>395</td>
 <td>Карбамид</td>
 <td>N-46,2</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>357</td>
+<td>396</td>
 <td>Карбамид + BMZ(aa)</td>
 <td>N-46,2, B-0,015, Mn-0,001, Zn-0,025, массовая доля свободных аминокислот-0,125</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>358</td>
+<td>397</td>
 <td>Карбамид марки Б</td>
 <td>N-46,2</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>359</td>
-<td>Карбамид, марки SiB (модифицированное минеральное удобрение)</td>
-<td>N-46,2, Bacillus subtilis Ч-13, 2*10^5, КОЕ/г</td>
-<td>80 000</td>
+<td>398</td>
+<td>Карбамид, марка Б</td>
+<td>N-46,2</td>
+<td></td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>360</td>
+<td>399</td>
 <td>Карбамид, марки SiB (модифицированное минеральное удобрение)</td>
 <td>N-46,2</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>361</td>
+<td>400</td>
+<td>Карбамид, марки SiB (модифицированное минеральное удобрение)</td>
+<td>N-46,2, Bacillus subtilis Ч-13, 2*10^5, КОЕ/г</td>
+<td>80 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>401</td>
 <td>Карбамид+ВCMZ</td>
 <td>N-46,2, B-0,02, Cu-0,03, Mn-0,030, Zn-0,060</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>362</td>
+<td>402</td>
 <td>Карбамид+ВMZ</td>
 <td>N-46,2, B-0,018, Mn-0,030, Zn-0,060</td>
 <td>80 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>363</td>
+<td>403</td>
 <td>Кафом марки: Ca</td>
 <td>N-2,8%, P2O5-20%, K2O-5%, Ca-5%</td>
 <td>3 925</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>364</td>
+<td>404</td>
 <td>Кафом марки: Cu</td>
 <td>P2O5-15%, K2O-15%, Cu-1%</td>
 <td>4 100</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>365</td>
+<td>405</td>
 <td>Кафом марки: Mg</td>
 <td>P2O5-40%, MgO-10%</td>
 <td>5 326</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>366</td>
+<td>406</td>
 <td>Кафом марки: Zn</td>
 <td>P2O5-30%, K2O-5%, Zn-8,5%</td>
 <td>4 350</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>367</td>
+<td>407</td>
 <td>Компексное удобрение «Nutrimic Plus»</td>
 <td>N-10%, P2O5-5%, K2O-5%, MgO-3,5%, B-0,1%, Fe-3%, Mn-4%, Zn-6%</td>
 <td>2 679</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>368</td>
+<td>408</td>
 <td>Комплексное биоудобрение «БиоАзоФосфит»</td>
 <td>K-0,5, N-0,02, P-0,02, ростостимулирующие бактерии Raoultella spp и Serratia spp, не менее 2*10^9КОЕ/мл</td>
 <td>893</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>369</td>
+<td>409</td>
 <td>Комплексное удобрение &quot;Биомикол+&quot;</td>
 <td>Органические вещества (углеводы,аминокислоты)-не менее 4,5, калий-0,8, оксид магния-0,03, азот(общий)-0,45</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>370</td>
+<td>410</td>
 <td>Комплексное удобрение «Alginamin»</td>
 <td>N-12%, C-9,5%</td>
 <td>2 456</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>371</td>
+<td>411</td>
 <td>Комплексное удобрение «Ammasol»</td>
 <td>N-12%, SO3-65%</td>
 <td>2 947</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>372</td>
+<td>412</td>
 <td>Комплексное удобрение «Bio Kraft»</td>
 <td>N-7%, C-24%</td>
 <td>2 857</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>373</td>
+<td>413</td>
 <td>Комплексное удобрение «Biostim»</td>
 <td>N-1%, С-3%, аминокислота-6%</td>
 <td>25 670</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>374</td>
+<td>414</td>
 <td>Комплексное удобрение «Boramin»</td>
 <td>N-0,5%, B-10%</td>
 <td>1 384</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>375</td>
+<td>415</td>
 <td>Комплексное удобрение «Cabamin»</td>
 <td>N-0,5%, CaO-12%, B-3%</td>
 <td>1 741</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>376</td>
+<td>416</td>
 <td>Комплексное удобрение «Calvelox»</td>
 <td>CaO-12%</td>
 <td>893</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>377</td>
+<td>417</td>
 <td>Комплексное удобрение «Caramba»</td>
 <td>N-20%, C-11,4%</td>
 <td>759</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>378</td>
+<td>418</td>
 <td>Комплексное удобрение «Carmina»</td>
 <td>N-4%, C-20%</td>
 <td>2 232</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>379</td>
+<td>419</td>
 <td>Комплексное удобрение «Cerestart»</td>
 <td>Cu-6,2%, Mn-7%, Zn-7%</td>
 <td>4 125</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>380</td>
+<td>420</td>
 <td>Комплексное удобрение «Etidot 67»</td>
 <td>В - 21%</td>
 <td>981</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>381</td>
+<td>421</td>
 <td>Комплексное удобрение «Ferromax»</td>
 <td>N-0,5%, Fe-6%</td>
 <td>2 902</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>382</td>
+<td>422</td>
 <td>Комплексное удобрение «Ferrovit»</td>
 <td>N-0,5%, Fe-9%</td>
 <td>4 018</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>383</td>
+<td>423</td>
 <td>Комплексное удобрение «Folixir»</td>
 <td>N- 4%, P2O5 - 8%, K2O - 16%,Mg - 2%, B- 0,02%, Cu - 0,05%, Fe- 0,1%, Mn - 0,05%, Mo-0,005%, Zn - 0,1%</td>
 <td>2 098</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>384</td>
+<td>424</td>
 <td>Комплексное удобрение «Fosiram»</td>
 <td>P2O5 - 35%, K2O - 20%, MgO-3%, Cu - 12%</td>
 <td>3 014</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>385</td>
+<td>425</td>
 <td>Комплексное удобрение «Growbor»</td>
 <td>N-0,5%, В-17%</td>
 <td>848</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>386</td>
+<td>426</td>
 <td>Комплексное удобрение «Growcal»</td>
 <td>N-9%, CaO-18%</td>
 <td>603</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>387</td>
+<td>427</td>
 <td>Комплексное удобрение «Humika PLUS»</td>
 <td>N-0,8%</td>
 <td>1 429</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>388</td>
+<td>428</td>
 <td>Комплексное удобрение «Kalisol»</td>
 <td>К2О-25%, ЅО3-42%</td>
 <td>3 438</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>389</td>
+<td>429</td>
 <td>Комплексное удобрение «Micrall»</td>
 <td>MgO-9%, B-0,5%, Cu-1,5%,Fe-4%,Mn-4%, Mo-0,1%, Zn-1,5%</td>
 <td>2 259</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>390</td>
+<td>430</td>
 <td>Комплексное удобрение «Microlan»</td>
 <td>B-4%, Mn-0,5%, Zn-0,5%</td>
 <td>1 295</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>391</td>
+<td>431</td>
 <td>Комплексное удобрение «Nematan»</td>
 <td>N-2%, аминокислота-25%</td>
 <td>2 746</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>392</td>
+<td>432</td>
 <td>Комплексное удобрение «Polystim Global»</td>
 <td>N-8%, P2O5-11%, К2О-5%</td>
 <td>2 054</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>393</td>
+<td>433</td>
 <td>Комплексное удобрение «POTENCIA»</td>
 <td>N-10%, C-33%, L-аминокислота</td>
 <td>11 161</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>394</td>
+<td>434</td>
 <td>Комплексное удобрение «Sancrop»</td>
 <td>N-1%, C-26%</td>
 <td>5 402</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>395</td>
+<td>435</td>
 <td>Комплексное удобрение «Start-Up»</td>
 <td>N-6%, C-24%</td>
 <td>1 451</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>396</td>
+<td>436</td>
 <td>Комплексное удобрение «Vittafos Cu»</td>
 <td>N - 11%, P2O5 - 22%, Cu - 4%.</td>
 <td>1 965</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>397</td>
+<td>437</td>
 <td>Комплексное удобрение «Vittafos Mn»</td>
 <td>N - 3%, P2O5 - 30%, Mn- 7%</td>
 <td>2 009</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>398</td>
+<td>438</td>
 <td>Комплексное удобрение «Vittafos PK»</td>
 <td>P2O5-30%, K2O-20%</td>
 <td>1 965</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>399</td>
+<td>439</td>
 <td>Комплексное удобрение «Vittafos Zn»</td>
 <td>N - 3%, P2O5 - 33%, Zn -10%.</td>
 <td>2 121</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>400</td>
+<td>440</td>
 <td>Комплексное удобрение «Vittafos марок: NPK»</td>
 <td>N- 3%, P2O5 - 27%, K2O - 18%, B - 0,01%, Cu - 0,02%, Mn - 0,02%, Mo - 0,001%,Zn - 0,02%</td>
 <td>5 581</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>401</td>
+<td>441</td>
 <td>Комплексное удобрение «Vittafos марок: Plus»</td>
 <td>N - 2%, P2O5 - 27%, K2O - 6%</td>
 <td>2 009</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>402</td>
+<td>442</td>
 <td>Комплексное удобрение «Vittaspray»</td>
 <td>N-5%, P2O5-10%, K20-20%, CaO-1,5%, MgO-1,5%, B-1,5%, Cu-0,5%, Fe-0,1%, Mn-0,5%, Mo-0,2%, Zn-4%</td>
 <td>1 875</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>403</td>
+<td>443</td>
 <td>Комплексное удобрение «Биограно форте»</td>
 <td>Органические вещества – 2,14; Калий – 0,65; Оксид магния – 0,03; Натрий – 0,01; Фосфор – 0,002. Bacillus spp., и другие ростостимулирующие бактерии, КОЕ/мл не менее 2*10^9.</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>404</td>
+<td>444</td>
 <td>Комплексное удобрение «БиоЛип»</td>
 <td>Органические вещества (углеводы, аминокислоты)-не менее 5; калий-0,028; оксид магния-0,002; фосфор-0,015</td>
 <td>1 786</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>405</td>
+<td>445</td>
+<td>Комплексное удобрение «БиоЛип»</td>
+<td>Органические вещества (углеводы, аминокислоты) не менее-5%, Калий(K2O)-2,8%, Магний(Mg)-0,002%</td>
+<td>1 786</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>446</td>
 <td>Комплексное удобрение Folicare 10-5-40</td>
 <td>N-10%; P-5%; K-40%; Mg-0,9%; MgO-1,5%; S-4%; SO3-10,2%; B-0,02%; Cu-0,1%; Fe-0,2%; Mn-0,1%; Mo-0,01%; Zn-0,02%</td>
 <td>1 203 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>406</td>
+<td>447</td>
 <td>Комплексное удобрение Growfert марки «Magnesium Sulphate»</td>
 <td>МgО-16%, SО3-32%</td>
 <td>161</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>407</td>
+<td>448</td>
 <td>Комплексное удобрение Growfert марки: 18-44-0 (UP)</td>
 <td>N-18%, P2O5-44%</td>
 <td>424 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>408</td>
+<td>449</td>
 <td>Комплексное удобрение Growfert марок: 0-0-51 (SOP)</td>
 <td>K2O-51%, SO3-47%</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>409</td>
+<td>450</td>
 <td>Комплексное удобрение Growfert марок: 0-0-61 (KCl)</td>
 <td>K2O-61%</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>410</td>
+<td>451</td>
 <td>Комплексное удобрение Growfert марок: 0-40-40+Micro</td>
 <td>P2O5-40 %, K2O-40%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>411</td>
+<td>452</td>
 <td>Комплексное удобрение Growfert марок: 0-52-34 (MKP)</td>
 <td>P2O5-52%, K2O-34%</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>412</td>
+<td>453</td>
 <td>Комплексное удобрение Growfert марок: 0-60-20</td>
 <td>P2O5-60%, K2O-20%</td>
 <td>719</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>413</td>
+<td>454</td>
 <td>Комплексное удобрение Growfert марок: 11-0-0 + 15 MgO (MN)</td>
 <td>N-11%, MgO-15%</td>
 <td>228</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>414</td>
+<td>455</td>
 <td>Комплексное удобрение Growfert марок: 12-61-0 (МАР)</td>
 <td>N-12, P2O5-61</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>415</td>
+<td>456</td>
 <td>Комплексное удобрение Growfert марок: 13-0-46 (NOP)</td>
 <td>N-13, K2O-46</td>
 <td>357 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>416</td>
+<td>457</td>
 <td>Комплексное удобрение Growfert марок: 15-0-0 + 27 CaO (CN)</td>
 <td>N-15%, CaO-27%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>417</td>
+<td>458</td>
 <td>Комплексное удобрение Growfert+Micro марок 3-5-55</td>
 <td>N-3%, P2O5-5%, K2O-55%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>418</td>
+<td>459</td>
 <td>Комплексное удобрение Growfert+Micro марок: 10-52-10</td>
 <td>N-10%, P2O5-52%, K2O-10%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>419</td>
+<td>460</td>
 <td>Комплексное удобрение Growfert+Micro марок: 13-6-26+8 CaO</td>
 <td>N-13%, P2O5-6%, K2O-26%, CaO-8%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>420</td>
+<td>461</td>
 <td>Комплексное удобрение Growfert+Micro марок: 15-30-15</td>
 <td>N-15%, P2O5-30%, K2O-15%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>421</td>
+<td>462</td>
 <td>Комплексное удобрение Growfert+Micro марок: 15-5-30+2MgO</td>
 <td>N-15%, P2O5-5%, K2O-30%, MgO-2%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>422</td>
+<td>463</td>
 <td>Комплексное удобрение Growfert+Micro марок: 16-8-24+2MgO</td>
 <td>N-16%, P2O5-8%, K2O-24%, MgO-2%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>423</td>
+<td>464</td>
 <td>Комплексное удобрение Growfert+Micro марок: 18-18-18+1MgO</td>
 <td>N-18%, P2O5-18%, K2O-18%, MgO-1%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>424</td>
+<td>465</td>
 <td>Комплексное удобрение Growfert+Micro марок: 20-10-20</td>
 <td>N-20%, P2O5-10%, K2O-20%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>425</td>
+<td>466</td>
 <td>Комплексное удобрение Growfert+Micro марок: 20-20-20</td>
 <td>N-20%, P2O5-20%, K2O-20%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>426</td>
+<td>467</td>
 <td>Комплексное удобрение Growfert+Micro марок: 3-8-42</td>
 <td>N-3%, P2O5-8 %, K2O-42%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>427</td>
+<td>468</td>
 <td>Комплексное удобрение Growfert+Micro марок: 8-20-30</td>
 <td>N-8%, P2O5-20%, K2O-30%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>313</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>428</td>
+<td>469</td>
 <td>Комплексное удобрение NPK GOLD 12-12-36+TE</td>
 <td>N-12%, NH4-1,9, NO3-10,1, P2O5-12%, K2O-36%, MgO-1%, SO3-2,5%, B-0,025%, Cu-0,01%, Fe-0,07%, Mn-0,04%, Zn-0,025%, Mo-0,004%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>429</td>
+<td>470</td>
 <td>Комплексное удобрение NPK GOLD 13-40-13+TE</td>
 <td>N-13%, P2O5-40%, K2O-13%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>430</td>
+<td>471</td>
 <td>Комплексное удобрение NPK GOLD 15-5-30+TE</td>
 <td>N-15%, P2O5-5%, K2O-30%, MgO-2%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>431</td>
+<td>472</td>
 <td>Комплексное удобрение NPK GOLD 16-8-24+TE</td>
 <td>N-16%, P2O5-8%, K2O-24%, MgO-2%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>432</td>
+<td>473</td>
 <td>Комплексное удобрение NPK GOLD 18-18-18+TE+MgO</td>
 <td>N-18%, P2O5-18%, K2O-18%, MgO-1%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>433</td>
+<td>474</td>
 <td>Комплексное удобрение NPK GOLD 20-10-20+TE</td>
 <td>N-20%, P2O5-10%, K2O-20%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>434</td>
+<td>475</td>
 <td>Комплексное удобрение NPK GOLD 20-20-20+TE</td>
 <td>N-20%, P2O5-20%, K2O-20%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>435</td>
+<td>476</td>
 <td>Комплексное удобрение NPK GOLD 3-5-40+TE</td>
 <td>N-3%, P2O5-5%, K2O-40%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>436</td>
+<td>477</td>
 <td>Комплексное удобрение NPK MIRACLE 10-40-10+TE</td>
 <td>N-10%, P2O5-40%, K2O-10%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>437</td>
+<td>478</td>
 <td>Комплексное удобрение NPK MIRACLE 10-50-10+TE</td>
 <td>N-10%, P2O5-50%, K2O-10%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>438</td>
+<td>479</td>
 <td>Комплексное удобрение NPK MIRACLE 19-19-19+TE</td>
 <td>N-19%, P2O5-19%, K2O-19%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>625</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>439</td>
+<td>480</td>
 <td>Комплексное удобрение NPK PREMIUM 10-52-5+TE</td>
 <td>N-10%, P2O5-52%, K2O-5%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>700</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>440</td>
+<td>481</td>
 <td>Комплексное удобрение NPK PREMIUM 17-7-27+TE+MgO</td>
 <td>N-17%, P2O5-7%, K2O-27%, MgO-2%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>700</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>441</td>
+<td>482</td>
 <td>Комплексное удобрение NPK PREMIUM 21-21-21+TE</td>
 <td>N-21%, P2O5-21%, K2O-21%, B-0,01%, Cu-0,01%, Fe-0,02%, Mn-0,01%, Mo-0,005%, Zn-0,01%</td>
 <td>700</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>442</td>
+<td>483</td>
 <td>Комплексное удобрение Nutriland Plus Grain</td>
 <td>N-8%, P2O5-45%, K2O-10%, B-0,5%, Cu-0,5%, Fe-1%, Mn-1%, Mo-0,3%, Zn-1%</td>
 <td>1 127</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>443</td>
+<td>484</td>
 <td>Комплексное удобрение Биоконсорт, марки: Биоконсорт вегетация</td>
 <td>Свободные амин-ты, L-100; аминокислоты-125,0; pH-4,0; N-62,5; орг. в-ва-500; B-1,25; Mn-6,25; Zn-9,38; Fe-1,25; Cu-1,25; SO3-70,4; Co-0,25</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>444</td>
+<td>485</td>
 <td>Комплексное удобрение Биоконсорт, марки: Биоконсорт старт</td>
 <td>Свободные амин-ты, L-77,0; аминокислоты-106,6; Ph-7,0; N-35,5; орг. в-ва-355,2; экстракт морских водорослей-47,7</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>445</td>
+<td>486</td>
 <td>Комплексное удобрение МЕГАМИКС марки Азот</td>
 <td>N-15,0, S-0,70, MgO-0,50, Cu-0,20, Zn-0,20, Fe-0,10, Mn-0,08, B-0,07, Mo-0,05, Co-0,01, Se-0,05</td>
 <td>1 345</td>
-<td>литр</td>
+<td></td>
 </tr>
 <tr>
-<td>446</td>
+<td>487</td>
 <td>Комплексное удобрение МЕГАМИКС марки Профи</td>
 <td>N-0,50, K2О-0,01, S-2,50, MgO-1,30, Cu-0,60, Zn-1,20, Fe-0,30, Mn-0,30, B-0,15, Mo-0,40, Co-0,08, Cr-0,03, Ni-0,01, Se-0,01</td>
 <td>1 700</td>
-<td>литр</td>
+<td></td>
 </tr>
 <tr>
-<td>447</td>
+<td>488</td>
 <td>Комплексное удобрение МЕГАМИКС марки Семена</td>
 <td>N-5, P2О5-0,50, K2О-5, S-4,60, MgO-1,90, Cu-2,90, Zn-2,70, Fe-0,40, Mn-0,28, B-0,40, Mo-0,60, Co-0,25, Cr-0,05, Se-0,01, Ni-0,01</td>
 <td>1 719</td>
-<td>литр</td>
+<td></td>
 </tr>
 <tr>
-<td>448</td>
+<td>489</td>
 <td>Комплексные минеральные удобрения ФЕРТИМ (КМУ ФЕРТИМ) марки KMg (Fertim KMg 55:5)</td>
 <td>K2O-55, MgO-5</td>
 <td>150 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>449</td>
+<td>490</td>
 <td>Комплексные минеральные удобрения ФЕРТИМ (КМУ ФЕРТИМ) марки NPS (N-20, P-20 + S-14)</td>
 <td>N-20, P2О5-20, S-14</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>450</td>
+<td>491</td>
 <td>Комплексные минеральные удобрения ФЕРТИМ (КМУ ФЕРТИМ) марки NPS (N-9, P-14 + S-10)</td>
 <td>N-9, P2О5-14, S-10</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>451</td>
+<td>492</td>
 <td>Контролфит Cu</td>
 <td>Глюконат меди-6,5%</td>
 <td>3 237</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>452</td>
+<td>493</td>
 <td>Контролфит Si</td>
 <td>SiO - 17%, K - 7%</td>
 <td>2 845</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>453</td>
+<td>494</td>
 <td>Контролфит РК</td>
 <td>Р-30%, К-20%</td>
 <td>2 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>454</td>
+<td>495</td>
 <td>Кристалические хелатные удобрения Ультрамаг: «хелат Cu-15»</td>
 <td>Cu -15</td>
 <td>3 431</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>455</td>
+<td>496</td>
 <td>Кристалические хелатные удобрения Ультрамаг: «хелат Fe-13»</td>
 <td>Fe – 13</td>
 <td>3 431</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>456</td>
+<td>497</td>
 <td>Кристалические хелатные удобрения Ультрамаг: «хелат Zn-15 »</td>
 <td>Zn-15</td>
 <td>2 985</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>457</td>
+<td>498</td>
 <td>Лигногумат марки АМ</td>
 <td>гуминовые вещества-90, микроэлементы (K, S, Fe, Mn, Cu, Zn, Mo, Se, B, Co)-10</td>
 <td>3 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>458</td>
+<td>499</td>
 <td>Лигногумат марки АМ</td>
 <td>Соли гуминовых веществ-80,0-90,0%, K2O-9,0%, S-3,0%, Fe-0,01-0,20%, Mn-0,01-0,12%, Cu-0,01-0,12%, Zn-0,01-0,12%, Mo-0,005-0,015%, Se-0-0,005%, B-0,01-0,15%, Co-0,01-0,12%</td>
 <td>3 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>459</td>
+<td>500</td>
 <td>Лигногумат марки БМ</td>
 <td>гуминовые вещества-20, микроэлементы (K, S, Fe, Mn, Cu, Zn, Mo, Se, B, Co)-2</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>460</td>
+<td>501</td>
 <td>Магний сернокислый (сульфат магния)</td>
 <td>МgO-29,1-29,8, S-23</td>
 <td>225 446</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>461</td>
+<td>502</td>
 <td>Меристем марки K</td>
 <td>N-3%, K2O-31%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>462</td>
+<td>503</td>
 <td>Меристем марки Са</td>
 <td>N-9,7%, Ca-17%, свободные аминокислоты-2%</td>
 <td>2 135</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>463</td>
+<td>504</td>
 <td>Меристем марки: Ca-B</td>
 <td>Кальций водорастворимый (Са): 7% Бор водорастворимый (В): 1%</td>
 <td>6 370</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>464</td>
+<td>505</td>
 <td>Меристем микро mix</td>
 <td>Fe: 7.5% Mn: 3.5% Zn: 0.7% Cu: 0.28% B: 0.65% Mo: 0.3%</td>
 <td>5 255</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>465</td>
+<td>506</td>
 <td>Меристем микро Zn (ЭДТА) – 14%</td>
 <td>Zn-14%</td>
 <td>5 415</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>466</td>
+<td>507</td>
 <td>Меристем Микро Бор</td>
 <td>В: 21% Тетрагидрат октабората динатрия</td>
 <td>1 990</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>467</td>
+<td>508</td>
 <td>Микроудобрение «ES Bor»</td>
 <td>Бор-не менее 10,8%, азот-не менее 3%</td>
 <td>3 125</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>468</td>
+<td>509</td>
+<td>Микроудобрение Бином «Стимул»</td>
+<td>N-15 г/л; P-15 г/л; K-15 г/л; SO-120 г/л; MgO-16 г/л; Zn-25,1 г/л; Mo-2,6 г/л; Cu-20,1 г/л; Mn-6,5 г/л; B-1,9 г/л; Fe-2,6 г/л; L-аминокислоты-100 г/л</td>
+<td>2232</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>510</td>
+<td>Микроудобрение БИНОМ марки &quot;Гумилайн&quot;</td>
+<td>гуминовые кислоты не менее-60%; фульвовые кислоты не менее-15%; MgO-5 г/л; Zn-3 г/л; Mo-1 г/л; Cu-2 г/л; Mn-0,5 г/л; B-0,5 г/л; Fe-0,5 г/л; Co-0,05 г/л</td>
+<td>2232</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>511</td>
 <td>Микроудобрение жидкое универсальное «ВИ-АГРО»</td>
 <td>N-26,6-31,48%; MgO-2,8-3,48%; Fe-0,017-0,38%; SO3-0,22-2,07%; B-0,017-0,38%; Cu-0,017-0,38%; Zn-0,009-0,38%; Mn-0,24-1,014%; Co-0,002-0,008%; Mo-0,002-0,012%;</td>
 <td>990</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>469</td>
+<td>512</td>
 <td>Микроудобрение Микрополидок марки: Микрополидок Бор</td>
 <td>Азот (N)-5%, Mg-0,15%, B-15%, Mo-0,35%, Глутаминовая кислота-0,0002г/л</td>
 <td>5 434</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>470</td>
+<td>513</td>
 <td>Микроудобрение Микрополидок марки: Микрополидок Плюс</td>
 <td>Азот (N)-20%, Фосфор (P205)-12%, Калий (K2O)-10%, S-0,15%, Mg-0,11%, Fe (ЭДТА)-0,11%, Mn(ЭДТА)-0,06%, B-0,01%, Zn(ЭДТА)-0,02%, Сu(ЭДТА)-0,021%, Mo-0,05%, Co-0,002%, Глутаминовая кислота-0,0002г/л, L-аланин-0,0014г/л</td>
 <td>2 422</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>471</td>
+<td>514</td>
 <td>Микроудобрение Микрополидок марки: Микрополидок Цинк</td>
 <td>Азот (N)-15%, S-4%, Mg-1,6, Zn(ЭДТА)-12%, Глутаминовая кислота-0,0002 г/л, L-аланин-0,0014г/л</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>472</td>
+<td>515</td>
 <td>Микроудобрения Captan Cu</td>
 <td>N-3%, Cu-5,5%</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>473</td>
+<td>516</td>
 <td>Микроудобрения GUARD</td>
 <td>N-3%, Cu-5%</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>474</td>
+<td>517</td>
 <td>Микроудобрения Ideal AntiSalt</td>
 <td>N-0,5%, MgO-0,1%</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>475</td>
+<td>518</td>
 <td>Микроудобрения Ideal Boron</td>
 <td>N-0,5%, B-8,5%</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>476</td>
+<td>519</td>
 <td>Микроудобрения King Zn</td>
 <td>N-3%, Zn-14%</td>
 <td>1 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>477</td>
+<td>520</td>
 <td>Микроудобрения MICRO</td>
 <td>N-2,5%, B-0,8%, Cu-0,4%, Fe-4,5%, Mo-0,02%, Mn-2%, Zn-4,5%</td>
 <td>2 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>478</td>
+<td>521</td>
 <td>Микроудобрения ZNRAC</td>
 <td>N-0,5%, Zn-20%</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>479</td>
+<td>522</td>
 <td>Минеральное микроудобрение V-Agro (порошок в капсулах)</td>
 <td>Азот-5, фосфор-0,01, калий-0,01</td>
 <td>2 925</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>480</td>
+<td>523</td>
 <td>Минеральное удобрение «AGRI AMINO-L 39»</td>
 <td>N-6,6%</td>
 <td>2 400</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>481</td>
+<td>524</td>
 <td>Минеральное удобрение «AGRI ANTISALT»</td>
 <td>N-7%, Ca-13%</td>
 <td>1 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>482</td>
+<td>525</td>
 <td>Минеральное удобрение «AGRI B”</td>
 <td>N-3,2%, B-10%</td>
 <td>2 100</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>483</td>
+<td>526</td>
 <td>Минеральное удобрение «AGRI Cu»</td>
 <td>N-1%, Cu-7%</td>
 <td>2 100</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>484</td>
+<td>527</td>
 <td>Минеральное удобрение «AGRI FLOWER»</td>
 <td>N-3,5%, P2O5-10%, B-1%, Mo-0,5000%</td>
 <td>2 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>485</td>
+<td>528</td>
 <td>Минеральное удобрение «AGRI FULVO»</td>
 <td>N-3,7%, P2O5-1%, К2O-1%, SO3-6%</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>486</td>
+<td>529</td>
 <td>Минеральное удобрение «AGRI MO»</td>
 <td>N-3,2%, Mo-6,8100%, Fe-0,8400%</td>
 <td>5 400</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>487</td>
+<td>530</td>
 <td>Минеральное удобрение «AGRI N+»</td>
 <td>N-30%</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>488</td>
+<td>531</td>
 <td>Минеральное удобрение «AGRI P/K»</td>
 <td>P2O5-27,8%, К2O-19,2%</td>
 <td>3 900</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>489</td>
+<td>532</td>
 <td>Минеральное удобрение «AGRI-FOLIAR»</td>
 <td>N-5,2%, B-0,102%, SO2-3,6%, Mn-0,512%, Zn-0,816%, Mo-0,022%, Cu-0,100%, Fe-0,110%</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>490</td>
+<td>533</td>
 <td>Минеральное удобрение «AGRI-N»</td>
 <td>N-18,3%, Fe-0,1087%, Zn-0,1087%</td>
 <td>1 550</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>491</td>
+<td>534</td>
 <td>Минеральное удобрение «AGRI-PH»</td>
 <td>N-3,8%, P2O5-15,4%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>492</td>
+<td>535</td>
 <td>Минеральное удобрение «Biosol-K»</td>
 <td>K2O-15%, аминокислота - 50%, Mn-2%, Cu-0,5%, Mo-0,05%</td>
 <td>3 661</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>493</td>
+<td>536</td>
 <td>Минеральное удобрение «Biosol-N»</td>
 <td>N-15%, аминокислота-50%, B-1%, Zn-2%</td>
 <td>6 429</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>494</td>
+<td>537</td>
 <td>Минеральное удобрение «Biosol-P»</td>
 <td>P2O5-20%, аминокислота-10%, B-1%, Mn-1%, Zn-1%</td>
 <td>7 411</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>495</td>
+<td>538</td>
 <td>Минеральное удобрение «CHROMASTIM»</td>
 <td>N-3%, К2O-7%</td>
 <td>5 900</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>496</td>
+<td>539</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-10-30-10+ME»</td>
 <td>N-10%, P2O5-30%, К2O-10%, Fe-0,01%, Mn-0,025%, Zn-0,01%, Cu-0,03%, B-0,027%, Mo-0,003%</td>
 <td>2 450</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>497</td>
+<td>540</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-10-5-30+ME»</td>
 <td>N-10%, P2O5-5%, К2O-30%, SO3-20%, B-0,03%, Fe-0,01%, Mn-0,05%, Ca-0,05%, Zn-0,01%, Mo-0,01%</td>
 <td>2 450</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>498</td>
+<td>541</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-20-20-20+ME»</td>
 <td>N-20%, P2O5-20%, К2O-20%, Fe-0,03%, Mn-0,02%, Zn-0,01%, Cu-0,02%, B-0,03%, Mo-0,002%</td>
 <td>2 450</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>499</td>
+<td>542</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-FE-15»</td>
 <td>N-1%, К2O-1%, Fe-15%</td>
 <td>2 100</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>500</td>
+<td>543</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-K45»</td>
 <td>K-45%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>501</td>
+<td>544</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-MIX»</td>
 <td>К2O-1%, Fe-6,5%, Mn-6%, Zn-0,8%, Cu-0,7%, MgO-2,2%, B-0,9%, Mo-0,4%</td>
 <td>3 450</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>502</td>
+<td>545</td>
 <td>Минеральное удобрение «ECONATUR AGRI-GEL-ZN-80»</td>
 <td>К2O-1%, Zn-80%</td>
 <td>2 950</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>503</td>
+<td>546</td>
 <td>Минеральное удобрение «ECONATUR AGRI-SUPER-Ca»</td>
 <td>N-1%, CaO-30%</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>504</td>
+<td>547</td>
 <td>Минеральное удобрение «ECONATUR HD HIERRO»</td>
 <td>N-1%, К2O-1%, Fe-15%</td>
 <td>2 100</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>505</td>
+<td>548</td>
 <td>Минеральное удобрение «ECONATUR SUPERCALCIO»</td>
 <td>N-1%, CaO-30%</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>506</td>
+<td>549</td>
 <td>Минеральное удобрение «ECONATUR ULTRAPREMIUM-RAÍZ»</td>
 <td>N-1,02%, P2O5-3,1%, К2O-7,25%, B-0,11%, Fe-0,15%, Mo-0,21%, MgO-0,52%</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>507</td>
+<td>550</td>
 <td>Минеральное удобрение «Fertiroyal 5-30-20 + Micro»</td>
 <td>N-5%, P2O5-30%, K2O-20%, Mg-1%, B-1%, Cu-2%, Fe-1%, Mn-4%, Zn-5%, Mo-0,5%</td>
 <td>1 122</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>508</td>
+<td>551</td>
 <td>Минеральное удобрение «FOLIFOL»</td>
 <td>N-6%</td>
 <td>2 850</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>509</td>
+<td>552</td>
 <td>Минеральное удобрение «NS FORCE 60»</td>
 <td>N-11,7%, SO3-47,6%, B-0,0140%, Cu-0,0039%, Fe-0,0780%, Mn-0,0749%, Mo-0,0016%, Zn-0,0187%</td>
 <td>1 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>510</td>
+<td>553</td>
 <td>Минеральное удобрение «pH-BEST»</td>
 <td>N-26%, P2O5-3%</td>
 <td>603</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>511</td>
+<td>554</td>
 <td>Минеральное удобрение «PLANSTAR 10-45 + 7 SO3 + 1 FE + 0.6 MN + 0.5 ZN»</td>
 <td>N-10%, P2O5-45%, SO3-7%, Fe-1%, Mn- 0,6000%, Zn-0,5000%</td>
 <td>1 000</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>512</td>
+<td>555</td>
 <td>Минеральное удобрение «PLANSTAR 10-46 + 5 SO3 + 0.6 MN + 0.5 ZN»</td>
 <td>N-10%, P2O5-46%, SO3-5%, Mn-0,6000%, Zn-0,5000%</td>
 <td>950</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>513</td>
+<td>556</td>
 <td>Минеральное удобрение «PLANSTAR 8-25 + 17 SO3 + 4 FE»</td>
 <td>N-8%, P2O5-25%, SO3-17%, Fe-4%</td>
 <td>1 000</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>514</td>
+<td>557</td>
 <td>Минеральное удобрение «PLANTROOT»</td>
 <td>N-12%</td>
 <td>5 300</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>515</td>
+<td>558</td>
 <td>Минеральное удобрение Agrumax</td>
 <td>N-16%, P205-5%, MgO-5%, B-0,2%, Fe-2%, Mn-4%, Zn-4%</td>
 <td>2 009</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>516</td>
+<td>559</td>
 <td>Минеральное удобрение Algamina</td>
 <td>N-13%, P2O5-8%, K2O-21%, MgO-2%, Cu-0,08%, Fe-0,2%, Mn-0,1%, Zn-0,01%, C-17%</td>
 <td>2 322</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>517</td>
+<td>560</td>
 <td>Минеральное удобрение Aminostim</td>
 <td>N-14%, C-75%</td>
 <td>2 322</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>518</td>
+<td>561</td>
 <td>Минеральное удобрение BioStart</td>
 <td>N-3%, Р2О5-30%, Zn-7%</td>
 <td>2 009</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>519</td>
+<td>562</td>
 <td>Минеральное удобрение Curamin Foliar</td>
 <td>N-3%, Сu-3%, аминокислота-42%</td>
 <td>2 232</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>520</td>
+<td>563</td>
 <td>Минеральное удобрение Hordisan</td>
 <td>N-2%, Cu-5%, Mn-20%, Zn-10%</td>
 <td>2 121</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>521</td>
+<td>564</td>
 <td>Минеральное удобрение Kristalon Red 12-12-36</td>
 <td>N-12, NH4-1,9, NO3-10,1, P2O5-12, K2O-36, MgO-1, SO3-27,5, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>522</td>
+<td>565</td>
 <td>Минеральное удобрение Kristalon Special 18-18-18</td>
 <td>N-18, NH4-3,3, NO3-4,9, Nкарб- 9,8, P2O5-18, K2O-18, MgO-3, SO3-27,5, B-0,025, Cu-0,01, Fe- 0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>523</td>
+<td>566</td>
 <td>Минеральное удобрение Kristalon Yellow 13-40-13</td>
 <td>N-13, NH4-8,6, NO3-4,4, P2O5-40, K2O-13, B-0,025, Cu-0,01, Fe-0,07, Mn-0,04, Zn-0,025, Mo-0,004</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>524</td>
+<td>567</td>
 <td>Минеральное удобрение Nitrokal</td>
 <td>N-9%, CaO-10%, MgO-5%, Mo-0,07%</td>
 <td>2 009</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>525</td>
+<td>568</td>
 <td>Минеральное удобрение Phoskraft MKP</td>
 <td>P2O5-35%, K2O-23%</td>
 <td>2 232</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>526</td>
+<td>569</td>
 <td>Минеральное удобрение Sprayfert 312</td>
 <td>N-27%,P2O5-9%, K2O-18%,B-0,05%, Mn-0,1%, Zn-0,1%</td>
 <td>2 456</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>527</td>
+<td>570</td>
 <td>Минеральное удобрение Super K</td>
 <td>Р2О5-5%, К2О-40%</td>
 <td>3 884</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>528</td>
+<td>571</td>
 <td>Минеральное удобрение SWISSGROW Bioenergy</td>
 <td>N-7%, C-23%</td>
 <td>4 241</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>529</td>
+<td>572</td>
 <td>Минеральное удобрение SWISSGROW Fulvimax</td>
 <td>N-3%</td>
 <td>2 232</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>530</td>
+<td>573</td>
 <td>Минеральное удобрение SWISSGROW Phomazin</td>
 <td>N-3%, P2O5-30%, Mn-5%, Zn-5%</td>
 <td>6 473</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>531</td>
+<td>574</td>
 <td>Минеральное удобрение SWISSGROW Phoskraft Mn-Zn</td>
 <td>N-3%, P2O-30%, Mn-5%, Zn-5%</td>
 <td>2 232</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>532</td>
+<td>575</td>
 <td>Минеральное удобрение SWISSGROW Thiokraft</td>
 <td>N-10%, P2O5-15%, K2O - 5%, SO3-30%</td>
 <td>4 018</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>533</td>
+<td>576</td>
 <td>Минеральное удобрение Vigilax</td>
 <td>N-6%, C-23%</td>
 <td>2 277</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>534</td>
+<td>577</td>
+<td>Минеральное удобрение БИНОМ &quot;NPK 10:40:10&quot;</td>
+<td>N-100 г/л; P-400 г/л; K-100 г/л; SO-65 г/л; MgO-35 г/л; Zn-0,25 г/л; Mo-0,05 г/л; Cu-0,17 г/л; Mn-0,51 г/л; B-0,9 г/л; Fe-0,85 г/л; Co-0,05 г/л; Витамины (PP, C, B1, B6) 4ppm, Архидоновая кислота ppm</td>
+<td>1313</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>578</td>
 <td>Минеральное удобрение Изагри-К, марка Азот</td>
 <td>N-41,1, K-4,11, P-2,47, S-2,33, Vg-0,48, Zn-0,27, Cu-0,14, Mo-0,07, Fe-0,07, B-0,03, Mn-0,02, Se-0,03, Co-0,01</td>
 <td>1 983</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>535</td>
+<td>579</td>
 <td>Минеральное удобрение Изагри-К, марка Вита</td>
 <td>Zn-2,51, Cu-1,92, Mn-0,37, Mo-0,22, B-0,16, Fe-0,40, Co-0,11, Ni-0,006, N-3,20, K2О-0,06, SО3-9,34, MgО-2,28</td>
 <td>2 838</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>536</td>
+<td>580</td>
 <td>Минеральное удобрение Изагри-К, марка Калий</td>
 <td>K-15,2, P-6,6, N-6,6, NO3-2,5, S-4,6, Mn-0,33, Cu-0,12, Zn-0,07, Fe-0,07, Mo-0,07, B-0,01, Se-0,003, Co-0,001</td>
 <td>2 554</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>537</td>
+<td>581</td>
 <td>Минеральное удобрение Изагри-К, марка Форс Питание</td>
 <td>Аминокислоты-2, Nобщ-6,9, K2O-3,6, Mo-0,7, B-0,6, P2O5-0,6, Cr-0,1, V-0,09, Se-0,02</td>
 <td>2 640</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>538</td>
+<td>582</td>
 <td>Минеральное удобрение Изагри-К, марка Фосфор</td>
 <td>P-27,7, N-9,7, K-6,8, Mg-0,27, S-0,53, Zn-0,40, Cu-0,13, Fe-0,16, Mn-0,08, B-0,23, Mo-0,08, Co-0,02</td>
 <td>1 908</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>539</td>
+<td>583</td>
 <td>Минеральное удобрение Изагри-М, марка Бор</td>
 <td>B-12,32, Mo-1,0</td>
 <td>3 430</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>540</td>
+<td>584</td>
 <td>Минеральное удобрение Изагри-М, марка Форс Рост</td>
 <td>Zn-3,36, Cu-3,76, Mn-0,37,Fe-0,54, Mg-2,37, S-15,2, Mo-0,22, B-0,16, Co-0,23, Li-0,06, Ni-0,02</td>
 <td>2 640</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>541</td>
+<td>585</td>
 <td>Минеральное удобрение МЕГАМИКС – Магний-Цинк</td>
 <td>N-1,5, SО3-13,00, MgO-4,00, Zn-4,00</td>
 <td>1 650</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>542</td>
+<td>586</td>
 <td>Минеральное удобрение МЕГАМИКС – Сера</td>
 <td>N-0,30, K2O-1,85,SО3-35,00, MgO-1,8, Mo-0,01</td>
 <td>1 800</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>543</td>
+<td>587</td>
 <td>Минеральное удобрение МЕГАМИКС – Фосфор</td>
 <td>N-5,00, P2O5 -19, K2O-5,00, SО3-0,50, MgO-0,02, Mn-0,09, Cu-0,02, Zn-0,20, B-0,05, Mo-0,03</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>544</td>
+<td>588</td>
+<td>Минеральное удобрение МЕГАМИКС-Азот</td>
+<td>N-15,0, S-0,70, MgO-0,50, Cu-0,20, Zn-0,20, Fe-0,10, Mn-0,08, B-0,07, Mo-0,05, Co-0,01, Se-0,05</td>
+<td>1345</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>589</td>
 <td>Минеральное удобрение МЕГАМИКС-Бор</td>
 <td>N-5, B-10</td>
 <td>1 495</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>545</td>
+<td>590</td>
 <td>Минеральное удобрение МЕГАМИКС-Калий</td>
 <td>N-2,00, К2O-11,00, S-0,50, MgO-0,25, Cu-0,10, Zn-0,25, Fe-0,05, Mn-0,05, B-0,035, Mo-0,01, Co-0,015</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>546</td>
+<td>591</td>
+<td>Минеральное удобрение МЕГАМИКС-Профи</td>
+<td>N-0,50, K2О-0,01, S-2,50, MgO-1,30, Cu-0,60, Zn-1,20, Fe-0,30, Mn-0,30, B-0,15, Mo-0,40, Co-0,08, Cr-0,03, Ni-0,01, Se-0,01</td>
+<td>1700</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>592</td>
+<td>Минеральное удобрение МЕГАМИКС-Семена</td>
+<td>N-5, P2О5-0,50, K2О-5, S-4,60, MgO-1,90, Cu-2,90, Zn-2,70, Fe-0,40, Mn-0,28, B-0,40, Mo-0,60, Co-0,25, Cr-0,05, Se-0,01, Ni-0,01</td>
+<td>1719</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>593</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;NPK 10:40:10&quot;</td>
 <td>N-10%, P2O5-40%, K2O-10%,MgO-3,5%,SO3- 6,5 %, B-0,9 г/л, Zn-0,25 г/л, Mo-0,05 г/л, Co-0,05 г/л, Mn-0,51 г/л, Fe-0,85 г/л, Cu-0,17 г/л, + Арахидовая кислота-1 г/л, Витамины (РР,С,В1,В6)-4 г/л</td>
 <td>1 313</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>547</td>
+<td>594</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;NPK19:19:19&quot;</td>
 <td>N-19%, P2O5-19%, K2O-19%,MgO-3,5%,SO3- 6,5 %, B-0,9 г/л, Zn-0,25 г/л, Mo-0,05 г/л, Co-0,05 г/л, Mn-0,51 г/л, Fe-0,85 г/л, Cu-0,17 г/л, + Арахидовая кислота-1 г/л, Витамины (РР,С,В1,В6)-4 г/л</td>
 <td>1 098</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>548</td>
+<td>595</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Амбре-бор&quot;</td>
 <td>N-70г/л, В-150г/л, янтарная кислота-100 г/л</td>
-<td>2 143</td>
+<td>2143</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>549</td>
+<td>596</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Амино Комплекс&quot;</td>
 <td>N-55г/л, P2O5-25г/л, K2O-25г/л, MgO-15г/л, S-60 г/л, B-6 г/л, Zn-15 г/л, Mo-5г/л, Co-0,5 г/л, Mn-8.5 г/л, Fe-20 г/л, Cu-7 г/лб + комплекс L-аминокислот и олигопептидов -250 г/л</td>
 <td>3 911</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>550</td>
+<td>597</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Амино Медь-Марганец&quot;</td>
 <td>Cu 50 Mn 50 L-аминокислот и олигопептидов 150</td>
 <td>3 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>551</td>
+<td>598</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Амино Сидс&quot;</td>
 <td>N 125 P2O5 55 K2O 35 SO3 60 MgO*13,5 Zn*11 Mo 5 Cu*5 Mn* 8,5 B 2,5 Fe* 10 Co* 0,5 L-аминокислот и олигопептидов 200</td>
 <td>2 973</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>552</td>
+<td>599</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Амино&quot;</td>
 <td>L-аминокислот и олигопептидов *366</td>
 <td>4 688</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>553</td>
+<td>600</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Бобовые&quot;</td>
 <td>SO3 40 Mo 64 B 87 Co* 26 L-аминокислоты 100</td>
 <td>7 018</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>554</td>
+<td>601</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Бор&quot;</td>
 <td>N-70г/л, В-150г/л</td>
 <td>1 848</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>555</td>
+<td>602</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Бор-Молибден&quot;</td>
 <td>N-55 г/л, Mo-6,4 г/л, B-120 г/л+фульватно-гуматный комплекс 10 г/л</td>
 <td>2 036</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>556</td>
+<td>603</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Кальций-Бор&quot;</td>
 <td>Ca 150 B 15</td>
 <td>1 875</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>557</td>
+<td>604</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Старт&quot;</td>
 <td>SO3 120 MgO* 27 Zn*22 Mo 10 Cu* 10 Mn* 17 B 5 Fe* 20 Co* 0.05 L-аминокислоты 20 Фульватно-гуматный комплекс</td>
 <td>2 196</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>558</td>
+<td>605</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Стимул&quot;</td>
 <td>N 15 P2O5 15 K2O 15 SO3 120 MgO*16 Zn*25,1 Mo 2,6 Cu*20,1 Mn*6,5 B 1,9 Fe*2,6 L-аминокислоты 100</td>
 <td>2 196</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>559</td>
+<td>606</td>
 <td>Минеральное удобрение с микроэлементами Бином &quot;Фосфит-К&quot;</td>
 <td>P2O5* 422 K2O 281</td>
 <td>3 214</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>560</td>
+<td>607</td>
 <td>Минеральное удобрение с микроэлементами БИНОМ «Актив»</td>
 <td>N-426 г/л, P2O5-30 г/л, K2O-45 г/л, MgO-5 г/л, S-70 г/л, B-0,5 г/л, Zn-3,0 г/л, Mo-1,0 г/л, Co-0,05 г/л, Mn-0,5 г/л, Fe-0,5 г/л, Cu-2,0 г/л, +аминокислоты-3,9 г/л</td>
 <td>1 045</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>561</td>
+<td>608</td>
 <td>Минеральное удобрение с микроэлементами БИНОМ «Амбер»</td>
 <td>N-10,0 г/л, Zn-0,1 г/л, Cu-0,1 г/л, Mn-0,1 г/л, B-0,1 г/л, янтарная кислота-800 г/л</td>
 <td>4 688</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>562</td>
+<td>609</td>
 <td>Минеральное удобрение с микроэлементами БИНОМ «Квант»</td>
 <td>Тритерпеновые к-ты-10 г/л, L-Аминокислоты и олигопептиды-48 г/л, фульвовые к-ты - 30 г/л, янтарная к-та-20 г/л, арахидовая к-та-30 г/л, гуминовые к-ты - 150 г/л, Витамины(PP, C, B1, B6)-4,0 г/л, N-15 г/л, MgO-36,8 г/л, SO3-1,25 г/л, Zn- 1,0 г/л, Mn-0,5 г/л, Fe-2,2 г/л, Cu-1,0 г/л, CaO-26,0 г/л</td>
 <td>4 071</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>563</td>
+<td>610</td>
+<td>Минеральное удобрение с микроэлементами БИНОМ марки &quot;Амино Комплекс&quot;</td>
+<td>N-55 г/л; P2O5-25 г/л; K2O-25 г/л; SO3-60 г/л; MgO*-15 г/л; Zn*-15 г/л; Mo-5 г/л; Cu*-7 г/л; Mn*-8,5 г/л; B*-6 г/л; Fe*-20 г/л; Co*-0,5 г/л; L-Аминокислоты 250 г/л</td>
+<td>3911</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>611</td>
+<td>Минеральное удобрение с микроэлементами Бином марки &quot;Бор-Молибден (В-Мо)&quot;</td>
+<td>N-55 г/л; Mo-6,4 г/л; B-120 г/л; фульватно-гуматный комплекс-10%</td>
+<td>2036</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>612</td>
+<td>Минеральное удобрение сульфат аммония гранулированный марки B</td>
+<td>N-21%, S-24%</td>
+<td>48719</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>613</td>
 <td>Минеральное удобрение Ультрамаг Бор</td>
 <td>B-11, N-3,7</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>564</td>
+<td>614</td>
 <td>Моноаммонийфосфат</td>
 <td>N-12%, P2O5-61%</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>565</td>
+<td>615</td>
 <td>Моноаммонийфосфат водорастворимый</td>
 <td>N-l2±1, Р205-61±1</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>566</td>
+<td>616</td>
 <td>Моноаммонийфосфат водорастворимый кристаллический (МАР) марки N:P/12:61</td>
 <td>N-12, P-61</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>567</td>
+<td>617</td>
 <td>Моноаммонийфосфат водорастворимый кристаллический марки Б</td>
 <td>N 12 P 60</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>568</td>
+<td>618</td>
 <td>Моноаммонийфосфат очищенный</td>
 <td>N-12, P2O5-61</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>569</td>
+<td>619</td>
 <td>Моноаммонийфосфат специальный водорастворимый</td>
 <td>аммоний дигидрофосфат-98,0-99,5</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>570</td>
+<td>620</td>
 <td>Моноаммонийфосфат специальный водорастворимый, марка А</td>
 <td>N-12, P-61</td>
 <td>272 321</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>571</td>
+<td>621</td>
 <td>Монокалийфосфат</td>
 <td>P2O5-52,0 K2O-34,0</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>572</td>
+<td>622</td>
 <td>Монокалийфосфат</td>
 <td>P2O-52, K2О-34,4</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>573</td>
+<td>623</td>
 <td>Монокалийфосфат (MKP)</td>
 <td>P2O-52, K20-34,4</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>574</td>
+<td>624</td>
 <td>Монокалийфосфат (МКР 0-52-34)</td>
 <td>P2O5-52%, K2O-34.2%</td>
 <td>303 571</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>575</td>
+<td>625</td>
 <td>НАНОВИТ ТЕРРА марки 3:18:18</td>
 <td>N – 3,0 %, Р2 О5 – 18,0 %; К2О –18,0 %; MgO–0,015 %; SO3 – 0,015 %; В – 0,022 %; Cu – 0,038 %; ; Fe – 0,07 %; Mn – 0,030 %; Мо – 0,015 %; Zn – 0,015 %;, Si–0,015 %; Co – 0,0015 %</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>576</td>
+<td>626</td>
 <td>НАНОВИТ ТЕРРА марки 9:18:9</td>
 <td>N – 9,0 %, Р2 О5 – 18,0 %; К2О –9,0 %; MgO–0,012 %; SO3 – 0,012 %; В – 0,018 %; Cu – 0,035 %; ; Fe – 0,065 %; Mn – 0,028 %; Мо–0,012 %; Zn – 0,012 %;, Si–0,012 %; Co – 0,0012 %</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>577</td>
+<td>627</td>
+<td>НЕРТУС АЗОМИКС 36</td>
+<td>N - 36</td>
+<td>1116</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>628</td>
 <td>нитрат аммония жидкий, марка Б</td>
 <td>NH4NO3-52</td>
 <td>400 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>578</td>
+<td>629</td>
 <td>Нитрат кальция YaraLivaТМ CALCINIT</td>
 <td>N- 15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>579</td>
+<td>630</td>
 <td>нитрат кальция жидкий</td>
 <td>Са(NО3)2-51</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>580</td>
+<td>631</td>
 <td>Нитрат кальция концентрированный</td>
 <td>N-17±1, CaO-32</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>581</td>
+<td>632</td>
 <td>Нитроаммофоска</td>
 <td>N-10-27, P2O5-1-26, K2O-5-28</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>582</td>
+<td>633</td>
 <td>Нитроаммофоска</td>
 <td>N-43,9, P-0,3, K-1,5</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>583</td>
+<td>634</td>
 <td>Нитроаммофоска (15:15:15), марки SiB (модифицированные минеральные удобрения)</td>
 <td>N-15, P-15, K-15, Bacillus subtilis Ч-13, 3*10^4, КОЕ/г</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>584</td>
+<td>635</td>
 <td>Нитроаммофоска (16:16:16), марки SiB (модифицированные минеральные удобрения)</td>
 <td>N-16, P-16, K-16, Bacillus subtilis Ч-13, 3*10^4, КОЕ/г</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>585</td>
+<td>636</td>
 <td>Нитроаммофоска (азафоска) марки NPK 27-6-6+S</td>
 <td>N-27, P2O5-6, K2O-6, S-2,6</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>586</td>
+<td>637</td>
 <td>Нитроаммофоска (азофоска) NPK 15-15-15</td>
 <td>N-15, P-15, K-15</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>587</td>
+<td>638</td>
 <td>Нитроаммофоска (азофоска) NPK 16-16-16</td>
 <td>N-16, P-16, K-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>588</td>
+<td>639</td>
 <td>Нитроаммофоска (азофоска) NPK 24-6-12</td>
 <td>N-24, P-6, K-12</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>589</td>
+<td>640</td>
 <td>Нитроаммофоска (азофоска) марки NPK 13-13-24</td>
 <td>N-13, P-13, K-24</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>590</td>
+<td>641</td>
 <td>Нитроаммофоска (азофоска) марки NPK 16-16-16</td>
 <td>N-16, P-16, K-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>591</td>
+<td>642</td>
 <td>Нитроаммофоска (азофоска) марки NPK 16-16-8</td>
 <td>N-16, P-16, K-8</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>592</td>
+<td>643</td>
+<td>Нитроаммофоска (азофоска) марки NPK 20-10-10+S</td>
+<td>N-20, P-10, K-10</td>
+<td>97 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>644</td>
 <td>Нитроаммофоска (азофоска) марки NPK: 16-16-13</td>
 <td>N-16, P-16, K-13</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>593</td>
+<td>645</td>
 <td>Нитроаммофоска (азофоска) марок NPK 18-9-18</td>
 <td>N-18, P-9, К-18</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>594</td>
+<td>646</td>
 <td>Нитроаммофоска (азофоска), марки NPK 20:10:10+S</td>
 <td>N-20, P2O5-10, K2O-10, S-4</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>595</td>
+<td>647</td>
 <td>Нитроаммофоска (азофоска), марки NPK 20:10:10+S+B</td>
 <td>N-20, P2O5-10, K2O-10, S-4, B-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>596</td>
+<td>648</td>
 <td>Нитроаммофоска (азофоска), марки NPK 20:10:10+S+BCMZ</td>
 <td>N-20, P2O5-10, K2O-10, S-4, B-0,02, Mn-0,03, Zn-0,06, Cu-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>597</td>
+<td>649</td>
 <td>Нитроаммофоска (азофоска), марки NPK 20:10:10+S+BMZ</td>
 <td>N-20, P2O5-10, K2O-10, S-4, B-0,02, Mn-0,03, Zn-0,06, Cu-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>598</td>
+<td>650</td>
 <td>Нитроаммофоска (азофоска), марки NPK 20:10:10+S+Zn</td>
 <td>N-20, P2O5-10, K2O-10, Zn-0,21</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>599</td>
+<td>651</td>
 <td>Нитроаммофоска (азофоска), марки NPK 27-6-6+S+B</td>
 <td>N-27, P2O5-6, K2O-6, S-2,6, B-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>600</td>
+<td>652</td>
 <td>Нитроаммофоска (азофоска), марки NPK 27-6-6+S+BCMZ</td>
 <td>N-27, P2O5-6, K2O-6, S-2,6, B-0,02, Cu-0,03, Mn-0,03, Zn-0,06</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>601</td>
+<td>653</td>
 <td>Нитроаммофоска (азофоска), марки NPK 27-6-6+S+BMZ</td>
 <td>N-27, P2O5-6, K2O-6, S-2,6, B-0,018, Mn-0,03, Zn-0,06</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>602</td>
+<td>654</td>
 <td>Нитроаммофоска (азофоска), марки NPK 27-6-6+S+Zn</td>
 <td>N-27, P2O5-6, K2O-6, S-2,6, Zn-0,21</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>603</td>
+<td>655</td>
 <td>Нитроаммофоска (азофоска), марки NPК:16-16-16</td>
 <td>N-16±0,5, P2O5-16±0,5, K2O-16±0,5</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>604</td>
+<td>656</td>
 <td>Нитроаммофоска (азофоска), марки NPК:16-16-8</td>
 <td>N-16±0,5, P205-16±0,5, K2О 8±1</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>605</td>
+<td>657</td>
 <td>Нитроаммофоска (азофоска), марок NPK 20-10-10</td>
 <td>N-20, P-10, K-10</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>606</td>
+<td>658</td>
 <td>Нитроаммофоска 16:16:16 + BMZ(aa)</td>
 <td>N-16, P2O5-16, K2O-16, B-0,015, Mn-0,001, Zn-0,025, массовая доля свободных аминокислот-0,125</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>607</td>
+<td>659</td>
 <td>Нитроаммофоска NPK, марки: 16:16:16+ Zn</td>
 <td>N-16, P2O5-16, K2O-16, Zn-0,21</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>608</td>
+<td>660</td>
 <td>Нитроаммофоска NPK, марки: 16:16:16+B</td>
 <td>N-16, P2O5-16, K2O-16, B-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>609</td>
+<td>661</td>
 <td>Нитроаммофоска NPK, марки: 16:16:16+BCMZ</td>
 <td>N-16, P2O5-16, K2O-16, B-0,02, Cu-0,03, Mn-0,030, Zn-0,060</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>610</td>
+<td>662</td>
 <td>Нитроаммофоска NPK, марки: 16:16:16+BMZ</td>
 <td>N-16, P2O5-16, K2O-16, B-0,018, Mn-0,03, Zn-0,06</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>611</td>
+<td>663</td>
 <td>Нитроаммофоска марки 14:14:23</td>
 <td>N-14, P-14, K-23, S-1,7, Ca-0,5, Mg-0,9</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>612</td>
+<td>664</td>
 <td>Нитроаммофоска марки 15:15:15</td>
 <td>N-15, P-15, K-15</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>613</td>
+<td>665</td>
 <td>Нитроаммофоска марки 17:17:17</td>
 <td>N- 17, P-17, K-17</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>614</td>
+<td>666</td>
 <td>Нитроаммофоска марки 23:13:8</td>
 <td>N-23, P-13, K-8, S-1, Ca-0,5, Mg-0,4</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>615</td>
+<td>667</td>
 <td>Нитроаммофоска марки NPK 16-16-16</td>
 <td>N-16±2, P2O5-16±2, K2O-16±2</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>616</td>
+<td>668</td>
 <td>Нитроаммофоска марки NPK 16-16-16</td>
 <td>N-16, P2O5-16, K2O-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>617</td>
-<td>Нитроаммофоска марки NPK 24-6-12</td>
-<td>N-24, P-6, K-12</td>
+<td>669</td>
+<td>Нитроаммофоска марки NPK 16-16-16</td>
+<td>N-16, P-16, K-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>618</td>
+<td>670</td>
+<td>Нитроаммофоска марки NPK 24-6-12</td>
+<td>N-24, P-6, K-12</td>
+<td>96 800</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>671</td>
 <td>Нитроаммофоска марки NPKS 21-10-10-2</td>
 <td>N-21, P-10, K-10, S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>619</td>
+<td>672</td>
 <td>Нитроаммофоска марки NPKS 22-7-12-2</td>
 <td>N-22, P-7, K-12, S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>620</td>
+<td>673</td>
 <td>Нитроаммофоска марки: 10:26:26</td>
 <td>N-10, P-26, K-26</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>621</td>
+<td>674</td>
 <td>Нитроаммофоска марки: 19:4:19</td>
 <td>N-19, P-4, K-19</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>622</td>
+<td>675</td>
 <td>Нитроаммофоска марки: 21:1:21</td>
 <td>N-21, P-1, K-21</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>623</td>
+<td>676</td>
 <td>Нитроаммофоска улучшенного гранулометрического состава марки 15:24:16</td>
 <td>N-15, P-24, K-16, S-2, Ca-1, Mg-0,6</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>624</td>
-<td>Нитроаммофоска улучшенного гранулометрического состава марки 16:16:16</td>
-<td>N-16, P-16, K-16, S-2, Ca-1, Mg-0,6</td>
-<td>97 500</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>625</td>
+<td>677</td>
 <td>Нитроаммофоска улучшенного гранулометрического состава марки 16:16:16</td>
 <td>N- 16, P-16, K-16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>626</td>
+<td>678</td>
+<td>Нитроаммофоска улучшенного гранулометрического состава марки 16:16:16</td>
+<td>N-16, P-16, K-16, S-2, Ca-1, Mg-0,6</td>
+<td>97 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>679</td>
 <td>Нитроаммофоска улучшенного гранулометрического состава марки 16:16:16</td>
 <td>N-16±0,5, P2O5-16±0,5, K2O-16±0,5</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>627</td>
+<td>680</td>
 <td>Нитроаммофоска улучшенного гранулометрического состава марки 17:0,1:28</td>
 <td>N-17, P-0,1, K-28, S-0,5, Ca-0,5, Mg-0,5</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>628</td>
+<td>681</td>
 <td>Нитроаммофоска улучшенного гранулометрического состава марки 8:24:24</td>
 <td>N-8, P-24, K-24, S-2, Ca-1, Mg-0,6</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>629</td>
+<td>682</td>
 <td>Нутривант Дрип 30-6-6</td>
 <td>N: 30%, P2O5: 6%, K2O: 6 %, Fe : 0,04%, Mn: 0,02%, Zn: 0,01%, Cu: 0,0025%, Mo: 0,0025%</td>
 <td>870</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>630</td>
+<td>683</td>
 <td>Нутривант Плюс UNICROP 0-36-24</td>
 <td>Р-36, К-24, MgO-2, B-2, Mn-1</td>
 <td>2 679</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>631</td>
+<td>684</td>
 <td>Нутривант Плюс Виноград 0-40-25</td>
 <td>P2O5-40%, K2O-25%, Mg-2%, SO3-4,0%</td>
 <td>1 570</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>632</td>
+<td>685</td>
 <td>Нутривант Плюс Зерновой 19-19-19</td>
 <td>N-19%, P2O5-19%, K2O-19%, MgO-2%, SO3-4,1%</td>
 <td>1 495</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>633</td>
+<td>686</td>
 <td>Нутривант Плюс Зерновой 6-23-35</td>
 <td>N-6%, P2O5-23%, K2O-35%, MgO-1%, SO3-2,5%, B, Fe, Cu, Mn, Zn, Mo</td>
 <td>1 495</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>634</td>
+<td>687</td>
 <td>Нутривант Плюс Картофель 0-43-28</td>
 <td>P2O5-43%, K2O-28%, Mg-2%, SO3-4,3%</td>
 <td>1 725</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>635</td>
+<td>688</td>
 <td>Нутривант Плюс Кукуруза 5,7-37-5,4</td>
 <td>N-5,7%, P2O5-37%, K2O-5,4%, Zn-3,4%, SO3-20%</td>
 <td>1 450</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>636</td>
+<td>689</td>
 <td>Нутривант Плюс Огурец 6-16-31</td>
 <td>N-6%, P2O5-16%, K2O-31%, MgO-2%, SO3-5%</td>
 <td>1 797</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>637</td>
+<td>690</td>
+<td>Нутривант Плюс Рис 0-46-30</td>
+<td>P2O5-46%, K2O-30%, MgO-2%, B-0,2%</td>
+<td>1850</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>691</td>
 <td>Нутривант Плюс Сахарная свекла 0-36-24</td>
 <td>P2O5-36%, K2O-24%, Mg-2%, SO3-5,5%</td>
 <td>1 680</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>638</td>
+<td>692</td>
 <td>Нутривант Плюс Томат 6-18-37</td>
 <td>N-6%, P2O5-18%, K2O-37%, MgO-2%, SO3-8,6%</td>
 <td>1 797</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>639</td>
+<td>693</td>
 <td>Нутривант Плюс Фруктовый 12-5-27</td>
 <td>N-12%, P2O5-5%, K2O-27%, CaO-8%</td>
 <td>1 542</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>640</td>
+<td>694</td>
+<td>Нутривант Плюс Ячмень 0-23-42</td>
+<td>P2O5-23%, K2O-42%, B-0,1%, Zn-0,5%</td>
+<td>1430</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>695</td>
 <td>Органоминеральное удобрение «Zargreen Natural Liquid Fertilizer»</td>
 <td>N-3, P2O5-2, K2O-2,5, Аминокислоты- 40, свободные аминокислоты L- 6, органический углерод- 11, органическое вещество-30</td>
 <td>3 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>641</td>
+<td>696</td>
 <td>Органоминеральное удобрение AL KARAL Herb</td>
 <td>гумат калия-2%, гуминовые кислоты-36,5%, фульвовые кислоты-63,5%, N-45мг/л, P-54,6мг/л, K-29,1мг/л, Fe-31,5мг/л, Ca-97,6мг/л, Mn-0,11мг/л, Cu-0,42мг/л, Mo-0,24мг/л</td>
 <td>893</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>642</td>
+<td>697</td>
 <td>Органо-минеральное удобрение FULVITAL PLUS W.P.</td>
 <td>Fe - 1,35%, Mn - 25 г/кг, Mg - 70 г/кг, S - 60 г/кг, Zn - 25 г/кг, Cu - 10 г/кг, фульвовые кислоты - 750 г/кг</td>
 <td>13 153</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>643</td>
+<td>698</td>
 <td>Органо-минеральное удобрение HUMIFIELD w.g.</td>
 <td>аммонийные соли-80г/кг, аммонийные соли гуминовых кислот-750г/кг, N-60г/кг, аминокислоты-100-120г/кг, K2O-40-60г/кг, микроэлементы-21г/кг</td>
 <td>10 015</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>644</td>
+<td>699</td>
 <td>Органо-минеральное удобрение Millerplex (Миллерплекс)</td>
 <td>N-3, P205-3, K20-3, экстракт морских водорослей</td>
 <td>10 681</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>645</td>
+<td>700</td>
 <td>Органо-минеральное удобрение Millerstart</td>
 <td>Zn-0,5%, экстракт морских водорослей-99,5%</td>
 <td>13 556</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>646</td>
+<td>701</td>
 <td>Органо-минеральное удобрение Биостим, марки «Зерновой»</td>
 <td>аминокислоты-7%, N-5,5%, P2O5-4,5%, K2O-4%, MgO-2%, SO3-2%, Fe-0,3%, Mn-0,7%, Zn-0,6%, Cu-0,4%, B-0,2%, Mo-0,02%, Co-0,02%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>647</td>
+<td>702</td>
 <td>Органо-минеральное удобрение Биостим, марки «Кукуруза»</td>
 <td>аминокислоты-6%, N-6%, MgO-2%, SO3-6%, Fe-0,3%, Mn-0,2%, Zn-0,9%, Cu-0,3%, B-0,3%, Mo-0,02%, Co-0,02%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>648</td>
+<td>703</td>
 <td>Органо-минеральное удобрение Биостим, марки «Масличный»</td>
 <td>аминокислоты-6%, N-1,2%, MgO-3%, SO3-8%, Fe-0,2%, Mn-1%, Zn-0,2%, Cu-0,1%, B-0,7%, Mo-0,04%, Co-0,02%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>649</td>
+<td>704</td>
 <td>Органо-минеральное удобрение Биостим, марки «Рост»</td>
 <td>аминокислоты-4%, N-4%, P2O5-10%, MgO-2%, SO3-1%, Fe-0,4%, Mn-0,2%, Zn-0,2%, Cu-0,1%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>650</td>
+<td>705</td>
 <td>Органо-минеральное удобрение Биостим, марки «Свекла»</td>
 <td>аминокислоты-6%, N-3,5%, MgO-2,5%, SO3-2%, Fe-0,03%, Mn-1,2%, Zn-0,5%, Cu-0,03%, B-0,5%, Mo-0,02%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>651</td>
+<td>706</td>
 <td>Органо-минеральное удобрение Биостим, марки «Старт»</td>
 <td>аминокислоты-5,5%, полисахариды-7,0%, N-4,5%, P2O5-5,0%, K2O-2,5%, MgO-1,0%, Fe-0,2%, Mn-0,2%, Zn-0,2%, Cu-0,1%, B-0,1%, Mo-0,01%</td>
 <td>3 450</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>652</td>
+<td>707</td>
 <td>Органо-минеральное удобрение Биостим, марки «Универсал»</td>
 <td>аминокислоты-10%, N-6%, K2O-3%, SO3-5%</td>
 <td>3 375</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>653</td>
+<td>708</td>
 <td>Органо-минеральное удобрение на основе гуминовых и фульвовых кислот «Фульвигрейн», марки Фульвигрейн Антистресс</td>
 <td>соли гуминовых кислот - 10%, соли фульвовых кислот - 2%, аминокислоты - 6%</td>
 <td>3 438</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>654</td>
+<td>709</td>
 <td>Органо-минеральное удобрение на основе гуминовых и фульвовых кислот «Фульвигрейн», марки Фульвигрейн Бор</td>
 <td>В - 8%, соли фульвовых кислот - 10%</td>
 <td>3 438</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>655</td>
+<td>710</td>
 <td>Органо-минеральное удобрение на основе гуминовых и фульвовых кислот «Фульвигрейн», марки Фульвигрейн Классик</td>
 <td>соли гуминовых кислот - 16%, соли фульвовых кислот - 4%</td>
 <td>3 438</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>656</td>
+<td>711</td>
 <td>Органо-минеральное удобрение на основе гуминовых и фульвовых кислот «Фульвигрейн», марки Фульвигрейн Стимул</td>
 <td>S - 1,5%, Cu - 0,5%, Mg - 2,1%, Mn - 0,65%, Fe - 1,35%, Zn - 0,3%, фульвовые кислоты - 20%</td>
 <td>3 438</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>657</td>
+<td>712</td>
+<td>Органоминеральное удобрение Силамин</td>
+<td>свободные аминокислоты-до 50%, комплекс фитогормонов, комплекс витаминов В</td>
+<td>6690</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>713</td>
 <td>Органо-минеральное удобрение ЭФИКА БОР, марка</td>
 <td>N-4,0%, B-9,5%</td>
 <td>1 645</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>658</td>
+<td>714</td>
 <td>Органо-минеральное удобрение ЭФИКА МАКРО, марка</td>
 <td>N-2,0%, K-2,0%, P-0,5%, Zn-0,08%, Mg-0,8%, Cu-0,5%, Mn-2,0%</td>
 <td>1 945</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>659</td>
+<td>715</td>
 <td>Органо-минеральное удобрение ЭФИКА, марка: «ЭФИКА АЗОТ»</td>
 <td>N-9,0%, Mg-3,0%</td>
 <td>945</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>660</td>
+<td>716</td>
 <td>Органо-минеральное удобрение ЭФИКА, марка: «ЭФИКА МАГНИЙ»</td>
 <td>N-4,0%, Mg-2,5%</td>
 <td>945</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>661</td>
+<td>717</td>
 <td>Органо-минеральное удобрение ЭФИКА, марка: «ЭФИКА РК»</td>
 <td>P-9,0%, K-8,0%</td>
 <td>1 845</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>662</td>
+<td>718</td>
 <td>Органо-минеральное удобрение ЭФИКА, марка: «ЭФИКА ЦИНК»</td>
 <td>N-1,0%, Zn-3,0%</td>
 <td>1 128</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>663</td>
+<td>719</td>
 <td>Пекацид</td>
 <td>Р2О5-60; К2О-20</td>
 <td>893</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>664</td>
+<td>720</td>
 <td>Селитра аммиачная</td>
 <td>N-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>665</td>
+<td>721</td>
 <td>Селитра аммиачная</td>
 <td>N-34,0-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>666</td>
+<td>722</td>
 <td>Селитра аммиачная гранулированная пористая модифицированная</td>
 <td>N-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>667</td>
+<td>723</td>
 <td>Селитра аммиачная марка Б</td>
 <td>N-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>668</td>
+<td>724</td>
 <td>Селитра аммиачная марки «Б»</td>
 <td>N-34,4%</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>669</td>
-<td>Селитра аммиачная марки Б</td>
-<td>N 34,3</td>
-<td>62 500</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>670</td>
+<td>725</td>
 <td>Селитра аммиачная марки Б</td>
 <td>N 34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>671</td>
+<td>726</td>
+<td>Селитра аммиачная марки Б</td>
+<td>N 34,3</td>
+<td>62 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>727</td>
 <td>Селитра аммиачная первый сорт</td>
 <td>N-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>672</td>
+<td>728</td>
 <td>Селитра аммиачная пористая модифицированная</td>
 <td>N-34,3</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>673</td>
+<td>729</td>
 <td>Селитра аммиачная, марки Б</td>
 <td>N-34,4</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>674</td>
+<td>730</td>
 <td>Селитра аммиачная, сорта: первый, второй, третий</td>
 <td>N-34.4%</td>
 <td>62 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>675</td>
+<td>731</td>
 <td>Селитра калиевая техническая марки СХ</td>
 <td>N-13±1, K-38±1</td>
 <td>357 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>676</td>
+<td>732</td>
 <td>Селитра кальциевая гранулированная марки «Г»</td>
 <td>N-15,4%, CaO-90%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>677</td>
+<td>733</td>
 <td>Селитра кальциевая гранулированная марки «Е»</td>
 <td>N-15,5%, CaO-26,3%</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>678</td>
+<td>734</td>
 <td>Сернокислый калий, марки SiB (модифицированное минеральное удобрение)</td>
 <td>K2O-50</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>679</td>
+<td>735</td>
 <td>Смесь удобрительная водо-растворимая (тукосмесь) марки NPK 13:40:13</td>
 <td>N-13±2, Р-40±2, К-13±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>680</td>
+<td>736</td>
 <td>Смесь удобрительная водо-растворимая (тукосмесь) марки NPK 18:18:18</td>
 <td>N-18±2, P-18±2, K-18±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>681</td>
+<td>737</td>
 <td>Смесь удобрительная водо-растворимая (тукосмесь) марки NPK 20:20:20</td>
 <td>N-20±2, P-20±2, K-20±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>682</td>
+<td>738</td>
 <td>Смесь удобрительная водо-растворимая (тукосмесь) марки NPK 5:15:45</td>
 <td>N-5±2, P-15±2,K-45±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>683</td>
+<td>739</td>
+<td>Смешанное минеральное удобрение марки FertiMark (K50-Mg2)</td>
+<td>K2O-50, MgO-2</td>
+<td>140000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>740</td>
 <td>Смешанные минеральные удобрения ФЕРТИМ марки FertiM NPK 10:26:26</td>
 <td>N - 10, P2O5 - 26, К2О - 26</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>684</td>
+<td>741</td>
 <td>СТИМАКС ДЛЯ СЕМЯН (STIMAX SEEDS)</td>
 <td>N-7,2%, P2O5-5%, K2O-5%, B-0,1%, Fe-0,25%, Zn-0,5%</td>
 <td>4 760</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>685</td>
+<td>742</td>
 <td>СТИМАКС СТАРТ (STIMAX START)</td>
 <td>N-1,2%, Fe-Zn1%, Mn-0,5%, Zn-0,5%</td>
 <td>5 800</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>686</td>
+<td>743</td>
 <td>сульфат аммония</td>
 <td>N-21.S-34</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>687</td>
-<td>Сульфат аммония</td>
-<td>N-21, S-24</td>
-<td>48 719</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>688</td>
-<td>Сульфат аммония</td>
-<td>(NH₄)₂SO₄-21%</td>
-<td>48 719</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>689</td>
+<td>744</td>
 <td>Сульфат аммония</td>
 <td>N-не менее 21, S-не менее 24, вода-не более 0,2</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>690</td>
+<td>745</td>
+<td>Сульфат аммония</td>
+<td>N-21, S-24</td>
+<td>48 719</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>746</td>
+<td>Сульфат аммония</td>
+<td>N-20,5%, S-22,0%</td>
+<td>48 719</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>747</td>
+<td>Сульфат аммония</td>
+<td>(NH₄)₂SO₄-21%</td>
+<td>48 719</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>748</td>
 <td>Сульфат аммония – побочный продукт (марка В)</td>
 <td>N-21%, S-24%</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>691</td>
+<td>749</td>
 <td>Сульфат аммония гранулированный</td>
 <td>N-21, S-24</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>692</td>
-<td>Сульфат аммония гранулированный</td>
-<td>N-21</td>
-<td>48 719</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>693</td>
+<td>750</td>
 <td>Сульфат аммония гранулированный</td>
 <td>(NH4)2SO4</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>694</td>
+<td>751</td>
+<td>Сульфат аммония гранулированный</td>
+<td>N-21</td>
+<td>48 719</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>752</td>
 <td>Сульфат аммония гранулированный марка В</td>
 <td>N-21, S-24</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>695</td>
+<td>753</td>
 <td>Сульфат аммония гранулированный марка В (аммоний сернокислый)</td>
 <td>N-21%, S-24%</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>696</td>
+<td>754</td>
 <td>Сульфат аммония, марки SiB (модифицированное минеральное удобрение)</td>
 <td>N-21, S-24, Bacillus subtilis Ч-13, 2,5*10^5, КОЕ/г</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>697</td>
+<td>755</td>
 <td>Сульфат аммония+BMZ</td>
 <td>N-21, S-24, B-0,018, Mn-0,030, Zn-0,060</td>
-<td>48 719</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>698</td>
-<td>Сульфат калия</td>
-<td>K2O-51, SO3-45</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>699</td>
+<td>756</td>
 <td>Сульфат калия</td>
 <td>K2O-53%, SO4-18%</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>700</td>
+<td>757</td>
 <td>Сульфат калия</td>
 <td>K2O-52%, SO4-45%</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>701</td>
+<td>758</td>
 <td>Сульфат калия</td>
-<td>K2O-51, SO4- 46</td>
+<td>K2O-51, SO3-45</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>702</td>
+<td>759</td>
 <td>Сульфат калия</td>
 <td>K20-52±1</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>703</td>
+<td>760</td>
 <td>Сульфат калия</td>
 <td>K2O-51,5%, SO4-56%</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>704</td>
+<td>761</td>
+<td>Сульфат калия</td>
+<td>K2O-51, SO4- 46</td>
+<td>145 000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>762</td>
 <td>Сульфат калия</td>
 <td>K2O-52, SO3- 45</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>705</td>
+<td>763</td>
 <td>Сульфат Калия</td>
-<td>К2O-50</td>
+<td>K2O-50</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>706</td>
+<td>764</td>
 <td>Сульфат калия (Solupotasse®)</td>
 <td>K-53, S-18</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>707</td>
+<td>765</td>
 <td>Сульфат калия (Yara Tera Krista SOP)</td>
 <td>K2O-52, SO3- 45</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>708</td>
+<td>766</td>
 <td>Сульфат калия (калий сернокислый)</td>
-<td>K2O-52, SO4-53</td>
-<td>145 000</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>709</td>
-<td>Сульфат-нитрат аммония</td>
-<td>N-26, S-13</td>
+<td>K2O-50, SO4-51</td>
 <td>48 719</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>710</td>
-<td>Сульфоаммофос</td>
-<td>N-16, P2O5-16, S-10</td>
+<td>767</td>
+<td>Сульфат калия «OLTIN SULPHATE OF POTASH»</td>
+<td>K2O-50, SO3-44, S-17,5</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>711</td>
-<td>Сульфоаммофос</td>
-<td>N-16%; Р-20%; S-12%</td>
+<td>768</td>
+<td>Сульфат-нитрат аммония</td>
+<td>N-26, S-13</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>712</td>
-<td>Сульфоаммофос</td>
-<td>N-16±1, P2O5-20±1, S-16±1</td>
-<td>85 500</td>
-<td>тонна</td>
-</tr>
-<tr>
-<td>713</td>
+<td>769</td>
 <td>Сульфоаммофос</td>
 <td>N-16±1, P2O5-16±1, S-10±1</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>714</td>
+<td>770</td>
 <td>Сульфоаммофос</td>
-<td>N-16, P2O5-20, S-12</td>
+<td>N-16±1, P2O5-20±1, S-16±1</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>715</td>
+<td>771</td>
+<td>Сульфоаммофос</td>
+<td>N-16, P2O5-16, S-10</td>
+<td>85 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>772</td>
+<td>Сульфоаммофос</td>
+<td>N-16, P2O5-20, S-12</td>
+<td></td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>773</td>
+<td>Сульфоаммофос</td>
+<td>N-16%; Р-20%; S-12%</td>
+<td></td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>774</td>
 <td>Сульфоаммофос из фосфоритов Каратау</td>
 <td>N-16, P-20, S-12</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>716</td>
+<td>775</td>
 <td>Сульфоаммофос марки 16:20:12</td>
 <td>N-16, P-20, S-12</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>717</td>
+<td>776</td>
 <td>Суперфосфат марки «А» (аммонизированный суперфосфат (ASSP))</td>
 <td>P2О5-15, К2О-2</td>
 <td>19 643</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>718</td>
+<td>777</td>
+<td>СУПЕРФОСФАТ обогащенный микроэлементами</td>
+<td>Массовая доля общих фосфатов в пересчете на P2O5-22.1. Массовая доля усвояемых фосфатов в перерасчете на P2O5-22.1-19,5</td>
+<td>19643</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>778</td>
+<td>СУПЕРФОСФАТ обогащенный микроэлементами</td>
+<td>Массовая доля общих фосфатов в пересчете на P2O5-21,5. Массовая доля усвояемых фосфатов в перерасчете на P2O5-18,0±5)</td>
+<td>19643</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>779</td>
+<td>Супрефос азот-серосодержащий «Супрефос-NS» (N:P:Mg:Сa:S)</td>
+<td>N-12, P-24, Mg-0,5, Ca-14, S-25</td>
+<td>120000</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>780</td>
 <td>Текамин Брикс</td>
 <td>K-18%, B-0,2%, экстракт морских водорослей - 10%, органическое вещество - 20%</td>
 <td>3 863</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>719</td>
+<td>781</td>
 <td>Текамин Макс</td>
 <td>N-7%, аминокислоты - 14,4%, органическое вещество - 60%</td>
 <td>2 365</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>720</td>
+<td>782</td>
 <td>Текамин Раис</td>
 <td>«L»-аминокислоты-4,7%, экстракт морских водорослей-4%, органические вещества-22%, N-5,5%, К-1%, Zn-0,15%, Mn-0,3%, B-0,05%, S-4%, Fe-0,5%, Cu-0,05%</td>
 <td>4 234</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>721</td>
+<td>783</td>
 <td>Текамин Текс Фрут</td>
 <td>Zn – 0,05%; B – 0,14%; Mg – 0,7%; Mo – 0,02%; Ca – 12%; Общий сахар – 18%</td>
 <td>4 296</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>722</td>
+<td>784</td>
 <td>Текамин Флауэр</td>
 <td>N - 3%, P - 10%, B-1%, Mo-0,5%, аминокислоты - 3%</td>
 <td>3 575</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>723</td>
+<td>785</td>
 <td>Текнокель Fe</td>
 <td>Fe (EDDHSA о-о) - 6,0%; Fe (EDDHSA) - 3,8%</td>
 <td>4 981</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>724</td>
+<td>786</td>
 <td>Текнокель N</td>
 <td>N-20%, Zn-0,1%, Fe-0,1%, pH-4</td>
 <td>1 586</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>725</td>
+<td>787</td>
+<td>Текнокель S</td>
+<td>N-0,12, S-65</td>
+<td>1703</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>788</td>
 <td>Текнокель Амино BMo</td>
 <td>L-аминокислоты - 1,0%; N - 5,0%; B водорастворимый - 10,0%; Мо - 0,02%</td>
 <td>2 901</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>726</td>
+<td>789</td>
 <td>Текнокель Амино CaB</td>
 <td>N - 10%, Са - 10%, B - 0,2%, L-аминокислоты - 6%</td>
 <td>2 511</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>727</td>
+<td>790</td>
 <td>Текнокель Амино Fe</td>
 <td>N - 2,5%, Fe - 6%, L-аминокислоты - 6%</td>
 <td>2 814</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>728</td>
+<td>791</td>
 <td>Текнокель Амино K</td>
 <td>N - 0,9%, К - 20%, L-аминокислоты - 5%</td>
 <td>2 538</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>729</td>
+<td>792</td>
 <td>Текнокель Амино Mg</td>
 <td>N-6%, Mg-6%, L-аминокислоты - 6%</td>
 <td>1 812</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>730</td>
+<td>793</td>
 <td>Текнокель Амино Mn</td>
 <td>N - 3,0%; Mn - 6,0%; L-аминокислоты - 6,0%</td>
 <td>2 633</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>731</td>
+<td>794</td>
 <td>Текнокель амино Mo</td>
 <td>N - 4%, Mo - 8%, L-аминокислоты - 4%</td>
 <td>5 893</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>732</td>
+<td>795</td>
 <td>Текнокель Амино Zn</td>
 <td>N - 1,5%, Zn - 8%, L-аминокислоты - 6%</td>
 <td>2 443</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>733</td>
+<td>796</td>
 <td>Текнокель Амино ZnMn</td>
 <td>N - 1,5%, Zn - 5%, Mn-3%, L-аминокислоты - 6%</td>
 <td>3 195</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>734</td>
+<td>797</td>
 <td>Текнокель Амино Бор</td>
 <td>N-5%, В этаноламин - 10%, L - аминокислоты - 6%</td>
 <td>2 694</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>735</td>
+<td>798</td>
 <td>Текнокель Амино Микс</td>
 <td>N - 2%, Zn - 0,7%, Mn - 0,7%, B - 0,1%, Fe - 3%, Cu - 0,3%, Mo - 0,1%, L-аминокислоты - 6%</td>
 <td>2 064</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>736</td>
+<td>799</td>
 <td>Текнофит PH</td>
 <td>поли-гидрокси-карбокислоты-20%</td>
 <td>3 130</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>737</td>
+<td>800</td>
 <td>Удобрение &quot;SunnyMix пшеница&quot;</td>
 <td>N-4%, P2O5-40%, K2O-5,48%, B-4,5%, Zn-14,6%, Mo-0,5%, MgO-6,56%, Mn-21,1%, Fe-14%, S-7,95, Cu-7,6% + орг-е кислоты-25 г/л + аминокислоты-25 г/л + стимуляторы роста и иммунитета растений-10 г/л (+ прилипатель, сурфактанты, гумектанты)</td>
 <td>1 850</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>738</td>
+<td>801</td>
 <td>Удобрение &quot;SunnyMix семена зерновых&quot;</td>
 <td>N-2,73%, Cu-5,4%, Zn-5,3%, Mo-1,3%, Mn-2,43%, CaO-3,41%, Fe-3,85% + органические кислоты-25г/л + аминокислоты-25 г/л + стимуляторы роста и иммунитета растений-10г/л (+ прилипатель, сурфактанты, гумектанты)</td>
 <td>2 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>739</td>
+<td>802</td>
 <td>Удобрение &quot;SunnyMix универсальный&quot;</td>
 <td>N-2,33%, P2O5-20,3%, K2O-13,7%, B-5,1%, Zn-5,6%, Mo-0,06%, Co-0,01%, MgO-8,2%, Mn-8,13%, Fe-1,0%, Cu-1,6% + органические кислоты-25г/л + аминокислоты-25г/л + стимуляторы роста и иммунитета растений-10г/л (+ прилипатель, сурфактанты, гумектанты)</td>
 <td>1 850</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>740</td>
+<td>803</td>
 <td>Удобрение &quot;Контур&quot; марки &quot;Контур Антистресс&quot;</td>
 <td>в.р. гуминовые кислоты - 70 г/л; фульвокислоты - 30 г/л; арахидоновая кислота -0,01 г/л; тритерпеновые кислоты - 2 г/л; комплекс аминокислот - 45 г/л, комплекс микроэлементов</td>
 <td>2 425</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>741</td>
+<td>804</td>
 <td>Удобрение &quot;Контур&quot; марки &quot;Контур Аргент&quot;</td>
 <td>в.р. гуминовые кислоты - 70 г/л; фульвокислоты - 30 г/л</td>
 <td>2 800</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>742</td>
+<td>805</td>
 <td>Удобрение &quot;Контур&quot; марки &quot;Контур Профи&quot;</td>
 <td>в.р. гуминовые кислоты - 70 г/л; фульвокислоты - 30 г/л; янтарная кислота - 30 г/л; N - 80 г/л; P2O2 - 30 г/л, комплекс микроэлементов</td>
 <td>2 755</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>743</td>
+<td>806</td>
 <td>Удобрение &quot;Контур&quot; марки &quot;Контур Рост&quot;</td>
 <td>в.р. гуминовые кислоты - 70 г/л; фульвокислоты - 30 г/л; янтарная кислота - 40 г/л; комплекс аминокислот - 66 г/л, комплекс микроэлементов (Fe 0,4 г/л; Zn 0,15 г/л; Mn 0,4 г/л; Cu 0,15 г/л; MgO 0,5 г/л)</td>
 <td>2 545</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>744</td>
+<td>807</td>
 <td>Удобрение &quot;Нутривант Плюс Зерновой (6-23-35)&quot;</td>
 <td>Азот (N) - 6%; - Фосфор (P)- 23%; - Калий (K)- 35%; - Магний (MgO) – 1%; - Железо (Fe) – 0,05%; - Цинк (Zn) – 0,2%; - Бор (B) – 0,1%; - Марганец (Mn) – 0,2%; - Медь (Cu) – 0,25%; - Молибден (Mo) – 0,002%</td>
 <td>1 495</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>745</td>
+<td>808</td>
 <td>Удобрение «AminoMax»</td>
 <td>Азот – 7,3%, Органические вещества – 22 %</td>
 <td>3 571</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>746</td>
+<td>809</td>
 <td>Удобрение «Basfoliar 36 Extra SL»</td>
 <td>N-27%, MgO-3, B-0,02, Cu-0,2, Fe-0,02, Mn-1, Mo-0,005, Zn-0,01</td>
 <td>3 960</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>747</td>
+<td>810</td>
 <td>Удобрение «BioFert AminoPro»</td>
 <td>N-7,5; K2O-2,25; аминокислоты-29; органическое вещество-57</td>
 <td>3 572</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>748</td>
+<td>811</td>
 <td>Удобрение «BioFert B150»</td>
 <td>N-5,4; NH2-5,4; B-12</td>
 <td>2 679</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>749</td>
+<td>812</td>
 <td>Удобрение «BioFert B170+Мо+Со»</td>
 <td>N-6; NH2-6; B-12; Co-0,00024; Mo-0,6; углеводы-2,4</td>
 <td>3 125</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>750</td>
+<td>813</td>
 <td>Удобрение «BioFert Mg100 Pro»</td>
 <td>N-6; Mg-5,4; MgO-8,5</td>
 <td>2 902</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>751</td>
+<td>814</td>
 <td>Удобрение «BioFert Mix Pro»</td>
 <td>N-4,5; P2O5-31,5; K2O-4,9; B-0,06; Cu-0,06; Fe-0,048; Zn-0,036; Mn-0,036; Mo-0,06; аминокислота L-Пролин-0,12</td>
 <td>3 349</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>752</td>
+<td>815</td>
 <td>Удобрение «BioFert Mn230»</td>
 <td>N-9; Mn-I6</td>
 <td>3 572</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>753</td>
+<td>816</td>
 <td>Удобрение «BioFert S»</td>
 <td>N-16,5;S-23; SO3-56</td>
 <td>2 456</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>754</td>
+<td>817</td>
 <td>Удобрение «BioFert Zn Pro»</td>
 <td>N -6,6; Mn-0,6; Zn-1 3</td>
 <td>2 902</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>755</td>
+<td>818</td>
 <td>Удобрение «BioFert Zn230»</td>
 <td>N -7,8; Zn-I6</td>
 <td>3 349</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>756</td>
+<td>819</td>
 <td>Удобрение «Commander NPZn»</td>
 <td>N-5,1, P2O5-25,1, Zn-5,2</td>
 <td>2 540</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>757</td>
+<td>820</td>
 <td>Удобрение «FOLIAPLANT PH»</td>
 <td>N – 7%, K2O5 – 12%</td>
 <td>2 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>758</td>
+<td>821</td>
 <td>Удобрение «HUMISUPER PLUS»</td>
 <td>K2O5-8,08, органическое вещество-20,42, гуминовая кислота+фульвокислота-16,68, Na-0,08</td>
 <td>1 160</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>759</td>
+<td>822</td>
 <td>Удобрение «MEGATRON 17-5-5+2MgO+ME»</td>
 <td>N-18,1, P2O5-5,35, K2O-5,8, MgO-2,32, органическое вещество-10,1, B-0,022, Fe-EDTA-0,062, Mn-EDTA-0,079, Zn-EDTA-0,066, Cu-EDTA-0,012, Mo-0,002</td>
 <td>807</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>760</td>
+<td>823</td>
 <td>Удобрение «MEGATRON 5-0-20»</td>
 <td>N-5,07; K2O-20,8; S-7,8; SO3-19,6; органическое вещество-15,7</td>
 <td>807</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>761</td>
+<td>824</td>
 <td>Удобрение «MEGATRON 7-17-5+ME»</td>
 <td>N-7,38, P2O5-17,79, K2O-5,65, органическое вещество-15,52, B-0,024, Fe-EDTA-0,051, Mn-EDTA-0,064, Zn-EDTA-0,065, Cu-EDTA-0,012, Mo-0,001</td>
 <td>807</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>762</td>
+<td>825</td>
 <td>Удобрение «MEGATRON 9-7-7+2MgO+ME»</td>
 <td>N-9,06, P2O5-7,25, K2O-7,65, MgO-2,22, органическое вещество-15,72, B-0,024, Fe-EDTA-0,059, Mn-EDTA-0,06, Zn-EDTA-0,062, Cu-EDTA-0,011, Mo-0,001</td>
 <td>807</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>763</td>
+<td>826</td>
 <td>Удобрение «pH Power»</td>
 <td>P2O5≥26%, вода≤60%</td>
 <td>3 125</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>764</td>
+<td>827</td>
 <td>Удобрение «PHANTOM LIQUID»</td>
 <td>N-8,7, альгиновая кислота-1,03, органическое вещество-23,32</td>
 <td>1 838</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>765</td>
+<td>828</td>
 <td>Удобрение «Promostart»</td>
 <td>N-30</td>
 <td>3 432</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>766</td>
+<td>829</td>
 <td>Удобрение «Zn Commander»</td>
 <td>N-3; Zn-5,5</td>
 <td>2 663</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>767</td>
+<td>830</td>
 <td>Удобрение «БиоСера» гранулированное</td>
 <td>Сера элементарная-85,95%, Сера сульфатная -не менее 0,09%, Оксид калия -не менее 0,002%, Пентаоксид фосфора -не менее 0,003%, Азот-не менее 0,003%</td>
 <td>60 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>768</td>
+<td>831</td>
 <td>Удобрение «БОГАТЫЙ» марки «5:6:9»</td>
 <td>N-5, P2O5-6,K2O-9, B-0,7, S-0,04, Co-0,002, Cu-0,01, Mn-0,05, Zn-0,01, Mo-0,007, Cr-0,0001, Ni-0,002, Li-0,0005, Se-0,0002, БМВ-гуматы калия, фитоспорин-М (титр не менее 2x10 живых клеток и спор на 1 мл)</td>
 <td>1 601</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>769</td>
+<td>832</td>
 <td>Удобрение «БОРОГУМ- М» марки «Комплексный»</td>
 <td>B-4%, S-0,17%, Fe-0,05%, Cu-0,2%, Zn-0,01%, Mn-0,02%, Mo-0,05%, Co-0,005%, Ni-0,001%, Li-0,0002%, Se-0,0001%, Cr-0,0002%, калийные соли БМВ-гуминовых кислот-1%, фитоспорин-М (титр≥1,5х10^8 KOE/ мл)</td>
 <td>2 373</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>770</td>
+<td>833</td>
 <td>Удобрение «БОРОГУМ- М» марки «Мо»</td>
 <td>B-7%, S-0,04%, Cu-0,01%, Zn-0,01%, Mn-0,04%, Mo-3%, Co-0,002%, Ni-0,002%, Li-0,0004%, Se-0,0001%, Cr-0,0005%, калийные соли БМВ-гуминовых кислот-2%, фитоспорин-М (титр≥5х10^6 KOE/ мл)</td>
 <td>5 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>771</td>
+<td>834</td>
 <td>Удобрение «БОРОГУМ»</td>
 <td>B-11%, S-0,04%, Mn-0,05%, Cu-0,01%, Zn-0,01%, Mo-0,005%, Co-0,002%, Ni-0,002%, Li-0,0005%, Se-0,0002%, Cr-0,0007%, калийные соли БМВ-гуминовых кислот-1,5%</td>
 <td>2 344</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>772</td>
+<td>835</td>
 <td>Удобрение «Гумат калия»</td>
 <td>Гуминовые кислоты-61,2%; К2O-12,6%</td>
 <td>800</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>773</td>
+<td>836</td>
 <td>Удобрение «Нутривант Плюс Масличный (0-20-33)»</td>
 <td>P2O5-20, K2O-33, Mg-1, B-1,5, SO3-20, Zn-0,02, B-0,15, Mn-0,5, Mo-0,001</td>
 <td>1 662</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>774</td>
+<td>837</td>
+<td>Удобрение «Ростолон 13-40-13 + МЕ»</td>
+<td>N-13%, P2O5-40%, K2O-13%, Fe-0,032%, B-0,011%, Cu-0,009%, Zn-0,027%, Mn-0,024%</td>
+<td>738</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>838</td>
+<td>Удобрение «Ростолон 17-7-24+ME»</td>
+<td>N-17%, P2O5-7%, K2O-24%, Fe-0,032%, B-0,011%, Cu-0,009%, Zn-0,027%, Mn-0,024%</td>
+<td>738</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>839</td>
+<td>Удобрение «Ростолон 18-18-18 + МЕ»</td>
+<td>N-18%, P2O5-18%, K2O-18%, Fe-0,05%, Zn-0,1%, Mn-0,03%</td>
+<td>738</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>840</td>
+<td>Удобрение «Ростолон 20-20-20+ME»</td>
+<td>N-20%, P2O5-20%, K2O-20%, S-2,2%, Fe-0,1%, B-0,04, Cu-0,25%, Zn-0,25%, Mn-0,2%</td>
+<td>738</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>841</td>
 <td>Удобрение Actiwave</td>
 <td>N - 3,0%; Калий (К2O) - 7,0%; Fe (EDDHSA) - 0,50%; Zn (EDTA) - 0,08%; Органический углерод (С) - 12,0%; Органическое вещество: 17,0%</td>
-<td>4 589</td>
+<td>4589</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>775</td>
+<td>842</td>
 <td>Удобрение AMINOQUELANT - K low pH</td>
 <td>Свободные минокислоты - 5, K - 25</td>
 <td>7 664</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>776</td>
+<td>843</td>
 <td>Удобрение Appetizer</td>
 <td>MnCl2-2,64%, ZnCl2-2,17%, NaOH-0,86%, GA142-93,33%</td>
 <td>7 637</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>777</td>
+<td>844</td>
 <td>Удобрение BABARIS (БАБАРИС)</td>
 <td>Органические вещества-37, Р-12, В-6,2, Мо-0,1</td>
 <td>3 359</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>778</td>
+<td>845</td>
 <td>Удобрение Benefit PZ</td>
 <td>N-3,0%, C-10,0%, Нуклеотиды, Витамины, Белки, Аминокислоты</td>
 <td>8 242</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>779</td>
+<td>846</td>
 <td>Удобрение BIOMAXIM SEED</td>
 <td>Органическое вещество 35,9 Свободные аминокислоты 13,0 Азот общий (N) 4,55 Водорастворимый комплексированный оксид кальция (СаО) 3,1 Триоксид серы (SO3) водорастворимый 1,75 Водорастворимый комплексированный оксид магния (MgO) 0,22 Водорастворимый бор, В 0,2</td>
 <td>79 000</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>780</td>
+<td>847</td>
 <td>Удобрение BlackJak</td>
 <td>Гуминовые кислоты 19-21, фульвокислоты-3-5, ульминовые кислоты и гумин</td>
 <td>6 998</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>781</td>
+<td>848</td>
 <td>Удобрение Boron 150</td>
 <td>Бороэтаноламин-98-100, в т.ч. B-10,6-11</td>
 <td>2 627</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>782</td>
+<td>849</td>
 <td>Удобрение Brexil Combi</td>
 <td>B-0,9%, Cu-0,3%(LSA), Fe-6,8% (LSA), Mn-2,6% (LSA), Mo - 0,2% (LSA), Zn-1,1% (LSA)</td>
 <td>3 723</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>783</td>
+<td>850</td>
 <td>Удобрение Brexil Mix</td>
 <td>MgO -6% (LSA), B-1,2%, Cu-0,8% (LSA), Fe-0,6% (LSA), Mn-0,7% (LSA), Mo - 1,0% (LSA), Zn-5,0% (LSA)</td>
 <td>3 975</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>784</td>
+<td>851</td>
 <td>Удобрение Brexil Mn</td>
 <td>Mn - 10% (LSA)</td>
 <td>3 343</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>785</td>
+<td>852</td>
 <td>Удобрение Brexil Zn</td>
 <td>Zn-10% (LSA)</td>
 <td>3 624</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>786</td>
+<td>853</td>
 <td>Удобрение Ca Commander</td>
 <td>N-10,4, Cao-15,9</td>
 <td>2 180</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>787</td>
+<td>854</td>
 <td>Удобрение CALIBRA</td>
 <td>MnCl2-2,64%, ZnCl2-2,17%, NaOH-0,86%, GA142-93,33%</td>
 <td>7 637</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>788</td>
+<td>855</td>
 <td>Удобрение CARACUS (КАРАКУС)</td>
 <td>Органические вещества-62, N-20, Mg-0,4, S-1,5</td>
 <td>3 048</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>789</td>
+<td>856</td>
 <td>Удобрение COLORADO</td>
 <td>MgCl2-11,41, CaCl2-7,24, MnCl2-4,83, ZnCl2-4,13, NaOH-0,55, GA142-22,81</td>
 <td>6 675</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>790</td>
+<td>857</td>
 <td>Удобрение COLORSTAR</td>
 <td>MgCl2-11,41, CaCl2-7,24, MnCl2-4,83, ZnCl2-4,13, NaOH-0,55, GA142-22,81</td>
 <td>6 675</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>791</td>
+<td>858</td>
 <td>Удобрение ECOLINE Boron (Premium)-ЭКОЛАЙН Бор (Премиум)</td>
 <td>B-14, N-4,5, Аминокислоты L-a-1,0</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>792</td>
+<td>859</td>
 <td>Удобрение Ecoline Oilseeds (chelates) - ЭКОЛАЙН Масличный (Хелаты)</td>
 <td>N-11, K2O-6, MgO-2,8, SO3-7, Fe-0,8, Mn-1,7, B-2,1, Zn-0,7, Cu -0,3</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>793</td>
+<td>860</td>
 <td>Удобрение GLAMUR (ГЛАМУР)</td>
 <td>Органические вещества-48, N-15, свободные аминокислоты-12, экстракт морских водорослей-0,15</td>
 <td>3 081</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>794</td>
+<td>861</td>
 <td>Удобрение Goteo</td>
 <td>P2O5-13, K2O-5, GA142-25</td>
 <td>7 976</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>795</td>
+<td>862</td>
 <td>Удобрение GROS Phosphite - LNPK - ГРОС Фосфито-LNPK</td>
 <td>N-20%, P2O5 (фосфит)-20%, K2O-15,0%, L-а Аминокислоты-2%</td>
 <td>3 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>796</td>
+<td>863</td>
 <td>Удобрение HanseAmino</td>
 <td>аминокислоты - 24, свободные аминокислоты - 13</td>
 <td>2 621</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>797</td>
+<td>864</td>
 <td>Удобрение HanseBioSulfur</td>
 <td>Элементарная сера: 70% (линейная структура серы (O3S-SNSO3))</td>
 <td>2 564</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>798</td>
+<td>865</td>
 <td>Удобрение HanseGuard</td>
 <td>N-9%, NO3-N-7%, NH4-N-2%, K2O-6%, микроэлементы (Ca, Mg, Si, Fe, Ag)-1,1%</td>
 <td>18 800</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>799</td>
+<td>866</td>
 <td>Удобрение L 44 Mn+Mg+S+N</td>
 <td>Mn-18-23, Mg-10-13, S-2,5-4,8, N-0,1-0,4</td>
 <td>2 627</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>800</td>
+<td>867</td>
 <td>Удобрение L 80 Zn+P+S+N</td>
 <td>Zn-5,9, P-19, S-5,3, N-3</td>
 <td>2 627</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>801</td>
+<td>868</td>
 <td>Удобрение MC Cream (МС Крем)</td>
 <td>Mn - 1,5%, Zn - 0,5%, Фитогормоны, Аминокислоты, Бетаин</td>
 <td>5 512</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>802</td>
+<td>869</td>
 <td>Удобрение MC Extra (МС ЭКСТРА)</td>
 <td>К20 - 20,0%, N - 1,0%, C - 20,0%, Фитогормоны, Бетаин, Маннитол, Белки, Аминокислоты</td>
 <td>9 936</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>803</td>
+<td>870</td>
 <td>Удобрение MC Set (МС Сет)</td>
 <td>B-0,5, Zn-1,5 (EDTA), фитогормоны, аминокислоты, бетаин</td>
 <td>3 777</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>804</td>
+<td>871</td>
 <td>Удобрение Megafol (Мегафол)</td>
 <td>N-3%; К2O-8%, C-9%, фитогормоны, бетаин, витамины, белки, аминокислоты</td>
 <td>3 575</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>805</td>
+<td>872</td>
 <td>Удобрение Naturamin-B</td>
 <td>N-0,6, B-10, свободные аминокислоты-4, органическое вещество-4</td>
 <td>3 828</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>806</td>
+<td>873</td>
 <td>Удобрение Naturmix-L</td>
 <td>N-4,3, B-0,74, Cu-0,47, Fe-6,75, Mn-3,92, Mo-0,20, Zn-1,08</td>
 <td>3 696</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>807</td>
+<td>874</td>
 <td>Удобрение Nutrivant 10-50-10</td>
 <td>Дигидрогенортофосфат амония - 50% Дигидрогенортофосфат калия (KH2PO4)-2,5% Нитрат Калия (KNO3)-10% Пекацид– 2.5%</td>
 <td>1 624</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>808</td>
+<td>875</td>
 <td>Удобрение PHOSPHIT-ONE (ФОСФИТ-1)</td>
 <td>P2O5-30, K2O-15</td>
 <td>5 450</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>809</td>
+<td>876</td>
 <td>Удобрение Prairie Pride A (1-3-3)</td>
 <td>N-1, P2O5-3, K2O-3</td>
 <td>1 100</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>810</td>
+<td>877</td>
 <td>Удобрение Prairie Pride В (10-40-6)</td>
 <td>N-10, P2O5-40, K2O-6, S-4</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>811</td>
+<td>878</td>
 <td>Удобрение QadamFerti Aminoleaf</td>
 <td>Свободные Аминокислоты – 30%; Общий Азот (N) – 6%; Водорастворимый Пентоксид Фосфора (P2O5) – 1%; Водорастворимый Оксид Калия (К2О) – 1%</td>
 <td>4 363</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>812</td>
+<td>879</td>
 <td>Удобрение QadamFerti pH Control</td>
 <td>Общий Азот (N) – 3%, в т.ч. Амидный азот (NH2) – 3%; Водорастворимый Пентоксид Фосфора (P2O5) – 15%; Не-ионный ПАВ – 25%</td>
 <td>2 611</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>813</td>
+<td>880</td>
 <td>Удобрение QadamFerti Silimax</td>
 <td>Водорастворимый Оксид Калия (К2О) – 15%; Водорастворимый Диоксид Калия (SiO2) – 10%</td>
 <td>2 854</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>814</td>
+<td>881</td>
 <td>Удобрение QadamFerti Start</td>
 <td>Свободные аминокислоты – 4%, Общий Азот (N) – 4%, Водорастворимый Пентоксид Фосфора (P2O5) – 8%, Водорастворимый Оксид Калия (К2О) – 3%, Полисахариды – 15%, Железо (Fe) в хелатной форме (EDDHA) – 0,1%, Цинк (Zn) в хелатной форме (EDTA) – 0,02%, Водорастворимый Бор (В) – 0,03%, Цитокинины – 0,05%</td>
 <td>3 818</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>815</td>
+<td>882</td>
 <td>Удобрение QadamFerti Unileaf</td>
 <td>Свободные Аминокислоты – 4%, Общий Азот (N) – 4%, Водорастворимый Пентоксид Фосфора (P2O5) – 6%, Водорастворимый Оксид Калия (К2О) – 2%, Полисахариды – 12%, Железо (Fe) в хелатной форме (EDTA) – 0,4%, Марганец (Mn) в хелатной форме (EDTA) – 0,2%, Цинк (Zn) в хелатной форме (EDTA) – 0,2%</td>
 <td>2 278</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>816</td>
+<td>883</td>
 <td>Удобрение Radifarm (Радифарм)</td>
 <td>N - 3,0%, K2O - 8,0%, C - 10,0%, Zn (EDTA), Витамины, Сапонин, Бетаин, Белки, Аминокислоты</td>
 <td>7 984</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>817</td>
+<td>884</td>
 <td>Удобрение Raiza</td>
 <td>N-4,5, свободные аминокислоты-12</td>
 <td>3 960</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>818</td>
+<td>885</td>
 <td>Удобрение Reasil Forte Семя Старт</td>
 <td>N-6,0%, P2O5-2,5%, K2O-2,5%, Mn-1,2%, Zn-1,2%, B-2,0%, Mo-0,25%, Fe-1,2%, Cu-1,0%, Co-0,1, рН -7,2%, Гидроксикарбоновые и аминокислоты-28,0%</td>
 <td>2 600</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>819</td>
+<td>886</td>
 <td>Удобрение Retrosal</td>
 <td>Ca - 8,0%, Zn - 0,2% (EDTA), Витамины, Осмолиты, Бетаин, Белки, Аминокислоты</td>
 <td>2 364</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>820</td>
+<td>887</td>
 <td>Удобрение SAGA (САГА)</td>
 <td>Органические вещества-34, N-10, P-10,5, K-11</td>
 <td>3 306</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>821</td>
+<td>888</td>
+<td>Удобрение SAMPPI</td>
+<td>Органические кислоты: лимонная, янтарная, яблочная, винная; Сахара: глюкоза, сукроза; Минеральные питательные вещества: Азот 8%, Фосфор 3%, Калий 3%, Магнезий 2%, Кальций 1%, Марганец 0,7%, Бор 0,1%, Железо 0,4%, Молибден 0,1%, Медь 0,05%, Цинк 0,05%</td>
+<td>3572</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>889</td>
 <td>Удобрение SunnyMix B</td>
 <td>N-4,05%, B-10,2% (+ прилипатель, сурфактанты, гумектанты)</td>
 <td>1 850</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>822</td>
+<td>890</td>
 <td>Удобрение Sweet (Свит)</td>
 <td>CaO-10, MgO-1, B-0,1, Zn-0,01 (EDTA), Моно-, ди-, три-, полисахариды</td>
 <td>7 986</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>823</td>
+<td>891</td>
 <td>Удобрение Terra-Sorb complex</td>
 <td>свободные аминокислоты 20, N-5,5, B-1,5, Zn-0,1, Mn-0,1, Fe-1,0, Mg-0,8, Mo-0,001</td>
 <td>8 727</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>824</td>
+<td>892</td>
 <td>Удобрение Terra-Sorb foliar</td>
 <td>свободные аминокислоты 9,3, N-2,1, B-0,02, Zn-0,07, Mn-0,04</td>
 <td>8 727</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>825</td>
+<td>893</td>
 <td>Удобрение Thio-Sul</td>
 <td>водный раствор тиосульфата аммония-55-65%, N-12, S-26</td>
 <td>750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>826</td>
+<td>894</td>
 <td>Удобрение Viva (Вива)</td>
 <td>N-3,0%, K2O-8,0%, C-8,0%, Fe-0,02% (EDDHSA), Полисахариды, Витамины, Белки, Аминокислоты, Очищеyные Гумусовые Кислоты</td>
 <td>3 136</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>827</td>
+<td>895</td>
 <td>Удобрение Yara Mila NPK 9-12-25</td>
 <td>N-9, P2O5-12, K2O-25, MgO-2, SO3-6,5, В-0,02</td>
 <td>500 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>828</td>
+<td>896</td>
 <td>Удобрение Yara Tera Krista K Plus</td>
 <td>N-13,7, NO3-13,7, K2O - 46,3</td>
 <td>357 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>829</td>
+<td>897</td>
 <td>Удобрение Yara vita TM Seedlift</td>
 <td>N-15, P2O5-26, Zn-27,5, Ca-16,9</td>
 <td>7 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>830</td>
+<td>898</td>
 <td>Удобрение YaraLiva Calcinit (нитрат кальция)</td>
 <td>N- 15,5, NH4-1,1, NO3-14,4, CaO-26,5</td>
 <td>187 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>831</td>
+<td>899</td>
 <td>Удобрение YaraMila 12-24-12</td>
 <td>N-12, P2O5-24, K2O-12, MgO-2, SO3-5,Fe-0,2, Zn-0,007</td>
 <td>500 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>832</td>
+<td>900</td>
 <td>Удобрение YaraMila 16-27-7</td>
 <td>N-16, P2O5-27, K2O-7, SO3-5, Zn-0,1</td>
 <td>500 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>833</td>
+<td>901</td>
 <td>Удобрение YaraMila NPK 7-20-28</td>
 <td>N-7%, P2O5-20%, K2O-28%, MgO-2%, SO3-7,5%, B-0,02%, Fe-0,1%, Mn-0,03%</td>
 <td>500 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>834</td>
+<td>902</td>
 <td>Удобрение YaraRega 9-0-36</td>
 <td>N-9, P2О5-0, K2О-36</td>
 <td>527 625</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>835</td>
+<td>903</td>
 <td>Удобрение YaraRega 9-5-26</td>
 <td>N-9, P2O5-5, K2O-26</td>
 <td>527 625</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>836</td>
+<td>904</td>
 <td>Удобрение YaraVita AGRIPHOS</td>
 <td>P2O5-29,1%, K2O-6,4%, Cu-1,0%, Fe-0,3%, Mn-1,4%, Zn-1,0%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>837</td>
+<td>905</td>
 <td>Удобрение YaraVita BORTRAC 150</td>
 <td>N-4,7%; B-11%</td>
 <td>2 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>838</td>
-<td>Удобрение YaraVita BRASSITREL PRO</td>
-<td>N-4,5%, Ca-5,8%, CaO-8,1%, Mg-4,6%, MgO-7,7%, B-3,9%, Mn-4,6%, Mo-0,3%</td>
+<td>906</td>
+<td>Удобрение YaraVita Brassitrel Pro</td>
+<td>N-4,5, MgO-7,5, CaO-8,1, Mn-4,6%, B-3,9, Mo-0,3</td>
 <td>3 488</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>839</td>
+<td>907</td>
+<td>Удобрение YaraVita BRASSITREL PRO</td>
+<td>N-4,5%, Ca-5,8%, CaO-8,1%, Mg-4,6%, MgO-7,7%, B-3,9%, Mn-4,6%, Mo-0,3%</td>
+<td>1998</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>908</td>
 <td>Удобрение YaraVita KOMBIPHOS</td>
 <td>P2O5-29,7%, K2О-5,1%, Mg-2,7%, MgO-4,5%, Mn-0,7%, Zn-0,3%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>840</td>
+<td>909</td>
 <td>Удобрение YaraVita Thiotrac 300</td>
 <td>S-30, N-20</td>
 <td>1 975</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>841</td>
+<td>910</td>
 <td>Удобрение YaraVita ZINTRAC 700</td>
 <td>N-1%, Zn-40%</td>
 <td>5 625</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>842</td>
+<td>911</td>
 <td>Удобрение YaraVita™ Azos 300™</td>
 <td>S-22,8, N-15,2</td>
 <td>2 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>843</td>
+<td>912</td>
 <td>Удобрение Yieldon</td>
 <td>N-3,0; К2О-3,0, С-10,0, Zn-0,5, Mn-0,5, Mo-0,2, GEA689</td>
 <td>2 812</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>844</td>
+<td>913</td>
 <td>Удобрение азотное жидкое (N:S)</td>
 <td>N-23-28, S-1-3</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>845</td>
+<td>914</td>
+<td>Удобрение азотное жидкое марка КАС-32</td>
+<td>N-31,7-32,3</td>
+<td>71766</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>915</td>
+<td>Удобрение азотное жидкое марка КАС-32</td>
+<td>N-32%</td>
+<td>71766</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>916</td>
+<td>Удобрение азотное жидкое марки КАС-32</td>
+<td>N-32</td>
+<td>71766</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>917</td>
 <td>Удобрение азотное серосодержащее марка N:S (26:13)</td>
 <td>N-26, S-13</td>
 <td>100 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>846</td>
+<td>918</td>
 <td>Удобрение азотно-магниевое</td>
 <td>N-34,4, MgO-0,3-1,0</td>
 <td>75 893</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>847</td>
+<td>919</td>
+<td>Удобрение азотно-фосфорное комплексное Диаммонийфосфат</td>
+<td>N-16, P2O5-44</td>
+<td>142500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>920</td>
 <td>Удобрение азотно-фосфорное серосодержащее</td>
 <td>N-20, P-20, S-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>848</td>
+<td>921</td>
 <td>Удобрение азотно-фосфорное серосодержащее (NP(S)) Сульфоаммофос</td>
 <td>N-14-16. P205-20-34, S-8-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>849</td>
+<td>922</td>
 <td>Удобрение азотно-фосфорное серосодержащее марка NP+S=20:20+14</td>
 <td>N-20, P-20, S-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>850</td>
+<td>923</td>
 <td>Удобрение азотно-фосфорное серосодержащее марки NP+S=20:20+14</td>
 <td>N-20, P-20, S-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>851</td>
+<td>924</td>
 <td>Удобрение азотно-фосфорное серосодержащее марки NP+S=20:20+14, NP+S=16:20+12</td>
 <td>N-20, P205-20, S-12-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>852</td>
+<td>925</td>
 <td>Удобрение азотно-фосфорное-калийное марки диаммофоска 10-26-26</td>
 <td>N-10, P-26, K-26, (S-1)</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>853</td>
+<td>926</td>
+<td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марка 10:26:26</td>
+<td>N-10, P2О5-26, K2О-26</td>
+<td>97 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>927</td>
 <td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки 10:26:26</td>
 <td>N-10%; P2O5-26%; K2O-26%; CaO-0,8%, MgO-0,8%, SO4-2%</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>854</td>
-<td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки: 10:26:26</td>
-<td>N-10, P-26, K-26, S-1, Ca-0,8, Mg-0,8</td>
-<td>97 500</td>
+<td>928</td>
+<td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки 10:26:26</td>
+<td>N-10, P-26, K-26</td>
+<td>97500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>855</td>
+<td>929</td>
+<td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки: 10:26:26</td>
+<td>N-10, P-26, K-26, S-1, Ca-0,8, Mg-0,8</td>
+<td>97500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>930</td>
 <td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки: 14:14:23</td>
 <td>N-14, P-14, K-23, S-1,7, Ca-0,5, Mg-0,9</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>856</td>
+<td>931</td>
 <td>Удобрение азотно-фосфорно-калийное (NPK-удобрение) марки: 23:13:8</td>
 <td>N-23, P-13, K-8, S-1, Ca-0,5, Mg-0,4</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>857</td>
+<td>932</td>
 <td>Удобрение азотно-фосфорно-калийное (диаммофоска), марки 15:15:15</td>
 <td>N-15, P-15, K-15</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>858</td>
+<td>933</td>
 <td>Удобрение азотно-фосфорно-калийное марка NPK-1 (диаммофоска)</td>
 <td>N-10, P2O5-26, S-27</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>859</td>
+<td>934</td>
 <td>Удобрение азотно-фосфорно-калийное марка NPKS-8</td>
 <td>N-8±1, P205-20±1, К2О-30±1, S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>860</td>
+<td>935</td>
 <td>Удобрение азотно-фосфорно-калийное марка NРК-1 (диаммофоска)</td>
 <td>N-10±1, P205-26±1, K2O-26±1,S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>861</td>
+<td>936</td>
 <td>Удобрение азотно-фосфорно-калийное марки NPKS-4</td>
 <td>N-15±1, P2O5-15±1, K2O-15±1, S-11</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>862</td>
+<td>937</td>
+<td>Удобрение азотно-фосфорно-калийное марки NPKS-4</td>
+<td>N-15%, Р-15%, K-15%, S-11%</td>
+<td>96 800</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>938</td>
 <td>Удобрение азотно-фосфорно-калийное марки NPKS-8</td>
 <td>N-8, P-20, K-30</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>863</td>
+<td>939</td>
 <td>Удобрение азотно-фосфорно-калийное марки диаммофоска 10-26-26</td>
-<td>N-10, P2O5-26, K2O-26, S-1-2</td>
+<td>N-10, P-26, K-26</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>864</td>
+<td>940</td>
 <td>Удобрение азотно-фосфорно-калийное марки диаммофоска 10-26-26</td>
-<td>N-10, P-26, K-26</td>
+<td>N-10, P2O5-26, K2O-26, S-1-2</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>865</td>
+<td>941</td>
+<td>Удобрение азотно-фосфорно-калийное марки диаммофоска 10-26-26 (1)</td>
+<td>N-10, P-26, K-26, S-1</td>
+<td>97 500</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>942</td>
+<td>Удобрение азотно-фосфорно-калийное марки диаммофоска 10-26-26, NPK-1 (диаммофоска)</td>
+<td>N 10 P 26 K 26</td>
+<td>96800</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>943</td>
 <td>Удобрение азотно-фосфорно-калийное марок: NPK-1 (диаммофоска)</td>
 <td>N-10%, P-26%, K-26%</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>866</td>
+<td>944</td>
 <td>Удобрение азотно-фосфорно-калийное марок: диаммофоска 10-26-26</td>
 <td>N-10%, P-26%, K-26%</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>867</td>
+<td>945</td>
 <td>Удобрение азотно-фосфорно-калийное марок: диаммофоска 10-26-26, NPK-1 (диаммофоска)</td>
 <td>N-10%, P-26%, K-26%</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>868</td>
+<td>946</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 13-17-17(6)</td>
 <td>N-13±1, P-17±1, K-17±1, S-не менее 6%</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>869</td>
+<td>947</td>
+<td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 13-17-17(6)</td>
+<td>N-13, P-17, K-17, S-6</td>
+<td>96800</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>948</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 13-17-17(6)+0,15В+0,6Zn</td>
 <td>N-13, P-17, K-17, S-6, В-0,15, Zn-0,6</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>870</td>
+<td>949</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 15:15:15(10)</td>
 <td>N-15%, P-15%, K-15%, S-10%</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>871</td>
+<td>950</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 15-15-15(10)</td>
 <td>N-15±1, P-15±1, K-15±1 , S-не менее 10 %</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>872</td>
+<td>951</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPK(S) 8-20-30(2)</td>
 <td>N-8, P-20, K-30, S-2</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>873</td>
+<td>952</td>
 <td>Удобрение азотно-фосфорно-калийное серосодержащее марки NPKS) 15-15-15(10)</td>
 <td>N-15, P-15, K-15, S-10</td>
 <td>96 800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>874</td>
-<td>Удобрение азотно-фосфорно-калийное, марки 12:32:12</td>
-<td>N-12 P-32 K-12</td>
-<td>97 500</td>
+<td>953</td>
+<td>Удобрение азотно-фосфорно-калийное серосодержащее марки диаммофоска NPK (S)10-26-26(1)</td>
+<td>N-10, P-26, K-26, S-1</td>
+<td>96800</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>875</td>
+<td>954</td>
+<td>Удобрение азотно-фосфорно-калийное серосодержащее марки Диаммофоска NPK(S) 10:26:26(1)</td>
+<td>N-10±1, Р2O5-26±1, К2O-26±1, S-1</td>
+<td>96800</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>955</td>
+<td>Удобрение азотно-фосфорно-калийное, марки 12:32:12</td>
+<td>N-12 P-32 K-12</td>
+<td>97500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>956</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 13:19:19</td>
 <td>N-13, P-19, K-19</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>876</td>
+<td>957</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 15:15:15</td>
 <td>N-15%, P-15%, K-15% (S-10-11%)</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>877</td>
+<td>958</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 16:16:16</td>
 <td>N-16, P-16, K 16</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>878</td>
+<td>959</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 7:7:7</td>
 <td>N- 7, P-7, K-7</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>879</td>
+<td>960</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 8:19:29</td>
 <td>N-8, P-19, K-29</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>880</td>
+<td>961</td>
 <td>Удобрение азотно-фосфорно-калийное, марки 8:20:30</td>
 <td>N-8, P-20, K-30</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>881</td>
+<td>962</td>
 <td>Удобрение азотно-фосфорно-калийное, марки NPK-1 (диаммофоска)</td>
 <td>N-10, P-26, K-26</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>882</td>
+<td>963</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска 10:26:26</td>
 <td>N-10, P2O5-26, K2O-26</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>883</td>
+<td>964</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска 10-26-26</td>
 <td>N-10, P-26, K-26</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>884</td>
+<td>965</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска NPK 10:26:26+B</td>
 <td>N-10, P-26, K-26, S-2, B-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>885</td>
+<td>966</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска NPK 10:26:26+BCMZ</td>
 <td>N-10, P-26, K-26, S-2, B-0,02, Mn-0,03, Zn-0,06, Cu-0,03</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>886</td>
+<td>967</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска NPK 10:26:26+BMZ</td>
 <td>N-10, P-26, K-26, S-2, B-0,018, Mn-0,03, Zn-0,06</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>887</td>
+<td>968</td>
 <td>Удобрение азотно-фосфорно-калийное, марки диаммофоска NPK 10:26:26+Zn</td>
 <td>N-10, P-26, K-26, S-2, Zn-0,21</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>888</td>
+<td>969</td>
 <td>Удобрение АМИНОАЛЕКСИН (AMINOALEXIN)</td>
 <td>N-1, P-30, K-20, L-a-Аминокислоты-4</td>
 <td>7 874</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>889</td>
+<td>970</td>
 <td>Удобрение Аминозол</td>
 <td>аминокислоты-56-58%, N-9,4%</td>
 <td>8 151</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>890</td>
+<td>971</td>
 <td>Удобрение Аминосит 33%(Aminosit 33%)</td>
 <td>- Свободные аминокислоты - 33%; - Общее количество органических веществ – 48%; - Общее содержание азота (N) - 9,8%</td>
 <td>4 197</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>891</td>
+<td>972</td>
 <td>Удобрение аммиачно-нитратное с содержанием азота 33,5 %</td>
 <td>N-32,5-33,5</td>
 <td>80 357</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>892</td>
+<td>973</td>
 <td>Удобрение Брексил Кальций (Brexil Ca)</td>
 <td>CaO – 20,0% (LSA), B – 0,5%</td>
 <td>3 997</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>893</td>
+<td>974</td>
 <td>Удобрение Брексил Мульти (Brexil Multi)</td>
 <td>MgO -8,5%, B-0,5%, Fe-4%, Mn-4%, Zn-1,5%</td>
 <td>3 975</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>894</td>
+<td>975</td>
 <td>Удобрение гелеобразное SUPER 7-7-7</td>
 <td>N-7%, P2O5-7%, K2O-7%</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>895</td>
+<td>976</td>
 <td>Удобрение Гумат K/Na с микроэлементами</td>
 <td>N-3,5%, P2O5-0,5%, K2O-2,5%, MgO-0,1%, Mn-0,25%, Zn-0,2%, B-0,1%, Mo-0,02%, Fe-0,3%, Cu-0,05%, Co-0,005, рН -9,0%, Гидроксикарбоновые и аминокислоты-3,0%, Гуминовые и фульвовые кислоты-12,0%</td>
 <td>1 125</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>896</td>
+<td>977</td>
 <td>Удобрение Гумат натрия</td>
 <td>Гуминовые кислоты-60,5%; гуматы натрия-35-40%</td>
 <td>2 000 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>897</td>
+<td>978</td>
 <td>Удобрение Гумат-Антистресс</td>
 <td>N-0,32%, K2O-1,5%, рН -8,5-9,5%, Гуминовые и фульвовые кислоты-12,0%, Янтарная кислота -1,0%</td>
 <td>900</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>898</td>
+<td>979</td>
 <td>Удобрение гуминовое жидкое (гумат натрия) из выветрелых углей Шубаркольского месторождения</td>
 <td>N общ-2,27%, массовая доля гуминовых кислот-30-90%, массовая доля органического вещества-47,4%</td>
 <td>268</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>899</td>
+<td>980</td>
 <td>Удобрение жидкие азотные (КАС)</td>
 <td>N-29,7-30,8; N-31,2-32,8</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>900</td>
+<td>981</td>
 <td>Удобрение жидкое азотное марки КАС-32</td>
 <td>N-32%</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>901</td>
+<td>982</td>
+<td>Удобрение жидкое комплексное (ЖКУ) марка 11-37</td>
+<td>N-11, P2О5-37</td>
+<td>133929</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>983</td>
 <td>Удобрение Кальбит C (Calbit C)</td>
 <td>CaO - 15% (LSA)</td>
 <td>2 347</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>902</td>
+<td>984</td>
 <td>Удобрение комплексное водорастворимое марки Старт 11:40:11+2MgO+МЭ</td>
 <td>N-11+-2, P-40+-2, K-11+-2, MgO-2+-0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>903</td>
+<td>985</td>
 <td>Удобрение комплексное водорастворимое марки Старт 13:40:13+МЭ</td>
 <td>N-13±2, P-40±2, K-13±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>904</td>
+<td>986</td>
 <td>Удобрение комплексное водорастворимое марки Старт 15:30:15+2MgO+МЭ</td>
 <td>N-15+-2, P-30+-2, K-15+-2, MgO-2+-0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>905</td>
+<td>987</td>
 <td>Удобрение комплексное водорастворимое марки Старт 15:31:15+МЭ</td>
 <td>N-15+-2, P-31+-2, K-15+-2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>906</td>
+<td>988</td>
 <td>Удобрение комплексное водорастворимое марки Универсал 18:18:18+3MgO+МЭ</td>
 <td>N-18±2, P-18±2, K-18±2, MgO-3±0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>907</td>
+<td>989</td>
 <td>Удобрение комплексное водорастворимое марки Универсал 19:19:19+МЭ</td>
 <td>N-19±2, P-19±2, K-19±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>908</td>
+<td>990</td>
 <td>Удобрение комплексное водорастворимое марки Универсал 20:20:20+МЭ</td>
 <td>N-20±2, P-20±2, K-20±2</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>909</td>
+<td>991</td>
 <td>Удобрение комплексное водорастворимое марки Финал 12:6:36+2,5MgO+МЭ</td>
 <td>N-12±2, P-6±2, K-36±2, МgO-2,5±0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>910</td>
+<td>992</td>
 <td>Удобрение комплексное водорастворимое марки Финал 12:6:36+2,5MgO+МЭ+стим</td>
 <td>N-12±2, P-6±2, K-36±2, MgO-2,5±0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>911</td>
+<td>993</td>
 <td>Удобрение комплексное водорастворимое марки Финал 15:7:30+3Mgo+МЭ</td>
 <td>N-15±2, P-7±2, K-30±2, MgO-3±0,5</td>
 <td>343 750</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>912</td>
+<td>994</td>
 <td>Удобрение комплексное КомплеМет Зерно</td>
 <td>Nобщ, не менее 9,2; P2O5, не менее 96; K2O, не менее 105; SО4, не менее 14; Mn 20; Cu 5,0; Zn 15; B 4,5; Mo 0,15; Co 0,05</td>
 <td>797</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>913</td>
+<td>995</td>
 <td>Удобрение комплексное КомплеМет Кальций</td>
 <td>Nобщ, не менее 125; SО4, не менее 0,46; СaO, не менее 200; MgO, не менее 13; Fe 0,3; Mn 0,5; Cu 4,5; Zn 0,75; B 0,23; Mo 0,015; Co 0,005</td>
 <td>276</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>914</td>
+<td>996</td>
 <td>Удобрение комплексное КомплеМет Кальций+Магний</td>
 <td>N общ., не менее 109; CaO, не менее 160; MgO, не менее 42; B 2,3; органическое вещество 10</td>
 <td>666</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>915</td>
+<td>997</td>
 <td>Удобрение комплексное КомплеМет марка Голубика</td>
 <td>Nобщ, не менее 3,7; P2O5, не менее 75; K2O, не менее 62; SО4, не менееь16; MgO, не менееь6,2; Fe 7,5; Mn 2,5; Cu 2,2; Zn 3,7; B 1,1; Mo 0,03; Co 0,01</td>
 <td>540</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>916</td>
+<td>998</td>
 <td>Удобрение комплексное КомплеМет марка РКMg</td>
 <td>Nобщ, не менее 19; Р2О5, не менее 289; К2О, не менее 259; MgO, не менее 50</td>
 <td>1 515</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>917</td>
+<td>999</td>
 <td>Удобрение комплексное КомплеМет Огурцы</td>
 <td>Nобщ, не менее 3,2; P2O5, не менее 91; K2O, не менее 78; SО4, не менее 25; Fe 10; Mn 4,6; Cu 4,0; Zn7,8; B 5,0; Mo 0,1; Co 0,03</td>
 <td>665</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>918</td>
+<td>1000</td>
 <td>Удобрение комплексное КомплеМет Томаты</td>
 <td>Nобщ,не менее 3,7; P2O5, не менее 87; K2O, не менее 79; SО4, не менее 23; Fe 7,7; Mn 5,9; Cu 5,6; Zn 8,4; B 2,8; Mo 0,1; Co 0,03</td>
 <td>647</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>919</td>
+<td>1001</td>
 <td>Удобрение комплексное КомплеМет Хвоя</td>
 <td>Nобщ, не менее 3,4; P2O5, не менее 62; K2O, не менее 53; SО4, не менее 6,4; MgO , не менее 8,3; Fe 3,33; Mn 1,39; Cu 0,22; Zn 0,33; B 0,39; Mo 0,008; Co 0,006</td>
 <td>387</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>920</td>
+<td>1002</td>
 <td>Удобрение комплексное КомплеМет Хлопчатник</td>
 <td>Nобщ, не менее 70; P2O5, не менее 90; K2O, не менее 80; SО4, не менее 14; Mn 10; Cu 5,0; Zn 25; B 10; Mo 0,15; Co 0,05</td>
 <td>831</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>921</td>
+<td>1003</td>
+<td>Удобрение комплексное минеральное с микроэлементами (тукосмесь) марки: ФЕРТИКА Универсал-2</td>
+<td>N-12, P2O5-8, K-14, Mg-2, S-8, B-0,1, Cu-0,1 Fe-0,1, Mn-0,2 Mo-0,01, Zn-0,1</td>
+<td>1250</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>1004</td>
 <td>Удобрение комплексное органоминеральное «Оксигумат-У»</td>
 <td>NH4, NH2-1,2%, P2O5-2,0%, K2O-2,4%</td>
 <td>759</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>922</td>
+<td>1005</td>
 <td>Удобрение комплексное органо-минеральное BACTOLIKS- maximus</td>
 <td>N-8%, C-25%, аминокислоты-5%</td>
 <td>3 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>923</td>
+<td>1006</td>
 <td>Удобрение комплексное органо-минеральное BIO HUMIN</td>
 <td>N-1%, C-8%, гуминовые кислоты-18% фульвокислоты-18%</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>924</td>
+<td>1007</td>
 <td>Удобрение комплексное органо-минеральное BLOOM SET</td>
 <td>N-0,5%, C-8%, Zn-1%, B-0,05%, аминокислоты-6%</td>
 <td>2 240</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>925</td>
+<td>1008</td>
 <td>Удобрение комплексное органо-минеральное Doping-ENERGY</td>
 <td>N-0,5%, C-8%, аминокислоты-2%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>926</td>
+<td>1009</td>
 <td>Удобрение комплексное органо-минеральное ISAPTION</td>
 <td>N-3%, C-8%, аминокислоты-8%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>927</td>
+<td>1010</td>
 <td>Удобрение комплексное органо-минеральное Mega</td>
 <td>N-0,5%, C-3%, аминокислоты-2%</td>
 <td>2 240</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>928</td>
+<td>1011</td>
 <td>Удобрение комплексное органо-минеральное RAIZE</td>
 <td>N-0,5%, K2O-0,5%, C-10%, гуминовые кислоты-18% фульвокислоты-18%</td>
 <td>2 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>929</td>
+<td>1012</td>
 <td>Удобрение комплексное органо-минеральное ROYAL ROOT</td>
 <td>N-0,5%, K2O-0,5%, C-10%, гуминовые кислоты-20% фульвокислоты-20%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>930</td>
+<td>1013</td>
 <td>Удобрение комплексное органо-минеральное Super Amino Cal</td>
 <td>N-0,5%, CaO-14%, B-0,2%, аминокислоты-2%</td>
 <td>2 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>931</td>
+<td>1014</td>
 <td>Удобрение комплексное органо-минеральное SUPER FUMIN</td>
 <td>N-1%, C-8%, гуминовые кислоты-20% фульвокислоты-20%</td>
 <td>2 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>932</td>
+<td>1015</td>
 <td>Удобрение комплексное органо-минеральное Super Gel K</td>
 <td>N-4%, K2O-17%, аминокислоты-1,5%</td>
 <td>2 425</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>933</td>
+<td>1016</td>
 <td>Удобрение комплексное органо-минеральное SUPER GUMIN MAX</td>
 <td>N-3%, C-8%, гуминовые кислоты-20% фульвокислоты-20%</td>
 <td>2 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>934</td>
+<td>1017</td>
 <td>Удобрение комплексное органо-минеральное SUPER SOIL</td>
 <td>K2O-2%, гуминовые кислоты-14% фульвокислоты-14%</td>
 <td>1 900</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>935</td>
+<td>1018</td>
 <td>Удобрение Контроль ДМП (Control DMP)</td>
 <td>N-30%(АМИДНЫЙ АЗОТ) , P2O5-17%(ПЕНТОКСИД ФОСФОРА)</td>
 <td>3 639</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>936</td>
+<td>1019</td>
 <td>Удобрение Лебозол - МагФос</td>
 <td>P2О5-30%: MgO-6.8%: N-3%</td>
 <td>7 552</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>937</td>
+<td>1020</td>
 <td>Удобрение Лебозол - Полный уход</td>
 <td>аминокислоты-11,6%, N-9,4%, K2O-2,7%, MgO-1,7%, Mn-1,5%, P2O5-0,9%, Zn-0,5%, Cu-0,3%, B-0,05%</td>
 <td>4 275</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>938</td>
+<td>1021</td>
 <td>Удобрение Лебозол марки: Лебозол - Нитрат марганца 235</td>
 <td>Mn-15%, N-7,7%</td>
 <td>4 965</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>939</td>
+<td>1022</td>
 <td>Удобрение Лебозол марки: Лебозол- Молибден</td>
 <td>Mo-15,6%</td>
 <td>35 270</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>940</td>
+<td>1023</td>
 <td>Удобрение Лебозол марки: Лебозол- Нитрат Магния</td>
 <td>MgO-10%, N-7%</td>
 <td>3 158</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>941</td>
+<td>1024</td>
 <td>Удобрение Лебозол марки: Лебозол- Сера 800</td>
 <td>S-56%</td>
 <td>5 140</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>942</td>
+<td>1025</td>
 <td>Удобрение Лебозол марки: Лебозол-Бор</td>
 <td>B-11%</td>
 <td>4 260</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>943</td>
+<td>1026</td>
 <td>Удобрение Лебозол марки: Лебозол-Калий 450</td>
 <td>K2O-30%, N-3%</td>
 <td>5 100</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>944</td>
+<td>1027</td>
 <td>Удобрение Лебозол марки: Лебозол-Кальций</td>
 <td>СаО-16,7%</td>
 <td>3 705</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>945</td>
+<td>1028</td>
 <td>Удобрение Лебозол марки: Лебозол-МагС</td>
 <td>MgO-29,3%, S-22%</td>
 <td>6 148</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>946</td>
+<td>1029</td>
 <td>Удобрение Лебозол марки: Лебозол-Медь-Хелат</td>
 <td>Cu-7%</td>
 <td>10 135</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>947</td>
+<td>1030</td>
 <td>Удобрение Лебозол марки: Лебозол-Нутриплант 8-8-6</td>
 <td>N-8%, карбамидный азот-5.6%, аммиачный азот-1.7%, нитратный азот-0.7%, P2O5-8%, К2О-6%, микроэлементы</td>
 <td>3 640</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>948</td>
+<td>1031</td>
 <td>Удобрение Лебозол марки: Лебозол-Цинк 700</td>
 <td>Zn-40%</td>
 <td>10 475</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>949</td>
+<td>1032</td>
 <td>Удобрение Лебозол, марки: Лебозол-Нутриплант 36</td>
 <td>N-27%, карбамидный азот-18%, нитратный азот-5%, аммиачный азот-4%, Mg-3%, микроэлементы</td>
 <td>3 600</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>950</td>
+<td>1033</td>
 <td>Удобрение Лебозол-Заатгут Микс</td>
 <td>Mn-7.8%: N-6.8%: Zn-4.2%: Cu-2.2%</td>
 <td>5 640</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>951</td>
+<td>1034</td>
 <td>Удобрение Лебозол-Нутриплант 5-20-5</td>
 <td>N-5%, аммиачный азот-4.2%, карбамидный азот-0.9%, P2O5-20%, К2О-5%, микроэлементы</td>
 <td>3 640</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>952</td>
+<td>1035</td>
 <td>Удобрение марки NP 16:20 + 12% S + 0.05% B</td>
 <td>N-16, P-20, S-12, B-0,05</td>
 <td>135 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>953</td>
+<td>1036</td>
 <td>Удобрение марки NPK 6:24:12 + 2% Ca + 5% S + 0.05% Zn</td>
 <td>N-6, P-24, K-12, Ca-2, S-5, Zn-0,05</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>954</td>
+<td>1037</td>
 <td>Удобрение марки NPK 7:21:21 + 4% S + 0.05% Zn</td>
 <td>N-7, P-21, K-21, S-4, Zn-0,05</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>955</td>
+<td>1038</td>
 <td>Удобрение марки NPK 8:15:15 + 3% Ca + 9% S</td>
 <td>N-8, P-15, K-15, Ca-3, S-9</td>
 <td>97 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>956</td>
+<td>1039</td>
 <td>Удобрение Мастер 13:40:13 (Master 13:40:13)</td>
 <td>N-13%; Р205-40%;К2O-13%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>957</td>
+<td>1040</td>
 <td>Удобрение Мастер 15:5:30+2 (Master 15-5-30+2)</td>
 <td>N-15%; Р205-5%;К2O-30%, MgO - 2%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>958</td>
+<td>1041</td>
 <td>Удобрение Мастер 18:18:18+3MgO+S+TE (Master 18:18:18+3MgO+S+TE</td>
 <td>N-18%; Р205-18%;К2O-18%, MgO - 3%,SO3- 6%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>959</td>
+<td>1042</td>
 <td>Удобрение Мастер 20:20:20 (Master 20:20:20)</td>
 <td>N-20%; Р205-20%;К2O-20%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>960</td>
+<td>1043</td>
 <td>Удобрение Мастер 3:11:38+4 (Master 3:11:38+4)</td>
 <td>N-3%; Р205-11%;К2O-38%, MgO-4%, SO3-25, B-0,02, Cu0,005 (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>961</td>
+<td>1044</td>
 <td>Удобрение Мастер 3:37:37 (Master 3:37:37)</td>
 <td>N-3%; Р205-37%;К2O-37%, B-0,02%, Cu-0,005% (EDTA), Fe-0,07% (EDTA), Mn-0,03% (EDTA), Zn-0,01% (EDTA)</td>
 <td>1 353</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>962</td>
+<td>1045</td>
 <td>Удобрение микробиологическое «СТЕРНЯ-12»</td>
 <td>4 штамма спорообразующих бактерий Bacillus subtilis (не менее 108 КОЕ/мл); 3 штамма гриба Trichoderma, молочнокислые, фосфор- и калий мобилизующие, азотфиксирующие бактерии (не менее 4х108 КОЕ/мл); комплекс целлюлозолитических ферментов (активность не менее 5 ед./мл); природные полисахариды, фитогормоны, витамины, L-аминокислоты; гумат калия - 0,5 %</td>
 <td>1 516</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>963</td>
+<td>1046</td>
+<td>Удобрение минеральное комплексное азотно-фосфорно-калийное (NPK 15)</td>
+<td>N-15, P2O5-15, K2O-15</td>
+<td>97500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>1047</td>
 <td>Удобрение минеральное Пекацид</td>
 <td>Массовая доля фосфатов (P₂O₅) в %не менее 59-60, Массовая доля калия (К₂О) в % не менее 19-20</td>
 <td>893</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>964</td>
+<td>1048</td>
 <td>Удобрение минеральное ФЕРТИКА марки: ФЕРТИКА Листовое 18-18-18</td>
-<td>N-18, P2O5-18, K2O-18, MgO-1,4, SO3-1,8, B-0,01, Fe-0,1, Mn-0,1, Cu-0,01, Zn-0,003</td>
+<td>N-18, P2O5-18, K2O-18, MgO-1,4, S-1,8, B-0,01, Cu-0,01, Fe-0,1, Mn-0,1, Mo-0,003, Zn-0,03</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>965</td>
+<td>1049</td>
 <td>Удобрение минеральное ФЕРТИКА марки: ФЕРТИКА Листовое СТАРТ 13-40-13</td>
-<td>N-13, P2O5-40, K2O-13, MgO-0,1, SO3-0,08, B-5, Fe-0,08, Mn-0,08, Cu-0,003, Zn-0,03, Mo-0,003</td>
+<td>N-13, P2O5-40, K2O-13, MgO-0,1, S-0,02, B-0,015, Cu-0,03, Fe-0,08, Mn-0,08, Mo-0,03, Zn-0,03</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>966</td>
+<td>1050</td>
 <td>Удобрение минеральное ФЕРТИКА марки: ФЕРТИКА Плюс 6,4-11-31</td>
 <td>N-6,4, P2O5-11, K2O-31, MgO-2,6, SO3-4,4, B-0,01, Fe-0,1, Mn-0,1, Cu-0,03, Zn-0,002</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>967</td>
+<td>1051</td>
+<td>Удобрение минеральное ФЕРТИКА, марки: ФЕРТИКА Листовое 4-13-36</td>
+<td>N-4, P2O5-13, K2O-36, MgO-1,6, S-7,7, B-0,01, Cu-0,03, Fe-0,1, Mn-0,1, Mo-0,002, Zn-0,03</td>
+<td>1250</td>
+<td>килограмм</td>
+</tr>
+<tr>
+<td>1052</td>
 <td>Удобрение НАНОВИТ АМИНО МАКС</td>
 <td>N-1,7; MgO-0,1; SO3-0,08; Cu-0,015; B-0,01; Fe-0,01; Mn-0,02; Zn-0,02; P2O5-1,0; K2O-1,1; Si-0,004; Co-0,004; аминокислоты-35; полисахариды-0,1; фитогорионы-0,012</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>968</td>
+<td>1053</td>
 <td>Удобрение Нановит Макро</td>
 <td>N –11,1 %; P2O5 - 4,03%; К2О - 6,47%; SO3 – 0,02 %; Cu – 0,01 %; В – 0,02 %; Fe – 0,02 %; Mn- 0,01 %; Zn – 0,01 %; аминокислоты – 3,0 %; органические кислоты – 0,7 %; полисахариды – 0,00388 %; фитогормоны – 0,00044 %</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>969</td>
+<td>1054</td>
 <td>Удобрение НАНОВИТ Микро</td>
 <td>N-3,98; MgO-4,53; SO3-3,91; Cu-0,51; B-0,51; Fe-0,6; Mn-0,94; Zn-0,5; Mo-0,002; аминокислоты-5,19; органические кислоты-5,3; полисахариды-0,00379; фитогормоны-0,00043; гуминовые кислоты-0,25; фульвокислоты-0,045</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>970</td>
+<td>1055</td>
 <td>Удобрение Нановит Молибденовый</td>
 <td>N – 3,34 %, SO3 – 0,25 %; В – 0,5 %; Мо – 3,0 %; Zn – 0,5 %; аминокислоты – 4,26 %; органические кислоты – 16,5 %; полисахариды – 0,00417 %; фитогормоны – 0,00048 %</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>971</td>
+<td>1056</td>
 <td>Удобрение Нановит Супер</td>
 <td>N – 10,0 %, К2О– 5,0 %; MgO-2,46%; В – 0,37 %; Zn – 0,21 %; SO3 – 0,35 %; Cu-0,37%; Mo-0,002%; аминокислоты – 2,86 %; органические кислоты – 2,3%; полисахариды – 0,00403 %; фитогормоны – 0,00046 %)</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>972</td>
+<td>1057</td>
 <td>Удобрение НАНОВИТ ТЕРРА марки 5:20:5</td>
 <td>N-5,0; P2O5-20,0; K2O-5,0; MgO-0,01; SO3-0,01; B-0,02; Cu-0,04; Fe-0,07; Mn-0,035; Mo-0,01; Zn-0,01; Si-0,01; Co-0,001</td>
 <td>1 050</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>973</td>
+<td>1058</td>
 <td>Удобрение Нановит Фосфорный</td>
 <td>N-4,53%, Р2О5-30,00%0, В-0,51%, Zn-0,51%, аминокислоты-0,08%, органические кислоты-4,5%, полисахариды-0,00365%, фитогормоны-0,00042%</td>
 <td>1 500</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>974</td>
+<td>1059</td>
 <td>Удобрение НАНОВИТ: Кальциевый</td>
 <td>N-8,86; MgO-0,71; SO3-0,77; Ca-15,0; Cu-0,02; B-0,04; Fe-0,21; Mn-0,11; Zn-0,02; аминокислоты-0,78; органические кислоты-0,1; полисахариды-0,00347; фитогормоны-0,0004</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>975</td>
+<td>1060</td>
 <td>Удобрение НАНОВИТ: Моно Бор</td>
 <td>B-10,95; аминокислоты-1,5; полисахариды-0,00368; фитогормоны-0,00042</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>976</td>
+<td>1061</td>
 <td>Удобрение НАНОВИТ: Моно Марганец</td>
 <td>Mn-10,84; N-2,66; SO3-4,41; аминокислоты-1,39; органические кислоты-7,2; полисахариды-0,00329; фитогормоны-0,00038</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>977</td>
+<td>1062</td>
 <td>Удобрение НАНОВИТ: Моно медь</td>
 <td>N-5,4; SO3-2,66; Cu-5,65; аминокислоты-2,68; органические кислоты-6,2; полисахариды-0,00397; фитогормоны-0,00045</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>978</td>
+<td>1063</td>
 <td>Удобрение НАНОВИТ: Моно Цинк</td>
 <td>Zn-7,67; N-5,41; SO3-3,61; аминокислоты-2,78; органические кислоты-8,35; полисахариды-0,00385; фитогормоны-0,00044</td>
 <td>1 200</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>979</td>
+<td>1064</td>
 <td>Удобрение органоминеральное Гумат калия</td>
 <td>Соли фульвовых кислот 20 г/л, Соли гуминовых кислот 180 г/л в т.ч. калий 30 г/л, Аминокислоты 25 г/л, Микроэлементы 10 г/л</td>
 <td>660</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>980</td>
+<td>1065</td>
 <td>Удобрение органоминеральное КомплеМет марка Эластико</td>
 <td>Р2О5, не менее 34; К2О, не менее 76; Fe 5,0; Zn 5,0; активное органическое вещество 300</td>
 <td>1 350</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>981</td>
+<td>1066</td>
 <td>Удобрение Плантафол 10:54:10 (Plantafol 10:54:10)</td>
 <td>N-10%; Р205-54%;К2O-10%, B-0,02%, Cu-0,05% (EDTA), Fe-0,1% (EDTA), Mn-0,05% (EDTA), Zn-0,05% (EDTA)</td>
 <td>1 565</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>982</td>
+<td>1067</td>
 <td>Удобрение Плантафол 20:20:20 (Plantafol 20:20:20)</td>
 <td>N-20%; Р205-20%;К2O-20%, B-0,02%, Cu-0,05% (EDTA), Fe-0,1% (EDTA), Mn-0,05% (EDTA), Zn-0,05% (EDTA)</td>
 <td>1 565</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>983</td>
+<td>1068</td>
 <td>Удобрение Плантафол 30:10:10 (Plantafol 30:10:10)</td>
 <td>N-30%; Р205-10%;К2O-10%, B-0,02%, Cu-0,05% (EDTA), Fe-0,1% (EDTA), Mn-0,05% (EDTA), Zn-0,05% (EDTA)</td>
 <td>1 565</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>984</td>
+<td>1069</td>
 <td>Удобрение Плантафол 5:15:45 (Plantafol 5:15:45)</td>
 <td>N-5%, Р205-15%, К2O-45%, B-0,02%, Cu-0,05% (EDTA), Fe-0,1% (EDTA), Mn-0,05% (EDTA), Zn-0,05% (EDTA)</td>
 <td>1 565</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>985</td>
+<td>1070</td>
 <td>Удобрение Полиферт (POLYFERT) марки: 15-7-30</td>
 <td>N-15%, P-7%, K-30%, Mg-0,20%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,012%, Сu(EDTA)-0,012%, B-0,045%, Mo-0,056%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>986</td>
+<td>1071</td>
 <td>Удобрение Полиферт (POLYFERT) марки: 21-11-21</td>
 <td>N-21%, P-11%, K-21%, Mg-0,10%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,015%, Сu(EDTA)-0,012%, B-0,02%, Mo-0,07%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>987</td>
+<td>1072</td>
 <td>Удобрение Ростолон марки: 0-20-35</td>
 <td>N-0, P2O5-20, K2O-35, S-7,5, Fe-0, B-2, Mo-0,2, Cu-0,2, Zn-0,2, Mn-0,2, Mg-0</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>988</td>
+<td>1073</td>
 <td>Удобрение Ростолон марки: 14-14-14</td>
 <td>N-14, P2O5-14, K2O-14, S-6,1, Fe-0,25, B-0,1, Mo-0. Cu-0,65, Zn-0,65, Mn-0,55, Mg-3,4</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>989</td>
+<td>1074</td>
 <td>Удобрение Ростолон марки: 14-5-15</td>
 <td>Азот (N) - 14, Фосфор (P2O5) - 5, Калий (K2O) - 15, Сера (S) - 0, Fe - 0, Бор (B) - 0, Mo - 0, Cu - 0,1, Zn - 0,1, Mn - 0,1, Mg - 0</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>990</td>
+<td>1075</td>
 <td>Удобрение Ростолон марки: 15-5-23</td>
 <td>N-15, P2O5-5, K2O-23, S-9,7, Fe-0,2, B-0,05, Cu-0,3, Zn-0,3, Mn-0,3, Mg-2,2</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>991</td>
+<td>1076</td>
 <td>Удобрение Ростолон марки: 17-6-18</td>
 <td>N-17, P2O5-6, K2O-18, S-4,8, Fe-0,25, B-0,1, Mo-1,5, Cu-0,8, Zn-0,8, Mn-0,9, Mg-0</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>992</td>
+<td>1077</td>
 <td>Удобрение Ростолон марки: 18-18-18</td>
 <td>N-18, P2O5-18, K2O-18, S-4,7, Fe-0, B-0, Mo-0, Cu-0,03, Zn-5,3, Mn-0, Mg-0,025</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>993</td>
+<td>1078</td>
 <td>Удобрение Ростолон марки: 18-18-18 Ме</td>
 <td>N-18, P2O5-18, K2O-18, S-1,7, Fe-0,1, B-0,1, Mo-1,5, Cu-0,4, Zn-0,4, Mn-0,4</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>994</td>
+<td>1079</td>
 <td>Удобрение Ростолон марки: 20-20-20</td>
 <td>N-20, P2O5-20, K2O-20, S-2,2, Fe-0,1, B-0,04, Cu-0,25, Zn-0,25, Mn-0,20, Mg-0</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>995</td>
+<td>1080</td>
 <td>Удобрение Ростолон марки: 3-11-26</td>
 <td>N-3, P2O5-11, K2O-26, S-12,5, Fe-0,25, B-0,1, Cu-0,55, Zn-0,55, Mn-0,5, Mg-4,5</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>996</td>
+<td>1081</td>
 <td>Удобрение Ростолон марки: 35-0-0</td>
 <td>N-35, P2O5-0, К2О-0, S-0, Fe-0, B-4, Mo-0,05, Cu-0,1, Zn-0,1, Mn-0,1, Mg-0</td>
 <td>1 250</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>997</td>
+<td>1082</td>
 <td>Удобрение Руткат (Rutkat)</td>
 <td>P2O5-4, K2O-3, Fe-0,4, свободные аминокислоты-10, полисахариды-6,1, ауксины-0,6</td>
 <td>6 060</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>998</td>
+<td>1083</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее марки 20:20</td>
 <td>N-20, P-20, S-8-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>999</td>
+<td>1084</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее марки 20:20</td>
 <td>N-20, P-20, S-14</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 000</td>
+<td>1085</td>
+<td>Удобрение сложное азотно-фосфорное серосодержащее марки 20:20</td>
+<td>N-20, P2O5-20, S-14</td>
+<td>85 500</td>
+<td>тонна</td>
+</tr>
+<tr>
+<td>1086</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее марки 20:20</td>
 <td>N-20±1, P2O5-20±1, S-14±1</td>
 <td>85 500</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 001</td>
+<td>1087</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее, марки: 20:20+Zn</td>
 <td>N-20, P2O5-20, S-14, Zn-0,21</td>
 <td>135 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 002</td>
+<td>1088</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее, марки: 20:20+В</td>
 <td>N-20, P2O5-20, S-14, B-0,03</td>
-<td>135 000</td>
+<td>135000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 003</td>
+<td>1089</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее, марки: 20:20+ВCMZ</td>
 <td>N-20, P2O5-20, S-14, B-0,02, Cu-0,03, Mn-0,030, Zn-0,060</td>
 <td>135 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 004</td>
+<td>1090</td>
 <td>Удобрение сложное азотно-фосфорное серосодержащее, марки: 20:20+ВMZ</td>
 <td>N-20, P2O5-20, S-14, B-0,018, Mn-0,030, Zn-0,060</td>
 <td>135 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 005</td>
+<td>1091</td>
 <td>Удобрение Ультрамаг Комби марки «Для масличных»</td>
 <td>N-15%, SO3-2,5%, MgO-2,5%, Fe-0,5%, Mn-0,5%, Zn-0,5%, Cu-0,1%, B-0,5%, Mo-0,005%, Ti-0,03%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 006</td>
+<td>1092</td>
 <td>Удобрение Ультрамаг Комби, марка «Для бобовых»</td>
 <td>N-15%, MgO-2%, SO3-1%, B-0,5%, Cu-0,2%, Fe-0,3%, Co-0,002%, Mn-0,4%, Mo-0,036%, Zn-0,3%, Ti-0,02%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 007</td>
+<td>1093</td>
 <td>Удобрение Ультрамаг Комби, марка «Для зерновых»</td>
 <td>N-15%, MgO-2%, SO3-4,5%, Cu-0,9%, Fe-0,8%, Mn-1,1%, Mo-0,005%, Zn-1%, Ti-0,02%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 008</td>
+<td>1094</td>
 <td>Удобрение Ультрамаг Комби, марка «Для кукурузы»</td>
 <td>N-15%, MgO-2%, SO3-4,2%, B-0,4%, Cu-0,6%, Fe-0,7%, Mn-0,7%, Mo-0,003%, Zn-1,1%, Ti-0,02%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 009</td>
+<td>1095</td>
 <td>Удобрение Ультрамаг Комби, марка «Для свёклы»</td>
 <td>N-15%, MgO-2%, SO3-1,8%, B-0,5%, Cu-0,2%, Fe-0,2%, Mn-0,65%, Mo-0,005%, Zn-0,5%, Ti-0,02%, Na2O-3%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 010</td>
+<td>1096</td>
 <td>Удобрение Ультрамаг марки «Калий»</td>
 <td>K2O-22,0, N-2,6</td>
 <td>2 400</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 011</td>
+<td>1097</td>
 <td>Удобрение Ультрамаг марки «Кальций»</td>
 <td>CaO-17,0, N-10,0</td>
 <td>2 400</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 012</td>
+<td>1098</td>
 <td>Удобрение Ультрамаг марки «Молибден»</td>
 <td>Mo-3, N-4,5</td>
 <td>2 400</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 013</td>
+<td>1099</td>
 <td>УДОБРЕНИЕ УНИВЕРСАЛЬНОЕ &quot;ГУМИМАКС-П&quot; комплексное гумино-минеральное с микроэлементами</td>
 <td>гуминовые и фульвовые кислоты-2%, органические кислоты-14%, аминокислоты-0,15%, N-3,5%, P2O5-3,5%, K2O-5%, микроэлементы-0,5%</td>
 <td>1 563</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 014</td>
+<td>1100</td>
 <td>Удобрение Феррилен (Ferrilеne)</td>
 <td>Fe-6% (EDDHSA)</td>
 <td>3 929</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 015</td>
+<td>1101</td>
 <td>Удобрение Феррилен Триум (Ferriline Trium)</td>
 <td>Fe-6,0% (EDDHA/EDDHSA), Mn-1,0% (EDTA), K2O-6,0%</td>
 <td>3 929</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 016</td>
+<td>1102</td>
 <td>Удобрения Coveron (КОВЕРОН)</td>
 <td>N-2, Zn-0,0002, Cu-0,0003</td>
 <td>46 750</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 017</td>
+<td>1103</td>
 <td>Удобрения Ideal P60</td>
 <td>N-0,5%, P2O5-55%</td>
 <td>2 750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 018</td>
+<td>1104</td>
 <td>Удобрения KALIBRE</td>
 <td>N-5%, K2O-20%</td>
 <td>3 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 019</td>
+<td>1105</td>
 <td>Удобрения Power K</td>
 <td>K2O-30%</td>
 <td>3 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 020</td>
+<td>1106</td>
 <td>Удобрения SCUDO (Скудо)</td>
 <td>N-3,5, S-11,3, Cu-9, аминокислоты и пептиды-9</td>
 <td>5 450</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 021</td>
+<td>1107</td>
 <td>Удобрения TIFI Max (Тифи Макс)</td>
 <td>N-2, Zn-0,0002, Cu-0,0002</td>
 <td>46 750</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 022</td>
+<td>1108</td>
 <td>Удобрения TRAINER (Тренер)</td>
 <td>N-5, Zn-0,0005, Cu-0,0003 аминокислоты и пептиды-29</td>
 <td>3 675</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 023</td>
-<td>Удобрения азотные жидкие (КАС)</td>
+<td>1109</td>
+<td>Удобрения жидкие азотные (КАС)</td>
 <td>N-28</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 024</td>
-<td>Удобрения азотные жидкие (КАС)</td>
+<td>1110</td>
+<td>Удобрения жидкие азотные (КАС)</td>
 <td>N-32</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 025</td>
+<td>1111</td>
 <td>Удобрения жидкие азотные (КАС)</td>
 <td>N аммонийный -н.м. 6,8, N нитратный - н.м. 6,8, N амидный - н.м. 13,5</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 026</td>
-<td>Удобрения жидкие комплексные (ЖКУ), марки: 11-37</td>
-<td>N-10, P2О5-37</td>
+<td>1112</td>
+<td>Удобрения жидкие комплексные (ЖКУ) марки 11-37</td>
+<td>N-11, P-37</td>
 <td>133 929</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 027</td>
+<td>1113</td>
 <td>Удобрения жидкие комплексные (ЖКУ), марки: 11-37</td>
 <td>N-11%, P-37%</td>
 <td>133 929</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 028</td>
+<td>1114</td>
 <td>Удобрения жидкие азотные марок КАС-32</td>
 <td>N-32</td>
 <td>71 766</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 029</td>
+<td>1115</td>
 <td>Удобрения комплексные КомплеМет марки Кукуруза</td>
 <td>Nобщ, не менее 2,4; P2O5, не менее 97; K2O, не менее 85; SО4, не менее14; Mn 10; Cu 2,5; Zn 30; B 4,0; Mo 0,15;Co 0,05</td>
 <td>750</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 030</td>
+<td>1116</td>
 <td>Удобрения комплексные КомплеМет марки: Бобовые</td>
 <td>Nобщ, не менее 6,8; P2O5, не менее 83; K2O, не менее103; SО4, не менее 14; Mn 15; Cu 2,0; Zn 5,0; B 8,0; Mo 15; Co 3,0</td>
 <td>1 637</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 031</td>
+<td>1117</td>
 <td>Удобрения комплексные КомплеМет марки: Железо</td>
 <td>P2O5, не менее 80; K2O, не менее 39; SО4, не менее 51; Fe 30</td>
 <td>675</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 032</td>
+<td>1118</td>
 <td>Удобрения комплексные КомплеМет марки: Железо+Цинк</td>
 <td>P2O5, не менее 73; K2O, не менее 41; SО4, не менее 25; Fe 15; Zn 15</td>
 <td>673</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 033</td>
+<td>1119</td>
 <td>Удобрения комплексные КомплеМет марки: Картофель</td>
 <td>Nобщ, не менее 9,8; P2O5, не менее 83; K2O, не менее 99; SО4, не менее 14; Mn 15; Cu 12; Zn 8,0; B 7,0; Mo 0,15; Co 0,05</td>
 <td>693</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 034</td>
+<td>1120</td>
 <td>Удобрения комплексные КомплеМет марки: Лен</td>
 <td>Nобщ, не менее 3,9; P2O5, не менее 92; K2O, не менее85; SО4, не менее14; Mn 10; Cu 5,0; Zn 25; B 7,0; Mo 0,15; Co 0,05</td>
 <td>803</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 035</td>
+<td>1121</td>
 <td>Удобрения комплексные КомплеМет марки: Марганец</td>
 <td>Nобщ, не менее 12; P2O5, не менее 80; K2O, не менее 103; SО4, не менее 14;Mn 30</td>
 <td>645</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 036</td>
+<td>1122</td>
 <td>Удобрения комплексные КомплеМет марки: Медь</td>
 <td>Nобщ, не менее 14; Р2О5, не менее 67; К2О, не менее 88; Cu, 30</td>
 <td>757</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 037</td>
+<td>1123</td>
 <td>Удобрения комплексные КомплеМет марки: Молибден</td>
 <td>Nобщ, не менее 3,8; Р2О5, не менее 44; К2О, не менее 58; Mo 30</td>
 <td>2 043</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 038</td>
+<td>1124</td>
 <td>Удобрения комплексные КомплеМет марки: Рапс</td>
 <td>Nобщ, не менее 1,0; P2O5, не менее 83; K2O, не менее 57; SО4, не менее 35; Mn 20; Cu 2,0; Zn 12; B 7,0; Mo 0,15; Co 0,06</td>
 <td>657</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 039</td>
+<td>1125</td>
 <td>Удобрения комплексные КомплеМет марки: Свекла</td>
 <td>Nобщ, не менее 11; P2O5, не менее 87; K2O, не менее 106; SО4, не менее 14; Mn 25; Cu 4,0; Zn 6,0; B 7,0; Mo 0,15; Co 0,05</td>
 <td>793</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 040</td>
+<td>1126</td>
 <td>Удобрения комплексные КомплеМет марки: СО</td>
 <td>Nобщ, не менее 5,5; P2O5, не менее 79; K2O, не менее 83; SО4, не менее 14; Mn 10; Cu 9,0; Zn 15; B 4,5; Mo 0,15; Co 0,05</td>
 <td>693</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 041</td>
+<td>1127</td>
 <td>Удобрения комплексные КомплеМет марки: Цинк</td>
 <td>Р2О5, не менее 67; К2О, не менее 43; Zn 30</td>
 <td>459</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 042</td>
+<td>1128</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Актив</td>
 <td>Nобщ, не менее 105*; P2O5, не менее 99; K2O, не менее 87; SО4, не менее 10; MgO, не менее 11,6; Fe 9,0; Mn 3,0; Cu 3,0; Zn 5,0; B 3,0; Mo0,15; Co 0,05; активное органическое вещество 200</td>
 <td>1 592</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 043</td>
+<td>1129</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Бутон</td>
 <td>Nобщ, не менее 50; Р2О5, не менее 200; СaO, не менее 50; B 3,0; активное органическое вещество 100</td>
 <td>1 613</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 044</td>
+<td>1130</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Кукуруза Импульс</td>
 <td>Nобщ, не менее 20; Р2О5, не менее 140; К2О, не менее 90; SO4, не менее 10; Mn 10; Cu 2,5; Zn 30; B 4,0 ; Mo 0,15; Co 0,05; активное органическое вещество 200</td>
 <td>1 684</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 045</td>
+<td>1131</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Рапс Импульс</td>
 <td>Nобщ, не менее 25; Р2О5, не менее 120; К2О, не менее 80; SO4, не менее 10; Mn 20; Cu 2,0; Zn 12; B 7,0; Mo 0,15;Co 0,06; активное органическое вещество 200</td>
 <td>1 587</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 046</td>
+<td>1132</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Рубин</td>
 <td>N общ, не менее 50; Р2О5, не менее 320; К2О, не менее 95; CaО, не менее 50; MgO, не менее 15; Zn 4,5; активное органическое вещество 200</td>
 <td>1 962</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 047</td>
+<td>1133</td>
 <td>Удобрения комплексные органоминеральные КомплеМет марки: Сад-Огород Импульс</td>
 <td>Nобщ, не менее 20; Р2О5, не менее 110; К2О, не менее 75; SO4, не менее 10; Mn 10; Cu 9,0; Zn 15,0; B 4,5; Mo 0,15; Co 0,05; активное органическое вещество 200</td>
 <td>693</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 048</td>
+<td>1134</td>
 <td>Удобрения Лебозол марки: Лебозол- РапсМикс</td>
 <td>S-9,2%, СaO-8,7%, Mn-4,8%, B-4,1%, Mo-0,5%</td>
 <td>7 553</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 049</td>
+<td>1135</td>
 <td>Удобрения Лебозол марки: Лебозол-КвадроС</td>
 <td>Mn-12,2%, S-12%, Zn-6%, Сu-4,8%</td>
 <td>11 011</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 050</td>
+<td>1136</td>
 <td>Удобрения Лебозол марки: Лебозол-ТриМакс</td>
 <td>Mn-12%: Zn-8.5%: Cu-8.4%</td>
 <td>11 675</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 051</td>
+<td>1137</td>
 <td>Удобрения Полиферт (POLYFERT) марки 15-7-30</td>
 <td>N-15%, P-7%, K-30%, Mg-0,20%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,012%, Cu(EDTA)-0,012%, B-0,045%, Mo-0,056%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 052</td>
+<td>1138</td>
 <td>Удобрения Полиферт (POLYFERT) марки 19-19-19</td>
 <td>N-19%, P-19%, K-19%, Mg-0,10%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,015%, Cu(EDTA)-0,012%, B-0,02%, Mo-0,07%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 053</td>
+<td>1139</td>
 <td>Удобрения Полиферт (POLYFERT) марки 21-11-21</td>
 <td>N-21%, P-11%, K-21%, Mg-0,10%, S-0,19%, Fe(EDTA)-0,10%, Mn(EDTA)-0,05%, Zn(EDTA)-0,015%, Cu(EDTA)-0,012%, B-0,02%, Mo-0,07%</td>
 <td>1 500</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 054</td>
+<td>1140</td>
 <td>Удобрения Ревитаплант, марки Картофель</td>
 <td>Mg-0,5%, Si-0.5%, Fe(EDTA)-0.2%, Mn(EDTA)-0,6%, Zn(EDTA)-1,1%, Cu(EDTA)-1,5%, Mo-0,02%, Co-0,005%, аминокислоты 8%</td>
 <td>1 750 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 055</td>
+<td>1141</td>
 <td>Удобрения Ревитаплант, марки Подсолнечник</td>
 <td>MgО-0,5%, Si-0,05%, Mn(EDTA)-0,7%, Zn(EDTA)-2,1%, Cu(EDTA)-1,5%, Mo-0,02%, Co-0,005%, аминокислоты 8%</td>
 <td>1 750 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 056</td>
+<td>1142</td>
 <td>Удобрения Ревитаплант, марки: Зерновые + NPK</td>
 <td>N-10%, P-10%, K-10%, Mg-0,4%, Si-0.5%, Fe(EDTA)-0.4%, Mn(EDTA)-0,6%, Zn(EDTA)-1,5%, Cu(EDTA)-0,12%, Mo-0,02%, Co-0,007%, аминокислоты 8%</td>
 <td>1 750 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 057</td>
+<td>1143</td>
 <td>Ультрамаг Комби, марка &quot;Для картофеля&quot;</td>
 <td>N-15,0%, MgO-2,5% SO3-2,5%, Fe-0,3%, Mn-0,6%, Cu-0,2%, B-0,4%, Mo-0,005%, Zn-0,65%, Ti-0,03%</td>
 <td>3 150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 058</td>
+<td>1144</td>
 <td>Ультрамаг Супер Цинк-700</td>
 <td>Zn-40,0, N-1,5</td>
 <td>4 107</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 059</td>
+<td>1145</td>
 <td>Ультрамаг Фосфор марки &quot;Актив&quot;</td>
 <td>N-5,2%, P2O5-35%</td>
 <td>2 366</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 060</td>
+<td>1146</td>
 <td>Ультрамаг Фосфор марки &quot;Супер&quot;</td>
 <td>N-6,4%, P2O5-35%, MgO-4%, Zn-2,5%</td>
 <td>3 411</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 061</td>
+<td>1147</td>
 <td>Феррилен 4.8 (Ferrilene 4.8)</td>
 <td>Fe - 6,0% (EDDHSA орто-орто)</td>
 <td>3 929</td>
 <td>килограмм</td>
 </tr>
 <tr>
-<td>1 062</td>
+<td>1148</td>
 <td>Фертигрейн Свекловичный</td>
 <td>N-3,5%, P-2%, Mn-1%, B - 0,3%, S-2%, аминокислоты-7%</td>
 <td>2 744</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 063</td>
+<td>1149</td>
 <td>Фертигрейн Старт</td>
 <td>N-3%, Zn-1%, аминокислоты-9%, L-аминокислоты-6,5%, экстракт морских водорослей-4%, органическое вещество-30%</td>
 <td>4 002</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 064</td>
+<td>1150</td>
 <td>Фертигрейн Старт СоМо</td>
 <td>N-3%, Zn-1%, Со - 0,5%, Mo-1%, аминокислоты-9%, L-аминокислоты-6,5%, экстракт морских водорослей-4%, органическое вещество-30%</td>
 <td>4 912</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 065</td>
+<td>1151</td>
 <td>Фертигрейн Фолиар</td>
 <td>N-5%, Zn-0,75%, Mn-0,5%,B-0,1%, S - 4%, Fe-0,1%, Cu-0,1%, Mo-0,02%, Co-0,01%, аминокислоты-10%, органические вещества-40%</td>
 <td>2 609</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 066</td>
+<td>1152</td>
 <td>Фертика сульфат калия</td>
 <td>К2О-50</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 067</td>
+<td>1153</td>
 <td>Фертика Сульфат калия (калий сернокислый)</td>
 <td>К2О-50±1, SO4-51±0,5</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 068</td>
+<td>1154</td>
 <td>Фертика Сульфат калия (Калий сернокислый)</td>
 <td>K2O-50, SO4-52</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 069</td>
+<td>1155</td>
 <td>ФЕРТИКА Сульфат калия (калий сернокислый)</td>
 <td>K2O-52, SO4-52</td>
 <td>145 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 070</td>
+<td>1156</td>
 <td>Фосфогипс для сельского хозяйства</td>
-<td></td>
+<td>?</td>
 <td>20 000</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 071</td>
+<td>1157</td>
 <td>Хлорид калия марки SOLUMOP®</td>
 <td>KCl-95,8, K2O-60</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 072</td>
+<td>1158</td>
 <td>Хлористый калий марки B 45%+ BMZ(aa)</td>
 <td>K2O-45, MgO-2, B-0.015, Mn-0.001, Zn-0.025, массовая доля свободных аминокислот-0,125</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 073</td>
+<td>1159</td>
 <td>Хлористый калий марки А 60%+ BMZ(aa)</td>
 <td>K2O-60, B-0,015, Mn-0,001, Zn-0,025, массовая доля свободных аминокислот-0,125</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 074</td>
+<td>1160</td>
 <td>Хлористый калий, марки SiB (модифицированное минеральное удобрение)</td>
 <td>K2O-60, Bacilluis subtilis Ч-13, 5*10^4, КОЕ/г</td>
 <td>113 839</td>
 <td>тонна</td>
 </tr>
 <tr>
-<td>1 075</td>
+<td>1161</td>
+<td>Цитогумат Голд</td>
+<td>Гуминовая кислота&lt;5, фульвовая кислота&lt;1, гуминовые вещества&lt;6, N-1,43, K-6,2, Na-5,2, Fe-0,4, Cu-0,2, Zn-0,2, B-0,2, Mn-0,17, Co-0,02, Mo-0,018</td>
+<td>675</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>1162</td>
 <td>Цитогумат марки Б</td>
 <td>N-1,43%, K2O-6,2%, Na-5,2%, P2O5-238 мг/кг, SO3-681 мг/кг, CaO-939 мг/кг, Fe-253 мг/кг, Mg-78 мг/кг, B-71 мг/кг, Со-0,7 мг/кг, Mn-25 мг/кг, Zn-71 мг/кг, Мо-28 мг/кг, Cu-96 мг/га, Al-76 мг/га, Ва-5,5 мг/кг, Ni-1,3 мг/кг</td>
 <td>1 938</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 076</td>
+<td>1163</td>
 <td>ЭКОЛАЙН Бор (органический) - ECOLINE Boron (organic)</td>
 <td>B-15,5, N-6,5</td>
 <td>1 250</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 077</td>
+<td>1164</td>
 <td>ЭКОЛАЙН Фосфитный (К) - ECOLINE Phosphite (К)</td>
 <td>P2O5 (фосфит) -53, K2O-35, N-0,6, B-1,4</td>
 <td>2 000</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 078</td>
+<td>1165</td>
 <td>ЭКОЛАЙН Фосфитный (К-Zn) - ECOLINE Phosphite (K-Zn)</td>
 <td>P2O5 (фосфит) -32, K2O-17, Zn (хелат ЕДТА) - 3,5, B-0,8</td>
-<td>2 150</td>
+<td>2150</td>
 <td>литр</td>
 </tr>
 <tr>
-<td>1 079</td>
+<td>1166</td>
 <td>ЭКОЛАЙН Фосфитный (К-Амино) - ECOLINE Phosphite (К-Amino)</td>
 <td>P2O5 (фосфит) -25, K2O-17, N-4, aминокислоты L-a-7</td>
-<td>2 150</td>
+<td>2150</td>
+<td>литр</td>
+</tr>
+<tr>
+<td>1167</td>
+<td>Агрохимикат БОРО-Н</td>
+<td>Легкодоступный бор (B) – 150 г/л (11%), аминный азот (N) – 51 г/л (3,7%)</td>
+<td>1250</td>
 <td>литр</td>
 </tr>
 </table>
