@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/60057/kaz/26.10.2024
+source: https://zan.gov.kz/client/#!/doc/60057/kaz/10.09.2025
 ---
 
 # Жекешелендіру объектілерін сату қағидасын бекіту туралы
