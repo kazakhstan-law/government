@@ -1,0 +1,25 @@
+key: G25CC00252A
+akn: /akn/kz/act/2025-09-10/G25CC00252A
+act_code: '214188'
+requisite: Постановление акимата Алгинского района Актюбинской области от 10 сентября 2025 года № 252
+title:
+  rus: Об утвержении тарифов на оказание специальных социальных услуг на 2025 год
+  kaz: 2025 жылға арнаулы әлеуметтік қызметтер көрсетуге арналған тарифтерін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-09-10
+in_force_from: 2025-09-26
+approved_by:
+- '153004000001'
+versions:
+- date: 2025-09-10
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-09-10
+  rus: 2025-09-10
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/214188/kaz/10.09.2025
+  rus: https://zan.gov.kz/client/#!/doc/214188/rus/10.09.2025
