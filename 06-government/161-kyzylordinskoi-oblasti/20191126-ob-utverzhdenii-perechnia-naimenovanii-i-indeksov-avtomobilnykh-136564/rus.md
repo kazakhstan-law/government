@@ -1,5 +1,5 @@
 ---
-version_id: '136564_429074'
+version_id: '136564_775805'
 act_code: '136564'
 language: rus
 title: Об утверждении перечня, наименований и индексов автомобильных дорог общего пользования районного значения по Жанакорганскому району
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '161009000001'
 approval_date: 2019-11-26
-version_date: 2019-11-26
+version_date: 2025-09-18
 registry_number: '136564'
-source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
+caused_by:
+  code: '214644'
+  title: О внесении изменений в постановление акимата Жанакорганского района от 26 ноября 2019 года № 62 «Об утверждении перечня, наименований и индексов автомобильных дорог общего пользования районного значения по Жанакорганскому району»
+  link: https://zan.gov.kz/client/#!/doc/214644/rus
+source: https://zan.gov.kz/client/#!/doc/136564/rus
 ---
 
 # Об утверждении перечня, наименований и индексов автомобильных дорог общего пользования районного значения по Жанакорганскому району
@@ -37,555 +41,77 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 > *транспорта и автомобильных*  
 > *дорог Кызылординской области»*
 
-> *Приложение к постановлению*  
+> *Утвержден постановлением*  
 > *акимата Жанакорганского района*  
-> *от «26» ноября 2019 года*
+> *от 26 ноября 2019 года № 62*
 
-# Перечень, наименований и индексов автомобильных дорог общего пользования районного значения по Жанакорганскому району
+# Перечень, наименования и индексы автомобильных дорог общего пользования районного значения по Жанакорганскому району
 
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Индекс</td>
-<td rowspan="2">Наименование автомобильных дорог</td>
-<td rowspan="2">Общая протяженность, километр</td>
-<td colspan="5">По категориям, километр</td>
-</tr>
-<tr>
-<td>I</td>
-<td>II</td>
-<td>III</td>
-<td>IV</td>
-<td>V</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
-<td>7</td>
-<td>8</td>
-<td>9</td>
-</tr>
-<tr>
-<td>1</td>
-<td>KNH-1</td>
-<td>Самара –Шымкент-Бирлик</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>KNH-2</td>
-<td>Самара –Шымкент-Кенес</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td>14</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>KNH-3</td>
-<td>Самара –Шымкент-Жайылма</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>7</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>KNH-4</td>
-<td>Самара –Шымкент-Томенарык</td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td>10</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>KNH-5</td>
-<td>Самара –Шымкент-Жулдыз</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td>9</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>KNH-6</td>
-<td>Самара –Шымкент-Кыраш</td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>KNH-7</td>
-<td>Самара –Шымкент-Косуйенки</td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>13</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>KNH-8</td>
-<td>Самара –Шымкент-станция Талап</td>
-<td>11</td>
-<td></td>
-<td></td>
-<td></td>
-<td>6</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>KNH-9</td>
-<td>Абдигаппар-Толегетай-Корасан ата</td>
-<td>25,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td>25,9</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>KNH-10</td>
-<td>Подъезная дорога к Кейден</td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td>7</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>KNH-11</td>
-<td>Подъезная дорога к Акжол</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td>KNH-12</td>
-<td>Объездная дорога Келинтобе</td>
-<td>3,5</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3,5</td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>KNH-13</td>
-<td>Подъездная дорога к лагеру «Тау самалы»</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td>12</td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
-<td>KNH-14</td>
-<td>Самара –Шымкент-Шалхия</td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td>14</td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>KNH-15</td>
-<td>Самара –Шымкент-Екпинди</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td>9</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>KNH-16</td>
-<td>Самара-Шымкент-Аккум</td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>KNH-17</td>
-<td>Водохранилище Кенес - Бесарык</td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>8</td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>KNH-18</td>
-<td>Самара-Шымкент-поселок Жанакорган</td>
-<td>14,7</td>
-<td></td>
-<td></td>
-<td>14,7</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>KNH-19</td>
-<td>Жанакорган- Байкен-U</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>KNH-20</td>
-<td>Самара-Шымкент-станция Бесарык</td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Итого:</td>
-<td>192,1</td>
-<td></td>
-<td></td>
-<td>23,7</td>
-<td>151,4</td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
+> *Сноска. Приложение - в редакции постановления акимата Жанакорганского района Кызылординской области от 18.09.2025 № 127 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
 <td rowspan="3">№</td>
 <td rowspan="3">Индекс</td>
-<td rowspan="3">Наименование автомобильных дорог</td>
+<td rowspan="3">
+Наименование
+автомобильных дорог
+</td>
+<td rowspan="3">О б щ а я п р от яж е н н о с т ь, к и л о м е т р</td>
+<td colspan="5">По категориям, километр</td>
 <td colspan="6">В том числе по видам покрытия, километр</td>
-</tr>
-<tr>
-<td rowspan="2">Асфальтобетонное</td>
-<td colspan="3">Черно</td>
-<td rowspan="2">Гравинный щебеночное</td>
-<td rowspan="2">Грунтовое</td>
-</tr>
-<tr>
-<td>Гравинный</td>
-<td>Щебень</td>
-<td>Грунтовое</td>
-</tr>
-<tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>10</td>
-<td>11</td>
-<td>12</td>
-<td>13</td>
-<td>14</td>
-<td>15</td>
-</tr>
-<tr>
-<td>1</td>
-<td>KNH-1</td>
-<td>Самара –Шымкент-Бирлик</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>KNH-2</td>
-<td>Самара –Шымкент-Кенес</td>
-<td></td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>KNH-3</td>
-<td>Самара –Шымкент-Жайылма</td>
-<td></td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>KNH-4</td>
-<td>Самара –Шымкент-Томенарык</td>
-<td></td>
-<td>10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>KNH-5</td>
-<td>Самара –Шымкент-Жулдыз</td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>KNH-6</td>
-<td>Самара –Шымкент-Кыраш</td>
-<td></td>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>KNH-7</td>
-<td>Самара –Шымкент-Косуйенки</td>
-<td></td>
-<td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>KNH-8</td>
-<td>Самара –Шымкент-станция Талап</td>
-<td></td>
-<td>6</td>
-<td></td>
-<td></td>
-<td>5</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>KNH-9</td>
-<td>Абдигаппар-Толегетай-Корасан ата</td>
-<td></td>
-<td>25,9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>KNH-10</td>
-<td>Подъезная дорога к Кейден</td>
-<td></td>
-<td>7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>KNH-11</td>
-<td>Подъезная дорога к Акжол</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>12</td>
-<td>KNH-12</td>
-<td>Объездная дорога Келинтобе</td>
-<td></td>
-<td>3,5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>13</td>
-<td>KNH-13</td>
-<td>Подъездная дорога к лагеру «Тау самалы»</td>
-<td></td>
-<td>12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
-<td>KNH-14</td>
-<td>Самара –Шымкент-Шалхия</td>
-<td></td>
-<td>14</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>15</td>
-<td>KNH-15</td>
-<td>Самара –Шымкент-Екпинди</td>
-<td></td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>KNH-16</td>
-<td>Самара-Шымкент-Аккум</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>12</td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
-<td>KNH-17</td>
-<td>Водохранилище Кенес - Бесарык</td>
-<td></td>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>18</td>
-<td>KNH-18</td>
-<td>Самара-Шымкент-поселок Жанакорган</td>
-<td>14,7</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19</td>
-<td>KNH-19</td>
-<td>Жанакорган- Байкен-U</td>
-<td>9</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>20</td>
-<td>KNH-20</td>
-<td>Самара-Шымкент-станция Бесарык</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Итого:</td>
-<td>23,7</td>
-<td>151,4</td>
-<td></td>
-<td></td>
-<td>17</td>
-<td></td>
-</tr>
-</table>
-
-Продолжение таблицы
-
-<table>
-<tr>
-<td rowspan="2">№</td>
-<td rowspan="2">Индекс</td>
-<td rowspan="2">Наименование автомобильных дорог</td>
 <td colspan="2">Мосты</td>
 <td colspan="2">Трубы</td>
 </tr>
 <tr>
-<td>Штук</td>
-<td>Длина погонных метров</td>
-<td>Штук</td>
-<td>Длина погонных метров</td>
+<td rowspan="2">I</td>
+<td rowspan="2">II</td>
+<td rowspan="2">III</td>
+<td rowspan="2">IV</td>
+<td rowspan="2">V</td>
+<td rowspan="2">А с ф а л ь т о б ет о нн о е</td>
+<td colspan="3">Черно</td>
+<td rowspan="2">Г р а в и н н ы й щ е б ен о ч н о е</td>
+<td rowspan="2">Г р у н т о в о е</td>
+<td rowspan="2">Ш т у к</td>
+<td rowspan="2">
+Д л
+и н а п о г о н н ы х м е т р о в
+</td>
+<td rowspan="2">Ш т у к</td>
+<td rowspan="2">Д л и н а п о г о нн ы х м е т р о в</td>
+</tr>
+<tr>
+<td>
+Г
+р
+а
+в
+и
+н
+н
+ы
+й
+</td>
+<td>Щ еб е н ь</td>
+<td>Г р у н т о в о е</td>
 </tr>
 <tr>
 <td>1</td>
 <td>2</td>
 <td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>15</td>
 <td>16</td>
 <td>17</td>
 <td>18</td>
@@ -595,6 +121,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>1</td>
 <td>KNH-1</td>
 <td>Самара –Шымкент-Бирлик</td>
+<td>1,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1,7</td>
+<td></td>
+<td></td>
+<td>1,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>1</td>
@@ -604,6 +142,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>2</td>
 <td>KNH-2</td>
 <td>Самара –Шымкент-Кенес</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td></td>
+<td></td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -613,6 +163,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>3</td>
 <td>KNH-3</td>
 <td>Самара –Шымкент-Жайылма</td>
+<td>4,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4,7</td>
+<td></td>
+<td></td>
+<td>4,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -622,17 +184,41 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>4</td>
 <td>KNH-4</td>
 <td>Самара –Шымкент-Томенарык</td>
-<td>1</td>
-<td>8</td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>4</td>
 <td>46</td>
 </tr>
 <tr>
 <td>5</td>
 <td>KNH-5</td>
-<td>Самара –Шымкент-Жулдыз</td>
-<td>1</td>
-<td>8</td>
+<td>Самара –Шымкент- Суттикудык (Жулдыз)</td>
+<td>2,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2,7</td>
+<td></td>
+<td></td>
+<td>2,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>4</td>
 <td>50</td>
 </tr>
@@ -640,15 +226,39 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>6</td>
 <td>KNH-6</td>
 <td>Самара –Шымкент-Кыраш</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>4</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>16</td>
 </tr>
 <tr>
 <td>7</td>
 <td>KNH-7</td>
 <td>Самара –Шымкент-Косуйенки</td>
+<td>12,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>12,4</td>
+<td></td>
+<td></td>
+<td>12,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
 <td>8</td>
 <td>4</td>
@@ -658,24 +268,60 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>8</td>
 <td>KNH-8</td>
 <td>Самара –Шымкент-станция Талап</td>
+<td>11,4</td>
 <td></td>
 <td></td>
-<td>2</td>
-<td>14</td>
+<td></td>
+<td></td>
+<td>11,4</td>
+<td></td>
+<td>11,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>28</td>
 </tr>
 <tr>
 <td>9</td>
 <td>KNH-9</td>
 <td>Абдигаппар-Толегетай-Корасан ата</td>
-<td>1</td>
+<td>20,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>20,2</td>
+<td></td>
+<td>20,2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td>12 9,5</td>
 <td>9</td>
-<td>3</td>
-<td>24</td>
+<td>72</td>
 </tr>
 <tr>
 <td>10</td>
 <td>KNH-10</td>
 <td>Подъезная дорога к Кейден</td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td>3,7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>2</td>
@@ -684,9 +330,21 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <tr>
 <td>11</td>
 <td>KNH-11</td>
-<td>Подъезная дорога к Акжол</td>
+<td>Жанарык-Абдигаппар</td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
-<td>12</td>
+<td>15</td>
 <td></td>
 <td></td>
 </tr>
@@ -694,6 +352,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>12</td>
 <td>KNH-12</td>
 <td>Объездная дорога Келинтобе</td>
+<td>3,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3,5</td>
+<td></td>
+<td></td>
+<td>3,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -703,6 +373,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>13</td>
 <td>KNH-13</td>
 <td>Подъездная дорога к лагеру «Тау самалы»</td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td></td>
+<td></td>
+<td>11</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>3</td>
@@ -712,6 +394,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>14</td>
 <td>KNH-14</td>
 <td>Самара –Шымкент-Шалхия</td>
+<td>11,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>11,4</td>
+<td></td>
+<td></td>
+<td>11,4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>7</td>
@@ -721,8 +415,20 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>15</td>
 <td>KNH-15</td>
 <td>Самара –Шымкент-Екпинди</td>
+<td>6,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>6,5</td>
+<td></td>
+<td></td>
+<td>6,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>1</td>
-<td>12</td>
+<td>38</td>
 <td>4</td>
 <td>48</td>
 </tr>
@@ -730,6 +436,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>16</td>
 <td>KNH-16</td>
 <td>Самара-Шымкент-Аккум</td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>9</td>
+<td></td>
+<td>9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -739,6 +457,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>17</td>
 <td>KNH-17</td>
 <td>Водохранилище Кенес - Бесарык</td>
+<td>5,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,8</td>
+<td></td>
+<td></td>
+<td>5,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -748,6 +478,18 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>18</td>
 <td>KNH-18</td>
 <td>Самара-Шымкент-поселок Жанакорган</td>
+<td>6,3</td>
+<td></td>
+<td></td>
+<td>6,3</td>
+<td></td>
+<td></td>
+<td>6,3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -756,7 +498,19 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <tr>
 <td>19</td>
 <td>KNH-19</td>
-<td>Жанакорган- Байкен-U</td>
+<td>Жанакорган- СКЗ-U</td>
+<td>6,9</td>
+<td></td>
+<td></td>
+<td>6,9</td>
+<td></td>
+<td></td>
+<td>6,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -766,18 +520,105 @@ source: https://zan.gov.kz/client/#!/doc/136564/rus/26.11.2019
 <td>20</td>
 <td>KNH-20</td>
 <td>Самара-Шымкент-станция Бесарык</td>
+<td>2,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>2,8</td>
+<td></td>
+<td></td>
+<td>2,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
+<td>21</td>
+<td>KNH-21</td>
+<td>Кожамберди-Томенарык-Суттикудык</td>
+<td>5,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>5,6</td>
+<td></td>
+<td></td>
+<td>5,6</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>KNH-22</td>
+<td>Тугискен-Апангак</td>
+<td>18,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td>18,8</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>18,8</td>
+<td></td>
+<td>7</td>
+<td>23 5</td>
+<td>6</td>
+<td>72</td>
+</tr>
+<tr>
+<td>23</td>
+<td>KNH-23</td>
+<td>Келинтобе-Кандоз-Калгансыр</td>
+<td>8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>8,9</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>8</td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td>Итого:</td>
-<td>6</td>
-<td>57</td>
-<td>39</td>
-<td>431</td>
+<td>176</td>
+<td></td>
+<td></td>
+<td>13,2</td>
+<td>12 2,2</td>
+<td>40,6</td>
+<td>13,2</td>
+<td>13 5,1</td>
+<td></td>
+<td></td>
+<td>27,7</td>
+<td></td>
+<td>15</td>
+<td>42 5,5</td>
+<td>56</td>
+<td>58 9</td>
 </tr>
 </table>
