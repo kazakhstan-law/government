@@ -1,5 +1,10 @@
 ---
 source: https://zan.gov.kz/client/#!/doc/71688/rus/27.03.2023
+repealed_on: 2026-01-01
+repealed_by:
+  code: '214945'
+  title: Об утверждении Правил определения рыночного курса обмена валюты
+  link: https://zan.gov.kz/client/#!/doc/214945/rus
 ---
 
 # О порядке определения рыночного курса обмена валюты
