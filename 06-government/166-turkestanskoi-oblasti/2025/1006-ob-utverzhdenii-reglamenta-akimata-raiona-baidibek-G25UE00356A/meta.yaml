@@ -1,0 +1,26 @@
+key: G25UE00356A
+akn: /akn/kz/act/2025-10-06/G25UE00356A
+act_code: '215441'
+requisite: Постановление акимата Байдибекского района Туркестанской области от 6 октября 2025 года № 356
+title:
+  rus: Об утверждении Регламента акимата района Байдибек
+  kaz: Бәйдібек ауданы әкімдігінің Регламентін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- РЕГЛ
+approved_on: 2025-10-06
+in_force_from: 2025-10-15
+approved_by:
+- '166003000001'
+versions:
+- date: 2025-10-06
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-10-06
+  rus: 2025-10-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/215441/kaz/06.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/215441/rus/06.10.2025
