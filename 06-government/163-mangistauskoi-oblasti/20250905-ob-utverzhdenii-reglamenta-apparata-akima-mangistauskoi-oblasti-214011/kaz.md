@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/214011/kaz/05.09.2025
+source: https://zan.gov.kz/client/#!/doc/214011/kaz/07.10.2025
 ---
 
 # Маңғыстау облысы әкімі аппаратының регламентін бекіту туралы
