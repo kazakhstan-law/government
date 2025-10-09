@@ -1,5 +1,5 @@
 ---
-version_id: I127889_15
+version_id: I127889_17
 act_code: '127889'
 language: rus
 title: Об определении территорий для старательства
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '157000000001'
 approval_date: 2018-12-26
-version_date: 2025-03-04
+version_date: 2025-10-09
 registry_number: '127889'
 caused_by:
-  code: '208054'
+  code: '215476'
   title: О внесении изменения в постановление Восточно-Казахстанского областного акимата от 26 декабря 2018 года № 392 «Об определении территорий для старательства»
-  link: https://zan.gov.kz/client/#!/doc/208054/rus
-source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
+  link: https://zan.gov.kz/client/#!/doc/215476/rus
+source: https://zan.gov.kz/client/#!/doc/127889/rus/09.10.2025
 ---
 
 # Об определении территорий для старательства
@@ -64,30 +64,33 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 > *26 декабря 2018 года*
 
 > *Приложение к постановлению*  
-> *Восточно-Казахстанского*  
-> *областного акимата*  
-> *от 26 декабря 2018 года*  
+> *Восточно-Казахстанского областного*  
+> *акимата от 26 декабря 2018 года*  
 > *№ 392*
 
-> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 04.10.2022 № 238 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 09.12.2022 № 307 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 25.12.2023 № 304 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции постановления Восточно-Казахстанского областного акимата от 04.03.2025 № 57 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
+> *Сноска. Приложение с изменениями, внесенными постановлениями Восточно-Казахстанского областного акимата от 29.05.2019 № 179 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 30.03.2020 № 105 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 10.03.2021 № 70 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 04.10.2022 № 238 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 09.12.2022 № 307 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 25.12.2023 № 304 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); в редакции постановления Восточно-Казахстанского областного акимата от 04.03.2025 № 57 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования); от 09.10.2025 № 252 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
-<td rowspan="2">№</td>
-<td rowspan="2">№ участка</td>
-<td rowspan="2">№ точки</td>
+<td>№ участка</td>
+<td>Название участка</td>
+<td>№ угловой точки</td>
 <td colspan="6">Географические координаты участка</td>
-<td rowspan="2">Площадь участка (га)</td>
-<td rowspan="2">Район</td>
-<td rowspan="2">Примечание</td>
+<td>Площадь участка (га)</td>
+<td>Район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="3">Восточная долгота</td>
 <td colspan="3">Северная широта</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="52">1</td>
-<td rowspan="4">1</td>
+<td>1</td>
+<td>Участок Ключ Буденели Малый № 1</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -95,11 +98,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>44,4888</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 1 в районе Үлкен Нарын</td>
-<td rowspan="52"></td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -107,8 +111,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>44,4888</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -116,8 +124,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -125,9 +137,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">2</td>
+<td>2</td>
+<td>Участок Ключ Буденели Малый № 2</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -135,10 +150,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,6832</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 2 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -146,8 +163,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,6688</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -155,8 +176,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9352</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -164,9 +189,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9244</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">3</td>
+<td>3</td>
+<td>Участок Ключ Буденели Малый № 3</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -174,10 +202,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,6688</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 3 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -185,8 +215,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>35,6688</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -194,8 +228,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,8956</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -203,9 +241,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9352</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">4</td>
+<td>4</td>
+<td>Участок Ключ Буденели Малый № 4</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -213,10 +254,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9244</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 4 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -224,8 +267,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9352</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -233,8 +280,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1764</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -242,9 +293,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1764</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">5</td>
+<td>5</td>
+<td>Участок Ключ Буденели Малый № 5</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -252,10 +306,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,9352</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 5 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -263,8 +319,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>26,8956</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -272,8 +332,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1368</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -281,9 +345,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1764</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">6</td>
+<td>6</td>
+<td>Участок Ключ Буденели Малый № 6</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -291,10 +358,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1944</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 6 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -302,8 +371,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1944</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -311,8 +384,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,4356</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -320,9 +397,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,4356</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">7</td>
+<td>7</td>
+<td>Участок Ключ Буденели Малый № 7</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -330,10 +410,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1944</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 7 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -341,8 +423,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>18,1872</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -350,8 +436,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,4284</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -359,9 +449,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,4356</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">8</td>
+<td>8</td>
+<td>Участок Ключ Буденели Малый № 8</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -369,10 +462,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,378</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 8 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -380,8 +475,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,36</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -389,8 +488,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6192</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -398,9 +501,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,612</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">9</td>
+<td>9</td>
+<td>Участок Ключ Буденели Малый № 9</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -408,10 +514,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,36</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 9 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -419,8 +527,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>9,36</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -428,8 +540,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6264</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -437,9 +553,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6192</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">10</td>
+<td>10</td>
+<td>Участок Ключ Буденели Малый № 10</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -447,10 +566,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,612</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 10 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -458,8 +579,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6192</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -467,8 +592,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,8532</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -476,9 +605,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,8532</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">11</td>
+<td>11</td>
+<td>Участок Ключ Буденели Малый № 11</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -486,10 +618,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6192</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 11 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -497,8 +631,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>0,6264</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -506,8 +644,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,8676</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -515,9 +657,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,8532</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">12</td>
+<td>12</td>
+<td>Участок Ключ Буденели Малый № 12</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -525,10 +670,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,8532</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 12 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -536,8 +683,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>51,9252</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -545,8 +696,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>43,1664</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -554,9 +709,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>43,2384</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">13</td>
+<td>13</td>
+<td>Участок Ключ Буденели Малый № 13</td>
 <td>1</td>
 <td>84</td>
 <td>41</td>
@@ -564,10 +722,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>43,2384</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Буденели Малый № 13 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>41</td>
@@ -575,8 +735,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>43,1664</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>41</td>
@@ -584,8 +748,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>34,4796</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>41</td>
@@ -593,10 +761,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>34,4796</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="32">2</td>
-<td rowspan="4">14</td>
+<td>14</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 1
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -604,11 +777,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>60</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 1 в Курчумском районе</td>
-<td rowspan="32"></td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -616,8 +790,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>59,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -625,8 +803,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -634,9 +816,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,77</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">15</td>
+<td>15</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 2
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -644,10 +832,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>59,73</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 2 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -655,8 +845,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>59,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -664,8 +858,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -673,9 +871,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">16</td>
+<td>16</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 3
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -683,10 +887,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,74</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 3 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -694,8 +900,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -703,8 +913,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -712,9 +926,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">17</td>
+<td>17</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 4
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -722,10 +942,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,76</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 4 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -733,8 +955,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>51,65</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -742,8 +968,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,56</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -751,9 +981,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">18</td>
+<td>18</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 5
+</td>
 <td>1</td>
 <td>84</td>
 <td>58</td>
@@ -761,10 +997,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,548</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 5 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -772,8 +1010,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -781,8 +1023,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>58</td>
@@ -790,9 +1036,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,52</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">19</td>
+<td>19</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 6
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -800,10 +1052,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,53</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 6 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -811,8 +1065,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>43,41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -820,8 +1078,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -829,9 +1091,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">20</td>
+<td>20</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 7
+</td>
 <td>1</td>
 <td>84</td>
 <td>58</td>
@@ -839,10 +1107,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,11</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 7 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -850,8 +1120,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -859,8 +1133,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>27,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>58</td>
@@ -868,9 +1146,15 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>27,13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">21</td>
+<td>21</td>
+<td>
+Участок Ключ Кызыл Жар
+№ 8
+</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -878,10 +1162,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,3</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кызыл Жар № 8 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -889,8 +1175,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>35,34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -898,8 +1188,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>27,21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -907,10 +1201,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>50</td>
 <td>27,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="128">3</td>
-<td rowspan="4">22</td>
+<td>22</td>
+<td>Участок Ключ Жигаловский № 1</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -918,11 +1214,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>52,02</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 1 в Курчумском районе</td>
-<td rowspan="128"></td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -930,8 +1227,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>51,98</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -939,8 +1240,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -948,9 +1253,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,84</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">23</td>
+<td>23</td>
+<td>Участок Ключ Жигаловский № 2</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -958,10 +1266,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>50,84</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 2 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -969,8 +1279,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>50,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -978,8 +1292,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -987,9 +1305,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,72</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">24</td>
+<td>24</td>
+<td>Участок Ключ Жигаловский № 3</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -997,10 +1318,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>49,98</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 3 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -1008,8 +1331,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>49,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -1017,8 +1344,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1026,9 +1357,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">25</td>
+<td>25</td>
+<td>Участок Ключ Жигаловский № 4</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -1036,10 +1370,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>49,51</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 4 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1047,8 +1383,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>49,52</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1056,8 +1396,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1065,9 +1409,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">26</td>
+<td>26</td>
+<td>Участок Ключ Жигаловский №5</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -1075,10 +1422,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>48,06</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 5 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1086,8 +1435,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>48,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1095,8 +1448,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>40,95</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -1104,9 +1461,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>40,85</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">27</td>
+<td>27</td>
+<td>Участок Ключ Жигаловский № 6</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -1114,10 +1474,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>47,5</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 6 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1125,8 +1487,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>47,48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1134,8 +1500,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>40,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -1143,9 +1513,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>40,38</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">28</td>
+<td>28</td>
+<td>Участок Ключ Жигаловский № 7</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -1153,10 +1526,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>45,94</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 7 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1164,8 +1539,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>45,92</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1173,8 +1552,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>38,75</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -1182,9 +1565,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>38,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">29</td>
+<td>29</td>
+<td>Участок Ключ Жигаловский № 8</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -1192,10 +1578,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,73</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 8 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1203,8 +1591,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1212,8 +1604,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -1221,9 +1617,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">30</td>
+<td>30</td>
+<td>Участок Ключ Жигаловский № 9</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -1231,10 +1630,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,93</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 9 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>54</td>
@@ -1242,8 +1643,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>54</td>
@@ -1251,8 +1656,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -1260,9 +1669,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">31</td>
+<td>31</td>
+<td>Участок Ключ Жигаловский № 10</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -1270,10 +1682,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,72</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок КлючЖигаловский № 10 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>54</td>
@@ -1281,8 +1695,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,62</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>54</td>
@@ -1290,8 +1708,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>36,53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -1299,9 +1721,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>36,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">32</td>
+<td>32</td>
+<td>Участок Ключ Жигаловский № 11</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -1309,10 +1734,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>41,76</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 11 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>54</td>
@@ -1320,8 +1747,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>41,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>54</td>
@@ -1329,8 +1760,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>34,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -1338,9 +1773,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>34,69</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">33</td>
+<td>33</td>
+<td>Участок Ключ Жигаловский № 12</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -1348,10 +1786,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>38,38</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 12 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>54</td>
@@ -1359,8 +1799,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>38,39</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>54</td>
@@ -1368,8 +1812,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>31,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -1377,9 +1825,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>31,266</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">34</td>
+<td>34</td>
+<td>Участок Ключ Жигаловский № 13</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -1387,10 +1838,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>36,99</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 13 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>54</td>
@@ -1398,8 +1851,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,08</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>54</td>
@@ -1407,8 +1864,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>29,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -1416,9 +1877,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>29,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">35</td>
+<td>35</td>
+<td>Участок Ключ Жигаловский № 14</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -1426,10 +1890,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,67</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 14 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -1437,8 +1903,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,65</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -1446,8 +1916,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>28,42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -1455,9 +1929,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>28,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">36</td>
+<td>36</td>
+<td>Участок Ключ Жигаловский № 15</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -1465,10 +1942,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,06</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 15 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -1476,8 +1955,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>34,88</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -1485,8 +1968,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>27,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -1494,9 +1981,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>27,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">37</td>
+<td>37</td>
+<td>Участок Ключ Жигаловский № 16</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -1504,10 +1994,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>34,04</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 16 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -1515,8 +2007,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>34,02</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -1524,8 +2020,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>26,93</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -1533,9 +2033,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>26,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">38</td>
+<td>38</td>
+<td>Участок Ключ Жигаловский № 18</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -1543,10 +2046,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>29,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 18 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1554,8 +2059,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>29,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1563,8 +2072,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>22,16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -1572,9 +2085,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>22,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">39</td>
+<td>39</td>
+<td>Участок Ключ Жигаловский № 19</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -1582,10 +2098,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>28,65</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 19 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1593,8 +2111,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>28,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1602,8 +2124,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>21,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -1611,9 +2137,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>21,45</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">40</td>
+<td>40</td>
+<td>Участок Ключ Жигаловский № 20</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -1621,10 +2150,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,84</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 20 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -1632,8 +2163,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>44,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -1641,8 +2176,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,54</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1650,9 +2189,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>37,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">41</td>
+<td>41</td>
+<td>Участок Ключ Жигаловский № 21</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -1660,10 +2202,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,722</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 21 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -1671,8 +2215,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>43,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -1680,8 +2228,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>36,48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1689,9 +2241,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>36,52</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">42</td>
+<td>42</td>
+<td>Участок Ключ Жигаловский № 22</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -1699,10 +2254,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,89</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 22 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -1710,8 +2267,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -1719,8 +2280,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,61</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1728,9 +2293,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">43</td>
+<td>43</td>
+<td>Участок Ключ Жигаловский № 23</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -1738,10 +2306,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,47</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 23 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -1749,8 +2319,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>42,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -1758,8 +2332,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -1767,9 +2345,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>35,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">44</td>
+<td>44</td>
+<td>Участок Ключ Жигаловский № 37</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -1777,10 +2358,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>22,23</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 37 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1788,8 +2371,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>22,16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1797,8 +2384,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>14,84</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -1806,9 +2397,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>14,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">45</td>
+<td>45</td>
+<td>Участок Ключ Жигаловский № 38</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -1816,10 +2410,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>21,45</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 38 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1827,8 +2423,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>21,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1836,8 +2436,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>14,43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -1845,9 +2449,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>14,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">46</td>
+<td>46</td>
+<td>Участок Ключ Жигаловский № 39</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -1855,10 +2462,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>32,07</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 39 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -1866,8 +2475,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>31,93</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -1875,8 +2488,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -1884,9 +2501,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">47</td>
+<td>47</td>
+<td>Участок Ключ Жигаловский № 40</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -1894,10 +2514,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>31,93</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 40 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -1905,8 +2527,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>32,13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -1914,8 +2540,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -1923,9 +2553,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">48</td>
+<td>48</td>
+<td>Участок Ключ Жигаловский № 41</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -1933,10 +2566,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>32,16</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 41 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1944,8 +2579,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>32,11</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1953,8 +2592,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>25,03</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -1962,9 +2605,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">49</td>
+<td>49</td>
+<td>Участок Ключ Жигаловский № 42</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -1972,10 +2618,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>32,11</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 42 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -1983,8 +2631,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>31,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -1992,8 +2644,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -2001,9 +2657,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">50</td>
+<td>50</td>
+<td>Участок Ключ Жигаловский № 43</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -2011,10 +2670,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,82</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 43 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -2022,8 +2683,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -2031,8 +2696,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -2040,9 +2709,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">51</td>
+<td>51</td>
+<td>Участок Ключ Жигаловский № 44</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -2050,10 +2722,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,83</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 44 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -2061,8 +2735,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -2070,8 +2748,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -2079,9 +2761,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">52</td>
+<td>52</td>
+<td>Участок Ключ Жигаловский № 45</td>
 <td>1</td>
 <td>84</td>
 <td>55</td>
@@ -2089,10 +2774,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,94</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 45 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -2100,8 +2787,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>25,03</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -2109,8 +2800,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>55</td>
@@ -2118,9 +2813,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">53</td>
+<td>53</td>
+<td>Участок Ключ Жигаловский № 46</td>
 <td>1</td>
 <td>84</td>
 <td>56</td>
@@ -2128,10 +2826,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>25,03</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Жигаловский № 46 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>56</td>
@@ -2139,8 +2839,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>24,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>56</td>
@@ -2148,8 +2852,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>56</td>
@@ -2157,10 +2865,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>42</td>
 <td>17,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="52">4</td>
-<td rowspan="4">54</td>
+<td>54</td>
+<td>Участок Ключ Кара-Саз № 3</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -2168,11 +2878,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>59,17</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 3 в районе Үлкен Нарын</td>
-<td rowspan="52"></td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2180,8 +2891,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>59,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2189,8 +2904,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>51,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -2198,9 +2917,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>51,46</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">55</td>
+<td>55</td>
+<td>Участок Ключ Кара-Саз № 4</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2208,10 +2930,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>54,53</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 4 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2219,8 +2943,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>54,51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2228,8 +2956,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>46,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2237,9 +2969,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>46,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">56</td>
+<td>56</td>
+<td>Участок Ключ Кара-Саз № 5</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2247,10 +2982,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>48,88</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 5 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2258,8 +2995,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>48,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2267,8 +3008,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2276,9 +3021,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">57</td>
+<td>57</td>
+<td>Участок Ключ Кара-Саз № 6</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2286,10 +3034,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,12</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 6 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2297,8 +3047,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2306,8 +3060,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,63</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2315,9 +3073,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">58</td>
+<td>58</td>
+<td>Участок Ключ Кара-Саз № 7</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2325,10 +3086,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>36,86</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 7 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2336,8 +3099,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>39,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2345,8 +3112,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>28,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2354,9 +3125,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>29,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">59</td>
+<td>59</td>
+<td>Участок Ключ Кара-Саз № 8</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2364,10 +3138,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>31,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 8 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -2375,8 +3151,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>31,3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -2384,8 +3164,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>23,54</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2393,9 +3177,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>23,66</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">60</td>
+<td>60</td>
+<td>Участок Ключ Кара-Саз № 10</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -2403,10 +3190,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>51,46</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 10 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2414,8 +3203,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>51,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2423,8 +3216,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>43,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -2432,9 +3229,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>43,69</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">61</td>
+<td>61</td>
+<td>Участок Ключ Кара-Саз № 11</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2442,10 +3242,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>46,79</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 11 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2453,8 +3255,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>46,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2462,8 +3268,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>38,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2471,9 +3281,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>39,14</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">62</td>
+<td>62</td>
+<td>Участок Ключ Кара-Саз № 12</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2481,10 +3294,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,14</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 12 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2492,8 +3307,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>41,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2501,8 +3320,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2510,9 +3333,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">63</td>
+<td>63</td>
+<td>Участок Ключ Кара-Саз № 13</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2520,10 +3346,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,19</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 13 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2531,8 +3359,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2540,8 +3372,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,56</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2549,9 +3385,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,26</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">64</td>
+<td>64</td>
+<td>Участок Ключ Кара-Саз № 14</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2559,10 +3398,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,33</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 14 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2570,8 +3411,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>33,63</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2579,8 +3424,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2588,9 +3437,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,56</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">65</td>
+<td>65</td>
+<td>Участок Ключ Кара-Саз № 15</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2598,10 +3450,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,56</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 15 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2609,8 +3463,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>25,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2618,8 +3476,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>17,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2627,9 +3489,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>17,75</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">66</td>
+<td>66</td>
+<td>Участок Ключ Кара-Саз № 16</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -2637,10 +3502,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>29,09</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара-Саз № 16 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -2648,8 +3515,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>28,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -2657,8 +3528,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>21,16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -2666,10 +3541,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>58</td>
 <td>21,17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="16">5</td>
-<td rowspan="4">67</td>
+<td>67</td>
+<td>Участок Ключ Кара-Агач № 1</td>
 <td>1</td>
 <td>84</td>
 <td>28</td>
@@ -2677,11 +3554,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>26,14</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара- Агач № 1 в Курчумском районе</td>
-<td rowspan="16"></td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>28</td>
@@ -2689,8 +3567,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>26,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>28</td>
@@ -2698,8 +3580,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>18,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>28</td>
@@ -2707,9 +3593,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>18,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">68</td>
+<td>68</td>
+<td>Участок Ключ Кара-Агач № 2</td>
 <td>1</td>
 <td>84</td>
 <td>28</td>
@@ -2717,10 +3606,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>26,91</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара- Агач № 2 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>28</td>
@@ -2728,8 +3619,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>26,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>28</td>
@@ -2737,8 +3632,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>19,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>28</td>
@@ -2746,9 +3645,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>19,35</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">69</td>
+<td>69</td>
+<td>Участок Ключ Кара-Агач № 3</td>
 <td>1</td>
 <td>84</td>
 <td>28</td>
@@ -2756,10 +3658,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>29,55</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара- Агач № 3 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>28</td>
@@ -2767,8 +3671,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>29,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>28</td>
@@ -2776,8 +3684,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>21,87</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>28</td>
@@ -2785,9 +3697,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>21,90</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">70</td>
+<td>70</td>
+<td>Участок Ключ Кара-Агач № 4</td>
 <td>1</td>
 <td>84</td>
 <td>28</td>
@@ -2795,10 +3710,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>31,51</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Кара- Агач № 4 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>29</td>
@@ -2806,8 +3723,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>31,54</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>29</td>
@@ -2815,8 +3736,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>27,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>28</td>
@@ -2824,10 +3749,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>57</td>
 <td>27,92</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="136">6</td>
-<td rowspan="4">71</td>
+<td>71</td>
+<td>Участок Ключ Тар Булак № 1</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -2835,11 +3762,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,19</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 1 в Курчумском районе</td>
-<td rowspan="136"></td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -2847,8 +3775,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>30,96</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -2856,8 +3788,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -2865,9 +3801,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">72</td>
+<td>72</td>
+<td>Участок Ключ Тар Булак № 2</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -2875,10 +3814,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,48</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 2 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -2886,8 +3827,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -2895,8 +3840,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>15,51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -2904,9 +3853,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>15,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">73</td>
+<td>73</td>
+<td>Участок Ключ Тар Булак № 3</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -2914,10 +3866,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>15,67</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 3 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -2925,8 +3879,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>15,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -2934,8 +3892,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>7,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -2943,9 +3905,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>7,68</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">74</td>
+<td>74</td>
+<td>Участок Ключ Тар Булак № 4</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -2953,10 +3918,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,91</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 4 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -2964,8 +3931,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,95</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -2973,8 +3944,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -2982,9 +3957,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,26</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">75</td>
+<td>75</td>
+<td>Участок Ключ Тар Булак № 5</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -2992,10 +3970,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,26</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 5 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -3003,8 +3983,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -3012,8 +3996,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3021,9 +4009,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,96</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">76</td>
+<td>76</td>
+<td>Участок Ключ Тар Булак № 6</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3031,10 +4022,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,15</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 6 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -3042,8 +4035,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -3051,8 +4048,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>10,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3060,9 +4061,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>10,35</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">77</td>
+<td>77</td>
+<td>Участок Ключ Тар Булак № 7</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3070,10 +4074,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>36,96</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 7 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -3081,8 +4087,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>37,11</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -3090,8 +4100,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>29,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3099,9 +4113,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>29,08</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">78</td>
+<td>78</td>
+<td>Участок Ключ Тар Булак № 8</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3109,10 +4126,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>29,08</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 8 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -3120,8 +4139,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>29,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -3129,8 +4152,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3138,9 +4165,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">79</td>
+<td>79</td>
+<td>Участок Ключ Тар Булак № 9</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3148,10 +4178,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 9 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>18</td>
@@ -3159,8 +4191,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>18</td>
@@ -3168,8 +4204,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>13,43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3177,9 +4217,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>13,56</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">80</td>
+<td>80</td>
+<td>Участок Ключ Тар Булак № 10</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3187,10 +4230,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39,79</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 10 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3198,8 +4243,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39,72</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3207,8 +4256,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>32,01</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3216,9 +4269,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">81</td>
+<td>81</td>
+<td>Участок Ключ Тар Булак № 11</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3226,10 +4282,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,86</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 11 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3237,8 +4295,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>32,01</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3246,8 +4308,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3255,9 +4321,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,93</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">82</td>
+<td>82</td>
+<td>Участок Ключ Тар Булак № 12</td>
 <td>1</td>
 <td>84</td>
 <td>18</td>
@@ -3265,10 +4334,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,93</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 12 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3276,8 +4347,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3285,8 +4360,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>16,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>18</td>
@@ -3294,9 +4373,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">83</td>
+<td>83</td>
+<td>Участок Ключ Тар Булак № 13</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3304,10 +4386,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>42,41</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 13 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3315,8 +4399,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>42,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3324,8 +4412,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3333,9 +4425,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">84</td>
+<td>84</td>
+<td>Участок Ключ Тар Булак № 14</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3343,10 +4438,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,57</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 14 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3354,8 +4451,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3363,8 +4464,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3372,9 +4477,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">85</td>
+<td>85</td>
+<td>Участок Ключ Тар Булак № 15</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3382,10 +4490,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,49</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 15 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3393,8 +4503,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>26,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3402,8 +4516,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3411,9 +4529,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>18,78</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">86</td>
+<td>86</td>
+<td>Участок Ключ Тар Булак № 16</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3421,10 +4542,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>46,26</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 16 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3432,8 +4555,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>46,31</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3441,8 +4568,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>38,43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3450,9 +4581,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>38,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">87</td>
+<td>87</td>
+<td>Участок Ключ Тар Булак № 17</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3460,10 +4594,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>38,58</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 17 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3471,8 +4607,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>38,43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3480,8 +4620,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>30,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3489,9 +4633,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>30,65</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">88</td>
+<td>88</td>
+<td>Участок Ключ Тар Булак № 18</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3499,10 +4646,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>30,65</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 18 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3510,8 +4659,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>30,58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3519,8 +4672,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>22,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3528,9 +4685,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>22,64</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">89</td>
+<td>89</td>
+<td>Участок Ключ Тар Булак № 19</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3538,10 +4698,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>22,64</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 19 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3549,8 +4711,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>22,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3558,8 +4724,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3567,9 +4737,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">90</td>
+<td>90</td>
+<td>Участок Ключ Тар Булак № 20</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3577,10 +4750,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>49,09</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 20 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3588,8 +4763,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>49,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3597,8 +4776,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3606,9 +4789,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">91</td>
+<td>91</td>
+<td>Участок Ключ Тар Булак № 21</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3616,10 +4802,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,19</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 21 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3627,8 +4815,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3636,8 +4828,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3645,9 +4841,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">92</td>
+<td>92</td>
+<td>Участок Ключ Тар Булак № 22</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3655,10 +4854,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,29</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 22 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3666,8 +4867,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3675,8 +4880,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3684,9 +4893,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">93</td>
+<td>93</td>
+<td>Участок Ключ Тар Булак № 23</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3694,10 +4906,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,47</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 23 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3705,8 +4919,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3714,8 +4932,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>17,77</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3723,9 +4945,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>17,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">94</td>
+<td>94</td>
+<td>Участок Ключ Тар Булак № 24</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3733,10 +4958,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>52,08</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 24 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3744,8 +4971,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>52,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3753,8 +4984,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>44,14</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3762,9 +4997,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>44,33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">95</td>
+<td>95</td>
+<td>Участок Ключ Тар Булак № 25</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3772,10 +5010,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>44,33</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 25 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3783,8 +5023,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>44,14</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3792,8 +5036,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>36,38</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3801,9 +5049,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>36,42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">96</td>
+<td>96</td>
+<td>Участок Ключ Тар Булак № 26</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3811,10 +5062,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>36,42</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 26 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3822,8 +5075,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>36,38</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3831,8 +5088,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>28,53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3840,9 +5101,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>28,52</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">97</td>
+<td>97</td>
+<td>Участок Ключ Тар Булак № 27</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3850,10 +5114,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>28,52</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 27 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3861,8 +5127,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>28,53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3870,8 +5140,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>20,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3879,9 +5153,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>20,78</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">98</td>
+<td>98</td>
+<td>Участок Ключ Тар Булак № 28</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3889,10 +5166,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,75</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 28 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3900,8 +5179,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,84</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3909,8 +5192,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,01</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3918,9 +5205,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>46,97</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">99</td>
+<td>99</td>
+<td>Участок Ключ Тар Булак № 29</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3928,10 +5218,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>46,97</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 29 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3939,8 +5231,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,01</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3948,8 +5244,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39,08</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3957,9 +5257,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">100</td>
+<td>100</td>
+<td>Участок Ключ Тар Булак № 30</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -3967,10 +5270,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 30 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -3978,8 +5283,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>39,08</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -3987,8 +5296,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -3996,9 +5309,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">101</td>
+<td>101</td>
+<td>Участок Ключ Тар Булак № 31</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -4006,10 +5322,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,18</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 31 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>19</td>
@@ -4017,8 +5335,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>31,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>19</td>
@@ -4026,8 +5348,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,35</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -4035,9 +5361,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>23,39</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">102</td>
+<td>102</td>
+<td>Участок Ключ Тар Булак № 32</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -4045,10 +5374,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>49,38</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 32 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4056,8 +5387,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>49,201</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4065,8 +5400,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -4074,9 +5413,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,28</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">103</td>
+<td>103</td>
+<td>Участок Ключ Тар Булак № 33</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -4084,10 +5426,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,28</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 33 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4095,8 +5439,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4104,8 +5452,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -4113,9 +5465,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">104</td>
+<td>104</td>
+<td>Участок Ключ Тар Булак № 34</td>
 <td>1</td>
 <td>84</td>
 <td>19</td>
@@ -4123,10 +5478,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,44</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок Ключ Тар Булак № 34 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4134,8 +5491,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>33,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4143,8 +5504,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>19</td>
@@ -4152,10 +5517,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>25,48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="104">7</td>
-<td rowspan="4">105</td>
+<td>105</td>
+<td>Участок рудная точка Куржура № 1</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4163,11 +5530,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>55</td>
 <td>0,68</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 1 в Курчумском районе</td>
-<td rowspan="104"></td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4175,8 +5543,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>55</td>
 <td>0,68</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4184,8 +5556,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4193,9 +5569,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">106</td>
+<td>106</td>
+<td>Участок рудная точка Куржура № 2</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4203,10 +5582,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 2 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4214,8 +5595,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4223,8 +5608,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4232,9 +5621,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">107</td>
+<td>107</td>
+<td>Участок рудная точка Куржура № 3</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4242,10 +5634,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 3 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4253,8 +5647,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4262,8 +5660,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4271,9 +5673,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">108</td>
+<td>108</td>
+<td>Участок рудная точка Куржура № 4</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4281,10 +5686,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 4 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4292,8 +5699,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>54,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4301,8 +5712,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4310,9 +5725,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">109</td>
+<td>109</td>
+<td>Участок рудная точка Куржура № 5</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4320,10 +5738,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 5 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4331,8 +5751,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4340,8 +5764,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4349,9 +5777,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">110</td>
+<td>110</td>
+<td>Участок рудная точка Куржура № 6</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4359,10 +5790,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 6 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4370,8 +5803,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4379,8 +5816,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4388,9 +5829,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">111</td>
+<td>111</td>
+<td>Участок рудная точка Куржура № 7</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4398,10 +5842,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 7 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4409,8 +5855,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>47,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4418,8 +5868,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4427,9 +5881,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">112</td>
+<td>112</td>
+<td>Участок рудная точка Куржура № 8</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4437,10 +5894,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 8 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4448,8 +5907,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4457,8 +5920,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4466,9 +5933,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">113</td>
+<td>113</td>
+<td>Участок рудная точка Куржура № 9</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4476,10 +5946,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 9 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4487,8 +5959,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4496,8 +5972,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4505,9 +5985,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">114</td>
+<td>114</td>
+<td>Участок рудная точка Куржура № 10</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4515,10 +5998,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 10 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4526,8 +6011,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>41,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4535,8 +6024,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4544,9 +6037,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">115</td>
+<td>115</td>
+<td>Участок рудная точка Куржура № 11</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4554,10 +6050,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 11 в Курчумском район</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4565,8 +6063,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4574,8 +6076,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4583,9 +6089,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">116</td>
+<td>116</td>
+<td>Участок рудная точка Куржура № 12</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4593,10 +6102,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 12 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4604,8 +6115,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4613,8 +6128,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4622,9 +6141,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">117</td>
+<td>117</td>
+<td>Участок рудная точка Куржура № 13</td>
 <td>1</td>
 <td>84</td>
 <td>21</td>
@@ -4632,10 +6154,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 13 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4643,8 +6167,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>34,27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4652,8 +6180,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>21</td>
@@ -4661,9 +6193,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">118</td>
+<td>118</td>
+<td>Участок рудная точка Куржура № 14</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4671,10 +6206,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 14 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4682,8 +6219,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4691,8 +6232,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4700,9 +6245,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">119</td>
+<td>119</td>
+<td>Участок рудная точка Куржура № 15</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4710,10 +6258,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 15 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4721,8 +6271,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4730,8 +6284,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4739,9 +6297,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">120</td>
+<td>120</td>
+<td>Участок рудная точка Куржура № 16</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4749,10 +6310,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 16 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4760,8 +6323,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>27,74</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4769,8 +6336,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4778,9 +6349,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">121</td>
+<td>121</td>
+<td>Участок рудная точка Куржура № 17</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4788,10 +6362,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 17 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4799,8 +6375,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4808,8 +6388,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4817,9 +6401,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">122</td>
+<td>122</td>
+<td>Участок рудная точка Куржура № 18</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4827,10 +6414,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 18 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4838,8 +6427,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4847,8 +6440,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4856,9 +6453,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">123</td>
+<td>123</td>
+<td>Участок рудная точка Куржура № 19</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4866,10 +6466,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 19 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>21</td>
@@ -4877,8 +6479,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>21,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>21</td>
@@ -4886,8 +6492,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4895,9 +6505,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">124</td>
+<td>124</td>
+<td>Участок рудная точка Куржура № 20</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4905,10 +6518,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 20 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4916,8 +6531,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4925,8 +6544,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4934,9 +6557,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">125</td>
+<td>125</td>
+<td>Участок рудная точка Куржура № 21</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4944,13 +6570,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
-<td rowspan="4">5</td>
-<td rowspan="4">
-Участок рудная точка Куржура
-№ 21 в Курчумском районе
-</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4958,8 +6583,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -4967,8 +6596,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -4976,9 +6609,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">126</td>
+<td>126</td>
+<td>Участок рудная точка Куржура № 22</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -4986,10 +6622,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 22 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -4997,8 +6635,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>14,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -5006,8 +6648,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -5015,9 +6661,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">127</td>
+<td>127</td>
+<td>Участок рудная точка Куржура № 23</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -5025,10 +6674,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 23 в Курчумском район</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -5036,8 +6687,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -5045,8 +6700,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -5054,9 +6713,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">128</td>
+<td>128</td>
+<td>Участок рудная точка Куржура № 24</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -5064,10 +6726,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 24 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -5075,8 +6739,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -5084,8 +6752,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -5093,9 +6765,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">129</td>
+<td>129</td>
+<td>Участок рудная точка Куржура № 25</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -5103,10 +6778,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 25 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -5114,8 +6791,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>8,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -5123,8 +6804,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -5132,9 +6817,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">130</td>
+<td>130</td>
+<td>Участок рудная точка Куржура № 26</td>
 <td>1</td>
 <td>84</td>
 <td>20</td>
@@ -5142,10 +6830,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок рудная точка Куржура № 26 в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>20</td>
@@ -5153,8 +6843,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1,29</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>20</td>
@@ -5162,8 +6856,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>53</td>
 <td>54,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>20</td>
@@ -5171,10 +6869,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>53</td>
 <td>54,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="64">8</td>
-<td rowspan="4">131</td>
+<td>131</td>
+<td>Участок Балакалжир</td>
 <td>1</td>
 <td>85</td>
 <td>0</td>
@@ -5182,11 +6882,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>42</td>
-<td rowspan="4">3</td>
-<td rowspan="4">Участок Балакалжир в Курчумском районе</td>
-<td rowspan="64"></td>
+<td>3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>0</td>
@@ -5194,8 +6895,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>0</td>
@@ -5203,8 +6908,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>30</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>0</td>
@@ -5212,9 +6921,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>31</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">132</td>
+<td>132</td>
+<td>Участок Шандыбулак</td>
 <td>1</td>
 <td>85</td>
 <td>20</td>
@@ -5222,10 +6934,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>44</td>
-<td rowspan="4">3,2</td>
-<td rowspan="4">Участок Шандыбулак в Курчумском районе</td>
+<td>3,2</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>20</td>
@@ -5233,8 +6947,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>20</td>
@@ -5242,8 +6960,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>20</td>
@@ -5251,9 +6973,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>46</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">133</td>
+<td>133</td>
+<td>Участок Карагаш</td>
 <td>1</td>
 <td>85</td>
 <td>8</td>
@@ -5261,10 +6986,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>52</td>
-<td rowspan="4">3,5</td>
-<td rowspan="4">Участок Карагаш в Курчумском районе</td>
+<td>3,5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>8</td>
@@ -5272,8 +6999,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>8</td>
@@ -5281,8 +7012,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>8</td>
@@ -5290,9 +7025,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">134</td>
+<td>134</td>
+<td>В русле реки Маралиха</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -5300,10 +7038,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>13</td>
-<td rowspan="4">4,6</td>
-<td rowspan="4">В русле реки Маралиха в Катон-Карагайском районе</td>
+<td>4,6</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -5311,8 +7051,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -5320,8 +7064,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -5329,9 +7077,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>2</td>
 <td>13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">135</td>
+<td>135</td>
+<td>Участок реки Средняя Теректы</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -5339,10 +7090,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>21</td>
-<td rowspan="4">2,6</td>
-<td rowspan="4">Участок реки Средняя Теректы реки Кедровка в Катон-Карагайском районе</td>
+<td>2,6</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -5350,8 +7103,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>51</td>
@@ -5359,8 +7116,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -5368,9 +7129,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">136</td>
+<td>136</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -5378,10 +7142,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>46,1</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -5389,8 +7155,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>53,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -5398,8 +7168,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>51,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -5407,9 +7181,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>43,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">137</td>
+<td>137</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -5417,10 +7194,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>44,7</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -5428,8 +7207,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>51,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -5437,8 +7220,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>48,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -5446,9 +7233,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>41,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">138</td>
+<td>138</td>
+<td>Участок Жолбулак</td>
 <td>1</td>
 <td>85</td>
 <td>7</td>
@@ -5456,10 +7246,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>14,04</td>
-<td rowspan="4">1,15</td>
-<td rowspan="4">Участок Жолбулак в Курчумском районе</td>
+<td>1,15</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>7</td>
@@ -5467,8 +7259,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>14,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>7</td>
@@ -5476,8 +7272,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>3,07</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>7</td>
@@ -5485,9 +7285,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>2,66</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">139</td>
+<td>139</td>
+<td>Участок Маралиха</td>
 <td>1</td>
 <td>84</td>
 <td>57</td>
@@ -5495,10 +7298,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>1</td>
 <td>37</td>
-<td rowspan="4">0,5</td>
-<td rowspan="4">Участок Маралиха в Курчумском районе</td>
+<td>0,5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>57</td>
@@ -5506,8 +7311,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>1</td>
 <td>37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>57</td>
@@ -5515,8 +7324,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>1</td>
 <td>34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>57</td>
@@ -5524,9 +7337,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>1</td>
 <td>34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">140</td>
+<td>140</td>
+<td>Участок Стефаньевский</td>
 <td>1</td>
 <td>84</td>
 <td>35</td>
@@ -5534,10 +7350,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>55,29</td>
-<td rowspan="4">3,1</td>
-<td rowspan="4">Участок Стефаньевский в Курчумском районе</td>
+<td>3,1</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>34</td>
@@ -5545,8 +7363,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>3,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>34</td>
@@ -5554,8 +7376,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>6,03</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>35</td>
@@ -5563,9 +7389,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>56,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">141</td>
+<td>141</td>
+<td>Участок Малый Когодай</td>
 <td>1</td>
 <td>84</td>
 <td>31</td>
@@ -5573,10 +7402,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>32,36</td>
-<td rowspan="4">2,92</td>
-<td rowspan="4">Участок Малый Когодай в Курчумском районе</td>
+<td>2,92</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>31</td>
@@ -5584,8 +7415,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>48,35</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>31</td>
@@ -5593,8 +7428,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>48,85</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>31</td>
@@ -5602,9 +7441,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>33,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">142</td>
+<td>142</td>
+<td>Участок № 4</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -5612,10 +7454,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>48,86</td>
-<td rowspan="4">4,3</td>
-<td rowspan="4">Участок № 4 в районе Үлкен Нарын</td>
+<td>4,3</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -5623,8 +7467,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>46,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>50</td>
@@ -5632,8 +7480,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>30,04</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>50</td>
@@ -5641,9 +7493,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>31,89</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">143</td>
+<td>143</td>
+<td>Участок № 2</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -5651,10 +7506,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>4,46</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок № 2 в районе Үлкен Нарын</td>
+<td>5</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -5662,8 +7519,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>1,38</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>51</td>
@@ -5671,8 +7532,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>12,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -5680,9 +7545,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>15,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">144</td>
+<td>144</td>
+<td>Участок № 3</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -5690,10 +7558,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>15,6</td>
-<td rowspan="4">4</td>
-<td rowspan="4">Участок № 3 в районе Үлкен Нарын</td>
+<td>4</td>
+<td>Район Үлкен Нарын</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -5701,8 +7571,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>15,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>51</td>
@@ -5710,8 +7584,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>57,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -5719,9 +7597,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>57,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">145</td>
+<td>145</td>
+<td>Участок № 1 реки Средняя Теректы</td>
 <td>1</td>
 <td>84</td>
 <td>53</td>
@@ -5729,10 +7610,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>1,2</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок № 1 реки Средняя Теректы в Катон-Карагайском районе</td>
+<td>4,9</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>53</td>
@@ -5740,8 +7623,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>57,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -5749,8 +7636,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>6</td>
 <td>57,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>52</td>
@@ -5758,9 +7649,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>7</td>
 <td>1,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">146</td>
+<td>146</td>
+<td>Участок № 5 реки Средняя Теректы</td>
 <td>1</td>
 <td>84</td>
 <td>52</td>
@@ -5768,10 +7662,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>8</td>
 <td>43,8</td>
-<td rowspan="4">4,1</td>
-<td rowspan="4">Участок № 5 реки Средняя Теректы в Катон-Карагайском районе</td>
+<td>4,1</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -5779,8 +7675,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>5,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>53</td>
@@ -5788,8 +7688,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>5,4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>53</td>
@@ -5797,10 +7701,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>8</td>
 <td>43,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="8">9</td>
-<td rowspan="4">147</td>
+<td>147</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>58</td>
@@ -5808,11 +7714,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>19,54</td>
-<td rowspan="4">4,67</td>
-<td rowspan="4">Участок в Курчумском районе</td>
-<td rowspan="8"></td>
+<td>4,67</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -5820,8 +7727,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>22,01</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -5829,8 +7740,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>16,08</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>58</td>
@@ -5838,9 +7753,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>13,66</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">148</td>
+<td>148</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -5848,10 +7766,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>5</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -5859,8 +7779,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>4,81</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -5868,8 +7792,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>1,17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -5877,10 +7805,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>32</td>
 <td>1,43</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="56">10</td>
-<td rowspan="4">149</td>
+<td>149</td>
+<td>Участок Олжа</td>
 <td>1</td>
 <td>82</td>
 <td>13</td>
@@ -5888,11 +7818,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>0</td>
-<td rowspan="4">0,74</td>
-<td rowspan="4">Участок Олжа в Уланском районе</td>
-<td rowspan="56"></td>
+<td>0,74</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>13</td>
@@ -5900,8 +7831,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>13</td>
@@ -5909,8 +7844,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>13</td>
@@ -5918,9 +7857,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">150</td>
+<td>150</td>
+<td>Участок Олжа 2</td>
 <td>1</td>
 <td>82</td>
 <td>13</td>
@@ -5928,10 +7870,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>20</td>
 <td>57,21</td>
-<td rowspan="4">2,3</td>
-<td rowspan="4">Участок Олжа 2 в Уланском районе</td>
+<td>2,3</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>13</td>
@@ -5939,8 +7883,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>20</td>
 <td>54,67</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>13</td>
@@ -5948,8 +7896,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>20</td>
 <td>54,52</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>13</td>
@@ -5957,9 +7909,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>20</td>
 <td>57,05</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">151</td>
+<td>151</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>26</td>
@@ -5967,10 +7922,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>8,3</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,9</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>26</td>
@@ -5978,8 +7935,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>8,3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>26</td>
@@ -5987,8 +7948,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>1,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>26</td>
@@ -5996,9 +7961,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>1,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">152</td>
+<td>152</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>23</td>
@@ -6006,10 +7974,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>31</td>
 <td>2,1</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,9</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>23</td>
@@ -6017,8 +7987,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>31</td>
 <td>2,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>23</td>
@@ -6026,8 +8000,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>54,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>23</td>
@@ -6035,9 +8013,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>54,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">153</td>
+<td>153</td>
+<td>Участок Шанды-Булак</td>
 <td>1</td>
 <td>85</td>
 <td>19</td>
@@ -6045,10 +8026,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>44</td>
-<td rowspan="4">4,3</td>
-<td rowspan="4">Участок Шанды-Булак в Курчумском районе</td>
+<td>4,3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>19</td>
@@ -6056,8 +8039,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>19</td>
@@ -6065,8 +8052,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>19</td>
@@ -6074,9 +8065,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>42</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">154</td>
+<td>154</td>
+<td>Участок Слияние грозы</td>
 <td>1</td>
 <td>85</td>
 <td>19</td>
@@ -6084,10 +8078,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>3</td>
-<td rowspan="4">3</td>
-<td rowspan="4">Участок Слияние грозы в Курчумском районе</td>
+<td>3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>19</td>
@@ -6095,8 +8091,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>20</td>
@@ -6104,8 +8104,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>19</td>
@@ -6113,9 +8117,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>50</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">155</td>
+<td>155</td>
+<td>Участок Гроза</td>
 <td>1</td>
 <td>85</td>
 <td>19</td>
@@ -6123,10 +8130,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>17</td>
-<td rowspan="4">3</td>
-<td rowspan="4">Участок Гроза в Курчумском районе</td>
+<td>3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>19</td>
@@ -6134,8 +8143,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>19</td>
@@ -6143,8 +8156,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>19</td>
@@ -6152,9 +8169,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">156</td>
+<td>156</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>47</td>
@@ -6162,10 +8182,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>59</td>
-<td rowspan="4">2,5</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>2,5</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>47</td>
@@ -6173,8 +8195,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>47</td>
@@ -6182,8 +8208,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>47</td>
@@ -6191,9 +8221,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">157</td>
+<td>157</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>46</td>
@@ -6201,10 +8234,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>59</td>
-<td rowspan="4">2,3</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>2,3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>46</td>
@@ -6212,8 +8247,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>46</td>
@@ -6221,8 +8260,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>46</td>
@@ -6230,9 +8273,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>51</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">158</td>
+<td>158</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>21</td>
@@ -6240,10 +8286,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>6,9</td>
-<td rowspan="4">4,87</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,87</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>22</td>
@@ -6251,8 +8299,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>6,9</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>22</td>
@@ -6260,8 +8312,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>59,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>21</td>
@@ -6269,9 +8325,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>59,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">159</td>
+<td>159</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>19</td>
@@ -6279,10 +8338,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>50,14</td>
-<td rowspan="4">3,2</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>3,2</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>19</td>
@@ -6290,8 +8351,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>45,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>19</td>
@@ -6299,8 +8364,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>47,98</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>19</td>
@@ -6308,9 +8377,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>52,31</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">160</td>
+<td>160</td>
+<td>Участок Карчига</td>
 <td>1</td>
 <td>85</td>
 <td>13</td>
@@ -6318,10 +8390,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>58</td>
-<td rowspan="4">4,2</td>
-<td rowspan="4">Участок Карчига в Курчумском районе</td>
+<td>4,2</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>13</td>
@@ -6329,8 +8403,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>13</td>
@@ -6338,8 +8416,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>13</td>
@@ -6347,9 +8429,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>54</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">161</td>
+<td>161</td>
+<td>Участок Суык булак</td>
 <td>1</td>
 <td>85</td>
 <td>17</td>
@@ -6357,10 +8442,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>21</td>
-<td rowspan="4">1,8</td>
-<td rowspan="4">Участок Суык булак в Курчумском районе</td>
+<td>1,8</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>17</td>
@@ -6368,8 +8455,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>17</td>
@@ -6377,8 +8468,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>17</td>
@@ -6386,9 +8481,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">162</td>
+<td>162</td>
+<td>Участок Сухой лог</td>
 <td>1</td>
 <td>85</td>
 <td>17</td>
@@ -6396,10 +8494,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
-<td rowspan="4">1,3</td>
-<td rowspan="4">Участок Сухой лог в Курчумском районе</td>
+<td>1,3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>17</td>
@@ -6407,8 +8507,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>17</td>
@@ -6416,8 +8520,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>17</td>
@@ -6425,10 +8533,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="160">11</td>
-<td rowspan="4">163</td>
+<td>163</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -6436,11 +8546,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>0</td>
-<td rowspan="4">1,968</td>
-<td rowspan="4">Участок в Курчумском районе</td>
-<td rowspan="160"></td>
+<td>1,968</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -6448,8 +8559,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -6457,8 +8572,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -6466,9 +8585,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">164</td>
+<td>164</td>
+<td>Участок Центр</td>
 <td>1</td>
 <td>82</td>
 <td>29</td>
@@ -6476,10 +8598,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>6,36</td>
-<td rowspan="4">1,4</td>
-<td rowspan="4">Участок Центр в Уланском районе</td>
+<td>1,4</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>29</td>
@@ -6487,8 +8611,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>4,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>29</td>
@@ -6496,8 +8624,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>20</td>
 <td>59,68</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>29</td>
@@ -6505,9 +8637,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>21</td>
 <td>1,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">165</td>
+<td>165</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -6515,10 +8650,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>9</td>
-<td rowspan="4">4,3</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,3</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -6526,8 +8663,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>10</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -6535,8 +8676,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -6544,9 +8689,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">166</td>
+<td>166</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -6554,10 +8702,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>45</td>
-<td rowspan="4">4,1</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,1</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -6565,8 +8715,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>45</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -6574,8 +8728,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>32</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -6583,9 +8741,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>32</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">167</td>
+<td>167</td>
+<td>Участок Низ-Карагаш</td>
 <td>1</td>
 <td>85</td>
 <td>7</td>
@@ -6593,10 +8754,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>8</td>
-<td rowspan="4">3,039</td>
-<td rowspan="4">Участок Низ-Карагаш в Курчумском районе</td>
+<td>3,039</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>7</td>
@@ -6604,8 +8767,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>7</td>
@@ -6613,8 +8780,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>7</td>
@@ -6622,9 +8793,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">168</td>
+<td>168</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -6632,10 +8806,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>0</td>
-<td rowspan="4">4,2</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,2</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -6643,8 +8819,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -6652,8 +8832,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>46</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -6661,9 +8845,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">169</td>
+<td>169</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -6671,10 +8858,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>46</td>
-<td rowspan="4">4,819</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,819</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>13</td>
@@ -6682,8 +8871,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -6691,8 +8884,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>32</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -6700,9 +8897,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">170</td>
+<td>170</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -6710,10 +8910,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>45</td>
-<td rowspan="4">4,2</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,2</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -6721,8 +8923,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>45</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -6730,8 +8936,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -6739,9 +8949,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>34</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">171</td>
+<td>171</td>
+<td>Участок Кайынды Булак</td>
 <td>1</td>
 <td>85</td>
 <td>7</td>
@@ -6749,10 +8962,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>24</td>
-<td rowspan="4">2,277</td>
-<td rowspan="4">Участок Кайынды Булак в Курчумском районе</td>
+<td>2,277</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>7</td>
@@ -6760,8 +8975,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>7</td>
@@ -6769,8 +8988,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>7</td>
@@ -6778,9 +9001,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">172</td>
+<td>172</td>
+<td>Участок Шолак Булак</td>
 <td>1</td>
 <td>85</td>
 <td>6</td>
@@ -6788,10 +9014,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>24</td>
-<td rowspan="4">4,428</td>
-<td rowspan="4">Участок Шолак Булак в Курчумском районе</td>
+<td>4,428</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>6</td>
@@ -6799,8 +9027,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>28</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>6</td>
@@ -6808,8 +9040,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>6</td>
@@ -6817,9 +9053,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">173</td>
+<td>173</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>33</td>
@@ -6827,10 +9066,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>20,53</td>
-<td rowspan="4">4,6</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,6</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>33</td>
@@ -6838,8 +9079,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>20,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>33</td>
@@ -6847,8 +9092,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>10,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>33</td>
@@ -6856,9 +9105,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>11,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">174</td>
+<td>174</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -6866,10 +9118,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>30</td>
-<td rowspan="4">4,382</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>4,382</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -6877,8 +9131,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>31</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -6886,8 +9144,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -6895,9 +9157,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">175</td>
+<td>175</td>
+<td>Участок Салкын Тобе</td>
 <td>1</td>
 <td>82</td>
 <td>10</td>
@@ -6905,10 +9170,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>23</td>
 <td>1</td>
-<td rowspan="4">1,36</td>
-<td rowspan="4">Участок Салкын Тобе в Уланском районе</td>
+<td>1,36</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>10</td>
@@ -6916,8 +9183,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>23</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>10</td>
@@ -6925,8 +9196,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>23</td>
 <td>12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>10</td>
@@ -6934,9 +9209,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>23</td>
 <td>12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">176</td>
+<td>176</td>
+<td>Участок Жайлау-8</td>
 <td>1</td>
 <td>82</td>
 <td>1</td>
@@ -6944,10 +9222,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>25,89</td>
-<td rowspan="4">2</td>
-<td rowspan="4">Участок Жайлау-8 в Уланском районе</td>
+<td>2</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>1</td>
@@ -6955,8 +9235,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>25,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>1</td>
@@ -6964,8 +9248,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>21,25</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>1</td>
@@ -6973,9 +9261,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>21,32</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">177</td>
+<td>177</td>
+<td>Участок Жайлау-5</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -6983,10 +9274,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>9,51</td>
-<td rowspan="4">1</td>
-<td rowspan="4">Участок Жайлау-5 в Уланском районе</td>
+<td>1</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>2</td>
@@ -6994,8 +9287,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>9,47</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>2</td>
@@ -7003,8 +9300,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>6,23</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7012,9 +9313,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>6,28</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">178</td>
+<td>178</td>
+<td>Участок Жайлау-1</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -7022,10 +9326,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>3,68</td>
-<td rowspan="4">1,5</td>
-<td rowspan="4">Участок Жайлау-1 в Уланском районе</td>
+<td>1,5</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>2</td>
@@ -7033,8 +9339,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>3,63</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>2</td>
@@ -7042,8 +9352,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,66</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7051,9 +9365,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,72</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">179</td>
+<td>179</td>
+<td>Участок Жайлау-9</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -7061,10 +9378,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>32</td>
 <td>50,87</td>
-<td rowspan="4">2,5</td>
-<td rowspan="4">Участок Жайлау-9 в Уланском районе</td>
+<td>2,5</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>2</td>
@@ -7072,8 +9391,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>32</td>
 <td>50,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>2</td>
@@ -7081,8 +9404,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>32</td>
 <td>45,68</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7090,9 +9417,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>32</td>
 <td>45,75</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">180</td>
+<td>180</td>
+<td>Участок Жайлау</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -7100,10 +9430,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>1,88</td>
-<td rowspan="4">1,5</td>
-<td rowspan="4">Участок Жайлау в Уланском районе</td>
+<td>1,5</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>2</td>
@@ -7111,8 +9443,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>1,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>2</td>
@@ -7120,8 +9456,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>57,86</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7129,9 +9469,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>57,92</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">181</td>
+<td>181</td>
+<td>Участок Жайлау-7</td>
 <td>1</td>
 <td>82</td>
 <td>3</td>
@@ -7139,10 +9482,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>8,99</td>
-<td rowspan="4">2</td>
-<td rowspan="4">Участок Жайлау-7 в Уланском районе</td>
+<td>2</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>3</td>
@@ -7150,8 +9495,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>8,93</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>3</td>
@@ -7159,8 +9508,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>4,35</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>3</td>
@@ -7168,9 +9521,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>4,41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">182</td>
+<td>182</td>
+<td>Участок Жайлау-3</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -7178,10 +9534,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>9,44</td>
-<td rowspan="4">1</td>
-<td rowspan="4">Участок Жайлау-3 в Уланском районе</td>
+<td>1</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>2</td>
@@ -7189,8 +9547,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>9,39</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>2</td>
@@ -7198,8 +9560,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>6,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7207,9 +9573,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>6,2</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">183</td>
+<td>183</td>
+<td>Участок Жайлау-4</td>
 <td>1</td>
 <td>82</td>
 <td>3</td>
@@ -7217,10 +9586,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>3,77</td>
-<td rowspan="4">2</td>
-<td rowspan="4">Участок Жайлау-4 в Уланском районе</td>
+<td>2</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>3</td>
@@ -7228,8 +9599,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>3,71</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>3</td>
@@ -7237,8 +9612,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>3</td>
@@ -7246,9 +9625,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">184</td>
+<td>184</td>
+<td>Участок Жайлау-6</td>
 <td>1</td>
 <td>82</td>
 <td>3</td>
@@ -7256,10 +9638,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>11,58</td>
-<td rowspan="4">1,5</td>
-<td rowspan="4">Участок Жайлау-6 в Уланском районе</td>
+<td>1,5</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>3</td>
@@ -7267,8 +9651,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>11,53</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>3</td>
@@ -7276,8 +9664,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>7,56</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>3</td>
@@ -7285,9 +9677,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>7,62</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">185</td>
+<td>185</td>
+<td>Участок Жайлау-2</td>
 <td>1</td>
 <td>82</td>
 <td>2</td>
@@ -7295,10 +9690,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>2,43</td>
-<td rowspan="4">1</td>
-<td rowspan="4">Участок Жайлау-2 в Уланском районе</td>
+<td>1</td>
+<td>Уланский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>3</td>
@@ -7306,8 +9703,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>34</td>
 <td>2,38</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>3</td>
@@ -7315,8 +9716,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>2</td>
@@ -7324,9 +9729,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>33</td>
 <td>59,19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">186</td>
+<td>186</td>
+<td>Участок Сары Булак</td>
 <td>1</td>
 <td>82</td>
 <td>24</td>
@@ -7334,10 +9742,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>30</td>
 <td>27</td>
-<td rowspan="4">3,6</td>
-<td rowspan="4">Участок Сары Булак в Тарбагатайском районе</td>
+<td>3,6</td>
+<td>Тарбагатайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>24</td>
@@ -7345,8 +9755,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>30</td>
 <td>27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>24</td>
@@ -7354,8 +9768,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>30</td>
 <td>17</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>24</td>
@@ -7363,9 +9781,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>30</td>
 <td>21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">187</td>
+<td>187</td>
+<td>Участок Шандыбулак-5</td>
 <td>1</td>
 <td>85</td>
 <td>13</td>
@@ -7373,10 +9794,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>59,9611</td>
-<td rowspan="4">4,887</td>
-<td rowspan="4">Участок Шандыбулак-5 в Курчумском районе</td>
+<td>4,887</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>13</td>
@@ -7384,8 +9807,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>6,6764</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>13</td>
@@ -7393,8 +9820,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>1,9393</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>13</td>
@@ -7402,9 +9833,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>54,615</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">188</td>
+<td>188</td>
+<td>Участок Шандыбулак-4</td>
 <td>1</td>
 <td>85</td>
 <td>13</td>
@@ -7412,10 +9846,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>0,5520</td>
-<td rowspan="4">4,326</td>
-<td rowspan="4">Участок Шандыбулак-4 в Курчумском районе</td>
+<td>4,326</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>13</td>
@@ -7423,8 +9859,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>59,5516</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>13</td>
@@ -7432,8 +9872,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>54,5572</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>13</td>
@@ -7441,9 +9885,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>55,6769</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">189</td>
+<td>189</td>
+<td>Участок Калжир-2</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -7451,10 +9898,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>54,9702</td>
-<td rowspan="4">4,66</td>
-<td rowspan="4">Участок Калжир-2 в Курчумском районе</td>
+<td>4,66</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -7462,8 +9911,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>11,3582</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -7471,8 +9924,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>9,8778</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -7480,9 +9937,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>54,2106</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">190</td>
+<td>190</td>
+<td>Участок Шандыбулак-15</td>
 <td>1</td>
 <td>85</td>
 <td>18</td>
@@ -7490,10 +9950,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>32,9685</td>
-<td rowspan="4">4,937</td>
-<td rowspan="4">Участок Шандыбулак-15 в Курчумском районе</td>
+<td>4,937</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>18</td>
@@ -7501,8 +9963,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>31,688</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>18</td>
@@ -7510,8 +9976,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>28,9509</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>18</td>
@@ -7519,9 +9989,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>30,2148</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">191</td>
+<td>191</td>
+<td>Участок Шандыбулак-9</td>
 <td>1</td>
 <td>85</td>
 <td>14</td>
@@ -7529,10 +10002,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>24,9832</td>
-<td rowspan="4">4,602</td>
-<td rowspan="4">Участок Шандыбулак-9 в Курчумском районе</td>
+<td>4,602</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>15</td>
@@ -7540,8 +10015,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>19,9083</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>15</td>
@@ -7549,8 +10028,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>17,938</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>14</td>
@@ -7558,9 +10041,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>22,2246</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">192</td>
+<td>192</td>
+<td>Участок Шандыбулак-2</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -7568,10 +10054,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>55,0929</td>
-<td rowspan="4">2,898</td>
-<td rowspan="4">Участок Шандыбулак-2 в Курчумском районе</td>
+<td>2,898</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -7579,8 +10067,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>57,5627</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -7588,8 +10080,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>53,0032</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -7597,9 +10093,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>53,6652</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">193</td>
+<td>193</td>
+<td>Участок Шандыбулак-12</td>
 <td>1</td>
 <td>85</td>
 <td>16</td>
@@ -7607,10 +10106,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>23,2726</td>
-<td rowspan="4">4,874</td>
-<td rowspan="4">Участок Шандыбулак-12 в Курчумском районе</td>
+<td>4,874</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>17</td>
@@ -7618,8 +10119,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>27,4493</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>17</td>
@@ -7627,8 +10132,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>25,0255</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>16</td>
@@ -7636,9 +10145,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>21,2299</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">194</td>
+<td>194</td>
+<td>Участок Шандыбулак-7</td>
 <td>1</td>
 <td>85</td>
 <td>14</td>
@@ -7646,10 +10158,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>22,8773</td>
-<td rowspan="4">4,886</td>
-<td rowspan="4">Участок Шандыбулак-7 в Курчумском районе</td>
+<td>4,886</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>14</td>
@@ -7657,8 +10171,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>16,3556</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>14</td>
@@ -7666,8 +10184,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>13,3721</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>14</td>
@@ -7675,9 +10197,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>20,0542</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">195</td>
+<td>195</td>
+<td>Участок Калжир-7</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -7685,10 +10210,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>37,3906</td>
-<td rowspan="4">4,864</td>
-<td rowspan="4">Участок Калжир-7 в Курчумском районе</td>
+<td>4,864</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -7696,8 +10223,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>41,3623</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -7705,8 +10236,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>37,1671</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -7714,9 +10249,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>33,7169</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">196</td>
+<td>196</td>
+<td>Участок Калжир-8</td>
 <td>1</td>
 <td>85</td>
 <td>11</td>
@@ -7724,10 +10262,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>33,0343</td>
-<td rowspan="4">4,903</td>
-<td rowspan="4">Участок Калжир-8 в Курчумском районе</td>
+<td>4,903</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>11</td>
@@ -7735,8 +10275,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>38,0561</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -7744,8 +10288,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>34,9426</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>11</td>
@@ -7753,9 +10301,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>28,5208</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">197</td>
+<td>197</td>
+<td>Участок Шандыбулак-6</td>
 <td>1</td>
 <td>85</td>
 <td>13</td>
@@ -7763,10 +10314,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>4,0361</td>
-<td rowspan="4">3,923</td>
-<td rowspan="4">Участок Шандыбулак-6 в Курчумском районе</td>
+<td>3,923</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>14</td>
@@ -7774,8 +10327,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>20,3391</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>14</td>
@@ -7783,8 +10340,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>19,4436</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>13</td>
@@ -7792,9 +10353,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>2,8308</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">198</td>
+<td>198</td>
+<td>Участок Шандыбулак-11</td>
 <td>1</td>
 <td>85</td>
 <td>15</td>
@@ -7802,10 +10366,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>17,9176</td>
-<td rowspan="4">4,866</td>
-<td rowspan="4">Участок Шандыбулак-11 в Курчумском районе</td>
+<td>4,866</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>16</td>
@@ -7813,8 +10379,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>24,0537</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>16</td>
@@ -7822,8 +10392,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>21,3656</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>16</td>
@@ -7831,9 +10405,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>15,2799</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">199</td>
+<td>199</td>
+<td>Участок Шандыбулак-10</td>
 <td>1</td>
 <td>85</td>
 <td>15</td>
@@ -7841,10 +10418,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>19,6222</td>
-<td rowspan="4">4,676</td>
-<td rowspan="4">Участок Шандыбулак-10 в Курчумском районе</td>
+<td>4,676</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>15</td>
@@ -7852,8 +10431,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>17,5331</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>15</td>
@@ -7861,8 +10444,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>14,8343</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>15</td>
@@ -7870,9 +10457,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>16,9951</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">200</td>
+<td>200</td>
+<td>Участок Шандыбулак-13</td>
 <td>1</td>
 <td>85</td>
 <td>17</td>
@@ -7880,10 +10470,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>26,623</td>
-<td rowspan="4">4,794</td>
-<td rowspan="4">Участок Шандыбулак-13 в Курчумском районе</td>
+<td>4,794</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>17</td>
@@ -7891,8 +10483,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>24,5686</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>17</td>
@@ -7900,8 +10496,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>22,5328</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>17</td>
@@ -7909,9 +10509,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>24,5407</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">201</td>
+<td>201</td>
+<td>Участок Калжир-1</td>
 <td>1</td>
 <td>85</td>
 <td>12</td>
@@ -7919,10 +10522,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>54,3275</td>
-<td rowspan="4">3,678</td>
-<td rowspan="4">Участок Калжир-1 в Курчумском районе</td>
+<td>3,678</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>12</td>
@@ -7930,8 +10535,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>53,9341</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>12</td>
@@ -7939,8 +10548,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>42,874</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>12</td>
@@ -7948,9 +10561,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>42,6772</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">202</td>
+<td>202</td>
+<td>Участок Шандыбулак-14</td>
 <td>1</td>
 <td>85</td>
 <td>17</td>
@@ -7958,10 +10574,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>25,0539</td>
-<td rowspan="4">4,893</td>
-<td rowspan="4">Участок Шандыбулак-14 в Курчумском районе</td>
+<td>4,893</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>18</td>
@@ -7969,8 +10587,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>31,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>18</td>
@@ -7978,8 +10600,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>29,6454</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>17</td>
@@ -7987,10 +10613,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>23,0362</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="56">12</td>
-<td rowspan="4">203</td>
+<td>203</td>
+<td>Участок</td>
 <td>1</td>
 <td>84</td>
 <td>13</td>
@@ -7998,11 +10626,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>53</td>
 <td>45</td>
-<td rowspan="4">4,787</td>
-<td rowspan="4">Участок в Курчумском районе</td>
-<td rowspan="56"></td>
+<td>4,787</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>13</td>
@@ -8010,8 +10639,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>53</td>
 <td>46</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>13</td>
@@ -8019,8 +10652,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>54</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>13</td>
@@ -8028,9 +10665,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>53</td>
 <td>59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">204</td>
+<td>204</td>
+<td>Участок</td>
 <td>1</td>
 <td>81</td>
 <td>16</td>
@@ -8038,10 +10678,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>37</td>
 <td>58</td>
-<td rowspan="4">1,114</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>1,114</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>81</td>
 <td>16</td>
@@ -8049,8 +10691,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>38</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>81</td>
 <td>16</td>
@@ -8058,8 +10704,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>38</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>81</td>
 <td>16</td>
@@ -8067,9 +10717,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>37</td>
 <td>58</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">205</td>
+<td>205</td>
+<td>Участок Западный</td>
 <td>1</td>
 <td>82</td>
 <td>56</td>
@@ -8077,10 +10730,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>10</td>
 <td>2,2152</td>
-<td rowspan="4">4,68</td>
-<td rowspan="4">Участок Западный в районе Самар</td>
+<td>4,68</td>
+<td>Район Самар</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>57</td>
@@ -8088,8 +10743,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>10</td>
 <td>2,2152</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>57</td>
@@ -8097,8 +10756,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>55,1268</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>56</td>
@@ -8106,9 +10769,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>55,1268</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">206</td>
+<td>206</td>
+<td>Участок Вертикальный</td>
 <td>1</td>
 <td>82</td>
 <td>57</td>
@@ -8116,10 +10782,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>59,5584</td>
-<td rowspan="4">4,68</td>
-<td rowspan="4">Участок Вертикальный в районе Самар</td>
+<td>4,68</td>
+<td>Район Самар</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>82</td>
 <td>57</td>
@@ -8127,8 +10795,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>59,5584</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>82</td>
 <td>57</td>
@@ -8136,8 +10808,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>56,2608</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>82</td>
 <td>57</td>
@@ -8145,9 +10821,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>56,2608</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">207</td>
+<td>207</td>
+<td>Участок Правый</td>
 <td>1</td>
 <td>84</td>
 <td>54</td>
@@ -8155,10 +10834,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>33,8976</td>
-<td rowspan="4">4,773</td>
-<td rowspan="4">Участок Правый в Катон-Карагайском районе</td>
+<td>4,773</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>55</td>
@@ -8166,8 +10847,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>33,8976</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>55</td>
@@ -8175,8 +10860,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>30,6396</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>54</td>
@@ -8184,9 +10873,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>3</td>
 <td>30,6396</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">208</td>
+<td>208</td>
+<td>Участок Черновая 1</td>
 <td>1</td>
 <td>84</td>
 <td>50</td>
@@ -8194,10 +10886,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>0</td>
-<td rowspan="4">4,063</td>
-<td rowspan="4">Участок Черновая 1 в районе Алтай</td>
+<td>4,063</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>50</td>
@@ -8205,8 +10899,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>0</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>50</td>
@@ -8214,8 +10912,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>50</td>
@@ -8223,9 +10925,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>49</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">209</td>
+<td>209</td>
+<td>Участок Черновая 2</td>
 <td>1</td>
 <td>84</td>
 <td>49</td>
@@ -8233,10 +10938,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>13</td>
-<td rowspan="4">2,254</td>
-<td rowspan="4">Участок Черновая 2 в районе Алтай</td>
+<td>2,254</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>50</td>
@@ -8244,8 +10951,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>50</td>
@@ -8253,8 +10964,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>14</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>49</td>
@@ -8262,9 +10977,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">210</td>
+<td>210</td>
+<td>Участок Черновая 3</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -8272,10 +10990,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>24,54</td>
-<td rowspan="4">4,179</td>
-<td rowspan="4">Участок Черновая 3 в районе Алтай</td>
+<td>4,179</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>52</td>
@@ -8283,8 +11003,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>27,16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>52</td>
@@ -8292,8 +11016,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>24,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -8301,9 +11029,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>58</td>
 <td>22,05</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">211</td>
+<td>211</td>
+<td>Участок Черновая 4</td>
 <td>1</td>
 <td>84</td>
 <td>57</td>
@@ -8311,10 +11042,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>59</td>
 <td>44,29</td>
-<td rowspan="4">4,859</td>
-<td rowspan="4">Участок Черновая 4 в районе Алтай</td>
+<td>4,859</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>57</td>
@@ -8322,8 +11055,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>59</td>
 <td>49,82</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>57</td>
@@ -8331,8 +11068,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>59</td>
 <td>46,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>57</td>
@@ -8340,9 +11081,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>59</td>
 <td>41</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">212</td>
+<td>212</td>
+<td>Участок Черновая 5</td>
 <td>1</td>
 <td>84</td>
 <td>58</td>
@@ -8350,10 +11094,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>20,13</td>
-<td rowspan="4">4,808</td>
-<td rowspan="4">Участок Черновая 5 в районе Алтай</td>
+<td>4,808</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>58</td>
@@ -8361,8 +11107,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>18,18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>58</td>
@@ -8370,8 +11120,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>10,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>58</td>
@@ -8379,9 +11133,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>0</td>
 <td>12,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">213</td>
+<td>213</td>
+<td>Участок Черновая 6</td>
 <td>1</td>
 <td>84</td>
 <td>58</td>
@@ -8389,10 +11146,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>29,25</td>
-<td rowspan="4">4,54</td>
-<td rowspan="4">Участок Черновая 6 в районе Алтай</td>
+<td>4,54</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>58</td>
@@ -8400,8 +11159,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>29,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>58</td>
@@ -8409,8 +11172,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>13,79</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>58</td>
@@ -8418,9 +11185,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>13,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">214</td>
+<td>214</td>
+<td>Участок Черновая 7</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -8428,10 +11198,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>51,18</td>
-<td rowspan="4">4,477</td>
-<td rowspan="4">Участок Черновая 7 в районе Алтай</td>
+<td>4,477</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>59</td>
@@ -8439,8 +11211,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>51,93</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>59</td>
@@ -8448,8 +11224,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>42,65</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>59</td>
@@ -8457,9 +11237,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>41,83</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">215</td>
+<td>215</td>
+<td>Участок Черновая 8</td>
 <td>1</td>
 <td>85</td>
 <td>0</td>
@@ -8467,10 +11250,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>2</td>
 <td>13,31</td>
-<td rowspan="4">4,001</td>
-<td rowspan="4">Участок Черновая 8 в районе Алтай</td>
+<td>4,001</td>
+<td>Район Алтай</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>0</td>
@@ -8478,8 +11263,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>2</td>
 <td>11,84</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>0</td>
@@ -8487,8 +11276,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>1</td>
 <td>59,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>0</td>
@@ -8496,9 +11289,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>50</td>
 <td>2</td>
 <td>1,06</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">216</td>
+<td>216</td>
+<td>Участок Мостовой</td>
 <td>1</td>
 <td>85</td>
 <td>7</td>
@@ -8506,10 +11302,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>22,1500</td>
-<td rowspan="4">0,497</td>
-<td rowspan="4">Участок Мостовой в Курчумском районе</td>
+<td>0,497</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>7</td>
@@ -8517,8 +11315,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>22,1600</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>7</td>
@@ -8526,8 +11328,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>15,3463</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>7</td>
@@ -8535,10 +11341,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>15,3366</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="48">13</td>
-<td rowspan="4">217</td>
+<td>217</td>
+<td>Участок Караагаш</td>
 <td>1</td>
 <td>85</td>
 <td>6</td>
@@ -8546,11 +11354,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>5,8</td>
-<td rowspan="4">0,834</td>
-<td rowspan="4">Участок Караагаш в Курчумском районе</td>
-<td rowspan="48"></td>
+<td>0,834</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>6</td>
@@ -8558,8 +11367,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>6,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>6</td>
@@ -8567,8 +11380,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>2,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>6</td>
@@ -8576,9 +11393,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>39</td>
 <td>2,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">218</td>
+<td>218</td>
+<td>Участок Акбулак 1</td>
 <td>1</td>
 <td>84</td>
 <td>59</td>
@@ -8586,10 +11406,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>51,08</td>
-<td rowspan="4">2,693</td>
-<td rowspan="4">Участок Акбулак 1 в Курчумском районе</td>
+<td>2,693</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>0</td>
@@ -8597,8 +11419,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>53,48</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>0</td>
@@ -8606,8 +11432,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>48,36</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>0</td>
@@ -8615,9 +11445,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>46,14</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">219</td>
+<td>219</td>
+<td>Участок Малонарымский 1</td>
 <td>1</td>
 <td>84</td>
 <td>51</td>
@@ -8625,10 +11458,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>38,08</td>
-<td rowspan="4">4,93</td>
-<td rowspan="4">Участок Малонарымский 1 в Катон-Карагайском районе</td>
+<td>4,93</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>51</td>
@@ -8636,8 +11471,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>35,73</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>51</td>
@@ -8645,8 +11484,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>24,85</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>51</td>
@@ -8654,9 +11497,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>27,02</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">220</td>
+<td>220</td>
+<td>Участок Малонарымский 2</td>
 <td>1</td>
 <td>84</td>
 <td>50</td>
@@ -8664,10 +11510,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>38,36</td>
-<td rowspan="4">4,844</td>
-<td rowspan="4">Участок Малонарымский 2 в Катон-Карагайском районе</td>
+<td>4,844</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>50</td>
@@ -8675,8 +11523,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>32,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>50</td>
@@ -8684,8 +11536,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>29,16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>50</td>
@@ -8693,9 +11549,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>18</td>
 <td>34,55</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">221</td>
+<td>221</td>
+<td>Участок Балакалжир 4</td>
 <td>1</td>
 <td>85</td>
 <td>0</td>
@@ -8703,10 +11562,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>40,36</td>
-<td rowspan="4">4</td>
-<td rowspan="4">Участок Балакалжир 4 в Курчумском районе</td>
+<td>4</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>0</td>
@@ -8714,8 +11575,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>31,18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>0</td>
@@ -8723,8 +11588,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>30,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>0</td>
@@ -8732,9 +11601,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>40,1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">222</td>
+<td>222</td>
+<td>Участок Актасты 5</td>
 <td>1</td>
 <td>84</td>
 <td>35</td>
@@ -8742,10 +11614,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>35</td>
-<td rowspan="4">4,4</td>
-<td rowspan="4">Участок Актасты 5 в Курчумском районе</td>
+<td>4,4</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>35</td>
@@ -8753,8 +11627,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>35</td>
@@ -8762,8 +11640,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>35</td>
@@ -8771,9 +11653,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">223</td>
+<td>223</td>
+<td>Участок Изба 2</td>
 <td>1</td>
 <td>84</td>
 <td>43</td>
@@ -8781,10 +11666,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>48</td>
 <td>21,5</td>
-<td rowspan="4">3,81</td>
-<td rowspan="4">Участок Изба 2 в Курчумском районе</td>
+<td>3,81</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>42</td>
@@ -8792,8 +11679,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>48</td>
 <td>31,7</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>42</td>
@@ -8801,8 +11692,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>48</td>
 <td>29,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>43</td>
@@ -8810,9 +11705,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>48</td>
 <td>19,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">224</td>
+<td>224</td>
+<td>Участок Битикельды 4</td>
 <td>1</td>
 <td>84</td>
 <td>33</td>
@@ -8820,10 +11718,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>22</td>
-<td rowspan="4">4,41</td>
-<td rowspan="4">Участок Битикельды 4 в Курчумском районе</td>
+<td>4,41</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>33</td>
@@ -8831,8 +11731,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>30</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>33</td>
@@ -8840,8 +11744,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>27</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>33</td>
@@ -8849,9 +11757,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>19</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">225</td>
+<td>225</td>
+<td>Участок Битикельды 2</td>
 <td>1</td>
 <td>84</td>
 <td>33</td>
@@ -8859,10 +11770,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>50</td>
-<td rowspan="4">4,16</td>
-<td rowspan="4">Участок Битикельды 2 в Курчумском районе</td>
+<td>4,16</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>33</td>
@@ -8870,8 +11783,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>33</td>
@@ -8879,8 +11796,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>1</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>33</td>
@@ -8888,9 +11809,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>51</td>
 <td>50</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">226</td>
+<td>226</td>
+<td>Участок Карьер 1</td>
 <td>1</td>
 <td>84</td>
 <td>27</td>
@@ -8898,10 +11822,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>16</td>
 <td>47,47</td>
-<td rowspan="4">3,008</td>
-<td rowspan="4">Участок Карьер 1 в Катон-Карагайском районе</td>
+<td>3,008</td>
+<td>Катон-Карагайский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>27</td>
@@ -8909,8 +11835,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>16</td>
 <td>47,54</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>27</td>
@@ -8918,8 +11848,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>16</td>
 <td>43,04</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>27</td>
@@ -8927,9 +11861,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>16</td>
 <td>42,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">227</td>
+<td>227</td>
+<td>Участок Актасты</td>
 <td>1</td>
 <td>84</td>
 <td>35</td>
@@ -8937,10 +11874,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>6</td>
-<td rowspan="4">3,22</td>
-<td rowspan="4">Участок Актасты в Курчумском районе</td>
+<td>3,22</td>
+<td>в Курчумском районе</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>35</td>
@@ -8948,8 +11887,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>16</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>35</td>
@@ -8957,8 +11900,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>14,5</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>35</td>
@@ -8966,9 +11913,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>52</td>
 <td>4</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">228</td>
+<td>228</td>
+<td>Участок</td>
 <td>1</td>
 <td>83</td>
 <td>58</td>
@@ -8976,10 +11926,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>52,031</td>
-<td rowspan="4">5</td>
-<td rowspan="4">Участок в районе Самар</td>
+<td>5</td>
+<td>Район Самар</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>83</td>
 <td>58</td>
@@ -8987,8 +11939,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>10</td>
 <td>9,718</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>83</td>
 <td>58</td>
@@ -8996,8 +11952,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>10</td>
 <td>9,253</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>83</td>
 <td>58</td>
@@ -9005,10 +11965,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>49</td>
 <td>9</td>
 <td>51,007</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="44">14</td>
-<td rowspan="4">229</td>
+<td>229</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>16</td>
@@ -9016,11 +11978,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>21</td>
-<td rowspan="4">3,237</td>
-<td rowspan="4">Участок в Курчумском районе</td>
-<td rowspan="44"></td>
+<td>3,237</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>16</td>
@@ -9028,8 +11991,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>21</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>16</td>
@@ -9037,8 +12004,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>16</td>
@@ -9046,9 +12017,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>28</td>
 <td>18</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">230</td>
+<td>230</td>
+<td>Участок Алтай-4</td>
 <td>1</td>
 <td>85</td>
 <td>10</td>
@@ -9056,10 +12030,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>16,76</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок Алтай-4 в Курчумском районе</td>
+<td>4,9</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>10</td>
@@ -9067,8 +12043,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>20,87</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>10</td>
@@ -9076,8 +12056,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>16,12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>10</td>
@@ -9085,9 +12069,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>12</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">231</td>
+<td>231</td>
+<td>Участок Бакай-2</td>
 <td>1</td>
 <td>85</td>
 <td>8</td>
@@ -9095,10 +12082,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>8,69</td>
-<td rowspan="4">4,954</td>
-<td rowspan="4">Участок Бакай-2 в районе Маркаколь</td>
+<td>4,954</td>
+<td>Район Марқакөл</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>8</td>
@@ -9106,8 +12095,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>10,77</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>8</td>
@@ -9115,8 +12108,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>6,31</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>8</td>
@@ -9124,9 +12121,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>4,24</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">232</td>
+<td>232</td>
+<td>Участок Бакай-1</td>
 <td>1</td>
 <td>85</td>
 <td>8</td>
@@ -9134,10 +12134,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>37,26</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок Бакай-1 в районе Маркаколь</td>
+<td>4,9</td>
+<td>Район Марқакөл</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>8</td>
@@ -9145,8 +12147,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>41,45</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>8</td>
@@ -9154,8 +12160,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>37,13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>8</td>
@@ -9163,9 +12173,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>32,94</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">233</td>
+<td>233</td>
+<td>Участок Еспе-5</td>
 <td>1</td>
 <td>84</td>
 <td>28</td>
@@ -9173,10 +12186,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>0</td>
 <td>37</td>
-<td rowspan="4">3,338</td>
-<td rowspan="4">Участок Еспе-5 в Зайсанском районе</td>
+<td>3,338</td>
+<td>Зайсанский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>84</td>
 <td>29</td>
@@ -9184,8 +12199,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>0</td>
 <td>36</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>84</td>
 <td>28</td>
@@ -9193,8 +12212,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>0</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>84</td>
 <td>28</td>
@@ -9202,9 +12225,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>47</td>
 <td>0</td>
 <td>22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">234</td>
+<td>234</td>
+<td>Участок Алтай-1</td>
 <td>1</td>
 <td>85</td>
 <td>07</td>
@@ -9212,10 +12238,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>56,63</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок Алтай-1 в Курчумском районе</td>
+<td>4,9</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>07</td>
@@ -9223,8 +12251,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>26</td>
 <td>00,37</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>08</td>
@@ -9232,8 +12264,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>53,96</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>08</td>
@@ -9241,9 +12277,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>50,22</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">235</td>
+<td>235</td>
+<td>Участок Алтай-2</td>
 <td>1</td>
 <td>85</td>
 <td>8</td>
@@ -9251,10 +12290,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>42,71</td>
-<td rowspan="4">4,8</td>
-<td rowspan="4">Участок Алтай-2 в Курчумском районе</td>
+<td>4,8</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>8</td>
@@ -9262,8 +12303,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>46,44</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>8</td>
@@ -9271,8 +12316,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>40,04</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>8</td>
@@ -9280,9 +12329,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>36,3</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">236</td>
+<td>236</td>
+<td>Участок Алтай-6</td>
 <td>1</td>
 <td>85</td>
 <td>10</td>
@@ -9290,10 +12342,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>8,29</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок Алтай-6 в Курчумском районе</td>
+<td>4,9</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>10</td>
@@ -9301,8 +12355,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>12,57</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>10</td>
@@ -9310,8 +12368,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>8,88</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>10</td>
@@ -9319,9 +12381,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>25</td>
 <td>4,6</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">237</td>
+<td>237</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -9329,10 +12394,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>45,83</td>
-<td rowspan="4">2,54</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>2,54</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -9340,8 +12407,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>56,15</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -9349,8 +12420,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>56,09</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -9358,9 +12433,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>45,77</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">238</td>
+<td>238</td>
+<td>Участок</td>
 <td>1</td>
 <td>85</td>
 <td>50</td>
@@ -9368,10 +12446,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>18,21</td>
-<td rowspan="4">3,06</td>
-<td rowspan="4">Участок в Курчумском районе</td>
+<td>3,06</td>
+<td>Курчумский район</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>50</td>
@@ -9379,8 +12459,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>27,8</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>50</td>
@@ -9388,8 +12472,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>29,59</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>50</td>
@@ -9397,9 +12485,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>27</td>
 <td>20</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td rowspan="4">239</td>
+<td>239</td>
+<td>Участок Акшокы</td>
 <td>1</td>
 <td>85</td>
 <td>22</td>
@@ -9407,10 +12498,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>59,19</td>
-<td rowspan="4">4,9</td>
-<td rowspan="4">Участок Акшокы в Курчумском районе</td>
+<td>4,9</td>
+<td>в Курчумском районе</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>2</td>
 <td>85</td>
 <td>22</td>
@@ -9418,8 +12511,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>9,76</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>3</td>
 <td>85</td>
 <td>22</td>
@@ -9427,8 +12524,12 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>30</td>
 <td>8,13</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>4</td>
 <td>85</td>
 <td>22</td>
@@ -9436,5 +12537,3699 @@ source: https://zan.gov.kz/client/#!/doc/127889/rus/04.03.2025
 <td>48</td>
 <td>29</td>
 <td>57,56</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>240</td>
+<td>Участок № 1</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>50,59</td>
+<td>49</td>
+<td>9</td>
+<td>28,72</td>
+<td>4,86</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>54,75</td>
+<td>49</td>
+<td>9</td>
+<td>34,27</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>50</td>
+<td>6,37</td>
+<td>49</td>
+<td>9</td>
+<td>30,85</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>50</td>
+<td>2,57</td>
+<td>49</td>
+<td>9</td>
+<td>25,29</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>241</td>
+<td>Участок № 2</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>49,09</td>
+<td>49</td>
+<td>9</td>
+<td>18,33</td>
+<td>4,76</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>55,62</td>
+<td>49</td>
+<td>9</td>
+<td>27,34</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>50</td>
+<td>2,57</td>
+<td>49</td>
+<td>9</td>
+<td>25,3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>56,05</td>
+<td>49</td>
+<td>9</td>
+<td>16,28</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>242</td>
+<td>Участок № 3</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>0,56</td>
+<td>49</td>
+<td>5</td>
+<td>46,43</td>
+<td>4,96</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>5,28</td>
+<td>49</td>
+<td>5</td>
+<td>57,32</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>12</td>
+<td>49</td>
+<td>5</td>
+<td>56,06</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>7,28</td>
+<td>49</td>
+<td>5</td>
+<td>45,17</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>243</td>
+<td>Участок № 4</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>7,28</td>
+<td>49</td>
+<td>5</td>
+<td>45,17</td>
+<td>3</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>10,15</td>
+<td>49</td>
+<td>5</td>
+<td>51,78</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>16,86</td>
+<td>49</td>
+<td>5</td>
+<td>50,5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>14</td>
+<td>49</td>
+<td>5</td>
+<td>43,91</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>244</td>
+<td>Участок № 5</td>
+<td>1</td>
+<td>84</td>
+<td>48</td>
+<td>16,03</td>
+<td>49</td>
+<td>5</td>
+<td>6,51</td>
+<td>4,88</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>48</td>
+<td>9,97</td>
+<td>49</td>
+<td>5</td>
+<td>12,24</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>48</td>
+<td>19,14</td>
+<td>49</td>
+<td>5</td>
+<td>16,42</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>48</td>
+<td>25,2</td>
+<td>49</td>
+<td>5</td>
+<td>10,69</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>245</td>
+<td>Участок № 6</td>
+<td>1</td>
+<td>84</td>
+<td>48</td>
+<td>19,89</td>
+<td>49</td>
+<td>4</td>
+<td>57,29</td>
+<td>4,9</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>48</td>
+<td>17,92</td>
+<td>49</td>
+<td>5</td>
+<td>7,37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>48</td>
+<td>25,55</td>
+<td>49</td>
+<td>5</td>
+<td>8,03</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>48</td>
+<td>27,52</td>
+<td>49</td>
+<td>4</td>
+<td>57,96</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>246</td>
+<td>Участок № 7</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>28,67</td>
+<td>49</td>
+<td>1</td>
+<td>39,83</td>
+<td>4,98</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>25,65</td>
+<td>49</td>
+<td>1</td>
+<td>45,15</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>38,75</td>
+<td>49</td>
+<td>1</td>
+<td>48,36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>41,77</td>
+<td>49</td>
+<td>1</td>
+<td>43,04</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>247</td>
+<td>Участок № 8</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>31,69</td>
+<td>49</td>
+<td>1</td>
+<td>34,51</td>
+<td>4,98</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>28,67</td>
+<td>49</td>
+<td>1</td>
+<td>39,83</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>41,77</td>
+<td>49</td>
+<td>1</td>
+<td>43,04</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>44,78</td>
+<td>49</td>
+<td>1</td>
+<td>37,72</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>248</td>
+<td>Участок № 9</td>
+<td>1</td>
+<td>85</td>
+<td>2</td>
+<td>45,49</td>
+<td>49</td>
+<td>0</td>
+<td>3,37</td>
+<td>4,9</td>
+<td>Катон-Карагайский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>2</td>
+<td>45,47</td>
+<td>49</td>
+<td>0</td>
+<td>10,34</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>2</td>
+<td>56,6</td>
+<td>49</td>
+<td>0</td>
+<td>10,36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>2</td>
+<td>56,63</td>
+<td>49</td>
+<td>0</td>
+<td>3,39</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>249</td>
+<td>Участок Матак Восточный</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>41,09</td>
+<td>49</td>
+<td>8</td>
+<td>39,09</td>
+<td>4,641</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>56</td>
+<td>44,25</td>
+<td>49</td>
+<td>8</td>
+<td>37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>56</td>
+<td>26,2</td>
+<td>49</td>
+<td>8</td>
+<td>24,79</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>56</td>
+<td>23,11</td>
+<td>49</td>
+<td>8</td>
+<td>26,65</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>250</td>
+<td>Участок Матак Центральный</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>22,28</td>
+<td>49</td>
+<td>8</td>
+<td>26,14</td>
+<td>3,775</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>56</td>
+<td>24,26</td>
+<td>49</td>
+<td>8</td>
+<td>24,02</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>56</td>
+<td>3,83</td>
+<td>49</td>
+<td>8</td>
+<td>15,81</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>56</td>
+<td>1,84</td>
+<td>49</td>
+<td>8</td>
+<td>18</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>251</td>
+<td>Участок Матак Западный</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>2,17</td>
+<td>49</td>
+<td>8</td>
+<td>15,5</td>
+<td>4,576</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>56</td>
+<td>4,42</td>
+<td>49</td>
+<td>8</td>
+<td>13,59</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>55</td>
+<td>40,9</td>
+<td>49</td>
+<td>8</td>
+<td>1,49</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>55</td>
+<td>38,37</td>
+<td>49</td>
+<td>8</td>
+<td>3,3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>252</td>
+<td>Участок Матак Южный</td>
+<td>1</td>
+<td>82</td>
+<td>55</td>
+<td>20,58</td>
+<td>49</td>
+<td>7</td>
+<td>49,37</td>
+<td>3,882</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>55</td>
+<td>22,26</td>
+<td>49</td>
+<td>7</td>
+<td>50,74</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>55</td>
+<td>48,47</td>
+<td>49</td>
+<td>7</td>
+<td>35,12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>55</td>
+<td>46,68</td>
+<td>49</td>
+<td>7</td>
+<td>33,82</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>253</td>
+<td>Участок Матак Юго-Восток</td>
+<td>1</td>
+<td>82</td>
+<td>55</td>
+<td>34,15</td>
+<td>49</td>
+<td>8</td>
+<td>5,19</td>
+<td>4,393</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>55</td>
+<td>37,6</td>
+<td>49</td>
+<td>8</td>
+<td>3,07</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>55</td>
+<td>22,22</td>
+<td>49</td>
+<td>7</td>
+<td>52,21</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>55</td>
+<td>18,79</td>
+<td>49</td>
+<td>7</td>
+<td>54,36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>254</td>
+<td>Участок Матак Юго-Запад</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>11,13</td>
+<td>49</td>
+<td>7</td>
+<td>49,32</td>
+<td>4,195</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>56</td>
+<td>38,02</td>
+<td>49</td>
+<td>7</td>
+<td>49,32</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>56</td>
+<td>38,02</td>
+<td>49</td>
+<td>7</td>
+<td>46,83</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>56</td>
+<td>11,13</td>
+<td>49</td>
+<td>7</td>
+<td>46,83</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>255</td>
+<td>Участок Иырсауган Северный</td>
+<td>1</td>
+<td>82</td>
+<td>56</td>
+<td>28,4</td>
+<td>49</td>
+<td>7</td>
+<td>14,2</td>
+<td>4,462</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>56</td>
+<td>58,78</td>
+<td>49</td>
+<td>7</td>
+<td>23,25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>57</td>
+<td>0,17</td>
+<td>49</td>
+<td>7</td>
+<td>21,34</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>56</td>
+<td>29,78</td>
+<td>49</td>
+<td>7</td>
+<td>12,25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>256</td>
+<td>Участок Иырсауган Южный</td>
+<td>1</td>
+<td>82</td>
+<td>57</td>
+<td>13</td>
+<td>49</td>
+<td>7</td>
+<td>13</td>
+<td>3,823</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>57</td>
+<td>41</td>
+<td>49</td>
+<td>7</td>
+<td>8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>57</td>
+<td>40</td>
+<td>49</td>
+<td>7</td>
+<td>6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>57</td>
+<td>12</td>
+<td>49</td>
+<td>7</td>
+<td>11</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>257</td>
+<td>Участок Бокен</td>
+<td>1</td>
+<td>82</td>
+<td>53</td>
+<td>33</td>
+<td>49</td>
+<td>9</td>
+<td>53</td>
+<td>3,882</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>53</td>
+<td>35</td>
+<td>49</td>
+<td>9</td>
+<td>53</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>53</td>
+<td>35</td>
+<td>49</td>
+<td>9</td>
+<td>22</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>53</td>
+<td>33</td>
+<td>49</td>
+<td>9</td>
+<td>22</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>258</td>
+<td>Участок ключ Ильинка (1)</td>
+<td>1</td>
+<td>82</td>
+<td>46</td>
+<td>13,5</td>
+<td>49</td>
+<td>6</td>
+<td>37,01</td>
+<td>1,832</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>46</td>
+<td>28,49</td>
+<td>49</td>
+<td>6</td>
+<td>37,01</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>46</td>
+<td>28,49</td>
+<td>49</td>
+<td>6</td>
+<td>35,04</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>46</td>
+<td>13,5</td>
+<td>49</td>
+<td>6</td>
+<td>35,04</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>259</td>
+<td>Участок ключ Ильинка (2)</td>
+<td>1</td>
+<td>82</td>
+<td>46</td>
+<td>30,34</td>
+<td>49</td>
+<td>6</td>
+<td>32,53</td>
+<td>1,154</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>46</td>
+<td>42,7</td>
+<td>49</td>
+<td>6</td>
+<td>32,53</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>46</td>
+<td>42,7</td>
+<td>49</td>
+<td>6</td>
+<td>31,07</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>46</td>
+<td>30,34</td>
+<td>49</td>
+<td>6</td>
+<td>31,07</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>260</td>
+<td>Участок</td>
+<td>1</td>
+<td>82</td>
+<td>57</td>
+<td>36</td>
+<td>49</td>
+<td>0</td>
+<td>33</td>
+<td>4,61</td>
+<td>Район Самар</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>82</td>
+<td>57</td>
+<td>39</td>
+<td>49</td>
+<td>0</td>
+<td>36</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>82</td>
+<td>57</td>
+<td>55</td>
+<td>49</td>
+<td>0</td>
+<td>25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>82</td>
+<td>57</td>
+<td>52</td>
+<td>49</td>
+<td>0</td>
+<td>25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>261</td>
+<td>Участок Шилі</td>
+<td>1</td>
+<td>81</td>
+<td>55</td>
+<td>28</td>
+<td>49</td>
+<td>37</td>
+<td>38</td>
+<td>3,9</td>
+<td>Уланский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>81</td>
+<td>55</td>
+<td>43</td>
+<td>49</td>
+<td>37</td>
+<td>27</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>81</td>
+<td>55</td>
+<td>46</td>
+<td>49</td>
+<td>37</td>
+<td>29</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>81</td>
+<td>55</td>
+<td>31</td>
+<td>49</td>
+<td>37</td>
+<td>40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>262</td>
+<td>Участок</td>
+<td>1</td>
+<td>85</td>
+<td>11</td>
+<td>5,3</td>
+<td>48</td>
+<td>24</td>
+<td>56,56</td>
+<td>2,77</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>11</td>
+<td>9,73</td>
+<td>48</td>
+<td>24</td>
+<td>56,56</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>11</td>
+<td>8,08</td>
+<td>48</td>
+<td>24</td>
+<td>46,73</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>11</td>
+<td>3,7</td>
+<td>48</td>
+<td>24</td>
+<td>46,52</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>263</td>
+<td>Участок Малый кызыл рез № 2</td>
+<td>1</td>
+<td>85</td>
+<td>0</td>
+<td>6,9</td>
+<td>48</td>
+<td>37</td>
+<td>48,87</td>
+<td>4,955</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>0</td>
+<td>9,08</td>
+<td>48</td>
+<td>37</td>
+<td>53,16</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>0</td>
+<td>25,46</td>
+<td>48</td>
+<td>37</td>
+<td>49,52</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>0</td>
+<td>23,28</td>
+<td>48</td>
+<td>37</td>
+<td>45,22</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>264</td>
+<td>Участок Малый кызыл рез № 1</td>
+<td>1</td>
+<td>85</td>
+<td>0</td>
+<td>3,68</td>
+<td>48</td>
+<td>37</td>
+<td>44,43</td>
+<td>4,897</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>0</td>
+<td>5,89</td>
+<td>48</td>
+<td>37</td>
+<td>48,71</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>0</td>
+<td>22,06</td>
+<td>48</td>
+<td>37</td>
+<td>45,05</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>0</td>
+<td>19,85</td>
+<td>48</td>
+<td>37</td>
+<td>40,76</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>265</td>
+<td>Участок Балакалжир № 9</td>
+<td>1</td>
+<td>85</td>
+<td>11</td>
+<td>6,61</td>
+<td>48</td>
+<td>24</td>
+<td>36,97</td>
+<td>3,996</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>11</td>
+<td>8,61</td>
+<td>48</td>
+<td>24</td>
+<td>39,32</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>11</td>
+<td>27,83</td>
+<td>48</td>
+<td>24</td>
+<td>32,33</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>11</td>
+<td>25,45</td>
+<td>48</td>
+<td>24</td>
+<td>29,71</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>266</td>
+<td>Участок Балакалжир № 8</td>
+<td>1</td>
+<td>85</td>
+<td>8</td>
+<td>51,45</td>
+<td>48</td>
+<td>25</td>
+<td>34,36</td>
+<td>1,498</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>8</td>
+<td>53,98</td>
+<td>48</td>
+<td>25</td>
+<td>38,45</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>8</td>
+<td>58,99</td>
+<td>48</td>
+<td>25</td>
+<td>37,07</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>8</td>
+<td>56,45</td>
+<td>48</td>
+<td>25</td>
+<td>33,08</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>267</td>
+<td>Участок Терасса № 3</td>
+<td>1</td>
+<td>85</td>
+<td>11</td>
+<td>32,76</td>
+<td>48</td>
+<td>24</td>
+<td>26,13</td>
+<td>4,958</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>11</td>
+<td>34,94</td>
+<td>48</td>
+<td>24</td>
+<td>30,43</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>11</td>
+<td>51,24</td>
+<td>48</td>
+<td>24</td>
+<td>26,75</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>11</td>
+<td>49,06</td>
+<td>48</td>
+<td>24</td>
+<td>22,46</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>268</td>
+<td>Участок Кара Бура</td>
+<td>1</td>
+<td>84</td>
+<td>58</td>
+<td>49,7</td>
+<td>48</td>
+<td>37</td>
+<td>13,31</td>
+<td>4,953</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>58</td>
+<td>49,4</td>
+<td>48</td>
+<td>37</td>
+<td>24,76</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>58</td>
+<td>56,23</td>
+<td>48</td>
+<td>37</td>
+<td>24,84</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>58</td>
+<td>56,53</td>
+<td>48</td>
+<td>37</td>
+<td>13,38</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>269</td>
+<td>Участок Казанка</td>
+<td>1</td>
+<td>84</td>
+<td>58</td>
+<td>36,71</td>
+<td>48</td>
+<td>37</td>
+<td>31,17</td>
+<td>4,954</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>58</td>
+<td>36,4</td>
+<td>48</td>
+<td>37</td>
+<td>42,62</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>58</td>
+<td>43,24</td>
+<td>48</td>
+<td>37</td>
+<td>42,7</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>58</td>
+<td>43,54</td>
+<td>48</td>
+<td>37</td>
+<td>31,25</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>270</td>
+<td>Участок Приреченская пашня</td>
+<td>1</td>
+<td>84</td>
+<td>9</td>
+<td>52,11</td>
+<td>48</td>
+<td>25</td>
+<td>21,18</td>
+<td>4,821</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>9</td>
+<td>54,71</td>
+<td>48</td>
+<td>25</td>
+<td>25,37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>10</td>
+<td>10,144</td>
+<td>48</td>
+<td>25</td>
+<td>21,05</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>10</td>
+<td>7,85</td>
+<td>48</td>
+<td>25</td>
+<td>16,86</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>271</td>
+<td>Участок Шанды №1</td>
+<td>1</td>
+<td>85</td>
+<td>18</td>
+<td>40,02</td>
+<td>48</td>
+<td>28</td>
+<td>29,14</td>
+<td>2,751</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>18</td>
+<td>27,36</td>
+<td>48</td>
+<td>28</td>
+<td>33,37</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>18</td>
+<td>29,39</td>
+<td>48</td>
+<td>28</td>
+<td>36,10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>18</td>
+<td>42,08</td>
+<td>48</td>
+<td>28</td>
+<td>31,89</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>272</td>
+<td>Участок</td>
+<td>1</td>
+<td>85</td>
+<td>11</td>
+<td>5,93</td>
+<td>48</td>
+<td>24</td>
+<td>43,53</td>
+<td>3,93</td>
+<td>Район Марқакөл</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>11</td>
+<td>22,17</td>
+<td>48</td>
+<td>24</td>
+<td>35,76</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>11</td>
+<td>24,95</td>
+<td>48</td>
+<td>24</td>
+<td>38,28</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>11</td>
+<td>9,25</td>
+<td>48</td>
+<td>24</td>
+<td>45,83</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>273</td>
+<td>Участок № 4</td>
+<td>1</td>
+<td>85</td>
+<td>6</td>
+<td>16,9600</td>
+<td>48</td>
+<td>38</td>
+<td>55,6042</td>
+<td>5</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>6</td>
+<td>27,6413</td>
+<td>48</td>
+<td>38</td>
+<td>57,1289</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>6</td>
+<td>25,3404</td>
+<td>48</td>
+<td>39</td>
+<td>4,2068</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>6</td>
+<td>14,6587</td>
+<td>48</td>
+<td>39</td>
+<td>2,6821</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>274</td>
+<td>Участок Кызылжар-Бат</td>
+<td>1</td>
+<td>84</td>
+<td>59</td>
+<td>20,8</td>
+<td>48</td>
+<td>51</td>
+<td>34,1</td>
+<td>4,0673</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>59</td>
+<td>41,4</td>
+<td>48</td>
+<td>51</td>
+<td>28,6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>59</td>
+<td>39,7</td>
+<td>48</td>
+<td>51</td>
+<td>25,9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>59</td>
+<td>19,2</td>
+<td>48</td>
+<td>51</td>
+<td>31,4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>275</td>
+<td>Участок № 1</td>
+<td>1</td>
+<td>85</td>
+<td>5</td>
+<td>45,4571</td>
+<td>48</td>
+<td>38</td>
+<td>46,6622</td>
+<td>5</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>5</td>
+<td>53,2433</td>
+<td>48</td>
+<td>38</td>
+<td>42,0460</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>6</td>
+<td>0,8291</td>
+<td>48</td>
+<td>38</td>
+<td>47,6986</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>5</td>
+<td>53,2862</td>
+<td>48</td>
+<td>38</td>
+<td>52,3410</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>276</td>
+<td>Участок № 3</td>
+<td>1</td>
+<td>85</td>
+<td>6</td>
+<td>14,6587</td>
+<td>48</td>
+<td>39</td>
+<td>2,6821</td>
+<td>5</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>85</td>
+<td>6</td>
+<td>2,0503</td>
+<td>48</td>
+<td>38</td>
+<td>57,1522</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>85</td>
+<td>6</td>
+<td>10,0487</td>
+<td>48</td>
+<td>38</td>
+<td>52,5489</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>85</td>
+<td>6</td>
+<td>16,9600</td>
+<td>48</td>
+<td>38</td>
+<td>55,6042</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>277</td>
+<td>Участок Қопа</td>
+<td>1</td>
+<td>84</td>
+<td>26</td>
+<td>54</td>
+<td>48</td>
+<td>55</td>
+<td>24</td>
+<td>4,03</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>27</td>
+<td>0</td>
+<td>48</td>
+<td>55</td>
+<td>23</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>26</td>
+<td>56</td>
+<td>48</td>
+<td>55</td>
+<td>13</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>26</td>
+<td>50</td>
+<td>48</td>
+<td>55</td>
+<td>14</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>278</td>
+<td>Участок Жаманкиынсу-С1</td>
+<td>1</td>
+<td>84</td>
+<td>22</td>
+<td>25,8</td>
+<td>48</td>
+<td>51</td>
+<td>52,8</td>
+<td>3,6329</td>
+<td>Курчумский район</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>22</td>
+<td>20,8</td>
+<td>48</td>
+<td>52</td>
+<td>0,3</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>22</td>
+<td>14,4</td>
+<td>48</td>
+<td>51</td>
+<td>58,6</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>22</td>
+<td>19,2</td>
+<td>48</td>
+<td>51</td>
+<td>51</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>279</td>
+<td>Участок Березовка-1</td>
+<td>1</td>
+<td>84</td>
+<td>53</td>
+<td>9,0884</td>
+<td>49</td>
+<td>55</td>
+<td>7,3318</td>
+<td>4,865185</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>53</td>
+<td>11,6534</td>
+<td>49</td>
+<td>55</td>
+<td>6,3223</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>53</td>
+<td>37,3044</td>
+<td>49</td>
+<td>55</td>
+<td>25,1969</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>53</td>
+<td>34,6284</td>
+<td>49</td>
+<td>55</td>
+<td>26,461</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>280</td>
+<td>Участок Березовка-2</td>
+<td>1</td>
+<td>84</td>
+<td>52</td>
+<td>25,4908</td>
+<td>49</td>
+<td>54</td>
+<td>58,2783</td>
+<td>4,929376</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>52</td>
+<td>27,2288</td>
+<td>49</td>
+<td>54</td>
+<td>56,5001</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>52</td>
+<td>58,0313</td>
+<td>49</td>
+<td>55</td>
+<td>7,6044</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>52</td>
+<td>56,4477</td>
+<td>49</td>
+<td>55</td>
+<td>9,7866</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>281</td>
+<td>Участок Березовка-3</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>48,9292</td>
+<td>49</td>
+<td>55</td>
+<td>0,9208</td>
+<td>4,51773</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>45,1826</td>
+<td>49</td>
+<td>55</td>
+<td>2,3757</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>59,7027</td>
+<td>49</td>
+<td>55</td>
+<td>15,6176</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>50</td>
+<td>3,751</td>
+<td>49</td>
+<td>55</td>
+<td>14,1075</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>282</td>
+<td>Участок Березовка-4</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>33,6172</td>
+<td>49</td>
+<td>54</td>
+<td>47,9314</td>
+<td>4,450915</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>27,3987</td>
+<td>49</td>
+<td>54</td>
+<td>47,919</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>27,3172</td>
+<td>49</td>
+<td>54</td>
+<td>59,7531</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>33,2738</td>
+<td>49</td>
+<td>54</td>
+<td>59,8032</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>283</td>
+<td>Участок Березовка-5</td>
+<td>1</td>
+<td>84</td>
+<td>48</td>
+<td>51,8069</td>
+<td>49</td>
+<td>54</td>
+<td>35,0848</td>
+<td>4,764733</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>48</td>
+<td>50,8451</td>
+<td>49</td>
+<td>54</td>
+<td>32,4135</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>19,4882</td>
+<td>49</td>
+<td>54</td>
+<td>30,3345</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>49</td>
+<td>19,971</td>
+<td>49</td>
+<td>54</td>
+<td>32,996</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>284</td>
+<td>Участок Березовка-6</td>
+<td>1</td>
+<td>84</td>
+<td>47</td>
+<td>40,4963</td>
+<td>49</td>
+<td>54</td>
+<td>49,6158</td>
+<td>2,392147</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>47</td>
+<td>44,3021</td>
+<td>49</td>
+<td>54</td>
+<td>46,7873</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>47</td>
+<td>52,0076</td>
+<td>49</td>
+<td>54</td>
+<td>51,4943</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>47</td>
+<td>48,0486</td>
+<td>49</td>
+<td>54</td>
+<td>54,1368</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>285</td>
+<td>Участок Березовка-8</td>
+<td>1</td>
+<td>84</td>
+<td>46</td>
+<td>21,5703</td>
+<td>49</td>
+<td>54</td>
+<td>38,3382</td>
+<td>4,820144</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>46</td>
+<td>20,5661</td>
+<td>49</td>
+<td>54</td>
+<td>36,4105</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>46</td>
+<td>58,5922</td>
+<td>49</td>
+<td>54</td>
+<td>31,7626</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>46</td>
+<td>59,174</td>
+<td>49</td>
+<td>54</td>
+<td>33,7744</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>286</td>
+<td>Участок Березовка-9</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>40,0126</td>
+<td>49</td>
+<td>54</td>
+<td>29,1737</td>
+<td>4,85369</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>45</td>
+<td>40,7237</td>
+<td>49</td>
+<td>54</td>
+<td>25,0391</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>45</td>
+<td>59,4326</td>
+<td>49</td>
+<td>54</td>
+<td>26,5701</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>58,7822</td>
+<td>49</td>
+<td>54</td>
+<td>30,7208</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>287</td>
+<td>Участок Березовка-11</td>
+<td>1</td>
+<td>84</td>
+<td>44</td>
+<td>34,5661</td>
+<td>49</td>
+<td>54</td>
+<td>19,5986</td>
+<td>4,1121</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>44</td>
+<td>35,6573</td>
+<td>49</td>
+<td>54</td>
+<td>17,7764</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>45</td>
+<td>7,3981</td>
+<td>49</td>
+<td>54</td>
+<td>25,1658</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>6,3833</td>
+<td>49</td>
+<td>54</td>
+<td>27,0468</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>288</td>
+<td>Участок Березовка-12</td>
+<td>1</td>
+<td>84</td>
+<td>43</td>
+<td>50,1488</td>
+<td>49</td>
+<td>54</td>
+<td>8,0869</td>
+<td>4,83422</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>43</td>
+<td>51,602</td>
+<td>49</td>
+<td>54</td>
+<td>5,9848</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>44</td>
+<td>25,4944</td>
+<td>49</td>
+<td>54</td>
+<td>15,665</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>44</td>
+<td>24,3115</td>
+<td>49</td>
+<td>54</td>
+<td>17,4313</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>289</td>
+<td>Участок Березовка-14</td>
+<td>1</td>
+<td>84</td>
+<td>43</td>
+<td>22,5999</td>
+<td>49</td>
+<td>53</td>
+<td>12,3265</td>
+<td>4,889044</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>43</td>
+<td>28,2696</td>
+<td>49</td>
+<td>53</td>
+<td>13,5257</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>43</td>
+<td>21,4428</td>
+<td>49</td>
+<td>53</td>
+<td>26,051</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>43</td>
+<td>15,7635</td>
+<td>49</td>
+<td>53</td>
+<td>24,9367</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>290</td>
+<td>Участок Березовка-15</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>49,1754</td>
+<td>49</td>
+<td>50</td>
+<td>57,9025</td>
+<td>4,750914</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>45</td>
+<td>54,2086</td>
+<td>49</td>
+<td>50</td>
+<td>59,1112</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>46</td>
+<td>4,5501</td>
+<td>49</td>
+<td>50</td>
+<td>46,2352</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>59,426</td>
+<td>49</td>
+<td>50</td>
+<td>45,1462</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>291</td>
+<td>Участок Быструха-1</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>22,7224</td>
+<td>49</td>
+<td>50</td>
+<td>5,3814</td>
+<td>4,327298</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>45</td>
+<td>44,7393</td>
+<td>49</td>
+<td>50</td>
+<td>25,3075</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>45</td>
+<td>46,936</td>
+<td>49</td>
+<td>50</td>
+<td>24,185</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>24,9808</td>
+<td>49</td>
+<td>50</td>
+<td>4,1781</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>292</td>
+<td>Участок Быструха-2</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>21,8134</td>
+<td>49</td>
+<td>49</td>
+<td>52,7962</td>
+<td>4,687019</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>45</td>
+<td>17,1784</td>
+<td>49</td>
+<td>49</td>
+<td>51,8715</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>45</td>
+<td>28,6111</td>
+<td>49</td>
+<td>49</td>
+<td>37,2464</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>32,6321</td>
+<td>49</td>
+<td>49</td>
+<td>38,8386</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>293</td>
+<td>Участок Быструха-3</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>30,4392</td>
+<td>49</td>
+<td>49</td>
+<td>36,4167</td>
+<td>4,235311</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>45</td>
+<td>44,8459</td>
+<td>49</td>
+<td>49</td>
+<td>21,566</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>45</td>
+<td>48,3166</td>
+<td>49</td>
+<td>49</td>
+<td>22,777</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>33,896</td>
+<td>49</td>
+<td>49</td>
+<td>37,5878</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>294</td>
+<td>Участок Быструха-5</td>
+<td>1</td>
+<td>84</td>
+<td>46</td>
+<td>31,4713</td>
+<td>49</td>
+<td>48</td>
+<td>53,4655</td>
+<td>4,804254</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>46</td>
+<td>26,4622</td>
+<td>49</td>
+<td>48</td>
+<td>51,5884</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>46</td>
+<td>42,1475</td>
+<td>49</td>
+<td>48</td>
+<td>41,9803</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>46</td>
+<td>47,1719</td>
+<td>49</td>
+<td>48</td>
+<td>43,8701</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>295</td>
+<td>Участок Быструха-6</td>
+<td>1</td>
+<td>84</td>
+<td>47</td>
+<td>28,0156</td>
+<td>49</td>
+<td>46</td>
+<td>55,0806</td>
+<td>4,794452</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>47</td>
+<td>31,0476</td>
+<td>49</td>
+<td>46</td>
+<td>52,2001</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>47</td>
+<td>50,5703</td>
+<td>49</td>
+<td>46</td>
+<td>59,8089</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>47</td>
+<td>47,49</td>
+<td>49</td>
+<td>47</td>
+<td>2,521</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>296</td>
+<td>Участок Быструха-7</td>
+<td>1</td>
+<td>84</td>
+<td>47</td>
+<td>24,7141</td>
+<td>49</td>
+<td>46</td>
+<td>19,1476</td>
+<td>4,9</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>47</td>
+<td>28,3206</td>
+<td>49</td>
+<td>46</td>
+<td>19,1293</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>47</td>
+<td>32,4702</td>
+<td>49</td>
+<td>46</td>
+<td>40,9577</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>47</td>
+<td>28,8205</td>
+<td>49</td>
+<td>46</td>
+<td>40,9813</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>297</td>
+<td>Участок Мягкий ключ-1</td>
+<td>1</td>
+<td>84</td>
+<td>33</td>
+<td>33,533</td>
+<td>49</td>
+<td>55</td>
+<td>45,1026</td>
+<td>4,699413</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>33</td>
+<td>34,4652</td>
+<td>49</td>
+<td>55</td>
+<td>43,718</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>34</td>
+<td>22,8942</td>
+<td>49</td>
+<td>56</td>
+<td>1,2507</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>34</td>
+<td>21,7741</td>
+<td>49</td>
+<td>56</td>
+<td>2,2824</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>298</td>
+<td>Участок Мягкий ключ-2</td>
+<td>1</td>
+<td>84</td>
+<td>34</td>
+<td>28,4415</td>
+<td>49</td>
+<td>56</td>
+<td>9,0724</td>
+<td>4,70348</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>34</td>
+<td>49,2361</td>
+<td>49</td>
+<td>56</td>
+<td>18,9429</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>34</td>
+<td>52,2025</td>
+<td>49</td>
+<td>56</td>
+<td>16,6495</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>34</td>
+<td>31,4541</td>
+<td>49</td>
+<td>56</td>
+<td>6,8518</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>299</td>
+<td>Участок Мягкий ключ-3</td>
+<td>1</td>
+<td>84</td>
+<td>34</td>
+<td>51,6007</td>
+<td>49</td>
+<td>56</td>
+<td>22,183</td>
+<td>4,323322</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>35</td>
+<td>1,1021</td>
+<td>49</td>
+<td>56</td>
+<td>33,3439</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>35</td>
+<td>6,1545</td>
+<td>49</td>
+<td>56</td>
+<td>32,2511</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>34</td>
+<td>56,4829</td>
+<td>49</td>
+<td>56</td>
+<td>20,5123</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>300</td>
+<td>Участок Мягкий ключ-4</td>
+<td>1</td>
+<td>84</td>
+<td>35</td>
+<td>13,5479</td>
+<td>49</td>
+<td>56</td>
+<td>52,0952</td>
+<td>4,706729</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>35</td>
+<td>20,3078</td>
+<td>49</td>
+<td>56</td>
+<td>49,8277</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>35</td>
+<td>12,9879</td>
+<td>49</td>
+<td>56</td>
+<td>40,9727</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>35</td>
+<td>6,2402</td>
+<td>49</td>
+<td>56</td>
+<td>43,0944</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>301</td>
+<td>Участок Лаптиха-2</td>
+<td>1</td>
+<td>84</td>
+<td>41</td>
+<td>18,4767</td>
+<td>49</td>
+<td>50</td>
+<td>48,6515</td>
+<td>2,366491</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>41</td>
+<td>19,7826</td>
+<td>49</td>
+<td>50</td>
+<td>50,7649</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>41</td>
+<td>35,4254</td>
+<td>49</td>
+<td>50</td>
+<td>47,2062</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>41</td>
+<td>34,3939</td>
+<td>49</td>
+<td>50</td>
+<td>44,9981</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>302</td>
+<td>Участок Лаптиха-3</td>
+<td>1</td>
+<td>84</td>
+<td>41</td>
+<td>49,1247</td>
+<td>49</td>
+<td>50</td>
+<td>42,1447</td>
+<td>4,885392</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>41</td>
+<td>51,8756</td>
+<td>49</td>
+<td>50</td>
+<td>43,0596</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>42</td>
+<td>19,8059</td>
+<td>49</td>
+<td>50</td>
+<td>24,133</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>42</td>
+<td>17,2911</td>
+<td>49</td>
+<td>50</td>
+<td>22,984</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>303</td>
+<td>Участок Лаптиха-5</td>
+<td>1</td>
+<td>84</td>
+<td>43</td>
+<td>37,2337</td>
+<td>49</td>
+<td>49</td>
+<td>26,9508</td>
+<td>2,59189</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>43</td>
+<td>40,6151</td>
+<td>49</td>
+<td>49</td>
+<td>29,3816</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>43</td>
+<td>50,6477</td>
+<td>49</td>
+<td>49</td>
+<td>24,06</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>43</td>
+<td>46,8124</td>
+<td>49</td>
+<td>49</td>
+<td>21,7927</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>304</td>
+<td>Участок Лаптиха-6</td>
+<td>1</td>
+<td>84</td>
+<td>44</td>
+<td>41,5906</td>
+<td>49</td>
+<td>48</td>
+<td>58,262</td>
+<td>4,525878</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>44</td>
+<td>53,8537</td>
+<td>49</td>
+<td>48</td>
+<td>58,9723</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>44</td>
+<td>54,7412</td>
+<td>49</td>
+<td>48</td>
+<td>53,211</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>44</td>
+<td>41,9519</td>
+<td>49</td>
+<td>48</td>
+<td>52,4073</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>305</td>
+<td>Участок Лаптиха-7</td>
+<td>1</td>
+<td>84</td>
+<td>49</td>
+<td>8,8034</td>
+<td>49</td>
+<td>59</td>
+<td>55,6912</td>
+<td>4,976488</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>49</td>
+<td>14,0163</td>
+<td>49</td>
+<td>59</td>
+<td>54,9734</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>49</td>
+<td>4,1286</td>
+<td>49</td>
+<td>59</td>
+<td>40,7466</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>48</td>
+<td>59,1075</td>
+<td>49</td>
+<td>59</td>
+<td>41,8887</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>306</td>
+<td>Участок Лаптиха-8</td>
+<td>1</td>
+<td>84</td>
+<td>48</td>
+<td>46,1862</td>
+<td>49</td>
+<td>59</td>
+<td>32,5262</td>
+<td>4,271696</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>48</td>
+<td>52,1536</td>
+<td>49</td>
+<td>59</td>
+<td>32,2158</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>48</td>
+<td>48,8126</td>
+<td>49</td>
+<td>59</td>
+<td>20,4704</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>48</td>
+<td>43,1349</td>
+<td>49</td>
+<td>59</td>
+<td>20,7932</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>307</td>
+<td>Участок Лаптиха-9</td>
+<td>1</td>
+<td>84</td>
+<td>48</td>
+<td>10,7102</td>
+<td>49</td>
+<td>58</td>
+<td>52,9786</td>
+<td>3,509727</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>48</td>
+<td>12,6375</td>
+<td>49</td>
+<td>58</td>
+<td>53,9916</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>48</td>
+<td>41,019</td>
+<td>49</td>
+<td>58</td>
+<td>39,7197</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>48</td>
+<td>39,3884</td>
+<td>49</td>
+<td>58</td>
+<td>38,5293</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>308</td>
+<td>Участок Лаптиха-10</td>
+<td>1</td>
+<td>84</td>
+<td>50</td>
+<td>32,6005</td>
+<td>49</td>
+<td>58</td>
+<td>21,5088</td>
+<td>3,848824</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>50</td>
+<td>35,7716</td>
+<td>49</td>
+<td>58</td>
+<td>16,8563</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>50</td>
+<td>46,9918</td>
+<td>49</td>
+<td>58</td>
+<td>20,1664</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>50</td>
+<td>43,8208</td>
+<td>49</td>
+<td>58</td>
+<td>24,7878</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>309</td>
+<td>Участок Лаптиха-12</td>
+<td>1</td>
+<td>84</td>
+<td>43</td>
+<td>26,2935</td>
+<td>50</td>
+<td>2</td>
+<td>50,362</td>
+<td>3,939764</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>43</td>
+<td>27,7225</td>
+<td>50</td>
+<td>2</td>
+<td>52,0485</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>43</td>
+<td>57,4961</td>
+<td>50</td>
+<td>2</td>
+<td>41,9017</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>43</td>
+<td>56,0338</td>
+<td>50</td>
+<td>2</td>
+<td>40,2671</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>310</td>
+<td>Участок Лаптиха-14</td>
+<td>1</td>
+<td>84</td>
+<td>45</td>
+<td>59,5141</td>
+<td>50</td>
+<td>2</td>
+<td>26,5004</td>
+<td>2,839346</td>
+<td>Район Алтай</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>2</td>
+<td>84</td>
+<td>46</td>
+<td>3,6125</td>
+<td>50</td>
+<td>2</td>
+<td>26,5383</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>3</td>
+<td>84</td>
+<td>46</td>
+<td>3,8014</td>
+<td>50</td>
+<td>2</td>
+<td>15,4366</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>4</td>
+<td>84</td>
+<td>45</td>
+<td>59,5527</td>
+<td>50</td>
+<td>2</td>
+<td>15,4862</td>
+<td></td>
+<td></td>
 </tr>
 </table>
