@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/210476/rus/11.07.2025
+source: https://zan.gov.kz/client/#!/doc/210476/rus/15.10.2025
 ---
 
 > *Приложение 1 к постановлению акимата области Жетісу от «____»_________2025 года № _____*
