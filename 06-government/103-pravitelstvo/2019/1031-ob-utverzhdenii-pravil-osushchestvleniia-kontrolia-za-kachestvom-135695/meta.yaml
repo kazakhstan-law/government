@@ -11,8 +11,15 @@ approved_on: 2019-10-31
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2019-10-31
-  rus: 2019-10-31
+  kaz: 2025-10-20
+  rus: 2025-10-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/135695/kaz/31.10.2019
-  rus: https://zan.gov.kz/client/#!/doc/135695/rus/31.10.2019
+  kaz: https://zan.gov.kz/client/#!/doc/135695/kaz/20.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/135695/rus/20.10.2025
+caused_by:
+  code: '215824'
+  requisite: Постановление Правительства Республики Казахстан от 20 октября 2025 года № 881
+  title:
+    rus: О внесении изменений и дополнений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтырулар енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/215824/rus
