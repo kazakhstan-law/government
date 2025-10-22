@@ -1,0 +1,25 @@
+key: G25NS00128A
+akn: /akn/kz/act/2025-10-22/G25NS00128A
+act_code: '216217'
+requisite: Постановление акимата Узункольского района Костанайской области от 22 октября 2025 года № 128
+title:
+  rus: Об утверждении тарифов на оказание специальных социальных услуг на 2025 год
+  kaz: 2025 жылға арнаулы әлеуметтік қызметтер көрсетуге арналған тарифтерді бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-10-22
+in_force_from: 2025-10-31
+approved_by:
+- '162017000001'
+versions:
+- date: 2025-10-22
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-10-22
+  rus: 2025-10-22
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/216217/kaz/22.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/216217/rus/22.10.2025
