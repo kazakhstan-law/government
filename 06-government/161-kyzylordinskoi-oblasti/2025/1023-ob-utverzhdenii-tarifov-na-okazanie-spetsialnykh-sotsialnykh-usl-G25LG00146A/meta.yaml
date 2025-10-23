@@ -1,0 +1,25 @@
+key: G25LG00146A
+akn: /akn/kz/act/2025-10-23/G25LG00146A
+act_code: '215474'
+requisite: Постановление акимата Жанакорганского района Кызылординской области от 23 октября 2025 года № 146
+title:
+  rus: Об утверждении тарифов на оказание специальных социальных услуг
+  kaz: Арнаулы әлеуметтік қызметтер көрсетуге арналған тарифтерді бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-10-23
+in_force_from: 2025-11-08
+approved_by:
+- '161009000001'
+versions:
+- date: 2025-10-23
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-10-23
+  rus: 2025-10-23
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/215474/kaz/23.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/215474/rus/23.10.2025
