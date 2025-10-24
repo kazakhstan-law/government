@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/203743/kaz/05.12.2024
+source: https://zan.gov.kz/client/#!/doc/203743/kaz/24.10.2025
 ---
 
 > *Кентау қаласы әкімдігінің*  

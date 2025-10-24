@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/203743/kaz/05.12.2024
+source: https://zan.gov.kz/client/#!/doc/203743/kaz/24.10.2025
 ---
 
 # Мемлекеттік мекемелердің ережелерін бекіту туралы
