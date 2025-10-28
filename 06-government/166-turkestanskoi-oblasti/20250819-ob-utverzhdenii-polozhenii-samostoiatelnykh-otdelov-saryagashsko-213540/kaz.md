@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/213540/kaz/19.08.2025
+source: https://zan.gov.kz/client/#!/doc/213540/kaz/28.10.2025
 ---
 
 # Сарыағаш ауданының дербес бөлімдерінің ережелерін бекіту туралы
