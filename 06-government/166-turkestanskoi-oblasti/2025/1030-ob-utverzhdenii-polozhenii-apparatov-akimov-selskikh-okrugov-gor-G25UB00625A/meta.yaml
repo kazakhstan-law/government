@@ -1,0 +1,26 @@
+key: G25UB00625A
+akn: /akn/kz/act/2025-10-30/G25UB00625A
+act_code: '216675'
+requisite: Постановление акимата города Арыс Туркестанской области от 30 октября 2025 года № 625
+title:
+  rus: Об утверждении Положений аппаратов акимов сельских округов города Арыс
+  kaz: Арыс қаласының ауыл округтері әкімі аппараттарының Ережелерін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОЛ
+- ПОСТ
+approved_on: 2025-10-30
+in_force_from: 2025-11-14
+approved_by:
+- '166016000001'
+versions:
+- date: 2025-10-30
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-10-30
+  rus: 2025-10-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/216675/kaz/30.10.2025
+  rus: https://zan.gov.kz/client/#!/doc/216675/rus/30.10.2025
