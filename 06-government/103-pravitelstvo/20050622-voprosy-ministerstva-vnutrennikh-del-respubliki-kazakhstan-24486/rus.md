@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/24486/rus/30.10.2025
+source: https://zan.gov.kz/client/#!/doc/24486/rus/11.11.2025
 ---
 
 # Вопросы Министерства внутренних дел Республики Казахстан
