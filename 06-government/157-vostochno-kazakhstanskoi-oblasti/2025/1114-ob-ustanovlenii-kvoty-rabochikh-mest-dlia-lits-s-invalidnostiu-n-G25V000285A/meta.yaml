@@ -1,0 +1,25 @@
+key: G25V000285A
+akn: /akn/kz/act/2025-11-14/G25V000285A
+act_code: '217282'
+requisite: Постановление Восточно-Казахстанского областного акимата от 14 ноября 2025 года № 285
+title:
+  rus: Об установлении квоты рабочих мест для лиц с инвалидностью на 2026 год
+  kaz: Мүгедектігі бар адамдар үшін 2026 жылға арналған жұмыс орындарына квота белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-11-14
+in_force_from: 2026-01-01
+approved_by:
+- '157000000001'
+versions:
+- date: 2025-11-14
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-11-14
+  rus: 2025-11-14
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/217282/kaz/14.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/217282/rus/14.11.2025
