@@ -1,0 +1,26 @@
+key: P2500000979
+akn: /akn/kz/act/2025-11-19/P2500000979
+act_code: '217106'
+requisite: Постановление Правительства Республики Казахстан от 19 ноября 2025 года № 979
+title:
+  rus: Об утверждении Правил исполнения обязательства в натуральной форме
+  kaz: Міндеттемені заттай нысанда орындау қағидаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРАВ
+approved_on: 2025-11-19
+in_force_from: 2026-01-01
+approved_by:
+- '103000000000'
+versions:
+- date: 2025-11-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-11-19
+  rus: 2025-11-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/217106/kaz/19.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/217106/rus/19.11.2025
