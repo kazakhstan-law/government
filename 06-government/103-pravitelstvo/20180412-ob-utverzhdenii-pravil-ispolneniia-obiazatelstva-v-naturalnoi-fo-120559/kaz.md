@@ -14,6 +14,11 @@ approval_date: 2018-04-12
 version_date: 2018-04-12
 registry_number: '120559'
 source: https://zan.gov.kz/client/#!/doc/120559/kaz/12.04.2018
+repealed_on: 2026-01-01
+repealed_by:
+  code: '217106'
+  title: Міндеттемені заттай нысанда орындау қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/217106/kaz
 ---
 
 # Міндеттемені заттай нысанда орындау қағидаларын бекіту туралы
