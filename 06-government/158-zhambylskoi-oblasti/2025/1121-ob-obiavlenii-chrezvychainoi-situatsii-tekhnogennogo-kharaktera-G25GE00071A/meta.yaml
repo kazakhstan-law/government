@@ -1,0 +1,25 @@
+key: G25GE00071A
+akn: /akn/kz/act/2025-11-21/G25GE00071A
+act_code: '217924'
+requisite: Постановление акимата Кордайского района Жамбылской области от 21 ноября 2025 года № 71
+title:
+  rus: Об объявлении чрезвычайной ситуации техногенного характера объектового масштаба
+  kaz: Объектілік ауқымдағы техногендік сипаттағы төтенше жағдайды жариялау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-11-21
+in_force_from: 2025-12-05
+approved_by:
+- '158006000001'
+versions:
+- date: 2025-11-21
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-11-21
+  rus: 2025-11-21
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/217924/kaz/21.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/217924/rus/21.11.2025
