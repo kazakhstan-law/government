@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/203743/rus/24.10.2025
+source: https://zan.gov.kz/client/#!/doc/203743/rus/21.11.2025
 ---
 
 # Об утверждении положении о государственных учреждении
