@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/210972/kaz/28.05.2025
+source: https://zan.gov.kz/client/#!/doc/210972/kaz/25.11.2025
 ---
 
 > *Алматы облысы әкімдігінің 2025 жылғы 28 мамырдағы № 141 қаулысына 2 қосымша*
