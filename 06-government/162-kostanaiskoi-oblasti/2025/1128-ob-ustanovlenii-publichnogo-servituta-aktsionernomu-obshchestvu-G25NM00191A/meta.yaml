@@ -1,0 +1,25 @@
+key: G25NM00191A
+akn: /akn/kz/act/2025-11-28/G25NM00191A
+act_code: '217897'
+requisite: Постановление акимата Карасуского района Костанайской области от 28 ноября 2025 года № 191
+title:
+  rus: Об установлении публичного сервитута акционерному обществу «Алюминий Казахстана»
+  kaz: «Алюминий Казахстана» акционерлік қоғамына жария сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-11-28
+in_force_from: 2025-12-04
+approved_by:
+- '162011000001'
+versions:
+- date: 2025-11-28
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-11-28
+  rus: 2025-11-28
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/217897/kaz/28.11.2025
+  rus: https://zan.gov.kz/client/#!/doc/217897/rus/28.11.2025
