@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/200210/rus/09.07.2025
+source: https://zan.gov.kz/client/#!/doc/200210/rus/04.12.2025
 ---
 
 > *Приложение 8 к постановлению*  
