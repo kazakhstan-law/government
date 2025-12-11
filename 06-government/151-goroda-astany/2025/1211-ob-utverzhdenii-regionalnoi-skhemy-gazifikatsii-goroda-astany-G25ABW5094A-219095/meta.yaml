@@ -1,0 +1,25 @@
+key: G25ABW5094A-219095
+akn: /akn/kz/act/2025-12-11/G25ABW5094A-219095
+act_code: '219095'
+requisite: Постановление акимата города Астаны от 11 декабря 2025 года № 509-4898
+title:
+  rus: Об утверждении Региональной схемы газификации города Астаны
+  kaz: Астана қаласын газдандырудың өңірлік сызбасын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- СХЕМ
+approved_on: 2025-12-11
+approved_by:
+- '151000000001'
+versions:
+- date: 2025-12-11
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-11
+  rus: 2025-12-11
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/219095/kaz/11.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/219095/rus/11.12.2025
