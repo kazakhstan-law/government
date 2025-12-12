@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/124987/kaz/01.04.2025
+source: https://zan.gov.kz/client/#!/doc/124987/kaz/12.12.2025
 ---
 
 > *Сақтандыру (қайта сақтандыру)*  
