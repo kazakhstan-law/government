@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/210476/kaz/15.10.2025
+source: https://zan.gov.kz/client/#!/doc/210476/kaz/19.12.2025
 ---
 
 > *Жетісу облысы әкімдігінің 2025 жылғы «___» __________ № ___ қаулысына 1-қосымша*
