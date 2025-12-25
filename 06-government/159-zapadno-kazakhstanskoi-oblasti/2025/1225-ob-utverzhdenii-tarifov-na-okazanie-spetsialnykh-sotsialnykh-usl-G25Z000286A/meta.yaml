@@ -1,0 +1,25 @@
+key: G25Z000286A
+akn: /akn/kz/act/2025-12-25/G25Z000286A
+act_code: '221170'
+requisite: Постановление акимата Западно-Казахстанской области от 25 декабря 2025 года № 286
+title:
+  rus: Об утверждении тарифов на оказание специальных социальных услуг на 2026 год
+  kaz: Арнаулы әлеуметтік қызметтер көрсетуге 2026 жылға арналған тарифтерді бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-12-25
+in_force_from: 2026-01-01
+approved_by:
+- '159000000001'
+versions:
+- date: 2025-12-25
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-25
+  rus: 2025-12-25
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/221170/kaz/25.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/221170/rus/25.12.2025
