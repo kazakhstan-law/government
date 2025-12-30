@@ -1,0 +1,25 @@
+key: G25NG00235A
+akn: /akn/kz/act/2025-12-30/G25NG00235A
+act_code: '220462'
+requisite: Постановление акимата Аулиекольского района Костанайской области от 30 декабря 2025 года № 235
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-12-30
+in_force_from: 2026-01-19
+approved_by:
+- '162005000001'
+versions:
+- date: 2025-12-30
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-30
+  rus: 2025-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/220462/kaz/30.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/220462/rus/30.12.2025

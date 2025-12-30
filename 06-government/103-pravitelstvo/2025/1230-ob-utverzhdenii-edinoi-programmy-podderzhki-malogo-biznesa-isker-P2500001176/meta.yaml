@@ -1,0 +1,25 @@
+key: P2500001176
+akn: /akn/kz/act/2025-12-30/P2500001176
+act_code: '221198'
+requisite: Постановление Правительства Республики Казахстан от 30 декабря 2025 года № 1176
+title:
+  rus: Об утверждении Единой программы поддержки малого бизнеса «Іскер аймақ»
+  kaz: «Іскер аймақ» шағын бизнесті қолдаудың бірыңғай бағдарламасын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-12-30
+in_force_from: 2026-01-25
+approved_by:
+- '103000000000'
+versions:
+- date: 2025-12-30
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-30
+  rus: 2025-12-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/221198/kaz/30.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/221198/rus/30.12.2025
