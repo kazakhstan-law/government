@@ -1,0 +1,25 @@
+key: G25N000386A
+akn: /akn/kz/act/2025-12-31/G25N000386A
+act_code: '220148'
+requisite: Постановление акимата Костанайской области от 31 декабря 2025 года № 386
+title:
+  rus: Об утверждении тарифов на оказание специальных социальных услуг на 2026 год
+  kaz: 2026 жылға арналған арнаулы әлеуметтік қызметтер көрсетуге тарифтерді бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2025-12-31
+in_force_from: 2026-01-01
+approved_by:
+- '162000000001'
+versions:
+- date: 2025-12-31
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2025-12-31
+  rus: 2025-12-31
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/220148/kaz/31.12.2025
+  rus: https://zan.gov.kz/client/#!/doc/220148/rus/31.12.2025
