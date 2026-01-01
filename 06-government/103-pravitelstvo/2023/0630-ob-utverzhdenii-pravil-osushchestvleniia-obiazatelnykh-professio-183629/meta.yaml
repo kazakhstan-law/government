@@ -11,15 +11,15 @@ approved_on: 2023-06-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2024-11-11
-  rus: 2024-11-11
+  kaz: 2026-01-01
+  rus: 2026-01-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/183629/kaz/11.11.2024
-  rus: https://zan.gov.kz/client/#!/doc/183629/rus/11.11.2024
+  kaz: https://zan.gov.kz/client/#!/doc/183629/kaz/01.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/183629/rus/01.01.2026
 caused_by:
-  code: '200700'
-  requisite: Постановление Правительства Республики Казахстан от 16 сентября 2024 года № 749
+  code: '216644'
+  requisite: Постановление Правительства Республики Казахстан от 7 ноября 2025 года № 939
   title:
     rus: О внесении изменений и дополнения в некоторые решения Правительства Республики Казахстан
     kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер мен толықтыру енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/200700/rus
+  link: https://zan.gov.kz/client/#!/doc/216644/rus
