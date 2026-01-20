@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/211571/kaz/20.06.2025
+source: https://zan.gov.kz/client/#!/doc/211571/kaz/20.01.2026
 ---
 
 > *Шардара ауданы әкімі*  
