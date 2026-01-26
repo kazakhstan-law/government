@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/173620/kaz/27.10.2022
   rus: https://zan.gov.kz/client/#!/doc/173620/rus/27.10.2022
+repealed_on: 2026-02-14
+repealed_by:
+  code: '221628'
+  key: G26UB00039A
+  requisite: Постановление акимата города Арыс Туркестанской области от 26 января 2026 года № 39
+  title:
+    rus: Об утверждении Правил предоставления коммунальных услуг
+    kaz: Коммуналдық көрсетілетін қызметтерді ұсыну қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/221628/rus
