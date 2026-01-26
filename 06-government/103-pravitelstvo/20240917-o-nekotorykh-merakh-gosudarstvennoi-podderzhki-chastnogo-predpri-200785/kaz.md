@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/200785/kaz/13.01.2026
+source: https://zan.gov.kz/client/#!/doc/200785/kaz/26.01.2026
 ---
 
 # Жеке кәсіпкерлікті мемлекеттік қолдаудың кейбір шаралары туралы
