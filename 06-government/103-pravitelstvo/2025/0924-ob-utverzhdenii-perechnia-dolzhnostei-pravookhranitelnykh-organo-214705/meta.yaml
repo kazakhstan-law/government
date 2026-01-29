@@ -11,8 +11,15 @@ approved_on: 2025-09-24
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2025-09-24
-  rus: 2025-09-24
+  kaz: 2026-01-29
+  rus: 2026-01-29
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/214705/kaz/24.09.2025
-  rus: https://zan.gov.kz/client/#!/doc/214705/rus/24.09.2025
+  kaz: https://zan.gov.kz/client/#!/doc/214705/kaz/29.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/214705/rus/29.01.2026
+caused_by:
+  code: '221696'
+  requisite: Постановление Правительства Республики Казахстан от 29 января 2026 года № 48
+  title:
+    rus: О некоторых вопросах Министерства внутренних дел Республики Казахстан
+    kaz: Қазақстан Республикасы Ішкі істер министрлігінің кейбір мәселелері туралы
+  link: https://zan.gov.kz/client/#!/doc/221696/rus
