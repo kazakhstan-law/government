@@ -1,0 +1,17 @@
+act_code: '229800'
+requisite: Постановление акимата города Кокшетау Акмолинской области от 30 января 2026 года № А-1/184
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-01-30
+approved_by:
+- '152002000001'
+version_date:
+  kaz: 2026-01-30
+  rus: 2026-01-30
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229800/kaz/30.01.2026
+  rus: https://zan.gov.kz/client/#!/doc/229800/rus/30.01.2026
