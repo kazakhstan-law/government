@@ -24,3 +24,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/221397/kaz/04.12.2025
   rus: https://zan.gov.kz/client/#!/doc/221397/rus/04.12.2025
+repealed_on: 2026-03-18
+repealed_by:
+  code: '223164'
+  key: G26B000231A
+  requisite: Постановление акимата Акмолинской области от 3 февраля 2026 года № А-2/31
+  title:
+    rus: Об определении перечня приоритетных направлений расходов областного бюджета
+    kaz: Облыстық бюджет шығыстарының басым бағыттарының тізбесін анықтау туралы
+  link: https://zan.gov.kz/client/#!/doc/223164/rus
