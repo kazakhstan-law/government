@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/202034/rus/20.01.2026
+source: https://zan.gov.kz/client/#!/doc/202034/rus/09.02.2026
 ---
 
 # Об утверждении положении о государственных учреждении
