@@ -1,0 +1,25 @@
+key: G26KD00903A
+akn: /akn/kz/act/2026-02-19/G26KD00903A
+act_code: '222444'
+requisite: Постановление акимата города Балхаш Карагандинской области от 19 февраля 2026 года № 09/03
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Жер учаскеге жария сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-02-19
+in_force_from: 2026-02-25
+approved_by:
+- '160008000001'
+versions:
+- date: 2026-02-19
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-02-19
+  rus: 2026-02-19
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222444/kaz/19.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/222444/rus/19.02.2026
