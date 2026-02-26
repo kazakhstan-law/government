@@ -171,12 +171,19 @@ versions:
   cause:
     code: '222014'
     key: P2600000080
+- date: 2026-02-26
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '222014'
+    key: P2600000080
 version_date:
-  kaz: 2026-02-11
-  rus: 2026-02-11
+  kaz: 2026-02-26
+  rus: 2026-02-26
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/170948/kaz/11.02.2026
-  rus: https://zan.gov.kz/client/#!/doc/170948/rus/11.02.2026
+  kaz: https://zan.gov.kz/client/#!/doc/170948/kaz/26.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/170948/rus/26.02.2026
 caused_by:
   code: '222014'
   key: P2600000080
