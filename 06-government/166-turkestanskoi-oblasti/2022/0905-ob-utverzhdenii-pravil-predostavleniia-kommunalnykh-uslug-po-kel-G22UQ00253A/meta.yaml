@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/171406/kaz/05.09.2022
   rus: https://zan.gov.kz/client/#!/doc/171406/rus/05.09.2022
+repealed_on: 2026-03-17
+repealed_by:
+  code: '222762'
+  key: G26UQ00043A
+  requisite: Постановление акимата Келесского района Туркестанской области от 26 февраля 2026 года № 43
+  title:
+    rus: Об утверждении Правил предоставления коммунальных услуг
+    kaz: Коммуналдық көрсетілетін қызметтерді ұсыну қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/222762/rus
