@@ -1,0 +1,25 @@
+key: G26PH00039A
+akn: /akn/kz/act/2026-02-26/G26PH00039A
+act_code: '222594'
+requisite: Постановление акимата района Тереңкөл Павлодарской области от 26 февраля 2026 года № 39
+title:
+  rus: Об утверждении тарифа на предоставление специальных социальных услуг на 2026 год
+  kaz: 2026 жылға арнаулы әлеуметтік қызметтер көрсету тарифін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-02-26
+in_force_from: 2026-03-13
+approved_by:
+- '164008000001'
+versions:
+- date: 2026-02-26
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-02-26
+  rus: 2026-02-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222594/kaz/26.02.2026
+  rus: https://zan.gov.kz/client/#!/doc/222594/rus/26.02.2026
