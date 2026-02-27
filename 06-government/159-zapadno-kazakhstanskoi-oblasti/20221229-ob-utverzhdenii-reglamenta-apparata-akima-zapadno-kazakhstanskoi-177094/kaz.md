@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177094/kaz/05.12.2025
+source: https://zan.gov.kz/client/#!/doc/177094/kaz/27.02.2026
 ---
 
 # Батыс Қазақстан облысы әкімі аппаратының регламентін бекіту туралы
