@@ -1,0 +1,25 @@
+key: P2600000137
+akn: /akn/kz/act/2026-03-02/P2600000137
+act_code: '222711'
+requisite: Постановление Правительства Республики Казахстан от 2 марта 2026 года № 137
+title:
+  rus: Об установлении границ лесопарковой зоны города Астаны
+  kaz: Астана қаласының орманды саябақ аймағының шекарасын белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-03-02
+in_force_from: 2026-03-16
+approved_by:
+- '103000000000'
+versions:
+- date: 2026-03-02
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-03-02
+  rus: 2026-03-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222711/kaz/02.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/222711/rus/02.03.2026
