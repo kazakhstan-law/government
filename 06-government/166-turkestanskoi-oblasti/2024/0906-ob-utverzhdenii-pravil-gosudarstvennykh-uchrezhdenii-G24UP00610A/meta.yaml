@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/200697/kaz/06.09.2024
   rus: https://zan.gov.kz/client/#!/doc/200697/rus/06.09.2024
+repealed_on: 2026-03-07
+repealed_by:
+  code: '222802'
+  key: G26UP00174A
+  requisite: Постановление акимата Жетысайского района Туркестанской области от 2 марта 2026 года № 174
+  title:
+    rus: О признании утратившими силу некоторых постановлений
+    kaz: Кейбір қаулылардың күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/222802/rus
