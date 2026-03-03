@@ -1,0 +1,25 @@
+key: G26UP00176A
+akn: /akn/kz/act/2026-03-03/G26UP00176A
+act_code: '222894'
+requisite: Постановление акимата Жетысайского района Туркестанской области от 3 марта 2026 года № 176
+title:
+  rus: Об утверждении положении самостоятельных отделов Жетысайского района
+  kaz: Жетісай ауданының дербес бөлімдерінің ережелерін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-03-03
+in_force_from: 2026-03-17
+approved_by:
+- '166017000001'
+versions:
+- date: 2026-03-03
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-03-03
+  rus: 2026-03-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/222894/kaz/03.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/222894/rus/03.03.2026
