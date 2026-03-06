@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/210484/kaz/16.10.2025
+source: https://zan.gov.kz/client/#!/doc/210484/kaz/06.03.2026
 ---
 
 # Түркістан облысы әкімі аппаратының Регламентін бекіту туралы
