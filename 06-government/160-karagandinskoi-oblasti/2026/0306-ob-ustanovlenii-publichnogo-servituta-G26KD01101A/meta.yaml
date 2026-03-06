@@ -1,0 +1,25 @@
+key: G26KD01101A
+akn: /akn/kz/act/2026-03-06/G26KD01101A
+act_code: '223217'
+requisite: Постановление акимата города Балхаш Карагандинской области от 6 марта 2026 года № 11/01
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Жер учаскеге жария сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-03-06
+in_force_from: 2026-03-19
+approved_by:
+- '160008000001'
+versions:
+- date: 2026-03-06
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-03-06
+  rus: 2026-03-06
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/223217/kaz/06.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/223217/rus/06.03.2026
