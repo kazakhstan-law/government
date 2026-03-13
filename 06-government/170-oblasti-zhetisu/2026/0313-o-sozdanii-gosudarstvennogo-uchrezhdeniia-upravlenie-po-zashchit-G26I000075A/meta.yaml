@@ -1,0 +1,25 @@
+key: G26I000075A
+akn: /akn/kz/act/2026-03-13/G26I000075A
+act_code: '223271'
+requisite: Постановление акимата области Жетісу от 13 марта 2026 года № 75
+title:
+  rus: О создании государственного учреждения «Управление по защите прав детей области Жетісу»
+  kaz: «Жетісу облысының балалардың құқықтарын қорғау басқармасы» мемлекеттік мекемесін құру туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-03-13
+in_force_from: 2026-03-31
+approved_by:
+- '170000000001'
+versions:
+- date: 2026-03-13
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-03-13
+  rus: 2026-03-13
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/223271/kaz/13.03.2026
+  rus: https://zan.gov.kz/client/#!/doc/223271/rus/13.03.2026
