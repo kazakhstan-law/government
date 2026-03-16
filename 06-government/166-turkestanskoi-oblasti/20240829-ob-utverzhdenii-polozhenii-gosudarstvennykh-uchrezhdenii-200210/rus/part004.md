@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/200210/rus/04.12.2025
+source: https://zan.gov.kz/client/#!/doc/200210/rus/16.03.2026
 ---
 
 > *Приложение 4 к постановлению*  
