@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/202034/rus/09.02.2026
+source: https://zan.gov.kz/client/#!/doc/202034/rus/31.03.2026
 ---
 
 > *Приложение – 10 к постановлению*  

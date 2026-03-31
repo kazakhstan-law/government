@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/202034/kaz/09.02.2026
+source: https://zan.gov.kz/client/#!/doc/202034/kaz/31.03.2026
 ---
 
 > *Шардара ауданы әкімдігінің*  
