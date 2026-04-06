@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/21723/rus/31.01.2026
+source: https://zan.gov.kz/client/#!/doc/21723/rus/06.04.2026
 ---
 
 # Вопросы Министерства юстиции Республики Казахстан
