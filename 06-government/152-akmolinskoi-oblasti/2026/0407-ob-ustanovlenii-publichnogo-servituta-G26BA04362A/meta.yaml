@@ -1,0 +1,25 @@
+key: G26BA04362A
+akn: /akn/kz/act/2026-04-07/G26BA04362A
+act_code: '229102'
+requisite: Постановление акимата города Кокшетау Акмолинской области от 7 апреля 2026 года № А-4/362
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-04-07
+in_force_from: 2026-04-07
+approved_by:
+- '152002000001'
+versions:
+- date: 2026-04-07
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-04-07
+  rus: 2026-04-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229102/kaz/07.04.2026
+  rus: https://zan.gov.kz/client/#!/doc/229102/rus/07.04.2026
