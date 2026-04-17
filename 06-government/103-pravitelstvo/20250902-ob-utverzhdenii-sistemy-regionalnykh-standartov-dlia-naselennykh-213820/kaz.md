@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/213820/kaz/02.09.2025
+source: https://zan.gov.kz/client/#!/doc/213820/kaz/17.04.2026
 ---
 
 # Елді мекендерге арналған өңірлік стандарттар жүйесін бекіту туралы
