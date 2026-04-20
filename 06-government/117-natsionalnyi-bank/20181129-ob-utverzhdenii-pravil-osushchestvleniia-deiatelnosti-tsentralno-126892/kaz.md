@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/126892/kaz/12.12.2025
+source: https://zan.gov.kz/client/#!/doc/126892/kaz/20.04.2026
 ---
 
 # Орталық депозитарийдiң қызметiн жүзеге асыру қағидаларын бекіту туралы
