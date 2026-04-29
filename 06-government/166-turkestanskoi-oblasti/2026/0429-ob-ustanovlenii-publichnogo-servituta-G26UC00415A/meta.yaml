@@ -1,0 +1,24 @@
+key: G26UC00415A
+akn: /akn/kz/act/2026-04-29/G26UC00415A
+act_code: '225142'
+requisite: Постановление акимата города Кентау Туркестанской области от 29 апреля 2026 года № 415
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут орнату туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-04-29
+approved_by:
+- '166014000001'
+versions:
+- date: 2026-04-29
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-04-29
+  rus: 2026-04-29
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/225142/kaz/29.04.2026
+  rus: https://zan.gov.kz/client/#!/doc/225142/rus/29.04.2026

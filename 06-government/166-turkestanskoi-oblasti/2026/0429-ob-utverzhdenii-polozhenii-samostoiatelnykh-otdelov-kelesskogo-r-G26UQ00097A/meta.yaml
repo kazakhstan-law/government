@@ -1,0 +1,25 @@
+key: G26UQ00097A
+akn: /akn/kz/act/2026-04-29/G26UQ00097A
+act_code: '224965'
+requisite: Постановление акимата Келесского района Туркестанской области от 29 апреля 2026 года № 97
+title:
+  rus: Об утверждении положении самостоятельных отделов Келесского района
+  kaz: Келес ауданының дербес бөлімдерінің ережелерін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-04-29
+in_force_from: 2026-05-08
+approved_by:
+- '166018000001'
+versions:
+- date: 2026-04-29
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-04-29
+  rus: 2026-04-29
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/224965/kaz/29.04.2026
+  rus: https://zan.gov.kz/client/#!/doc/224965/rus/29.04.2026
