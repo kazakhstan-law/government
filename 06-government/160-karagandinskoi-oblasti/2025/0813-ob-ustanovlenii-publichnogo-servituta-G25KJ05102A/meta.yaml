@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/213248/kaz/13.08.2025
   rus: https://zan.gov.kz/client/#!/doc/213248/rus/13.08.2025
+repealed_on: 2026-05-17
+repealed_by:
+  code: '224866'
+  key: G26KJ04502A
+  requisite: Постановление акимата Актогайского района Карагандинской области от 30 апреля 2026 года № 45/02
+  title:
+    rus: Об установлении публичного сервитута
+    kaz: Жария сервитутты белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/224866/rus
