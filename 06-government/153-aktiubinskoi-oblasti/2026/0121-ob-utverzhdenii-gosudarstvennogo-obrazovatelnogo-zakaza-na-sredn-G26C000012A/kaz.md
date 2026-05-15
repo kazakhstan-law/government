@@ -28,28 +28,23 @@
 
 > *Ақтөбе облысы әкімдігінің*  
 > *2026 жылғы 21 қаңтардағы*  
-> *№ 12 қаулысына*  
-> *қосымша*
+> *№ 12 қаулысына қосымша*
 
-## 2025-2026 оқу жылына Ақтөбе облысының жекеменшік білім беру ұйымдарында орта білім беруге мемлекеттік білім беру тапсырысы
+# Ақтөбе облысы бойынша жекеменшік білім беру ұйымдарында орта білім беруге 2025-2026 оқу жылына арналған мемлекеттік білім беру тапсырысы
+
+> *Ескерту. Қосымша жаңа редакцияда - Ақтөбе облысы әкімдігінің 15.05.2026 № 87 (алғашқы ресми жарияланған күнінен кейін қолданысқа енгізіледі) қаулысымен.*
 
 <table>
 <tr>
 <td rowspan="3">№</td>
 <td rowspan="3">Жеке мектептердің атаулары</td>
-<td colspan="12">Орта білім беруге арналған мемлекеттік тапсырыс бойынша айына бір оқушыға шаққандағы орташа шығындар мөлшері (теңге)</td>
-<td rowspan="3">Тәрбиеленушілер саны</td>
+<td colspan="8">Орта білім беруге арналған мемлекеттік тапсырыс бойынша айына бір оқушыға шаққандағы орташа шығындар мөлшері (теңге)</td>
 </tr>
 <tr>
 <td colspan="4">1-4 сынып</td>
 <td colspan="4">5-9 сынып</td>
-<td colspan="4">10-11 (12) сынып</td>
 </tr>
 <tr>
-<td>жалпы білім беретін сыныпта</td>
-<td>түзету сыныбында</td>
-<td>арнайы білім беру қажеттіліктері бар</td>
-<td>үйде оқыту бойынша</td>
 <td>жалпы білім беретін сыныпта</td>
 <td>түзету сыныбында</td>
 <td>арнайы білім беру қажеттіліктері бар</td>
@@ -61,8 +56,8 @@
 </tr>
 <tr>
 <td>1</td>
-<td>«MPILS» жеке мектебі «Media Pro World» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Media Pro World&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
@@ -70,84 +65,59 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>198</td>
 </tr>
 <tr>
 <td>2</td>
-<td>«Баишев мектеп-лицей» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Сақтаған Бәйішев атындағы мектеп-лицейі&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>161</td>
 </tr>
 <tr>
 <td>3</td>
 <td>&quot;GEN ALPHA SCHOOL&quot; ЖШС</td>
-<td>50 475</td>
+<td>51 278</td>
 <td></td>
-<td>85 437</td>
-<td>237 957</td>
-<td></td>
-<td></td>
+<td>86 292</td>
+<td>238 271</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>268</td>
 </tr>
 <tr>
 <td>4</td>
-<td>«Білім» орта жалпы білім беретін мектеп-гимназиясы» (М.Шокай 35А) ЖШС</td>
-<td>50 475</td>
+<td>&quot;Білім&quot;жалпы орта білім беретін мектеп-гимназиясы ЖШС (М.Шокай 35А)</td>
+<td>51 278</td>
 <td></td>
-<td>85 437</td>
+<td>86 292</td>
 <td></td>
-<td>68 217</td>
+<td>69 022</td>
 <td></td>
-<td>120 924</td>
-<td>294 710</td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td>351 412</td>
-<td>5258</td>
+<td>121 779</td>
+<td>295 074</td>
 </tr>
 <tr>
 <td>5</td>
-<td>«Білім» орта жалпы білім беретін мектеп-гимназиясы» (Х.Досмухамедулы 6В) ЖШС</td>
-<td>50 475</td>
+<td>&quot;Білім&quot;жалпы орта білім беретін мектеп-гимназиясы ЖШС (Х.Досмухамедулы 6В)</td>
+<td>51 278</td>
 <td></td>
-<td>85 437</td>
-<td>237 957</td>
-<td>68 217</td>
+<td>86 292</td>
+<td>238 271</td>
+<td>69 022</td>
 <td></td>
-<td>120 924</td>
-<td>294 710</td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3131</td>
+<td>121 779</td>
+<td>295 074</td>
 </tr>
 <tr>
 <td>6</td>
-<td>«Болашақ мектеп-бақшасы» жеке меншік мекемесі</td>
-<td>50 475</td>
+<td>ЖММ мектеп-балабақша Болашақ</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
@@ -155,50 +125,35 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>44</td>
 </tr>
 <tr>
 <td>7</td>
-<td>«Elite kids school» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Elite kids school&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
-<td>85 437</td>
-<td></td>
-<td></td>
+<td>86 292</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>170</td>
 </tr>
 <tr>
 <td>8</td>
-<td>«Atameken School LTD» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Атамекен мектебі&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>432</td>
 </tr>
 <tr>
 <td>9</td>
-<td>«Самгау-2» мектебі» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Самгау&quot; мектебі ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
@@ -206,66 +161,58 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>74</td>
 </tr>
 <tr>
 <td>10</td>
-<td>«Акбөбек» оңалту орталығы» (Санкибай батыра, 74Б) ЖШС</td>
-<td>50 475</td>
+<td>&quot;Реабилитационный центр &quot;Акбобек&quot; ЖШС (Сәңкібай батыр даңғылы, 74Б)</td>
+<td>51 278</td>
 <td></td>
-<td>85 437</td>
-<td></td>
-<td></td>
+<td>86 292</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>184</td>
 </tr>
 <tr>
 <td>11</td>
-<td>«Сымбат-2050» ЖШС</td>
-<td>50 475</td>
+<td>&quot;Школа-интернат Сымбат&quot; ЖШС Мектеп ақысы</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
+</tr>
+<tr>
+<td></td>
+<td>&quot;Школа-интернат Сымбат&quot; ЖШС Интернат ақысы</td>
+<td>125 545</td>
 <td></td>
 <td></td>
 <td></td>
-<td>236</td>
+<td>144 105</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>12</td>
-<td>«Сымбат-2050» ЖШС (интернат)</td>
-<td>117 167</td>
+<td>&quot;ABYROI SCHOOL Aqtobe&quot; ЖШС</td>
 <td></td>
 <td></td>
 <td></td>
-<td>134 911</td>
 <td></td>
 <td></td>
 <td></td>
-<td>147 806</td>
 <td></td>
 <td></td>
-<td></td>
-<td>146</td>
 </tr>
 <tr>
 <td>13</td>
-<td>«ABYROI SCHOOL Aqtobe» ЖШС</td>
+<td>&quot;Dostyk School Aktobe&quot; ЖШС</td>
 <td></td>
 <td></td>
 <td></td>
@@ -274,167 +221,105 @@
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>294</td>
 </tr>
 <tr>
 <td>14</td>
-<td>«Dostyk School Aktobe» ЖШС</td>
+<td>&quot;Shanyraq school&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>330</td>
 </tr>
 <tr>
 <td>15</td>
-<td>«Shanyraq school» ЖШС</td>
-<td>50 475</td>
+<td>&quot;KAZGUU School.Aqt&quot; ЖШС</td>
+<td>51 278</td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>270</td>
 </tr>
 <tr>
 <td>16</td>
-<td>«KAZGUU School.Aqt» ЖШС</td>
-<td>50 475</td>
+<td>&quot;High School Aktobe&quot; ЖШС</td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
+<td></td>
+<td>69 022</td>
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>464</td>
 </tr>
 <tr>
 <td>17</td>
-<td>«High School Aktobe» ЖШС</td>
+<td>&quot;Кемел Ұрпақ Ақтөбе мектебі&quot; ЖШС, бұрыңғы &quot;125 AKTOBE&quot;</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
 <td></td>
-<td></td>
-<td></td>
-<td>533</td>
 </tr>
 <tr>
 <td>18</td>
-<td>«125 AKTOBE» ЖШС</td>
+<td>&quot;Школа Мозаика Актобе&quot; ЖШС</td>
+<td></td>
+<td>94 213</td>
+<td>86 292</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>309</td>
 </tr>
 <tr>
 <td>19</td>
-<td>«Мозаика Ақтобе» мектебі» ЖШС</td>
-<td></td>
-<td>93 410</td>
-<td>85 437</td>
+<td>&quot;Школа-интернат Кемел Билим&quot; ЖШС</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>69 022</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>&quot;Школа-интернат Кемел Билим&quot; ЖШС - ИНТЕРНАТ</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+<td>166 691</td>
 <td></td>
-<td>33</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>20</td>
-<td>«Школа-интернат Кемел Билим» ЖШС</td>
+<td>&quot;МИРАС&quot; бастауыш мектебі ЖШС</td>
+<td>51 278</td>
+<td></td>
+<td>86 292</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>68 219</td>
 <td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
-<td></td>
-<td></td>
-<td></td>
-<td>250</td>
 </tr>
 <tr>
 <td>21</td>
-<td>«Кемел Білім» мектеп-интернат» ЖШС (интернат)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>134 911</td>
-<td></td>
-<td></td>
-<td></td>
-<td>147 806</td>
-<td></td>
-<td></td>
-<td></td>
-<td>85</td>
-</tr>
-<tr>
-<td>22</td>
-<td>«МИРАС» бастауыш мектебі» ЖШС</td>
-<td>50475</td>
-<td></td>
-<td>85437</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>50</td>
-</tr>
-<tr>
-<td>23</td>
 <td>«Sana school Aktobe» ЖШС</td>
 <td></td>
 <td></td>
@@ -444,23 +329,247 @@
 <td></td>
 <td></td>
 <td></td>
-<td>81 114</td>
+</tr>
+<tr>
+<td>22</td>
+<td>«Heyday school» ЖШС</td>
+<td>51 278</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>&quot;Реабилитационный центр &quot;Акбобек&quot; ЖШС (AQBOBEK INTERNATIONAL SCHOOL)</td>
+<td>51 278</td>
+<td></td>
+<td>86 292</td>
+<td></td>
+<td>69 022</td>
+<td></td>
+<td>121 779</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>«Kemel urpaq mektebi» ЖШС, бұрыңғы 125 HIGH SCHOOL AKTOBE</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>&quot;Реабилитационный центр &quot;Акбобек&quot; ЖШС (AQBOBEK LYCEUM)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>69 022</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>«JOO High School Aqtobe» ЖШС</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>69 022</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="4">Орта білім беруге арналған мемлекеттік тапсырыс бойынша айына бір оқушыға шаққандағы орташа шығындар мөлшері (теңге)</td>
+<td rowspan="3">Тәрбиеленушілер саны</td>
+</tr>
+<tr>
+<td colspan="4">10-11 (12) сынып</td>
+</tr>
+<tr>
+<td>жалпы білім беретін сыныпта</td>
+<td>түзету сыныбында</td>
+<td>арнайы білім беру қажеттіліктері бар</td>
+<td>үйде оқыту бойынша</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>198</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>161</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>268</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td>351 726</td>
+<td>5258</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3131</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>44</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>170</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>432</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>74</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>184</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>236</td>
+</tr>
+<tr>
+<td>157 594</td>
+<td></td>
+<td></td>
+<td></td>
+<td>146</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>294</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>330</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>270</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>464</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>533</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>309</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>33</td>
+</tr>
+<tr>
+<td>81 917</td>
+<td></td>
+<td></td>
+<td></td>
+<td>250</td>
+</tr>
+<tr>
+<td>180 180</td>
+<td></td>
+<td></td>
+<td></td>
+<td>85</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>50</td>
+</tr>
+<tr>
+<td>81 917</td>
 <td></td>
 <td></td>
 <td></td>
 <td>119</td>
 </tr>
 <tr>
-<td>24</td>
-<td>«Heyday school» ЖШС</td>
-<td>50 475</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -468,68 +577,28 @@
 <td>25</td>
 </tr>
 <tr>
-<td>25</td>
-<td>«AQBOBEK INTERNATIONAL SCHOOL» ЖШС</td>
-<td>50 475</td>
-<td></td>
-<td>85 437</td>
-<td></td>
-<td>68 219</td>
-<td></td>
-<td>120 924</td>
-<td></td>
-<td>81 114</td>
+<td>81 917</td>
 <td></td>
 <td></td>
 <td></td>
 <td>1072</td>
 </tr>
 <tr>
-<td>26</td>
-<td>«125 HIGH SCHOOL AKTOBE» ЖШС</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
+<td>81 917</td>
 <td></td>
 <td></td>
 <td></td>
 <td>295</td>
 </tr>
 <tr>
-<td>27</td>
-<td>«AQBOBEK LYCEUM» ЖШС</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>68 219</td>
-<td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
+<td>81 917</td>
 <td></td>
 <td></td>
 <td></td>
 <td>274</td>
 </tr>
 <tr>
-<td>28</td>
-<td>«JOO High School Aqtobe» ЖШС</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>68 219</td>
-<td></td>
-<td></td>
-<td></td>
-<td>81 114</td>
+<td>81 917</td>
 <td></td>
 <td></td>
 <td></td>
