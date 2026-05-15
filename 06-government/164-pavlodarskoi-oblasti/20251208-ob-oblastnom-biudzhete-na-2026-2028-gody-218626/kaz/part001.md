@@ -1,17 +1,16 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
+source: https://zan.gov.kz/client/#!/doc/218626/kaz/15.05.2026
 ---
 
 > *Павлодар облыстық*  
-> *мәслихатының*  
-> *2025 жылғы 8 желтоқсандағы*  
-> *№ 229/26*  
+> *мәслихатының 2025 жылғы*  
+> *8 желтоқсандағы № 229/26*  
 > *шешiмiне 1-қосымша*
 
 ## 2026 жылға арналған облыстық бюджет (өзгерістермен)
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облыстық мәслихатының 24.02.2026 № 248/28 (01.01.2026 бастап қолданысқа енгізіледі); 26.03.2026 № 255/29 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Павлодар облыстық мәслихатының 24.02.2026 № 248/28 (01.01.2026 бастап қолданысқа енгізіледі); 26.03.2026 № 255/29 (01.01.2026 бастап қолданысқа енгізіледі); 15.05.2026 № 269/30 (01.01.2026 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -37,39 +36,39 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td colspan="2"></td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="2">2</td>
-<td colspan="2">3</td>
-<td colspan="2">4</td>
-<td colspan="2">5</td>
+<th>1</th>
+<th colspan="2">2</th>
+<th colspan="2">3</th>
+<th colspan="2">4</th>
+<th colspan="2">5</th>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кірістер</td>
-<td colspan="2">509 726 320</td>
+<td colspan="2">506 943 124</td>
 </tr>
 <tr>
 <td>1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсiмдер</td>
-<td colspan="2">78 742 753</td>
+<td colspan="2">77 265 995</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтік салық</td>
-<td colspan="2">77 018 682</td>
+<td colspan="2">75 541 924</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Әлеуметтік салық</td>
-<td colspan="2">77 018 682</td>
+<td colspan="2">75 541 924</td>
 </tr>
 <tr>
 <td></td>
@@ -97,14 +96,14 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td colspan="2">9 269 173</td>
+<td colspan="2">9 278 819</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік меншіктен түсетін кірістер</td>
-<td colspan="2">5 205 020</td>
+<td colspan="2">5 214 666</td>
 </tr>
 <tr>
 <td></td>
@@ -132,7 +131,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td colspan="2"></td>
 <td colspan="2">7</td>
 <td colspan="2">Мемлекеттiк бюджеттен берiлген кредиттер бойынша сыйақылар</td>
-<td colspan="2">5 070 487</td>
+<td colspan="2">5 080 133</td>
 </tr>
 <tr>
 <td></td>
@@ -188,7 +187,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердiң түсiмдерi</td>
-<td colspan="2">404 973 255</td>
+<td colspan="2">403 657 171</td>
 </tr>
 <tr>
 <td></td>
@@ -209,18 +208,15 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">20 020 557</td>
+<td colspan="2">18 704 473</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2">Республикалық бюджеттен түсетiн трансферттер</td>
-<td colspan="2">20 020 557</td>
+<td colspan="2">18 704 473</td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td colspan="8">Функционалдық топ</td>
 <td colspan="2"></td>
@@ -247,12 +243,12 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 
 <table>
 <tr>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-<td>6</td>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +256,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>2. Шығындар</td>
-<td>508 834 720</td>
+<td>506 051 524</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1556,7 +1552,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>38 089 639</td>
+<td>37 406 281</td>
 </tr>
 <tr>
 <td></td>
@@ -1588,7 +1584,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Коммуналдық шаруашылық</td>
-<td>32 775 342</td>
+<td>32 091 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1596,7 +1592,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>279</td>
 <td></td>
 <td>Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
-<td>32 775 342</td>
+<td>32 091 984</td>
 </tr>
 <tr>
 <td></td>
@@ -1628,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>114</td>
 <td>Төмен тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td>31 586 603</td>
+<td>30 903 245</td>
 </tr>
 <tr>
 <td></td>
@@ -1660,7 +1656,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>23 773 363</td>
+<td>23 793 363</td>
 </tr>
 <tr>
 <td></td>
@@ -1668,7 +1664,23 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>4 800 889</td>
+<td>4 810 889</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>271</td>
+<td></td>
+<td>Облыстың құрылыс басқармасы</td>
+<td>10 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>016</td>
+<td>Мәдениет объектілерін дамыту</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -1708,7 +1720,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>8 617 856</td>
+<td>8 627 856</td>
 </tr>
 <tr>
 <td></td>
@@ -1716,7 +1728,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>271</td>
 <td></td>
 <td>Облыстың құрылыс басқармасы</td>
-<td>656 552</td>
+<td>666 552</td>
 </tr>
 <tr>
 <td></td>
@@ -1724,7 +1736,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>017</td>
 <td>Cпорт объектілерін дамыту</td>
-<td>656 552</td>
+<td>666 552</td>
 </tr>
 <tr>
 <td></td>
@@ -1988,7 +2000,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>43 544 705</td>
+<td>42 228 621</td>
 </tr>
 <tr>
 <td></td>
@@ -2020,7 +2032,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>002</td>
 <td>Тұқым шаруашылығын дамытуды субсидиялау</td>
-<td>4 225 819</td>
+<td>2 045 819</td>
 </tr>
 <tr>
 <td></td>
@@ -2060,7 +2072,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>047</td>
 <td>Тыңайтқыштар (органикалықтарды қоспағанда) құнын субсидиялау</td>
-<td>1 120 000</td>
+<td>3 300 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2324,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Қоршаған ортаны қорғау</td>
-<td>2 832 214</td>
+<td>1 516 130</td>
 </tr>
 <tr>
 <td></td>
@@ -2332,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>700</td>
 <td></td>
 <td>Облыстың жер қойнауын пайдалану, қоршаған орта және су ресурстары басқармасы</td>
-<td>2 832 214</td>
+<td>1 516 130</td>
 </tr>
 <tr>
 <td></td>
@@ -2348,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>022</td>
 <td>Қоршаған ортаны қорғау объектілерін дамыту</td>
-<td>2 550 175</td>
+<td>1 234 091</td>
 </tr>
 <tr>
 <td></td>
@@ -2644,7 +2656,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>25 279 237</td>
+<td>24 465 837</td>
 </tr>
 <tr>
 <td></td>
@@ -2724,7 +2736,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>22 067 995</td>
+<td>21 254 595</td>
 </tr>
 <tr>
 <td></td>
@@ -2732,7 +2744,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>257</td>
 <td></td>
 <td>Облыстың қаржы басқармасы</td>
-<td>21 591 093</td>
+<td>20 777 693</td>
 </tr>
 <tr>
 <td></td>
@@ -2740,7 +2752,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>012</td>
 <td>Облыстық жергілікті атқарушы органының резервi</td>
-<td>21 591 093</td>
+<td>20 777 693</td>
 </tr>
 <tr>
 <td></td>
@@ -2796,7 +2808,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>5 695 155</td>
+<td>5 704 801</td>
 </tr>
 <tr>
 <td></td>
@@ -2804,7 +2816,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Борышқа қызмет көрсету</td>
-<td>5 695 155</td>
+<td>5 704 801</td>
 </tr>
 <tr>
 <td></td>
@@ -2812,7 +2824,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>257</td>
 <td></td>
 <td>Облыстың қаржы басқармасы</td>
-<td>5 695 155</td>
+<td>5 704 801</td>
 </tr>
 <tr>
 <td></td>
@@ -2820,7 +2832,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>004</td>
 <td>Жергілікті атқарушы органдардың борышына қызмет көрсету</td>
-<td>5 606 259</td>
+<td>5 612 781</td>
 </tr>
 <tr>
 <td></td>
@@ -2828,7 +2840,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>016</td>
 <td>Жергілікті атқарушы органдардың республикалық бюджеттен қарыздар бойынша сыйақылар мен өзге де төлемдерді төлеу бойынша борышына қызмет көрсету</td>
-<td>88 896</td>
+<td>92 020</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2900,7 +2912,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>3. Таза бюджеттік кредиттеу</td>
-<td>562 107</td>
+<td>5 785 307</td>
 </tr>
 <tr>
 <td></td>
@@ -2908,7 +2920,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Бюджеттiк кредиттер</td>
-<td>20 791 643</td>
+<td>26 014 843</td>
 </tr>
 <tr>
 <td>07</td>
@@ -2916,7 +2928,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>9 383 393</td>
+<td>14 606 593</td>
 </tr>
 <tr>
 <td></td>
@@ -2924,7 +2936,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Тұрғын үй шаруашылығы</td>
-<td>9 383 393</td>
+<td>14 606 593</td>
 </tr>
 <tr>
 <td></td>
@@ -2948,7 +2960,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>279</td>
 <td></td>
 <td>Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
-<td>5 656 558</td>
+<td>10 879 758</td>
 </tr>
 <tr>
 <td></td>
@@ -2956,7 +2968,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td>046</td>
 <td>Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне жылу, сумен жабдықтау және су бұру жүйелерін реконструкция және құрылыс үшін кредит беру</td>
-<td>5 656 558</td>
+<td>10 879 758</td>
 </tr>
 <tr>
 <td>10</td>
@@ -3116,7 +3128,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>5. Бюджет тапшылығы (профициті)</td>
-<td>-733 076</td>
+<td>-5 956 276</td>
 </tr>
 <tr>
 <td></td>
@@ -3124,7 +3136,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
-<td>733 076</td>
+<td>5 956 276</td>
 </tr>
 <tr>
 <td>8</td>
@@ -3132,7 +3144,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Қарыздар түсімдері</td>
-<td>20 791 643</td>
+<td>26 014 843</td>
 </tr>
 <tr>
 <td></td>
@@ -3140,7 +3152,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td></td>
 <td></td>
 <td>Мемлекеттік ішкі қарыздар</td>
-<td>20 791 643</td>
+<td>26 014 843</td>
 </tr>
 <tr>
 <td></td>
@@ -3148,7 +3160,7 @@ source: https://zan.gov.kz/client/#!/doc/218626/kaz/26.03.2026
 <td>1</td>
 <td></td>
 <td>Мемлекеттік эмиссиялық бағалы қағаздар</td>
-<td>9 383 393</td>
+<td>14 606 593</td>
 </tr>
 <tr>
 <td></td>
