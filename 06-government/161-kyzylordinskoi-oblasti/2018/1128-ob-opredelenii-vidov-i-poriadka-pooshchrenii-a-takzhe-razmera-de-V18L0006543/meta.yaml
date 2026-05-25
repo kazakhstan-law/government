@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/126426/kaz/28.11.2018
   rus: https://zan.gov.kz/client/#!/doc/126426/rus/28.11.2018
+repealed_on: 2026-06-10
+repealed_by:
+  code: '225702'
+  key: G26L000094A
+  requisite: Постановление акимата Кызылординской области от 25 мая 2026 года № 94
+  title:
+    rus: О признании утратившими силу некоторых постановлений акимата Кызылординской области
+    kaz: Қызылорда облысы әкімдігінің кейбір қаулыларының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/225702/rus
