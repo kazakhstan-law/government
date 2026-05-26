@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/168044/kaz/30.11.2022
+source: https://zan.gov.kz/client/#!/doc/168044/kaz/26.05.2026
 ---
 
 # Қалалар мен аудандардың білім бөлімдерінің ережелерін бекіту туралы
