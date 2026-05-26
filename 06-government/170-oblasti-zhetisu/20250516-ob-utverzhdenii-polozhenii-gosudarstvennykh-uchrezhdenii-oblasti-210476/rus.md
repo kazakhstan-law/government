@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/210476/rus/29.04.2026
+source: https://zan.gov.kz/client/#!/doc/210476/rus/26.05.2026
 ---
 
 # Об утверждении положений государственных учреждений области Жетісу
