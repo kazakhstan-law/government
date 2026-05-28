@@ -1,0 +1,17 @@
+act_code: '225884'
+requisite: Постановление акимата Каркаралинского района Карагандинской области от 28 мая 2026 года № 176
+title:
+  rus: Об установлении публичного сервитута частной компании «AGI Ltd»
+  kaz: «AGI Ltd» жеке компаниясына қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-05-28
+approved_by:
+- '160013000001'
+version_date:
+  kaz: 2026-05-28
+  rus: 2026-05-28
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/225884/kaz/28.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/225884/rus/28.05.2026
