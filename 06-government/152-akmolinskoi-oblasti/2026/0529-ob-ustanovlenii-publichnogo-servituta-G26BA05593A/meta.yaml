@@ -1,0 +1,25 @@
+key: G26BA05593A
+akn: /akn/kz/act/2026-05-29/G26BA05593A
+act_code: '229039'
+requisite: Постановление акимата города Кокшетау Акмолинской области от 29 мая 2026 года № А-5/593
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-05-29
+in_force_from: 2026-05-29
+approved_by:
+- '152002000001'
+versions:
+- date: 2026-05-29
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-05-29
+  rus: 2026-05-29
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229039/kaz/29.05.2026
+  rus: https://zan.gov.kz/client/#!/doc/229039/rus/29.05.2026
