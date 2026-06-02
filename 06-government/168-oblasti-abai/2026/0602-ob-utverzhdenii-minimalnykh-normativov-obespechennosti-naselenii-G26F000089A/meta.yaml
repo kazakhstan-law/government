@@ -1,0 +1,25 @@
+key: G26F000089A
+akn: /akn/kz/act/2026-06-02/G26F000089A
+act_code: '226137'
+requisite: Постановление акимата области Абай от 2 июня 2026 года № 89
+title:
+  rus: Об утверждении минимальных нормативов обеспеченности населения торговой площадью в области Абай
+  kaz: Абай облысында халықты сауда алаңымен қамтамасыз етудің ең төменгі нормативтерін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-06-02
+in_force_from: 2026-06-20
+approved_by:
+- '168000000001'
+versions:
+- date: 2026-06-02
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-06-02
+  rus: 2026-06-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/226137/kaz/02.06.2026
+  rus: https://zan.gov.kz/client/#!/doc/226137/rus/02.06.2026
