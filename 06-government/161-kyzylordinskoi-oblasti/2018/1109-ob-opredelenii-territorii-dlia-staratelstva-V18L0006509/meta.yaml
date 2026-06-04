@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/125949/kaz/09.11.2018
   rus: https://zan.gov.kz/client/#!/doc/125949/rus/09.11.2018
+repealed_on: 2026-06-21
+repealed_by:
+  code: '226100'
+  key: G26L000107A
+  requisite: Постановление акимата Кызылординской области от 4 июня 2026 года № 107
+  title:
+    rus: Об определении территорий для старательствва по Кызылординской области
+    kaz: Қызылорда облысы бойынша кен іздеушілікке арналған аумақтарды айқындау туралы
+  link: https://zan.gov.kz/client/#!/doc/226100/rus
