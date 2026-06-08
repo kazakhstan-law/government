@@ -1,0 +1,25 @@
+key: G26BA06638A
+akn: /akn/kz/act/2026-06-08/G26BA06638A
+act_code: '230403'
+requisite: Постановление акимата города Кокшетау Акмолинской области от 8 июня 2026 года № А-6/638
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-06-08
+in_force_from: 2026-06-08
+approved_by:
+- '152002000001'
+versions:
+- date: 2026-06-08
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-06-08
+  rus: 2026-06-08
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/230403/kaz/08.06.2026
+  rus: https://zan.gov.kz/client/#!/doc/230403/rus/08.06.2026
