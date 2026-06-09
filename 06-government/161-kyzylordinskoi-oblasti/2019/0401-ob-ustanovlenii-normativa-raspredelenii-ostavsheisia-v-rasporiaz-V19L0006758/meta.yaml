@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/130312/kaz/01.04.2019
   rus: https://zan.gov.kz/client/#!/doc/130312/rus/01.04.2019
+repealed_on: 2026-06-12
+repealed_by:
+  code: '226327'
+  key: G26L000109A
+  requisite: Постановление акимата Кызылординской области от 9 июня 2026 года № 109
+  title:
+    rus: О признании утратившими силу некоторых постановлений акимата Кызылординской области
+    kaz: Қызылорда облысы әкімдігінің кейбір қаулыларының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/226327/rus
