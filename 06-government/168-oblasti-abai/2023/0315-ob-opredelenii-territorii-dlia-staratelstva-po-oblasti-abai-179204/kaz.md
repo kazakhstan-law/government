@@ -50,7 +50,7 @@
 
 ## Абай облысы бойынша кен іздеушілікке арналған аумақтар
 
-> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.05.2024 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.08.2024 № 161 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 22.01.2025 № 10 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.06.2025 № 93 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 04.12.2025 № 206 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
+> *Ескерту. Қосымшаға өзгерістер енгізілді – Абай облысының әкімдігінің 16.01.2024 № 11 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 23.05.2024 № 98 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.08.2024 № 161 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 22.01.2025 № 10 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 20.06.2025 № 93 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 04.12.2025 № 206 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі); 25.06.2026 № 105 (алғашқы ресми жарияланған күнінен кейін күнтізбелік он күн өткен соң қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -5090,5 +5090,2301 @@
 <td>48</td>
 <td>52</td>
 <td>7,31</td>
+</tr>
+<tr>
+<td rowspan="4">123.</td>
+<td rowspan="4">Учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>32,9</td>
+<td>49</td>
+<td>10</td>
+<td>4,4</td>
+<td rowspan="4">4,56</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>37,5</td>
+<td>49</td>
+<td>10</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>36</td>
+<td>49</td>
+<td>10</td>
+<td>0,7</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>31,3</td>
+<td>49</td>
+<td>10</td>
+<td>3,9</td>
+</tr>
+<tr>
+<td rowspan="4">124.</td>
+<td rowspan="4">СТР-2</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>2</td>
+<td>48</td>
+<td>13</td>
+<td>50</td>
+<td rowspan="4">2,5499</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>39</td>
+<td>22</td>
+<td>48</td>
+<td>13</td>
+<td>55</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>39</td>
+<td>22</td>
+<td>48</td>
+<td>13</td>
+<td>57</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>2</td>
+<td>48</td>
+<td>13</td>
+<td>52</td>
+</tr>
+<tr>
+<td rowspan="4">125.</td>
+<td rowspan="4">БТР-01</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>43</td>
+<td>50</td>
+<td>5</td>
+<td>19</td>
+<td rowspan="4">4,791</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>49</td>
+<td>50</td>
+<td>5</td>
+<td>19</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>49</td>
+<td>50</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>43</td>
+<td>50</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td rowspan="4">126.</td>
+<td rowspan="4">БТР-02</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>54</td>
+<td>50</td>
+<td>5</td>
+<td>23</td>
+<td rowspan="4">3,4399</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>19</td>
+<td>2</td>
+<td>50</td>
+<td>5</td>
+<td>23</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>19</td>
+<td>2</td>
+<td>50</td>
+<td>5</td>
+<td>16</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>54</td>
+<td>50</td>
+<td>5</td>
+<td>16</td>
+</tr>
+<tr>
+<td rowspan="4">127.</td>
+<td rowspan="4">БТР-03</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>19</td>
+<td>3</td>
+<td>50</td>
+<td>5</td>
+<td>14</td>
+<td rowspan="4">3,931</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>19</td>
+<td>11</td>
+<td>50</td>
+<td>5</td>
+<td>14</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>19</td>
+<td>11</td>
+<td>50</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>19</td>
+<td>3</td>
+<td>50</td>
+<td>5</td>
+<td>6</td>
+</tr>
+<tr>
+<td rowspan="4">128.</td>
+<td rowspan="4">БТР-1</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>12</td>
+<td>39</td>
+<td>50</td>
+<td>6</td>
+<td>14</td>
+<td rowspan="4">3,6846</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>12</td>
+<td>45</td>
+<td>50</td>
+<td>6</td>
+<td>14</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>12</td>
+<td>45</td>
+<td>50</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>12</td>
+<td>39</td>
+<td>50</td>
+<td>6</td>
+<td>4</td>
+</tr>
+<tr>
+<td rowspan="4">129.</td>
+<td rowspan="4">БТР-2</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>12</td>
+<td>59</td>
+<td>50</td>
+<td>6</td>
+<td>44</td>
+<td rowspan="4">4,6665</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>13</td>
+<td>3</td>
+<td>50</td>
+<td>6</td>
+<td>44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>13</td>
+<td>3</td>
+<td>50</td>
+<td>6</td>
+<td>25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>12</td>
+<td>59</td>
+<td>50</td>
+<td>6</td>
+<td>25</td>
+</tr>
+<tr>
+<td rowspan="4">130.</td>
+<td rowspan="4">БТР-3</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>13</td>
+<td>28</td>
+<td>50</td>
+<td>6</td>
+<td>57</td>
+<td rowspan="4">3,9906</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>13</td>
+<td>41</td>
+<td>50</td>
+<td>6</td>
+<td>57</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>13</td>
+<td>41</td>
+<td>50</td>
+<td>6</td>
+<td>52</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>13</td>
+<td>28</td>
+<td>50</td>
+<td>6</td>
+<td>52</td>
+</tr>
+<tr>
+<td rowspan="4">131.</td>
+<td rowspan="4">БТР-4</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>12</td>
+<td>33</td>
+<td>50</td>
+<td>6</td>
+<td>59</td>
+<td rowspan="4">4,6045</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>12</td>
+<td>48</td>
+<td>50</td>
+<td>6</td>
+<td>59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>12</td>
+<td>48</td>
+<td>50</td>
+<td>6</td>
+<td>54</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>12</td>
+<td>33</td>
+<td>50</td>
+<td>6</td>
+<td>54</td>
+</tr>
+<tr>
+<td rowspan="4">132.</td>
+<td rowspan="4">ZMN-1</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>79</td>
+<td>38</td>
+<td>4</td>
+<td>49</td>
+<td>56</td>
+<td>11</td>
+<td rowspan="4">4,4375</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>38</td>
+<td>13</td>
+<td>49</td>
+<td>56</td>
+<td>11</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>38</td>
+<td>13</td>
+<td>49</td>
+<td>56</td>
+<td>3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>38</td>
+<td>4</td>
+<td>49</td>
+<td>56</td>
+<td>3</td>
+</tr>
+<tr>
+<td rowspan="4">133.</td>
+<td rowspan="4">ZMN-2</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>79</td>
+<td>37</td>
+<td>51</td>
+<td>49</td>
+<td>56</td>
+<td>15</td>
+<td rowspan="4">4,3141</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>37</td>
+<td>58</td>
+<td>49</td>
+<td>56</td>
+<td>15</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>37</td>
+<td>58</td>
+<td>49</td>
+<td>56</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>37</td>
+<td>51</td>
+<td>49</td>
+<td>56</td>
+<td>5</td>
+</tr>
+<tr>
+<td rowspan="4">134.</td>
+<td rowspan="4">ZMN-3</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>79</td>
+<td>36</td>
+<td>29</td>
+<td>49</td>
+<td>56</td>
+<td>34</td>
+<td rowspan="4">3,6975</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>79</td>
+<td>36</td>
+<td>34</td>
+<td>49</td>
+<td>56</td>
+<td>34</td>
+</tr>
+<tr>
+<td>3</td>
+<td>79</td>
+<td>36</td>
+<td>34</td>
+<td>49</td>
+<td>56</td>
+<td>22</td>
+</tr>
+<tr>
+<td>4</td>
+<td>79</td>
+<td>36</td>
+<td>29</td>
+<td>49</td>
+<td>56</td>
+<td>22</td>
+</tr>
+<tr>
+<td rowspan="4">135.</td>
+<td rowspan="4">БТР-5</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>10</td>
+<td>26</td>
+<td>50</td>
+<td>7</td>
+<td>59</td>
+<td rowspan="4">2,945857</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>10</td>
+<td>26</td>
+<td>50</td>
+<td>7</td>
+<td>57</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>10</td>
+<td>50</td>
+<td>50</td>
+<td>7</td>
+<td>57</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>10</td>
+<td>50</td>
+<td>50</td>
+<td>7</td>
+<td>59</td>
+</tr>
+<tr>
+<td rowspan="4">136.</td>
+<td rowspan="4">№ 1 учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>40</td>
+<td>01,45</td>
+<td>49</td>
+<td>41</td>
+<td>19,4</td>
+<td rowspan="4">3,88</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>40</td>
+<td>10,95</td>
+<td>49</td>
+<td>41</td>
+<td>19,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>40</td>
+<td>10,95</td>
+<td>49</td>
+<td>41</td>
+<td>12,8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>40</td>
+<td>01,45</td>
+<td>49</td>
+<td>41</td>
+<td>12,8</td>
+</tr>
+<tr>
+<td rowspan="4">137.</td>
+<td rowspan="4">№ 2 учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>40</td>
+<td>11,15</td>
+<td>49</td>
+<td>41</td>
+<td>28,24</td>
+<td rowspan="4">4,14</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>40</td>
+<td>20,20</td>
+<td>49</td>
+<td>41</td>
+<td>28,24</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>40</td>
+<td>20,20</td>
+<td>49</td>
+<td>41</td>
+<td>20,85</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>40</td>
+<td>11,15</td>
+<td>49</td>
+<td>41</td>
+<td>20,85</td>
+</tr>
+<tr>
+<td rowspan="4">138.</td>
+<td rowspan="4">Чын1</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>82</td>
+<td>19</td>
+<td>23,48</td>
+<td>47</td>
+<td>48</td>
+<td>45,87</td>
+<td rowspan="4">4,412</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>19</td>
+<td>28,67</td>
+<td>47</td>
+<td>48</td>
+<td>47,01</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>19</td>
+<td>34,55</td>
+<td>47</td>
+<td>48</td>
+<td>35,2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>19</td>
+<td>29,27</td>
+<td>47</td>
+<td>48</td>
+<td>34,03</td>
+</tr>
+<tr>
+<td rowspan="4">139.</td>
+<td rowspan="4">Калба № 2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>11</td>
+<td>8,89</td>
+<td>49</td>
+<td>19</td>
+<td>18,88</td>
+<td rowspan="4">4,99</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>11</td>
+<td>8,18</td>
+<td>49</td>
+<td>19</td>
+<td>27,04</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>11</td>
+<td>17,97</td>
+<td>49</td>
+<td>19</td>
+<td>27,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>11</td>
+<td>18,68</td>
+<td>49</td>
+<td>19</td>
+<td>19,24</td>
+</tr>
+<tr>
+<td rowspan="4">140.</td>
+<td rowspan="4">Высокий</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>41</td>
+<td>41,33</td>
+<td>49</td>
+<td>4</td>
+<td>39,19</td>
+<td rowspan="4">4,77</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>41</td>
+<td>37,23</td>
+<td>49</td>
+<td>4</td>
+<td>42,31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>41</td>
+<td>51,19</td>
+<td>49</td>
+<td>4</td>
+<td>50,19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>41</td>
+<td>55,27</td>
+<td>49</td>
+<td>4</td>
+<td>47,01</td>
+</tr>
+<tr>
+<td rowspan="4">141.</td>
+<td rowspan="4">Учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>43</td>
+<td>48,76</td>
+<td>49</td>
+<td>4</td>
+<td>26,96</td>
+<td rowspan="4">4,9963</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>43</td>
+<td>35,14</td>
+<td>49</td>
+<td>4</td>
+<td>19,83</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>43</td>
+<td>39,92</td>
+<td>49</td>
+<td>4</td>
+<td>16,37</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>43</td>
+<td>53,31</td>
+<td>49</td>
+<td>4</td>
+<td>23,57</td>
+</tr>
+<tr>
+<td rowspan="4">142.</td>
+<td rowspan="4">Учаскесі</td>
+<td rowspan="4">Көкпекті</td>
+<td>1</td>
+<td>82</td>
+<td>40</td>
+<td>43,79</td>
+<td>48</td>
+<td>56</td>
+<td>23,35</td>
+<td rowspan="4">0,8072</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>40</td>
+<td>46,4</td>
+<td>48</td>
+<td>56</td>
+<td>23,85</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>40</td>
+<td>48,4</td>
+<td>48</td>
+<td>56</td>
+<td>19,3</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>40</td>
+<td>45,81</td>
+<td>48</td>
+<td>56</td>
+<td>18,8</td>
+</tr>
+<tr>
+<td rowspan="4">143.</td>
+<td rowspan="4">№1 учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>30</td>
+<td>35</td>
+<td>49</td>
+<td>16</td>
+<td>55</td>
+<td rowspan="4">4,8093</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>30</td>
+<td>46</td>
+<td>49</td>
+<td>16</td>
+<td>55</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>30</td>
+<td>46</td>
+<td>49</td>
+<td>16</td>
+<td>48</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>30</td>
+<td>35</td>
+<td>49</td>
+<td>16</td>
+<td>48</td>
+</tr>
+<tr>
+<td rowspan="4">144.</td>
+<td rowspan="4">№2 учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>25</td>
+<td>30</td>
+<td>49</td>
+<td>17</td>
+<td>51</td>
+<td rowspan="4">4,8076</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>25</td>
+<td>41</td>
+<td>49</td>
+<td>17</td>
+<td>51</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>25</td>
+<td>41</td>
+<td>49</td>
+<td>17</td>
+<td>44</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>25</td>
+<td>30</td>
+<td>49</td>
+<td>17</td>
+<td>44</td>
+</tr>
+<tr>
+<td rowspan="4">145.</td>
+<td rowspan="4">Калба № 1</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>11</td>
+<td>2,83</td>
+<td>49</td>
+<td>19</td>
+<td>3,04</td>
+<td rowspan="4">4,96</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>11</td>
+<td>1,41</td>
+<td>49</td>
+<td>19</td>
+<td>19,28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>11</td>
+<td>6,4</td>
+<td>49</td>
+<td>19</td>
+<td>19,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>11</td>
+<td>7,64</td>
+<td>49</td>
+<td>19</td>
+<td>3,24</td>
+</tr>
+<tr>
+<td rowspan="4">146.</td>
+<td rowspan="4">ДТ-1</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>23,62</td>
+<td>49</td>
+<td>50</td>
+<td>52,56</td>
+<td rowspan="4">4,7995</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>29,48</td>
+<td>49</td>
+<td>50</td>
+<td>53,61</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>35,64</td>
+<td>49</td>
+<td>50</td>
+<td>41,8</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>29,54</td>
+<td>49</td>
+<td>50</td>
+<td>40,62</td>
+</tr>
+<tr>
+<td rowspan="4">147.</td>
+<td rowspan="4">ДТ-2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>37,78</td>
+<td>49</td>
+<td>50</td>
+<td>24,7</td>
+<td rowspan="4">4,8532</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>44,69</td>
+<td>49</td>
+<td>50</td>
+<td>25,73</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>48,81</td>
+<td>49</td>
+<td>50</td>
+<td>15,09</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>41,76</td>
+<td>49</td>
+<td>50</td>
+<td>14,03</td>
+</tr>
+<tr>
+<td rowspan="4">148.</td>
+<td rowspan="4">ДТ-3</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>28,41</td>
+<td>49</td>
+<td>51</td>
+<td>36,35</td>
+<td rowspan="4">4,8538</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>34,56</td>
+<td>49</td>
+<td>51</td>
+<td>35,41</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>30,39</td>
+<td>49</td>
+<td>51</td>
+<td>23,19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>24,29</td>
+<td>49</td>
+<td>51</td>
+<td>24,23</td>
+</tr>
+<tr>
+<td rowspan="4">149.</td>
+<td rowspan="4">ДТ-4</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>14,83</td>
+<td>49</td>
+<td>51</td>
+<td>9,1</td>
+<td rowspan="4">4,7716</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>24,25</td>
+<td>49</td>
+<td>51</td>
+<td>8,72</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>23,17</td>
+<td>49</td>
+<td>51</td>
+<td>0,63</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>13,5</td>
+<td>49</td>
+<td>51</td>
+<td>1,1</td>
+</tr>
+<tr>
+<td rowspan="4">150.</td>
+<td rowspan="4">ДТ-5</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>17</td>
+<td>36,99</td>
+<td>49</td>
+<td>50</td>
+<td>50,79</td>
+<td rowspan="4">4,5655</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>17</td>
+<td>56,19</td>
+<td>49</td>
+<td>50</td>
+<td>48,82</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>17</td>
+<td>55,35</td>
+<td>49</td>
+<td>50</td>
+<td>44,96</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>17</td>
+<td>36,11</td>
+<td>49</td>
+<td>50</td>
+<td>47,14</td>
+</tr>
+<tr>
+<td rowspan="4">151.</td>
+<td rowspan="4">ДТ-6</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>17</td>
+<td>41,97</td>
+<td>49</td>
+<td>51</td>
+<td>3,16</td>
+<td rowspan="4">4,8557</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>17</td>
+<td>59,28</td>
+<td>49</td>
+<td>51</td>
+<td>1,43</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>17</td>
+<td>58,39</td>
+<td>49</td>
+<td>50</td>
+<td>56,93</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>17</td>
+<td>40,88</td>
+<td>49</td>
+<td>50</td>
+<td>58,83</td>
+</tr>
+<tr>
+<td rowspan="4">152.</td>
+<td rowspan="4">ДТ-7</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>16</td>
+<td>30,47</td>
+<td>49</td>
+<td>51</td>
+<td>17,77</td>
+<td rowspan="4">4,778</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>16</td>
+<td>43,02</td>
+<td>49</td>
+<td>51</td>
+<td>23,87</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>16</td>
+<td>48,27</td>
+<td>49</td>
+<td>51</td>
+<td>20,42</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>16</td>
+<td>35,55</td>
+<td>49</td>
+<td>51</td>
+<td>14,06</td>
+</tr>
+<tr>
+<td rowspan="4">153.</td>
+<td rowspan="4">ДТ-8</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>17</td>
+<td>38,27</td>
+<td>49</td>
+<td>51</td>
+<td>38,1</td>
+<td rowspan="4">4,7623</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>17</td>
+<td>55,29</td>
+<td>49</td>
+<td>51</td>
+<td>32,86</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>17</td>
+<td>52,07</td>
+<td>49</td>
+<td>51</td>
+<td>29,15</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>17</td>
+<td>35,41</td>
+<td>49</td>
+<td>51</td>
+<td>34,57</td>
+</tr>
+<tr>
+<td rowspan="4">154.</td>
+<td rowspan="4">ДТ-9</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>18</td>
+<td>13,06</td>
+<td>49</td>
+<td>50</td>
+<td>7,74</td>
+<td rowspan="4">4,8482</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>18</td>
+<td>20,09</td>
+<td>49</td>
+<td>49</td>
+<td>57,32</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>18</td>
+<td>13,45</td>
+<td>49</td>
+<td>49</td>
+<td>55,74</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>18</td>
+<td>6,71</td>
+<td>49</td>
+<td>50</td>
+<td>6,37</td>
+</tr>
+<tr>
+<td rowspan="4">155.</td>
+<td rowspan="4">№ 3 учаскесі</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>11</td>
+<td>50,34</td>
+<td>50</td>
+<td>04</td>
+<td>31,75</td>
+<td rowspan="4">4,16</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>11</td>
+<td>54,87</td>
+<td>50</td>
+<td>04</td>
+<td>31,58</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>11</td>
+<td>54,70</td>
+<td>50</td>
+<td>04</td>
+<td>15,99</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>11</td>
+<td>50,51</td>
+<td>50</td>
+<td>04</td>
+<td>16,25</td>
+</tr>
+<tr>
+<td rowspan="4">156.</td>
+<td rowspan="4">№ 1 учаскесі</td>
+<td rowspan="4">Жаңасемей</td>
+<td>1</td>
+<td>80</td>
+<td>12</td>
+<td>37,99</td>
+<td>50</td>
+<td>06</td>
+<td>15,55</td>
+<td rowspan="4">4,07</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>12</td>
+<td>42,43</td>
+<td>50</td>
+<td>06</td>
+<td>15,65</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>12</td>
+<td>42,99</td>
+<td>50</td>
+<td>06</td>
+<td>59,99</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>12</td>
+<td>38,94</td>
+<td>50</td>
+<td>06</td>
+<td>59,99</td>
+</tr>
+<tr>
+<td rowspan="4">157.</td>
+<td rowspan="4">№ 2 учаскесі</td>
+<td rowspan="4">Көкпекті</td>
+<td>1</td>
+<td>80</td>
+<td>10</td>
+<td>51,38</td>
+<td>50</td>
+<td>04</td>
+<td>33,19</td>
+<td rowspan="4">4,57</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>10</td>
+<td>56,16</td>
+<td>50</td>
+<td>04</td>
+<td>33,19</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>10</td>
+<td>56,39</td>
+<td>50</td>
+<td>04</td>
+<td>17,54</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>10</td>
+<td>51,64</td>
+<td>50</td>
+<td>04</td>
+<td>17,60</td>
+</tr>
+<tr>
+<td rowspan="4">158.</td>
+<td rowspan="4">2 - учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>42</td>
+<td>55</td>
+<td>49</td>
+<td>4</td>
+<td>47</td>
+<td rowspan="4">4,51</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>43</td>
+<td>3</td>
+<td>49</td>
+<td>4</td>
+<td>55</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>43</td>
+<td>9</td>
+<td>49</td>
+<td>4</td>
+<td>52</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>43</td>
+<td>1</td>
+<td>49</td>
+<td>4</td>
+<td>44</td>
+</tr>
+<tr>
+<td rowspan="4">159.</td>
+<td rowspan="4">1 - учаскесі</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>43</td>
+<td>16</td>
+<td>49</td>
+<td>5</td>
+<td>42</td>
+<td rowspan="4">4,76</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>43</td>
+<td>22</td>
+<td>49</td>
+<td>5</td>
+<td>44</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>43</td>
+<td>30</td>
+<td>49</td>
+<td>5</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>43</td>
+<td>24</td>
+<td>49</td>
+<td>5</td>
+<td>32</td>
+</tr>
+<tr>
+<td rowspan="4">160.</td>
+<td rowspan="4">Салкын Тобе</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>49</td>
+<td>49</td>
+<td>23</td>
+<td>1</td>
+<td rowspan="4">1,3711</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>47</td>
+<td>49</td>
+<td>23</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>43</td>
+<td>49</td>
+<td>23</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>45</td>
+<td>49</td>
+<td>23</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="4">161.</td>
+<td rowspan="4">№ 1 учаскесі</td>
+<td rowspan="4">Ақсуат</td>
+<td>1</td>
+<td>82</td>
+<td>2</td>
+<td>4,3748</td>
+<td>47</td>
+<td>32</td>
+<td>31,2321</td>
+<td rowspan="4">1,242378</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>2</td>
+<td>7,459</td>
+<td>47</td>
+<td>32</td>
+<td>29,1391</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>2</td>
+<td>3,5975</td>
+<td>47</td>
+<td>32</td>
+<td>25,8516</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>2</td>
+<td>0,1561</td>
+<td>47</td>
+<td>32</td>
+<td>28,0742</td>
+</tr>
+<tr>
+<td rowspan="4">162.</td>
+<td rowspan="4">Лесть 2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>38</td>
+<td>05</td>
+<td>49</td>
+<td>41</td>
+<td>39</td>
+<td rowspan="4">4,33</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>38</td>
+<td>19</td>
+<td>49</td>
+<td>41</td>
+<td>39</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>38</td>
+<td>19</td>
+<td>49</td>
+<td>41</td>
+<td>34</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>38</td>
+<td>05</td>
+<td>49</td>
+<td>41</td>
+<td>34</td>
+</tr>
+<tr>
+<td rowspan="4">163.</td>
+<td rowspan="4">Лесть 3</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>38</td>
+<td>19</td>
+<td>49</td>
+<td>41</td>
+<td>46</td>
+<td rowspan="4">4,64</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>38</td>
+<td>34</td>
+<td>49</td>
+<td>41</td>
+<td>46</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>38</td>
+<td>34</td>
+<td>49</td>
+<td>41</td>
+<td>41</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>38</td>
+<td>19</td>
+<td>49</td>
+<td>41</td>
+<td>41</td>
+</tr>
+<tr>
+<td rowspan="4">164.</td>
+<td rowspan="4">Кыстак 1</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>56</td>
+<td>49</td>
+<td>42</td>
+<td>24</td>
+<td rowspan="4">4,33</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>40</td>
+<td>10</td>
+<td>49</td>
+<td>42</td>
+<td>24</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>40</td>
+<td>10</td>
+<td>49</td>
+<td>42</td>
+<td>19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>56</td>
+<td>49</td>
+<td>42</td>
+<td>19</td>
+</tr>
+<tr>
+<td rowspan="4">165.</td>
+<td rowspan="4">Кыстак 2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>40</td>
+<td>0</td>
+<td>49</td>
+<td>42</td>
+<td>16</td>
+<td rowspan="4">4,33</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>40</td>
+<td>14</td>
+<td>49</td>
+<td>42</td>
+<td>16</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>40</td>
+<td>14</td>
+<td>49</td>
+<td>42</td>
+<td>11</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>40</td>
+<td>0</td>
+<td>49</td>
+<td>42</td>
+<td>11</td>
+</tr>
+<tr>
+<td rowspan="4">166.</td>
+<td rowspan="4">Кыстак 3</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>81</td>
+<td>39</td>
+<td>20</td>
+<td>49</td>
+<td>42</td>
+<td>17</td>
+<td rowspan="4">4,83</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>81</td>
+<td>39</td>
+<td>33</td>
+<td>49</td>
+<td>42</td>
+<td>17</td>
+</tr>
+<tr>
+<td>3</td>
+<td>81</td>
+<td>39</td>
+<td>33</td>
+<td>49</td>
+<td>42</td>
+<td>11</td>
+</tr>
+<tr>
+<td>4</td>
+<td>81</td>
+<td>39</td>
+<td>20</td>
+<td>49</td>
+<td>42</td>
+<td>11</td>
+</tr>
+<tr>
+<td rowspan="4">167.</td>
+<td rowspan="4">Кародонгал-1</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>14</td>
+<td>15,66</td>
+<td>49</td>
+<td>17</td>
+<td>51,29</td>
+<td rowspan="4">4,085037</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>14</td>
+<td>12,78</td>
+<td>49</td>
+<td>17</td>
+<td>54,31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>13</td>
+<td>57,02</td>
+<td>49</td>
+<td>17</td>
+<td>47,97</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>13</td>
+<td>59,87</td>
+<td>49</td>
+<td>17</td>
+<td>44,99</td>
+</tr>
+<tr>
+<td rowspan="4">168.</td>
+<td rowspan="4">Кародонгал-2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>15</td>
+<td>56,82</td>
+<td>49</td>
+<td>20</td>
+<td>37,57</td>
+<td rowspan="4">4,718459</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>15</td>
+<td>55,34</td>
+<td>49</td>
+<td>20</td>
+<td>41,4</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>15</td>
+<td>36,7</td>
+<td>49</td>
+<td>20</td>
+<td>38,32</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>15</td>
+<td>38,18</td>
+<td>49</td>
+<td>20</td>
+<td>34,52</td>
+</tr>
+<tr>
+<td rowspan="4">169.</td>
+<td rowspan="4">Кародонгал-4</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>13</td>
+<td>12,22</td>
+<td>49</td>
+<td>17</td>
+<td>40,63</td>
+<td rowspan="4">4,327187</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>13</td>
+<td>10,87</td>
+<td>49</td>
+<td>17</td>
+<td>42,28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>12</td>
+<td>38,09</td>
+<td>49</td>
+<td>17</td>
+<td>31,19</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>12</td>
+<td>39,42</td>
+<td>49</td>
+<td>17</td>
+<td>29,52</td>
+</tr>
+<tr>
+<td rowspan="4">170.</td>
+<td rowspan="4">Кародонгал-5</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>12</td>
+<td>29,11</td>
+<td>49</td>
+<td>19</td>
+<td>52</td>
+<td rowspan="4">4,612924</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>12</td>
+<td>26,85</td>
+<td>49</td>
+<td>19</td>
+<td>54,87</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>12</td>
+<td>6,37</td>
+<td>49</td>
+<td>19</td>
+<td>48,02</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>12</td>
+<td>8,64</td>
+<td>49</td>
+<td>19</td>
+<td>45,18</td>
+</tr>
+<tr>
+<td rowspan="4">171.</td>
+<td rowspan="4">Кародонгал-6</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>13</td>
+<td>18,14</td>
+<td>49</td>
+<td>20</td>
+<td>18,84</td>
+<td rowspan="4">4,628999</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>13</td>
+<td>13,95</td>
+<td>49</td>
+<td>20</td>
+<td>20,59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>13</td>
+<td>1,6</td>
+<td>49</td>
+<td>20</td>
+<td>7,94</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>13</td>
+<td>5,76</td>
+<td>49</td>
+<td>20</td>
+<td>6,22</td>
+</tr>
+<tr>
+<td rowspan="4">172.</td>
+<td rowspan="4">Кародонгал-7</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>12</td>
+<td>15,88</td>
+<td>49</td>
+<td>18</td>
+<td>14,35</td>
+<td rowspan="4">4,623007</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>12</td>
+<td>12,23</td>
+<td>49</td>
+<td>18</td>
+<td>16,51</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>11</td>
+<td>56,78</td>
+<td>49</td>
+<td>18</td>
+<td>5,4</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>12</td>
+<td>0,46</td>
+<td>49</td>
+<td>18</td>
+<td>3,24</td>
+</tr>
+<tr>
+<td rowspan="4">173.</td>
+<td rowspan="4">Кародонгал-8</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>17</td>
+<td>20,61</td>
+<td>49</td>
+<td>19</td>
+<td>23,21</td>
+<td rowspan="4">4,571423</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>17</td>
+<td>17,43</td>
+<td>49</td>
+<td>19</td>
+<td>25,67</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>17</td>
+<td>0</td>
+<td>49</td>
+<td>19</td>
+<td>16,16</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>17</td>
+<td>3,19</td>
+<td>49</td>
+<td>19</td>
+<td>13,69</td>
+</tr>
+<tr>
+<td rowspan="4">174.</td>
+<td rowspan="4">Кародонгал-9</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>10</td>
+<td>32,39</td>
+<td>49</td>
+<td>16</td>
+<td>13,69</td>
+<td rowspan="4">2,203272</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>10</td>
+<td>30,57</td>
+<td>49</td>
+<td>16</td>
+<td>16,65</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>10</td>
+<td>20,36</td>
+<td>49</td>
+<td>16</td>
+<td>14,04</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>10</td>
+<td>22,18</td>
+<td>49</td>
+<td>16</td>
+<td>11,03</td>
+</tr>
+<tr>
+<td rowspan="4">175.</td>
+<td rowspan="4">Кародонгал-10</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>82</td>
+<td>16</td>
+<td>29,6</td>
+<td>49</td>
+<td>21</td>
+<td>14,09</td>
+<td rowspan="4">3,969301</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>82</td>
+<td>16</td>
+<td>26,21</td>
+<td>49</td>
+<td>21</td>
+<td>16,19</td>
+</tr>
+<tr>
+<td>3</td>
+<td>82</td>
+<td>16</td>
+<td>12,25</td>
+<td>49</td>
+<td>21</td>
+<td>6,29</td>
+</tr>
+<tr>
+<td>4</td>
+<td>82</td>
+<td>16</td>
+<td>15,86</td>
+<td>49</td>
+<td>21</td>
+<td>4,2</td>
+</tr>
+<tr>
+<td rowspan="4">176.</td>
+<td rowspan="4">Муздыбай-2</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>41</td>
+<td>18</td>
+<td>50</td>
+<td>21</td>
+<td>25</td>
+<td rowspan="4">3,97</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>41</td>
+<td>31</td>
+<td>50</td>
+<td>21</td>
+<td>25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>41</td>
+<td>31</td>
+<td>50</td>
+<td>21</td>
+<td>20</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>41</td>
+<td>18</td>
+<td>50</td>
+<td>21</td>
+<td>20</td>
+</tr>
+<tr>
+<td rowspan="4">177.</td>
+<td rowspan="4">Муздыбай-3</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>40</td>
+<td>58</td>
+<td>50</td>
+<td>21</td>
+<td>18</td>
+<td rowspan="4">4,58</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>41</td>
+<td>13</td>
+<td>50</td>
+<td>21</td>
+<td>18</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>41</td>
+<td>13</td>
+<td>50</td>
+<td>21</td>
+<td>13</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>40</td>
+<td>58</td>
+<td>50</td>
+<td>21</td>
+<td>13</td>
+</tr>
+<tr>
+<td rowspan="4">178.</td>
+<td rowspan="4">Муздыбай-4</td>
+<td rowspan="4">Жарма</td>
+<td>1</td>
+<td>80</td>
+<td>41</td>
+<td>16</td>
+<td>50</td>
+<td>21</td>
+<td>17</td>
+<td rowspan="4">4,27</td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>2</td>
+<td>80</td>
+<td>41</td>
+<td>30</td>
+<td>50</td>
+<td>21</td>
+<td>17</td>
+</tr>
+<tr>
+<td>3</td>
+<td>80</td>
+<td>41</td>
+<td>30</td>
+<td>50</td>
+<td>21</td>
+<td>12</td>
+</tr>
+<tr>
+<td>4</td>
+<td>80</td>
+<td>41</td>
+<td>16</td>
+<td>50</td>
+<td>21</td>
+<td>12</td>
 </tr>
 </table>
