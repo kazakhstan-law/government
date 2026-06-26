@@ -1,0 +1,25 @@
+key: G26UD00725A
+akn: /akn/kz/act/2026-06-26/G26UD00725A
+act_code: '228133'
+requisite: Постановление акимата города Туркестан Туркестанской области от 26 июня 2026 года № 725
+title:
+  rus: Об утверждении дизайн-кода города Туркестан
+  kaz: Түркістан қаласының дизайн-кодын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-06-26
+in_force_from: 2026-07-01
+approved_by:
+- '166015000001'
+versions:
+- date: 2026-06-26
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-06-26
+  rus: 2026-06-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/228133/kaz/26.06.2026
+  rus: https://zan.gov.kz/client/#!/doc/228133/rus/26.06.2026
