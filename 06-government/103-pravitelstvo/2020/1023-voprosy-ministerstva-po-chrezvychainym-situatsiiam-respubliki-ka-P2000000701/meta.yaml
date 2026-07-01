@@ -332,12 +332,19 @@ versions:
   cause:
     code: '226745'
     key: P2600000526
+- date: 2026-07-01
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '226745'
+    key: P2600000526
 version_date:
-  kaz: 2026-06-22
-  rus: 2026-06-22
+  kaz: 2026-07-01
+  rus: 2026-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/147742/kaz/22.06.2026
-  rus: https://zan.gov.kz/client/#!/doc/147742/rus/22.06.2026
+  kaz: https://zan.gov.kz/client/#!/doc/147742/kaz/01.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/147742/rus/01.07.2026
 caused_by:
   code: '226745'
   key: P2600000526
