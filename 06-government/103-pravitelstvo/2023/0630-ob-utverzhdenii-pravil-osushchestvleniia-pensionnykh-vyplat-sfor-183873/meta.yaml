@@ -11,11 +11,11 @@ approved_on: 2023-06-30
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2026-05-21
-  rus: 2026-05-21
+  kaz: 2026-07-01
+  rus: 2026-07-01
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/183873/kaz/21.05.2026
-  rus: https://zan.gov.kz/client/#!/doc/183873/rus/21.05.2026
+  kaz: https://zan.gov.kz/client/#!/doc/183873/kaz/01.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/183873/rus/01.07.2026
 caused_by:
   code: '225550'
   requisite: Постановление Правительства Республики Казахстан от 21 мая 2026 года № 422
