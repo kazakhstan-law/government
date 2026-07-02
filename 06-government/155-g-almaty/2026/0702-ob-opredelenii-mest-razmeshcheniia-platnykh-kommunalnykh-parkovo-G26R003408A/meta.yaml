@@ -1,0 +1,25 @@
+key: G26R003408A
+akn: /akn/kz/act/2026-07-02/G26R003408A
+act_code: '227274'
+requisite: Постановление акимата города Алматы от 2 июля 2026 года № 3/408
+title:
+  rus: Об определении мест размещения платных коммунальных парковок в городе Алматы
+  kaz: Алматы қаласында ақылы коммуналдық орынтұрақтарды орналастыру орындарын айқындау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-07-02
+in_force_from: 2026-07-15
+approved_by:
+- '155000000001'
+versions:
+- date: 2026-07-02
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-07-02
+  rus: 2026-07-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/227274/kaz/02.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/227274/rus/02.07.2026
