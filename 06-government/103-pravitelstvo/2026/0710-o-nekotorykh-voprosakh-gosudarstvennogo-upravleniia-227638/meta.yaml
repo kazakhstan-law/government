@@ -1,0 +1,17 @@
+act_code: '227638'
+requisite: Постановление Правительства Республики Казахстан от 10 июля 2026 года № 604
+title:
+  rus: О некоторых вопросах государственного управления
+  kaz: Мемлекеттік басқарудың кейбір мәселелері туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-07-10
+approved_by:
+- '103000000000'
+version_date:
+  kaz: 2026-07-10
+  rus: 2026-07-10
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/227638/kaz/10.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/227638/rus/10.07.2026
