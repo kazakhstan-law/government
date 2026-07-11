@@ -11,11 +11,11 @@ approved_on: 2008-01-25
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2026-03-12
-  rus: 2026-03-12
+  kaz: 2026-07-11
+  rus: 2026-07-11
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/37362/kaz/12.03.2026
-  rus: https://zan.gov.kz/client/#!/doc/37362/rus/12.03.2026
+  kaz: https://zan.gov.kz/client/#!/doc/37362/kaz/11.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/37362/rus/11.07.2026
 caused_by:
   code: '223083'
   requisite: Постановление Правительства Республики Казахстан от 12 марта 2026 года № 165
