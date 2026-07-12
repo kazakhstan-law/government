@@ -11,11 +11,11 @@ approved_on: 2025-07-29
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/212873/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/212873/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/212873/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/212873/rus/12.07.2026
 caused_by:
   code: '224722'
   requisite: Постановление Правительства Республики Казахстан от 27 апреля 2026 года № 335
