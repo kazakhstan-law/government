@@ -102,12 +102,19 @@ versions:
   cause:
     code: '223418'
     key: V2600038279
+- date: 2026-07-12
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '223418'
+    key: V2600038279
 version_date:
-  kaz: 2026-07-01
-  rus: 2026-07-01
+  kaz: 2026-07-12
+  rus: 2026-07-12
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/136655/kaz/01.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/136655/rus/01.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/136655/kaz/12.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/136655/rus/12.07.2026
 caused_by:
   code: '223418'
   key: V2600038279
