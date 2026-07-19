@@ -89,12 +89,19 @@ versions:
   cause:
     code: '224896'
     key: V2600038624
+- date: 2026-07-19
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '224896'
+    key: V2600038624
 version_date:
-  kaz: 2026-07-12
-  rus: 2026-07-12
+  kaz: 2026-07-19
+  rus: 2026-07-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/106982/kaz/12.07.2026
-  rus: https://zan.gov.kz/client/#!/doc/106982/rus/12.07.2026
+  kaz: https://zan.gov.kz/client/#!/doc/106982/kaz/19.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/106982/rus/19.07.2026
 caused_by:
   code: '224896'
   key: V2600038624
