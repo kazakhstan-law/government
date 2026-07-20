@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/211536/rus/19.06.2025
+source: https://zan.gov.kz/client/#!/doc/211536/rus/20.07.2026
 ---
 
 # Об утверждении Регламента аппарата акима города Кентау
