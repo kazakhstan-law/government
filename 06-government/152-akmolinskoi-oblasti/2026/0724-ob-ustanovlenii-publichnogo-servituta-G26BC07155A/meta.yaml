@@ -1,0 +1,25 @@
+key: G26BC07155A
+akn: /akn/kz/act/2026-07-24/G26BC07155A
+act_code: '228363'
+requisite: Постановление акимата Аккольского района Акмолинской области от 24 июля 2026 года № А-7/155
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитутты белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-07-24
+in_force_from: 2026-08-14
+approved_by:
+- '152004000001'
+versions:
+- date: 2026-07-24
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-07-24
+  rus: 2026-07-24
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/228363/kaz/24.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/228363/rus/24.07.2026
