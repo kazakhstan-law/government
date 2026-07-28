@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/182474/kaz/02.06.2023
   rus: https://zan.gov.kz/client/#!/doc/182474/rus/02.06.2023
+repealed_on: 2026-08-15
+repealed_by:
+  code: '228410'
+  key: G26UO00295B
+  requisite: Постановление акимата Шардаринского районного Туркестанской области от 28 июля 2026 года № 295
+  title:
+    rus: Об утверждении Правил предоставление коммунальных услуг
+    kaz: Коммуналдық көрсетілетін қызметтерді ұсыну қағидаларын бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/228410/rus
