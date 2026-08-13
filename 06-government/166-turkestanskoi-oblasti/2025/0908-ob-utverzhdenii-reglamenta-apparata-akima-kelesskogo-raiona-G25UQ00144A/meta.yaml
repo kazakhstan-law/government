@@ -23,3 +23,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/214373/kaz/08.09.2025
   rus: https://zan.gov.kz/client/#!/doc/214373/rus/08.09.2025
+repealed_on: 2026-08-17
+repealed_by:
+  code: '228940'
+  key: G26UQ00184A
+  requisite: Постановление акимата Келесского района Туркестанской области от 13 августа 2026 года № 184
+  title:
+    rus: О признании утратившими силу некоторых постановлений акимата Келесского района
+    kaz: Келес ауданы әкімдігінің кейбір қаулыларының күші жойылды деп тану туралы
+  link: https://zan.gov.kz/client/#!/doc/228940/rus
