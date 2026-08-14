@@ -25,17 +25,25 @@ versions:
   cause:
     code: '221424'
     key: G26PC00121A
+- date: 2026-08-14
+  portal_date: 2026-07-24
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '228183'
+    key: G26PC05257A
 version_date:
-  kaz: 2026-01-16
-  rus: 2026-01-16
+  kaz: 2026-07-24
+  rus: 2026-07-24
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/169648/kaz/16.01.2026
-  rus: https://zan.gov.kz/client/#!/doc/169648/rus/16.01.2026
+  kaz: https://zan.gov.kz/client/#!/doc/169648/kaz/24.07.2026
+  rus: https://zan.gov.kz/client/#!/doc/169648/rus/24.07.2026
 caused_by:
-  code: '221424'
-  key: G26PC00121A
-  requisite: Постановление акимата города Экибастуза Павлодарской области от 16 января 2026 года № 12/1
+  code: '228183'
+  key: G26PC05257A
+  requisite: Постановление акимата города Экибастуза Павлодарской области от 24 июля 2026 года № 525/7
   title:
     rus: О внесении изменений в Положение о государственном учреждении «Отдел предпринимательства акимата города Экибастуза»
     kaz: «Екібастұз қаласы әкімдігінің кәсіпкерлік бөлімі» мемлекеттік мекемесі туралы Ережеге өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/221424/rus
+  link: https://zan.gov.kz/client/#!/doc/228183/rus
