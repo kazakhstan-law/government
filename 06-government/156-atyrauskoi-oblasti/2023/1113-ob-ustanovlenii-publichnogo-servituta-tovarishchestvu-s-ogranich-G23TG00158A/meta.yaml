@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/188487/kaz/13.11.2023
   rus: https://zan.gov.kz/client/#!/doc/188487/rus/13.11.2023
+repealed_on: 2026-08-24
+repealed_by:
+  code: '229159'
+  key: G26TG00151A
+  requisite: Постановление акимата Макатского района Атырауской области от 18 августа 2026 года № 151
+  title:
+    rus: Об установлении публичного сервитута
+    kaz: Қауымдық сервитут белгілеу туралы
+  link: https://zan.gov.kz/client/#!/doc/229159/rus
