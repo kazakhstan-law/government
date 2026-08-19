@@ -11,8 +11,15 @@ approved_on: 2013-10-05
 approved_by:
 - '103000000000'
 version_date:
-  kaz: 2013-10-05
-  rus: 2013-10-05
+  kaz: 2026-08-19
+  rus: 2026-08-19
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/74614/kaz/05.10.2013
-  rus: https://zan.gov.kz/client/#!/doc/74614/rus/05.10.2013
+  kaz: https://zan.gov.kz/client/#!/doc/74614/kaz/19.08.2026
+  rus: https://zan.gov.kz/client/#!/doc/74614/rus/19.08.2026
+caused_by:
+  code: '229090'
+  requisite: Постановление Правительства Республики Казахстан от 19 августа 2026 года № 739
+  title:
+    rus: О внесении изменений в некоторые решения Правительства Республики Казахстан
+    kaz: Қазақстан Республикасы Үкіметінің кейбір шешімдеріне өзгерістер енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/229090/rus
