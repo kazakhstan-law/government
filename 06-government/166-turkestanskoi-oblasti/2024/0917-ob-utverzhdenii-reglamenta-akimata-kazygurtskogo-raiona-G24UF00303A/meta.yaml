@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/200831/kaz/17.09.2024
   rus: https://zan.gov.kz/client/#!/doc/200831/rus/17.09.2024
+repealed_on: 2026-09-06
+repealed_by:
+  code: '229282'
+  key: G26UF00197A
+  requisite: Постановление акимата Казыгуртского района Туркестанской области от 24 августа 2026 года № 197
+  title:
+    rus: Об утверждении Регламента акимата Казыгуртского района
+    kaz: Қазығұрт ауданы әкімдігінің Регламентін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/229282/rus
