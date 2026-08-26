@@ -1,0 +1,25 @@
+key: G26BA08907A
+akn: /akn/kz/act/2026-08-26/G26BA08907A
+act_code: '230243'
+requisite: Постановление акимата города Кокшетау Акмолинской области от 26 августа 2026 года № A-8/907
+title:
+  rus: Об установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-08-26
+in_force_from: 2026-08-26
+approved_by:
+- '152002000001'
+versions:
+- date: 2026-08-26
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-08-26
+  rus: 2026-08-26
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/230243/kaz/26.08.2026
+  rus: https://zan.gov.kz/client/#!/doc/230243/rus/26.08.2026
