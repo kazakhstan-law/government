@@ -1,0 +1,25 @@
+key: G26DG00315A
+akn: /akn/kz/act/2026-08-27/G26DG00315A
+act_code: '229497'
+requisite: Постановление акимата Жамбылского района Алматинской области от 27 августа 2026 года № 315
+title:
+  rus: Об утверждении Правил предоставления коммунальных услуг
+  kaz: Коммуналдық көрсетілетін қызметтерді ұсыну қағидаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-08-27
+in_force_from: 2026-09-13
+approved_by:
+- '154018000001'
+versions:
+- date: 2026-08-27
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-08-27
+  rus: 2026-08-27
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229497/kaz/27.08.2026
+  rus: https://zan.gov.kz/client/#!/doc/229497/rus/27.08.2026
