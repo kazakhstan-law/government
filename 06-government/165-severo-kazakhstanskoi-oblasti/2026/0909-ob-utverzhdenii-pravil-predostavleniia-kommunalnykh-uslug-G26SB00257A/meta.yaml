@@ -1,0 +1,26 @@
+key: G26SB00257A
+akn: /akn/kz/act/2026-09-09/G26SB00257A
+act_code: '229881'
+requisite: Постановление акимата Аккайынского района Северо-Казахстанской области от 09 сентября 2026 года № 257
+title:
+  rus: Об утверждении Правил предоставления коммунальных услуг
+  kaz: Коммуналдық көрсетілетін қызметтерді ұсынудың қағидаларын бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРАВ
+approved_on: 2026-09-09
+in_force_from: 2026-09-25
+approved_by:
+- '165005000001'
+versions:
+- date: 2026-09-09
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-09-09
+  rus: 2026-09-09
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/229881/kaz/09.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/229881/rus/09.09.2026
