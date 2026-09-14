@@ -68,12 +68,19 @@ versions:
   cause:
     code: '229409'
     key: V2600039714
+- date: 2026-09-14
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '229409'
+    key: V2600039714
 version_date:
-  kaz: 2026-08-27
-  rus: 2026-08-27
+  kaz: 2026-09-14
+  rus: 2026-09-14
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/107026/kaz/27.08.2026
-  rus: https://zan.gov.kz/client/#!/doc/107026/rus/27.08.2026
+  kaz: https://zan.gov.kz/client/#!/doc/107026/kaz/14.09.2026
+  rus: https://zan.gov.kz/client/#!/doc/107026/rus/14.09.2026
 caused_by:
   code: '229409'
   key: V2600039714
