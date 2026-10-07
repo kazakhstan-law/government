@@ -1,0 +1,26 @@
+key: G26IF00413A
+akn: /akn/kz/act/2026-10-07/G26IF00413A
+act_code: '231401'
+requisite: Постановление акимата Каратальского района области Жетісу от 7 октября 2026 года № 413
+title:
+  rus: Об утверждении регламента акимата Каратальского района
+  kaz: Қаратал ауданы әкімдігінің регламентін бекіту туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- РЕГЛ
+approved_on: 2026-10-07
+in_force_from: 2026-10-23
+approved_by:
+- '170007000001'
+versions:
+- date: 2026-10-07
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-10-07
+  rus: 2026-10-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/231401/kaz/07.10.2026
+  rus: https://zan.gov.kz/client/#!/doc/231401/rus/07.10.2026
