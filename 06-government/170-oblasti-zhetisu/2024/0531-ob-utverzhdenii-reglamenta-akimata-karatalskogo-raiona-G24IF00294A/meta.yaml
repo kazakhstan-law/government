@@ -22,3 +22,12 @@ version_date:
 source:
   kaz: https://zan.gov.kz/client/#!/doc/197513/kaz/31.05.2024
   rus: https://zan.gov.kz/client/#!/doc/197513/rus/31.05.2024
+repealed_on: 2026-10-23
+repealed_by:
+  code: '231401'
+  key: G26IF00413A
+  requisite: Постановление акимата Каратальского района области Жетісу от 7 октября 2026 года № 413
+  title:
+    rus: Об утверждении регламента акимата Каратальского района
+    kaz: Қаратал ауданы әкімдігінің регламентін бекіту туралы
+  link: https://zan.gov.kz/client/#!/doc/231401/rus
