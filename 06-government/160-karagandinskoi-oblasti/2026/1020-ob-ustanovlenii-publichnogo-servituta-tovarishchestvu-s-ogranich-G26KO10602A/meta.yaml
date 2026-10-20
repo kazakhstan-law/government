@@ -1,0 +1,25 @@
+key: G26KO10602A
+akn: /akn/kz/act/2026-10-20/G26KO10602A
+act_code: '231867'
+requisite: Постановление акимата Осакаровского района Карагандинской области от 20 октября 2026 года № 106/02
+title:
+  rus: Об установлении публичного сервитута товариществу с ограниченной ответственностью «QazGeology»
+  kaz: «QazGeology» жауапкершiлiгi шектеулі серiктестiгiне қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-10-20
+in_force_from: 2026-11-01
+approved_by:
+- '160018000001'
+versions:
+- date: 2026-10-20
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-10-20
+  rus: 2026-10-20
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/231867/kaz/20.10.2026
+  rus: https://zan.gov.kz/client/#!/doc/231867/rus/20.10.2026
