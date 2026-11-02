@@ -1,0 +1,25 @@
+key: G26CK00184A
+akn: /akn/kz/act/2026-11-02/G26CK00184A
+act_code: '232315'
+requisite: Постановление акимата Уилского района Актюбинской области от 2 ноября 2026 года № 184
+title:
+  rus: О установлении публичного сервитута
+  kaz: Қауымдық сервитут белгілеу туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+approved_on: 2026-11-02
+in_force_from: 2026-11-11
+approved_by:
+- '153011000001'
+versions:
+- date: 2026-11-02
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-11-02
+  rus: 2026-11-02
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/232315/kaz/02.11.2026
+  rus: https://zan.gov.kz/client/#!/doc/232315/rus/02.11.2026
