@@ -1,0 +1,26 @@
+key: G26BC11248A
+akn: /akn/kz/act/2026-11-03/G26BC11248A
+act_code: '232250'
+requisite: Постановление акимата Аккольского района Акмолинской области от 3 ноября 2026 года № А-11/248
+title:
+  rus: Об определении перечня приоритетных направлений расходов районного бюджета
+  kaz: Аудандық бюджет шығыстарының басым бағыттарының тізбесін айқындау туралы
+form: ПОСТ
+type_codes:
+- ПОСТ
+- ПРЧ
+approved_on: 2026-11-03
+in_force_from: 2026-11-09
+approved_by:
+- '152004000001'
+versions:
+- date: 2026-11-03
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-11-03
+  rus: 2026-11-03
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/232250/kaz/03.11.2026
+  rus: https://zan.gov.kz/client/#!/doc/232250/rus/03.11.2026
