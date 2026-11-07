@@ -1,0 +1,26 @@
+key: P2600000998
+akn: /akn/kz/act/2026-11-07/P2600000998
+act_code: '232310'
+requisite: Постановление Правительства Республики Казахстан от 7 ноября 2026 года № 998
+title:
+  rus: О создании специальной экономической зоны «Семей»
+  kaz: «Семей» арнайы экономикалық аймағын құру туралы
+form: ПОСТ
+type_codes:
+- ПОЛ
+- ПОСТ
+approved_on: 2026-11-07
+in_force_from: 2026-11-07
+approved_by:
+- '103000000000'
+versions:
+- date: 2026-11-07
+  languages:
+  - kaz
+  - rus
+version_date:
+  kaz: 2026-11-07
+  rus: 2026-11-07
+source:
+  kaz: https://zan.gov.kz/client/#!/doc/232310/kaz/07.11.2026
+  rus: https://zan.gov.kz/client/#!/doc/232310/rus/07.11.2026
