@@ -19,12 +19,13 @@
 **Н.Ноғаев**
 
 > *Маңғыстау облысы әкімдігінің*  
-> *2023 жылғы «7» қыркүйектегі*  
-> *№137 қаулысына қосымша*
+> *2023 жылғы «07» қыркүйектегі*  
+> *№ 137 қаулысына*  
+> *қосымша*
 
 ## Карантиндік режимді енгізілген карантиндік аймақ
 
-> *Ескерту. Қосымша жаңа редакцияда - Маңғыстау облысы әкімдігінің 05.09.2025 № 187 (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі) қаулысымен.*
+> *Ескерту. Қосымша жаңа редакцияда - Маңғыстау облысы әкімдігінің 05.09.2025 № 187 (алғашқы ресми жарияланған күннен бастап қолданысқа енгізіледі); 11.11.2026 № 206 (оның алғашқы ресми жарияланған күнінен бастап қолданысқа енгізіледі) қаулыларымен.*
 
 <table>
 <tr>
@@ -35,7 +36,7 @@
 <td>Зақымдалған алаң, гектар</td>
 </tr>
 <tr>
-<td rowspan="19">Бейнеу ауданы</td>
+<td rowspan="17">Бейнеу ауданы</td>
 <td rowspan="2">Ақжігіт</td>
 <td>&quot;Ақжігіт&quot; ауыл іші</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -58,15 +59,10 @@
 <td>0,0084</td>
 </tr>
 <tr>
-<td rowspan="6">Бейнеу</td>
+<td rowspan="5">Бейнеу</td>
 <td>&quot;Ескі Бейнеу&quot; жайлымдық жері</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,001</td>
-</tr>
-<tr>
-<td>Д. Тәжіұлы атындағы көше жағалауы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,002</td>
 </tr>
 <tr>
 <td>&quot;Жібек жолы&quot; ЖШС аумағы</td>
@@ -84,9 +80,9 @@
 <td>0,003</td>
 </tr>
 <tr>
-<td>Маңғыстау облысының білім басқармасының Бейнеу ауданы бойынша білім бөлімінің &quot;Бейнеу лицейі&quot; коммуналдық мемлекеттік мекемесі аумағы</td>
+<td>«Есенғали» орманы</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>0,004</td>
+<td>0,0338</td>
 </tr>
 <tr>
 <td>Боранқұл</td>
@@ -104,46 +100,50 @@
 <td>Жиынтығы</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1,1422</td>
+<td>1,17</td>
 </tr>
 <tr>
-<td rowspan="5">Бейнеу</td>
+<td rowspan="4">Бейнеу</td>
 <td>Ер Қосай көшесінің жағалауы</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,014</td>
 </tr>
 <tr>
-<td>
-Маңғыстау облысының білім басқармасының Бейнеу ауданы бойынша білім бөлімінің
-&quot;Ы. Алтынсарин атындағы жалпы білім беретін мектеп&quot; коммуналдық мемлекеттік мекемесі аумағы
-</td>
-<td>Cuscuta sp.sp</td>
-<td>0,33</td>
-</tr>
-<tr>
 <td>Маңғыстау облысының білім басқармасының Бейнеу ауданы бойынша білім бөлімінің &quot;Жұмағали Қалдығараев атындағы жалпы білім беретін мектеп&quot; коммуналдық мемлекеттік мекемесі аумағы</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,034</td>
 </tr>
 <tr>
 <td>Маңғыстау облысының білім басқармасының Бейнеу ауданы бойынша білім бөлімінің &quot;Бейнеу лицейі&quot; коммуналдық мемлекеттік мекемесі аумағы</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,08</td>
 </tr>
 <tr>
 <td>Маңғыстау облысының білім басқармасының Бейнеу ауданы бойынша білім бөлімінің &quot;Бейнеу гимназиясы&quot; коммуналдық мемлекеттік мекемесі аумағы</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,01</td>
 </tr>
 <tr>
 <td>Жиынтығы</td>
 <td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,468</td>
+<td>Cuscuta sp.​sp</td>
+<td>0,138</td>
 </tr>
 <tr>
-<td rowspan="6">Қарақия ауданы</td>
-<td rowspan="4">Құрық</td>
+<td rowspan="8">Қарақия ауданы</td>
+<td>Трасса Жаңаөзен - Ақтау</td>
+<td>Жол бойы (17км)</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>Жиынтығы</td>
+<td></td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td rowspan="5">Құрық</td>
 <td>&quot;Рысбек&quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
 <td>1,5</td>
@@ -151,20 +151,19 @@
 <tr>
 <td>&quot;Дәулет&quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
-<td>1,5</td>
+<td>1</td>
 </tr>
 <tr>
 <td>&quot;Еңбек&quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
-<td>4</td>
+<td>1</td>
 </tr>
 <tr>
 <td>&quot;Жаңбыршы&quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>&quot;Нысанәлі&quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
 <td>2</td>
@@ -173,38 +172,32 @@
 <td>Жиынтығы</td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>10</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td rowspan="3">Мұнайлы ауданы</td>
 <td rowspan="2">Мұнайлы</td>
-<td>“Айкүн” ШҚ аумағы</td>
+<td>«Жеке Батыр»</td>
 <td>Tuta absoluta</td>
-<td>0,07</td>
+<td>2</td>
 </tr>
 <tr>
 <td>&quot; Анар &quot; ШҚ аумағы</td>
 <td>Tuta absoluta</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Жиынтығы</td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>1,07</td>
+<td>4</td>
 </tr>
 <tr>
-<td rowspan="32">Ақтау қаласы</td>
+<td rowspan="18">Ақтау қаласы</td>
 <td>Шығыс-3</td>
 <td>автокөлік жол бойы</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,001</td>
-</tr>
-<tr>
-<td>29 шағын аудан</td>
-<td>автокөлік жол бойы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,3</td>
 </tr>
 <tr>
 <td>16 шағын аудан</td>
@@ -219,34 +212,16 @@
 <td>0,01</td>
 </tr>
 <tr>
-<td>2 шағын аудан</td>
+<td>4а шағын аудан</td>
 <td>&quot;Ақбота&quot; саябағы аумағы</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>22 шағын аудан</td>
 <td>автокөлік жол бойы</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,022</td>
-</tr>
-<tr>
-<td>21 шағын аудан</td>
-<td>37/1 үй маңы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td>29а шағын аудан</td>
-<td>автокөлік жол бойы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,01</td>
-</tr>
-<tr>
-<td>31а шағын аудан</td>
-<td>автокөлік жол бойы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>25 шағын аудан</td>
@@ -264,13 +239,13 @@
 <td>Жиынтығы</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1,6931</td>
+<td>1,0731</td>
 </tr>
 <tr>
 <td>9 шағын аудан</td>
 <td>автокөлік жол бойы</td>
 <td rowspan="2">Pseudococcus comstocki kuw</td>
-<td rowspan="2">0,06</td>
+<td rowspan="2">0,05</td>
 </tr>
 <tr>
 <td>26 шағын аудан</td>
@@ -280,7 +255,7 @@
 <td>13 шағын аудан</td>
 <td>24, 50, 52 үйлер маңы</td>
 <td rowspan="7">Pseudococcus comstocki kuw</td>
-<td rowspan="7">0,0602</td>
+<td rowspan="7">0,0702</td>
 </tr>
 <tr>
 <td>14 шағын аудан</td>
@@ -313,74 +288,26 @@
 <td>0,1202</td>
 </tr>
 <tr>
-<td>29 шағын аудан</td>
-<td>202 үй маңы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,008</td>
+<td rowspan="8">Жаңаөзен қаласы</td>
+<td>Жұлдыз ш/а, Жыңғылды көшесі</td>
+<td>21 мектеп алды</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>0,024</td>
 </tr>
 <tr>
-<td>30 шағын аудан</td>
-<td>80,83,157,133/1 үйлер маңы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,009</td>
+<td>Нәсіпқали Марабаев көшесі</td>
+<td>GRANDTAU және Нұрдаулет тойханаларының алды</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>0,018</td>
 </tr>
 <tr>
-<td>&quot;Толкын-1&quot; шағын аудан</td>
-<td>24,48,98,115 үйлер маңы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,008</td>
-</tr>
-<tr>
-<td>22 шағын аудан</td>
-<td>Арыстан арена жолы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,02</td>
-</tr>
-<tr>
-<td>30 шағын аудан</td>
-<td>Kazfruit жолы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,012</td>
-</tr>
-<tr>
-<td>21 шағын аудан</td>
-<td>37/1</td>
-<td>Cuscuta sp.sp</td>
-<td>0,03</td>
-</tr>
-<tr>
-<td>База ОРС</td>
-<td>Темір жол өткелі</td>
-<td>Cuscuta sp.sp</td>
-<td>0,068</td>
-</tr>
-<tr>
-<td>Промзона</td>
-<td>Промзона 3</td>
-<td>Cuscuta sp.sp</td>
-<td>0,0015</td>
-</tr>
-<tr>
-<td>Өмірзақ</td>
-<td>Өмірзақ жолы</td>
-<td>Cuscuta sp.sp</td>
-<td>0,015</td>
-</tr>
-<tr>
-<td>Жиынтығы</td>
-<td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,1715</td>
-</tr>
-<tr>
-<td rowspan="6">Жаңаөзен қаласы</td>
 <td>3 шағын аудан</td>
 <td>&quot;Мұнайшы&quot; мәдениет үйі ғимарат маңы</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,011</td>
 </tr>
 <tr>
-<td>3а</td>
+<td>3а шағын аудан</td>
 <td>&quot;Халық Банк&quot; ғимараты маңы</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,007</td>
@@ -407,26 +334,26 @@
 <td>Жиынтығы</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>0,763</td>
+<td>0,805</td>
 </tr>
 <tr>
 <td rowspan="4">Барлығы</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>3,5983</td>
+<td>4,2481</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,6395</td>
+<td>Cuscuta sp.​sp</td>
+<td>0,138</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>11,07</td>
+<td>11,5</td>
 </tr>
 <tr>
 <td></td>

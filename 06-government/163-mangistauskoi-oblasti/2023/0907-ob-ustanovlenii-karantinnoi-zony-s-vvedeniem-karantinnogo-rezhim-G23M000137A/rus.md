@@ -21,12 +21,11 @@
 > *Приложение*  
 > *к постановлению акимата*  
 > *Мангистауской области*  
-> *от «7» сентября 2023 года*  
-> *№ 137*
+> *от «07» сентября 2023 года № 137*
 
 ## Карантинная зона с введением карантинного режима
 
-> *Сноска. Приложение в редакции постановления акимата Мангистауской области от 05.09.2025 № 187 (вводится в действие со дня его первого официального опубликования).*
+> *Сноска. Приложение в редакции постановлений акимата Мангистауской области от 05.09.2025 № 187 (вводится в действие со дня его первого официального опубликования); от 11.11.2026 № 206 (вводится в действие со дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -37,7 +36,7 @@
 <td>Пораженная площадь, гектар</td>
 </tr>
 <tr>
-<td rowspan="19">Бейнеуский район</td>
+<td rowspan="17">Бейнеуский район</td>
 <td rowspan="2">Акжигит</td>
 <td>внутри села &quot;Акжигит&quot;</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -50,25 +49,20 @@
 </tr>
 <tr>
 <td rowspan="2">Сынгырлау</td>
-<td>во дворе школы села &quot;Сынгырлау&quot;</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,0084</td>
-</tr>
-<tr>
 <td>пастбища села &quot;Сынгырлау&quot;</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,5661</td>
 </tr>
 <tr>
-<td rowspan="6">Бейнеу</td>
+<td>во дворе школы села &quot;Сынгырлау&quot;</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>0,0084</td>
+</tr>
+<tr>
+<td rowspan="5">Бейнеу</td>
 <td>пастбища села &quot;Ески Бейнеу&quot;</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,001</td>
-</tr>
-<tr>
-<td>вдоль улицы имени Д. Тажиулы</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,002</td>
 </tr>
 <tr>
 <td>территория ТОО &quot;Жибек жолы&quot;</td>
@@ -86,9 +80,9 @@
 <td>0,003</td>
 </tr>
 <tr>
-<td>территория коммунального государственного учреждения &quot;Бейнеуский лицей&quot; Отдела образования по Бейнеускому району Управления образования Мангистауской области</td>
+<td>Лес «Есенгали»</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>0,004</td>
+<td>0,0338</td>
 </tr>
 <tr>
 <td>Боранкул</td>
@@ -106,44 +100,50 @@
 <td>Итого</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1,1422</td>
+<td>1,17</td>
 </tr>
 <tr>
 <td rowspan="4">Бейнеу</td>
 <td>вдоль улицы Ер Косай</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,014</td>
 </tr>
 <tr>
-<td>территория коммунального государственного учреждения &quot;Общеобразовательная школа имени Ы. Алтынсарина&quot; Отдела образования по Бейнеускому району Управления образования Мангистауской области</td>
-<td>Cuscuta sp.sp</td>
-<td>0,33</td>
-</tr>
-<tr>
 <td>территория коммунального государственного учреждения &quot;Общеобразовательная школа имени Жумагали Калдыгараева&quot; Отдела образования по Бейнеускому району Управления образования Мангистауской области</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,034</td>
 </tr>
 <tr>
 <td>территория коммунального государственного учреждения &quot;Бейнеуский лицей&quot; Отдела образования по Бейнеускому району Управления образования Мангистауской области</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,08</td>
 </tr>
 <tr>
-<td></td>
 <td>территория коммунального государственного учреждения &quot;Бейнеуская гимназия&quot; Отдела образования по Бейнеускому району Управления образования Мангистауской области</td>
-<td>Cuscuta sp.sp</td>
+<td>Cuscuta sp.​sp</td>
 <td>0,01</td>
 </tr>
 <tr>
 <td>Итого</td>
 <td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,468</td>
+<td>Cuscuta sp.​sp</td>
+<td>0,138</td>
 </tr>
 <tr>
-<td rowspan="6">Каракиянский район</td>
-<td rowspan="4">Курык</td>
+<td rowspan="8">Каракиянский район</td>
+<td>Трасса Жанаозен - Актау</td>
+<td>вдоль автомобильной дороги (17км)</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>Итого</td>
+<td></td>
+<td>Acroptilon repens (D.C.)</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td rowspan="5">Курык</td>
 <td>территория КХ &quot;Рысбек&quot;</td>
 <td>Tuta absoluta</td>
 <td>1,5</td>
@@ -151,20 +151,19 @@
 <tr>
 <td>территория КХ &quot;Даулет&quot;</td>
 <td>Tuta absoluta</td>
-<td>1,5</td>
+<td>1</td>
 </tr>
 <tr>
 <td>территория КХ &quot;Енбек&quot;</td>
 <td>Tuta absoluta</td>
-<td>4</td>
+<td>1</td>
 </tr>
 <tr>
 <td>территория КХ &quot;Жанбыршы&quot;</td>
 <td>Tuta absoluta</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<td></td>
 <td>территория КХ &quot;Нысанәлі&quot;</td>
 <td>Tuta absoluta</td>
 <td>2</td>
@@ -173,38 +172,32 @@
 <td>Итого</td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>10</td>
+<td>7,5</td>
 </tr>
 <tr>
 <td rowspan="3">Мунайлинский район</td>
 <td rowspan="2">Мунайли</td>
-<td>территория КХ &quot; Айкүн &quot;</td>
+<td>«Жеке Батыр»</td>
 <td>Tuta absoluta</td>
-<td>0,07</td>
+<td>2</td>
 </tr>
 <tr>
-<td>территория КХ &quot; Анар &quot;</td>
+<td>Территория КХ &quot;Анар&quot;</td>
 <td>Tuta absoluta</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>Итого</td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>1,07</td>
+<td>4</td>
 </tr>
 <tr>
-<td rowspan="32">город Актау</td>
+<td rowspan="18">город Актау</td>
 <td>Шыгыс-3</td>
 <td>вдоль автомобильной дороги</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,001</td>
-</tr>
-<tr>
-<td>29 микрорайон</td>
-<td>вдоль автомобильной дороги</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,3</td>
 </tr>
 <tr>
 <td>16 микрорайон</td>
@@ -219,34 +212,16 @@
 <td>0,01</td>
 </tr>
 <tr>
-<td>2 микрорайон</td>
+<td>4а микрорайон</td>
 <td>территория парка &quot;Акбота&quot;</td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1</td>
+<td>1,0</td>
 </tr>
 <tr>
 <td>22 микрорайон</td>
 <td>вдоль автомобильной дороги</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,022</td>
-</tr>
-<tr>
-<td>21 микрорайон</td>
-<td>возле дома 37/1</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,3</td>
-</tr>
-<tr>
-<td>29а микрорайон</td>
-<td>вдоль автомобильной дороги</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,01</td>
-</tr>
-<tr>
-<td>31а микрорайон</td>
-<td>вдоль автомобильной дороги</td>
-<td>Acroptilon repens (D.C.)</td>
-<td>0,01</td>
 </tr>
 <tr>
 <td>25 микрорайон</td>
@@ -264,13 +239,13 @@
 <td>Итого</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>1,6931</td>
+<td>1,0731</td>
 </tr>
 <tr>
 <td>9 микрорайон</td>
 <td>вдоль автомобильной дороги</td>
 <td rowspan="2">Pseudococcus comstocki kuw</td>
-<td rowspan="2">0,06</td>
+<td rowspan="2">0,05</td>
 </tr>
 <tr>
 <td>26 микрорайон</td>
@@ -278,9 +253,9 @@
 </tr>
 <tr>
 <td>13 микрорайон</td>
-<td>возле домов 24,50, 52Б</td>
+<td>возле домов 24,50, 52</td>
 <td rowspan="7">Pseudococcus comstocki kuw</td>
-<td rowspan="7">0,0602</td>
+<td rowspan="7">0,0702</td>
 </tr>
 <tr>
 <td>14 микрорайон</td>
@@ -304,7 +279,7 @@
 </tr>
 <tr>
 <td>27 микрорайон</td>
-<td>возле дома 65, 25, 42, 45,47</td>
+<td>возле дома 65, 15, 25, 42, 45,47</td>
 </tr>
 <tr>
 <td>Итого</td>
@@ -313,67 +288,19 @@
 <td>0,1202</td>
 </tr>
 <tr>
-<td>29 микрорайон</td>
-<td>возле дома 202</td>
-<td>Cuscuta sp.sp</td>
-<td>0,008</td>
+<td rowspan="8">город Жанаозен</td>
+<td>микрорайон Жулдыз, улица Жынгылды</td>
+<td>перед школы 21</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>0,024</td>
 </tr>
 <tr>
-<td>30 микрорайон</td>
-<td>возле домов 80,83,157,133/1</td>
-<td>Cuscuta sp.sp</td>
-<td>0,009</td>
+<td>улица Насипкали Марабаева</td>
+<td>Перед банкетными залами GRANDTAU и Нурдаулет</td>
+<td>Acroptilon repens (D.C.)</td>
+<td>0,018</td>
 </tr>
 <tr>
-<td>&quot;Толкын-1&quot; микрорайон</td>
-<td>возле домов 24,48,98,115</td>
-<td>Cuscuta sp.sp</td>
-<td>0,008</td>
-</tr>
-<tr>
-<td>22 микрорайон</td>
-<td>Арыстан арена автомобильной дороги</td>
-<td>Cuscuta sp.sp</td>
-<td>0,02</td>
-</tr>
-<tr>
-<td>30 микрорайон</td>
-<td>Kazfruit</td>
-<td>Cuscuta sp.sp</td>
-<td>0,012</td>
-</tr>
-<tr>
-<td>21 микрорайон</td>
-<td>37/1</td>
-<td>Cuscuta sp.sp</td>
-<td>0,03</td>
-</tr>
-<tr>
-<td>База ОРС</td>
-<td>Темір жол өткелі</td>
-<td>Cuscuta sp.sp</td>
-<td>0,068</td>
-</tr>
-<tr>
-<td>Промзона</td>
-<td>Промзона 3</td>
-<td>Cuscuta sp.sp</td>
-<td>0,0015</td>
-</tr>
-<tr>
-<td>Өмірзақ</td>
-<td>Өмірзақ</td>
-<td>Cuscuta sp.sp</td>
-<td>0,015</td>
-</tr>
-<tr>
-<td>Итого</td>
-<td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,1715</td>
-</tr>
-<tr>
-<td rowspan="6">город Жанаозен</td>
 <td>3 микрорайон</td>
 <td>вдоль здания дома культуры &quot;Мунайшы&quot;</td>
 <td>Acroptilon repens (D.C.)</td>
@@ -386,7 +313,7 @@
 <td>0,007</td>
 </tr>
 <tr>
-<td>посолек Рахат</td>
+<td>поселок Рахат</td>
 <td>вдоль автомобильной дороги</td>
 <td>Acroptilon repens (D.C.)</td>
 <td>0,125</td>
@@ -407,26 +334,26 @@
 <td>Итого</td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>0,763</td>
+<td>0,805</td>
 </tr>
 <tr>
 <td rowspan="4">Всего</td>
 <td></td>
 <td></td>
 <td>Acroptilon repens (D.C.)</td>
-<td>3,5983</td>
+<td>4,2481</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>Cuscuta sp.sp</td>
-<td>0,6395</td>
+<td>Cuscuta sp.​sp</td>
+<td>0,138</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Tuta absoluta</td>
-<td>11,07</td>
+<td>11,5</td>
 </tr>
 <tr>
 <td></td>
