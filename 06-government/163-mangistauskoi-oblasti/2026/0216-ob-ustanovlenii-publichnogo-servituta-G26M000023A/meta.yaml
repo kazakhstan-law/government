@@ -17,9 +17,25 @@ versions:
   languages:
   - kaz
   - rus
+- date: 2026-11-22
+  portal_date: 2026-10-20
+  languages:
+  - kaz
+  - rus
+  cause:
+    code: '232314'
+    key: G26M000191A
 version_date:
-  kaz: 2026-02-16
-  rus: 2026-02-16
+  kaz: 2026-10-20
+  rus: 2026-10-20
 source:
-  kaz: https://zan.gov.kz/client/#!/doc/222431/kaz/16.02.2026
-  rus: https://zan.gov.kz/client/#!/doc/222431/rus/16.02.2026
+  kaz: https://zan.gov.kz/client/#!/doc/222431/kaz/20.10.2026
+  rus: https://zan.gov.kz/client/#!/doc/222431/rus/20.10.2026
+caused_by:
+  code: '232314'
+  key: G26M000191A
+  requisite: Постановление акимата Мангистауской области от 20 октября 2026 года № 191
+  title:
+    rus: Об внесений изменения в постановление акимата Мангистауской области от 16 февраля 2026 года № 23 «Об установлении публичного сервитута»
+    kaz: Маңғыстау облысы әкімдігінің 2026 жылғы 16 ақпандағы № 23 «Қауымдық сервитут белгілеу туралы» қаулысына өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/232314/rus
